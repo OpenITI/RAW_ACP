@@ -370,7 +370,7 @@ at Universität Hamburg."""
 # based on the analysis from 0_explore_data.py:
 library_URIs = {
     'BNF': 'MS0033ParisBNF',
-    'Gotha': 'MS0049Gotha',
+    'Gotha': 'MS0049GothaFB',
     'Khalidi Library': 'MS0972JerusalemKhalidi',
     'Leiden University Libraries': 'MS0031LeidenUL',
     'Real Biblioteca del Monasterio de El Escorial': 'MS0034Escorial',
@@ -382,7 +382,7 @@ library_URIs = {
 
 library_fn_URIs = {
     'bnf': 'MS0033ParisBNF',
-    'gotha': 'MS0049Gotha',
+    'gotha': 'MS0049GothaFB',
     'khalidi_library': 'MS0972JerusalemKhalidi',
     'kfcris': 'MS0966RiyadKfcris',
     'king_faisal_center_for_research_and_islamic_studies': 'MS0966RiyadKfcris',
@@ -706,6 +706,7 @@ def parse_fn(fn, library_fn_regex):
     #print([lib, shelfmark, page, side, note_no])
     return lib, shelfmark, page, side, note_no
 
+
 library_fn_regex = "|".join(library_fn_URIs.keys())
 library_fn_regex = "(?:" + library_fn_regex + ")"
 #fn_regex = rf"msnote_auditioncertificate_({library_fn_regex})_(\w+?)_([IVXL\d]+)([rvab]?)(?:_n_)??(\d*?)\.json"
@@ -719,7 +720,7 @@ tsv = []
 text_d = defaultdict(list)
 meta_d = dict()
 header = "filename\tlibrary\tshelfmark\t"
-folder = "msnotesannotator_audition_certificates_data-master"
+folder = "json"
 i = 1
 for fn in os.listdir(folder):
     #print(fn)
