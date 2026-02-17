@@ -1,0 +1,410 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن أحمد السلفي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/54298152"
+      ],
+      "work_title": [
+        "الأربعون"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 722"
+      ],
+      "folio_number": [
+        "42r- 42v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11004961m/f45.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11004961m/f45.image.r=%22Arabe%20722%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "644"
+        ]
+      },
+      "endIndex": 640,
+      "guid": "0b6fdd95-7ec6-464c-a887-a49e308c824e",
+      "startIndex": 591,
+      "text": "لتسع ليال إن بقين من شوال سنة أربع وأربعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 377,
+      "guid": "0be3d8eb-8470-4516-a792-09594114cc8c",
+      "startIndex": 346,
+      "text": "محمد بن أبي الفضل السلمي المغربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "15ffac74-f83d-4733-8d11-8bd58b930558",
+      "startIndex": 206,
+      "text": "إبراهيم بن عبد الله [الأسني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "hijaz",
+            "mecca",
+            "haram_al-sharif"
+          ]
+        ]
+      },
+      "endIndex": 589,
+      "guid": "250cc2b9-80be-4b4b-81fd-884af4d49753",
+      "startIndex": 558,
+      "text": "الحرم الشريف تجاه الكعبة المشرفة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 296,
+      "guid": "25da67ba-aae8-4501-a41d-17e734bf8f63",
+      "startIndex": 294,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 483,
+      "guid": "30931192-9aa9-4ef8-887e-be73f093c7c0",
+      "startIndex": 424,
+      "text": "أبو المعالي محمد بن أبي بكر بن محمد بن أحمد بن علي القسطلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "32db2198-3018-4080-8bff-3b52f4191731",
+      "startIndex": 89,
+      "text": "ابن مهاجر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "48b325f8-07b1-4cc7-bbc3-80a29587f47f",
+      "startIndex": 285,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "6cdb1603-b288-442c-9b47-746108e9aee5",
+      "startIndex": 150,
+      "text": "التاج محمد بن محمد بن الخادم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 392,
+      "guid": "73895007-cd0d-4cee-9fd9-f80d870b1d91",
+      "startIndex": 386,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 529,
+      "guid": "785ad635-cbf8-46d8-99cc-f0d399c4269e",
+      "startIndex": 507,
+      "text": "أحمد بن عبد الله الطبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "7cfa9fdc-c6d9-4f43-9f7c-850c6b1730d3",
+      "startIndex": 299,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "804766ca-1463-4ded-945d-6ad62a784b5a",
+      "startIndex": 19,
+      "text": "أبي عبد الله محمد بن أحمد بن حيدر ويُعرف بابن الطحان الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "825c4c36-18fe-4c32-ad5e-7ed132c41fcf",
+      "startIndex": 279,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 529,
+      "guid": "a25422db-2281-49af-8e13-e3bdb5718a81",
+      "startIndex": 486,
+      "text": "أبو عبد الله محمد بن أحمد بن عبد الله الطبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "adfd6e80-2416-4479-8b46-5e3ebcfd92db",
+      "startIndex": 237,
+      "text": "محمد بن إبراهيم بن الطبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 383,
+      "guid": "d3dccc95-caa7-4726-87b1-28b638ce16b3",
+      "startIndex": 380,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 318,
+      "guid": "f35b2a2a-cabc-43cc-9ab7-1a235ec9dcdc",
+      "startIndex": 309,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "fee95886-b174-4c32-9b0b-0785416cad8d",
+      "startIndex": 107,
+      "text": "محمد بن يعقوب بن إبراهيم بن النحاس الحلبي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع ذلك أيضًا على أبي عبد الله محمد بن أحمد بن حيدر ويُعرف بابن الطحان الصوفي بسماعه من ابن مهاجر الجماعة محمد بن يعقوب بن إبراهيم بن النحاس الحلبي والتاج محمد بن محمد بن الخادم\nBNF, Arabe 722, 42v\nوالشيخ إبراهيم بن عبد الله [الأسني؟] ومحمد بن إبراهيم بن الطبري وأولاده الثلاثة أحمد وإبراهيم وعلي وعبد الله وعبد الرحمن ابنا محمد بن محمد الطبري ومحمد بن أبي الفضل السلمي المغربي وأحمد وإبراهيم ابنا يعقوب بن أبي بكر الطبري وأبو المعالي محمد بن أبي بكر بن محمد بن أحمد بن علي القسطلاني وأبو عبد الله محمد بن أحمد بن عبد الله الطبري بقراءة والده والسماع بخطه بالحرم الشريف تجاه الكعبة المشرفة لتسع ليال إن بقين من شوال سنة أربع وأربعين وستماية"
+}

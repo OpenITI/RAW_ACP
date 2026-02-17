@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أيوب بن يحيى بن ضريس الرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث ابن ضريس وغيره"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 55 "
+      ],
+      "classmark": [
+        "3748/6"
+      ],
+      "folio_number": [
+        "143r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "2334802e-4231-45e4-871c-95c3d1981eb9",
+      "startIndex": 162,
+      "text": "زاهر الشحامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 40,
+      "guid": "6e5465b3-1686-4635-aa15-421ba8130682",
+      "startIndex": 16,
+      "text": "محمد بن مكي بن أبي الرجاء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "9cf0a5c2-be87-4fca-b523-a9181dc01c3b",
+      "startIndex": 226,
+      "text": "أم سلمة جوهر ملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "aa8f2e09-77bc-469f-a035-4643b00d0c4d",
+      "startIndex": 79,
+      "text": "جمال الدين أبي الرجاء محمد بن أبي المعالي بن أبي الرجاء المدعو بمله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "c7f345e8-d124-4ef5-b60b-add984e2e7d0",
+      "startIndex": 244,
+      "text": "أبو الرجاء محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "586"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "da052ee3-de9a-4778-b93c-b4b27df3e23b",
+      "startIndex": 294,
+      "text": "يوم الثلاثاء السادس من جمادى الأولى لسنة ست وثمانين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+
+          ]
+        ]
+      },
+      "endIndex": 287,
+      "guid": "fbfbf734-42c1-4962-9eea-106a9252d404",
+      "startIndex": 277,
+      "text": " دار القارئ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "fdf0f7a2-1b69-47f5-be3b-68cd545b7ebe",
+      "startIndex": 200,
+      "text": "أبو [المعالي؟] عبد الأول",
+      "type": "person"
+    }
+  ],
+  "text": " قرأ جميع الجزء محمد بن مكي بن أبي الرجاء غفر الله له وهذا خطه على الشيخ الأجل جمال الدين أبي الرجاء محمد بن أبي المعالي بن أبي الرجاء المدعو بمله بسماعه إياه عن زاهر الشحامي فسمعه أولاده الثلاثة وهم أبو [المعالي؟] عبد الأول وأم سلمة جوهر ملك وأبو الرجاء محمد حضر وأمهم وذلك في دار القارئ ضحوة يوم الثلاثاء السادس من جمادى الأولى لسنة ست وثمانين وخمس ماية"
+}

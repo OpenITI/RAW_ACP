@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاضي أبو يعلى محمد بن الحسين بن محمد الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي يعلى الفراء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 128"
+      ],
+      "classmark": [
+        "3763/5"
+      ],
+      "folio_number": [
+        "48v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "553436f5-9e23-4c0c-b5c3-346eeaf06808",
+      "startIndex": 95,
+      "text": " أبي عبد الله الحسين بن سعيد بن الحسين بن شنيف الدارقزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "608"
+        ]
+      },
+      "endIndex": 420,
+      "guid": "733ceacb-4aa2-415f-8c0b-213997d52e84",
+      "startIndex": 373,
+      "text": " الأربعاء ثامن عشر ربيع الأول من سنة ثمان وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "b0e5d938-76a0-4b42-b5ee-bf9f16675055",
+      "startIndex": 221,
+      "text": "أبي نصر عبد الرحيم بن هبة الله بن وهبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 560,
+      "guid": "bd2b4426-90df-4a01-94c7-5740fdb55ec2",
+      "startIndex": 541,
+      "text": "أحمد بن محمد الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 304,
+      "guid": "cd8da3fe-fbad-4d7a-bdfa-d646106077a0",
+      "startIndex": 272,
+      "text": "علي بن عبد العزيز بن محمود الأخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "e2e02a10-3fa4-4bfa-aa9f-08a9f4370ca8",
+      "startIndex": 175,
+      "text": "أبي بكر الأنصاري عن أبي يعلى بن الفراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 348,
+      "guid": "fa908c87-8cea-4432-b59f-47873e8df10a",
+      "startIndex": 307,
+      "text": "أبو منصور محمد ابن علي بن عبد الصمد المقرئ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع المجلس الثاني من أمالي ابن الفراء والأول قبله والثالث والرابع والخامس على الشيخ الأمين أبي عبد الله الحسين بن سعيد بن الحسين بن شنيف الدارقزي بسماعه للجميع من القاضي أبي بكر الأنصاري عن أبي يعلى بن الفراء بقراءة أبي نصر عبد الرحيم بن هبة الله بن وهبان جماعة منهم علي بن عبد العزيز بن محمود الأخضر وأبو منصور محمد ابن علي بن عبد الصمد المقرئ وكتب السماع وذلك في يوم الأربعاء ثامن عشر ربيع الأول من سنة ثمان وستمية وقرأت المجلس السادس عليه بسماعه من القاضي أبي بكر وذلك في ثاني جمادى الأولى من سنة ثمان وستمية كتبه ابن عبد الصمد نقله أحمد بن محمد الظاهري من خط ابن عبد الصمد مختصرا"
+}

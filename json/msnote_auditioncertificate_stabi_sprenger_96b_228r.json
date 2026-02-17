@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96b"
+      ],
+      "folio_number": [
+        "228r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1769442294/1200/0/00000461.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00010967"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 478,
+      "guid": "0206d0c1-6c85-489d-9fd6-f4a6fd133379",
+      "startIndex": 461,
+      "text": "عمر الحريري القوصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 854,
+      "guid": "2e0c3153-5571-464f-a5c3-4f5a330599f0",
+      "startIndex": 805,
+      "text": "مصر المحروسة بدار الفاضل المطلة على صناعة [التمر؟]",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "3811d433-0f01-465c-aeaa-4c123eae5a41",
+      "startIndex": 247,
+      "text": "ابن رفاعة السعدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "3cee2697-7e40-4268-9ae1-c755707e28a5",
+      "startIndex": 103,
+      "text": "أبي عيسى عبد الله بن عبد الواحد بن علاق عُرف بابن الحجاج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 789,
+      "guid": "685b5906-9d55-4ee3-935a-4e20726e372d",
+      "startIndex": 712,
+      "text": "عماد الدين أبي الهدى أحمد بن القاضي محيي الدين عبد الله بن عين الدولة الصفراوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "664"
+        ]
+      },
+      "endIndex": 936,
+      "guid": "8d1de3cf-c156-4b16-9a94-0b10f41708f0",
+      "startIndex": 858,
+      "text": " يوم الثلاثاء الثامن والعشرين من شهر جمادى الآخر الذي من سنة أربع وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 677,
+      "guid": "94271d3e-1bd2-4cac-b205-69799fa00c10",
+      "startIndex": 631,
+      "text": " نجم الدين أبو الوفا راجح بن علي بن راجح الازدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt / Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "fe2ad24f-a461-4406-9d79-439cb241220e"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1020,
+      "guid": "95422b9c-ab3b-4dc5-b3fd-fc34ebd2c9bc",
+      "startIndex": 983,
+      "text": "عثمان بن محمد بن عثمان التوزري المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "bb1b0f10-f212-409e-9e33-236db1f306c4",
+      "startIndex": 180,
+      "text": "صنيعة الملك أبي محمد هبة الله بن يحيى بن علي بن حيدرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 549,
+      "guid": "c530d079-aa49-4a59-af69-95b9479eab6e",
+      "startIndex": 509,
+      "text": "ناصر الدين ناصر بن الموفق بن الفرج السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 451,
+      "guid": "c6191a62-62c7-4316-9fe5-26299e8dc944",
+      "startIndex": 363,
+      "text": "كمال الدين أبو العباس أحمد بن القاضي أبي محمد عبد القوي بن عبد الله بن شداد الربعي القوصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 609,
+      "guid": "f1f5a871-1878-4183-8cc1-6ce583560450",
+      "startIndex": 559,
+      "text": "نور الدين أبو الحسن علي بن أبي الوحش بن أحمد العيني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذه المجلدة المحتوية على ثلاثة أجزاء الوزير أبي القاسم وما قبلها من المجلدات على الشيخ الأجل أبي عيسى عبد الله بن عبد الواحد بن علاق عُرف بابن الحجاج بحق سماعه من القاضي صنيعة الملك أبي محمد هبة الله بن يحيى بن علي بن حيدرة بحق سماعه من ابن رفاعة السعدي وبسنده فيه فسمع السادة الأجلاء الفقيه الإمام العالم الصدر الرئيس الكامل الفاضل القاضي العدل الأمين كمال الدين أبو العباس أحمد بن القاضي أبي محمد عبد القوي بن عبد الله بن شداد الربعي القوصي والزاهد عمر الحريري القوصي والفقيه الإمام العالم النحوي ناصر الدين ناصر بن الموفق بن الفرج السلمي والفقيه نور الدين أبو الحسن علي بن أبي الوحش بن أحمد العيني والمولى الأجل الفاضل نجم الدين أبو الوفا راجح بن علي بن راجح الازدي والفقيه قطب الدين محمد بن القاضي عماد الدين أبي الهدى أحمد بن القاضي محيي الدين عبد الله بن عين الدولة الصفراوي وصح ذلك وثبت بمصر المحروسة بدار الفاضل المطلة على صناعة [التمر؟] في يوم الثلاثاء الثامن والعشرين من شهر جمادى الآخر الذي من سنة أربع وستين وستمائة [...]\nوكتب عبد الله وأحوجهم إلى عفوه ومغفرته عثمان بن محمد بن عثمان التوزري المالكي عفا الله عنه ولطف به والحمد لله وحده وصلواته على سيدنا محمد ألحق فيه ما مثاله من تجزئة ثلاثين وهو [صحيح]"
+}

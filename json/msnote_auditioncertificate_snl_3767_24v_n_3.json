@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن عبد العزيز المديني المصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي مطيع المصري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 156"
+      ],
+      "classmark": [
+        "3767"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "40fcda33-6768-4a31-9cfc-346245aa4de0",
+      "startIndex": 145,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "685"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "8f92f7b5-faa9-438b-8909-696ef4c99794",
+      "startIndex": 216,
+      "text": "الأربعاء السابع عشر من رمضان سنة خمس وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "b4438f5f-7b4c-434f-8d2b-4d3f075b0e91",
+      "startIndex": 105,
+      "text": "ضياء الدين أبي المعالي محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "b74a5a02-0b12-410b-8c34-baccb5876a56",
+      "startIndex": 136,
+      "text": "القزويني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "bcd1c0fd-a54b-40cb-9797-4b59cd4911dd",
+      "startIndex": 39,
+      "text": "كمال الدين أبي العباس أحمد بن محمد بن عبد القاهر بن النصيبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 271,
+      "guid": "f15553af-137f-417f-baa2-76a164658abc",
+      "startIndex": 269,
+      "text": "حلب",
+      "type": "place"
+    }
+  ],
+  "text": "وسمع ذلك على الشيخين الجليلين الرئيسين كمال الدين أبي العباس أحمد بن محمد بن عبد القاهر بن النصيبي وأخيه ضياء الدين أبي المعالي محمد عن القزويني يوسف بن الزكي عبد الرحمن بن يوسف المزي بقراءته وهذا خطه وصح ذلك في يوم الأربعاء السابع عشر من رمضان سنة خمس وثمانين وستمية بحلب"
+}

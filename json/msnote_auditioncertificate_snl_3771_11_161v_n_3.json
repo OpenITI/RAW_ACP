@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي بن عاصم ابن المقرئ الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرخصة في تقبيل اليد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 181"
+      ],
+      "classmark": [
+        "3771/11"
+      ],
+      "folio_number": [
+        "161v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "715"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "1e0a0cb3-b784-4329-964c-9946669cfe1a",
+      "startIndex": 123,
+      "text": "الثلثاء ثامن عشر رمضان سنة خمس عشرة وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "35073c0e-09cd-49fd-82e0-ec145a88f343",
+      "startIndex": 17,
+      "text": "أبي الفضل سليمان بن حمزة بن أحمد بن عمر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "d3c9f0d0-0d8a-413f-b07c-57fde6d43ca4",
+      "startIndex": 105,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "f2cecdb2-b0ba-48ec-bafe-a9a9b909d627",
+      "startIndex": 72,
+      "text": "ابن المحب",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على القاضي أبي الفضل سليمان بن حمزة بن أحمد بن عمر المقدسي بقراءة ابن المحب أيضا ومن خطه لخصت ابنه محمد في 4 وصح يوم الثلثاء ثامن عشر رمضان سنة خمس عشرة وسبعمائة"
+}

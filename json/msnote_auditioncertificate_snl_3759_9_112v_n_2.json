@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "سريج بن يونس بن إبراهيم بن شعيب البلخي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب القضاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/9"
+      ],
+      "folio_number": [
+        "112v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 217,
+      "guid": "1bcbc540-cbed-4266-a72f-845b6dc42629",
+      "startIndex": 203,
+      "text": " أبي علي الحداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "6e2cdc42-e16b-43a6-97fb-0f6513e279f1",
+      "startIndex": 182,
+      "text": "أبي جعفر الصيدلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "7d9c6e9f-a32d-41ce-a205-666ffe46e60c",
+      "startIndex": 30,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "680"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "8876e261-75aa-4868-b92b-f5aee545f37a",
+      "startIndex": 79,
+      "text": "يوم الثلثا سلخ محرم سنة ثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 127,
+      "guid": "f1fcf326-ce33-4bb9-be65-2234913c9581",
+      "startIndex": 118,
+      "text": "سفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "f9b5892c-cc13-4cc7-a4b3-2ebe01cb3d58",
+      "startIndex": 74,
+      "text": "محمد ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي أخوه محمد يوم الثلثا سلخ محرم سنة ثمانين وستمية بسفح قاسيون وكتاب الأربعين على مذهب الصوفية لأبي نعيم بإجازته من أبي جعفر الصيدلاني عن أبي علي الحداد عنه "
+}

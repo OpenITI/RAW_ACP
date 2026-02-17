@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "53r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "2faf4ea9-fa82-4307-b8a8-52df84b28cea",
+      "startIndex": 36,
+      "text": "إسماعيل بن عبد الغافر الفارسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "611d91c7-d93d-44d0-96ae-dedd2c8652d1",
+      "startIndex": 69,
+      "text": " أبي الحسين بن النقور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "456"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "d8ae3540-3ff9-40a7-ae6a-08c5a3bde98d",
+      "startIndex": 100,
+      "text": "رمضان سنة ست وخمسين وأربعماية",
+      "type": "date"
+    }
+  ],
+  "text": "وفيه بخط إسماعيل بن عبد الغافر قرأه إسماعيل بن عبد الغافر الفارسي على أبي الحسين بن النقور في |شهر| رمضان سنة ست وخمسين وأربعماية"
+}

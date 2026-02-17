@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "177r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f181.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f181.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "219de5f3-1475-423d-b68e-fb3b476ba017",
+      "index": 196,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "شمس الدين محمد بن إبراهيم بن غنائم ابن المهندس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "686"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "663aba12-d6c9-4467-b129-3897c3b47190",
+      "index": 198,
+      "isZeroPoint": false,
+      "startIndex": 188,
+      "text": "يوم الجمعة عاشر رجب سنة ست وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "779964c2-1c80-4413-8266-ee3b4e498cfd",
+      "index": 195,
+      "isZeroPoint": false,
+      "startIndex": 74,
+      "text": "القاسم بن محمد بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 278,
+      "guid": "9c49b724-6fd3-4ddd-bbc6-4bbb6c6e39d8",
+      "index": 200,
+      "isZeroPoint": false,
+      "startIndex": 266,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 44,
+      "guid": "d40add43-8033-41d9-9a45-24bc3fbfa701",
+      "index": 193,
+      "isZeroPoint": false,
+      "startIndex": 10,
+      "text": "أم أحمد زينب بنت مكي ين علي بن كامل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "ribad_nasiri"
+          ]
+        ]
+      },
+      "endIndex": 244,
+      "guid": "edb4ab78-68bf-4485-91f9-80904efed7ea",
+      "index": 199,
+      "isZeroPoint": false,
+      "startIndex": 231,
+      "text": "الرباط الناصري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "f702d0c9-1102-4d25-a7e3-12906e9da0b9",
+      "index": 197,
+      "isZeroPoint": false,
+      "startIndex": 175,
+      "text": " أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "ff59d564-f6f6-4195-8a6b-27f47256ba0e",
+      "index": 194,
+      "isZeroPoint": false,
+      "startIndex": 57,
+      "text": "ابن طبرزد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على أم أحمد زينب بنت مكي ين علي بن كامل بسماعها من ابن طبرزد بقراءة القاسم بن محمد بن البرزالي والسماع بخطه في الأصل شمس الدين محمد بن إبراهيم بن غنائم ابن المهندس وأخوه أحمد وآخرون يوم الجمعة عاشر رجب سنة ست وثمانين وستمئة بالرباط الناصري بسفح قاسيون\nنقل ذلك محمد بن المحب"
+}

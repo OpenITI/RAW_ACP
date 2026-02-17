@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علاء الدين علي بن سيف الدين بلبان المشرف الناصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مشيخة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 60 "
+      ],
+      "classmark": [
+        "3749/10 غير مفهرسة"
+      ],
+      "folio_number": [
+        "223v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "122aadfd-d498-4f1d-ad9a-ba9222b08c5a",
+      "index": 142,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "يوسف بن الزكي المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 15,
+      "guid": "1a58a29f-ce83-47b8-88fc-d44bd5fb8d2b",
+      "index": 141,
+      "isZeroPoint": false,
+      "startIndex": 10,
+      "text": "خديجة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "360698dc-0dd8-40c5-b4da-8e773a9f61c2",
+      "index": 144,
+      "isZeroPoint": false,
+      "startIndex": 108,
+      "text": "محمد بن طولون الصالحي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "ba1251a2-327e-477c-9c59-903a1a0ea6ed",
+      "index": 143,
+      "isZeroPoint": false,
+      "startIndex": 75,
+      "text": "البدري حسن بن علي الماتاني",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه على خديجة [....] عن [...... الشمس] عن يوسف بن الزكي المزي عنه بقراءة البدري حسن بن علي الماتاني كاتبه محمد بن طولون الصالحي الحنفي لطف الله به"
+}

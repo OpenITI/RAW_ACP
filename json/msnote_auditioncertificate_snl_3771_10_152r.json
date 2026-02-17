@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن الفضل التيمي الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "جزء فيه أحاديث مسلسلات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 180"
+      ],
+      "classmark": [
+        "3771/10"
+      ],
+      "folio_number": [
+        "152r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "653"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "1bf166b3-65b8-441a-b37d-47abc049548b",
+      "startIndex": 183,
+      "text": "الخميس ثاني عشري رجب سنة ثلث وخمسين [وستمية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "8bb939b6-bc47-470a-918f-35c0e9c9b8cc",
+      "startIndex": 263,
+      "text": "ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "8bcc5226-3194-4286-855c-00977de58476",
+      "startIndex": 68,
+      "text": "عبد الرحمن بن رزين الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "9aa9db89-f77d-4213-bb23-86f65b39103b",
+      "startIndex": 143,
+      "text": "أبو بكر بن يوسف بن أبي بكر المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "jawziya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 250,
+      "guid": "a2020a6f-2411-4ab7-a6e8-3f4b425c52a0",
+      "startIndex": 229,
+      "text": "مدرسة ابن الجوزي بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "c7a4de7e-c186-43b1-b382-cf7152c0e9d8",
+      "startIndex": 18,
+      "text": "أبي عبد الله محمد بن إسماعيل بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "e0ed1e69-a316-4657-9db9-8c18509bc144",
+      "startIndex": 106,
+      "text": "أحمد بن عبد الرحمن بن يوسف البعلبكي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الخطيب [أبي عبد الله محمد بن إسماعيل بن أحمد] أيضا بقراءة عبد الرحمن بن رزين الحنبلي جماعة منهم أحمد بن عبد الرحمن بن يوسف البعلبكي وأبو بكر بن يوسف بن أبي بكر المزي في يوم الخميس ثاني عشري رجب سنة ثلث وخمسين [وستمية] بمدرسة ابن الجوزي بدمشق وأجاز نقله ابن المحب ومنه لخصت"
+}

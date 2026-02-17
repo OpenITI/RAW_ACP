@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن سليمان بن حبيب الأسدي المصيصي لوين"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من حديث محمد بن سليمان لوين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 136"
+      ],
+      "classmark": [
+        "3763/23"
+      ],
+      "folio_number": [
+        "281r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "2458691e-9afc-4d23-954c-31ed4ed9a182",
+      "startIndex": 49,
+      "text": "أبو مسلم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "530"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "67090cb2-7a34-456a-9e01-2381f02d121f",
+      "startIndex": 62,
+      "text": "ثلثين وخمسماية في صفر",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "91eaf18a-adb5-4e7e-acf4-02b88c38be3c",
+      "startIndex": 24,
+      "text": "أبي الفضل بن الأخوة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 16,
+      "guid": "971d3129-5ceb-4993-b572-021d027f0386",
+      "startIndex": 10,
+      "text": "الجلال ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الجلال بقراءة أبي الفضل بن الأخوة ابنه أبو مسلم سنة ثلثين وخمسماية في صفر"
+}

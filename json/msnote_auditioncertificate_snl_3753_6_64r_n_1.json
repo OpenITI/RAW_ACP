@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن المفضل بن أحمد الثقفي الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/6"
+      ],
+      "folio_number": [
+        "64r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "khanqah_said"
+          ]
+        ]
+      },
+      "endIndex": 363,
+      "guid": "1e5b733c-b004-4593-8a5b-aa988fc59e01",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 334,
+      "text": "خانقاه سعيد السعداء من القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "5353f3d6-2b3f-4ff1-bf63-3088d4a55082",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 186,
+      "text": "ابن رواحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "642563d3-722a-4fd2-a4ff-5e5521e2dd80",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 219,
+      "text": "محمد بن محمد بن محمد عرف بابن السابق الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "67350566-09e4-4f48-95cf-c36706936e62",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 96,
+      "text": "شمس الدين أبي عبد الله محمد بن محمد بن الحسين الكنجي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 398,
+      "guid": "81c7f106-e4e1-406a-bfc3-a7e930486f8b",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 370,
+      "text": "عبد الله بن حسن بن أبي الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "81de6ab3-c6ed-40dc-9fe8-8b9980fa1e25",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 199,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 331,
+      "guid": "8ecd675a-7509-430c-aff8-f4a76dd3e9ea",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 280,
+      "text": " يوم الاثنين تاسع شهر ذي الحجة سنة تسع وسبعين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": " بلغت قراءة لجميع هذا الجزؤ وهو الثالث من الثقفيات على شيخنا الإمام العالم المفيد العالم العامل شمس الدين أبي عبد الله محمد بن محمد بن الحسين الكنجي الصوفي نفع الله به بحق سما[عه] له من ابن رواحة عن السلفي فسمع بقراءتي محمد بن محمد بن محمد عرف بابن السابق الصوفي والده وصح وثبت في يوم الاثنين تاسع شهر ذي الحجة سنة تسع وسبعين وستمية بخانقاه سعيد السعداء من القاهرة وكتب عبد الله بن حسن بن أبي الحسين عرف والده بإمام جامع الأقمر"
+}

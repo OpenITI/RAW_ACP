@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يعقوب بن يوسف الأصم "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأول و الثاني من حديث أبي العباس محمد بن يعقوب الأصم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 162"
+      ],
+      "classmark": [
+        "3768/7"
+      ],
+      "folio_number": [
+        "149r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "13e61f91-5b24-4d3e-9767-6d583a9271c7",
+      "startIndex": 170,
+      "text": "أبي بكر محمد بن أحمد الطوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "1ef9ca02-c5e3-473e-951e-8a06e7f8494d",
+      "startIndex": 81,
+      "text": "أبي زرعة طاهر بن محمد بن طاهر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 304,
+      "guid": "3e7190c4-173f-4994-8477-fc4385d5ea96",
+      "startIndex": 264,
+      "text": "عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 463,
+      "guid": "429c0482-6623-4fe8-947f-c34d20c48289",
+      "startIndex": 391,
+      "text": "صحيح ذالك [كذا] وكتب أبو زرعة طاهر بن محمد بن طاهر المقدسي بخطه في تاريخه",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10- 20"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "561"
+        ]
+      },
+      "endIndex": 389,
+      "guid": "5279b40d-fa43-4b04-a6fd-ddc87bf24edf",
+      "startIndex": 320,
+      "text": "الثلثاء في العشر الأوسط من شهر جمادى الأولى من سنة إحدى وستين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "a8df31fb-21e3-4878-99b3-66d3f4d32fc7",
+      "startIndex": 130,
+      "text": "أبي الفتح عبدوس بن عبد الله بن عبدوس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "db754294-076b-4d91-bef6-2c3586d58c18",
+      "startIndex": 216,
+      "text": "أبي محمد عبد الغني بن عبد الواحد بن علي بن سرور",
+      "type": "person"
+    }
+  ],
+  "text": "سمع الجزء الثاني والثالث من حديث أبي العباس محمد بن يعقوب الأصم على الشيخ الصالح أبي زرعة طاهر بن محمد بن طاهر المقدسي بروايته عن أبي الفتح عبدوس بن عبد الله بن عبدوس عن أبي بكر محمد بن أحمد الطوسي عنه بقراءة الفقيه أبي محمد عبد الغني بن عبد الواحد بن علي بن سرور عبد الله بن أحمد بن محمد بن قدامة المقدسيان وصح ذلك يوم الثلثاء في العشر الأوسط من شهر جمادى الأولى من سنة إحدى وستين وخمسمائة صحيح ذالك [كذا] وكتب أبو زرعة طاهر بن محمد بن طاهر المقدسي بخطه في تاريخه"
+}

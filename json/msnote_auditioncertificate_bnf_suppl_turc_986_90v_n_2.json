@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو امية الطرسوسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي أمية الطرسوسي وغير ذلك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "90v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f95.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f95.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "0dc03bcc-2868-4286-9d1f-b2fbc0a8a26d",
+      "index": 469,
+      "isZeroPoint": false,
+      "startIndex": 156,
+      "text": "مكرم بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "27e5b864-14c2-4cb9-bf88-f3a5ed2da607",
+      "index": 466,
+      "isZeroPoint": false,
+      "startIndex": 63,
+      "text": "يحيى بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "2f54cdce-6393-4cf5-852b-b6d60d6a1b66",
+      "index": 471,
+      "isZeroPoint": false,
+      "startIndex": 296,
+      "text": " محمد بن عبد الله بن المحب.",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "2f9ba508-b074-4b52-b924-dd8bbd05eec7",
+      "index": 467,
+      "isZeroPoint": false,
+      "startIndex": 84,
+      "text": "القاسم بن المظفر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "83415e68-5ca5-4a8b-a505-0b1a5c51e95f",
+      "index": 468,
+      "isZeroPoint": false,
+      "startIndex": 126,
+      "text": "كريمة ابنة عبد الوهاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "8e4106a5-802c-4240-aa21-c03903a9df49",
+      "index": 470,
+      "isZeroPoint": false,
+      "startIndex": 258,
+      "text": "عبد الرحمن بن أبي الحسن الداراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "a03614a0-5db4-4f2f-ae8f-2831d496d8cb",
+      "index": 465,
+      "isZeroPoint": false,
+      "startIndex": 47,
+      "text": "سليمان بن حمزة",
+      "type": "person"
+    }
+  ],
+  "text": "أخبرنا بهذه الأحاديث من مسند ابن عمر لأبي أمية سليمان بن حمزة ويحيى بن محمد حضوراً والقاسم بن المظفر سماعاً قال سليمان أنبتنا كريمة ابنة عبد الوهاب سماعاً ومكرم بن محمد إجازة وقال يحيى أنبتنا كريمة إجازة وقال القاسم أنبنا مكرم حضوراً وكريمة إجازة  قالا انبا عبد الرحمن بن أبي الحسن الداراني. كتبه محمد بن عبد الله بن المحب."
+}

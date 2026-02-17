@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد العظيم المنذري"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90039178"
+      ],
+      "work_title": [
+        "الترغيب والترهيب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 741"
+      ],
+      "folio_number": [
+        "218v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11004359h/f224.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11004359h/f224.image.r=%22Arabe%20741%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "3eccaa9c-0e4b-4772-b630-a4460f9df72f",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "أمين الدين الأقصرائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "534c1799-4f29-4a89-85df-679c97e81433",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 209,
+      "text": "محمد بن عمر الأخلاطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "73c8af54-8eec-46bb-8666-8e0d18775271",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 83,
+      "text": "صلاح الدين الطرابلسـي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "863"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "ef9d8376-e159-42e3-b3d6-bf2c60d1f025",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": "يوم الأربعاء سادس عشرين شعبان المبارك سنة ثلاث وستين وثمانمائة",
+      "type": "date"
+    }
+  ],
+  "text": "بلغ سماعًا على الشيخ العالم الصالح أمين الدين الأقصرائي نفعنا الله به بقراءة الشيخ صلاح الدين الطرابلسـي وسمع الجماعة وأجاز وذلك في يوم الأربعاء سادس عشرين شعبان المبارك سنة ثلاث وستين وثمانمائة قال ذلك وكتبه محمد بن عمر الأخلاطي"
+}

@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الترمذي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أربعون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 613"
+      ],
+      "folio_number": [
+        "24r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000619"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 574,
+      "guid": "2343e280-e9b3-42ae-a624-3680882e8dcb",
+      "startIndex": 532,
+      "text": " أبو التوفيق محمد بن ألطنبغا الوفائي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 515,
+      "guid": "43789fb2-7a92-49ad-8ab8-7311cb13c020",
+      "startIndex": 497,
+      "text": "يوسف بن حسن النشابي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "865"
+        ]
+      },
+      "endIndex": 757,
+      "guid": "49ab742f-d2e4-472f-ac83-b12e134a43cb",
+      "startIndex": 722,
+      "text": "يوم الأربعاء عاشر ربيع الأول سنة 865",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 670,
+      "guid": "4b647c64-7e80-4f8b-89c1-c6a0135cd157",
+      "startIndex": 624,
+      "text": "أحمد بن محمد بن عمر البارنباري أبو زرعة الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "8a4beef9-3f3d-4829-8448-943e35b1b5a9",
+      "startIndex": 164,
+      "text": " الشهاب السويداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 615,
+      "guid": "97b02b4b-b1a5-4c75-8f6b-43616a0ac0ef",
+      "startIndex": 577,
+      "text": "محمد بن محمد بن محمد بن [صرفاس/ ضرفاس؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "zawiyat_al_nu'maniya"
+          ]
+        ]
+      },
+      "endIndex": 800,
+      "guid": "b3746462-a5b5-4496-b74f-1a715fe55840",
+      "startIndex": 768,
+      "text": "الزاوية النعمانية بقصر الشمع بمصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "ba69a023-beb9-4fd4-a482-7e48222fa0bf",
+      "startIndex": 99,
+      "text": "أم الفضل هاجر عزيزة بنت الشرف القدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 700,
+      "guid": "bf0b25cf-ad20-4f3c-bb14-fb51eb61e1ae",
+      "startIndex": 678,
+      "text": "أبو سهل محمد موفق الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 487,
+      "guid": "d3568d2c-fc38-45f4-aeed-45ae0d36a36a",
+      "startIndex": 418,
+      "text": "برهان الدين أبي إسحق إبراهيم بن نور الدين علي بن أحمد بن بركة النعماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "ee77391f-d4ec-43be-b769-586ed4fc4532",
+      "startIndex": 183,
+      "text": "الجمال الحلاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "f53661a5-94ca-40cd-938c-d4a1dc310af5",
+      "startIndex": 292,
+      "text": "جمال الدين أبي المحاسن يوسف بن الجناب السيفي شاهين الكركي سبط شيخ الإسلام الحافظ شهاب الدين العسقلاني [ا]بن حجر",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله رب العالمين وبعد فقد سمع جميع هذا الجزؤ وهو جزء النيل على الشيخة المكثرة الأصيلة المعمرة أم الفضل هاجر عزيزة بنت الشرف القدسي بروايتها عن الشيخين المسندين الشهاب السويداوي والجمال الحلاوي أجازة مشافهة (في الأصل مشافه) إن لم يكن سماعاً بسماعها فيه بقراءة الشيخ الإمام العلامة المحدث جمال الدين أبي المحاسن يوسف بن الجناب السيفي شاهين الكركي سبط شيخ الإسلام الحافظ شهاب الدين العسقلاني [ا]بن حجر الجماعة الشيخ برهان الدين أبي إسحق إبراهيم بن نور الدين علي بن أحمد بن بركة النعماني والفاضل يوسف بن حسن النشابي والجناب الناصري أبو التوفيق محمد بن ألطنبغا الوفائي الحنفي ومحمد بن محمد بن محمد بن [صرفاس/ ضرفاس؟] وكاتبه أحمد بن محمد بن عمر البارنباري أبو زرعة الشافعي وولده أبو سهل محمد موفق الدين المراهق وصح وثبت في يوم الأربعاء عاشر ربيع الأول سنة 865 بمجلس 1 بالزاوية النعمانية بقصر الشمع بمصر وأجازت ولله الحمد وصلى الله على سيدنا محمد وآله."
+}

@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يحيى بن منصور الشافعي النيسابوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعين المخرجة من مسموعات النيسابوري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/4"
+      ],
+      "folio_number": [
+        "55v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "0f6ff995-c060-4363-bfc7-a894f1ba9de8",
+      "startIndex": 225,
+      "text": "يوم السبت السادس من شوال سنة ثلث وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "25531e50-a4c6-4586-be2f-942365f80788",
+      "startIndex": 375,
+      "text": "أبي بكر بن محمد بن عبد الباقي الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "739766e2-2719-43cd-ac53-08e36c680f83",
+      "startIndex": 132,
+      "text": "أبي علي يحيى بن الربيع بن سليمان بن حراز الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "8b8f2183-6a71-4457-9395-38b31f121597",
+      "startIndex": 183,
+      "text": " أبي سعد محمد بن يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 282,
+      "guid": "8e9d9217-b456-43fd-8acd-d22f842a0784",
+      "startIndex": 274,
+      "text": "فسطاط مصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "af6fdb24-765e-4381-8bc3-68c9c6dff9c4",
+      "startIndex": 333,
+      "text": "أبي علي بن أبي القاسم بن الخريف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "c9ae7487-c354-4921-be24-c2dc61ee4c14",
+      "startIndex": 46,
+      "text": "عز الدين أبي العز عبد العزيز بن عبد المنعم بن علي بن نصر ابن الصيقل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 499,
+      "guid": "cd4c5d72-abb0-4709-982a-4e800cd37231",
+      "startIndex": 440,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف بن عبد الملك بن يوسف المزي ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء على الشيخ الجليل المسند المعمر عز الدين أبي العز عبد العزيز بن عبد المنعم بن علي بن نصر ابن الصيقل الحراني بسماعه من أبي علي يحيى بن الربيع بن سليمان بن حراز الواسطي عن أبي سعد محمد بن يحيى عن شيوخه وصح ذلك في يوم السبت السادس من شوال سنة ثلث وثمانين وستمية بفسطاط مصر وكتاب شرف أصحاب الحديث لأبي بكر الخطيب بسماعه من أبي علي بن أبي القاسم بن الخريف عن القاضي أبي بكر بن محمد بن عبد الباقي الأنصاري عنه كما بين في الأصل وكتب يوسف بن الزكي عبد الرحمن بن يوسف بن عبد الملك بن يوسف المزي "
+}

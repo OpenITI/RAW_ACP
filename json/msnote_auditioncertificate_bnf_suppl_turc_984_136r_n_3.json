@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الله الأنصاري وأبي محمد بن ماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتقا من الأحاديث "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "136r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f139.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f139.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "gaza"
+          ]
+        ]
+      },
+      "endIndex": 137,
+      "guid": "2fceec9e-6ffd-4042-a92a-1dc952ca82dd",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 130,
+      "text": "ظاهر غزة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "82b272e4-17b4-4c68-8eb7-f9a7e0bc8252",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 188,
+      "text": "أبو الفتح بن مظفر بن أبي الفتح بن عبد الغني الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "93cf6c90-3ac5-459b-b74b-bc93f9c4cb8f",
+      "index": 91,
+      "isZeroPoint": false,
+      "startIndex": 52,
+      "text": "فخر الدين أبي الحسن علي بن الشيخ الإمام شمس الدين أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "631"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "ba3676c8-b736-4122-8206-781e6564aa33",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 139,
+      "text": "في سادس ربيع الأول سنة إحدى وثلاثين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزؤ على الفقيه الإمام العالم العامل فخر الدين أبي الحسن علي بن الشيخ الإمام شمس الدين أحمد بن عبد الواحد المقدسي بظاهر غزة في سادس ربيع الأول سنة إحدى وثلاثين وستمائة كتبه أبو الفتح بن مظفر بن أبي الفتح بن عبد الغني الدمشقي"
+}

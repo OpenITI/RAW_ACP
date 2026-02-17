@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن عبيد الله بن عبد الله السمسار الحرفي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي القاسم الحرفي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 51 "
+      ],
+      "classmark": [
+        "3747/13"
+      ],
+      "folio_number": [
+        "164r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "4c555a54-ce22-4887-a05b-a9be7c3d21a1",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 135,
+      "text": "فخر الدين علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "6bc53593-bdf9-4d9b-b24e-6880c5239be1",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 228,
+      "text": "شمس الدين محمد بن إبراهيم بن عياش الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "alexandria"
+          ]
+        ]
+      },
+      "endIndex": 325,
+      "guid": "85926216-76c4-498b-90fc-db15248846c7",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 316,
+      "text": "الإسكندرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "633"
+        ]
+      },
+      "endIndex": 313,
+      "guid": "a1430dc0-c1af-472b-a33b-0a83bd686b4d",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 282,
+      "text": "عاشر صفر سنة ثلاث وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "bec825af-5a63-41ec-87a3-3f7bd40e7683",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 332,
+      "text": "محمد بن عبد الله بن عبد الغني المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "d0275429-efd7-47f9-8e44-e9e306431ae7",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 46,
+      "text": "أبي القاسم عبد الرحمن بن مكي بن الحاسب سبط الحافظ السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "d65067ca-069a-46e2-a384-9aeffde2c14c",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 180,
+      "text": "عبد الباقي بن عبد العزيز بن عبد المنعم الحراني",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء جميعه على الشيخ الإمام العالم أبي القاسم عبد الرحمن بن مكي بن الحاسب سبط الحافظ السلفي بروايته عنه فسمعه الإمام العالم فخر الدين علي بن أحمد بن عبد الواحد المقدسي وعبد الباقي بن عبد العزيز بن عبد المنعم الحراني وشمس الدين محمد بن إبراهيم بن عياش الشافعي وصح وثبت في عاشر صفر سنة ثلاث وثلثين وستماية بالإسكندرية كتبه محمد بن عبد الله بن عبد الغني المقدسي عفا الله عنه والحمد لله وحده وصلى الله على سيدنا محمد وآله وسلم"
+}

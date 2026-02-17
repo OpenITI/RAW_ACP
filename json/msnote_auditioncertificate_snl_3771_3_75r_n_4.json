@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الله بن إبراهيم الشافعي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "مسند موسى بن جعفر"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 178"
+      ],
+      "classmark": [
+        "3771/3"
+      ],
+      "folio_number": [
+        "75r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "561"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "6b022c8e-57ea-44d1-90f1-7d675b501551",
+      "startIndex": 79,
+      "text": "ثامن عشري جمادى الآخر سنة إحدى وستين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "6f92ea4e-da24-4097-8444-d76cb5e489d0",
+      "startIndex": 13,
+      "text": "عمر بن أحمد بن محمد الحسني الزيدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "c7323db0-54ee-441e-b21d-6bc364bb74a5",
+      "startIndex": 66,
+      "text": "البادرائي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "e96bcadc-4382-4a23-9fa7-245a47ab6f2a",
+      "startIndex": 58,
+      "text": "علي ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه الشريف عمر بن أحمد بن محمد الحسني الزيدي بقراء أخيه علي على البادرائي في ثامن عشري جمادى الآخر سنة إحدى وستين وخمسمائة"
+}

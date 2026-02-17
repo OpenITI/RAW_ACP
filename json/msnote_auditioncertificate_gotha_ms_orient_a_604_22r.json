@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 604"
+      ],
+      "folio_number": [
+        "22r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000610"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 108,
+      "guid": "24e0834c-dbf9-455b-8fa9-86adbb14b3cc",
+      "startIndex": 96,
+      "text": "نزله بالقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "38ead4bc-8668-48c7-8401-65176db76371",
+      "startIndex": 69,
+      "text": " ناصر الدين ابن الميلق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "793"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "964995f4-e481-4ee4-9d60-43e3fe19dc8c",
+      "startIndex": 110,
+      "text": "سنة 793",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 32,
+      "guid": "d8071c03-cbde-406c-a52d-837c4734849e",
+      "startIndex": 4,
+      "text": "محمد بن أحمد بن محمد التزمنتي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ محمد بن أحمد بن محمد التزمنتي قراءة في الرابع عشر على قاضي القضاة ناصر الدين ابن الميلق في منزله بالقاهرة سنة 793."
+}

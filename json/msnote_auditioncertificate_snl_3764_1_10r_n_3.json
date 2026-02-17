@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "تمام بن محمد بن عبد الله بن جعفر بن الجنيد البجلي الرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "إسلام زيد بن حارثة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 137"
+      ],
+      "classmark": [
+        "3764/1"
+      ],
+      "folio_number": [
+        "10r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "0a09fb4f-aeab-4873-b90a-ed3e5095fec4",
+      "startIndex": 139,
+      "text": "إسماعيل بن بكار بن ليث",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "0e929bcc-1b3a-44b1-ad13-83fb2da588ba",
+      "startIndex": 35,
+      "text": "أبي طاهر بركات بن إبراهيم بن طاهر الخشوعي القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "591"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "23b4cd99-7499-414e-adde-7805a678b948",
+      "startIndex": 196,
+      "text": "ثامن عشرين جمادى الآخرة سنة إحدى وتسعين وخمس مائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 325,
+      "guid": "40fdfac9-c657-4b8f-b30d-8daf7acff150",
+      "startIndex": 286,
+      "text": "الخضر بن الحسين بن الخضر بن عبدان الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 255,
+      "guid": "4155158b-6fac-46c7-8b11-c5e1b7ab76fe",
+      "startIndex": 247,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "b171eae2-f2e3-4677-b717-f5d81a497b8a",
+      "startIndex": 97,
+      "text": "التقي أبي الوحش بن نسيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "b2239dd3-164a-40d3-8634-3bbd4a675992",
+      "startIndex": 127,
+      "text": "أبوالفوارس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "f3348329-301f-4efa-a3f1-f965d22adb0e",
+      "startIndex": 163,
+      "text": "عثمان بن أبي بكر بن حمزة ",
+      "type": "person"
+    }
+  ],
+  "text": "وبلغت سماعا على الشيخ الأمين الثقة أبي طاهر بركات بن إبراهيم بن طاهر الخشوعي القرشي بقراءة الشيخ التقي أبي الوحش بن نسيم وولده أبوالفوارس وإسماعيل بن بكار بن ليث وعثمان بن أبي بكر بن حمزة وذلك في ثامن عشرين جمادى الآخرة سنة إحدى وتسعين وخمس مائة بجامع دمشق مع العرض إلى أصل السماع وكتب الخضر بن الحسين بن الخضر بن عبدان الأزدي حامدا ومصليا ومسلما تسليما"
+}

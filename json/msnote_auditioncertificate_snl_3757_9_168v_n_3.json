@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "168v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 586,
+      "guid": "102cb123-1180-4a31-963e-5ddf309aa3d9",
+      "index": 163,
+      "isZeroPoint": false,
+      "startIndex": 533,
+      "text": "فخر الدين عثمان بن محمد بن نجيم الحراني الشافعي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 640,
+      "guid": "162dafd3-05b6-4937-8adb-0b38090b20f5",
+      "index": 164,
+      "isZeroPoint": false,
+      "startIndex": 596,
+      "text": "علم الدين القاسم بن محمد بن يوسف ابن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "taqwiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 769,
+      "guid": "19915400-d8a3-4a33-bb93-518587fb59ac",
+      "index": 167,
+      "isZeroPoint": false,
+      "startIndex": 749,
+      "text": "المدرسة التقوية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 510,
+      "guid": "63d36ea3-1526-4c3d-9ac3-64b68c87dc57",
+      "index": 162,
+      "isZeroPoint": false,
+      "startIndex": 452,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 389,
+      "guid": "6ea08a37-5108-44a0-b37b-7210d128cff0",
+      "index": 160,
+      "isZeroPoint": false,
+      "startIndex": 360,
+      "text": "أبي القاسم يحيى بن أحمد السيبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 746,
+      "guid": "8a211ca8-ee82-4e5e-912f-04b05544ecb4",
+      "index": 166,
+      "isZeroPoint": false,
+      "startIndex": 693,
+      "text": "يوم الأحد سادس عشري شهر رمضان من سنة تسع وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 348,
+      "guid": "94519a34-6a15-436e-b09f-512a9db4a50e",
+      "index": 159,
+      "isZeroPoint": false,
+      "startIndex": 293,
+      "text": "بن تاج القراء أبي الحسن علي بن عبد الرحمن بن محمد الطوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 409,
+      "guid": "96056373-03e3-4b95-8015-c729e35ce7a9",
+      "index": 161,
+      "isZeroPoint": false,
+      "startIndex": 401,
+      "text": "ابن بشران",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 813,
+      "guid": "96a70db1-4431-40a4-91d8-7e6eb4f5bb50",
+      "index": 168,
+      "isZeroPoint": false,
+      "startIndex": 776,
+      "text": "محمد بن أحمد بن محمد بن النجيب الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "a17025eb-2002-4b5d-bade-fdd50b25a13d",
+      "index": 158,
+      "isZeroPoint": false,
+      "startIndex": 223,
+      "text": "أبي إسحق إبراهيم بن عثمان الكاشغري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "ecd040c2-1aa6-4aca-b255-ad8346c99aef",
+      "index": 157,
+      "isZeroPoint": false,
+      "startIndex": 110,
+      "text": "بدر الدين أبي محمد عبد اللطيف بن محمد بن محمد بن نصر الله العبدي الحموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 675,
+      "guid": "f04e064f-6014-43a1-851b-756f0cf47811",
+      "index": 165,
+      "isZeroPoint": false,
+      "startIndex": 655,
+      "text": "يوسف بن عز الدين محمد",
+      "type": "person"
+    }
+  ],
+  "text": " بلغت سماعا لجميع هذا الجزء والأول قبله على الشيخ الإمام العالم العامل الأوحد الحافظ بقية السلف مفتي المسلمين بدر الدين أبي محمد عبد اللطيف بن محمد بن محمد بن نصر الله العبدي الحموي نفع الله به عرضا بأصل مقرو[ئه] على الشيخ أبي إسحق إبراهيم بن عثمان الكاشغري بسماع شيخنا في ثبته منه بسماعه من ابن تاج القراء أبي الحسن علي بن عبد الرحمن بن محمد الطوسي بسماعه من أبي القاسم يحيى بن أحمد السيبي بسماعه من ابن بشران بسنده بقراءة الشيخ الإمام العالم مالكهما نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي والجماعة السادة الشيخ فخر الدين عثمان بن محمد بن نجيم الحراني الشافعي الصوفي والفقيه علم الدين القاسم بن محمد بن يوسف ابن البرزالي وحفيد المسمع يوسف بن عز الدين محمد وصح ذلك وثبت في يوم الأحد سادس عشري شهر رمضان من سنة تسع وسبعين وستمية بالمدرسة التقوية بدمشق وكتب محمد بن أحمد بن محمد بن النجيب الشافعي عفا الله عنه وعن والديه حامدا مصليا مسلما مترضيا"
+}

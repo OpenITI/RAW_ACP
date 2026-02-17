@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي المقري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند نافع بن أبي نعيم المقري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 7"
+      ],
+      "catalog": [
+        "FMMU 61- 62 "
+      ],
+      "classmark": [
+        "3750/3"
+      ],
+      "folio_number": [
+        "26r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "784"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "195282f5-995e-49e4-a158-9377faf443f4",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "ثاني عشر جمادى الآخرة سنة أربع وثمانين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "894809c8-1877-409e-8b16-f6372c817e8d",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 94,
+      "text": "محمد النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "8cab024d-0970-4170-bfba-fcbc4a4d708e",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 223,
+      "text": "محمد بن إسماعيل بن كثير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "d3c58584-ddfe-45a9-80e0-305ebcc20552",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 119,
+      "text": "أبو إسماعيل إبراهيم بن محمد بن عبد المحسن الخراط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "dc48b9ea-c77a-42b1-bedf-6d7b349b1e59",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 36,
+      "text": "شمس الدين أبي بكر محمد بن المحب",
+      "type": "person"
+    }
+  ],
+  "text": " قرأته على شيخنا الحافظ شيخ الإسلام شمس الدين أبي بكر محمد بن المحب أيده الله تعالى بسماعه من محمد النحاس فسمعه الطالب أبو إسماعيل إبراهيم بن محمد بن عبد المحسن الخراط في ثاني عشر جمادى الآخرة سنة أربع وثمانين وسبعمية كتبه محمد بن إسماعيل بن كثير ولله الحمد "
+}

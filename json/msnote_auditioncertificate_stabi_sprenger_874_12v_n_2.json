@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد هبة الله بن محمد بن الحسين البسطامي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلسان من امالي هبة الله بن محمد البسطامي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 874"
+      ],
+      "folio_number": [
+        "12v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011751"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 179,
+      "guid": "6a049125-25af-4eee-a4d9-aed1e96449c4",
+      "startIndex": 175,
+      "text": "الجبل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "74380b31-d307-487c-959c-a3839f7065e0",
+      "startIndex": 98,
+      "text": "سليمان بن حمزة بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11-20"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "635"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "7f4676dd-6a22-40de-bc32-a729fdbb8a1d",
+      "startIndex": 127,
+      "text": " في العشر الأوسط من رجب سنة خمس وثلاثين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "cafbd31e-4fe5-4431-bb18-ec63ef313088",
+      "startIndex": 25,
+      "text": "شمس الدين أبي الفرج عبد الرحمن بن محمد بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة الإمام شمس الدين أبي الفرج عبد الرحمن بن محمد بن أحمد بن محمد بن قدامة المقدسي، سليمان بن حمزة بن أحمد وآخرون في العشر الأوسط من رجب سنة خمس وثلاثين وستمئة بالجبل."
+}

@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "الأحاديث المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "72r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f75.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f75.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "0e56c654-2011-4f76-ba41-78f959533942",
+      "index": 88,
+      "isZeroPoint": false,
+      "startIndex": 59,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "366effc1-5953-46c9-a5c8-755cdeced588",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 310,
+      "text": "علي بن محمد بن عبد الحافظ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "635"
+        ]
+      },
+      "endIndex": 516,
+      "guid": "5f71ab0a-5309-42bc-b045-4e46a5ba5a26",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 460,
+      "text": "يوم الجمعة الخامس من ذي المحرم من سنة خمس وثلاثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 439,
+      "guid": "673a1cc3-91a3-4422-9c3d-2b06ea8d5836",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 389,
+      "text": "عبد الله بن أحمد بن أبي بكر محمد بن إبراهيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 386,
+      "guid": "726f0000-6b73-4189-81ef-0061b828e1cb",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 359,
+      "text": "موسى بن أبي الفتح بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 530,
+      "guid": "965b5710-ce15-418e-90d7-3973629439a8",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 519,
+      "text": "جامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "9b4a067b-69b1-49e5-8221-527423202a71",
+      "index": 90,
+      "isZeroPoint": false,
+      "startIndex": 169,
+      "text": "أحمد بن عبد الله بن عبد الملك المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "b90448fb-8667-47f3-a63b-d61b465df622",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 237,
+      "text": "نصر الله بن ناصر بن ناصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "ccf50e8d-8fc3-44e0-82d6-150b073de7a8",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 289,
+      "text": "محمد بن نعمة بن نجم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "e0ddb0f1-66b7-49fc-84f6-0e44b60b9473",
+      "index": 91,
+      "isZeroPoint": false,
+      "startIndex": 210,
+      "text": "محمد بن عبد الله بن سعادة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 356,
+      "guid": "ec2be110-c64c-4903-a0a0-c14ba960822e",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 337,
+      "text": "يوسف بن بدران بن بدر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 286,
+      "guid": "f2f1201e-b1ce-48fa-80a8-e07522e725d4",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 263,
+      "text": "عمر بن أبي الكرم بن خالد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "f9c567ba-9f8f-4173-96be-bbceb3f231c5",
+      "index": 89,
+      "isZeroPoint": false,
+      "startIndex": 142,
+      "text": "عبد الرحيم بن علي بن أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزؤ من لفظ مخرجه الشيخ الإمام العالم الحافظ ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي بارك الله في عمره فسمعه عبد الرحيم بن علي بن أحمد وأحمد بن عبد الله بن عبد الملك المقدسيون ومحمد بن عبد الله بن سعادة ونصر الله بن ناصر بن ناصر وعمر بن أبي الكرم بن خالد ومحمد بن نعمة بن نجم وعلي بن محمد بن عبد الحافظ ويوسف بن بدران بن بدر وموسى بن أبي الفتح بن أبي بكر وعبد الله بن أحمد بن أبي بكر محمد بن إبراهيم المقدسي |وكتب السماع| وذلك يوم الجمعة الخامس من ذي المحرم من سنة خمس وثلاثين وستماية بجامع المظفري والحمد لله وحده"
+}

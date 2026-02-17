@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ثلاثة وثلاثون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1712"
+      ],
+      "folio_number": [
+        "117v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.refaiya.uni-leipzig.de/receive/DE1Book_manuscript_00066928"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "21c59a90-c647-4871-8880-5ecd28610ebf",
+      "startIndex": 114,
+      "text": "محمد بن أبي بكر بن أبي الوقار الرَّقاقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 31,
+      "guid": "49a39277-81b3-43d0-b349-aa6671b25baa",
+      "startIndex": 19,
+      "text": "محمود الأرموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "505017e2-841a-4d4e-a23c-08524627e33e",
+      "startIndex": 100,
+      "text": "محمد الأصغر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "8d5a5329-3cf0-466e-bed2-9d4c43886922",
+      "startIndex": 199,
+      "text": "في يوم الأحد لأربع إن بقين من ربيع الآخر سنة تسع وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "e4aee098-8c60-488e-93ba-58f611509fd6",
+      "startIndex": 164,
+      "text": "أحمد بن النصير بن نبأ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "fbd7dc93-7df9-4723-b962-8e8b549319ae",
+      "startIndex": 67,
+      "text": "الشمس أحمد بن خالد الفارقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 269,
+      "guid": "fd700be7-8cf5-43b6-b8ca-983abe96f7f6",
+      "startIndex": 264,
+      "text": "منزلها",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "fe70606a-9734-417f-961c-cb87bf9b879f",
+      "startIndex": 34,
+      "text": "عبد الكريم بن عبد النور الحلبي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليها بقراءة محمود الأرموي، عبد الكريم بن عبد النور الحلبي، والشمس أحمد بن خالد الفارقي وابنه محمد الأصغر، ومحمد بن أبي بكر بن أبي الوقار الرَّقاقي. وآخرون، وأحمد بن النصير بن نبأ وبخطه السماع في يوم الأحد لأربع إن بقين من ربيع الآخر سنة تسع وسبعين وستمائة بمنزلها"
+}

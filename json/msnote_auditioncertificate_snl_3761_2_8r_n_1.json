@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو علي إسماعيل بن محمد بن إسماعيل الصفار"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي علي إسماعيل الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 116"
+      ],
+      "classmark": [
+        "3761/2"
+      ],
+      "folio_number": [
+        "8r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "033442fe-36ff-46a1-8b09-2244b61e5a70",
+      "startIndex": 214,
+      "text": "أبو [طالب؟] محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 570,
+      "guid": "32aa66b7-c81a-42a6-b859-a228648c6aab",
+      "startIndex": 539,
+      "text": "عمر بن محمد بن عبد الله بن الخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 524,
+      "guid": "422aba09-c4c2-44ae-a7d4-267dddff5933",
+      "startIndex": 506,
+      "text": "يوسف بن مكي الحارثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "4bf75d88-55bd-47e6-b021-8a3751e23419",
+      "startIndex": 323,
+      "text": "هبة الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "541"
+        ]
+      },
+      "endIndex": 627,
+      "guid": "57fb1bcc-9a0a-417e-bbfa-86ca8c7b3b4c",
+      "startIndex": 580,
+      "text": "الثالث من ذي [...] من سنة إحدى وأربعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 433,
+      "guid": "5b277ca6-7966-44b7-97be-6c657224dc7a",
+      "startIndex": 396,
+      "text": "أبو عبد الله محمد بن عبد العزيز التركي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 654,
+      "guid": "7a7485f4-d7e8-403d-9911-d5e1f02569e6",
+      "startIndex": 630,
+      "text": "المسجد الجامع بمدينة دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "97d97f53-42a6-4055-a3e3-a408ef71c51d",
+      "startIndex": 275,
+      "text": "أبو طالب الخضر بن هبة الله بن طاوس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 369,
+      "guid": "ad95a72c-dfd7-4e04-bcf3-a240fbb27a79",
+      "startIndex": 333,
+      "text": "أبو الفوارس الحسن بن عبد الله بن شافع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 321,
+      "guid": "d0f33935-b0ed-4bbf-b816-d52679526b0d",
+      "startIndex": 317,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "da61fbac-9851-4736-8bab-772d98098ef9",
+      "startIndex": 34,
+      "text": "أبي الفتح نصر الله بن محمد بن عبد القوي المصيصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "e09f97bd-a79d-474b-b3c6-e6d17d018d3b",
+      "startIndex": 107,
+      "text": "أبو محمد عبد الوهاب بن علي بن الخضر القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "e70d04eb-d4ce-4f3b-aaff-adf8cc3c0914",
+      "startIndex": 163,
+      "text": "أبي عبد الله محمد بن حمزة بن أبي جميل القرشي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه على الشيخ الفقيه الإمام أبي الفتح نصر الله بن محمد بن عبد القوي المصيصي رضي الله عنه صاحبه الشيخ أبو محمد عبد الوهاب بن علي بن الخضر القرشي بقراءة الشيخ أبي عبد الله محمد بن حمزة بن أبي جميل القرشي وولده أبو [طالب؟] محمد والفقيه أبو [............................] وأبو طالب الخضر بن هبة الله بن طاوس وولداه محمد وهبة الله وأبو الفوارس الحسن بن عبد الله بن شافع وأبو [................] وأبو عبد الله محمد بن عبد العزيز التركي وسمعه أيضا جميعه مع الجماعة في التاريخ الشيخ [.......................] يوسف بن مكي الحارثي ومثبت السماع عمر بن محمد بن عبد الله بن الخضر وذلك في الثالث من ذي [...] من سنة إحدى وأربعين وخمس ماية بالمسجد الجامع بمدينة دمشق عمرها الله تعالى بالإسلام [..........]"
+}

@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "آدم بن أبي إياس العسقلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث آدم بن أبي إياس العسقلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/10"
+      ],
+      "folio_number": [
+        "185v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "408425d9-860b-4157-8e5b-e9817496c9e9",
+      "startIndex": 33,
+      "text": "جمال الدين عبد الله بن القاضي عماد الدين أبي بكر بن زريق الصالحي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "7abfd171-b640-4771-a150-8b0a04c14e84",
+      "startIndex": 112,
+      "text": "أبو بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "8beeb5a6-666b-4e14-b411-3c487b1ad798",
+      "startIndex": 221,
+      "text": "محمد بن محمد الخيضري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "837"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "8c08fab4-f969-4b8d-9bc0-a24c9d697b76",
+      "startIndex": 136,
+      "text": "يوم الجمعة ثاني رجب سنة سبع وثلاثين وثماني ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 208,
+      "guid": "b2f17bd2-2cb6-4db2-8b6d-545b92aac6d7",
+      "startIndex": 185,
+      "text": "منزل المسمع بصالحية دمشق",
+      "type": "place"
+    }
+  ],
+  "text": "الحمد لله كل ذلك قرأته على الشيخ جمال الدين عبد الله بن القاضي عماد الدين أبي بكر بن زريق الصالحي فسمع ذلك ولدي أبو بكر وصح ذلك وثبت في يوم الجمعة ثاني رجب سنة سبع وثلاثين وثماني ماية بمنزل المسمع بصالحية دمشق وأجاز وكتب محمد بن محمد الخيضري سامحه الله آمين رب العالمين"
+}

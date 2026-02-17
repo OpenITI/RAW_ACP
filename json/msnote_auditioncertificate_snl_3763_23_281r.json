@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن سليمان بن حبيب الأسدي المصيصي لوين"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من حديث محمد بن سليمان لوين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 136"
+      ],
+      "classmark": [
+        "3763/23"
+      ],
+      "folio_number": [
+        "281r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "4c034cbe-028c-4640-af5e-03bd3e43a9da",
+      "startIndex": 47,
+      "text": "محمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 38,
+      "guid": "67b8cc4c-eb83-49c8-a88e-095c048f8965",
+      "startIndex": 18,
+      "text": "طلحة بن محمد الأنماطي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ سماعا من أوله طلحة بن محمد الأنماطي بقراءة محمد بن عبد الواحد [...] ومن ذكر معهما في أوله وصح بالتاريخ فيه"
+}

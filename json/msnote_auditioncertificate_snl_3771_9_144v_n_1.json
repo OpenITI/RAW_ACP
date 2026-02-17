@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن عبد الملك بن محمد يوسف"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "أمالي الحسن بن عبد الملك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 180"
+      ],
+      "classmark": [
+        "3771/9"
+      ],
+      "folio_number": [
+        "144v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "19fdc634-85b3-4dcd-aec2-94a255a55d33",
+      "startIndex": 31,
+      "text": "أبي الفتح ابن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "b56fd31d-8e6f-4838-bf0e-2c4686a48f00",
+      "startIndex": 86,
+      "text": "موفق الدين أبو الفتح نصر الله بن عين الدولة بن عيسى الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "615"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "bcf33196-1e80-4538-be36-6826df894e4d",
+      "startIndex": 153,
+      "text": "الأربعاء رابع عشر جمادى الأولى سنة خمس عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "ff7e0508-cc39-40fe-9ded-e4ba22192849",
+      "startIndex": 210,
+      "text": "عبيد الله بن المبارك بن إبراهيم ابن السيبي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأه عليّ بسماعي فيه منقولا من أبي الفتح ابن البطي رحمه الله الشيخ الأجل العالم الورع موفق الدين أبو الفتح نصر الله بن عين الدولة بن عيسى الدمشقي في يوم الأربعاء رابع عشر جمادى الأولى سنة خمس عشرة وستمائة وكتب عبيد الله بن المبارك بن إبراهيم ابن السيبي"
+}

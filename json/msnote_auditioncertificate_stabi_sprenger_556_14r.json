@@ -1,0 +1,463 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " الجزء الثاني من كتاب شرف اصحاب الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 556"
+      ],
+      "folio_number": [
+        "14r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1777973198/1200/0/00000031.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011432"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "21c43278-0d08-4686-8ff3-fd28ed845d0b",
+      "startIndex": 196,
+      "text": "مجد الدين علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "22dd642a-eaba-429c-816c-13fbacee424e",
+      "startIndex": 226,
+      "text": "زكي الدين طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "3159b3be-e2b3-48f4-ab55-303a57857ebf",
+      "startIndex": 211,
+      "text": "عز الدين عامر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "49695736-c095-43f3-9898-31cb902e1894",
+      "startIndex": 380,
+      "text": "زين الدين يحيى بن حسين بن عبد الرحمن الحراني عرف بابن قصاصة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "4e4ca24e-754f-412c-a711-f81eee38e226",
+      "startIndex": 139,
+      "text": "تقي الدين [أبي الفتح] محمد بن علي بن وهب القشيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 940,
+      "guid": "623b3ecb-afb1-4a91-8207-6758d5737c04",
+      "startIndex": 911,
+      "text": "عوض بن حجاج بن إسماعيل الحجاجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "692bf680-c39c-489b-a819-dac8e286a3de",
+      "startIndex": 316,
+      "text": "صدر الدين محمد بن مقدام بن عيسى الزبيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "755b04b8-daa8-4048-bb19-7088f9a882b8",
+      "startIndex": 36,
+      "text": "عز الدين أبي العز عبد العزيز بن عبد المنعم بن علي الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 744,
+      "guid": "8f999271-54f0-42ba-832d-a64e3771e872",
+      "startIndex": 696,
+      "text": "أبو الطاهر محمد بن عبد الرحمن بن أبي الفتح العمري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 1167,
+      "guid": "9780edb9-5f1b-47ad-8321-ed954ab716c5",
+      "startIndex": 1152,
+      "text": "منزل القارئ بمصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 487,
+      "guid": "a18508cd-eb72-4719-b0a6-553540fe8fef",
+      "startIndex": 441,
+      "text": "كمال الدين أبو بكر بن أسعد بن عبد الكريم العوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 599,
+      "guid": "a4984a57-084b-4921-ac93-0a15e0b454e4",
+      "startIndex": 541,
+      "text": "بهاء الدين علي بن محمد بن عبد العظيم بن أبي الأصبع العدواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 377,
+      "guid": "a9a5510d-0965-4bd2-a075-92e0fc237b20",
+      "startIndex": 363,
+      "text": "ضياء الدين أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 763,
+      "guid": "b07382f7-1f9e-46f8-aec8-86da7d6a876f",
+      "startIndex": 752,
+      "text": "أبو بكر عتيق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 313,
+      "guid": "b087ae87-29f2-4956-8f5f-3ba01e570451",
+      "startIndex": 242,
+      "text": "صدر الدين عبد الله بن محمد بن شيخنا صفي الدين حسين بن أبي منصور الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1081,
+      "guid": "baa9b729-332b-46fd-8908-f5bd1fb0de23",
+      "startIndex": 1027,
+      "text": "أحمد بن علي بن جابر [القرشي؟] عرف بابن الحمام الاسكندري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "674"
+        ]
+      },
+      "endIndex": 1149,
+      "guid": "da92ae77-3d54-45ea-9f7e-3f650a841ee9",
+      "startIndex": 1098,
+      "text": " يوم الأحد ثامن عشري ذي الحجة سنة أربع وسبعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 908,
+      "guid": "e20e3340-63ec-47bd-a9e7-cd81c5901833",
+      "startIndex": 864,
+      "text": "شمس الدين محمد بن محمد بن عبد الباري الأقفهسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 693,
+      "guid": "e3aa227a-500a-4d01-90db-f534fe34af3e",
+      "startIndex": 646,
+      "text": "الجمال محمد بن داود بن حجاج الأنصاري عُرف بقلندر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 642,
+      "guid": "e71a9bc6-6593-423a-ad3f-1fce443d7f0a",
+      "startIndex": 602,
+      "text": "شهاب الدين أحمد بن أبي بكر بن طيء الزبيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 538,
+      "guid": "eb8c4d0b-dd78-446b-b8d0-6e60024e84aa",
+      "startIndex": 490,
+      "text": "جلال [الدين] أبو بكر بن علي بن عبد الخالق الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 982,
+      "guid": "ff92242d-5929-4daf-b2ac-d0b844190137",
+      "startIndex": 943,
+      "text": "نجم الدين محمد بن إسماعيل بن محمد القفطي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الجليل عز الدين أبي العز عبد العزيز بن عبد المنعم بن علي الحراني بسماعه فيه بقراءة الشيخ الإمام العالم الحافظ تقي الدين [أبي الفتح] محمد بن علي بن وهب القشيري، أولاده مجد الدين علي وعز الدين عامر وزكي الدين طلحة وصدر الدين عبد الله بن محمد بن شيخنا صفي الدين حسين بن أبي منصور الأنصاري وصدر الدين محمد بن مقدام بن عيسى الزبيري وشقيقه ضياء الدين أحمد وزين الدين يحيى بن حسين بن عبد الرحمن الحراني عرف بابن قصاصة وكمال الدين أبو بكر بن أسعد بن عبد الكريم العوفي وجلال [الدين] أبو بكر بن علي بن عبد الخالق الشافعي وبهاء الدين علي بن محمد بن عبد العظيم بن أبي الأصبع العدواني وشهاب الدين أحمد بن أبي بكر بن طيء الزبيري، والجمال محمد بن داود بن حجاج الأنصاري عُرف بقلندر وأبو الطاهر محمد بن عبد الرحمن بن أبي الفتح العمري وأخوه أبو بكر عتيق وهذا خطه، عفا الله عنه، وسمع من اوله إلى قوله آخر الجزء الثاني من أصل سماع القاضي أبي بكر الأنصاري شمس الدين محمد بن محمد بن عبد الباري الأقفهسي وعوض بن حجاج بن إسماعيل الحجاجي ونجم الدين محمد بن إسماعيل بن محمد القفطي وسمع من الحدِّ المذكور إلى آخر الجزء الشرف أحمد بن علي بن جابر [القرشي؟] عرف بابن الحمام الاسكندري وصح ذلك وثبت في يوم الأحد ثامن عشري ذي الحجة سنة أربع وسبعين وستمئة بمنزل القارئ بمصر المحروسة والحمد لله وحده وصلواته على سيدنا محمد وآله وصحبه وسلامه دائماً أبداً."
+}

@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96a"
+      ],
+      "folio_number": [
+        "40v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00062119"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "baalbek"
+          ]
+        ]
+      },
+      "endIndex": 320,
+      "guid": "08ac5192-b858-4e59-a462-497e5c41fadc",
+      "startIndex": 310,
+      "text": "منزل المسمع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "7db6b654-d354-413b-872b-d535cfa02ca9",
+      "startIndex": 110,
+      "text": "زكي الدين بن المعزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "8ced7522-49f4-4f99-8554-aa96622d832e",
+      "startIndex": 36,
+      "text": "جمال الدين يوسف بن عبد الله بن حاتم بن الحبال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "a1e7882e-7622-4802-8913-c3f5dcc2eaae",
+      "startIndex": 156,
+      "text": "إسماعيل بن بردس ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "acbf37a0-1a63-48b4-b5cb-dd2074391528",
+      "startIndex": 99,
+      "text": "تاج الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          "50f66ab5-9203-4128-a89f-87cc49456224"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "e2821669-7a2f-479b-8c4d-a7331a6db010",
+      "startIndex": 181,
+      "text": "خالد بن عبد الله بن صارم الدين إبراهيم بن خليل الشرائحي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "764"
+        ]
+      },
+      "endIndex": 307,
+      "guid": "e72002b5-b6b3-4aed-94a0-becc8ba09eea",
+      "startIndex": 253,
+      "text": " الخامس عشر من شهر ذي القعدة من سنة أربع وستين وسبعماية",
+      "type": "date"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الصالح جمال الدين يوسف بن عبد الله بن حاتم بن الحبال بسماعه من القاضي تاج الدين وزكي الدين بن المعزي عن ابن [...] بسنده بقراءة إسماعيل بن بردس وهذا خطه خالد بن عبد الله بن صارم الدين إبراهيم بن خليل الشرائحي أبوه وصح وثبت في الخامس عشر من شهر ذي القعدة من سنة أربع وستين وسبعماية بمنزل المسمع وأجاز والحمد لله وحده وصلى الله على محمد [...]"
+}

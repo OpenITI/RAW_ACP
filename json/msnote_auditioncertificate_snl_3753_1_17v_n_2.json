@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ضياء الدين محمد بن عبد الواحد بن أحمد المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من عوالي حديث الحافظ ضياء الدين المقدسي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 69"
+      ],
+      "classmark": [
+        "3753/1"
+      ],
+      "folio_number": [
+        "17v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "726"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "0e272a92-04bf-466b-b8ce-e7a7cbec7f19",
+      "startIndex": 203,
+      "text": " يوم الخميس ثالث صفر سنة ست وعشرين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "253ed629-36ff-4fa1-bef1-f6794c81c90f",
+      "startIndex": 147,
+      "text": "أبو بكر بن الشيخ علي بن أبي المجد الخالدي المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "35a9c08a-a130-4ed3-aa1a-5a289a3fabc5"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 340,
+      "guid": "2d8d2adb-6d50-488b-8cee-a8748287d54d",
+      "startIndex": 295,
+      "text": "محمد بن طغريل بن عبد الله المعروف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 269,
+      "guid": "542da886-cec1-449b-9ab4-67db9aa14ae8",
+      "startIndex": 247,
+      "text": "منزل المسمع بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "7668955d-b6b4-4810-bae9-225d4bf5991a",
+      "startIndex": 36,
+      "text": "شمس الدين أبي عبد الله محمد بن العماد أحمد بن الشهاب [منعة/ سعد؟ القبوي؟] الصالحي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميعه على الشيخ الصالح المسند شمس الدين أبي عبد الله محمد بن العماد أحمد بن الشهاب [منعة/ سعد؟ القبوي؟] الصالحي بإجازته من مخرجه فسمعه الشيخ أبو بكر بن الشيخ علي بن أبي المجد الخالدي المؤذن وذلك في يوم الخميس ثالث صفر سنة ست وعشرين وسبعمية بمنزل المسمع بسفح قاسيون وأجاز لنا ما يرويه وكتب محمد بن طغريل بن عبد الله المعروف بابن الصيرفي عفا الله عنه الحمد لله رب العالمين"
+}

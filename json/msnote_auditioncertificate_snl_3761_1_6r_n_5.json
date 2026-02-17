@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر محمد بن محمد بن جعفر الأنباري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر الأنباري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 116"
+      ],
+      "classmark": [
+        "3761/1"
+      ],
+      "folio_number": [
+        "6r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 326,
+      "guid": "166c672c-2edc-4776-a924-e784fda87605",
+      "startIndex": 322,
+      "text": "جعفر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "jerusalem",
+            "bab_al-silsila"
+          ]
+        ]
+      },
+      "endIndex": 267,
+      "guid": "1cf3274a-374b-4c78-a821-ae377fa83725",
+      "startIndex": 225,
+      "text": "منزل المسمعة خارج باب السلسلة بالقدس الشريف",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 400,
+      "guid": "362429c5-a536-4b35-bbe9-b44b57f2297a",
+      "startIndex": 368,
+      "text": "إسماعيل بن سلطان بن غنائم الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "721"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "7f7340b6-5dd2-4c1b-8226-ec56dd1e629c",
+      "startIndex": 164,
+      "text": "يوم السبت ثاني عشر شهر ربيع الأول سنة إحدى وعشرين وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "9a6497b5-8ca8-4cad-a17e-d2c862a49af0",
+      "startIndex": 101,
+      "text": "بن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "9d7ab995-a105-476b-99de-467a162b0e3d",
+      "startIndex": 330,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "a9ed25b0-3851-41bc-806e-0be3ffa34ad1",
+      "startIndex": 38,
+      "text": " زينب بنت أحمد بن عمر بن أبي بكر بن شكر المقدسية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "e3cfb3e7-cd83-4b07-85b4-425b92c25a89",
+      "startIndex": 123,
+      "text": "مباركة بنت عبد الله",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزؤ على الشيخة الصالحة زينب بنت أحمد بن عمر بن أبي بكر بن شكر المقدسية بسماعها له من بن اللتي بسنده فسمعته مباركة بنت عبد الله فتاة المسمعة وذلك في يوم السبت ثاني عشر شهر ربيع الأول سنة إحدى وعشرين وسبع ماية بمنزل المسمعة خارج باب السلسلة بالقدس الشريف وقرأت عليها بالمكان والتاريخ جزؤ الغضائري بسماعها من جعفر عن السلفي بسنده فسمعته مباركة أيضا وكتبه إسماعيل بن سلطان بن غنائم الصالحي"
+}

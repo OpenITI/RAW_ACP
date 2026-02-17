@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أحمد بن قدامه المقدسي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/261321728"
+      ],
+      "work_title": [
+        "كتاب التوابين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 1384"
+      ],
+      "folio_number": [
+        "146v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000791q/f151.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000791q/f151.item.r=%22Arabe%201384%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 351,
+      "guid": "58ff7831-f704-46ac-9774-a72da07f5727",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 300,
+      "text": "يوسف ابن حسن ابن أحمد ابن عبد الهادي المقدسي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "8c98508e-ada9-471d-abf2-2dfec68ad73f",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 210,
+      "text": "شهاب الدين ابن هلال الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "861"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "8ec9f9d0-cc28-4e6b-8a92-405bb18ce749",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 53,
+      "text": "الخميس من شهر صفر سنة أحد [كذا] وستين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "e55c7f85-a999-4316-91f6-485fc6927568",
+      "index": 1,
+      "isZeroPoint": false,
+      "startIndex": 130,
+      "text": "حسن ابن علي بن مفرج المقدسي الحنبلي المرداوي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ عليَّ جميع كتاب التوابين في سبع مجالس آخرها ليلة الخميس من شهر صفر سنة أحد [كذا] وستين وثمان ماية الشيخ الصالح المشتغل المحصل حسن ابن علي بن مفرج المقدسي الحنبلي المرداوي وذلك بسماعي له على على[مكرر] الشيخ شهاب الدين ابن هلال الأزدي وصح ذلك وأذنت له أن يروي عني جميع ما لي وعني روايته بشرطه وكتب يوسف ابن حسن ابن أحمد ابن عبد الهادي المقدسي الحنبلي عفا الله عنه"
+}

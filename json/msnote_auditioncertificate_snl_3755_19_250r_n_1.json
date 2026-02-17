@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن بن شاذان السكري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي الحسن السكري وأماليه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/19"
+      ],
+      "folio_number": [
+        "250r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "35fe6d03-c7a6-4a9c-b16c-393d0be85154",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 176,
+      "text": "محمد بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "4aa80945-132f-4414-9958-0f8eb9df76a5",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 154,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "681"
+        ]
+      },
+      "endIndex": 273,
+      "guid": "6283826c-3ed2-4183-9c56-ecac22849b84",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 223,
+      "text": "يوم السبت لعشر بقين من صفر سنة إحدى وثمانين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "8512ce10-ba8b-4783-8266-4bd4d9553598",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 113,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "a4a3f27e-cc07-494e-8556-3c1118381959",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 38,
+      "text": "بدر الدين أبي العباس أحمد بن شيبان بن تغلب الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "c0478eb1-58a1-46e8-8187-a3c860a44c9f",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "e96eb2d6-080f-4212-a999-05b2492783f5",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 159,
+      "text": "زينب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "f70d8c8d-d215-4d89-bb9d-00ecdd784229",
+      "index": 74,
+      "isZeroPoint": false,
+      "startIndex": 280,
+      "text": "أحمد بن عبد الحليم بن عبد السلام بن عبد الله بن أبي القاسم بن تيمية",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على الشيخ المسند بدر الدين أبي العباس أحمد بن شيبان بن تغلب الشيباني بسماعه إياه في بيته من ابن طبرزد وإجازته منه فسمعه أولاده محمد وعلي وزينب في الرابعة ومحمد بن الزكي عبد الرحمن بن يوسف المزي وصح ذلك يوم السبت لعشر بقين من صفر سنة إحدى وثمانين وستماية كتبه أحمد بن عبد الحليم بن عبد السلام بن عبد الله بن أبي القاسم بن تيمية\n"
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        null
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد المحلّي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/13667800"
+      ],
+      "work_title": [
+        "تفسير الجلالين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "wip"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "wip"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 652"
+      ],
+      "folio_number": [
+        "182v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000441h/f189.item.r=%22Arabe%20652%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "6ee22694-91d2-4805-85af-8d4a3a72b495",
+      "index": 76,
+      "isZeroPoint": false,
+      "startIndex": 39,
+      "text": "محمد بن عثمان الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "921"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "d6be5137-6da4-4485-81cc-b7c445aa1e3d",
+      "index": 77,
+      "isZeroPoint": false,
+      "startIndex": 95,
+      "text": " ثالث عشرين شعبان سنة 921",
+      "type": "date"
+    }
+  ],
+  "text": "قرأه من أوله إلى آخره قراءة تفهم كاتبه محمد بن عثمان الدمياطي غفر الله له ولمشايخه في مدة آخرها ثالث عشرين شعبان سنة 921"
+}

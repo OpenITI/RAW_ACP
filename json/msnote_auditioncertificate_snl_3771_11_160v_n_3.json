@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي بن عاصم ابن المقرئ الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرخصة في تقبيل اليد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 181"
+      ],
+      "classmark": [
+        "3771/11"
+      ],
+      "folio_number": [
+        "160v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 17,
+      "guid": "1f2495a1-bad9-4078-a454-4a32ec9e0594",
+      "startIndex": 8,
+      "text": "ابن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "year": [
+          "700"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "5c527b66-1cae-4a93-b04a-ad18c11a0639",
+      "startIndex": 54,
+      "text": "سبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 30,
+      "guid": "a94e4e2a-b782-46f5-a6b8-5b44ee3faa75",
+      "startIndex": 26,
+      "text": "المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 48,
+      "guid": "ceb106aa-80c9-4e04-a4c0-7305ceeded5e",
+      "startIndex": 32,
+      "text": "أمين الدين الواني",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من ابن الخباز بقراءة المحب أمين الدين الواني سنة سبعمائة"
+}

@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن أحمد بن إبراهيم بن شاذان "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء الأول من حديث ابن شاذان عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 162"
+      ],
+      "classmark": [
+        "3768/6"
+      ],
+      "folio_number": [
+        "125r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "614"
+        ]
+      },
+      "endIndex": 460,
+      "guid": "05f14372-4f73-4c7e-aeb7-37191b45f133",
+      "startIndex": 430,
+      "text": "سلخ شعبان سنة أربع عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 486,
+      "guid": "0f3ddb84-2124-4d02-8188-32458e86289d",
+      "startIndex": 463,
+      "text": "جامع دمشق بحلقة الحنابلة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "2fa3eac2-5d2c-4f37-8f6a-3380e664aa81",
+      "startIndex": 134,
+      "text": "أبو العز عبد العزيز بن أبي نصر بن عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 329,
+      "guid": "84c890c1-0eba-4344-ac9f-36e006779c94",
+      "startIndex": 296,
+      "text": "أبو حفص عمر بن سعيد بن حسن الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "c6a478d3-a878-4166-8a8d-6b4cea52e71a",
+      "startIndex": 285,
+      "text": "يحيى ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "d19f018f-b363-459d-b64e-722661d4ac0d",
+      "startIndex": 379,
+      "text": "إسماعيل بن ناصر بن علي عرف بابن شاور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "df9fa691-c116-46af-9b2d-1a88460f5cf8",
+      "startIndex": 55,
+      "text": "موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "e12c160d-060c-4d17-b730-0cf109a8480a",
+      "startIndex": 242,
+      "text": "أحمد بن إبراهيم بن إبراهيم النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "e2e37399-d739-4f01-9419-db485b7ebc5b",
+      "startIndex": 180,
+      "text": "عبد الرحمن بن عمر بن شحانة الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "e5ca0c84-4e24-462c-a8d1-800f804a1d70",
+      "startIndex": 291,
+      "text": "علي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم شيخ الإسلام موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي بسماعه فيه الشيخ أبو العز عبد العزيز بن أبي نصر بن عبد العزيز وعبد الرحمن بن عمر بن شحانة الحراني بقراءة ابن شحانة وهذا خطه وأحمد بن إبراهيم بن إبراهيم النابلسي وولداه يحيى وعلي وأبو حفص عمر بن سعيد بن حسن الموصلي وسمع من حديث احتج آدم وموسى إلى آخر الجزء الشيخ إسماعيل بن ناصر بن علي عرف بابن شاور وذلك بمجلس في سلخ شعبان سنة أربع عشرة وستمائة بجامع دمشق بحلقة الحنابلة"
+}

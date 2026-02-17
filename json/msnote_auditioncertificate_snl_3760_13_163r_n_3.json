@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/13"
+      ],
+      "folio_number": [
+        "163r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "bab_al-maratib"
+          ]
+        ]
+      },
+      "endIndex": 165,
+      "guid": "637298cd-e1d0-403f-a2fc-8c6bc1dd71d6",
+      "startIndex": 155,
+      "text": "باب المراتب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "8ca5d3e2-287d-4d93-8e6d-dbad31788f21",
+      "startIndex": 97,
+      "text": "أبي عبد الله محمد بن محمد بن محمد بن السكن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "559"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "a8f3a2cb-2e82-432f-b416-b8e3349a82c5",
+      "startIndex": 171,
+      "text": "الخميس حادي عشر رجب من السنة 559]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "d89152bc-49f4-4462-a381-460bc2a892cf",
+      "startIndex": 142,
+      "text": " ابن البطر",
+      "type": "person"
+    }
+  ],
+  "text": "وبلغت أيضا بالقراءة والتاريخ والمحلة أيضا والجماعة المقدم ذكرهم في الطبقة الثانية سماعا من الشيخ أبي عبد الله محمد بن محمد بن محمد بن السكن عن ابن البطر [بباب المراتب يوم الخميس حادي عشر رجب من السنة 559]"
+}

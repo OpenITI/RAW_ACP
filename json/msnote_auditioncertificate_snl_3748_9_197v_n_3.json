@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "نصر بن إبراهيم بن نصر النابلسي المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلس من أمالي نصر بن إبراهيم المقدسي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 56 "
+      ],
+      "classmark": [
+        "3748/9"
+      ],
+      "folio_number": [
+        "197v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 443,
+      "guid": "0ffeca3f-e34f-4d5f-8478-cc5110561e75",
+      "startIndex": 411,
+      "text": "إبراهيم بن يوسف بن محمد المعافري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "3691938f-e08d-4e6b-8ed3-f23e9d250959",
+      "startIndex": 213,
+      "text": "أبو إسحق إبراهيم بن أبي الحسين علي بن عبد الخالق بن أسد بن ثابت الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "39f758cf-dbe9-4af2-88f3-c76542ca25a7",
+      "startIndex": 120,
+      "text": "عز الدين أبو المنصور المظفر بن أسعد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "595"
+        ]
+      },
+      "endIndex": 317,
+      "guid": "418e90af-d239-40f3-8eb4-3d6008b514b8",
+      "startIndex": 294,
+      "text": "سنة خمس وتسعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "6e6b4a1a-7365-4769-b5c4-b8c797e1631b",
+      "startIndex": 70,
+      "text": "أبي المعالي أسعد بن حمزة بن أسد التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 362,
+      "guid": "ba718803-b58e-4cf6-b674-d19a701dfd0d",
+      "startIndex": 320,
+      "text": "منزل المسمع عمر الله ببقائه شمالي جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "dcf23fd2-9a80-41b9-924c-a6bde6000528",
+      "startIndex": 157,
+      "text": "تاج الأمناء أبي الفضل أحمد بن محمد بن هبة الله الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا المجلس على السيد الأجل الرئيس العالم الصدر مؤيد الدين [...] أبي المعالي أسعد بن حمزة بن أسد التميمي فسمع ابنه عز الدين أبو المنصور المظفر بن أسعد وتاج الأمناء أبي الفضل أحمد بن محمد بن هبة الله الشافعي وأبو إسحق إبراهيم بن أبي الحسين علي بن عبد الخالق بن أسد بن ثابت الحنفي وغيرهم في سنة خمس وتسعين وخمس ماية بمنزل المسمع عمر الله ببقائه شمالي جامع دمشق  والحمد لله وصلى الله على محمد وآله وصحبه وكتب إبراهيم بن يوسف بن محمد المعافري "
+}

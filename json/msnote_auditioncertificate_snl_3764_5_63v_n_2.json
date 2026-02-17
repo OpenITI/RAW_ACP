@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الحسين بن عبد الله الآجري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الغرباء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 139"
+      ],
+      "classmark": [
+        "3764/5"
+      ],
+      "folio_number": [
+        "63v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "19b82d67-2270-4f0e-824d-abc8e19f02d8",
+      "startIndex": 313,
+      "text": " النجم إسماعيل بن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 432,
+      "guid": "1e193a2c-3e5f-408f-b8ad-3df5ddbfba73",
+      "startIndex": 409,
+      "text": "منزل المسمع بسفح قاسيون ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "3c5fba5e-ecfb-4fd2-a7b1-1774307875fe",
+      "startIndex": 195,
+      "text": "أبي المكارم المبارك بن أحمد البادرائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "4e80cfa8-75d7-42aa-b119-1f69d65cbe5d",
+      "startIndex": 16,
+      "text": "زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "55c02f23-773a-4266-8e9d-05bf4c2541ff",
+      "startIndex": 242,
+      "text": " أبي غالب بن الباقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "6058686d-b00b-441e-a899-19a17752eeb0",
+      "startIndex": 74,
+      "text": "موفق الدين المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "71becbfb-e98b-441f-a70a-c279249443b2",
+      "startIndex": 277,
+      "text": "بن بشران ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "defaultLabel": "Place1",
+      "guid": "857ff737-367f-4460-88f3-fabd56ededab",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "8a0d27a9-46bb-445c-923b-f2cf4a81e5f6",
+      "startIndex": 137,
+      "text": " أبي طاهر عبد الملك بن أحمد السيوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 406,
+      "guid": "a971cb0c-965d-4ddd-baf8-358a9191558e",
+      "startIndex": 367,
+      "text": "الخميس تاسع رمضان سنة ثلاث وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "b1a46cd3-5f99-4b86-8787-9cfb808b74e5",
+      "startIndex": 103,
+      "text": "هبة الله بن الحسن الدقاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 358,
+      "guid": "b6c0b176-9e2d-48e1-9bc9-81e241594441",
+      "startIndex": 344,
+      "text": "أمة العزيز زينب",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الشيخ زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة بسماعه من موفق الدين المقدسي بسماعه من هبة الله بن الحسن الدقاق بسماعه من أبي طاهر عبد الملك بن أحمد السيوري وبسماع الموفق أيضا من أبي المكارم المبارك بن أحمد البادرائي بسماعه من أبي غالب بن الباقلاني بسماعهما من بن بشران بقراءة كاتب السماع في الأصل النجم إسماعيل بن الخباز ابنته أمة العزيز زينب في يوم الخميس تاسع رمضان سنة ثلاث وستين وستمائة بمنزل المسمع بسفح قاسيون "
+}

@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عمرو بن البختري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي البختري عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 127"
+      ],
+      "classmark": [
+        "3763/2"
+      ],
+      "folio_number": [
+        "30v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 25,
+      "guid": "5bb5d2c6-4e1e-473b-9a47-3bc3a712db8b",
+      "startIndex": 9,
+      "text": "أبي القاسم الربعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "5e05c834-7045-40ff-abda-e3c017237ae0",
+      "startIndex": 77,
+      "text": "خطلج ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "499"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "912e3de0-f917-4e25-af2b-d1f05f2323e3",
+      "startIndex": 85,
+      "text": "رمضان سنة تسع وتسعين [وأربعماية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "e8dbd63c-d398-4be0-8a47-59aee017aa5c",
+      "startIndex": 34,
+      "text": "أبي نصر الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "fcffa022-bd8e-4b4a-9ff9-75ffb8227af0",
+      "startIndex": 52,
+      "text": "أبو الفتح بن شاتيل",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من أبي القاسم الربعي بقراءة أبي نصر الأصبهاني أبو الفتح بن شاتيل وفتاه خطلج في رمضان سنة تسع وتسعين [وأربعماية]"
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن موسى الحازمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الاعتبار في الناسخ والمنسوخ في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 530"
+      ],
+      "folio_number": [
+        "106r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        "1b64cb20-5142-4c00-bd68-014c90adb3b2"
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011406"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "bilbeis"
+          ]
+        ]
+      },
+      "endIndex": 366,
+      "guid": "1544f801-5a74-401d-9004-1ba52c6ec57b",
+      "startIndex": 356,
+      "text": "مدرسة بلبيس",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "15947790-2819-4400-8494-c2956bf75b26",
+      "startIndex": 151,
+      "text": "أبي عبد الله محمد بن النعمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "51b7d564-6028-4fbb-88b3-94fd1beb735c",
+      "startIndex": 4,
+      "text": "محمد بن عبد الحميد بن عبد الله بن خلف القرشي المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "677"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "ca682305-bd27-4569-9452-82c9a33c7b96",
+      "startIndex": 305,
+      "text": "ربيع الآخر وجمادى الأول من سنة سبع وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "f2f0679c-c4d6-4a04-88b8-0cc64d90a23e",
+      "startIndex": 190,
+      "text": "أبي المكارم عبد الله بن الحسن الدمياطي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ محمد بن عبد الحميد بن عبد الله بن خلف القرشي المصري، وهذا خطه، جميع هذا الجزء السابع وما قبله من الأجزاء، وهو جميع الكتاب، تأليف الحازمي، على شيخه أبي عبد الله محمد بن النعمان بسماعه من أبي المكارم عبد الله بن الحسن الدمياطي، بسماعه لجميعه من مؤلفه خلا السادس على ما بُيّن في الأصل، في مجالس آخرها في ربيع الآخر وجمادى الأول من سنة سبع وسبعين وستمائة بمدرسة بلبيس وبظاهرها والحمد لله وحده وصلى الله على سيدنا محمد وعلى آله وصحبه."
+}

@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن الحسين الجرجاني الغطريفي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي أحمد الغطريفي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 62 "
+      ],
+      "classmark": [
+        "3750/5"
+      ],
+      "folio_number": [
+        "63r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "07f8df5c-ba36-497b-8797-db0a953c00b3",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 243,
+      "text": "أبو علي الحسن بن مسعود بن الحسن بن الوزير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "12dab764-2e97-4e55-a39d-1260985b1a69",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 164,
+      "text": "أبي الطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "copyist"
+        ]
+      },
+      "endIndex": 444,
+      "guid": "220742c6-438b-41f3-8495-0c4cdba72614",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 421,
+      "text": "علي بن الحسن بن هبة الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "3"
+        ],
+        "year": [
+          "521"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "41f158de-a6eb-47cd-92b0-4a7f5e73c5b0",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 359,
+      "text": "ربيع الول سنة إحدى وعشرين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "90d8d3c1-a630-4f89-a498-b826b1fb982e",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 54,
+      "text": "أبي القاسم هبة الله بن محمد بن عبد الواحد بن أحمد بن العباس بن الحصين المستوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "b5ec0e82-23b1-428e-ae5a-3da92f09a515",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 318,
+      "text": "أبو الحسن علي بن عيسى [البصراوي؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 414,
+      "guid": "c8024392-6a0a-4173-bcd6-e648fdfd77ee",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 396,
+      "text": "بغداد الجانب الشرقي",
+      "type": "place"
+    }
+  ],
+  "text": " بلغت من أول هذا الجزء سماعا بقراءتي على الشيخ الأمين أبي القاسم هبة الله بن محمد بن عبد الواحد بن أحمد بن العباس بن الحصين المستوفي رحمه الله وهو بسماعه من القاضي أبي الطيب قراءة عليه في سنة اثنتين وأربعين وأربعماية وسمع معي الشيخان الفقيهان أبو علي الحسن بن مسعود بن الحسن بن الوزير ومن كتابه نقلت السماع وبه عارضت وأبو الحسن علي بن عيسى [البصراوي؟] في شهر ربيع الول سنة إحدى وعشرين وخمس ماية ببغداد الجانب الشرقي وكتب علي بن الحسن بن هبة الله بخطه وصح وثبت"
+}

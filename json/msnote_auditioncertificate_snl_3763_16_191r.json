@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن سليمان البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي سعد البغدادي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 133"
+      ],
+      "classmark": [
+        "3763/16"
+      ],
+      "folio_number": [
+        "191r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "36f22fdb-5b9d-4a90-b0ff-339e1ad8d267",
+      "startIndex": 245,
+      "text": "شهاب الدين أبو العباس أحمد بن محمد بن عيسى الخرزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "39646acf-4fdc-4ea7-a0bd-717c053a2619",
+      "startIndex": 188,
+      "text": "كمال الدين أبي العباس أحمد بن نصر الله بن أحمد الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "632"
+        ]
+      },
+      "endIndex": 356,
+      "guid": "856790ee-87ad-4adb-851f-46f3873e461b",
+      "startIndex": 307,
+      "text": "الجمعة النصف من ذي الحجة سنة اثنتين وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 431,
+      "guid": "dca1c6f7-2e58-4315-a2ea-575eb4a534d0",
+      "startIndex": 381,
+      "text": "عبيد الله بيرم بن يوسف بن خمردكين الصوري ثم الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "de67b9bf-16be-4e94-932b-1d7060f6112d",
+      "startIndex": 50,
+      "text": "زين الدين أبي القاسم عبد القاهر بن الحسن بن عبد القاهر بن ثمامة بن الحسين بن شجاع الكلبي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 374,
+      "guid": "e195f62c-8b6d-46ef-8205-f6c4849c0815",
+      "startIndex": 359,
+      "text": "باب الجامع بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "e5cca3c2-4ec9-438a-9943-ce0066b4d077",
+      "startIndex": 156,
+      "text": " أبي الفرج الثقفي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت سماعا لجميع هذا الجزء على الشيخ الثقة الأمين زين الدين أبي القاسم عبد القاهر بن الحسن بن عبد القاهر بن ثمامة بن الحسين بن شجاع الكلبي الشافعي بسماعه من أبي الفرج الثقفي بقراءة الفقيه كمال الدين أبي العباس أحمد بن نصر الله بن أحمد الدمياطي وشهاب الدين أبو العباس أحمد بن محمد بن عيسى الخرزي وذلك في يوم الجمعة النصف من ذي الحجة سنة اثنتين وثلثين وستماية بباب الجامع بدمشق كتبه عبيد الله بيرم بن يوسف بن خمردكين الصوري ثم الدمشقي ولله الحمد "
+}

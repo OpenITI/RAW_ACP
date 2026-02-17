@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "192r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f196.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f196.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 357,
+      "guid": "3a99bd76-243a-4557-b41d-4cb899ff045d",
+      "index": 186,
+      "isZeroPoint": false,
+      "startIndex": 323,
+      "text": "محمد بن يحيى بن محمد بن سعد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "4274c840-cb5c-4a0c-8db0-6d7d0f51f6c0",
+      "index": 182,
+      "isZeroPoint": false,
+      "startIndex": 141,
+      "text": "أبو الفتح أحمد بن الشيخ محب الدين عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "46686bec-3e81-4415-8e99-8d81dd019493",
+      "index": 183,
+      "isZeroPoint": false,
+      "startIndex": 202,
+      "text": "أبو محمد عبد الرحمن بن علي بن مظفر الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "725"
+        ]
+      },
+      "endIndex": 294,
+      "guid": "4f0347ab-afe8-4ffa-a996-a48b889e3852",
+      "index": 184,
+      "isZeroPoint": false,
+      "startIndex": 248,
+      "text": "يوم الثلاثاء رابع شعبان سنة خمس وعشرين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 305,
+      "guid": "98306e87-c4a4-4fae-967f-25442363bb67",
+      "index": 185,
+      "isZeroPoint": false,
+      "startIndex": 297,
+      "text": "الضيائية ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "b07ed9fc-8dac-4085-b748-1d149fd46f67",
+      "index": 180,
+      "isZeroPoint": false,
+      "startIndex": 51,
+      "text": " جمال الدين أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "b381112d-2c37-4f4b-b271-fb850400a2bc",
+      "index": 181,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "ابن البخاري",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته على الشيخ الإمام العالم العلامة البارع الحافظ جمال الدين أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي بسماعه من ابن البخاري فسمعه أبو الفتح أحمد بن الشيخ محب الدين عبد الله بن أحمد بن المحب وأبو محمد عبد الرحمن بن علي بن مظفر الصالحي في يوم الثلاثاء رابع شعبان سنة خمس وعشرين وسبعمائة بالضيائية بسفح قاسيون وكتب محمد بن يحيى بن محمد بن سعد المقدسي عفا الله عنه"
+}

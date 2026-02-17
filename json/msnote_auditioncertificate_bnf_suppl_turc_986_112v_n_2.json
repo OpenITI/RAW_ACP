@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الحسن علي بن عمر بن محمد بن الحسن السكري الختلي الحربي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء الأول من الفوائد المنتقاة المنتخبة العوالي الحسان عن الشيوخ الثقات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "112v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f117.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f117.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "13eb3156-5a39-4761-bf8f-014f7a2a5760",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 170,
+      "text": " فخر النساء فاطمة بنت سعد الخير الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "ribad_nasiri"
+          ]
+        ]
+      },
+      "endIndex": 713,
+      "guid": "48a4a537-d03f-4833-85a0-5626f4d83b56",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 700,
+      "text": "الرباط الناصري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 637,
+      "guid": "5781207b-303c-42ab-a261-ca692dded15b",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 545,
+      "text": "كمال الدين أبو العباس أحمد بن شيخنا الإمام ذي الفضائل جمال الدين أبي بكر محمد بن أحمد الشريشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 757,
+      "guid": "773903c0-5551-43f2-b1c9-c926da9c33c7",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 720,
+      "text": "محمد بن محمد بن عباس بن جعوان الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 287,
+      "guid": "79662a64-8f91-4b7d-a44c-238451b1be54",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 225,
+      "text": "جمال الدين أبي الفرج عبد الرحمن بن علي بن محمد بن الجوزي الواعظ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 527,
+      "guid": "95ef7081-a8df-4d27-80b7-b92d1ffc37f9",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 520,
+      "text": "أبي يعلى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "9728ebb9-64bf-4ae3-bd4c-15a40e5bf914",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 57,
+      "text": "زين الدين أبي العباس أحمد بن أبي الخير سلامة بن إبراهيم بن سلامة ابن الحداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "673"
+        ]
+      },
+      "endIndex": 697,
+      "guid": "b7df09e1-a7ee-4984-9a95-1d74b65a2b08",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 647,
+      "text": "يوم الثلاثاء ثامن عشر المحرم سنة ثلاث وسبعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 342,
+      "guid": "bf02ecd3-e3fc-4cdc-a429-0ca209154eaf",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 290,
+      "text": "أبي الفتوح يوسف بن المبارك بن كامل بن أبي غالب الخفاف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 434,
+      "guid": "d0132adc-23ce-4dfc-b838-c8f08a30165f",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 420,
+      "text": "أبي سعد الزوزني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 499,
+      "guid": "f3def16a-6055-4860-b6bc-50ba2eae5096",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 465,
+      "text": "أبي بكر محمد بن عبد الباقي الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "f6afc3fa-b523-4f44-aa30-5d3801e9a683",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 345,
+      "text": "أبي حامد عبد الله بن مسلم بن ثابت بن جوالق النخَّاس",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام المعمر بقية المشايخ زين الدين أبي العباس أحمد بن أبي الخير سلامة بن إبراهيم بن سلامة ابن الحداد الحنبلي بحق إجازته من المشايخ الأربعة فخر النساء فاطمة بنت سعد الخير الأنصاري والشيخ الإمام جمال الدين أبي الفرج عبد الرحمن بن علي بن محمد بن الجوزي الواعظ وأبي الفتوح يوسف بن المبارك بن كامل بن أبي غالب الخفاف وأبي حامد عبد الله بن مسلم بن ثابت بن جوالق النخَّاس بسماعهم فيه منقولًا من أبي سعد الزوزني وبسماع فاطمة أيضًا من القاضي أبي بكر محمد بن عبد الباقي الأنصاري بسماعهما من القاضي أبي يعلى رحمه الله فسمعه كمال الدين أبو العباس أحمد بن شيخنا الإمام ذي الفضائل جمال الدين أبي بكر محمد بن أحمد الشريشي وصح ذلك يوم الثلاثاء ثامن عشر المحرم سنة ثلاث وسبعين وستمئة بالرباط الناصري كتبه محمد بن محمد بن عباس بن جعوان الأنصاري ولله الحمد"
+}

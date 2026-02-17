@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الحسين بن عبد الله الآجري البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "التصديق بالنظر إلى الله تعالى في الآخرة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 151"
+      ],
+      "classmark": [
+        "3765/18"
+      ],
+      "folio_number": [
+        "200v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "1a2b108f-b109-4543-82d4-031f67602948",
+      "startIndex": 284,
+      "text": "أبو الفتح محمد بن محمد بن محمد بن سيد الناس اليعمري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "1c9e2e30-0823-49eb-bc1b-f09fab345b85",
+      "startIndex": 43,
+      "text": "جمال الدين أبي العباس أحمد بن محمد بن عبد الله الظاهري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "240e10cc-fded-4775-b129-5807acb9dbc7",
+      "startIndex": 183,
+      "text": "الآجري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "420d1b6c-c08f-4a1f-95f8-3031afd4ae2f",
+      "startIndex": 155,
+      "text": "أبي الحسن المقرئ الحمامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "8ffdfc04-3a70-4692-8cd5-e8d4fe66afc9",
+      "startIndex": 140,
+      "text": " ابن العلاف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 259,
+      "guid": "94d98e78-17ef-4940-bd5e-8bb30f7231be",
+      "startIndex": 248,
+      "text": "ظاهر القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "968fd3c8-eb74-4988-92e0-13495002dfdc",
+      "startIndex": 127,
+      "text": "ابن النقور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "688"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "ba0cdb5f-7024-47ee-aebe-4d3d315fb1d8",
+      "startIndex": 197,
+      "text": "الثاني والعشرين من شعبان سنة ثمان وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "cabdc978-7d49-47c9-b5a0-44c5b7512148",
+      "startIndex": 109,
+      "text": "الفخر الإربلي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته كاملا على شيخنا الإمام الحافظ الزاهد جمال الدين أبي العباس أحمد بن محمد بن عبد الله الظاهري بروايته عن الفخر الإربلي أنا ابن النقور عن ابن العلاف عن أبي الحسن المقرئ الحمامي عن الآجري وصح في الثاني والعشرين من شعبان سنة ثمان وثمانين وستمائة بظاهر القاهرة وأجاز لي ما يرويه وكتب أبو الفتح محمد بن محمد بن محمد بن سيد الناس اليعمري"
+}

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "زكريا بن يحيى بن أسد المروزي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث سفيان بن عيينة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 8"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/21"
+      ],
+      "folio_number": [
+        "268r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "0f5d8504-96a6-467e-a08d-b07319e7530b",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 172,
+      "text": "سمنديار الجعبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 261,
+      "guid": "152602bc-597b-41a5-8e27-432050449251",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 252,
+      "text": "جامع الجبل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "684"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "6780f3d1-9483-46bb-b5dc-bf9f4d2231c5",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 197,
+      "text": "الخميس ثامن عشري جمادى الأولى سنة أربع وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "7ad3ee5a-0a3c-4b7e-88d2-10fd5aac4cec",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 268,
+      "text": "القاسم بن محمد بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "89928d1d-31b3-4289-890b-d0de4e6f2126",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": " شمس الدين محمد بن مسلم بن مالك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "bbb08063-712f-49ee-b2e4-3a4f6bb0cea2",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 27,
+      "text": "سيف الدين أبي محمد بلاشو بن عيسى بن محمد بن بلاشو ",
+      "type": "person"
+    }
+  ],
+  "text": " ثم قرأته على الأمير الأجل سيف الدين أبي محمد بلاشو بن عيسى بن محمد بن بلاشو بسماعه تراه نقلا سوى الحديث الملحق به فسمعه صاحبه الفقيه شمس الدين محمد بن مسلم بن مالك والشيخ سمنديار الجعبري وصح عشية الخميس ثامن عشري جمادى الأولى سنة أربع وثمانين وستمية بجامع الجبل وكتب القاسم بن محمد بن البرزالي"
+}

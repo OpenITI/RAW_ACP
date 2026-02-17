@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يحيى بن منصور الشافعي النيسابوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعين المخرجة من مسموعات النيسابوري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/4"
+      ],
+      "folio_number": [
+        "54r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "08ff74b9-38e7-4fa5-8dbf-02dd3a835e8a",
+      "startIndex": 52,
+      "text": "أبي الفضل محمد بن عبد الكريم بن الفضل الرافعي القزويني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "50f18d1c-7275-4739-9e17-f28f18693c70",
+      "startIndex": 15,
+      "text": "أبي سعد محمد بن يحيى بن منصور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "persia",
+            "nishapur",
+            "al-mani'i_mosque"
+          ]
+        ]
+      },
+      "endIndex": 141,
+      "guid": "68049c7f-06e8-4f9e-bda1-a6574951f433",
+      "startIndex": 110,
+      "text": "صفة دار الحديث في الجامع المنيعي",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "547"
+        ]
+      },
+      "endIndex": 331,
+      "guid": "b516cdea-f42f-427d-9cd2-85bf5e18d4ab",
+      "startIndex": 298,
+      "text": "شهر رمضان سنة سبع وأربعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "c015c38b-23c4-4457-ab02-004e8355a216",
+      "startIndex": 242,
+      "text": "عبد الله بن أبي الفتوح ابن عمران أبو حامد القزويني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "d3b2e9b2-e942-40e7-acdb-ca5f7127b3f3",
+      "startIndex": 143,
+      "text": "أبو القاسم الواثق بن علي بن فضلان البغدادي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "e56aa697-6728-4519-924b-e54f3da7ac90",
+      "startIndex": 187,
+      "text": "أبو علي يحيى بن الربيع بن سليمان الواسطي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من الإمام أبي سعد محمد بن يحيى بن منصور بقراءة أبي الفضل محمد بن عبد الكريم بن الفضل الرافعي القزويني في صفة دار الحديث في الجامع المنيعي أبو القاسم الواثق بن علي بن فضلان البغدادي وأبو علي يحيى بن الربيع بن سليمان الواسطي ومثبت الأسماء عبد الله بن أبي الفتوح ابن عمران أبو حامد القزويني وذلك شهر رمضان سنة سبع وأربعين وخمسماية"
+}

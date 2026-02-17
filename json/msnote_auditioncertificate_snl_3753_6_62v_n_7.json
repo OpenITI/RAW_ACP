@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن المفضل بن أحمد الثقفي الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 7"
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/6"
+      ],
+      "folio_number": [
+        "62v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "4929195c-1123-4826-9b07-4e67026ac2f7",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 38,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 31,
+      "guid": "973ae7cb-9ef5-4376-b2e4-4d6add1f9c5a",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": "عباس بن بزوان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "year": [
+          "640"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "9d33bfa5-ebb1-4782-8369-eafa335a98bc",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 58,
+      "text": " سنة أربعين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": " وسمعها منه بقراءة عباس بن بزوان ابنه محمد وآخرون في أواخر سنة أربعين وستمية"
+}

@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يحيى بن إبراهيم بن أحمد بن محمد السلماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر السلماسي عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 134"
+      ],
+      "classmark": [
+        "3763/20"
+      ],
+      "folio_number": [
+        "235r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "0b903d93-00d4-48b2-ab92-6e0e1a864db2",
+      "startIndex": 123,
+      "text": "أبو بكر بن خالي محمد بن داود بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "2c1f3707-5ac1-4258-b4ae-7a80edf49bc5",
+      "startIndex": 189,
+      "text": "محمد بن إبراهيم بن محمد بن سلامة الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "6bd04a92-8af3-4239-8ad6-9639cf53cd4f",
+      "startIndex": 58,
+      "text": "أبي بكر بن طرخان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "744"
+        ]
+      },
+      "endIndex": 287,
+      "guid": "a09ef892-5253-4382-a9ce-e382914ea8c1",
+      "startIndex": 238,
+      "text": "الأحد خامس عشر شهر رمضان سنة أربع وأربعين وسبعمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "cdd3e3f4-9b9e-48a5-8a93-b09ede5f4522",
+      "startIndex": 16,
+      "text": "عبد الله بن محمد بن إبراهيم القيم أبوه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "fea08e75-1ba3-4a12-a8fc-5ad71d04e63b",
+      "startIndex": 293,
+      "text": "محمد بن المحب",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته على الشيخ عبد الله بن محمد بن إبراهيم القيم أبوه عن أبي بكر بن طرخان فسمع من قوله أنبأ شيخ الإسلام أبو محمد عبد الله أبو بكر بن خالي محمد بن داود بن حمزة وسمع من أول الحديث الذي يليه محمد بن إبراهيم بن محمد بن سلامة الخياط أبوه يوم الأحد خامس عشر شهر رمضان سنة أربع وأربعين وسبعمية كتبه محمد بن المحب"
+}

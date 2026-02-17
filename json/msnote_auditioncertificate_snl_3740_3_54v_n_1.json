@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرزاق بن همام بن نافع الصنعاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الصنعاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 22"
+      ],
+      "classmark": [
+        "3740/3"
+      ],
+      "folio_number": [
+        "54v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "059634fa-d4c8-40fa-9952-755043756a3c",
+      "startIndex": 44,
+      "text": "شمس الدين أبي العباس أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 756,
+      "guid": "246ed9e8-df11-4959-be6a-9bd61befe12f",
+      "startIndex": 737,
+      "text": "سالم بن ثمال بن عنان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 321,
+      "guid": "26302839-1f32-418e-9227-dcd024224243",
+      "startIndex": 277,
+      "text": "النجيب أبو الفتح نصر الله بن أبي المعز الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "617"
+        ]
+      },
+      "endIndex": 709,
+      "guid": "39c20eb7-49b5-4142-bf59-b84f0a3f1a02",
+      "startIndex": 662,
+      "text": "الحادي عشر من ربيع الآخر من سنة سبع عشرة وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 575,
+      "guid": "5dd63eab-3b2e-4869-ab8c-0b52a0c01e8f",
+      "startIndex": 536,
+      "text": "التقي أبو عبد الله محمد بن طرخان الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 403,
+      "guid": "6ac1e6a0-a09a-44db-8660-54f73220dbdd",
+      "startIndex": 361,
+      "text": "أبو حفص عمر بن محمد بن الحاجب منصور الأميني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "79bef560-bb5b-4632-bae2-245cc20852e2",
+      "startIndex": 219,
+      "text": "أبو عبد الرحيم عسكر بن عبد الرحيم بن عسكر النصيبي العدوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 358,
+      "guid": "97691461-f743-485f-b70f-def4493b3ba4",
+      "startIndex": 324,
+      "text": "محمد بن سليمان بن عبد الملك الشاطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 730,
+      "guid": "99743df2-e06a-47da-ba41-2fd0a21a90d6",
+      "startIndex": 712,
+      "text": "حلقة الحنابلة بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 643,
+      "guid": "a2666403-b673-4121-b1ab-265f044bec60",
+      "startIndex": 578,
+      "text": "محمد بن عبد الجليل بن عبد الكريم بن عثمان القدسي عرف بابن الموقاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "ade58bfa-789e-4ee1-ba41-456cd7a4e095",
+      "startIndex": 142,
+      "text": "سراج الدين أبي محمد عبد الرحمن بن عمر بن بركات بن شحانة الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 458,
+      "guid": "b8a1f9e2-1c2e-45f5-87b6-a0cdb2ce3399",
+      "startIndex": 438,
+      "text": "محمد بن لؤلؤ المغيثي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 534,
+      "guid": "bf3ba347-a491-4481-a1a5-7265bc2580c7",
+      "startIndex": 460,
+      "text": "أبو بكر محمد بن الإمام تقي الدين أبو الطاهر إسماعيل بن عبد المحسن الأنماطي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 424,
+      "guid": "f889a258-3ac0-4886-a59d-e61d1ef178e8",
+      "startIndex": 411,
+      "text": "أبو عمرو عثمان",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ الإمام العالم شمس الدين أبي العباس أحمد بن عبد الواحد المقدسي أيده الله تعالى بحق سماعه فيه بقراءة الشيخ الإمام سراج الدين أبي محمد عبد الرحمن بن عمر بن بركات بن شحانة الحراني السادة الشيخ أبو عبد الرحيم عسكر بن عبد الرحيم بن عسكر النصيبي العدوي والنجيب أبو الفتح نصر الله بن أبي المعز الصفار ومحمد بن سليمان بن عبد الملك الشاطبي وأبو حفص عمر بن محمد بن الحاجب منصور الأميني وأخوه أبو عمرو عثمان وابن أختهما محمد بن لؤلؤ المغيثي وأبو بكر محمد بن الإمام تقي الدين أبو الطاهر إسماعيل بن عبد المحسن الأنماطي والتقي أبو عبد الله محمد بن طرخان الصالحي ومحمد بن عبد الجليل بن عبد الكريم بن عثمان القدسي عرف بابن الموقاني والخط له وذلك في الحادي عشر من ربيع الآخر من سنة سبع عشرة وستماية بحلقة الحنابلة بدمشق وسمع سالم بن ثمال بن عنان من حديث المرأتين وقوله إن تتوبا إلى الله فقد صغت قلوبكما إلى آخر الجزء في التاريخ ألحقه محمد بن عبد الجليل"
+}

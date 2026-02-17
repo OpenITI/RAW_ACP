@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عطاء الروذباري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الروذباري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 134"
+      ],
+      "classmark": [
+        "3763/18"
+      ],
+      "folio_number": [
+        "205v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "harran"
+          ]
+        ]
+      },
+      "endIndex": 113,
+      "guid": "0d8fd57d-8979-459f-b442-2e40ec6995e7",
+      "startIndex": 110,
+      "text": "حران",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "614"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "8ae18fb1-29bc-479b-aa2d-024c867be1ad",
+      "startIndex": 75,
+      "text": " ثالث شعبان سنة أربع عشرة وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "a37db5b9-2cbf-4d31-adcd-886422ef4780",
+      "startIndex": 115,
+      "text": "أبو القاسم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "e3ca29ea-30aa-4022-81ce-166d8976bd04",
+      "startIndex": 30,
+      "text": "محمد بن أبي بكر بن مسعود بن الحسين الرسعني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها منه بقراءة كاتب السماع محمد بن أبي بكر بن مسعود بن الحسين الرسعني في ثالث شعبان سنة أربع عشرة وستماية بحران أبو القاسم ابن ابن المسموع منه"
+}

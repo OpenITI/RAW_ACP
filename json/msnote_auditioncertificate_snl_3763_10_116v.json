@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "116v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "d5be2bf4-87d8-451c-9eb1-aa947d78bce8"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "5e20e06b-b604-4557-8511-80ee402d81fb",
+      "startIndex": 24,
+      "text": "أبي العبد فرج بن عبد الله الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "71c1412d-264b-4ce9-8929-9e9824857560",
+      "startIndex": 218,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "989de9df-2b56-499f-afa6-868a81d5db6d",
+      "startIndex": 122,
+      "text": "محاسن بن محمد بن المسلم الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 330,
+      "guid": "a84c6c68-71fd-49e8-a677-c8250e2c3064",
+      "startIndex": 316,
+      "text": "المدرسة النورية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "652"
+        ]
+      },
+      "endIndex": 313,
+      "guid": "eef695f8-6f74-49ae-b2ed-1bd1442741c0",
+      "startIndex": 265,
+      "text": " الخميس حادي عشر رجب من سنة اثنتين وخمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "ef4a3516-d9b6-4862-b160-d099deabe741",
+      "startIndex": 224,
+      "text": "أحمد بن عبد السيد بن سيدهم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "fca371ec-2867-414c-8907-fc2c4ea35294",
+      "startIndex": 167,
+      "text": " أبو بكر أحمد بن أبي الهيجاء المعروف بالزراد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ أبي العبد فرج بن عبد الله الحبشي بسماعه فيه من الشيخين وله فيه فوات وجهة فسمعناها بالإجازة بقراءة محاسن بن محمد بن المسلم الحراني وهذا خطه أخوه أبو بكر أحمد بن أبي الهيجاء المعروف بالزراد وابنه محمد وأحمد بن عبد السيد بن سيدهم المقدسي في يوم الخميس حادي عشر رجب من سنة اثنتين وخمسين وستماية بالمدرسة النورية وأجازهم جميع ما يجوز له رواتيه"
+}

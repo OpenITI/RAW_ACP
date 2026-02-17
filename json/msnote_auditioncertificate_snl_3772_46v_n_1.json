@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسحاق بن منده "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن منده"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 184"
+      ],
+      "classmark": [
+        "3772"
+      ],
+      "folio_number": [
+        "46v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "2229e331-d15e-4cac-8866-ae3ed217278d",
+      "startIndex": 65,
+      "text": " أبي الفرج الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "518"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "2d81797a-2df4-40ee-9eba-08314ccb1936",
+      "startIndex": 199,
+      "text": "ثمان عشرة [وخمسمائة]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "66dee180-a41d-40e4-957d-cea695c177fe",
+      "startIndex": 132,
+      "text": "محمد اللفتواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "670e4c33-a2e3-49d5-8599-49aa5a9ac322",
+      "startIndex": 87,
+      "text": "أبي الحسين الإسكاف ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "74e0be7a-371b-44a0-b528-7f89b407dcef",
+      "startIndex": 49,
+      "text": " يحيى بن يعمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "7609d12a-0413-4975-9da1-69a1cb7c75b7",
+      "startIndex": 177,
+      "text": "أمة الرزاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "93e6acdb-d7c3-4f08-a036-8b8fe2361bb5",
+      "startIndex": 159,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "cd471a14-cb91-490f-8e2c-02ce108ac4cb",
+      "startIndex": 154,
+      "text": "عمر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "dfb354f5-359d-4d5f-9ffd-ddee5f176591",
+      "startIndex": 165,
+      "text": "عبد القادر",
+      "type": "person"
+    }
+  ],
+  "text": "سمع من ابتداء الإملاء الذي أوله حديث أبي ذر [...] يحيى بن يعمر من أبي الفرج الصيرفي عن أبي الحسين الإسكاف [في الأصل الإسكيف] بقراءة محمد اللفتواني أولاده عمر ومحمد وعبد القادر وأمة الرزاق بتاريخ سنة ثمان عشرة [وخمسمائة]"
+}

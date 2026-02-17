@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 13"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "33r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "00ec0772-9328-417a-a396-f37c0ddc1355",
+      "index": 89,
+      "isZeroPoint": false,
+      "startIndex": 53,
+      "text": "عبد المحسن بن عبد القدوس ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "41aeda2b-f208-4689-aac6-6b031a5ed7f0",
+      "index": 88,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": "موسى بن إبراهيم الشقراوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "650"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "9ed6fe00-28f1-49c8-8c1d-2126bcec4988",
+      "index": 90,
+      "isZeroPoint": false,
+      "startIndex": 78,
+      "text": "يوم الجمعة سادس عشر ذي قعدة سنة خمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 138,
+      "guid": "a12e6463-46b0-4ff5-b141-35a903c01a8c",
+      "index": 91,
+      "isZeroPoint": false,
+      "startIndex": 125,
+      "text": "الجامع المظفري",
+      "type": "place"
+    }
+  ],
+  "text": " وسمعه عليه بقراءة موسى بن إبراهيم الشقراوي ابن أخيه عبد المحسن بن عبد القدوس يوم الجمعة سادس عشر ذي قعدة سنة خمسين وستماية بالجامع المظفري"
+}

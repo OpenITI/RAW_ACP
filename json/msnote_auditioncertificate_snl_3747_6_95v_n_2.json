@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/6"
+      ],
+      "folio_number": [
+        "95v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "336fd075-f780-4508-8fa5-b633b5e85db7",
+      "startIndex": 56,
+      "text": "م الحسن فاطمة بنت المحدث شمس الدين أبي الوليد محمد بن محمد بن جبريل بن أبي الفوارس الدربندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "53a6f411-8394-4f98-947b-a6f546b022b0",
+      "startIndex": 199,
+      "text": "ابن الأخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 678,
+      "guid": "5e3907c4-335d-4203-aa2b-5b1fda3bb0f1",
+      "startIndex": 649,
+      "text": "منزل ابنة المسمعة بحارة الديلم",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 441,
+      "guid": "790ea49a-6f60-4227-809f-b1a2fcdf8d4e",
+      "startIndex": 362,
+      "text": "كمال الدين أبو القاسم عمر بن محمد بن عثمان بن عبيد الله بن عمر الحلبي ابن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "83872bde-1d28-4001-b772-823d6d8e4fa7",
+      "startIndex": 214,
+      "text": "ابن السمرقندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "734"
+        ]
+      },
+      "endIndex": 646,
+      "guid": "a37115a3-390c-4685-8876-6d3ced0a9bad",
+      "startIndex": 594,
+      "text": "يوم الأحد حادي عشر ذي القعدة سنة أربع وثلثين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 338,
+      "guid": "cd37908b-a262-4e07-8dd9-2ec25d8238bf",
+      "startIndex": 255,
+      "text": " كمال الدين أبي حفص عمر بن إبراهيم بن عبد الله بن عبد الله بن محمد ابن العجمي الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 571,
+      "guid": "d8639702-e026-4c5b-bcaa-f7cbf1028927",
+      "startIndex": 545,
+      "text": "محمد بن علي بن أيبك السروجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "de2ad8e9-3b1e-44aa-abaa-a3895cfcac1a",
+      "startIndex": 180,
+      "text": "النجيب الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "46663cd8-a48d-4cc7-b91a-c707fedf37e1"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 542,
+      "guid": "e9caa3d4-ed48-4c18-936f-19c36fd6befc",
+      "startIndex": 464,
+      "text": "جمال الدين أبو بكر إسحق بن أبي الحسن بن أبي بكر ابن صاعد الهندي الملتاني الصوفي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخة الصالحة المسندة المكثرة أم الحسن فاطمة بنت المحدث شمس الدين أبي الوليد محمد بن محمد بن جبريل بن أبي الفوارس الدربندي أبقاها الله بسماعها فيه نقلا من النجيب الحراني أنا ابن الأخضر أنا ابن السمرقندي بقراءة الإمام المحدث الرحال كمال الدين أبي حفص عمر بن إبراهيم بن عبد الله بن عبد الله بن محمد ابن العجمي الحلبي ابن عمه الإمام العالم كمال الدين أبو القاسم عمر بن محمد بن عثمان بن عبيد الله بن عمر الحلبي ابن العجمي والشيخ الفاضل الفقيه جمال الدين أبو بكر إسحق بن أبي الحسن بن أبي بكر ابن صاعد الهندي الملتاني الصوفي ومحمد بن علي بن أيبك السروجي وهذا خطه وصح وثبت في يوم الأحد حادي عشر ذي القعدة سنة أربع وثلثين وسبعماية بمنزل ابنة المسمعة بحارة الديلم وأجازت لنا ما يجوز لها روايته والحمد لله وحده وصلواته على سيدنا محمد وعلى آله وصحبه وسلم"
+}

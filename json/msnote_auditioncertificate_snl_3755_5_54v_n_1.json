@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عبد الله بن أحمد الصوفي، أبو نعيم الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حلية الأولياء وطبقات الأصفياء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 84"
+      ],
+      "classmark": [
+        "3755/5"
+      ],
+      "folio_number": [
+        "54v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "1462986a-befd-45b9-905a-df5c23878b3c",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": "أبي مسعود موحد بن محمد بن أبي القاسم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "32486121-8754-4820-a37e-4cbe4d609db9",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 189,
+      "text": "محمد بن [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "44e49359-5647-4b3c-b7f1-cabbba6d4ca0",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "فراسياب بن بختكين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "8"
+        ],
+        "year": [
+          "475"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "66cd1322-de6e-46b0-ae01-2d73c8b48545",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 208,
+      "text": "في شعبان من سنة خمس وسبعين وأربعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "77c269ea-9df8-4343-902b-2b2019a032d3",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 102,
+      "text": "أبي الحسين علي بن الحسين [بن] علي بن عبد الله بن سهلويه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "f2a1e26e-f1a5-47cc-8836-71ce45ac5143",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 79,
+      "text": " أبي نعيم",
+      "type": "person"
+    }
+  ],
+  "text": " سمع الجزء كله من الشيخ أبي مسعود موحد بن محمد بن أبي القاسم [...] حفظه الله عن أبي نعيم بقراءة الشيخ أبي الحسين علي بن الحسين [بن] علي بن عبد الله بن سهلويه فراسياب بن بختكين وكاتب السماع محمد بن [...] وذلك في شعبان من سنة خمس وسبعين وأربعماية"
+}

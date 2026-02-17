@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي المقري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند نافع بن أبي نعيم المقري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 61- 62 "
+      ],
+      "classmark": [
+        "3750/3"
+      ],
+      "folio_number": [
+        "22r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "1fabfa3e-3610-4c4b-9dfa-30e10ded8d6b",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 181,
+      "text": "يحيى الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "33243a43-a8a9-44d5-93bd-5272b9674a70",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 200,
+      "text": "عبد الله بن أحمد بن المحب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "36c5e944-66af-4e44-a41d-4f8c618da003",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 248,
+      "text": "عبد الرحمن بن إبراهيم بن الشيخ علي الملقن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "498fa213-1714-42cb-a91b-4ffffb55addf",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 231,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "715"
+        ]
+      },
+      "endIndex": 456,
+      "guid": "7b3fd612-152f-4b0b-9b1c-6252d6d6720e",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 414,
+      "text": " يوم الأربعاء ثاني صفر سنة خمس عشرة وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 323,
+      "guid": "93da5253-7fad-4bb6-ae37-d09e8a5e4d12",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 291,
+      "text": "محمد بن الزكي بن عبد الله الزيادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "qalijiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 474,
+      "guid": "94f9c8f0-46aa-44f4-813f-17ca8f9857ff",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 459,
+      "text": "المدرسة القليجية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 335,
+      "guid": "9db2918f-bb23-47fb-8372-b531a945ed14",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 331,
+      "text": " أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "b14a3c1f-0ba6-40f6-a437-fe89244bc8cb",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 338,
+      "text": "شرف خاتون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 401,
+      "guid": "c3782aee-1b15-41df-8b78-4b58e1d7afb3",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 366,
+      "text": "محمد بن أحمد بن معالي بن محمد المقري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "e79298f8-1c9c-4068-9993-d9cc717dd1cd",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 97,
+      "text": "الضياء أبي المظفر صقر بن يحيى بن صقر الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "f4fddb6d-d382-4aa3-acf6-f958886e4ea1",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 26,
+      "text": "أبي عبد الله محمد بن أبي بكر بن إبراهيم بن النحاس الأسدي الحلبي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع هذا الجزء على الأمين أبي عبد الله محمد بن أبي بكر بن إبراهيم بن النحاس الأسدي الحلبي بسماعه الضياء أبي المظفر صقر بن يحيى بن صقر الحلبي في سنة ست وأربعين وستمية بحلب بسماعه من يحيى الثقفي بقراءة عبد الله بن أحمد بن المحب ابنه محمد في الثالثة وعبد الرحمن بن إبراهيم بن الشيخ علي الملقن ومحمد بن الزكي بن عبد الله الزيادي وولداه أحمد وشرف خاتون حاضرة في الرابعة ومحمد بن أحمد بن معالي بن محمد المقري أبوه وغيرهم يوم الأربعاء ثاني صفر سنة خمس عشرة وسبعمية بالمدرسة القليجية"
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي وإسماعيل الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/12"
+      ],
+      "folio_number": [
+        "159r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 26,
+      "guid": "2ba1998a-a7ec-403b-b23b-e44aec8ee944",
+      "startIndex": 8,
+      "text": "أبي غالب بن البناء ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "31f015d6-966e-4024-9313-9b5b987f20f7",
+      "startIndex": 60,
+      "text": "عمر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "524"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "3f982b6a-a1a3-4ae2-9947-13f418a0c3cd",
+      "startIndex": 67,
+      "text": "رجب سنة أربع وعشرين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "8611bc65-0c0b-4119-9f5d-21352a75b5b5",
+      "startIndex": 34,
+      "text": "أبي البقاء ابن طبرزد",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من أبي غالب بن البناء بقراءة أبي البقاء ابن طبرزد أخوه عمر في رجب سنة أربع وعشرين وخمسماية"
+}

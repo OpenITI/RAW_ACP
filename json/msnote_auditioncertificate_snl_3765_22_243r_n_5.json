@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن السني أحمد بن محمد بن إسحق بن إبراهيم الدينوري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "القناعة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 153"
+      ],
+      "classmark": [
+        "3765/22"
+      ],
+      "folio_number": [
+        "243r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "630"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "268155eb-00ff-48cd-8540-1392a6d2eadd",
+      "startIndex": 101,
+      "text": "الاثنين عشرين رجب سنة ثلثين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "76e69033-d7a8-493b-ad92-a7dfd6123cd1",
+      "startIndex": 82,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "7f32ce44-5171-4f69-b65c-064bc54f1510",
+      "startIndex": 51,
+      "text": "موفق الدين محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 145,
+      "guid": "c72e47aa-03f0-44af-a0e3-12bc5224b544",
+      "startIndex": 137,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "e7f985d2-0623-4fd8-9b4b-f9819546dbfd",
+      "startIndex": 76,
+      "text": "أحمد ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة عبد [... بن ...] وكتب السماع أخوه موفق الدين محمد وابنا[ه] أحمد وعلي في الرابعة يوم الاثنين عشرين رجب سنة ثلثين وستمية بجامع دمشق وأجاز لهم"
+}

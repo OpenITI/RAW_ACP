@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن بن شاذان السكري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 86"
+      ],
+      "classmark": [
+        "3755/12"
+      ],
+      "folio_number": [
+        "171v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "532a93c7-8727-402f-b1ac-841f21d8c9dd",
+      "index": 1,
+      "isZeroPoint": false,
+      "startIndex": 72,
+      "text": "أبي البقاء بن أبي بكر بن معمر بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "725dd530-27c0-4f3a-b7e3-aa473d9ea6c1",
+      "index": 2,
+      "isZeroPoint": false,
+      "startIndex": 117,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "c130ddd6-4886-4e6f-a91c-d53f39400b74",
+      "index": 0,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "أبي القاسم هبة الله بن عبد الله بن أحمد الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "d9284479-72e3-477d-a954-3d8c28830f16",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "يحيى أبي بكر بن أحمد الصياد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "karkh"
+          ]
+        ]
+      },
+      "endIndex": 212,
+      "guid": "e0742903-0543-4bca-9592-b391c9db55a6",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 208,
+      "text": "الكرخ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "526"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "ee805b66-5ded-4a81-9d36-72e06701c5a9",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "ثامن شعبان سنة ست وعشرين وخمسماية",
+      "type": "date"
+    }
+  ],
+  "text": " وسمعه على أبي القاسم هبة الله بن عبد الله بن أحمد الواسطي بقراءة صاحبه أبي البقاء بن أبي بكر بن معمر بن طبرزد وأخوه عمر وكتب السماع يحيى أبي بكر بن أحمد الصياد وذلك بمنزله ثامن شعبان سنة ست وعشرين وخمسماية بالكرخ"
+}

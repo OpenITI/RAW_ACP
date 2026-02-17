@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "68v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "2869cb33-579c-407b-b92f-102c5aa7b34c",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "48523f3c-4659-4ae2-afc1-2aab0e8d0472",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 75,
+      "text": "بدر الدين أحمد بن شيبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "543cf287-499e-4fe8-aef9-f9b1d8b3dcfb",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 208,
+      "text": "التاج الكندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "8ae58e97-1d13-42a3-8fbd-fafc09c5bb52",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 242,
+      "text": "ست الأهل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 366,
+      "guid": "e5d2a78b-85fd-471f-9b86-e579f95cba3e",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 345,
+      "text": "سكن المسمع بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "ecea945a-c152-45e9-a058-1d6989e6d8c2",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 252,
+      "text": "آمنة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "685"
+        ]
+      },
+      "endIndex": 342,
+      "guid": "ed7e1a94-cdc7-4456-992e-ecf5c83b1275",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 283,
+      "text": "عشية الأحد السادس والعشرين من المحرم سنة خمس وثمانين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "  وسمع المذكورون سوى محمد بن عبد العزيز وإبراهيم بن محمد الكناني على الشيخ بدر الدين أحمد بن شيبان وحده بالقراءة من أول المجلس الخامس عشر إلى آخر المجلس العشرين بسماعه من ابن طبرزد وإجازته إن لم يكن سماعا من التاج الكندي بسندهما فيه وسمع ذلك ست الأهل وآمنة بنتا الشيخ المسمع وذلك في عشية الأحد السادس والعشرين من المحرم سنة خمس وثمانين وستماية بسكن المسمع بسفح قاسيون وأجازهم جميع ما يجوز له روايته بشرطه متلفظا بذلك حين السؤال والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلامه"
+}

@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ثلاثة وثلاثون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1712"
+      ],
+      "folio_number": [
+        "117r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.refaiya.uni-leipzig.de/receive/DE1Book_manuscript_00066928"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "050c353b-6cb5-4601-ba06-914bc7d4272d",
+      "startIndex": 48,
+      "text": "أبي حفص عمر بن محمد بن معمر ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 413,
+      "guid": "31cd6cf6-c22b-4af3-a39e-bea7cf3c91fa",
+      "startIndex": 379,
+      "text": " محمد بن مكي بن أبي الثناء الدنيسري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "39f077dc-6792-443d-95d2-0eb99fe7884c",
+      "startIndex": 221,
+      "text": "الجنيد بن عيسى بن إبراهيم ابن أبي بكر بن خلكان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "3b12dd03-5e7a-49f4-913a-2cdd53c55ca0",
+      "startIndex": 149,
+      "text": "العشاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "5d618206-8a05-4716-a4c7-c60b758d7934",
+      "startIndex": 163,
+      "text": " إسماعيل بن عبد الله بن عبد المحسن بن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "6a422672-d148-44d7-b2de-a6914b10454a",
+      "startIndex": 103,
+      "text": "أبي بكر محمد بن عبد الباقي الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 325,
+      "guid": "886283d0-5973-4659-91af-0aa4374bd369",
+      "startIndex": 282,
+      "text": "محمد بن عثمان بن عمر بن حميد بن أحمد الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "602"
+        ]
+      },
+      "endIndex": 358,
+      "guid": "bd572707-a98d-419d-9171-8cd7a6d5af94",
+      "startIndex": 330,
+      "text": "عاشر شعبان سنة اثنتين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "iraq",
+            "irbil"
+          ]
+        ]
+      },
+      "endIndex": 364,
+      "guid": "cc7813a8-183e-422d-9b3f-455a085ce4b3",
+      "startIndex": 361,
+      "text": "إربل",
+      "type": "place"
+    }
+  ],
+  "text": "صورة سماع في الأصل المنقول منه ما ملخصه سمعه من أبي حفص عمر بن محمد بن معمر ابن طبرزد بسماعه من القاضي أبي بكر محمد بن عبد الباقي الأنصاري بسماعه من العشاري بقراءة إسماعيل بن عبد الله بن عبد المحسن بن الأنماطي جماعة منهم الجنيد بن عيسى بن إبراهيم ابن أبي بكر بن خلكان وكاتب الأسماء محمد بن عثمان بن عمر بن حميد بن أحمد الموصلي في عاشر شعبان سنة اثنتين وستمائة بإربل ومن خطه اختصر محمد بن مكي بن أبي الثناء الدنيسري."
+}

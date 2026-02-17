@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "من أمالي ثعلب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحمد بن يحيى ثعلب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 37 لم تُفهرس"
+      ],
+      "classmark": [
+        "3744/15"
+      ],
+      "folio_number": [
+        "130r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "869"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "199b854c-16f4-437f-bdc8-9eb7fb9a94f9",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 279,
+      "text": "يوم السبت خامس عشر شهر ربيع الأول سنة تسع وستين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "1df8f33b-a51a-488f-b146-42e9ecce1cb5",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 241,
+      "text": "قاسم بن خليل الفرديسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "29bf37d0-9403-4dee-9c6e-f74334aa0163",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 128,
+      "text": "صلاح الدين يوسف بن محمد الصيدلاني البعلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "39177c18-9875-4bd0-92ab-c2710f2535c3",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 170,
+      "text": "شمس الدين محمد بن الشيخ شهاب الدين الشعري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "51693ed7-b895-4545-a94e-d00fa4e77c34",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 213,
+      "text": "عبد الرحمن بن محمد المزدكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "9a4ef7a5-d084-43e5-a5c0-6a179a5c57ac",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 94,
+      "text": "ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "a9e16aa9-c80c-4028-aa46-022e33fdb196",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 56,
+      "text": "نظام الدين بن مفلح الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 432,
+      "guid": "d06c9ad0-ff05-4ded-8006-378fc7f8af89",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 408,
+      "text": "يوسف بن حسن بن عبد الهادي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت ما هنا من أمالي ثعلب على الشيخ الرحلة قاضي القضاة نظام الدين بن مفلح الحنبلي بإجازته من ابن المحب بسنده أعلاه فسمعه الشيخ صلاح الدين يوسف بن محمد الصيدلاني البعلي وشمس الدين محمد بن الشيخ شهاب الدين الشعري وعبد الرحمن بن محمد المزدكي وقاسم بن خليل الفرديسي وصح ذلك وثبت في يوم السبت خامس عشر شهر ربيع الأول سنة تسع وستين وثمان ماية وأجاز لنا أن نروي عنه جميع ما يجوز له وعنه روايته بشرطه عند أهله وكتب يوسف بن حسن بن عبد الهادي"
+}

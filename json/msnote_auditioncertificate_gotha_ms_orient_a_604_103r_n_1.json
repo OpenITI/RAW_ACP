@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 604"
+      ],
+      "folio_number": [
+        "103r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000610"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "380cb5c1-841d-422a-84e3-3e9c6a257540",
+      "startIndex": 40,
+      "text": " برهان الدين أبو إسحق ابن الميلق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 24,
+      "guid": "d4d72450-d56f-4cb3-858d-8534bd0e65a5",
+      "startIndex": 4,
+      "text": "محمد أبو اليمن القدسي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ محمد أبو اليمن القدسي قراءة على شيخه برهان الدين أبو إسحق ابن الميلق أيده الله."
+}

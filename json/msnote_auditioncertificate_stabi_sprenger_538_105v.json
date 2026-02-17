@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ثلاثيات الدارمي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 538"
+      ],
+      "folio_number": [
+        "105v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00066966"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "1431119e-d09c-4940-824a-50065ae29bcb",
+      "startIndex": 207,
+      "text": "محب الدين أبو العباس أحمد بن شيخنا العلامة عبد الملك الموصلي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "jerusalem",
+            "al-aqsa_mosque"
+          ]
+        ]
+      },
+      "endIndex": 534,
+      "guid": "21c9f5a9-83d5-4884-a42a-b246817b025e",
+      "startIndex": 522,
+      "text": "المسجد الأقصى",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 345,
+      "guid": "43ecaeb3-e8dc-4d4b-a1c5-19fa036771d4",
+      "startIndex": 332,
+      "text": "محمد أبو الجود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 696,
+      "guid": "4bc1a760-ceae-496c-8d88-5ce33e7bd82f",
+      "startIndex": 673,
+      "text": "صحيح ذلك كتبه [........]",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "872"
+        ]
+      },
+      "endIndex": 608,
+      "guid": "4fc16ce5-7e98-463e-98fc-0b6fa0c2a625",
+      "startIndex": 554,
+      "text": "سادس شهور رمضان المعظم قدره سنة اثنتين وسبعين وثمانماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "8a248523-b71e-4691-a029-928dac2719b5",
+      "startIndex": 143,
+      "text": "كمال الدين أبو المعالي محمد بن سلطان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 659,
+      "guid": "90e89ce3-8662-4bf7-a618-3b3084c54bb6",
+      "startIndex": 623,
+      "text": "محمد أبو الخير بن عم المسمع القرقشندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 458,
+      "guid": "a371f9f6-2d56-4025-9668-0e322140a15a",
+      "startIndex": 396,
+      "text": "زين الدين عبد الغني أبو الفضل بن الخواجا شمس الدين محمد بن مزلق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "da67f719-a776-4710-a2fb-1c138153fb53",
+      "startIndex": 73,
+      "text": "العلائي بن القرقشندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "f55b1f9d-5c07-4417-98cf-8421ce3cf19f",
+      "startIndex": 300,
+      "text": "محب الدين أبو اليمن محمود",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله وسلامه على عباده الذين اصطفى\nالسامعون على مولانا وسيدنا الخطير العلائي بن القرقشندي المسمع بسنده المذكور في أوله صاحبها الأخ في الله كمال الدين أبو المعالي محمد بن سلطان وسيدنا ومولانا شيخ الطريقة محب الدين أبو العباس أحمد بن شيخنا العلامة عبد الملك الموصلي الشافعي أسبغ الله ظلاله وسيد[ي] محب الدين أبو اليمن محمود وأخيه محمد أبو الجود في الثانية [....] والجناب العالي الخواجكي الزيني زين الدين عبد الغني أبو الفضل بن الخواجا شمس الدين محمد بن مزلق أحد السادة الأعيان بدمشق المحروسة وسلسل لهم المسلسل بالأولية بالمسجد الأقصى بباب شرف الأنبياء سادس شهور رمضان المعظم قدره سنة اثنتين وسبعين وثمانماية بقراءة كاتبه محمد أبو الخير بن عم المسمع القرقشندي لطف الله به\nصحيح ذلك كتبه [........]"
+}

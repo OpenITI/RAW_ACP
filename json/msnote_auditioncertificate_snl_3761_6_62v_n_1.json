@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "62v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 550,
+      "guid": "1cbd8c8e-0396-41c4-8d13-56fea87cbcc7",
+      "startIndex": 526,
+      "text": "دار الحديث الأشرفية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 384,
+      "guid": "566fa5ec-4cbc-4c46-9e53-5489b69a79ad",
+      "startIndex": 349,
+      "text": "بهاء الدين أبو بكر محمد بن عبد الملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "6b56ba9c-6335-414f-9e80-c2d6d7d6a5ab",
+      "startIndex": 291,
+      "text": "أبو البركات محمد يوسف بن محمد بن إسماعيل الغماري المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "7086e3f0-3a45-4d5c-b657-b86eddb22db7",
+      "startIndex": 197,
+      "text": "محمد بن أحمد بن عمر بن سلمان البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "73126120-005d-4d50-a500-b461b4c984c4",
+      "startIndex": 86,
+      "text": "جمال الدين أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 460,
+      "guid": "b1420635-8840-4d20-a951-3e818963e7e3",
+      "startIndex": 411,
+      "text": "محمد بن إبراهيم بن محمد بن إبراهيم البصراوي المؤدب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "727"
+        ]
+      },
+      "endIndex": 523,
+      "guid": "b2b38f35-e08e-455a-9f5c-f8aeb04f89f9",
+      "startIndex": 477,
+      "text": "الأربعاء سادس عشر رمضان سنة سبع وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "bee20195-e6a2-49ca-8159-89a6718b49b5",
+      "startIndex": 235,
+      "text": "شمس الدين محمد بن عيسى بن أبي الفضل ابن الهيتي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 619,
+      "guid": "f5fed4b9-bddd-4c92-a9a2-a3c290afd065",
+      "startIndex": 585,
+      "text": "محمد بن يحيى بن محمد بن سعد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم العلامة الأوحد الحافظ الناقد شيخ المحدثين جمال الدين أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي بسماعه باطنها من المشايخ الستة بسندهم فسمعه الشيخ محمد بن أحمد بن عمر بن سلمان البالسي وشمس الدين محمد بن عيسى بن أبي الفضل ابن الهيتي الشافعي وأبو البركات محمد يوسف بن محمد بن إسماعيل الغماري المالكي وبهاء الدين أبو بكر محمد بن عبد الملك إمام المدرسة المنكلائية ومحمد بن إبراهيم بن محمد بن إبراهيم البصراوي المؤدب وصح ذلك في يوم الأربعاء سادس عشر رمضان سنة سبع وعشرين وسبعماية بدار الحديث الأشرفية بدمشق المحروسة وأجاز لهم ما يرويه وكتب محمد بن يحيى بن محمد بن سعد المقدسي"
+}

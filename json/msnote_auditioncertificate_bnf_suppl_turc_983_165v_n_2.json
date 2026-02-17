@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "ذكر صلاة المصطفى خلف أبي بكر الصديق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "165v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f170.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f170.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "0b6471c0-43f4-417f-9f0d-32208099201d",
+      "index": 316,
+      "isZeroPoint": false,
+      "startIndex": 34,
+      "text": "أبي أحمد سليمان بن عبد الرحمن بن الحافظ عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "874839fb-e0c8-4401-aa0b-66c97cee41fa",
+      "index": 320,
+      "isZeroPoint": false,
+      "startIndex": 200,
+      "text": "محمد بن عبد الواحد ابن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11- 20"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "c88881f4-37ce-4d4f-9da2-f3f5df0bd6b0",
+      "index": 319,
+      "isZeroPoint": false,
+      "startIndex": 125,
+      "text": "وم الجمعة في العشر الأوسط من جمادى الأولى سنة اثنتين وأربعين وست ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "eac6e0c3-60d8-4a24-a3e2-5b4d6ba63bbc",
+      "index": 317,
+      "isZeroPoint": false,
+      "startIndex": 90,
+      "text": " أبو بكر بن محمد بن طرخان الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع عليَّ هذا الجزء بقراءة الإمام أبي أحمد سليمان بن عبد الرحمن بن الحافظ عبد الغني الإمام أبو بكر بن محمد بن طرخان الدمشقي يوم الجمعة في العشر الأوسط من جمادى الأولى سنة اثنتين وأربعين وست ماية كتبه محمد بن عبد الواحد ابن أحمد المقدسي وصلى الله على محمد وآله وسلم تسليمًا"
+}

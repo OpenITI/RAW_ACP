@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبدالله بن الزبير القرشي الحميدي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند الحميدي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "1245"
+      ],
+      "folio_number": [
+        "129r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "0db3a823-8f8c-4db9-8b31-961600260af5",
+      "startIndex": 204,
+      "text": " أبو البركات محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "16994aea-6ffe-43a3-bc84-cff342ad643a",
+      "startIndex": 133,
+      "text": "شرف الدين أبي محمد عبد الله المسمى شاكر الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-zafiri_mosque"
+          ]
+        ]
+      },
+      "endIndex": 249,
+      "guid": "520cdb10-8eac-487d-a9d9-35e7366374db",
+      "startIndex": 230,
+      "text": "جامع الظافر بالقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "560de09b-6027-49e0-ac2b-c01aadd86059",
+      "startIndex": 190,
+      "text": "ابن عماد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani / Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "fe2ad24f-a461-4406-9d79-439cb241220e"
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "61ece52e-4886-4bdc-95db-c4724ded5506",
+      "startIndex": 19,
+      "text": "فخر الدين أبو عمرو عثمان بن محمد بن عثمان التوزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "71015152-5723-4602-bcec-ac12e8b9229e",
+      "startIndex": 89,
+      "text": "أبي العز يوسف بن عبد المحسن بن يوسف الحمزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "686"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "bd9fe22e-0f46-4f47-b7a1-3399450c8cab",
+      "startIndex": 270,
+      "text": "الثلثاء لخمس عشرة ليلة خلت من جمادى الآخرة سنة ست وثمانين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه شيخنا الإمام فخر الدين أبو عمرو عثمان بن محمد بن عثمان التوزري بقراءته على الشيخين أبي العز يوسف بن عبد المحسن بن يوسف الحمزي وشرف الدين أبي محمد عبد الله المسمى شاكر الله بسماعهما من ابن عماد وولده أبو البركات محمد وجماعة بجامع الظافر بالقاهرة في مجالس آخرها يوم الثلثاء لخمس عشرة ليلة خلت من جمادى الآخرة سنة ست وثمانين وستمائة"
+}

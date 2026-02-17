@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مجهول المؤلف"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه فضل رجب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 65 "
+      ],
+      "classmark": [
+        "3750/11"
+      ],
+      "folio_number": [
+        "151v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "salihiya_quarter"
+          ]
+        ]
+      },
+      "endIndex": 173,
+      "guid": "17abacbf-138d-402f-997c-3e4b646348a8",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 138,
+      "text": "بستاننا بالسهم الأعلى من صالحية دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 254,
+      "guid": "7dcb0a25-a1ed-435a-9dba-1a8943ba7879",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 237,
+      "text": "يوسف بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "897"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "804acc03-6130-4806-b5dd-0f50dede86ab",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 79,
+      "text": "الخميس سابع عشرين شهر رجب الفرد سنة سبع وتسعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "f596e7ee-dc34-453f-b2ef-5a8e1bfff53e",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "شمس الدين محمد بن علي ابن محمد بن طولون",
+      "type": "person"
+    }
+  ],
+  "text": " الحمد لله أنهاه عليَّ قراءة الولد شمس الدين محمد بن علي ابن محمد بن طولون يوم الخميس سابع عشرين شهر رجب الفرد سنة سبع وتسعين وثمان ماية ببستاننا بالسهم الأعلى من صالحية دمشق وأجزت له أن يرويه عني وجميع ما يجوز لي وعني روايته بشرطه وكتب يوسف بن عبد الهادي"
+}

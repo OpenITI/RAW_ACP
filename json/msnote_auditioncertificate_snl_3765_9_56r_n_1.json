@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        " ؟"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الكناني (غير مفهرس)  ورقة مفردة فيها طباق السماع"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 148"
+      ],
+      "classmark": [
+        "3765/9"
+      ],
+      "folio_number": [
+        "56r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "3d7b26e3-2fb4-4d9f-adfe-c875799bf587",
+      "startIndex": 109,
+      "text": "يوسف ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "651dfad5-0603-4ab0-8ba8-62b8a0a876c6",
+      "startIndex": 154,
+      "text": "محمد بن الحسن بن وزير الدمشقي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "77a985fe-8604-4088-8d98-87abad35ded4",
+      "startIndex": 59,
+      "text": "جابر بن ياسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "8abd79ef-14e7-44f4-8ae7-4c0811ef5a7a",
+      "startIndex": 80,
+      "text": "يوسف بن محمد بن مقلد الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "96873429-af8a-4c34-8825-868a9ca1fadf",
+      "startIndex": 8,
+      "text": "أبي عبد الله محمد بن محمد بن أحمد السلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "ad0a99b8-327a-4390-acd6-b401239d4ad6",
+      "startIndex": 115,
+      "text": "سليمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "b6cf3d70-60d4-4e4e-a9d7-47c59d06b383",
+      "startIndex": 123,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "539"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "eb329c95-51bc-483c-8382-6fc454b28c44",
+      "startIndex": 204,
+      "text": "الثلثاء سابع عشري رجب من سنة تسع وثلاثين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "f3ceb2b9-7628-45ca-90a0-b40a4fc74c55",
+      "startIndex": 258,
+      "text": " محمد بن عبد الغني بن نقطة",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من أبي عبد الله محمد بن محمد بن أحمد السلال بسماعه من جابر بن ياسين بقراءة يوسف بن محمد بن مقلد الدمشقي يوسف وسليمان وعلي أولاد محمد بن علي الموصلي ومحمد بن الحسن بن وزير الدمشقي وكتب الأسماء في يوم الثلثاء سابع عشري رجب من سنة تسع وثلاثين وخمسمائة نقله محمد بن عبد الغني بن نقطة وصح والحمد لله"
+}

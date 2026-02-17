@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        " احمد بن ايبك بن عبد الله الحسامي ابن الدمياطي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء فيه احديث العوالي والفوائد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "20r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000041.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059152"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 240,
+      "guid": "1ec7320c-2ed2-4d62-a05c-05047fb35c33",
+      "startIndex": 235,
+      "text": "منزلها",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "56197827-9f28-467f-9b81-788e8033c364",
+      "startIndex": 135,
+      "text": "شمس الدين محمد بن العلامة شمس الدين محمد بن الحسن الأسيوطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "b8b5d867-6e8c-4216-940e-be5f0edb87cf",
+      "startIndex": 93,
+      "text": "أحمد بن علي بن حجر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "801"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "c585142a-582b-4cda-90c3-f5f5d04d221a",
+      "startIndex": 202,
+      "text": "سابع شعبان سنة إحدى وثمان مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "ddaef5eb-5def-452c-8081-1db48754c282",
+      "startIndex": 36,
+      "text": "مريم بنت أحمد بن محمد الأذرعي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذه المشيخة سوى كلام مخرجها على مريم بنت أحمد بن محمد الأذرعي بسماعها نقلاً أعلاه بقراءة أحمد بن علي بن حجر وذا خطه، الرحلة البارع شمس الدين محمد بن العلامة شمس الدين محمد بن الحسن الأسيوطي، وصح في سابع شعبان سنة إحدى وثمان مائة، بمنزلها [...] والحمد لله والصلاة والسلام على سيدنا رسول الله."
+}

@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الآدمي الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عوالي الإمام أبي حنيفة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 34"
+      ],
+      "classmark": [
+        "3744/6"
+      ],
+      "folio_number": [
+        "48v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "38c37f6d-881b-44d2-8618-f6c210f682b9",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 101,
+      "text": "غرس الدين أبو الفضل يمن بن عبد الله بن العزيزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 230,
+      "guid": "5e6fa64c-ea34-4871-8bb6-1fc7d461d125",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 228,
+      "text": "حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "785bf1d8-4b71-43a7-8d85-25a9bbf7f6b9",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 149,
+      "text": "معين الدين بركوت بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "637"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "7a605e92-b6d6-45c6-954f-1d6050b5e0bd",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 184,
+      "text": " يوم الخميس ثامن صفر سنة سبع وثلثين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "bb5af1c0-163f-48a4-9453-9a091dec207b",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 69,
+      "text": "أبي يعقوب يوسف بن سلامة الحراني",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه وما ألحق به سوى ما ألحق في سنة اثنتين وأربعين من مخرجه بقراءة أبي يعقوب يوسف بن سلامة الحراني غرس الدين أبو الفضل يمن بن عبد الله بن العزيزي ومعين الدين بركوت بن عبد الله وآخرون يوم الخميس ثامن صفر سنة سبع وثلثين وستمية بحلب المحروسة "
+}

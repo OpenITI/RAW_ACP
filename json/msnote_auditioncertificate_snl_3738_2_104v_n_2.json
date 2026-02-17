@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مسلم بن الحجاج القشيري"
+      ],
+      "work_title": [
+        "الكنى والأسماء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 16"
+      ],
+      "classmark": [
+        "3738/2"
+      ],
+      "folio_number": [
+        "104v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "1395ac06-3f69-4068-934f-ce68bac7ae24",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 121,
+      "text": "عمر بن عبد الملك بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "6"
+        ],
+        "year": [
+          "471"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "ad08d529-20b3-49d4-a561-9c37b04e8150",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "جمادى الآخرة سنة إحدى وسبعين وأربع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "bc90df3b-11f3-406d-88a3-544bc0603845",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 45,
+      "text": "أبو محمد عبد الله بن عطاء الهروي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "e4433da4-03a7-4bf8-b707-f800a0b99b17",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 91,
+      "text": "أبي الفتح بن أبي الفوارس",
+      "type": "person"
+    }
+  ],
+  "text": " قرأ هذا الكتاب من أوله إلى آخره عليَّ الشيخ أبو محمد عبد الله بن عطاء الهروي ولي إجازة من أبي الفتح بن أبي الفوارس وكتب عمر بن عبد الملك بن عمر في جمادى الآخرة سنة إحدى وسبعين وأربع مائة وفيه كانت الإجازة"
+}

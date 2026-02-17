@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن المظفر بن محمد بن موسى بن عيسى البزاز "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 50/51"
+      ],
+      "classmark": [
+        "3747/10"
+      ],
+      "folio_number": [
+        "143v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 226,
+      "guid": "01d7f708-f6df-49de-bd4c-868b18dafa0c",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 214,
+      "text": "الدار النورية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "1ad5dc6a-9cb5-4c9e-9362-0ae912222b01",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 62,
+      "text": "ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "8d2ce090-f9a6-49a0-98e1-0ecdb123109a",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 75,
+      "text": "ابن شيبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "b7d6794a-de79-4c86-87f9-38ebfb2bb1d8",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "c18f85f2-af28-4e2f-867f-9e8a2fbbbd7d",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 96,
+      "text": "إسماعيل بن أبي عبد الله بن العسقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "cc9040f3-0da2-4088-a292-12d511c3a3b8",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 86,
+      "text": "ابنة مكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "d644fa53-6632-419a-b0bd-62db30b1eaa1",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": "أبي محمد القاسم بن محمد البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "732"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "dffc8190-bf9e-4dfd-8f40-8a19317f21e2",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "الثامن والعشرين من ذي الحجة سنة اثنتين وثلاثين وسبعمية",
+      "type": "date"
+    }
+  ],
+  "text": "  وسمعه على الحافظ أبي محمد القاسم بن محمد البرزالي بسماعه من ابن البخاري وابن شيبان وابنة مكي وإسماعيل بن أبي عبد الله بن العسقلاني محمد بن المحب وذا خطه في الثامن والعشرين من ذي الحجة سنة اثنتين وثلاثين وسبعمية بالدار النورية"
+}

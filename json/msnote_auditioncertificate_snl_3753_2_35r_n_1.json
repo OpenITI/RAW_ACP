@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن محمد بن إبراهيم الحنائي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي القاسم الحنائي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 70"
+      ],
+      "classmark": [
+        "3753/2"
+      ],
+      "folio_number": [
+        "35r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 35,
+      "guid": "05a3bd0f-0a63-4ead-afce-c6d27e2eea6e",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 6,
+      "text": "أبي طاهر بركات بن طاهر الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "8d24d026-582a-4d08-b071-caf688f943fe",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 41,
+      "text": "أبي محمد طاهر بت سهل بن بشر الإسفراييني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "cabbcc19-5a12-4d1e-8e6e-ee7ea1cd5fad",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 94,
+      "text": "الحنائي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "4"
+        ],
+        "year": [
+          "510"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "f46d6fd3-72e5-4151-a6e1-ee85ea22f558",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 102,
+      "text": "في شهر ربيع الآخر سنة عشر وخمس ماية",
+      "type": "date"
+    }
+  ],
+  "text": " سماع أبي طاهر بركات بن طاهر الخشوعي على أبي محمد طاهر بت سهل بن بشر الإسفراييني بحق سماعه من الحنائي في شهر ربيع الآخر سنة عشر وخمس ماية "
+}

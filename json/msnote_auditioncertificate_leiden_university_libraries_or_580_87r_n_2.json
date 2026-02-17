@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "87r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "25ca8daf-1e05-4576-9280-01f742f2fb4a",
+      "startIndex": 30,
+      "text": "ابن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "5257a83c-186b-4503-a894-f44b864d46b5",
+      "startIndex": 273,
+      "text": "أحمد بن محمد الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "7039738b-dce0-416b-9318-41c95d8d1e58",
+      "startIndex": 88,
+      "text": "عبد الجليل الأبهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "609"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "72db5e43-a23a-4ef1-9347-443dfdd2bc8a",
+      "startIndex": 200,
+      "text": "الجمعة سابع عشرين جمادى الثانية سنة تسع وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "8af4e4f4-e140-4f06-9e23-7356a0de61b7",
+      "startIndex": 51,
+      "text": "أبي محمد عبد العزيز بن عثمان الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "995878e1-44ac-4137-9774-cd9f95586db9",
+      "startIndex": 170,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "ef3c43db-b610-41e1-90e0-68357def0965",
+      "startIndex": 124,
+      "text": "إبراهيم بن أبي المحاسن بن رسلان الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء السابع على ابن الحرستاني بقراءة أبي محمد عبد العزيز بن عثمان الإربلي عبد الجليل الأبهري وسمع النصف الأول إبراهيم بن أبي المحاسن بن رسلان الشافعي وابنه محمد وصح في مجلسين آخرهما يوم الجمعة سابع عشرين جمادى الثانية سنة تسع وستمية نقله مختصرا من خط الأبهري أحمد بن محمد الظاهري ومن خطه نقلت"
+}

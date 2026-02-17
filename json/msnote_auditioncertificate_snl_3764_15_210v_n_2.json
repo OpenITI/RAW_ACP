@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الخطيب البغدادي بجامع دمشق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 143"
+      ],
+      "classmark": [
+        "3764/15"
+      ],
+      "folio_number": [
+        "210v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 22,
+      "guid": "2578db60-af7c-4447-98e7-09a958911098",
+      "startIndex": 10,
+      "text": " ابـن طـبـرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "603"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "5960e271-d7f9-44b1-b7fb-402825c348b9",
+      "startIndex": 96,
+      "text": "الثالث من شعبان سنة ثلاث وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "65c1bd95-d025-4bed-8cc9-3e445207067c",
+      "startIndex": 135,
+      "text": "علي بن مسعود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "daa2349a-4e13-4892-bac8-7a6c74b6e1d4",
+      "startIndex": 30,
+      "text": "علي بن أحـمـد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعـه مـن ابـن طـبـرزد أيضاً علي بن أحـمـد بـقـراءة أبيه والسماع بخطه في سنة تاريخه [يوم الأحد الثالث من شعبان سنة ثلاث وستمائة] لخصه علي بن مسعود"
+}

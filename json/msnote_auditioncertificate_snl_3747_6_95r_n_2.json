@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/6"
+      ],
+      "folio_number": [
+        "95r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "1c094064-ccc8-4f3d-89dc-88c44d0dc250",
+      "index": 340,
+      "isZeroPoint": false,
+      "startIndex": 345,
+      "text": "أحمد بن نجم الدين يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "209a15ed-47a5-453c-bbf2-6dc7a5c023c0",
+      "index": 335,
+      "isZeroPoint": false,
+      "startIndex": 140,
+      "text": "أبو حنيفة بن عبد الله الزيلعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-fakhriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 479,
+      "guid": "278ef35b-22bf-42b6-b166-8fbda58daee4",
+      "index": 342,
+      "isZeroPoint": false,
+      "startIndex": 454,
+      "text": "المدرسة الفخرية من القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 215,
+      "guid": "2bd0f3f6-1b32-49b0-821b-512a21648c4d",
+      "index": 336,
+      "isZeroPoint": false,
+      "startIndex": 177,
+      "text": "محمد بن علي بن الشجاع عبد الرحمن الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "3663588c-393c-4b99-8f4c-125af1f2e788",
+      "index": 332,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": "ناصر الدين نصر الله بن داود بن نصر الله الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 524,
+      "guid": "716b952c-8984-4808-a206-3cbebb7caf4c",
+      "index": 343,
+      "isZeroPoint": false,
+      "startIndex": 492,
+      "text": "محمد بن رافع بن أبي محمد بن محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "722"
+        ]
+      },
+      "endIndex": 452,
+      "guid": "a1bc71eb-4c71-4b83-b62e-adf67add1725",
+      "index": 341,
+      "isZeroPoint": false,
+      "startIndex": 386,
+      "text": "يوم الثلثا الثاني والعشرين من شهر رمضان سنة اثنتين وعشرين وسبعماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 342,
+      "guid": "a8c580d5-8c21-4840-9598-19bbd66506fb",
+      "index": 339,
+      "isZeroPoint": false,
+      "startIndex": 318,
+      "text": "أبو بكر بن عوض بن إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "a8ddda72-2305-4a9b-b1cc-fd1d6e3a9e91",
+      "index": 337,
+      "isZeroPoint": false,
+      "startIndex": 218,
+      "text": "شهاب الدين أحمد بن حسن بن أبي بكر الرهاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "b875eb6c-ff6c-4a62-b2d0-b3f7a673a13a",
+      "index": 333,
+      "isZeroPoint": false,
+      "startIndex": 91,
+      "text": "النجيب الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "da3cd50c-312b-43ff-953f-cf92cb1a103a",
+      "index": 334,
+      "isZeroPoint": false,
+      "startIndex": 110,
+      "text": "ابن الأخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "fc5be523-a33f-42a3-9eee-7a0df69ae1d8",
+      "index": 338,
+      "isZeroPoint": false,
+      "startIndex": 261,
+      "text": "إبراهيم ابن الشيخ شمس الدين محمد بن عبد الرحيم الأسيوطي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأته على الشيخ الإمام ناصر الدين نصر الله بن داود بن نصر الله الدمشقي بسماعه فيه نقلا من النجيب الحراني أنا ابن الأخضر بسنده فسمعه الفقيه أبو حنيفة بن عبد الله الزيلعي والشيخ محمد بن علي بن الشجاع عبد الرحمن الحلبي وشهاب الدين أحمد بن حسن بن أبي بكر الرهاوي وإبراهيم ابن الشيخ شمس الدين محمد بن عبد الرحيم الأسيوطي وأبو بكر بن عوض بن إبراهيم وأحمد بن نجم الدين يحيى ابن المسمع وصح في يوم الثلثا الثاني والعشرين من شهر رمضان سنة اثنتين وعشرين وسبعماية بالمدرسة الفخرية من القاهرة وأجاز كتبه محمد بن رافع بن أبي محمد بن محمد "
+}

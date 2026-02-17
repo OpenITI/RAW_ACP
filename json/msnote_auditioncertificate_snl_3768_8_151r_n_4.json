@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحارث بن محمد بن أبي أسامة داهر التميمي البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث علي بن عاصم عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 163"
+      ],
+      "classmark": [
+        "3768/8"
+      ],
+      "folio_number": [
+        "151r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "609"
+        ]
+      },
+      "endIndex": 214,
+      "guid": "61c1a0a6-777b-4449-83d1-62c23351c3fc",
+      "startIndex": 180,
+      "text": " أواخر عشر ذي الحجة سنة تسع وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 235,
+      "guid": "676e0818-9c48-43ae-8ab9-7ab6ddf1f39a",
+      "startIndex": 217,
+      "text": "دمشق بمسجدها الجامع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "ad5c7afc-1dd2-4ff0-940b-25ea1c6be2a8",
+      "startIndex": 132,
+      "text": "محمد بن عبد الله بن عبد الرحمن النوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "e01d2917-5bc1-45b3-bad5-d95b9cd3083a",
+      "startIndex": 97,
+      "text": "محمد بن معالي بن محمد الكناني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "ed3a0215-11fb-410d-ba8e-6bd99e805242",
+      "startIndex": 38,
+      "text": "موفق الدين أبي محمد عبد الله بن أحمد بن محمد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت من أوله إلى آخره قراءة على شيخنا موفق الدين أبي محمد عبد الله بن أحمد بن محمد المقدسي فسمعه محمد بن معالي بن محمد الكناني وكتب محمد بن عبد الله بن عبد الرحمن النوري وصح ذلك في أواخر عشر ذي الحجة سنة تسع وستمائة بدمشق بمسجدها الجامع والحمد لله وصلى الله على محمد وآله"
+}

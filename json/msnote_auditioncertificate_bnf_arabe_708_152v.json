@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "152v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f156.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f156.item.r=%22arabe%20708%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "0b7aa47f-449e-46cc-9a03-3761d9b6c651",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 346,
+      "text": "شهاب الدين أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "salihiya_quarter"
+          ]
+        ]
+      },
+      "endIndex": 859,
+      "guid": "1d2ab179-0ea4-4d16-b8e4-2693ca86bfe5",
+      "index": 80,
+      "isZeroPoint": false,
+      "startIndex": 782,
+      "text": "مسجد الله تعالى يعرف بإنشاء والد القارئ المذكور بحارة الصالحية الكبرى بالقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 598,
+      "guid": "2e7a7472-b3b1-4757-8d2b-b158916c63bb",
+      "index": 77,
+      "isZeroPoint": false,
+      "startIndex": 561,
+      "text": "شهاب الدين أحمد بن نصير ابن نبأ المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 695,
+      "guid": "4ab85020-d08b-4413-a6a0-6679637386ba",
+      "index": 78,
+      "isZeroPoint": false,
+      "startIndex": 627,
+      "text": "أحمد بن الحسن بن علي بن عيسى بن الحسن ابن علي اللخمي عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "684"
+        ]
+      },
+      "endIndex": 779,
+      "guid": "564ab4c6-332f-4bbe-89d7-68175d838197",
+      "index": 79,
+      "isZeroPoint": false,
+      "startIndex": 722,
+      "text": "يوم الأحد لليلتين ان بقيتا من صفر سنة اربع وثمانين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "6202cfb3-ada2-46f5-8ba3-629880daa18d",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 312,
+      "text": "أبو القاسم عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 558,
+      "guid": "94e5b8d2-aa42-4886-81fb-27452f6b671b",
+      "index": 76,
+      "isZeroPoint": false,
+      "startIndex": 493,
+      "text": "أبو البركات محمد بن الإمام فخر الدين أبي عمر عثمان بن محمد التوزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "9d9c944f-5ded-42f5-a64a-0d8db8f6321d",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 200,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 449,
+      "guid": "cb886081-72b7-4215-9335-21ab9b01a91c",
+      "index": 74,
+      "isZeroPoint": false,
+      "startIndex": 408,
+      "text": "محي الدين أحمد بن عبد الغني بن محمد الصعبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "da44500b-ff8e-463b-a12e-2bcf3b53bdf2",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 243,
+      "text": "بدر الدين أبي عبد الله محمد بن منصور ابن إبراهيم الحلبي الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 490,
+      "guid": "e2afb3f5-2e0f-4146-9d6d-76ea4126c5af",
+      "index": 75,
+      "isZeroPoint": false,
+      "startIndex": 452,
+      "text": "أبو القاسم أحمد بن محمد بن محمد بن هشام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "e641d558-5eea-460e-b0b1-8d251c0197cc",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 105,
+      "text": "شهاب الدين أبي الفضل عبد الرحيم بن يوسف ابن يحيى الدمشقي الشافعي عرف بابن خطيب المزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 405,
+      "guid": "f830d576-151f-48e3-ae74-10feca56fe07",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 363,
+      "text": "جمال الدين حسب الله بن حمزة بن خليل الحنبلي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء الحادي عشر وجميع الجزء الثاني عشر بعده من كتاب السنن لأبي داود على الشيخ الأجل المسند شهاب الدين أبي الفضل عبد الرحيم بن يوسف ابن يحيى الدمشقي الشافعي عرف بابن خطيب المزة بسماعه من ابن طبرزد بسنده بقراءة المولا الأجل الفاضل بدر الدين أبي عبد الله محمد بن منصور ابن إبراهيم الحلبي الجوهري ولده أبو القاسم عبد الرحمن وأخوه لأبيه شهاب الدين أحمد وجمال الدين حسب الله بن حمزة بن خليل الحنبلي ومحي الدين أحمد بن عبد الغني بن محمد الصعبي وأبو القاسم أحمد بن محمد بن محمد بن هشام وأبو البركات محمد بن الإمام فخر الدين أبي عمر عثمان بن محمد التوزري وشهاب الدين أحمد بن نصير ابن نبأ المقرئ وهو كاتب الأسماء في الأصل وأحمد بن الحسن بن علي بن عيسى بن الحسن ابن علي اللخمي عرف بابن الصيرفي وهذا خطه وصح ذلك وثبت في يوم الأحد لليلتين ان بقيتا من صفر سنة اربع وثمانين وستماية بمسجد الله تعالى يعرف بإنشاء والد القارئ المذكور بحارة الصالحية الكبرى بالقاهرة والحمد لله وحده وصلواته على محمد"
+}

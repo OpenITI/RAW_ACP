@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عشرة أحاديث عن عشرة مشايخ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 59 "
+      ],
+      "classmark": [
+        "3749/7"
+      ],
+      "folio_number": [
+        "195r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "02c298d6-e84d-481c-b35e-96f80980735e",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "عز الدين إبراهيم بن صالح بن هاشم بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 554,
+      "guid": "1435515a-06b4-4977-9f93-93937f165556",
+      "index": 107,
+      "isZeroPoint": false,
+      "startIndex": 541,
+      "text": "إبراهيم بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 385,
+      "guid": "39e1d8e1-74a5-44d5-bfd6-1bd9f0ae7a4d",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 366,
+      "text": "تاج الدين عبد الوهاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "730"
+        ]
+      },
+      "endIndex": 632,
+      "guid": "41d01a53-963c-4e42-bf5b-3ac948464588",
+      "index": 108,
+      "isZeroPoint": false,
+      "startIndex": 586,
+      "text": "يوم الثلثاء سادس عشري ذي قعدة سنة ثلثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "496e2239-acbf-4072-b660-0393ecf4e421",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 154,
+      "text": "عمر بن إبراهيم بن عبد الله بن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "819946b8-859b-4edb-a20a-a7846d4209cd",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 212,
+      "text": "جمال الدين أبو إسحق إبراهيم بن قاضي القضاة ناصر الدين محمد بن قاضي القضاة كمال الدين عمر بن قاضي القضاة عز الدين عبد العزيز بن أبي جرادة عرف بابن العديم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 527,
+      "guid": "d9b0b962-b6f1-4963-b21b-ecd135e42f94",
+      "index": 106,
+      "isZeroPoint": false,
+      "startIndex": 498,
+      "text": "هاشم بن عمر بن محمد بن العجمي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 495,
+      "guid": "dcecdeac-5d5c-4155-a2c4-ffa9864585d7",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 455,
+      "text": "أبو حفص عمر بن الشرف عيسى بن عمر الباريني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "diyar_al-ajam"
+          ]
+        ]
+      },
+      "endIndex": 670,
+      "guid": "e1e49e3c-635d-4037-9b4d-efccd071919d",
+      "index": 109,
+      "isZeroPoint": false,
+      "startIndex": 635,
+      "text": "منزل المسمع من دير بني العجمي من حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "ffde6a7f-6d95-4fc3-86de-235a1f40d5ad",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 93,
+      "text": "فخر الدين عبد الرحمن بن محمد بن عبد الرحمن البعلبكي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على عز الدين إبراهيم بن صالح بن هاشم بن عبد الله بسماعه تراه نقلا قباله بقراءة الإمام فخر الدين عبد الرحمن بن محمد بن عبد الرحمن البعلبكي جمع منهم عمر بن إبراهيم بن عبد الله بن العجمي ومن خطه لخصت والقاضي جمال الدين أبو إسحق إبراهيم بن قاضي القضاة ناصر الدين محمد بن قاضي القضاة كمال الدين عمر بن قاضي القضاة عز الدين عبد العزيز بن أبي جرادة عرف بابن العديم وتاج الدين عبد الوهاب بن المسمع وسمع من أول ترجمة أبي المكارم اللبان إلى آخر الجزء الإمام أبو حفص عمر بن الشرف عيسى بن عمر الباريني وهاشم بن عمر بن محمد بن العجمي وحفيد المسمع إبراهيم بن علي وصح ذلك وثبت في مجلسين آخرهما يوم الثلثاء سادس عشري ذي قعدة سنة ثلثين وسبعمية بمنزل المسمع من دير بني العجمي من حلب وأجاز"
+}

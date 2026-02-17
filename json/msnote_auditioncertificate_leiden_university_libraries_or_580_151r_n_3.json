@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "151r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "03880e2e-cb7e-4cb7-950d-b6e1dff7057e",
+      "startIndex": 291,
+      "text": "إسماعيل بن عبد الله بن عبد المحسن الأنصاري عرف بابن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 219,
+      "guid": "0ab98007-45d1-4401-8c43-ab99cf1385dc",
+      "startIndex": 211,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "2796e731-4d2e-411f-9e09-0d649bc32504",
+      "startIndex": 32,
+      "text": "أبي طاهر بركات بن إبراهيم بن طاهر القرشي الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "db4d6a6d-572a-4651-86f2-390de6771f6a",
+      "startIndex": 114,
+      "text": "أبو جعفر محمد بن أحمد بن حماد الأنباري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "e504bad6-143b-4f1a-8bb1-0ae915fc814a",
+      "startIndex": 153,
+      "text": "وأبو الدر ياقوت بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "594"
+        ]
+      },
+      "endIndex": 284,
+      "guid": "fd5648e8-8422-4aa3-8012-1a9a02279f97",
+      "startIndex": 237,
+      "text": " الجمعة سابع وعشرين رجب سنة أربع وتسعين وخمسماية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت الجزء كله على الشيخ الأمين أبي طاهر بركات بن إبراهيم بن طاهر القرشي الخشوعي أيده الله بسماعه فيه فسمعه الشيخ أبو جعفر محمد بن أحمد بن حماد الأنباري وأبو الدر ياقوت بن عبد الله مولى عسكر بن نصر الحموي وذلك بجامع دمشق عمره الله في يوم الجمعة سابع وعشرين رجب سنة أربع وتسعين وخمسماية كتبه إسماعيل بن عبد الله بن عبد المحسن الأنصاري عرف بابن الأنماطي"
+}

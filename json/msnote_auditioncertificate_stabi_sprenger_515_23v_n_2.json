@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد اللطيف بن عبد المنعم ابن الصيقل الحراني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء العاشر من موافقات الايمّة الستّة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 515"
+      ],
+      "folio_number": [
+        "23v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011391"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "hikariya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 270,
+      "guid": "365317d2-b5bc-4384-a261-f9daee95a452",
+      "startIndex": 251,
+      "text": "الهكارية) من القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "723"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "b0d89ed0-4bb4-4f5b-9a99-dd0124013023",
+      "startIndex": 168,
+      "text": "يوم الاثنين سابع ذي الحجة سنة ثلاث وعشرين وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "b69ce59c-675a-4ad6-ab32-7c1bd2b96cb0",
+      "startIndex": 286,
+      "text": "محمد بن إبراهيم بن محمد الواني.",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "dea1bee1-872e-4283-8674-abe0b1949a92",
+      "startIndex": 149,
+      "text": "النجيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "f02976b8-0edd-4f9e-80f9-8bfc265d3d89",
+      "startIndex": 59,
+      "text": "ناصر الدين أبي عبد الله محمد بن سعد بن عبد الله بن شجاع السعدي الصفار",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت من البلاغ بخطي على البسطامي إلى آخره على الشيخ الصالح ناصر الدين أبي عبد الله محمد بن سعد بن عبد الله بن شجاع السعدي الصفار بسماعه فيه أصلاً من النجيب وصح وثبت في يوم الاثنين سابع ذي الحجة سنة ثلاث وعشرين وسبعمئة بالمدرسة الكهارية (كذا وربما قصد الهكارية) من القاهرة المحروسة وكتب محمد بن إبراهيم بن محمد الواني."
+}

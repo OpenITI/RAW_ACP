@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 124"
+      ],
+      "classmark": [
+        "3762/3"
+      ],
+      "folio_number": [
+        "21r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "1947f85d-974b-43c2-b787-9f80be0c5450",
+      "startIndex": 106,
+      "text": " أبو محمد إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "2caa8fc2-fe98-4493-a747-f7eb979fded8",
+      "startIndex": 297,
+      "text": "ابن سامة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "3ba77d5c-01c6-40f0-82bf-f244baea0a3e",
+      "startIndex": 16,
+      "text": "أبي اليمن زيد بن الحسن بن زيد الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10-20"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "594"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "4a491f9f-9104-4de9-b595-ff3c79a89572",
+      "startIndex": 181,
+      "text": "الثلثاء في العشر الوسط [كذا] من شوال سنة أربع وتسعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "9d14fb59-8d82-4ceb-a0e2-3fd30733bb3a",
+      "startIndex": 148,
+      "text": "إبراهيم ابن محمد القفصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "d12522e7-a4fa-431e-9bea-43df16a69845",
+      "startIndex": 66,
+      "text": " أبي إسحق إبراهيم بن أبي اليسر شاكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "d591460a-5a83-4bb0-9eba-6f22849b40bc",
+      "startIndex": 258,
+      "text": "أبو الحسن بن هلال",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من العلامة أبي اليمن زيد بن الحسن بن زيد الكندي بقراءة الإمام أبي إسحق إبراهيم بن أبي اليسر شاكر ولده أبو محمد إسماعيل وآخرون منهم كاتب السماع إبراهيم ابن محمد القفصي وذلك يوم الثلثاء في العشر الوسط [كذا] من شوال سنة أربع وتسعين وخمس ماية نقله من الأصل أبو الحسن بن هلال ومن خطه نقله إلى هنا ابن سامة عفا الله عنه "
+}

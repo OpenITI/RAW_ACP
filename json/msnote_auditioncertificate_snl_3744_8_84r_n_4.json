@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن أحمد بن عبد الله بن البناء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المغنية في السكوت ولزوم البيوت"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 35"
+      ],
+      "classmark": [
+        "3744/8"
+      ],
+      "folio_number": [
+        "84r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "1b322feb-6ba1-45c2-be9d-9ed1097fa1c1",
+      "index": 168,
+      "isZeroPoint": false,
+      "startIndex": 128,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "53c11dbf-1cf5-4f99-bba5-90ee9fef82b4",
+      "index": 166,
+      "isZeroPoint": false,
+      "startIndex": 10,
+      "text": " أبو عبد الله محمد بن أبي النصر بن عثمان العنبتاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "1"
+        ],
+        "year": [
+          "788"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "a01c44b4-136e-42a0-8caa-6f3b5541bff8",
+      "index": 167,
+      "isZeroPoint": false,
+      "startIndex": 93,
+      "text": "محرم سنة ثمان وثمانين وسبعمية",
+      "type": "date"
+    }
+  ],
+  "text": " سمعها مني أبو عبد الله محمد بن أبي النصر بن عثمان العنبتاوي بقراءته بالسند على وجه الجزء في محرم سنة ثمان وثمانين وسبعمية كتبه محمد بن المحب"
+}

@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمرو محمد بن أحمد بن حمدان الحيري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سؤالات أبي عمرو محمد بن أحمد بن حمدان الحيري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "154v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f162.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f162.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "714"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "009ce51d-cf84-46e6-b90a-4ffe06fce28e",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 102,
+      "text": "يوم السبت التاسع من جمادى الآخرة سنة أربع عشرة وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "0748ad87-0a4a-47a6-8307-aa5fde9f785e",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "زاهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "2ecbbc74-4887-4d9f-a5d6-50418aa4e44d",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 84,
+      "text": "عمر بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 39,
+      "guid": "485a6a92-81fb-4e3f-81e6-d9ebf12e027e",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 33,
+      "text": "أبي روح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 28,
+      "guid": "b7dfc285-0672-4e36-a2b1-42358b768a83",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 22,
+      "text": " البكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 171,
+      "guid": "d8900f83-963b-466f-baaa-5f972bd4ddee",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "f85d4855-a7b4-4b3f-8233-f68766e1cc32",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 56,
+      "text": "محمد بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 18,
+      "guid": "fdec8093-dbef-463c-ac2f-c1b3f84abf06",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 9,
+      "text": "ابن الزراد",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على ابن الزراد عن البكري عن أبي روح عن زاهر بقراءة محمد بن يوسف المزي ابن أخيه عمر بن عبد الرحمن يوم السبت التاسع من جمادى الآخرة سنة أربع عشرة وسبعمئة بالجامع المظفري بسفح قاسيون"
+}

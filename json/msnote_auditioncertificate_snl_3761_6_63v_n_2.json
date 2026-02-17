@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "63v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "389d5a9a-5366-45c9-b2cc-5c7f8993b2b4",
+      "startIndex": 147,
+      "text": "الخميس ثاني عشـ[ـر] ذي القعدة سنة خمس وثلثين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "52b345d3-0dc9-4dbf-a717-381f167b7bcd",
+      "startIndex": 105,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "5f79c3a1-8d6c-4613-8381-906e9f9614ca",
+      "startIndex": 78,
+      "text": "عمر بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "79b6d179-4f50-4728-b800-8894b004bfd9",
+      "startIndex": 34,
+      "text": " أبي البركات عبد الوهاب بن المبارك الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 321,
+      "guid": "80d2aad8-0a1a-4abe-b988-aa97a73151ad",
+      "startIndex": 296,
+      "text": "محمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "8922aa6d-9c59-4cad-a3de-b4332222fc8e",
+      "startIndex": 250,
+      "text": "عبد الرحمن بن محمد بن عبد الغني المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "nahr_al-qala'in"
+          ]
+        ]
+      },
+      "endIndex": 213,
+      "guid": "d2cca642-585d-45fb-a2c0-e25cbde2d451",
+      "startIndex": 202,
+      "text": "نهر القلائين",
+      "type": "place"
+    }
+  ],
+  "text": "وسمع حديث خالد بن مرداس على الحافظ أبي البركات عبد الوهاب بن المبارك الأنماطي عمر بن محمد بن طبرزد وأخوه محمد بقراءته وبخطه السماع في آخرين في يوم الخميس ثاني عشـ[ـر] ذي القعدة سنة خمس وثلثين وخمسماية بنهر القلائين نقل من نسخة بوقف عبد الـ[...] نقله عبد الرحمن بن محمد بن عبد الغني المقدسي من خط محمد بن عبد الواحد المقدسي رحمهما الله"
+}

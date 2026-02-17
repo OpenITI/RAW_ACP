@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب شرف أصحاب الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. or. Quart 1060"
+      ],
+      "folio_number": [
+        "48v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN655627685/1200/0/00000102.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00021324"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "47cf4a1d-e29c-44af-8e6b-7f22a8a345c9",
+      "startIndex": 182,
+      "text": "عبد الواحد بن أبي جرادة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "909ab4de-5246-4d39-81bb-fb68f0ef20dc",
+      "startIndex": 124,
+      "text": "إسماعيل بن علي بن إبراهيم الجنزوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "abc4a2d2-3ccc-4e04-8601-eed91f978fd9",
+      "startIndex": 33,
+      "text": "أبو الحجاج يوسف بن خليل بن عبد الله الآدمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "586"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "bf9e672c-0a84-4508-a570-fc825ea519fa",
+      "startIndex": 79,
+      "text": "شهر ربيع الآخر سنة ست وثمانين وخمس مائة",
+      "type": "date"
+    }
+  ],
+  "text": "سمع جميع هذا الكتاب بقراءة الشيخ أبو الحجاج يوسف بن خليل بن عبد الله الآدمي في شهر ربيع الآخر سنة ست وثمانين وخمس مائة وكتب إسماعيل بن علي بن إبراهيم الجنزوي . نقله من خطه على هيئته عبد الواحد بن أبي جرادة."
+}

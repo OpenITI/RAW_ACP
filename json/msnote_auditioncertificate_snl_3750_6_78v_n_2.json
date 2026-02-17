@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إبراهيم بن حرب السمسار العسكري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند أبي هريرة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 63 "
+      ],
+      "classmark": [
+        "3750/6"
+      ],
+      "folio_number": [
+        "78v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "025b4de2-eedf-4c07-b11f-5d3bb6d4b5ce",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "أبي المكارم أحمد بن محمد اللبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "44b8a4ee-1585-4af5-890b-cfa5507c2adb",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 72,
+      "text": "فخر الدين أبي الحسن علي بن الإمام شمس الدين أبي العباس أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 446,
+      "guid": "7af289bf-2970-4fe0-b069-11b7803bdc9f",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 400,
+      "text": "صحيح ذلك كتبه علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "88c604cd-b376-48d3-b006-1ac261eedd93",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 250,
+      "text": "الحداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "aff1ae31-cb46-4588-a00d-af6e216c78d5",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": "أبي جعفر محمد بن أحمد الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 375,
+      "guid": "ea67e553-554c-4593-be35-324d5060edbf",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 341,
+      "text": "محمد بن عبد الرحمن بن سامة بن كوكب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 267,
+      "guid": "f22fc196-48f7-4a93-aa14-ba8ccaeef9a8",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 259,
+      "text": " أبي نعيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "fa1694b2-aaa9-4b23-8907-1defea6fc379",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 284,
+      "text": " يوم الثلثا عشري ربيع الآخر سنة ثمان وسبعين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على الشيخ الإمام العالم المسند المعمر بقية المشايخ فخر الدين أبي الحسن علي بن الإمام شمس الدين أبي العباس أحمد بن عبد الواحد المقدسي بإجازته من الشيخين أبي المكارم أحمد بن محمد اللبان وأبي جعفر محمد بن أحمد الأصبهاني بسماعهما من الحداد عن أبي نعيم وصح ذلك وثبت في يوم الثلثا عشري ربيع الآخر سنة ثمان وسبعين وستماية كتبه محمد بن عبد الرحمن بن سامة بن كوكب غفر الله له ذنوبه حامدا صحيح ذلك كتبه علي بن أحمد بن عبد الواحد المقدسي"
+}

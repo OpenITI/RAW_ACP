@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن أبي شريح الأنصاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المائة الشريحية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        " FMMU 96"
+      ],
+      "classmark": [
+        "3757/8"
+      ],
+      "folio_number": [
+        "124v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 582,
+      "guid": "0aaf7685-1de2-4aa5-961f-a336bdc05f81",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 554,
+      "text": "علي بن محمد بن أحمد بن الجيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "0c56ec93-d0f9-4a69-826f-87d41f6d307c",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 79,
+      "text": "جمال الدين أبي العباس أحمد بن الشيخ القدوة أبي عبد الله محمد بن عبد الله الظاهري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 551,
+      "guid": "38d0f8bd-b718-4ffb-acbb-4a75bdd07c0b",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 526,
+      "text": "أحمد بن محمد بن عمر الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 738,
+      "guid": "51dda0a1-b806-4364-bdbb-23d8a549e1cb",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 689,
+      "text": " يوم الخميس سادس جمادى الآخرة سنة ثلث وستين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 685,
+      "guid": "9518043c-2aa6-4dc1-a2d0-f46c1a36f462",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 628,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 524,
+      "guid": "9b3dc7de-b4f8-4cf0-b376-3c4f7407b867",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 496,
+      "text": "علي بن أبي الهيجاء بن الرقيق ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "9dd050e5-5dde-4f27-a15a-bbb4b27ecb26",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": " أبي عيسى عبد الله بن عبد الواحد بن محمد بن عبد الواحد بن علاق بن خلف بن طلائع الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 459,
+      "guid": "a74c6038-da81-4802-8583-c6e54cad1392",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 440,
+      "text": "موسى بن أيدكين العزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 423,
+      "guid": "b67337de-8ff6-4583-8417-33123fdbeec9",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 398,
+      "text": "محمد بن حسين النوري الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 385,
+      "guid": "c10c3723-a676-4435-97c9-5e30a2ec6d5b",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 376,
+      "text": "أبو الوقت ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "c571eb93-2c88-4655-a338-0db74ead3c71",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 290,
+      "text": "ابن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-maqsam"
+          ]
+        ]
+      },
+      "endIndex": 759,
+      "guid": "d304d1e8-ce1e-4612-90ac-1addc3d1097a",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 741,
+      "text": "المقسم ظاهر القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 358,
+      "guid": "d5787277-bbec-46f4-872a-318fa85acc12",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 319,
+      "text": "الشريف يونس بن يحيى بن أبي الحسن الهاشمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 493,
+      "guid": "e6783a2b-7d15-49c6-965a-ad859d9ed33e",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 474,
+      "text": "غازي بن أزبك المظفري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 437,
+      "guid": "f5b6ef63-c137-4651-b94b-98c53ea17d3c",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 426,
+      "text": "محمد بن سنقر",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخين الشيخ الإمام العالم الفاضل الحافظ الورع الزاهد جمال الدين أبي العباس أحمد بن الشيخ القدوة أبي عبد الله محمد بن عبد الله الظاهري والشيخ الجليل أبي عيسى عبد الله بن عبد الواحد بن محمد بن عبد الواحد بن علاق بن خلف بن طلائع الأنصاري بسماع جمال الدين فيه نقلا من ابن اللتي وبسماع أبي عيسى من الشريف يونس بن يحيى بن أبي الحسن الهاشمي قالا أنبأ الشيخ أبو الوقت بسنده الشيخ محمد بن حسين النوري الحلبي ومحمد بن سنقر وموسى بن أيدكين العزيان وأخوه لأمه غازي بن أزبك المظفري وعلي بن أبي الهيجاء بن الرقيق وأحمد بن محمد بن عمر الحلبي وعلي بن محمد بن أحمد بن الجيلي وهذا خطه وصح ذلك بقراءة صاحبه الفقيه المحدث نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي في يوم الخميس سادس جمادى الآخرة سنة ثلث وستين وستمية بالمقسم ظاهر القاهرة وأجاز الشيخان المسمعان للجماعة المذكورين فيه جميع ما يجوز لهما روايته وتلفظا بذلك والحمد لله وحده وصلواته على سيدنا محمد وآله وصحبه وسلامه وحسبنا الله ونعم الوكيل"
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر محمد بن محمد بن جعفر الأنباري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر الأنباري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 116"
+      ],
+      "classmark": [
+        "3761/1"
+      ],
+      "folio_number": [
+        "5v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "027fd802-66d8-4529-8d49-62696b8de31b",
+      "startIndex": 35,
+      "text": "أبي المنجا عبد الله بن عمر بن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 314,
+      "guid": "1d54560c-bf54-4f68-b1a2-e2cda1940b3f",
+      "startIndex": 288,
+      "text": "الجامع المظفري بسفح قاسيون ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "23a6d9b0-1b49-4947-a598-33232d6d9f3f",
+      "startIndex": 81,
+      "text": "ابن المتوكل ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 247,
+      "guid": "42089b67-fbaf-44af-b4f7-754871edb1a5",
+      "startIndex": 210,
+      "text": "زينب بنت أحمد بن عمر بن أبي بكر بن شكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "77fcf756-8457-478a-b5cc-0f13d0bf02f8",
+      "startIndex": 100,
+      "text": "سيف الدين أحمد بن عيسى بن الشيخ الموفق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "b0844510-f375-403a-b487-359920ebb1fe",
+      "startIndex": 174,
+      "text": "عيسى بن عبد الرحمن بن معالي المطعم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "633"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "c268a2b5-54d5-404f-a1d2-a0e6ed701751",
+      "startIndex": 258,
+      "text": " شوال سنة ثلث وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "f26c2579-c2a3-4e43-98b0-67b2114a5a5b",
+      "startIndex": 150,
+      "text": "سليمان بن حمزة بن أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه سوى حكاية ابن عمر والسجاد على أبي المنجا عبد الله بن عمر بن اللتي بسماعه من ابن المتوكل بقراءة سيف الدين أحمد بن عيسى بن الشيخ الموفق جماعة منهم سليمان بن حمزة بن أحمد وعيسى بن عبد الرحمن بن معالي المطعم وزينب بنت أحمد بن عمر بن أبي بكر بن شكر وآخرون في شوال سنة ثلث وثلثين وستماية بالجامع المظفري بسفح قاسيون "
+}

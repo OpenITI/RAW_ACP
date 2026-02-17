@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المؤتنف تكملة المؤتلف والمختلف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 290"
+      ],
+      "folio_number": [
+        "41r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1663217491/1200/0/00000111.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011164"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "24f3331f-4ee6-475c-9098-40b5c6669109",
+      "startIndex": 86,
+      "text": "أبي بكر الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "2f4de87f-f2bf-4f8a-b9ca-3618d2333317",
+      "startIndex": 25,
+      "text": "أبو القاسم عبد الله بن محمد بن الرويدشتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "4b941257-c93b-48b1-9f95-0cdfaa4a10c3",
+      "startIndex": 106,
+      "text": "شجاع بن فارس بن الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "492"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "b7593efa-78e4-49af-95d4-f6ff48e3df99",
+      "startIndex": 134,
+      "text": "في المحرم من سنة اثنتين وتسعين وأربع مائة",
+      "type": "date"
+    }
+  ],
+  "text": "قرأ عليَّ جميع هذا الجزء أبو القاسم عبد الله بن محمد بن الرويدشتي. وهو سماعي من الشيخ أبي بكر الخطيب وكتب شجاع بن فارس بن الحسين بيده في المحرم من سنة اثنتين وتسعين وأربع مائة."
+}

@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو امية الطرسوسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي أمية الطرسوسي وغير ذلك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "90v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f95.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f95.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 16,
+      "guid": "7a33429f-89ab-43f4-80db-cebff2555db3",
+      "index": 446,
+      "isZeroPoint": false,
+      "startIndex": 9,
+      "text": "الداراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "ae92f12b-cc91-49e9-b510-f8ef20ccc0f1",
+      "index": 447,
+      "isZeroPoint": false,
+      "startIndex": 28,
+      "text": " أبو المفضل مكرم بن محمد بن حمزة بن أبي الصقر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "year": [
+          "556"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "cd220276-5100-478c-8f6e-415f61865e49",
+      "index": 449,
+      "isZeroPoint": false,
+      "startIndex": 75,
+      "text": "ي ست وخمسين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "eb122964-a438-40e7-b5f4-e0e371cb2c01",
+      "index": 450,
+      "isZeroPoint": false,
+      "startIndex": 117,
+      "text": "أبي الحجاج يوسف الآدمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "fc4c96e7-8b3a-4d03-a7ed-7a230d1dab1c",
+      "index": 451,
+      "isZeroPoint": false,
+      "startIndex": 160,
+      "text": "آمنة",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على الداراني جماعة منهم أبو المفضل مكرم بن محمد بن حمزة بن أبي الصقر في ست وخمسين وخمسماية نقل بمعناه ورأيت بخط أبي الحجاج يوسف الآدمي قد سمعوا على الشيخة آمنة القدر الذي كان عند ابن الفرات وهو الذي سمعه عليه الداراني."
+}

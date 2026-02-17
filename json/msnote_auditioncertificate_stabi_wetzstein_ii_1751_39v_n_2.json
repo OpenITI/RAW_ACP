@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد المؤمن الحراني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث بن كرامة ومن حديث طاهر بن خالد الايلي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1751"
+      ],
+      "folio_number": [
+        "39v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00066939"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "24775da5-7440-4811-a23b-2a405ddf9eb9",
+      "startIndex": 257,
+      "text": "أبي حفص عمر بن كرم الدينوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "6732db98-5ea3-4a17-a3b3-d842532cad26",
+      "startIndex": 168,
+      "text": "شمس الدين أبي الفرج عبد الرحمن بن أحمد بن عبد الملك المقدسي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 430,
+      "guid": "eb573036-a9fa-4730-aa87-202a804db3a5",
+      "startIndex": 416,
+      "text": "جامع جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1-3"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "664"
+        ]
+      },
+      "endIndex": 478,
+      "guid": "ed2efc5e-090f-4250-a320-f5117fc82d5b",
+      "startIndex": 432,
+      "text": "يوم السبت مستهل ذي الحجة سنة أربع وستين وستمئة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 532,
+      "guid": "f9a0fade-5a60-4ded-b2cc-e470c806a7eb",
+      "startIndex": 484,
+      "text": "محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "fcff3a71-66f1-4f7e-9321-393592a8807b",
+      "startIndex": 94,
+      "text": " شمس الدين أبي عبد الله محمد بن عبد المنعم بن عمار بن هامل الحراني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء وهو حديث ابن كرامة وطاهر الأيلي على الشيخين المسندين التقيين الإمام الحافظ شمس الدين أبي عبد الله محمد بن عبد المنعم بن عمار بن هامل الحراني والشيخ شمس الدين أبي الفرج عبد الرحمن بن أحمد بن عبد الملك المقدسي الحنبليين بحق سماعهما فيه من أبي حفص عمر بن كرم الدينوري في بغداد بسنده فيه وكانت القراءة من نسخة وقف الشيخ علي الموصلي المُحدِّث وقُوبِلَت على هذه النسخة ونُقل سماعهما فيها وصح ذلك وثبت بجامع جبل قاسيون يوم السبت مستهل ذي الحجة سنة أربع وستين وستمئة وكتب محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري عفا الله عنه حامداً ومصلياً ومسلماً."
+}

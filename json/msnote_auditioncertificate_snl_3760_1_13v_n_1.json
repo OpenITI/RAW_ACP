@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/1"
+      ],
+      "folio_number": [
+        "13v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "477"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "02d4f0a6-3556-4676-a404-8ded09c93edd",
+      "startIndex": 125,
+      "text": " الجمعة رابع عشر ذي الحجة سنة سبع وسبعين وأربع ماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "7bce1c32-8d2f-4bfc-921f-3bb1f06ffc77",
+      "startIndex": 62,
+      "text": "ابن مهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "a245e6ba-0682-4ae1-a19e-07206369bfaf",
+      "startIndex": 22,
+      "text": "أبي الغنائم محمد بن علي بن أبي عثمان ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "c720eb3e-22cb-4b6f-8b0d-b7bcfe92d48d",
+      "startIndex": 82,
+      "text": "أبو بكر أحمد بن علي بن عبد الواحد الدلال",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء من أبي الغنائم محمد بن علي بن أبي عثمان عن ابن مهدي جماعة منهم أبو بكر أحمد بن علي بن عبد الواحد الدلال في الجمعة رابع عشر ذي الحجة سنة سبع وسبعين وأربع ماية "
+}

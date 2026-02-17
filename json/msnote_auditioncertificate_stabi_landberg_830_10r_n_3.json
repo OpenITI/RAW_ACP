@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء حديثي لابن عساكر"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 830"
+      ],
+      "folio_number": [
+        "10r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1831174081/1200/0/00000025.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007489"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 343,
+      "guid": "70439a02-ae3d-4fd4-87ad-d31642dd5384",
+      "startIndex": 315,
+      "text": "محمد بن يونس بن فتيان المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "76552cc3-ced2-49d3-949b-b3304e164ff8",
+      "startIndex": 42,
+      "text": "شمس الدين محمد الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "743"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "7b014bce-8de5-42f6-a5b4-322481716a05",
+      "startIndex": 189,
+      "text": "في يوم الثلاثاء الثالث والعشرين من شهر ربيع الأول سنة ثلاث وأربعين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-sadriya"
+          ]
+        ]
+      },
+      "endIndex": 291,
+      "guid": "a0b7dd08-ed1f-4ad9-90bd-a4fb567d8201",
+      "startIndex": 266,
+      "text": "منزل المسمع بالصدرية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "aeeeb30c-9919-49be-9692-31127c339115",
+      "startIndex": 168,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "f1d5dfc5-ff53-496e-a0f0-74f5e6c96b29",
+      "startIndex": 112,
+      "text": "كمال الدين أبو الفوارس حمزة بن عمر بن أحمد الهكاري",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته وما قبله على شيخ الإسلام حافظ العصر شمس الدين محمد الذهبي فسح الله في مدته بسنده أوله فسمعه المحدث الفاضل كمال الدين أبو الفوارس حمزة بن عمر بن أحمد الهكاري وأخي علي وأجازنا وصح وثبت في يوم الثلاثاء الثالث والعشرين من شهر ربيع الأول سنة ثلاث وأربعين وسبعمائة بمنزل المسمع بالصدرية بدمشق صانها الله تعالى كتبه محمد بن يونس بن فتيان المقدسي."
+}

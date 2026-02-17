@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي المقري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند نافع بن أبي نعيم المقري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 61- 62 "
+      ],
+      "classmark": [
+        "3750/3"
+      ],
+      "folio_number": [
+        "22r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "1aa7d08e-9a20-43c2-9049-0255b2f2eaf8",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 57,
+      "text": "إبراهيم بن أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 34,
+      "guid": "44754959-7eee-4a79-90c6-09abb9a0d7e1",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 21,
+      "text": "محمد بن القاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "717"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "fe3a2507-d9e9-48b8-a184-cb0a50595e97",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 83,
+      "text": "ثاني عشر شعبان سنة سبع عشرة وسبعمية",
+      "type": "date"
+    }
+  ],
+  "text": " وسمعه عليه بالقراءة محمد بن القاري وهذا خطه وأخو القارئ إبراهيم بن أحمد وآخرون في ثاني عشر شعبان سنة سبع عشرة وسبعمية"
+}

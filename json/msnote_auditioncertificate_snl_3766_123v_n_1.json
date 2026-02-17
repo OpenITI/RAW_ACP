@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبد الملك بن محمد بن عبد الله بن بشران الزاهد البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن بشران"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 154"
+      ],
+      "classmark": [
+        "3766"
+      ],
+      "folio_number": [
+        "123v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "2bf07437-ceb1-4b0a-9eda-aaa32c19a69d",
+      "startIndex": 45,
+      "text": "أبي الفضل جعفر بن أبي الحسن بن أبي البركات الهمداني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "2c32fc05-cfd6-4379-90be-f5fd7e600ba1",
+      "startIndex": 114,
+      "text": "عبد الباقي بن عبد العزيز بن عبد المنعم الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "633"
+        ]
+      },
+      "endIndex": 217,
+      "guid": "8a7c1df8-1e90-404b-944b-805701b76ed5",
+      "startIndex": 177,
+      "text": "الاثنين سابع صفر سنة ثلاث وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "alexandria"
+          ]
+        ]
+      },
+      "endIndex": 229,
+      "guid": "a044794f-393a-4ad7-9397-e0925fcf2e10",
+      "startIndex": 220,
+      "text": "الإسكندرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "f67458a1-8d52-4090-92d3-a7cdb7d260ff",
+      "startIndex": 236,
+      "text": "محمد بن عبد الله بن عبد الغني المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء جميعه على الشيخ الإمام العالم أبي الفضل جعفر بن أبي الحسن بن أبي البركات الهمداني بسماعه فيه فسمعه عبد الباقي بن عبد العزيز بن عبد المنعم الحراني وصح وثبت في يوم الاثنين سابع صفر سنة ثلاث وثلاثين وستمائة بالإسكندرية كتبه محمد بن عبد الله بن عبد الغني المقدسي عفا الله عنه والحمد لله وحده وصلى الله على سيدنا محمد وآله وسلم"
+}

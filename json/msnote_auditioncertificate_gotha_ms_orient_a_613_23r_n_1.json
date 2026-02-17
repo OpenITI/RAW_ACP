@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الترمذي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أربعون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 613"
+      ],
+      "folio_number": [
+        "23r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000619"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "593"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "4b5b776f-6a81-479e-9ea4-04bbcf6165ce",
+      "startIndex": 109,
+      "text": "يوم الثلاثاء 22 رمضان سنة 593",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "6c0115cd-9182-41ba-a1f3-662d6a656ae1",
+      "startIndex": 58,
+      "text": "السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "alexandria"
+          ]
+        ]
+      },
+      "endIndex": 153,
+      "guid": "8ee7cf2d-9272-4393-84dc-d3b48a776a09",
+      "startIndex": 140,
+      "text": "ثغر الإسكندرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "acb63547-2225-4f52-b364-5debf1e67800",
+      "startIndex": 66,
+      "text": "عبد الوهاب بن ظافر بن رواج الأزدي",
+      "type": "person"
+    }
+  ],
+  "text": "[شاهدت] في أصله المنقول منه هذه القصيدة سمع جميع ذلك على |السلفي| عبد الوهاب بن ظافر بن رواج الأزدي وغيره في يوم الثلاثاء 22 رمضان سنة 593 بثغر الإسكندرية."
+}

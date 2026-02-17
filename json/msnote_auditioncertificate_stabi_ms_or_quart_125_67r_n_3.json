@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء الحادي عشر من حديث ابي سهل احمد بن محمد بن عبد الله بن زياد القطان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "67r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000135.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059154"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "1c2a5d0a-19da-4078-94c2-afc008882c3d",
+      "startIndex": 63,
+      "text": "موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 440,
+      "guid": "314a3709-49d5-4051-891f-ed8028cd1089",
+      "startIndex": 406,
+      "text": "أحمد بن علي بن عمر القطيعي البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "35b96e89-099b-43af-a13c-4c24c3c637f3",
+      "startIndex": 175,
+      "text": "أبي سهل زياد القطان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "618"
+        ]
+      },
+      "endIndex": 588,
+      "guid": "3bcdcc8c-ef15-46b3-9daf-14f4995e773c",
+      "startIndex": 539,
+      "text": "يوم الجمعة ثالث عشر شعبان من سنة ثمان عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "443d04f1-a531-414f-869a-e07a15ba0088",
+      "startIndex": 258,
+      "text": "أبي عبد الله أحمد بن عيسى بن سلامة بن سالم الخياط الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "4e067153-aa73-40cb-9523-0f52b5fd2e3e",
+      "startIndex": 324,
+      "text": "أبو العباس أحمد بن عمر بن رشيد الصواف الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 510,
+      "guid": "622eae32-8d78-47fa-b31c-65b8e91b96e5",
+      "startIndex": 466,
+      "text": "سالم بن ثمال بن عنان بن وافد بن مستفاد العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 609,
+      "guid": "9813ca15-7928-44ef-bc79-e7c8c28322aa",
+      "startIndex": 591,
+      "text": "مسجد الجامع من دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "a8975bbd-100f-46f0-8f41-ab9bd2f64051",
+      "startIndex": 165,
+      "text": "شاذان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "c212b01d-6806-4837-991c-29e965133586",
+      "startIndex": 143,
+      "text": "بن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "cfd528dc-e29d-474f-a6ec-12b7dcdd6d24",
+      "startIndex": 156,
+      "text": "أيوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "e288313f-ef4a-4635-81ef-9e34327d223e",
+      "startIndex": 372,
+      "text": "خليل بن أبي بكر بن محمد المراغي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الأجل الفقيه الإمام العالم المفتي موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي، بسماعه من الحاجب بن البطي، عن أيوب، عن شاذان، عن أبي سهل زياد القطان، عن شيوخه. وهو الجزء الحادي عشر من حديثه. بقراءة الفقيه الإمام أبي عبد الله أحمد بن عيسى بن سلامة بن سالم الخياط الحراني، الفقيه أبو العباس أحمد بن عمر بن رشيد الصواف الموصلي، وخليل بن أبي بكر بن محمد المراغي، وأحمد بن علي بن عمر القطيعي البغدادي، والفقير إلى الله تعالى سالم بن ثمال بن عنان بن وافد بن مستفاد العرضي. وهذا خطه عفا الله عنه وصح يوم الجمعة ثالث عشر شعبان من سنة ثمان عشرة وستمائة بمسجد الجامع من دمشق والحمد لله وحده وصلواته على نبينا محمد ..."
+}

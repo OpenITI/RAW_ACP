@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "53r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "035398ff-46d1-4b39-be5d-40ebd19e3b41",
+      "startIndex": 111,
+      "text": "المبارك بن أحمد بن بندار الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "0d777b24-fd1f-49c6-849f-39bf646b25eb",
+      "startIndex": 73,
+      "text": " أبو منصور عبد المحسن بن محمد بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "171d2c71-d414-43a5-8320-20ad43272f22",
+      "startIndex": 163,
+      "text": "عبد الرحمن بن محمد القزاز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "1bf1588d-8539-4ab8-bc9f-63df7768a0ed",
+      "startIndex": 151,
+      "text": "عبد الوهاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "467"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "43c5a6f2-d38a-44a8-9baa-c19207a38534",
+      "startIndex": 225,
+      "text": "يوم الجمعة مستهل رجب سنة سبع وستين وأربعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "mansur_mosque"
+          ]
+        ]
+      },
+      "endIndex": 282,
+      "guid": "6291ed23-06e5-4870-9e12-208310332d41",
+      "startIndex": 271,
+      "text": "جامع المنصور",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "9f601a93-c177-458e-8035-5aa83f752eaa",
+      "startIndex": 197,
+      "text": " أحمد بن عبد الله القزاز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "a8e3084d-2503-4cf0-a160-31c31093e9bf",
+      "startIndex": 45,
+      "text": "محمد بن سابور الأهوازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "da5272ac-7002-4485-8714-941546700130",
+      "startIndex": 16,
+      "text": " أبي الحسين بن النقور",
+      "type": "person"
+    }
+  ],
+  "text": "سمع الجزء كله من أبي الحسين بن النقور بقراءة محمد بن سابور الأهوازي الشيخ أبو منصور عبد المحسن بن محمد بن علي والمبارك بن أحمد بن بندار الأنماطي وابنه عبد الوهاب وعبد الرحمن بن محمد القزاز وابن عمه أحمد بن عبد الله القزاز في يوم الجمعة مستهل رجب سنة سبع وستين وأربعماية بجامع المنصور بعد الصلاة "
+}

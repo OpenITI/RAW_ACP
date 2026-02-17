@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن عبد الباقي بن أبي القاسم بن الباجي الصقلي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي علي الصقلي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 116"
+      ],
+      "classmark": [
+        "3761/3"
+      ],
+      "folio_number": [
+        "17v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "0a755fc3-74f6-4c17-8393-045354c8ebad",
+      "startIndex": 242,
+      "text": " يوسف بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "897"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "1723b9ec-8cd7-44ef-a750-29c3cc0b0b8b",
+      "startIndex": 136,
+      "text": "السبت تاسع عشرين شهر جب سنة سبع وتسعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "42c0e013-8d52-4bae-bbbe-de21171c5768",
+      "startIndex": 15,
+      "text": "شمس الدين محمد بن علي ابن محمد بن طولون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "89fc9ce0-4f36-4589-be89-32b8b1add0f7",
+      "startIndex": 67,
+      "text": "إبراهيم ابن أحمد بن يوسف الفندقومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "ba88519d-9080-47cc-89ef-b6b015db7c96",
+      "startIndex": 113,
+      "text": "عبد الهادي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأه علي الولد شمس الدين محمد بن علي ابن محمد بن طولون فسمعه الشيخ إبراهيم ابن أحمد بن يوسف الفندقومي وبعضه ولدي عبد الهادي وصح ذلك يوم السبت تاسع عشرين شهر جب سنة سبع وتسعين وثمان ماية وأجزت لهم أن يرووه عني وجميع ما يجوز لي وعني روايته وكتب يوسف بن عبد الهادي"
+}

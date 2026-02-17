@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عثمان بن أحمد بن محمد بن هارون السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة الحسان العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/5"
+      ],
+      "folio_number": [
+        "74v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 339,
+      "guid": "18633eac-1cf8-4f2a-be59-20ca39534c89",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 267,
+      "text": "نجم الدين أبو الحسن علي بن عبد الكافي ابن عبد الملك بن عبد الكافي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "231da9d3-4254-4342-94dc-69fcd2e2d912",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 392,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 602,
+      "guid": "2dee86a4-6baf-49a8-a15a-e4c6c021ae06",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 573,
+      "text": "الجامع المظفري بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "5fa99425-b48e-44e1-9516-61728f1b80b5",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 192,
+      "text": "علاء الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "7efa1f86-afcd-4c3b-90b7-6bdd0c274aa7",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 43,
+      "text": " كمال الدين أبي محمد عبد الرحيم بن عبد الملك بن عبد الملك المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 389,
+      "guid": "b14b16d4-b5a8-45d8-bb69-8b655abdfc4c",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 342,
+      "text": "عبد الرحمن بن أحمد بن عبد الرحمن ابن حسن المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 404,
+      "guid": "bda8bb2e-098e-4b49-80d5-d6ad178d2a2c",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 398,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "d51734cd-a643-4f3b-83fa-52b717c92f10",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 149,
+      "text": "بن طبرزد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "666"
+        ]
+      },
+      "endIndex": 570,
+      "guid": "da746cc1-6c9c-4ce4-b00f-60ee2a979376",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 510,
+      "text": "يوم الاثنين رابع عشرين شهر ربيع الأول من سنة ست وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 473,
+      "guid": "e780c8a5-f3d2-4fbf-b154-abc35192d314",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 459,
+      "text": "أمة العزيز زينب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 731,
+      "guid": "ff68bf7f-45fa-4cb4-b039-f9ebfd3a18ba",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 698,
+      "text": "إسماعيل بن إبراهيم ابن سالم الخباز",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ الإمام العالم كمال الدين أبي محمد عبد الرحيم بن عبد الملك بن عبد الملك المقدسي أثابه الله الجنة بحق سماعه فيه نقلاً عن بن طبرزد بقراءة مالكه الفقيه الإمام العالم علاء الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي والإمام العالم نجم الدين أبو الحسن علي بن عبد الكافي ابن عبد الملك بن عبد الكافي الشافعي وعبد الرحمن بن أحمد بن عبد الرحمن ابن حسن المقدسي ومحمد وإبراهيم ابنا الشيخ علي بن محمد بن علي البغدادي المقرئ وابنتي أمة العزيز زينب وفقها الله تعالى وصح ذلك وثبت عشية يوم الاثنين رابع عشرين شهر ربيع الأول من سنة ست وستين وستماية بالجامع المظفري بسفح جبل قاسيون ظاهر دمشق وأجاز لهم الشيخ المسمع ما يجوز له روايته بسؤالي له كتبه العبد الفقير إلى الله تعالى إسماعيل بن إبراهيم ابن سالم الخباز عفا الله عنه والحمد لله وحده وصلى الله على محمد"
+}

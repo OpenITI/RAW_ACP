@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الحسين بن عبد الله الآجري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الغرباء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 139"
+      ],
+      "classmark": [
+        "3764/5"
+      ],
+      "folio_number": [
+        "63v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "04b4c166-3bbc-494c-9091-a40c102e320c",
+      "startIndex": 118,
+      "text": "بهاء الدين عبد الرحمن بن إبراهيم بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "685"
+        ]
+      },
+      "endIndex": 401,
+      "guid": "0587b121-0b18-42ab-a95e-1b799bffd0ce",
+      "startIndex": 351,
+      "text": "الثلثاء السابع عشر من شعبان سنة خمس وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 342,
+      "guid": "39131a12-7174-4b5a-9a19-62dd9adf76f5",
+      "startIndex": 317,
+      "text": "علم الدين أبومحمد البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "3b7fdd52-e801-47c1-809f-27dcc491352b",
+      "startIndex": 54,
+      "text": "أبي إبراهيم إسحق بن إبراهيم بن سلطان البعلبكي الكتاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 413,
+      "guid": "5c02ba1b-8bea-4737-953f-476c0ec1f31e",
+      "startIndex": 404,
+      "text": "جامع دمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "5d07044b-aeda-4cfa-b007-77d12bc32925",
+      "startIndex": 247,
+      "text": " أبي القاسم بن بشران",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "6af04c8f-de92-41f1-ad14-a0b264ad8e25",
+      "startIndex": 203,
+      "text": " أبي غالب محمد بن الحسين الباقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "6d0fa045-d8ba-4917-bf86-99ed41fc0b04",
+      "startIndex": 177,
+      "text": "عبد الحق بن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "defaultLabel": "Place1",
+      "guid": "a0aa62f6-a05c-40db-98db-f433b8cf9fc6",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "fedad505-be36-4b0d-b231-f57261b804ad",
+      "startIndex": 279,
+      "text": "أبي الحسن علي بن مسعود الموصلي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهوصفة الغرباء لأبي بكر الآجري على أبي إبراهيم إسحق بن إبراهيم بن سلطان البعلبكي الكتاني بسماعه من بهاء الدين عبد الرحمن بن إبراهيم بن أحمد المقدسي بسماعه من عبد الحق بن يوسف بسماعه من أبي غالب محمد بن الحسين الباقلاني بسماعه من أبي القاسم بن بشران عنه بقراءة أبي الحسن علي بن مسعود الموصلي الإمام علم الدين أبومحمد البرزالي في يوم الثلثاء السابع عشر من شعبان سنة خمس وثمانين وستمائة بجامع دمشق "
+}

@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "منتخب من الفوائد الصحاح العوالي ج5"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 140"
+      ],
+      "classmark": [
+        "3764/8"
+      ],
+      "folio_number": [
+        "129r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "190c7ebc-6715-498c-8ec6-993e52adaa2b",
+      "startIndex": 185,
+      "text": "موسى بن إبراهيم بن يحيى الشقراوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "667"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "64fbd8c4-b3f6-4588-b635-366e1387f2f5",
+      "startIndex": 254,
+      "text": "العاشر من رجب سنة سبع وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "83ea44f2-ad60-4ea2-9fb4-803b507ac6cd",
+      "startIndex": 171,
+      "text": "السراج ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "9e3b18b0-ec5b-41b5-9204-8669aa70de80",
+      "startIndex": 107,
+      "text": "أبي الفضل عبد الله بن أحمد بن محمد الطوسي خطيب الموصل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "b9a99f47-3d10-4fcd-8329-0859e57ff149",
+      "startIndex": 218,
+      "text": "محمد بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 305,
+      "guid": "c55c79d3-8a1a-4833-9691-7e5f294d4fd2",
+      "startIndex": 291,
+      "text": "سفح جبل قاسيون ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "da25f388-8fda-472d-99e9-fec41684774e",
+      "startIndex": 40,
+      "text": "زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة المقدسي ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء وما قبله على الشيخ الإمام زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة المقدسي بإجازته من أبي الفضل عبد الله بن أحمد بن محمد الطوسي خطيب الموصل بسماعه من السراج بقراءة موسى بن إبراهيم بن يحيى الشقراوي محمد بن أبي بكر بن المسمع وآخرون في العاشر من رجب سنة سبع وستين وستمائة بسفح جبل قاسيون "
+}

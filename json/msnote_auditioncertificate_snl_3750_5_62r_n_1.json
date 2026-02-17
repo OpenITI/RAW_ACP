@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن الحسين الجرجاني الغطريفي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي أحمد الغطريفي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 62 "
+      ],
+      "classmark": [
+        "3750/5"
+      ],
+      "folio_number": [
+        "62r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "16769247-dcb4-4a3e-81ca-ef62cd012f81",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 185,
+      "text": "هبة الله بن الحسن بن هبة الله بن عبد الله بن الحسين الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "4e02ba31-51f8-4902-9711-e2b323433687",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "أبي القاسم علي بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "509"
+        ]
+      },
+      "endIndex": 347,
+      "guid": "99405bb1-381c-4861-9954-6936f6e82663",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 299,
+      "text": "يوم الجمعة الخامس من ذي الحجة من سنة تسع وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 364,
+      "guid": "d191dc84-9d8c-46d2-b7a8-237bdd105e1b",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 351,
+      "text": " المسجد الجامع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "dbbe3641-a2c3-4caf-9941-84ff5bc2b97c",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 55,
+      "text": "أبي المعالي محمد بن يحيى بن علي بن القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "f3f37a42-dd3c-4752-90c2-6d1203732314",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 256,
+      "text": "أبو البيان عثمان بن القاضي المنتجب",
+      "type": "person"
+    }
+  ],
+  "text": " بلغ سماعا من أوله إلى هذا الجزء من لفظ القاضي المنتجب أبي المعالي محمد بن يحيى بن علي بن القرشي رضي الله عنه وأرضاه وعرضا على نسخة فيها ذكر سماعه على أبي القاسم علي بن محمد صاحب الجزء هبة الله بن الحسن بن هبة الله بن عبد الله بن الحسين الشافعي وسمعه أيضا أبو البيان عثمان بن القاضي المنتجب وذلك في يوم الجمعة الخامس من ذي الحجة من سنة تسع وخمسماية في المسجد الجامع"
+}

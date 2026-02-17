@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 604"
+      ],
+      "folio_number": [
+        "43v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000610"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "793"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "345d4f4d-3db0-4bba-9dd6-78cb60298f02",
+      "startIndex": 93,
+      "text": "سنة 793",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 32,
+      "guid": "bf873cff-4283-459c-90f5-0790bed21bf3",
+      "startIndex": 4,
+      "text": "محمد بن أحمد بن محمد التزمنتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "fe785883-5204-4f63-b8fe-f5aa09e09dbc",
+      "startIndex": 70,
+      "text": "أبي عبد الله بن الميلق",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ محمد بن أحمد بن محمد التزمنتي قراءة في الرابع عشر على قاضي القضاة أبي عبد الله بن الميلق سنة 793."
+}

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن صدقة بن الحسين بن سلامة البزار الموصلي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي بكر محمد بن إبراهيم بن محمد القرشي العدوي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 91"
+      ],
+      "classmark": [
+        "3756/4"
+      ],
+      "folio_number": [
+        "32v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "16b5c9e0-9014-47a7-88fa-87aa54b5aa46",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "فخر الدين أبي عمرو عثمان بن محمد بن الحاجب منصور بن عبد الأميني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 606,
+      "guid": "1783970f-2cc2-46ac-a60e-8790e84dd324",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 556,
+      "text": "موسى بن محمد بن موسى بن إسماعيل المعروف بابن النفري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "662"
+        ]
+      },
+      "endIndex": 415,
+      "guid": "246ab8d8-e89c-45aa-a3e2-c6220dd81432",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 366,
+      "text": " الثلثا منتصف ذو القعدة من سنة اثنتين وستين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 345,
+      "guid": "34bde157-2004-49d8-919d-492d69e94824",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 292,
+      "text": "شرف الدين أبو علي الحسن بن محمد بن علي الحسني الإدريسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "a5604b4b-0390-4f90-9c2b-615ea3f67208",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 176,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس بن عبد الله الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "suywifiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 445,
+      "guid": "abefd5ed-f2c9-44fc-8957-dda4f015c22a",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 418,
+      "text": "مدرسة سيف الإسلام من القاهرة",
+      "type": "place"
+    }
+  ],
+  "text": " بلغت سماعا لجميعه على الشيخ المحترم الرئيس فخر الدين أبي عمرو عثمان بن محمد بن الحاجب منصور بن عبد الأميني نفع الله به بحق سماعه تراه بقراءة صاحبه الإمام العالم المحدث المقرئ نور الدين أبي الحسن علي بن مسعود بن نفيس بن عبد الله الموصلي ثم الحلبي نفع الله به وسمعه السيد الشريف الفاضل الجليل شرف الدين أبو علي الحسن بن محمد بن علي الحسني الإدريسي وصح ذلك وثبت في يوم الثلثا منتصف ذو القعدة من سنة اثنتين وستين وستمية بمدرسة سيف الإسلام من القاهرة وأجاز الشيخ المسمع لي ولهما جميع ما يجوز له روايته بشرطه وتلفظ بذلك لما سألته وكتب عبيد الله الفقير إلى الله موسى بن محمد بن موسى بن إسماعيل المعروف بابن النفري حامدا ومصليا [...]"
+}

@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "170r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f173.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f173.item.r=%22arabe%20708%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "2124768a-c481-4161-9e9e-55888cc4d9d5",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 161,
+      "text": "أبي الفتح الدومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 491,
+      "guid": "5b949082-9ea8-4ac9-bb64-cf478a96da40",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 434,
+      "text": "شرف الدين أبو عبد الله الحسين بن إبراهيم بن الحسين الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 536,
+      "guid": "7e7194ed-47e4-4545-bfbd-b65a486b2e0a",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 494,
+      "text": "الحسن بن محمد بن محمد بن محمد البكري التيمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "604"
+        ]
+      },
+      "endIndex": 644,
+      "guid": "87945103-56f5-426e-8c57-7d65c30d1e3e",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 605,
+      "text": " يوم الخميس سادس المحرم سنة أربع وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 431,
+      "guid": "9055db3e-72ee-4cba-a422-5e9e03695aee",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 353,
+      "text": "ضياء الدين أبو الحسين محمد بن إسماعيل بن عبد الجبار المقدسي عرف بابن أبي الحجاج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 686,
+      "guid": "a6e5f686-d0ba-4694-8499-4da72b5d49a0",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 651,
+      "text": "الحسن بن علي بن عيسى بن الحسن اللخمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 338,
+      "guid": "ba993187-8300-44c0-b00f-393c4a2a84d6",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 258,
+      "text": "زكي الدين بقية السلف أبي محمد عبد العظيم بن عبد القوي بن عبد الله المنذري الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "e70672e6-75d7-4d09-b058-9085a9956bd8",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 105,
+      "text": "أبي حفص عمر بن محمد بن معمر بن طبرزد البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 566,
+      "guid": "e74865f1-ba7b-4ed0-a53e-db75fde11b40",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 553,
+      "text": "أبو الفضل محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "f8d58fc0-7acc-42df-bb36-ebd6aa6cae11",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 181,
+      "text": "أبي بكر الخطيب",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء الثاني عشر من سنن أبي داود رحمه الله واللذين قبله والذي بعده وهو الثالث عشر على الشيخ أبي حفص عمر بن محمد بن معمر بن طبرزد البغدادي بسماعه من أبي الفتح الدومي عن أبي بكر الخطيب بسنده فيه بقراءة صاحب النسخة الشيخ الفقيه الإمام الحافظ الحجة زكي الدين بقية السلف أبي محمد عبد العظيم بن عبد القوي بن عبد الله المنذري الشافعي القاضي الأجل ضياء الدين أبو الحسين محمد بن إسماعيل بن عبد الجبار المقدسي عرف بابن أبي الحجاج وشرف الدين أبو عبد الله الحسين بن إبراهيم بن الحسين الإربلي والحسن بن محمد بن محمد بن محمد البكري التيمي وهذا خطه وأخوه أبو الفضل محمد وآخرون في الأصل بوقف البندهي وكان ذلك يوم الخميس سادس المحرم سنة أربع وستماية نقله الحسن بن علي بن عيسى بن الحسن اللخمي حامدا مصليا مسلما."
+}

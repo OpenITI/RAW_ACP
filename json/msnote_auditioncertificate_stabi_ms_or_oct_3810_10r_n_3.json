@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عبد الله ابن الخطاب الرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سداسيات في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. or. oct 3810"
+      ],
+      "folio_number": [
+        "10r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00020229"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "alexandria",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 911,
+      "guid": "1a00a05b-5f10-4a26-a095-d1a032a2f317",
+      "startIndex": 889,
+      "text": "منزل المسمع بالإسكندرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 409,
+      "guid": "1b2ac393-345d-49ef-8fac-8115e62712dc",
+      "startIndex": 406,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 365,
+      "guid": "287d280d-ee66-4c47-9753-f32c48a41624",
+      "startIndex": 324,
+      "text": "شرف الدين علي بن محمد بن أبي الفضل بن عصام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 513,
+      "guid": "3ac19e38-5ebf-4657-8366-7077d8619247",
+      "startIndex": 480,
+      "text": "عبد الرحمن بن سلمان بن موسى المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "49fe59b5-7e5e-4ebb-a05f-4bc2eb3d339e",
+      "startIndex": 254,
+      "text": "الرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "729"
+        ]
+      },
+      "endIndex": 886,
+      "guid": "799faa78-701c-4b8b-9c37-34a3494c788f",
+      "startIndex": 849,
+      "text": "سابع عشر شعبان سنة تسع وعشرين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 999,
+      "guid": "7b4abe83-4d76-499c-81fd-21e67acf24b8",
+      "startIndex": 944,
+      "text": "محمد بن أحمد بن أبي بكر بن عزام سبط الشيخ الشاذلي الحسني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 476,
+      "guid": "8e669f20-447f-4920-840c-eb5f4786712c",
+      "startIndex": 446,
+      "text": "محمد بن يوسف بن أبي بكر المناوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "9b088507-9f7b-4d86-9cb3-9668254c87a0",
+      "startIndex": 236,
+      "text": "بن موقا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "a43a75d4-1ba4-4eff-8efe-e54980bc5990",
+      "startIndex": 218,
+      "text": "بن زوين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "a9128b97-8c91-4c3e-a05e-09d0d8a58dc7",
+      "startIndex": 385,
+      "text": "شرف الدين عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 565,
+      "guid": "e703930a-ccf4-4b75-af2a-e1f13f6014d9",
+      "startIndex": 517,
+      "text": "أحمد بن عبد الوهاب بن عبد الله عرف بابن [الصقيلي؟",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 278,
+      "guid": "e7134926-c15d-4ca0-8b0b-da7231fa0f2f",
+      "startIndex": 267,
+      "text": "أبو بكر أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "edc16b79-7f2a-49a9-b02a-35c155b614f7",
+      "startIndex": 115,
+      "text": "تقي الدين أبي الحسن علي بن عمر بن محمد الإسكندري عرف بابن المحلوبة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 683,
+      "guid": "ef0b479d-ac82-4de4-9a4d-b1ab47738495",
+      "startIndex": 623,
+      "text": "بدر الدين حسن بن محمد بن صالح بن محمد القرشي الحنبلي النابلسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء المشتمل على سداسيات الرازي وخماسية وغير ذلك على الشيخ المعمر الصالح الرحلة المحدث المقرئ المعمر تقي الدين أبي الحسن علي بن عمر بن محمد الإسكندري عرف بابن المحلوبة، بسماعه لجميعه وذلك باطنها نقلاً من بن زوين بسماعه من بن موقا بسماعه من الرازي، ولدي أبو بكر أحمد وهو في آخر السنة الخامسة من عمره وهو مميز، وشرف الدين علي بن محمد بن أبي الفضل بن عصام والأخوان الشقيقان شرف الدين عبد الله، ومحمد ولدا محمد بن عطاء الله بن الخطيب، ومحمد بن يوسف بن أبي بكر المناوي، وعبد الرحمن بن سلمان بن موسى المقرئ، وأحمد بن عبد الوهاب بن عبد الله عرف بابن [الصقيلي؟]، وصح ذلك وثبت بقراءة الفقيه الفاضل العالم المحدث [...] بدر الدين حسن بن محمد بن صالح بن محمد القرشي الحنبلي النابلسي، من أول هذا الجزء إلى قوله خالد بن [...] الحبشي، وبقراءتي من ثم إلى آخر هذا الجزء وسمع هو بما قرأته أنا وسمعت أنا ما قرأه هو فكمل لي وله جميع هذا الجزء وصح وثبت في سابع عشر شعبان سنة تسع وعشرين وسبعمائة بمنزل المسمع بالإسكندرية وأجاز لي ولمن ذكر مروياته وكتب محمد بن أحمد بن أبي بكر بن عزام سبط الشيخ الشاذلي الحسني"
+}

@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن أبي شريح الأنصاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المائة الشريحية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        " FMMU 96"
+      ],
+      "classmark": [
+        "3757/8"
+      ],
+      "folio_number": [
+        "124r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "661"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "163c44fa-4619-4a69-aa00-aadd7ed3381c",
+      "startIndex": 247,
+      "text": "خامس عشر صفر سنة إحدى وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 347,
+      "guid": "429c34d3-e688-4647-9da0-01de43a4c0c2",
+      "startIndex": 310,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 242,
+      "guid": "59951f86-cd31-4a98-9d17-0967ed30bad4",
+      "startIndex": 230,
+      "text": "داره بالقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "5cabd9bd-6ac6-45c2-a8ba-05d0eabab8a7",
+      "startIndex": 56,
+      "text": "شرف الدين أبي محمد عبد الملك بن عبد الكريم بن عبد الرحمن بن الطوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "abbc313d-5b38-48fc-ab44-05884f81037b",
+      "startIndex": 199,
+      "text": " أبو عبد الله محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "afe2dc67-18a3-4858-a56c-10a4622ec390",
+      "startIndex": 145,
+      "text": "ابن اللتي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+},
+      "endIndex": 544,
+      "guid": "f4c4d0fe-15ef-494f-83a0-9ff86144ca4f",
+      "startIndex": 455,
+      "text": "صحيح ذلك وأجزته على ما شرح فيه في تاريخه كتبه عبد الملك بن عبد الكريم بن عبد الرحمن الطوسي",
+      "type": "signature_of_musmi"
+    }
+  ],
+  "text": " بلغت قراءة وسماعا على الشيخ الإمام العالم الصدر الكامل شرف الدين أبي محمد عبد الملك بن عبد الكريم بن عبد الرحمن بن الطوسي بحق سماعه فيه نقلا عن ابن اللتي فسمع من باب الاستعاذة من عذاب القبر إلى آخره أبو عبد الله محمد ولد المسمع بداره بالقاهرة في خامس عشر صفر سنة إحدى وستين وستماية قاله وكتبه الفقير إلى الله علي بن مسعود بن نفيس الموصلي ثم الحلبي وأجازني المسمع حرسه الله جميع مروياته وما يجوز له روايته بشرطه بسؤالي ولله الحمد والمنة كتبه علي بن مسعود صحيح ذلك وأجزته على ما شرح فيه في تاريخه كتبه عبد الملك بن عبد الكريم بن عبد الرحمن الطوسي"
+}

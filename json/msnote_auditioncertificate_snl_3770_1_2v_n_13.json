@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضل بن أحمد بن محمد الفراوي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "العوالي المائة من مسموعات الفراوي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 13"
+      ],
+      "catalog": [
+        "FMMU 172"
+      ],
+      "classmark": [
+        "3770/1"
+      ],
+      "folio_number": [
+        "2v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "ad0c92bd-0d18-490a-85bf-31dd3979b5c8",
+      "startIndex": 40,
+      "text": "أبو بكر بن أحمد بن محمد بن النجيب الخلاطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 38,
+      "guid": "edfedd0b-4497-4560-ad81-c845442db8c1",
+      "startIndex": 19,
+      "text": "علي بن مسعود الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 148,
+      "guid": "f1ffc8e7-efb6-486b-9d87-edaa7abb20c7",
+      "startIndex": 137,
+      "text": "منزله بالجبل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "fcc36b6c-f783-4bb3-9425-925871600c55",
+      "startIndex": 86,
+      "text": "السبت تاسع عشري جمادى الأولى سنة خمس وستين وستمئة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعها عليه بقراءة علي بن مسعود الموصلي أبو بكر بن أحمد بن محمد بن النجيب الخلاطي يوم السبت تاسع عشري جمادى الأولى سنة خمس وستين وستمئة بمنزله بالجبل"
+}

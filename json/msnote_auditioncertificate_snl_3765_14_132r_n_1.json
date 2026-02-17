@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن محمد بن عبد الله بن بشران "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "إسلام كعب بن زهير وقصيدته"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 150"
+      ],
+      "classmark": [
+        "3765/14"
+      ],
+      "folio_number": [
+        "132r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "193924bf-3058-4021-9a25-7dcc4e995c02",
+      "startIndex": 251,
+      "text": "بهاء الدين عبد الرحمن المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "266b7e62-69b0-4b5a-9419-063e30bc63dd",
+      "startIndex": 284,
+      "text": "عبد الحق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "492a9ba0-4bba-4684-9ba3-3c92a147507b",
+      "startIndex": 295,
+      "text": " ابن العلاف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "5160d489-067e-4b82-9617-3fee10022a0f",
+      "startIndex": 186,
+      "text": "فخر الدين أبي محمد عبد الرحمن بن يوسف بن محمد البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "62929256-83fd-4fd4-9d7e-8636c758a44c",
+      "startIndex": 326,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 408,
+      "guid": "989bd6d3-4983-4916-b93a-220406e35d04",
+      "startIndex": 365,
+      "text": "علم الدين القاسم بن محمد بن يوسف بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 482,
+      "guid": "c7b8c2f5-a734-414d-a2c2-5bb06846913f",
+      "startIndex": 479,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10-20"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "686"
+        ]
+      },
+      "endIndex": 476,
+      "guid": "cb783539-c752-4dae-85e6-e4dbd719b784",
+      "startIndex": 435,
+      "text": "العشر الوسط من شوال سنة ست وثمانين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وجدت على أصل هذا الجزء بعد المقابلة له به ما صورته بخط الإمام الحافظ جمال الدين المزي سمع الجزء فيه إسلام كعب بن زهير وغير ذلك رواية إبراهيم بن الحسين بن ديزيل عن شيوخه على الشيخ الإمام فخر الدين أبي محمد عبد الرحمن بن يوسف بن محمد البعلبكي بسماعه من بهاء الدين عبد الرحمن المقدسي عن عبد الحق عن ابن العلاف بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي علم الدين القاسم بن محمد بن يوسف بن البرزالي وآخرون في مجالس آخرها في العشر الوسط من شوال سنة ست وثمانين وستمائة بدمشق"
+}

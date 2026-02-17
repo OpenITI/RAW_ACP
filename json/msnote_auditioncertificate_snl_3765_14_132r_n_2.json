@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن محمد بن عبد الله بن بشران "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "إسلام كعب بن زهير وقصيدته"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 150"
+      ],
+      "classmark": [
+        "3765/14"
+      ],
+      "folio_number": [
+        "132r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "686"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "2039ef05-161d-4adb-8704-c87e7a02b80a",
+      "startIndex": 211,
+      "text": "الجمعة الخامس من ذي القعدة من السنة [686]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "478cc2fb-18ab-4afe-969f-23d9827b03b9",
+      "startIndex": 130,
+      "text": " أمين الدين محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "60d3ab74-d62e-44c8-9b9e-330b31e8a7dc",
+      "startIndex": 80,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 257,
+      "guid": "84db4962-fba0-48da-a7f7-2c32f7841fca",
+      "startIndex": 254,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "9277ecbc-be8a-4096-b2d9-7bd054b19669",
+      "startIndex": 25,
+      "text": "شمس الدين محمد بن أبي الفتح بن أبي الفضل البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "d64e5852-b1a8-4bfa-b1a5-cbf9841bea76",
+      "startIndex": 86,
+      "text": "شرف الدين حسن بن يعقوب بن إلياس الجاكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "d6cf8dc4-b374-4861-9174-b2aa2568dce0",
+      "startIndex": 169,
+      "text": "محمد بن أحمد بن محمد بن النجيب",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة الإمام شمس الدين محمد بن أبي الفتح بن أبي الفضل البعلبكي ابنه أحمد وشرف الدين حسن بن يعقوب بن إلياس الجاكي وابنه أمين الدين محمد وكاتب السماع في الأصل محمد بن أحمد بن محمد بن النجيب وآخرون يوم الجمعة الخامس من ذي القعدة من السنة [686] بدمشق"
+}

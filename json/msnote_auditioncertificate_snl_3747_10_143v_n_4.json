@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن المظفر بن محمد بن موسى بن عيسى البزاز "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 50/51"
+      ],
+      "classmark": [
+        "3747/10"
+      ],
+      "folio_number": [
+        "143v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "14261dcb-e3b7-4cad-860e-e4248310520e",
+      "index": 91,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "731"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "2274b609-5421-4fac-9207-582e5720d6f4",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 238,
+      "text": "سابع عشر ربيع الأول سنة ثلاث وثلاثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "2abb5de9-fc52-4a4d-b704-11038521c1e8",
+      "index": 87,
+      "isZeroPoint": false,
+      "startIndex": 115,
+      "text": "ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "65183b3d-4679-487b-955d-7f3d9f2b7e51",
+      "index": 88,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "أحمد بن شيبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "7f99b252-7565-4d0e-bd33-ee01d84eddfd",
+      "index": 89,
+      "isZeroPoint": false,
+      "startIndex": 180,
+      "text": "زينب بنت مكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "8cc73b90-a421-4549-8fe1-c4cf49ee312b",
+      "index": 90,
+      "isZeroPoint": false,
+      "startIndex": 196,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "d6e1a798-5974-49c5-868b-cb82c86b9590",
+      "index": 85,
+      "isZeroPoint": false,
+      "startIndex": 18,
+      "text": "أبي محمد عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "f0e95aba-316e-41ac-87e3-57faab4f92f6",
+      "index": 86,
+      "isZeroPoint": false,
+      "startIndex": 54,
+      "text": "أبي عبد الله محمد بن إبراهيم بن غنائم بن المهندس",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه على الشيخين أبي محمد عبد الله بن أحمد بن المحب وأبي عبد الله محمد بن إبراهيم بن غنائم بن المهندس بسماعهما من ابن البخاري الأول حضرا وبسماع ابن المهندس أيضا من أحمد بن شيبان وزينب بنت مكي عن ابن طبرزد محمد بن المسمع الأول وذا خطه في سابع عشر ربيع الأول سنة ثلاث وثلاثين وسبعمية والحمد لله"
+}

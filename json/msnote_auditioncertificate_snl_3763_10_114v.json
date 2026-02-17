@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "114v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "02663f79-30ff-4a18-957a-979d52dac61f",
+      "startIndex": 54,
+      "text": " أبي محمد الحسن بن علي بن الحسين الأسدي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "623"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "5b22eeb0-7b2f-4574-be49-d88e49bcedfa",
+      "startIndex": 279,
+      "text": " يوم الاثنين تاسع عشر جمادى الآخرة سنة ثلاث وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 269,
+      "guid": "73995a1a-3f4c-45f3-acb3-d8e34625cc28",
+      "startIndex": 219,
+      "text": "أبو الفداء غنائم بن أبي القاسم بن أبي الحسين الخشاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 421,
+      "guid": "d52bc7e9-1444-4595-b607-be8c5c139cc1",
+      "startIndex": 362,
+      "text": "أحمد بن أبي الفضائل ابن أبي المجد بن أبي المعالي بن الدخميسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "f36f3da5-0ab1-4ca8-b892-a26e737331ab",
+      "startIndex": 150,
+      "text": "زكي الدين أبو عبد الله محمد بن يوسف بن محمد البرزالي الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "kishk_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 355,
+      "guid": "f67f354d-bea5-4d63-b176-b64111397a2f",
+      "startIndex": 339,
+      "text": "الكشك بمدينة دمشق",
+      "type": "place"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء من أوله إلى آخره على القاضي النفيس أبي محمد الحسن بن علي بن الحسين الأسدي بسماعه فيه نقلا من جده فسمعه شيخنا الإمام العالم الحافظ زكي الدين أبو عبد الله محمد بن يوسف بن محمد البرزالي الإشبيلي والشيخ أبو الفداء غنائم بن أبي القاسم بن أبي الحسين الخشاب وصح وثبت يوم الاثنين تاسع عشر جمادى الآخرة سنة ثلاث وعشرين وستماية بالكشك بمدينة دمشق كتبه أحمد بن أبي الفضائل ابن أبي المجد بن أبي المعالي بن الدخميسي عفا الله عنه والحمد لله وحده وصلى الله على نبيه محمد وآله وسلامه"
+}

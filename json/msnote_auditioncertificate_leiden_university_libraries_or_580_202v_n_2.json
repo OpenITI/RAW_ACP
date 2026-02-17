@@ -1,0 +1,612 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "202v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1753,
+      "guid": "10c2df95-cb39-48d9-b01b-2ae27cf2b9a0",
+      "startIndex": 1710,
+      "text": "عبد الله بن يحيى بن أبي بكر بن يوسف الجزائري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 361,
+      "guid": "161607f0-18e2-449d-b2e6-49f3c2dc60a6",
+      "startIndex": 291,
+      "text": "جمال الدين أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 667,
+      "guid": "25a799e7-af74-4548-b321-4b5b2c1680cc",
+      "startIndex": 596,
+      "text": " بدر الدين أبو بكر عبد الله بن إبراهيم بن عبد الرحمن المعروف بابن النقيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 679,
+      "guid": "2fd06bb9-40d7-4a0e-977d-2a50474d6533",
+      "startIndex": 675,
+      "text": "محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1191,
+      "guid": "41c9b68c-2b51-4862-827c-e937711a8566",
+      "startIndex": 1141,
+      "text": "نجم الدين إسماعيل بن إبراهيم بن سالم الحنبلي الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1209,
+      "guid": "43b90593-5b3f-4f30-8fcf-d9a8b1160366",
+      "startIndex": 1205,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1138,
+      "guid": "46413acb-bf9a-4e14-91d7-1af812d29d34",
+      "startIndex": 1105,
+      "text": "أبو عبد الله محمد بن الأغر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 761,
+      "guid": "49df30c8-bbb2-4830-a829-53ac5612f15f",
+      "startIndex": 727,
+      "text": "وجيه الدين عبد الرحمن بن حسن السبتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 569,
+      "guid": "4ebe437c-9e86-4d6d-9a4b-31745394da5c",
+      "startIndex": 531,
+      "text": "برهان الدين إبراهيم بن فلاح الإسكندراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 1617,
+      "guid": "507d36dc-b7f6-463b-811b-a1db16083a3b",
+      "startIndex": 1601,
+      "text": "دار السنة النورية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1404,
+      "guid": "52c18a36-7815-49f2-b24f-3f896dfea5b7",
+      "startIndex": 1366,
+      "text": "محمد بن أسعد بن محمد العجمي أبوه الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1312,
+      "guid": "64f69d73-1a40-4212-9d4c-14c83d6339fa",
+      "startIndex": 1284,
+      "text": "سعد الدين محمد بن فارس الزراد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "675"
+        ]
+      },
+      "endIndex": 1598,
+      "guid": "6a37aa86-75c8-4f51-bb1a-40fc90eb2b97",
+      "startIndex": 1542,
+      "text": "الأربعاء ثاني عشر شهر رمضان المعظم سنة خمس وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 844,
+      "guid": "6a44ba3b-551f-4e3a-ade9-141d50ee49c9",
+      "startIndex": 814,
+      "text": "أمين الدين أحمد بن عطاف الرهاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "6a97152a-cc73-449e-848a-52e1d3c88bdc",
+      "startIndex": 82,
+      "text": "جمال الدين أبي حامد محمد بن الشيخ الإمام المرحوم علم الدين أبي الحسن علي بن أبي الفتح محمود بن أحمد بن علي المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1460,
+      "guid": "85678ae6-0836-4d49-b257-dd02b1f3bab0",
+      "startIndex": 1407,
+      "text": "علاء الدين علي بن المحدث مجد الدين يوسف بن محمد الكاتب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 811,
+      "guid": "88743cdf-d79c-4919-bec7-a2ae898bda48",
+      "startIndex": 764,
+      "text": "مجد الدين أبو بكر بن عبد الرحمن بن منصور الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 587,
+      "guid": "8f017518-81fa-488a-a8fe-7967b4380f4b",
+      "startIndex": 584,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 521,
+      "guid": "9df1c5ef-dc46-4e38-b4cc-c6b07db6e920",
+      "startIndex": 469,
+      "text": "علاء الدين أبو الحسن علي بن بلبان بن عبد الله الناصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1363,
+      "guid": "a59b4ec6-aef1-4c2d-aadb-256988404ba7",
+      "startIndex": 1315,
+      "text": "عبد الحميد بن النجم قاسم بن إسماعيل الحنفي المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1035,
+      "guid": "bb619202-d930-481c-b769-2f5f89edc6a2",
+      "startIndex": 979,
+      "text": "محمود بن علي بن أبي القاسم بن أبي الغنائم عرف بابن الغسال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 582,
+      "guid": "ce78e3df-37e8-4605-8c53-5ea90ee93fd7",
+      "startIndex": 578,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 929,
+      "guid": "d319b05e-e662-437f-92c0-6ea9a75c4a56",
+      "startIndex": 891,
+      "text": "أبو محمد بن أبي القاسم بن أسعد النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 888,
+      "guid": "d7932207-6061-4288-8792-0d44daf86cb4",
+      "startIndex": 847,
+      "text": "عفيف الدين محمد بن أبي بكر الشاغوري المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1275,
+      "guid": "dda00988-22f2-4d6d-a1e4-41e895d45b4d",
+      "startIndex": 1211,
+      "text": "إبراهيم بن الفقيه تاج الدين عبد الرحمن بن إبراهيم بن سباع الفزاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1063,
+      "guid": "df916b50-82ed-432d-926c-ecb60bb3db02",
+      "startIndex": 1038,
+      "text": "طاهر بن عمر بن طاهر المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 717,
+      "guid": "e013dd54-ae15-42cb-a352-9f7cb4f387c0",
+      "startIndex": 682,
+      "text": "فخر الدين عمر بن علي بن عثمان الكردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1102,
+      "guid": "e635c5e3-951e-4eb5-85ab-071320de1e68",
+      "startIndex": 1066,
+      "text": "فخر الدين عثمان بن عبد الرحمن التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1495,
+      "guid": "f2e437be-58ab-4e8f-b265-01e200e8d807",
+      "startIndex": 1472,
+      "text": "علي بن بلبان بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 976,
+      "guid": "fbe7d3d6-1723-40af-a1ff-f48ff5470adf",
+      "startIndex": 932,
+      "text": "غرز الدين محمود بن عبد المنعم الحراني الحنبلي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذه الفوائد المذكورة أعلاه على صاحبها الشيخ الإمام العالم الحافظ المفيد جمال الدين أبي حامد محمد بن الشيخ الإمام المرحوم علم الدين أبي الحسن علي بن أبي الفتح محمود بن أحمد بن علي المحمودي الصابوني أثابه الله الجنة وإيانا بحق سماعه لجميعها ما خلا الجزء الثامن والرابع عشر من القاضي جمال الدين أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري الحرستاني بسنده المبين فيها وقرأت المستثنى المذكور إجازة منه إن لم يكن سماعا فسمع هذا الجزء الخامس عشر الشيخ المحدث علاء الدين أبو الحسن علي بن بلبان بن عبد الله الناصري والإمام برهان الدين إبراهيم بن فلاح الإسكندراني وابناه أحمد ومحمد والفقيه بدر الدين أبو بكر عبد الله بن إبراهيم بن عبد الرحمن المعروف بابن النقيب وابنه محمود وفخر الدين عمر بن علي بن عثمان الكردي والمحدث وجيه الدين عبد الرحمن بن حسن السبتي ومجد الدين أبو بكر بن عبد الرحمن بن منصور الموصلي وأمين الدين أحمد بن عطاف الرهاوي وعفيف الدين محمد بن أبي بكر الشاغوري المؤذن وأبو محمد بن أبي القاسم بن أسعد النابلسي وغرز الدين محمود بن عبد المنعم الحراني الحنبلي ومحمود بن علي بن أبي القاسم بن أبي الغنائم عرف بابن الغسال وطاهر بن عمر بن طاهر المصري وفخر الدين عثمان بن عبد الرحمن التنوخي وأبو عبد الله محمد بن الأغر المقدسي ونجم الدين إسماعيل بن إبراهيم بن سالم الحنبلي الخباز والده وابنه محمد وإبراهيم بن الفقيه تاج الدين عبد الرحمن بن إبراهيم بن سباع الفزاري والشيخ سعد الدين محمد بن فارس الزراد وعبد الحميد بن النجم قاسم بن إسماعيل الحنفي المؤذن ومحمد بن أسعد بن محمد العجمي أبوه الحنفي وعلاء الدين علي بن المحدث مجد الدين يوسف بن محمد الكاتب وابن أخته علي بن بلبان بن عبد الله وجماعة بفوات وصح ذلك في ثلاث مجالس آخرها يوم الأربعاء ثاني عشر شهر رمضان المعظم سنة خمس وسبعين وستماية بدار السنة النورية رحم الله واقفها بدمشق حرسها الله وكتب القارئ العبد الفقير إلى رحمة ربه خادم السنة المحمدية عبد الله بن يحيى بن أبي بكر بن يوسف الجزائري آتاه الله رشده وغفر له ولوالديه والمسلمين أجمعين والحمد لله رب العالمين وصلى الله على سيدنا محمد وآله وسلم تسليما"
+}

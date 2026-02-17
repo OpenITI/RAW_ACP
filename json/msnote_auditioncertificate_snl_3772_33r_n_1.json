@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسحاق بن منده "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن منده"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 184"
+      ],
+      "classmark": [
+        "3772"
+      ],
+      "folio_number": [
+        "33r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "06702c48-522c-4ac8-970f-769ad4154ed7",
+      "startIndex": 155,
+      "text": "أمة الرزاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "518"
+        ]
+      },
+      "endIndex": 217,
+      "guid": "105e1eb6-d9dd-4926-a05d-8b8f8e64b723",
+      "startIndex": 196,
+      "text": " ثمان عشرة [وخمسماية] ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "1528d451-ac04-46dc-bda2-8115c80fd069",
+      "startIndex": 44,
+      "text": "أبي الفرج سعيد بن أبي الرجاء الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "1d3dc726-0082-4c20-a26d-3ccd98a0057e",
+      "startIndex": 110,
+      "text": "محمد اللفتواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "27839dfe-acbf-43ff-88bf-6fde71d642ac",
+      "startIndex": 132,
+      "text": "عمر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "28cedccb-ac35-4e35-8358-7b6b32298342",
+      "startIndex": 137,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 173,
+      "guid": "3dc767fd-6e40-4633-be69-f143e765ce9f",
+      "startIndex": 169,
+      "text": "دمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "49bbe8e4-04fa-4670-89a7-08629f4c4846",
+      "startIndex": 143,
+      "text": "عبد القادر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "ca91571e-8f82-4799-a078-501be0d6a244",
+      "startIndex": 83,
+      "text": " أبي الحسين الأسكاف",
+      "type": "person"
+    }
+  ],
+  "text": "سمع من هنا إلى [...] الذي آخره نشر العلم من أبي الفرج سعيد بن أبي الرجاء الصيرفي عن أبي الحسين الأسكاف بقراءة محمد اللفتواني أولاده عمر ومحمد وعبد القادر وأمة الرزاق و [دمشق ونقل نسخته؟] تاريخ سنة ثمان عشرة [وخمسماية] "
+}

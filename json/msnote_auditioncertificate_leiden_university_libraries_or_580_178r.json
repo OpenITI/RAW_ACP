@@ -1,0 +1,484 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "178r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 510,
+      "guid": "01d40737-5c39-474a-a91a-872793a3c8ab",
+      "startIndex": 469,
+      "text": "زين الدين عبد اللطيف بن صدقة بن عوض العقبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 851,
+      "guid": "0257ea06-1be1-4ab1-bf8e-ca51a4c1c743",
+      "startIndex": 803,
+      "text": " أبو النعيم رضوان بن محمد بن يوسف بن سلامة العقبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "816"
+        ]
+      },
+      "endIndex": 1586,
+      "guid": "058527c5-3b37-49a0-80fd-bf285edf299d",
+      "startIndex": 1532,
+      "text": "الأحد ثامن عشر شهر ربيع الأول من سنة ست عشرة وثماني مئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 635,
+      "guid": "31c868cc-0ac4-4cdd-b269-547ce6a599fc",
+      "startIndex": 600,
+      "text": "بدر الدين حسين بن علي بن خالد العقبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1450,
+      "guid": "42ecbe76-ec32-43b2-a1b9-c14fcf2bcaa9",
+      "startIndex": 1421,
+      "text": "شهاب الدين أحمد بن محمد العقبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "turba_al-nasiriya"
+          ]
+        ]
+      },
+      "endIndex": 1622,
+      "guid": "43171708-5251-4efd-a7c1-8af2ec6e2a5c",
+      "startIndex": 1589,
+      "text": "الخانقاه الناصرية بالتربة الظاهرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "4d9be3f5-6125-4bbd-adf4-13a10bff6a9b",
+      "startIndex": 63,
+      "text": "جمال الدين أبا محمد عبد الله بن قاضي القضاة عللاء الدين أبي الحسن علي بن محمد الكناني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "4ef3c170-4194-4e2e-a944-ad8d301fa0e8",
+      "startIndex": 177,
+      "text": "شهاب الدين أبي العباس أحمد بن عثمان ابن الكلوتاتي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 597,
+      "guid": "50f14c87-17ee-4475-9a00-8846672db4dc",
+      "startIndex": 560,
+      "text": "ناصر الدين محمد بن خليل بن محمد الأحدب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 795,
+      "guid": "626f6684-2bb2-4604-915b-6987e2a746dc",
+      "startIndex": 777,
+      "text": "عبيد بن أحمد البواب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 540,
+      "guid": "78845f3d-4051-4b7c-a938-cdde28fd0429",
+      "startIndex": 531,
+      "text": "أمة الخالق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 528,
+      "guid": "81bdb047-8880-47f7-873c-a54450755c99",
+      "startIndex": 519,
+      "text": "عبد الكريم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1480,
+      "guid": "88674641-f0e4-4088-bf22-1ad2b355adf2",
+      "startIndex": 1457,
+      "text": "عبد اللطيف بن الشيخ عبيد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 431,
+      "guid": "9c046a0f-dcca-44f0-bccc-d7e79e48f013",
+      "startIndex": 377,
+      "text": "مجد الدين محمد بن الإمام أبي حامد رضي الدين محمد المطري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 374,
+      "guid": "a4903315-8a27-464f-a159-74c780346b12",
+      "startIndex": 325,
+      "text": "عز الدين عبد السلام بن عبد المنعم بن أحمد البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1161,
+      "guid": "b1ec60bf-5ede-42b0-af39-d4a8c0cf9dca",
+      "startIndex": 1117,
+      "text": "شمس الدين محمد بن محمد بن عمر السنباطي المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 766,
+      "guid": "b83fa0df-241b-4c2b-a99e-0c76cb01256f",
+      "startIndex": 723,
+      "text": "عبد الله بن أحمد بن محمد [الذاكر؟] الإسكندري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "bbe657e3-242a-4b43-8475-e3493cf1d18b",
+      "startIndex": 276,
+      "text": "مجد الدين أبو محمد صالح بن محمد بن موسى الزواوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 720,
+      "guid": "bd9425e5-5ce2-402f-848f-5fc93e920077",
+      "startIndex": 669,
+      "text": "ناصر الدين محمد بن شهاب الدين أحمد بن محمد بن المطوع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1094,
+      "guid": "c8ae8d64-2f84-4ad5-b1ee-c1aeb271b619",
+      "startIndex": 1060,
+      "text": "شمس الدين محمد بن عبد اللطيف العقبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 666,
+      "guid": "c90eb784-3e6d-4469-8a81-767ecb18e093",
+      "startIndex": 638,
+      "text": "حمزة بن محمد بن أحمد الهربيطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 248,
+      "guid": "ea34902f-d200-49d9-b3c9-f6f0cf985d0c",
+      "startIndex": 234,
+      "text": "شهاب الدين أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 464,
+      "guid": "ff4eedd9-9158-4c4b-aed4-32f48debc39e",
+      "startIndex": 442,
+      "text": "عبد الله بن محمد المدني",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله حق حمده سمع هذا الجزء على راويه الإمام العالم المسند جمال الدين أبا محمد عبد الله بن قاضي القضاة عللاء الدين أبي الحسن علي بن محمد الكناني بقراءة الإمام العالم المحدث شهاب الدين أبي العباس أحمد بن عثمان ابن الكلوتاتي الحنفي شهاب الدين أحمد بن المسمع والأئمة العلماء مجد الدين أبو محمد صالح بن محمد بن موسى الزواوي وعز الدين عبد السلام بن عبد المنعم بن أحمد البغدادي ومجد الدين محمد بن الإمام أبي حامد رضي الدين محمد المطري وابن عمه عبد الله بن محمد المدنيان وزين الدين عبد اللطيف بن صدقة بن عوض العقبي وولداه عبد الكريم وأمة الخالق في الرابعة وربيبه ناصر الدين محمد بن خليل بن محمد الأحدب وبدر الدين حسين بن علي بن خالد العقبي وحمزة بن محمد بن أحمد الهربيطي وناصر الدين محمد بن شهاب الدين أحمد بن محمد بن المطوع وعبد الله بن أحمد بن محمد [الذاكر؟] الإسكندريان والشيخ عبيد بن أحمد البواب والعبد أبو النعيم رضوان بن محمد بن يوسف بن سلامة العقبي وكتب من قوله أخبرنا أبو بكر محمد بن علي بن الحسن البغدادي ثنا أبو بكر أحمد بن محمد بن الجعد الوشاء فذكر عن مطرف بن عبد الله بن الشخير عن أبيه انتهيت إلى رسول الله صلى الله عليه وسلم ولبطنه أزيز كأزيز المرجل شمس الدين محمد بن عبد اللطيف العقبي وبعده بمقدار حديثين وشمس الدين محمد بن محمد بن عمر السنباطي المؤذن ومن قوله في الورقة السادسة حدثني أبي رحمه الله ثنا أبو سعيد عبد الله بن أحمد بن عبد الرحمن بن عبد الله بن سعد الدشتكي الرازي فذكر حديث عبد الله بن عمر أن رجلا سأل رسول الله صلى الله عليه وسلم فقال أي رسول الله كيف صلاة الليل فقال مثنى مثنى الحديث شقيق كاتبه شهاب الدين أحمد بن محمد العقبي وسمع عبد اللطيف بن الشيخ عبيد المذكور بعضا من أوائله ثم نام وصح ذلك وثبت في يوم الأحد ثامن عشر شهر ربيع الأول من سنة ست عشرة وثماني مئة بالخانقاه الناصرية بالتربة الظاهرية بالصحراء وأجاز المسمع لمن قرأه أو سمعه أو حضره أو بعضه جميع مروياته والحمد لله التخريجة يسرته وهي ربيبه ناصر الدين محمد بن خليل بن محمد الأحدب والمسح أعلاه صحيحان كتبه رضوان المذكور أعلاه والحمد لله"
+}

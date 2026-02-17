@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "137r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "17f070ab-9b67-4f45-8c00-af62b69ab3ce",
+      "startIndex": 226,
+      "text": "أبي القاسم عبد الصمد بن محمد الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "4505ca06-11da-4e7b-b604-67650c52a164",
+      "startIndex": 104,
+      "text": "جمال الدين أبي حامد محمد بن علي بن محمود بن أحمد المحمودي الصابوني البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "673"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "723ee1e6-b863-4f2a-8736-f0bb7e87f759",
+      "startIndex": 293,
+      "text": "السبت السابع والعشرين من رجب سنة ثلاث وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 418,
+      "guid": "8278abda-96db-4f45-8b05-98bfbdaab818",
+      "startIndex": 390,
+      "text": "يعقوب بن أحمد بن يعقوب الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 374,
+      "guid": "f8ba491c-38f5-4375-9c96-bbedf4342ed4",
+      "startIndex": 347,
+      "text": "علو دار الحديث النورية بدمشق",
+      "type": "place"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء وهو العاشر من فوائد تمام الرازي رحمه الله على شيخنا الإمام العالم الحافظ محدث الشام جمال الدين أبي حامد محمد بن علي بن محمود بن أحمد المحمودي الصابوني البغدادي أثابه الله الجنة بحق سماعه فيه أصلا من القاضي أبي القاسم عبد الصمد بن محمد الأنصاري وصح وثبت في ليلة تسفر عن يوم السبت السابع والعشرين من رجب سنة ثلاث وسبعين وستماية بعلو دار الحديث النورية بدمشق المحروسة كتبه يعقوب بن أحمد بن يعقوب الحلبي عفا الله عنه الحمد لله وحده وصلوته على سيدنا محمد نبيه وآله وصحبه وسلم وحسبنا الله ونعم الوكيل"
+}

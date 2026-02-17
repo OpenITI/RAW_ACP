@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "آدم بن أبي إياس العسقلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث آدم بن أبي إياس العسقلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/10"
+      ],
+      "folio_number": [
+        "183v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 580,
+      "guid": "061c1ce5-7692-4e2c-a1bd-719398d9457a",
+      "startIndex": 520,
+      "text": "جمال الدين يوسف بن محمد بن عبد الله بن محمد بن محمود المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 849,
+      "guid": "1e08a33d-8f0d-470b-828f-2bac86c5a4fa",
+      "startIndex": 828,
+      "text": "حسن بن يوسف بن إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "39b9901b-babe-4f48-ab5a-6bd7a4df1ce2",
+      "startIndex": 199,
+      "text": "الكفرطابي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 601,
+      "guid": "3c2a6bf5-6d02-4a41-b571-bb0bb7830d4c",
+      "startIndex": 588,
+      "text": "شرف الدين داود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "44f4ca09-7fd4-43f1-ac64-f3bed29c6b5e",
+      "startIndex": 227,
+      "text": "محمد بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "4ae73e41-5bd9-447f-935e-3191bf5cebaf",
+      "startIndex": 247,
+      "text": "أحمد بن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 699,
+      "guid": "5f12b11c-799c-47bb-b54b-40ecd123cb8b",
+      "startIndex": 677,
+      "text": "أحمد بن سليمان بن أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 998,
+      "guid": "6691eacc-de12-4ad3-887f-bf292e47f225",
+      "startIndex": 983,
+      "text": "المدرسة الضيائية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 493,
+      "guid": "76ba5038-4b74-4ff9-b64b-37c36a0ef1be",
+      "startIndex": 447,
+      "text": "شمس الدين محمود بن خليفة بن محمد بن خلف المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 812,
+      "guid": "7de9daa6-a7c0-43b7-b232-8feb877c4e2e",
+      "startIndex": 779,
+      "text": "أحمد بن محمد بن عمر بن حسين العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 736,
+      "guid": "7ecedbc0-55ac-49d7-823d-aec8521e1d13",
+      "startIndex": 701,
+      "text": "أحمد بن مجلي بن عبد الحافظ البيتليدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "727"
+        ]
+      },
+      "endIndex": 980,
+      "guid": "8f18b357-d01e-4389-955c-911dbeee444d",
+      "startIndex": 929,
+      "text": "يوم الاثنين مستهل ربيع الأول سنة سبع وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 428,
+      "guid": "9d5e366b-da95-423c-8b20-226d1fa7cb8c",
+      "startIndex": 417,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 674,
+      "guid": "a11535b7-cde5-41eb-a99e-cd0b718b305f",
+      "startIndex": 643,
+      "text": "أحمد بن إسماعيل بن عثمان بن عيسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "aa1072f3-616f-4e8e-8069-68e44b3dc996",
+      "startIndex": 313,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 769,
+      "guid": "bad3c0e8-04e3-41e3-a852-eefec22d656b",
+      "startIndex": 741,
+      "text": "مفلح بن محمد بن مفرج الراميني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "cc33df62-f05a-4828-9dbb-590c067c6e4e",
+      "startIndex": 367,
+      "text": "محب الدين أبي محمد عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 444,
+      "guid": "d851387d-f2ae-4c24-87e6-bc53ec0d0502",
+      "startIndex": 431,
+      "text": "أبو الفتح أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "e08ce5aa-d895-48e1-a484-43b86523e0d5",
+      "startIndex": 53,
+      "text": "شهاب الدين أبي العباس أحمد بن عبد الله بن أحمد بن محمد بن إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 510,
+      "guid": "fc759c2c-2ca5-40fd-88cb-b2d7d1837c8f",
+      "startIndex": 501,
+      "text": "فرج الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 640,
+      "guid": "fca00e15-e0d8-4482-accc-cf3ea898c7a6",
+      "startIndex": 610,
+      "text": "أبو بكر بن أحمد بن هوس المجارفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 907,
+      "guid": "fce98fca-6c47-4151-a9ec-b64a22d3d6be",
+      "startIndex": 861,
+      "text": "محمد بن يحيى بن محمد بن سعد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "fe4f1fb4-9d8e-47d8-80ff-256c57d2423b",
+      "startIndex": 120,
+      "text": "أم عبد الله زينب بنت أحمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخين الإمام العالم الزاهد الورع شهاب الدين أبي العباس أحمد بن عبد الله بن أحمد بن محمد بن إبراهيم وأم عبد الله زينب بنت أحمد بن عبد الرحيم بن عبد الواحد المقدسيين بسماع الأول من الكفرطابي وبسماع الثانية من محمد بن عبد الهادي وأحمد بن عبد الدائم بسماع الأولين وإجازة الأخير إن لم يكن سماعا من الثقفي بسنده بقراءة الشيخ الإمام البارع الأوحد الحافظ محب الدين أبي محمد عبد الله بن المسمع الأول ابناه أبو بكر محمد وأبو الفتح أحمد وشمس الدين محمود بن خليفة بن محمد بن خلف المنبجي وفتاه فرج الحبشي والإمام جمال الدين يوسف بن محمد بن عبد الله بن محمد بن محمود المرداوي وأخوه شرف الدين داود والشيخ أبو بكر بن أحمد بن هوس المجارفي وأحمد بن إسماعيل بن عثمان بن عيسى وأحمد بن سليمان بن أحمد وأحمد بن مجلي بن عبد الحافظ البيتليديون ومفلح بن محمد بن مفرج الراميني  والحاج أحمد بن محمد بن عمر بن حسين العجمي قيم الضيائية وحسن بن يوسف بن إبراهيم من سلمية ومحمد بن يحيى بن محمد بن سعد بن عبد الله المقدسي وهذا خطه وصح ذلك في يوم الاثنين مستهل ربيع الأول سنة سبع وعشرين وسبعماية بالمدرسة الضيائية"
+}

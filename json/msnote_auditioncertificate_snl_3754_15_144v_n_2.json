@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فضائل العباس بن عبد المطلب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 79"
+      ],
+      "classmark": [
+        "3754/15"
+      ],
+      "folio_number": [
+        "144v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "34b09063-3e5b-41eb-a236-e7f5a00792f7",
+      "index": 119,
+      "isZeroPoint": false,
+      "startIndex": 108,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "689"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "4ff41265-e2a6-4b54-ac94-c6e0a0a0e836",
+      "index": 123,
+      "isZeroPoint": false,
+      "startIndex": 264,
+      "text": "يوم الأربعاء التاسع من رجب سنة تسع وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "68e9126c-0f23-4541-a8ed-c35f6d86d1c8",
+      "index": 122,
+      "isZeroPoint": false,
+      "startIndex": 215,
+      "text": "أحمد بن عبد الرحيم بن أبي عبد الله القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "6fd24b41-6f39-4d5b-924b-977c3fcf59b8",
+      "index": 121,
+      "isZeroPoint": false,
+      "startIndex": 149,
+      "text": "فاطمة بنت محمد بن المسمع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "9370ab2d-fdb4-41e0-85a6-071906fe96e8",
+      "index": 117,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": "كمال الدين أحمد بن محمد ابن الشريشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 336,
+      "guid": "c3fe9a41-800e-4044-b848-24bf54e410cf",
+      "index": 124,
+      "isZeroPoint": false,
+      "startIndex": 315,
+      "text": "منزل الشيخ بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "c63e92f0-9b25-40e4-ad89-fa5662684802",
+      "index": 118,
+      "isZeroPoint": false,
+      "startIndex": 55,
+      "text": "صلاح الدين محمد بن أحمد بن بدر بن تبع البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "cde90b33-dff5-4b25-859d-56a8398025ea",
+      "index": 120,
+      "isZeroPoint": false,
+      "startIndex": 114,
+      "text": "محمد بن أبي الحسن بن محمد الحارثي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه عليه بقراءة كمال الدين أحمد بن محمد ابن الشريشي صلاح الدين محمد بن أحمد بن بدر بن تبع البعلبكي وابنه أحمد ومحمد بن أبي الحسن بن محمد الحارثي وفاطمة بنت محمد بن المسمع حاضرة في |الخامسة| وكاتب السماع في الأصل أحمد بن عبد الرحيم بن أبي عبد الله القرشي وآخرون يوم الأربعاء التاسع من رجب سنة تسع وثمانين وستمية بمنزل الشيخ بسفح قاسيون"
+}

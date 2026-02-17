@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يحيى بن معين"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "معرفة الرجال"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 15/16"
+      ],
+      "classmark": [
+        "3738/1"
+      ],
+      "folio_number": [
+        "20v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "197a29b5-fb6a-400d-bc61-c58f135cee48",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 230,
+      "text": "أبي الخير هزارسب بن عوض بن الحسن الهروي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "231c8b6a-f37c-42ba-a310-8e8bd7258fb8",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 186,
+      "text": "أبي عمر بن حيويه الخزاز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "darb_dawwab"
+          ]
+        ]
+      },
+      "endIndex": 391,
+      "guid": "3de1a8f3-ddb7-4ff4-a0f6-55b0c28f28d9",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 380,
+      "text": "حانوت البلخي",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 317,
+      "guid": "401add67-79e8-41dc-85e6-f11180270d93",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 289,
+      "text": "الحسين بن محمد بن خسرو البلخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "40cc1fc9-929d-4c6d-9ae6-789af489640c",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 134,
+      "text": "أبي القاسم علي بن المحسن بن علي التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "513"
+        ]
+      },
+      "endIndex": 375,
+      "guid": "73fb112a-105d-40ce-8be4-9ff24c52f265",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 327,
+      "text": "يوم السبت حادي عشر شوال من سنة ثلث عشرة وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "bf53f4f2-e406-4520-bf03-db50535f1ec1",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 38,
+      "text": "أبي سعد أحمد بن عبد الجبار بن أحمد بن [القاسم] الصيرفي",
+      "type": "person"
+    }
+  ],
+  "text": " بلغ من أول هذا الجزء سماعاً من الشيخ أبي سعد أحمد بن عبد الجبار بن أحمد بن [القاسم] الصيرفي أيده الله بالإجازة عن القاضي العدل الثقة أبي القاسم علي بن المحسن بن علي التنوخي بالإجازة عن أبي عمر بن حيويه الخزاز بقراءة الشيخ الصائن أبي الخير هزارسب بن عوض بن الحسن الهروي نفعه الله [بالعلم] الحسين بن محمد بن خسرو البلخي وذلك في يوم السبت حادي عشر شوال من سنة ثلث عشرة وخمس ماية في حانوت البلخي [...]"
+}

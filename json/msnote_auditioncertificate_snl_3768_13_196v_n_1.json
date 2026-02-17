@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبدالله بن إبراهيم الشافعي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي بكر الشافعي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 165"
+      ],
+      "classmark": [
+        "3768/13"
+      ],
+      "folio_number": [
+        "196v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "32367a62-c79e-4710-b749-5844b1cdd447",
+      "startIndex": 110,
+      "text": "أبو محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "year": [
+          "561"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "4d1e042c-5c54-4c57-a2fa-9a3ce9c8e277",
+      "startIndex": 236,
+      "text": "سنة إحدى وستين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "725bf254-1f90-43bf-8504-198de52de14f",
+      "startIndex": 41,
+      "text": "أبي الفتح محمد بن عبد الباقي بن أحمد بن سلمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 304,
+      "guid": "74582ae2-cf91-4038-9ee2-8aa1aac496ac",
+      "startIndex": 261,
+      "text": "منزل الشيخ بدرب الصاغة من دار الخلافة ببغداد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "bd509f97-4969-44f5-b4cc-bf7558f70c20",
+      "startIndex": 168,
+      "text": "بد الغني بن عبد الواحد بن علي بن سرور المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ جميع هذا الجزء على الشيخ الأجل الثقة أبي الفتح محمد بن عبد الباقي بن أحمد بن سلمان أيده الله صاحبه الفقيه أبو محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي فسمعه عبد الغني بن عبد الواحد بن علي بن سرور المقدسي وهذا خطه وذلك في شهور سنة إحدى وستين وخمسمائة بمنزل الشيخ بدرب الصاغة من دار الخلافة ببغداد"
+}

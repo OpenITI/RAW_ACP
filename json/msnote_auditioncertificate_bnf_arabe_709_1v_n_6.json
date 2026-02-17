@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/76600419"
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 709"
+      ],
+      "folio_number": [
+        "1v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.item.r=%22arabe%20709%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "3f0cc80e-67b4-4aa2-a09e-8b8b02b6da4f",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 147,
+      "text": "أبي الفتح عبد الملك بن أبي القاسم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "66b88a59-06f2-46e8-bc8f-d200f17e9e76",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 70,
+      "text": "أبي الحسن علي بن أحمد بن كوثر المحاربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 362,
+      "guid": "67587bae-d926-4db8-a9e4-96da7c17e63b",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 328,
+      "text": " أحمد بن [يحيى بن حسن بن عمر بن ملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "11"
+        ],
+        "year": [
+          "588"
+        ]
+      },
+      "endIndex": 407,
+      "guid": "7521c533-5dfa-4d88-b18d-7b7089069891",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 369,
+      "text": "ذي القعدة عام ثمانية [وثمانين وخمسماية]",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت بعض هذا الكتاب على مالكه الشيخ الفقيه الأجل المحدث الأكمل الأفضل أبي الحسن علي بن أحمد بن كوثر المحاربي رضي الله عنه وحدثني به عن شيخه الإمام أبي الفتح عبد الملك بن أبي القاسم بالإسناد المكتوب في أوله بمقلوب الصفحة [... .... اليمني؟] وأجاز لي جميع ما تحمله من صنوف العلم على اختلافها على المتعارف في ذلك بين أهل الحديث وكتب أحمد بن [يحيى بن حسن بن عمر بن ملك؟] في ذي القعدة عام ثمانية [وثمانين وخمسماية]"
+}

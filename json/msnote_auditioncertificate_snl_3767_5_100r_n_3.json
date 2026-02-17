@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر محمد بن عبد الغني بن أبي بكر ابن نقطة البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة من حديث مالك بن أنس "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 157"
+      ],
+      "classmark": [
+        "3767/5"
+      ],
+      "folio_number": [
+        "100r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 248,
+      "guid": "84c5aa96-decc-4574-8ec1-13e1b7e34da7",
+      "startIndex": 214,
+      "text": "أحمد بن يحيى بن علي الحضرمي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "653"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "93535aa1-5cdd-4712-84a0-efbe4c371aa3",
+      "startIndex": 162,
+      "text": "الجمعة ثامن عشري شعبان سنة ثلاث وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "d316d204-4e4a-40aa-ac96-76026aa35a19",
+      "startIndex": 111,
+      "text": "تاج الدين الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "d9f61cc3-8a6c-4336-b2b2-e50933082300",
+      "startIndex": 21,
+      "text": " تقي الدين أبي محمد عبد الرحمن بن أبي الفهم بن عبد الرحمن اليلداني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعته أيضا على الشيخ تقي الدين أبي محمد عبد الرحمن بن أبي الفهم بن عبد الرحمن اليلداني بسماعه من الشيخ الإمام تاج الدين الكندي في جماعة أسماؤهم على نسخته في يوم الجمعة ثامن عشري شعبان سنة ثلاث وخمسين وستمائة كتبه أحمد بن يحيى بن علي الحضرمي الشافعي حامدا لله تعالى جده ومصليا على سيدنا محمد وآله وصحبه ومسلما"
+}

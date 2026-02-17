@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/11"
+      ],
+      "folio_number": [
+        "133v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "0d9887b9-992a-47d6-9ad1-b4106b813b68",
+      "startIndex": 93,
+      "text": "ابن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "19e8fa9d-3175-4c73-abcb-547ecc769037",
+      "startIndex": 175,
+      "text": "أبو محمد عبد الرحمن بن إبراهيم بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "yard_qasr_mosque"
+          ]
+        ]
+      },
+      "endIndex": 370,
+      "guid": "2febce74-c46e-4040-b1a8-91946a81b8e4",
+      "startIndex": 345,
+      "text": "منزلها برحبة الجامع ببغداد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "40d085c8-98aa-49f0-a253-2b5bc9e949d9",
+      "startIndex": 48,
+      "text": "شهدة بنت أحمد بن الفرج الإبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "573"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "494decb4-cca6-4b35-806f-38246c862643",
+      "startIndex": 277,
+      "text": " يوم الاثنين سادس عشر ربيع الأول سنة ثلث وسبعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "5561ea76-db34-4858-ac5d-56c6d7b4acaa",
+      "startIndex": 130,
+      "text": "أبي عبد الله عبد القادر بن عبد الله الرهاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "b216e3e8-5665-4c3a-8e46-2a9a8fa53c47",
+      "startIndex": 223,
+      "text": "الحسين بن عمر بن نصر بن حسن بن باز الموصلي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الجهة الكاتبة فخر النساء شهدة بنت أحمد بن الفرج الإبري بروايتها له عن ابن البطر بقراءة الشيخ الإمام الحافظ أبي عبد الله عبد القادر بن عبد الله الرهاوي وأبو محمد عبد الرحمن بن إبراهيم بن أحمد المقدسي والحسين بن عمر بن نصر بن حسن بن باز الموصلي وهذا خطه في يوم الاثنين سادس عشر ربيع الأول سنة ثلث وسبعين وخمسماية وصح ذلك في منزلها برحبة الجامع ببغداد"
+}

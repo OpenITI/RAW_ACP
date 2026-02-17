@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 141"
+      ],
+      "classmark": [
+        "3764/10"
+      ],
+      "folio_number": [
+        "157r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "01b32ae7-cd79-4acf-9a0c-1e1c0edcd272",
+      "startIndex": 162,
+      "text": "ابن المقير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 246,
+      "guid": "03180efb-4791-4a9f-bf07-a9da9a1d8c6a",
+      "startIndex": 238,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "689"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "6ab88699-74b2-4541-a5ac-d2a962b6034f",
+      "startIndex": 184,
+      "text": "الخميس الثاني والعشرين [... سنة] تسع وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 307,
+      "guid": "7e04c8ce-8dfd-4440-b51b-815208f3d2d7",
+      "startIndex": 259,
+      "text": "أحمد بن عبد الرحيم بن أبي عبد الله القرشي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "9e16e42c-6bab-4241-8a1e-01fd23e637f3",
+      "startIndex": 55,
+      "text": "شرف الدين أبي العباس أحمد بن هبة الله بن أحمد بن محمد بن الحسن بن عساكر الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "c83c9a88-a239-47d9-acf8-98ae2f9dd163",
+      "startIndex": 149,
+      "text": "ابن الإربلي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميـع هـذا الـجـزء على الشيخ الجليل الأصيـل [...] شرف الدين أبي العباس أحمد بن هبة الله بن أحمد بن محمد بن الحسن بن عساكر الشافعي بسماعه فيه من ابن الإربلي وابن المقير وصح في يوم الخميس الثاني والعشرين [... سنة] تسع وثمانين وستمائة بجامع دمشق كتبه العبد أحمد بن عبد الرحيم بن أبي عبد الله القرشي الشافعي عفا الله عنه والحمد لله وحده  "
+}

@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن الحسين الجرجاني الغطريفي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي أحمد الغطريفي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 62 "
+      ],
+      "classmark": [
+        "3750/5"
+      ],
+      "folio_number": [
+        "63r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "37caf443-d3f1-4868-bfa2-de37fda4a400",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 140,
+      "text": "ابن الطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "3"
+        ],
+        "year": [
+          "521"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "7a18332e-b568-4d29-9d6e-0b0f092e7466",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 153,
+      "text": "شهر ربيع الأ[و]ل سنة إحدى وعشرين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "8cf25257-1d23-44ba-9bfa-fa9f314a50e2",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 25,
+      "text": "أبي المواهب أحمد بن محمد بن عبد الملك بن عبد العزيز بن عبد الله بن أحمد الوراق المعروف بابن ملوك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 220,
+      "guid": "bf68a345-a312-445a-b15c-d27f9fd3c0d8",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 197,
+      "text": "محلة الشارسول غربي بغداد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "cf640ec5-56b3-445f-9191-a5788b734fdd",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 227,
+      "text": "علي بن الحسن",
+      "type": "person"
+    }
+  ],
+  "text": " وبلغت بقراءتي على الشيخ أبي المواهب أحمد بن محمد بن عبد الملك بن عبد العزيز بن عبد الله بن أحمد الوراق المعروف بابن ملوك بروايته عن القاضي ابن الطيب في شهر ربيع الأ[و]ل سنة إحدى وعشرين وخمس ماية بمحلة الشارسول غربي بغداد وكتب علي بن الحسن بخطه وصح"
+}

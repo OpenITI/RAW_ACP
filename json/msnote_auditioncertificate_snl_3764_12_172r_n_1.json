@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 142"
+      ],
+      "classmark": [
+        "3764/12"
+      ],
+      "folio_number": [
+        "172r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "0ae8dcac-b243-4583-a0e3-f91b7bf23653",
+      "startIndex": 199,
+      "text": "أبو علي الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "199dd45d-e324-4872-9e96-8d392a42c12b",
+      "startIndex": 281,
+      "text": "أحمد بن محمود بن إبراهيم بن نبهان بن الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "640"
+        ]
+      },
+      "endIndex": 398,
+      "guid": "2ac1672a-a86a-423c-a811-6dea9975a56d",
+      "startIndex": 355,
+      "text": "الخميس مستهل ذي القعدة من سنة أربعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "8c65d905-0a07-4f44-a4d4-93209770f66e",
+      "startIndex": 64,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 428,
+      "guid": "8dc707e3-2ebe-46a9-a933-142f84cfc7dc",
+      "startIndex": 401,
+      "text": "مدرسة المسمع بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "ad506a38-43c4-495a-9e19-68b07a24b8c0",
+      "startIndex": 214,
+      "text": "أبو عبد الله الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "b945954a-b935-4a6a-bde7-f36e3aa688b9",
+      "startIndex": 181,
+      "text": "أبو المعالي محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "ec68eeb7-21f2-4173-8088-143a03f0f47e",
+      "startIndex": 137,
+      "text": " بدر الدين بدر بن عبد الله العلائي الأشرفي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم الحافظ المسند الزاهد ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي أحسن الله إليه بدر الدين بدر بن عبد الله العلائي الأشرفي وأبو المعالي محمد وأبو علي الحسن وأبو عبد الله الحسين أولاد علي بن أبي بكر بن يونس بن  الخلال بقراءة أحمد بن محمود بن إبراهيم بن نبهان بن الجوهري وهذا خطه وعورض بكتابه في يوم الخميس مستهل ذي القعدة من سنة أربعين وستمائة بمدرسة المسمع بسفح جبل قاسيون والحمد لله رب العالمين "
+}

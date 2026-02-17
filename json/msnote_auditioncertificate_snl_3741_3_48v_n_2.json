@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "48v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "740"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "107b97af-a7f9-4ed0-a372-c8a5681539de",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 265,
+      "text": "يوم الأحد ثالث جمادى الآخرة سنة أربعين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "1b364333-e8d5-4177-a3df-35c246aa5e6a",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 205,
+      "text": "أحمد بن علي بن عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "1bbbfcb3-2c34-4b29-872c-ba78bcd5b2c1",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "محمد بن أبي بكر بن عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "23fedfb7-c425-4b1d-9a1a-17aca791eb5d",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 130,
+      "text": "ابن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "77d2b4f8-d709-4b6d-8198-b94d9098df8c",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 58,
+      "text": "أم أحمد زينب بنت محمد بن أحمد بن عبد الرحمن البجدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 487,
+      "guid": "a41e9d05-64c1-41b6-ac2a-f1d4c793204f",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 439,
+      "text": "إبراهيم بن عبد الكريم بن عبد النور الحلبي الحنفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 355,
+      "guid": "dbf043be-4d1c-40dd-869c-ae10c3216eb7",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 314,
+      "text": "منزل سكن المسمعة بخط دار ابن بزاقة بقاسيون",
+      "type": "place"
+    }
+  ],
+  "text": " الحمد لله قرأت جميع هذا الجزء على الشيخة الصالحة المسندة أم أحمد زينب بنت محمد بن أحمد بن عبد الرحمن البجدي بسماعها فيه نقلاً من ابن عبد الدائم بسنده فسمعه الحاج محمد بن أبي بكر بن عثمان ابن ابن المسمعة وأحمد بن علي بن عثمان ابن ابن المسمعة أيضا حضر في ٣ وصح وثبت يوم الأحد ثالث جمادى الآخرة سنة أربعين وسبعماية بمنزل سكن المسمعة بخط دار ابن بزاقة بقاسيون وأجازت لنا ما ترويه ولله الحمد والمنة وصلواته على سيدنا محمد وآله وصحبه وسلم كتبه إبراهيم بن عبد الكريم بن عبد النور الحلبي الحنفي "
+}

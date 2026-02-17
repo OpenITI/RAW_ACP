@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "154v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "97f03b46-4436-44f7-a504-49f319852b6e",
+      "startIndex": 79,
+      "text": "ابن الأكفاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 44,
+      "guid": "d50871c0-df62-4f71-8b6d-cc8e79d1a8ee",
+      "startIndex": 28,
+      "text": "أبي الحسن بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "466"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "e13c0382-3f23-45c2-90e0-112755c179c9",
+      "startIndex": 104,
+      "text": "ذي الحجة سنة ست وستين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "fbac137a-d480-4935-a7bf-40ff00c79d75",
+      "startIndex": 55,
+      "text": " أبي العباس أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "شاهدت بخط ابن الأكفاني سماع أبي الحسن بن قبيس على والده أبي العباس أحمد بقراءة ابن الأكفاني مع جماعة في ذي الحجة سنة ست وستين وأربعمائة"
+}

@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن خلف بن المرزبان المحولي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الثقلاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 146"
+      ],
+      "classmark": [
+        "3765/3"
+      ],
+      "folio_number": [
+        "27v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "13b316c6-f7ad-4f36-9207-0608d666b57e",
+      "startIndex": 145,
+      "text": "الحسن بن عمار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "356e824f-ba74-4eb8-a04f-5c244586482b",
+      "startIndex": 52,
+      "text": "أبي منصور بن مكارم المؤدب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "561"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "ddd16136-8491-43ea-a101-8dcf4eb46e47",
+      "startIndex": 92,
+      "text": "الجمعة العشرين من رمضان سنة إحدى وستين وخمسمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وجدت في الأصل سمعت جميع هذا الجزء بقراءتي على الشيخ أبي منصور بن مكارم المؤدب بقراءتي له في الجمعة العشرين من رمضان سنة إحدى وستين وخمسمائة وكتب الحسن بن عمار"
+}

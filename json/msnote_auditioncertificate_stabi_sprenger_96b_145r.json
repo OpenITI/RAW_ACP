@@ -1,0 +1,538 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96b"
+      ],
+      "folio_number": [
+        "145r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1769442294/1200/0/00000295.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00010967"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 691,
+      "guid": "00a3009f-3dd2-4698-bc76-046ce987e16c",
+      "startIndex": 633,
+      "text": "أبو الفضل عبد الباري بن الأديب يحيى بن موسى بن عوض العلياثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "603"
+        ]
+      },
+      "endIndex": 1559,
+      "guid": "0369716c-3227-4ac4-9142-9497f9ef1a25",
+      "startIndex": 1518,
+      "text": "يوم الجمعة سادس شهر رمضان سنة ثلاث وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1255,
+      "guid": "2fc4a51f-80b2-46b9-b449-bb185756f546",
+      "startIndex": 1206,
+      "text": "أبو القاسم عبد الغني بن قاسم بن عبد الرزاق المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1472,
+      "guid": "38503f48-569e-4e49-a834-458a019d3614",
+      "startIndex": 1432,
+      "text": "عبد الرحمن بن ناصر بن حسن الأنصاري السكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 394,
+      "guid": "4485583a-b7db-4363-9f79-f52f6d6afd9b",
+      "startIndex": 363,
+      "text": "جمال الدين أبو القاسم عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "07a429de-7178-4b38-a09e-2fe99634bda2"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 754,
+      "guid": "480c1c91-dcee-4f2f-97fa-ae56b904bd6e",
+      "startIndex": 701,
+      "text": "كمال الدين أبو الحسن علي بن شجاع بن سالم الضرير القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1340,
+      "guid": "4cdf9bf7-3235-4b00-a682-f59e87b6f3e0",
+      "startIndex": 1300,
+      "text": "أبو محمد عبد القوي بن داود بن عزون المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 932,
+      "guid": "5316354e-6a42-4f46-97a7-ff7906cfcd84",
+      "startIndex": 895,
+      "text": "نصر الله بن عبد الله بن أبي علي الأسلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1488,
+      "guid": "610d73bb-423d-49d6-8816-fc712485b72b",
+      "startIndex": 1480,
+      "text": "أبو الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1203,
+      "guid": "809905bb-29ff-40ee-968d-539ef5b2fb5c",
+      "startIndex": 1152,
+      "text": "أبو محمد عبد الحق بن عبد الله بن عبد الواحد الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 519,
+      "guid": "8a80b50f-190e-483f-a21b-1a1e0164252e",
+      "startIndex": 477,
+      "text": "أبو علي حسن بن محمد بن محمد بن محمد البكري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1412,
+      "guid": "9030cc95-1996-41a3-a29d-39f1667d66cf",
+      "startIndex": 1368,
+      "text": "أبو محمد عبد المجيد بن يحيى بن إبراهيم القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1114,
+      "guid": "a4021ad4-88ca-48fa-96a2-b2278f3bb90f",
+      "startIndex": 996,
+      "text": "تاج الدين أبو الحسن علي بن الشيخ الفقيه الإمام كمال الدين أبي العباس أحمد بن أمين الدين أبي الحسن علي بن محمد القسطلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 461,
+      "guid": "ab3b0242-3a98-4026-9666-622a8181bb55",
+      "startIndex": 411,
+      "text": "أبو عبد الله الحسين بن يحيى بن الحسين بن أبي الرداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1290,
+      "guid": "acdef269-06f6-43f2-988a-0f97de9fbc0b",
+      "startIndex": 1258,
+      "text": "عبد الله بن عربي بن سالم الصنهاجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 883,
+      "guid": "b1d81e39-22df-49ed-8be9-9aacc0e2383a",
+      "startIndex": 827,
+      "text": "أبو البركات محمد بن إسماعيل بن أبي التقى بن الجميل القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 981,
+      "guid": "b200cdd8-655f-42b9-94c2-28bb92abc189",
+      "startIndex": 935,
+      "text": "الرضي مرتضى بن منصور بن أبي الحسن المحلي القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "c4435551-8592-4c3b-81da-48791c436036",
+      "startIndex": 159,
+      "text": "أبي محمد عبد الله بن رفاعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          "2e279eb6-f21e-4f34-96e0-123204f731e3"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 817,
+      "guid": "c70e595c-b59a-48fb-bf21-fa0492a72af4",
+      "startIndex": 764,
+      "text": "وجيه الدين أبو [اليمن] بركات بن ظافر بن بركات الصبَّان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 621,
+      "guid": "cf96c681-00aa-46f2-8592-af429fa0f0d1",
+      "startIndex": 571,
+      "text": "إسماعيل بن أبي محمد عبد الله بن عبد المحسن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1149,
+      "guid": "d20f246b-b705-430a-8f1d-efd3d5cbe8cf",
+      "startIndex": 1117,
+      "text": "إبراهيم بن سالم بن يحيى بن الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1365,
+      "guid": "dbf9b11a-fb08-472c-ad61-9eaf05397a43",
+      "startIndex": 1348,
+      "text": "أبو الطاهر إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "e613f407-bcec-4a98-a638-17932f83b148",
+      "startIndex": 188,
+      "text": " الخلعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-a'tiq_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1516,
+      "guid": "ee629f84-720d-455c-add1-20bc4996b715",
+      "startIndex": 1499,
+      "text": "جامع عمرو بن العاص",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "f5efad34-0bc9-453e-bd11-8ac618aa2c9b",
+      "startIndex": 245,
+      "text": "بهاء الدين أبي إسحق إبراهيم بن أبي اليسر شاكر بن عبد الله بن سليمان التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "f6b55df8-8059-47b0-bacb-9ad737464415",
+      "startIndex": 199,
+      "text": "ابن النحاس",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء السادس والعشرين من سيرة سيدنا رسول الله صلى الله عليه وسلم على الشيخ الفقيه الإمام القاضي الأجل [............................] بحق سماعه من أبي محمد عبد الله بن رفاعة عن الخلعي عن ابن النحاس بقراءة القاضي الفقيه الإمام العالم بهاء الدين أبي إسحق إبراهيم بن أبي اليسر شاكر بن عبد الله بن سليمان التنوخي الفقهاء الأجلاء ولد المسمع [القاضي] الأجل جمال الدين أبو القاسم عبد العزيز والقاضي الأسعد أبو عبد الله الحسين بن يحيى بن الحسين بن أبي الرداد والشريف السيد أبو علي حسن بن محمد بن محمد بن محمد البكري والشيخ الفقيه الإمام الحافظ تقي الدين أبو [الطاهر] إسماعيل بن أبي محمد عبد الله بن عبد المحسن الأنماطي وولد أخته أبو الفضل عبد الباري بن الأديب يحيى بن موسى بن عوض العلياثي والفقيه كمال الدين أبو الحسن علي بن شجاع بن سالم الضرير القرشي والفقيه وجيه الدين أبو [اليمن] بركات بن ظافر بن بركات الصبَّان والقاضي أبو البركات محمد بن إسماعيل بن أبي التقى بن الجميل القرشي وولد أخته نصر الله بن عبد الله بن أبي علي الأسلي والرضي مرتضى بن منصور بن أبي الحسن المحلي القرشي والشيخ [...] تاج الدين أبو الحسن علي بن الشيخ الفقيه الإمام كمال الدين أبي العباس أحمد بن أمين الدين أبي الحسن علي بن محمد القسطلاني وإبراهيم بن سالم بن يحيى بن الحلبي وأبو محمد عبد الحق بن عبد الله بن عبد الواحد الأنصاري وأبو القاسم عبد الغني بن قاسم بن عبد الرزاق المقدسي وعبد الله بن عربي بن سالم الصنهاجي والفقيه أبو محمد عبد القوي بن داود بن عزون المقرئ وولده أبو الطاهر إسماعيل وأبو محمد عبد المجيد بن يحيى بن إبراهيم القرشي وكاتب هذا التسميع عبد الرحمن بن ناصر بن حسن الأنصاري السكري وولده أبو الحسن وصح ذلك بجامع عمرو بن العاص يوم الجمعة سادس شهر رمضان سنة ثلاث وستمائة والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلم تسليما."
+}

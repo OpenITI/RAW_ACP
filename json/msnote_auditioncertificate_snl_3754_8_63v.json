@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "63v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "5fc55974-5b5c-46c1-a140-e46b4fac7cac",
+      "index": 215,
+      "isZeroPoint": false,
+      "startIndex": 120,
+      "text": "الحريري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "842343b8-f05b-4715-89c3-bda3c06545a7",
+      "index": 214,
+      "isZeroPoint": false,
+      "startIndex": 103,
+      "text": "الكرخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "8db4786e-da8b-47d2-a889-ba8e6082473d",
+      "index": 212,
+      "isZeroPoint": false,
+      "startIndex": 93,
+      "text": "الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 215,
+      "guid": "99be47ae-b122-46f3-b1f7-dd89a7eddded",
+      "index": 217,
+      "isZeroPoint": false,
+      "startIndex": 195,
+      "text": "فاطمة بنت فهد بن شجاع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "9ed5e5aa-6131-4416-8e28-bc6af10a3a86",
+      "index": 210,
+      "isZeroPoint": false,
+      "startIndex": 32,
+      "text": "أم أحمد زينب بنت أحمد المقدسية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "d0a2869c-110f-4944-9c31-5d3139b776b7",
+      "index": 216,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "أبو بكر بن إبراهيم بن محمد الكرماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "d79408d6-e883-4c9f-842d-01f7f9b93256",
+      "index": 211,
+      "isZeroPoint": false,
+      "startIndex": 80,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "e45b3769-09c2-4bff-90b9-07e6cd098f62",
+      "index": 219,
+      "isZeroPoint": false,
+      "startIndex": 241,
+      "text": "يوم الأحد ثاني عشر رجب سنة ثمان وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 239,
+      "guid": "f12aeb41-d615-4ebf-bd7d-956487a1d5c1",
+      "index": 218,
+      "isZeroPoint": false,
+      "startIndex": 222,
+      "text": "منزلها بجبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 329,
+      "guid": "fe64c31f-5e3c-486f-a9d2-12d259534bf8",
+      "index": 220,
+      "isZeroPoint": false,
+      "startIndex": 292,
+      "text": "محمد بن أحمد بن محمد بن النجيب الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": " بلغت من أول الأمالي على الشيخة أم أحمد زينب بنت أحمد المقدسية بسماعها حضورا من ابن طبرزد عن الأنصاري والكرخي سماعا وعن الحريري إجازة إن لم يكن سماعا بسندهم وأبو بكر بن إبراهيم بن محمد الكرماني وفاطمة بنت فهد بن شجاع وصح بمنزلها بجبل قاسيون يوم الأحد ثاني عشر رجب سنة ثمان وسبعين وستمية وكتب محمد بن أحمد بن محمد بن النجيب الشافعي "
+}

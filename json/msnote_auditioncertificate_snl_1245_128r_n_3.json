@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبدالله بن الزبير القرشي الحميدي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند الحميدي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "1245"
+      ],
+      "folio_number": [
+        "128r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "1145869f-09c8-44a0-bea6-02e3b354bf13",
+      "startIndex": 127,
+      "text": "أبي المعالي أحمد بن إسحق الأبرقوهي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "3c5dca95-5bcc-4d02-b8c7-4bafc60edbc5",
+      "startIndex": 72,
+      "text": "شهاب الدين أبي العباس أحمد الزبيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "5b01a488-94a8-4b21-a802-337befb79cbf",
+      "startIndex": 213,
+      "text": "محمد ابن طرخان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 416,
+      "guid": "615697d7-f817-4fed-9d96-49ff6d56a3c2",
+      "startIndex": 395,
+      "text": " أحمد بن يحيى بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "8e159b1d-4080-4ded-9f5a-5819d9ac0ce6",
+      "startIndex": 180,
+      "text": " أبي الحسن الحصني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-a'tiq_mosque"
+          ]
+        ]
+      },
+      "endIndex": 354,
+      "guid": "a04cd208-0518-4487-bce7-f469b1062a40",
+      "startIndex": 337,
+      "text": "جامع عمرو بن العاص",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "a5829b7e-5176-4a83-a6e9-7c29a9c59f84",
+      "startIndex": 25,
+      "text": "نور الدين أبي الحسن علي ابن الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "738"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "b16fb1dd-2aa6-480d-9f91-e3d4244f1262",
+      "startIndex": 289,
+      "text": "الأحد سلخ ربيع الأول سنة ثمان وثلاثين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "c88fb05e-45bf-4daf-bd19-dd1438292b6c",
+      "startIndex": 239,
+      "text": "ابن عماد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "cfec7653-12e1-4cbf-85bc-867db590ea70",
+      "startIndex": 199,
+      "text": "ابن المريوطي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعته كاملا بقراءة الشيخ نور الدين أبي الحسن علي ابن الهمداني على الشيخ شهاب الدين أبي العباس أحمد الزبيري بحق سماعه على شيخنا أبي المعالي أحمد بن إسحق الأبرقوهي وبإجازة الزبيري من أبي الحسن الحصني وابن المريوطي ومحمد ابن طرخان بسماعهم من ابن عماد وسمعه جماعة وصح وثبت في مجالس آخرها ليلة الأحد سلخ ربيع الأول سنة ثمان وثلاثين وسبعمائة بجامع عمرو بن العاص بمصر المحروسة وأجاز [.... ... ...] وكتب أحمد بن يحيى بن عساكر حامدا لله ومصليا على نبيه محمد وآله وصحبه ومسلما"
+}

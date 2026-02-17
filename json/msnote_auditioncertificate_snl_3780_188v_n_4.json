@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "188v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "131bb989-74b4-4c6c-8c12-90cc21cd755c",
+      "startIndex": 64,
+      "text": "هبة الله بن الأكفاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "5cd328ef-a672-4602-8c25-260b3a79183e",
+      "startIndex": 14,
+      "text": "أبي العباس أحمد بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "466"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "635eea7a-c105-4ea9-9037-1d35e9a55ebb",
+      "startIndex": 110,
+      "text": "ذي القعدة سنة ست وستين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "c82593fa-1c60-4bf5-a424-cee732286b6b",
+      "startIndex": 43,
+      "text": "أبو الحسن علي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه على أبي العباس أحمد بن قبيس ولده أبو الحسن علي بقراءة هبة الله بن الأكفاني والسماع في الأصل بخطه في ذي القعدة سنة ست وستين وأربعمائة"
+}

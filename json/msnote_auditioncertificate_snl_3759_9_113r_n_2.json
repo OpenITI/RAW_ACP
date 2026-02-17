@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "سريج بن يونس بن إبراهيم بن شعيب البلخي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب القضاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/9"
+      ],
+      "folio_number": [
+        "113r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "1ab6a5d9-d312-4ad6-8457-67aa3692a75a",
+      "startIndex": 233,
+      "text": "محمد بن عبد الله بن أحمد بن المحب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "39808504-2d06-4fa6-baee-c42907a5ec6e",
+      "startIndex": 50,
+      "text": "علي بن البخاري أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "403bfd10-3627-4955-b7ca-488669ccac13",
+      "startIndex": 10,
+      "text": "أم محمد ست العرب ابنة محمد بن أبي الحسن علي بن البخاري أحمد بن عبد الواحد المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "759"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "6a006c8a-56e0-478b-884a-1919170823bf",
+      "startIndex": 179,
+      "text": "يوم الثلثا سابع عشري شوال سنة تسع وخمسين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "86d111e1-6e03-40da-8d8c-1d79e2854d0c",
+      "startIndex": 119,
+      "text": " أحمد بن علي الأرموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "ad8e45b3-f213-4824-ae0e-e6d27970b025",
+      "startIndex": 141,
+      "text": "أبو الحسن علي بن الحسين البناء المصري",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته على أم محمد ست العرب ابنة محمد بن أبي الحسن علي بن البخاري أحمد بن عبد الواحد المقدسي بسماعها من جدها فسمعه ابنها أحمد بن علي الأرموي وأبو الحسن علي بن الحسين البناء المصري يوم الثلثا سابع عشري شوال سنة تسع وخمسين وسبعمية كتبه محمد بن عبد الله بن أحمد بن المحب "
+}

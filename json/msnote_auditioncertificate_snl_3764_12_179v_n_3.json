@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 142"
+      ],
+      "classmark": [
+        "3764/12"
+      ],
+      "folio_number": [
+        "179v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "5211bc52-d217-41b2-8ed7-31ee9c694595",
+      "startIndex": 123,
+      "text": "محب الدين عبد الله بن أحمد بن عبد الله بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "6e4d757a-982b-4ff2-a07d-da7763e87251",
+      "startIndex": 22,
+      "text": " أبي عمرو عثمان بن إبراهيم بن أبي علي الحمصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 373,
+      "guid": "88da9c71-0290-4a99-8d03-1bd80e08dcc4",
+      "startIndex": 343,
+      "text": "علاء الدين علي بن عثمان البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "89850cfe-51cf-4e06-a124-67a710146df9",
+      "startIndex": 178,
+      "text": "معين الدين محمد بن محمد بن إبراهيم بن عيسى السعدني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "708"
+        ]
+      },
+      "endIndex": 421,
+      "guid": "90fbfec3-d5ae-4102-baa2-66ffd5a0bcf3",
+      "startIndex": 386,
+      "text": "السبت تاسع المحرم سنة ثمان وسبع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "922792be-9105-4713-b4c5-2904bc92622f",
+      "startIndex": 81,
+      "text": "الضياء ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "e04c7b53-4d79-4f38-9fa0-8f5d818ba4ec",
+      "startIndex": 230,
+      "text": "علي بن عبد الكافي بن علي بن تمام السبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 441,
+      "guid": "e1136248-771b-4e65-b7b8-6484e967cf3a",
+      "startIndex": 427,
+      "text": "رأس زكريا بدمشق",
+      "type": "place"
+    }
+  ],
+  "text": "وسمعه على الشيخ الصالح أبي عمرو عثمان بن إبراهيم بن أبي علي الحمصي بسماعه فيه من الضياء بقراءة الإمام المحدث الفاضل المفيد محب الدين عبد الله بن أحمد بن عبد الله بن أحمد المقدسي معين الدين محمد بن محمد بن إبراهيم بن عيسى السعدني وعلي بن عبد الكافي بن علي بن تمام السبكي وهذا خطه وسمع من آخر [المدرج على عبد الله ابن ...؟] سبعة أحاديث وما بعده علاء الدين علي بن عثمان البالسي وصح في يوم السبت تاسع المحرم سنة ثمان وسبع مائة عند رأس زكريا بدمشق والحمد لله حمدا كثيرا طيبا مباركا وصلواته على نبيه محمد وآله وصحبه "
+}

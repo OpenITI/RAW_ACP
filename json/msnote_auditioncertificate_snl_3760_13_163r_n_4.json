@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/13"
+      ],
+      "folio_number": [
+        "163r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 98,
+      "guid": "368f70c8-84d3-4d69-89dc-604af9f1e39e",
+      "startIndex": 92,
+      "text": "القطيعة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "72157213-17c8-4e04-8d54-cc72e5e1de06",
+      "startIndex": 201,
+      "text": "الحسين بن جميل البندنيجي المؤدب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "75a0ca1e-261b-410c-938b-e343cca862aa",
+      "startIndex": 241,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "904762dc-023e-41cf-a689-73db9b6793d8",
+      "startIndex": 165,
+      "text": "عبد الرحمن بن أبي عبد الله القطيعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 327,
+      "guid": "97c8e30e-416e-42a5-b324-243217880b82",
+      "startIndex": 304,
+      "text": "أحمد بن البندنيجي البزاز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "7"
+        ],
+        "note": [
+          "حول السماع إلى هذه النسخة سنة 562"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "559"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "c4af819b-4376-4213-8d5f-134af506cdec",
+      "startIndex": 43,
+      "text": "الخميس حادي عشر رجب من السنة 559",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "d1d36d63-0a41-471b-aefc-aec8d13c956f",
+      "startIndex": 247,
+      "text": "إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "e7794ada-70b7-40e3-a99c-aee9854d2071",
+      "startIndex": 117,
+      "text": "أبي المكارم المبارك بن المعمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ]
+      },
+      "endIndex": 278,
+      "guid": "eb095d78-32a7-4f5d-8db6-e3a44f824b11",
+      "startIndex": 256,
+      "text": "أبو بكر بن رضوان المؤذن",
+      "type": "person"
+    }
+  ],
+  "text": "وبلغت أيضا بالقراءة والتاريخ والجماعة [يوم الخميس حادي عشر رجب من السنة 559] إلا أنه [...] بالقطيعة على الشيخ الصالح أبي المكارم المبارك بن المعمر وزادوا جماعة منهم عبد الرحمن بن أبي عبد الله القطيعي والحسين بن جميل البندنيجي المؤدب وأولاده محمد وإسماعيل وأبو بكر بن رضوان المؤذن وصح ذلك وثبت كتب كل ذلك أحمد بن البندنيجي البزاز في سنة اثنتين وستين وخمسماية وصلواته على سيدنا محمد وآله أجمعين وحسبنا الله ونعم الوكيل"
+}

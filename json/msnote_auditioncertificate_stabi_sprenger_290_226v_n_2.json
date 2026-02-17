@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        null
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 290"
+      ],
+      "folio_number": [
+        "226v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1663217491/1200/0/00000588.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011164"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "4fcc62f8-aa56-4eb6-9f3e-b58c9eb3890b",
+      "startIndex": 99,
+      "text": "عمر بن علي القرشي أبو المعالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "95fb613b-90d1-4069-8c91-5bdc85a2e866",
+      "startIndex": 80,
+      "text": "جعفر السراج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "c11b5687-dcad-4ecb-a662-5c1bc2794a9a",
+      "startIndex": 20,
+      "text": "أبي الفتح محمد بن عبد الباقي بن أحمد بن سلمان",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه على الشيخ أبي الفتح محمد بن عبد الباقي بن أحمد بن سلمان بحق إجازته من جعفر السراج بقراءة عمر بن علي القرشي أبو المعالي ...."
+}

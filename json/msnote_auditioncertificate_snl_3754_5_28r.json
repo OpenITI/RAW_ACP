@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن أحمد ضياء الدين المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "منتقى من الجزء الثاني من حديث الطوسي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/5 في الفهرس الرسالة الرابعة "
+      ],
+      "folio_number": [
+        "28r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "persia",
+            "isfahan"
+          ]
+        ]
+      },
+      "endIndex": 96,
+      "guid": "1e2e70b4-9cf5-4e5f-ab28-02b4a7d8ece1",
+      "index": 171,
+      "isZeroPoint": false,
+      "startIndex": 91,
+      "text": "أصبهان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 44,
+      "guid": "3870ed16-0ab3-4eac-ae3b-2fd7870e297b",
+      "index": 169,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "أبي هاشم الحسين بن أبي منصور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "8"
+        ],
+        "year": [
+          "606"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "dd6bb8e7-e942-4ef3-a49a-b6753b26f951",
+      "index": 170,
+      "isZeroPoint": false,
+      "startIndex": 59,
+      "text": "في شهر شعبان من سنة ست وستماية",
+      "type": "date"
+    }
+  ],
+  "text": " وسمعت الجزء على أبي هاشم الحسين بن أبي منصور وحدي في داره في شهر شعبان من سنة ست وستماية بأصبهان"
+}

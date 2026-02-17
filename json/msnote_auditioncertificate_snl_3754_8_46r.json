@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "46r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 370,
+      "guid": "03ec5135-e7ab-489c-a27b-e78606864b08",
+      "startIndex": 367,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "1d1a8145-d5b0-4e03-b0b1-0e36ab2e02ab",
+      "startIndex": 242,
+      "text": " ابن سمعون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "504"
+        ]
+      },
+      "endIndex": 364,
+      "guid": "4fadf37d-1de4-4d76-8212-f207406bb245",
+      "startIndex": 328,
+      "text": "سادس عشر ربيع الأول سنة أربع وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "556fd77c-535f-413e-9e24-98474af76d0f",
+      "startIndex": 79,
+      "text": "أبي البقاء بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "765f644d-93fc-41f7-9626-732bf665ef7e",
+      "startIndex": 287,
+      "text": "الحسن بن محمد البكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 214,
+      "guid": "80d1a637-52b4-486f-ace5-2f5fd7e39df2",
+      "startIndex": 173,
+      "text": "أبي الحسن بن علي بن هبة الله بن عبد السلام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "baca37b5-6768-44d3-852b-0fefb1df0288",
+      "startIndex": 219,
+      "text": "أبي الحسين بن النقور ",
+      "type": "person"
+    }
+  ],
+  "text": " وعلى الجزء الثاني من أمالي ابن سمعون وهو من أول الثامن إلى آخر الثالث عشر بخط أبي البقاء بن طبرزد المجلس الثاني عشر سوا آخر خبر فيه سمعناه أيضا من الأوحد الأجل السيد الأجل أبي الحسن بن علي بن هبة الله بن عبد السلام عن أبي الحسين بن النقور عن ابن سمعون وهذا النقل كان على رأس الجزء نقله الحسن بن محمد البكري من أصل ابن طبرزد في سادس عشر ربيع الأول سنة أربع وخمسماية بدمشق بمنزل الشيخ أبي حفص عمر بن طبرزد المنقول منه وقد شاهدت نقله على نسخة التقي الأنماطي على مجلس من أمالي بن دوست البزاز صورة سماع ابن طبرزد على ابن عبد السلام"
+}

@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "aydogan kars"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/6"
+      ],
+      "folio_number": [
+        " 93r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "3134fa86-875e-41d0-8178-e6bd05484321",
+      "startIndex": 170,
+      "text": " أبو الفتح مسعود ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "darb_al-silsila"
+          ]
+        ]
+      },
+      "endIndex": 260,
+      "guid": "39c201d4-0672-4f24-a7ff-799f34a23acf",
+      "startIndex": 237,
+      "text": "مسجد على رأس درب السلسلة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "83a38a7e-2056-4a8f-8db1-bd3075d30776",
+      "startIndex": 192,
+      "text": "يوسف بن محمد بن مقلد التنوخي الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "ca5e5eb9-a513-41b1-a81f-5064dd01217f",
+      "startIndex": 33,
+      "text": "أبي القاسم إسماعيل بن أحمد بن عمر بن السمرقندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "528"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "cc3f24bb-91ff-4f54-84c0-88045511d00a",
+      "startIndex": 265,
+      "text": "ذي الحجة سنة ثمان وعشرين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "e12b8ca0-c31c-40ec-9fff-826d42af037c",
+      "startIndex": 99,
+      "text": "وجيه الدين أبو عبد الله محمد بن علي بن أحمد بن عمر الحازمي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخ الحافظ أبي القاسم إسماعيل بن أحمد بن عمر بن السمرقندي فسمعه الرئيس الأجل وجيه الدين أبو عبد الله محمد بن علي بن أحمد بن عمر الحازمي وولده الرئيس أبو الفتح مسعود وكتب يوسف بن محمد بن مقلد التنوخي الدمشقي وذلك في مسجد على رأس درب السلسلة في ذي الحجة سنة ثمان وعشرين وخمس ماية وصح وثبت ولله الحمد والمنة"
+}

@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن عبد العزيز بن جريج المكي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث ابن جريج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 120"
+      ],
+      "classmark": [
+        "3761/13"
+      ],
+      "folio_number": [
+        "124r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "18cf24b2-e07b-4208-ae8b-e5b344ce7b71",
+      "startIndex": 129,
+      "text": "علي بن المظفر بن القاسم النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "1e64d3da-b35a-472c-9a8e-435184ea22cc",
+      "startIndex": 17,
+      "text": "بهاء الدين أبي محمد القاسم بن الحافظ أبي القاسم علي بن الحسن بن هبة الله بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "2ebb1229-0bcc-465e-bd3f-13f1280e6aa6",
+      "startIndex": 164,
+      "text": " أبو بكر محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "599"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "731d84ca-8dc1-4e55-bcd0-60a5f4fb9d13",
+      "startIndex": 240,
+      "text": "الثلثا الرابع عشر من رمضان سنة تسع وتسعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "efe0a4a8-0215-4fe1-bcbc-a50c7255e56b",
+      "startIndex": 200,
+      "text": "محمد بن حسان بن رافع العامري",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الحافظ بهاء الدين أبي محمد القاسم بن الحافظ أبي القاسم علي بن الحسن بن هبة الله بن عساكر بسماعه من جمال الإسلام بقراءة علي بن المظفر بن القاسم النشبي ابنه أبو بكر محمد وكاتب السماع في الأصل محمد بن حسان بن رافع العامري وآخرون يوم الثلثا الرابع عشر من رمضان سنة تسع وتسعين وخمسماية"
+}

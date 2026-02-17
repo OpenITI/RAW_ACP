@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الترمذي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أربعون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 613"
+      ],
+      "folio_number": [
+        "20v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000619"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "0baa5053-75b1-4cad-86c9-fa91c257db64",
+      "startIndex": 365,
+      "text": "هاجر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "3275744e-bad3-4a0a-bf6f-e400fe8311f8",
+      "startIndex": 116,
+      "text": "أبي سهل موفق الدين محمد ابن العلامة ولي الدين أبي زرعة أحمد خادم الآثار الشريفة البارنباري المصري الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "917"
+        ]
+      },
+      "endIndex": 599,
+      "guid": "4bea30cb-40ee-4031-bea0-573ba5ed7780",
+      "startIndex": 546,
+      "text": "يوم السبت حادي عشري محرم الحرام سنة سبع عشرة وتسع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 480,
+      "guid": "8683eba4-bae4-4ea3-acb2-edc38614f06e",
+      "startIndex": 461,
+      "text": "محمد بن مسيك اليوسفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 400,
+      "guid": "9ffaa6af-2de4-4868-905d-8c60665ad0ce",
+      "startIndex": 393,
+      "text": "العراقي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 452,
+      "guid": "ae574855-4ea3-4478-9bfc-664604897594",
+      "startIndex": 427,
+      "text": "يونس بن فلاح الحسني الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 528,
+      "guid": "b03c1134-6bfd-49b1-b943-2d030e0f6f4e",
+      "startIndex": 506,
+      "text": "إبراهيم الخطيب الطشتاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 814,
+      "guid": "ded911ae-7421-4eb8-ac49-ef3749cfb8e4",
+      "startIndex": 729,
+      "text": " صحيح ذلك كتبه محمد بن أحمد بن محمد البارنباري الشافعي خادم الآثار الشريفة لطف الله به",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "f156a856-2673-4d90-b454-87ec6fd177bb",
+      "startIndex": 406,
+      "text": "الهيثمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 491,
+      "guid": "f5725213-b215-4242-b54a-33f8fd6f68f6",
+      "startIndex": 488,
+      "text": "أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله رب العالمين وبعد فقد سمع على سيدنا ومولانا وشيخنا العبد الفقير إلى الله تعالى الشيخ الإمام العالم العلامة أبي سهل موفق الدين محمد ابن العلامة ولي الدين أبي زرعة أحمد خادم الآثار الشريفة البارنباري المصري الشافعي فسح الله تعالى في مدته جميع هذه الأربعين العشارية وما بآخرها من الأحاديث التساعية والخطبة والكلام على الأحاديث والحكاية بسماعه لها على المسندة هاجر بسماعها لها على مخرجها العراقي وعلى الهيثمي فسمعها الشيخ يونس بن فلاح الحسني الحنفي وكاتبه محمد بن مسيك اليوسفي وولده أحمد بقراءة الشيخ إبراهيم الخطيب الطشتاني وصح ذلك وثبت في يوم السبت حادي عشري محرم الحرام سنة سبع عشرة وتسع ماية وأجاز المسمع لكاتبه محمد بن مسيك اليوسفي وولده أحمد والشيخ يونس والشيخ إبراهيم رواية ذلك وجميع ما يجوز له وعنه روايته ولله الحمد صحيح ذلك كتبه محمد بن أحمد بن محمد البارنباري الشافعي خادم الآثار الشريفة لطف الله به."
+}

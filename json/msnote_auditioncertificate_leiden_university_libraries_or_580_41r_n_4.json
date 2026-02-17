@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "41r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 425,
+      "guid": "20a3d4cd-a6c3-4059-a2ac-ecf5466c2fe6",
+      "startIndex": 408,
+      "text": "جامع دمشق المحروسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "672"
+        ]
+      },
+      "endIndex": 405,
+      "guid": "48eafdaf-915a-47f9-9514-efe41a02c8b2",
+      "startIndex": 351,
+      "text": " الجمعة سادس شهر ربيع الآخر من سنة اثنتين وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "491298af-62a8-4da1-ad64-6003c7ba8fd5",
+      "startIndex": 311,
+      "text": "عبد الكريم بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 536,
+      "guid": "5ee9e264-559e-4f81-a7ba-d6457078fcf4",
+      "startIndex": 488,
+      "text": "محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "b9546be9-e4c8-4a17-a285-3c7367f8222c",
+      "startIndex": 118,
+      "text": "جمال الدين أبي حامد محمد بن الشيخ علم الدين أبي الحسن علي بن أبي الفتح محمود المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "ebf240dc-f6ac-47ba-aa1c-46042fd4ff35",
+      "startIndex": 260,
+      "text": "أبي القاسم بن الحرستاني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء وهو الثالث من فوائد تمام رحمه الله تعالى على مالكه الشيخ الإمام العالم الحافظ المسند بقية المشايخ جمال الدين أبي حامد محمد بن الشيخ علم الدين أبي الحسن علي بن أبي الفتح محمود المحمودي الصابوني فسح الله في مدته بحق سماعه تراه أصلا من القاضي أبي القاسم بن الحرستاني بإجازته إن لم يكن سماعا من عبد الكريم بن حمزة بسنده فيه وصح ذلك يوم الجمعة سادس شهر ربيع الآخر من سنة اثنتين وسبعين وستمية بجامع دمشق المحروسة وقرأت عليه بالتاريخ والمكان الجزء السابع من هذه الفوائد كتبه محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري حامدا ومصليا"
+}

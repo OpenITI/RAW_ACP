@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/13"
+      ],
+      "folio_number": [
+        "163r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "20ead7b3-a1ea-4a29-b005-4caa6841ff7d",
+      "startIndex": 88,
+      "text": "ابن البطر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "769c371b-e484-4bc2-9c91-b81bac9f9b2a",
+      "startIndex": 215,
+      "text": "أحمد بن أبي بكر بن البندنيجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "944ea7c4-d937-4b70-9ae5-067ab6d418e7",
+      "startIndex": 46,
+      "text": "أبي المعالي أحمد بن عبد الغني بن حنيفة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "559"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "bc2dc457-d0a9-4745-ac2f-a61a9fa5635f",
+      "startIndex": 161,
+      "text": "يوم الأربعاء عاشر رجب من سنة تسع وخمسين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "nakhla_mosque"
+          ]
+        ]
+      },
+      "endIndex": 156,
+      "guid": "cdbb6878-df98-434f-b145-f5bb44373f5e",
+      "startIndex": 135,
+      "text": "مسجد النخلة بالمأمونية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "f9f227f9-2bb5-4cfd-a1c1-a50085f2ff5b",
+      "startIndex": 111,
+      "text": "مكي بن أبي القاسم",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت سماعا للثامن من أمالي المحاملي على الشيخ أبي المعالي أحمد بن عبد الغني بن حنيفة عن ابن البطر بقراءة الشيخ مكي بن أبي القاسم وذلك بمسجد النخلة بالمأمونية في يوم الأربعاء عاشر رجب من سنة تسع وخمسين وخمسماية كتبه أحمد بن أبي بكر بن البندنيجي"
+}

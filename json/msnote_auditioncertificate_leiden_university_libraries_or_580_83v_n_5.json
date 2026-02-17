@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "83v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 48,
+      "guid": "75d9ace4-674e-4e06-854e-0f4e2af904e4",
+      "startIndex": 30,
+      "text": "عز الدين ابن الفرات",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "78bda064-5f3c-45d9-94f1-3d2018c2529b",
+      "startIndex": 120,
+      "text": "السنباطي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "year": [
+          "851"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "78e2dc00-7472-4d23-8551-9296c1b944dd",
+      "startIndex": 149,
+      "text": "851",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "cda68574-aee0-4a32-8b9d-3b5e1d3ca8b7",
+      "startIndex": 67,
+      "text": "محمد بن علي بن علي القوصي الشهير بابن الفالاتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "ef38e31f-5524-48cb-a20a-a89c42429997",
+      "startIndex": 130,
+      "text": "السخاوي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأه على المسند المعمر القاضي عز الدين ابن الفرات أبقاه الله كاتبه محمد بن علي بن علي القوصي الشهير بابن الفالاتي فسمعه السنباطي والسخاوي وآخرون سنة 851 هجرية"
+}

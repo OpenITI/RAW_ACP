@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن إبراهيم بن داود الشافعي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سبع أحاديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 613"
+      ],
+      "folio_number": [
+        "45v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000619"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "0f767d4c-5ded-410c-93ec-5281e2a74104",
+      "startIndex": 178,
+      "text": "خليل بن بدران الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "142fb0b1-9647-45d2-81c6-986198d0dfb8",
+      "startIndex": 114,
+      "text": "شمس الدين محمد بن محمد بن جبريل الدربندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "19e7f56c-3c70-4c65-b780-9649dc24eebc",
+      "startIndex": 29,
+      "text": "شهاب الدين أبي البركات أحمد بن النصير ابن نبأ المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 290,
+      "guid": "6a8f299a-84ca-49cf-87f4-9a85c64e1b06",
+      "startIndex": 279,
+      "text": "منزل المسمع ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "666"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "9702dfab-9d80-468c-af65-3bb7259a2d15",
+      "startIndex": 221,
+      "text": "يوم الخميس لأربع خلون من ربيع الآخر سنة ست وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "ab6eef09-9445-4c81-89de-d118e090558e",
+      "startIndex": 162,
+      "text": "أم الحسن فاطمة",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بسماعه فيه بقراءة شهاب الدين أبي البركات أحمد بن النصير ابن نبأ المقرئ (في الأصل النضر بدلا من النصير) شمس الدين محمد بن محمد بن جبريل الدربندي وابنته أم الحسن فاطمة وخليل بن بدران الحلبي وكتب السماع وآخرون في يوم الخميس لأربع خلون من ربيع الآخر سنة ست وستين وستماية بمنزل المسمع وأجاز لهم ما يجوز له روايته."
+}

@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "44v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "228a2480-7c9f-42d5-b39e-90433083bb5d",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 226,
+      "text": "جمال الدين يوسف بن إبراهيم بن جملة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "401812f5-333e-4f3e-bb7e-5e5862187d9d",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "محمد بن إسماعيل بن أحمد خطيب مردا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 284,
+      "guid": "7efbb444-90f1-4e91-8255-745984fdd338",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 268,
+      "text": "عبد الله بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "9aa63af5-f80c-43bd-9209-b66fb46ce5b0",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 118,
+      "text": "عفيف ابن أبي الفرج عبد الرحمن بن محمد بن إسماعيل بن أحمد خطيب مردا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "bc385a3e-c59f-4d85-9768-2f91cbadaaee",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 46,
+      "text": "شهاب الدين أبي العباس أحمد بن نصر بن عبيد بن محمد بن عمر المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "699"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "d26b1683-da41-48f7-8061-f36be40a9a9a",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 312,
+      "text": "يوم الثلثا تاسع محرم سنة تسع وتسعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "d3378cf4-ac9b-409b-a99c-9c82efda7a4e",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 219,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "sahibiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 377,
+      "guid": "f642bac4-39b6-4ce9-8995-aa488415c00b",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 357,
+      "text": "مدرسة الصاحبة بقاسيون",
+      "type": "place"
+    }
+  ],
+  "text": " وسمعه بالقراءة المذكورة على الشيخين الإمامين شهاب الدين أبي العباس أحمد بن نصر بن عبيد بن محمد بن عمر المقرئ والخطيب عفيف ابن أبي الفرج عبد الرحمن بن محمد بن إسماعيل بن أحمد خطيب مردا بسماعهما من والد المسمع الثاني عن الثقفي جمال الدين يوسف بن إبراهيم بن جملة وكاتبه عبد الله بن المحب وآخرون على نسخة القارئ في يوم الثلثا تاسع محرم سنة تسع وتسعين وستماية بمدرسة الصاحبة بقاسيون وأجازا لنا"
+}

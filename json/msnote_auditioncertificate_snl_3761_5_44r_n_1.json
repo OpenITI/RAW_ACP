@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن عساكر أبو القاسم علي بن الحسن بن هبة الله الشافعي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن عساكر"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 117"
+      ],
+      "classmark": [
+        "3761/5"
+      ],
+      "folio_number": [
+        "44r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 34,
+      "guid": "89c758bc-ec04-44b8-8bd6-35e19a0be031",
+      "startIndex": 17,
+      "text": "نظام الدين بن مفلح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "b6f69746-d187-4175-8d89-6883577f23d8",
+      "startIndex": 47,
+      "text": "ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "person_link": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "e6e3f7c2-bc47-4aca-9557-83b70829182b",
+      "startIndex": 62,
+      "text": "يوسف بن حسن بن عبد الهادي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته على القاضي نظام الدين بن مفلح بإجازته من ابن المحب وكتب يوسف بن حسن بن عبد الهادي"
+}

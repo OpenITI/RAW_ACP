@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "126r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "673"
+        ]
+      },
+      "endIndex": 333,
+      "guid": "5452ef84-6459-40e1-8c94-73abb17d3001",
+      "startIndex": 284,
+      "text": "الأحد العشرين من رجب الفرد سنة ثلاث وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "b71dbfe2-0337-4c35-81d5-ee6071ac638e",
+      "startIndex": 192,
+      "text": "جمال الدين أبي القاسم عبد الصمد بن محمد بن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "c048ec6d-d17c-4ccb-bcab-633cf8a796da",
+      "startIndex": 75,
+      "text": "جمال الدين أبي حامد محمد بن علي بن محمود بن أحمد المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 355,
+      "guid": "d3a0d898-51a0-4ab0-afc3-735efb907c90",
+      "startIndex": 336,
+      "text": "علو دار الحديث بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 383,
+      "guid": "ffe0427d-7358-4246-8f49-3a0e9d258a28",
+      "startIndex": 363,
+      "text": "يعقوب بن أحمد الحلبي ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على شيخنا الإمام العالم الحافظ محدث الشام بقية المشايخ جمال الدين أبي حامد محمد بن علي بن محمود بن أحمد المحمودي الصابوني أثابه الله الجنة بحق سماعه فيه عن يسرته من القاضي جمال الدين أبي القاسم عبد الصمد بن محمد بن الحرستاني بسنده وصح ذلك وثبت في ليلة تسفر عن يوم الأحد العشرين من رجب الفرد سنة ثلاث وسبعين وستماية بعلو دار الحديث بدمشق وكتبه يعقوب بن أحمد الحلبي عفا الله عنه والحمد لله وحده وصلى الله على سيدنا محمد وآله"
+}

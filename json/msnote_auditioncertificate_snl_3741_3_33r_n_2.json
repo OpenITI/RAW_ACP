@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "33r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "161f7586-3c4d-4406-bdf5-0044f5d1a860",
+      "startIndex": 207,
+      "text": "رضي الدين أبي محمد عبد الرحمن بن محمد بن عبد الجبار المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "628"
+        ]
+      },
+      "endIndex": 424,
+      "guid": "38cb5dcb-6880-457f-9882-f7b38dc27b2a",
+      "startIndex": 377,
+      "text": "يوم الأحد ثاني عشر شعبان سنة ثمان وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "63d67a5e-30ce-41bf-8fd9-302b5402b00c",
+      "startIndex": 141,
+      "text": "تقي الدين أبي عبد الله محمد بن طرخان بن أبي الحسن الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 370,
+      "guid": "6b06e6af-487c-4f96-9f0c-ac21724e5144",
+      "startIndex": 345,
+      "text": "أحمد بن عبد الرحمن بن مؤمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 284,
+      "guid": "9185f28d-5cd9-4f09-8606-1d2f8dbfd016",
+      "startIndex": 278,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 436,
+      "guid": "98603269-3f4a-4b13-9a30-364de4a0900b",
+      "startIndex": 427,
+      "text": "جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 333,
+      "guid": "d73400f0-8701-4f96-9ca7-d80c7f1faa52",
+      "startIndex": 292,
+      "text": "أبي عبد الله محمد بن حسين بن يوسف الموصلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "e244bcae-12f1-4a8d-8a7a-c684064e5eac",
+      "startIndex": 74,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع هذا الجزء وهو حديث أيوب السختياني وما هو مضاف إليه على الشيوخ الحافظ ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي والإمام تقي الدين أبي عبد الله محمد بن طرخان بن أبي الحسن الدمشقي والمقرئ رضي الدين أبي محمد عبد الرحمن بن محمد بن عبد الجبار المقدسي بسماعهم من الثقفي بقراءة أبي عبد الله محمد بن حسين بن يوسف الموصلي جماعة منهم أحمد بن عبد الرحمن بن مؤمن وذلك يوم الأحد ثاني عشر شعبان سنة ثمان وعشرين وستماية بجبل قاسيون "
+}

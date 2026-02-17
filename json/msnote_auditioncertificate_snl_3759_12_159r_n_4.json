@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي وإسماعيل الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/12"
+      ],
+      "folio_number": [
+        "159r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 329,
+      "guid": "04076c6c-bdfa-469a-8483-578db3186151",
+      "startIndex": 308,
+      "text": "أبو بكر بن أحمد بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "2ad385b1-f623-4ebd-89a9-395df909083e",
+      "startIndex": 369,
+      "text": "أحمد بن عبد الحميد بن سعد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "339924c9-78b2-4e6a-bf35-0faec7762022",
+      "startIndex": 303,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 501,
+      "guid": "6f39e3bd-3551-4c33-a973-6bdc73c8781c",
+      "startIndex": 475,
+      "text": "محمد بن أحمد بن سالم السعدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "6f569391-67b0-4d42-9822-bca031cef40c",
+      "startIndex": 332,
+      "text": "عبد الله بن أحمد بن محمد بن إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "ba75522c-a5cd-4f8a-81b6-f2a47af6939b",
+      "startIndex": 36,
+      "text": "أبي سليمان عبد الرحمن بن شيخنا الحافظ عبد الغني المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 433,
+      "guid": "be53bffd-4d36-4da9-b6f5-bfd3d782d90e",
+      "startIndex": 396,
+      "text": "عبد الهادي بن عبد الحميد بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "d3be355c-4895-4bcb-b2d3-5fdceaee6904",
+      "startIndex": 255,
+      "text": "أبو محمد عبد الدائم بن أحمد بن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "d4d7a0ce-f599-4ceb-baf1-a0cfc2346705",
+      "startIndex": 227,
+      "text": " أبو بكر بن علي بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 472,
+      "guid": "d939b03b-b5ce-4653-a162-dac97400403c",
+      "startIndex": 436,
+      "text": "موسى بن عبد الحميد بن محمد بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "630"
+        ]
+      },
+      "endIndex": 581,
+      "guid": "eb60bb06-5a68-4746-b213-9d96b3b0278a",
+      "startIndex": 528,
+      "text": "الأربعاء السادس والعشرين من شوال سنة ست وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "ec9d3f8c-9d3e-4b0d-8607-77d4234b3eff",
+      "startIndex": 163,
+      "text": "عبد الرحمن بن الحافظ عبد الله ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 614,
+      "guid": "f8944f95-9ccb-4a6d-a5b0-44dabfce2650",
+      "startIndex": 584,
+      "text": "دار الحديث الأشرفية بجبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "fbdc8e15-02bc-4f4a-8450-a8da1ac4f0fb",
+      "startIndex": 119,
+      "text": "عبد الرحمن بن الحافظ عز الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "fd59893f-0432-43fc-8808-77c693e47709",
+      "startIndex": 206,
+      "text": " محمد بن أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام أبي سليمان عبد الرحمن بن شيخنا الحافظ عبد الغني المقدسي بسماعه فيه بقراءة ابن أخيه عبد الرحمن بن الحافظ عز الدين محمد ابن أخيه عبد الرحمن بن الحافظ عبد الله وابن ابن أخيه محمد بن أحمد والفقيه أبو بكر بن علي بن أبي بكر وأبو محمد عبد الدائم بن أحمد بن عبد الدائم وأخوه علي وأبو بكر بن أحمد بن عمر وعبد الله بن أحمد بن محمد بن إبراهيم وأحمد بن عبد الحميد بن سعد وعبد الهادي بن عبد الحميد بن عبد الهادي وموسى بن عبد الحميد بن محمد بن أبي بكر ومحمد بن أحمد بن سالم السعدي وكتب الأسماء وذلك في يوم الأربعاء السادس والعشرين من شوال سنة ست وثلثين وستماية بدار الحديث الأشرفية بجبل قاسيون والحمد لله وحده وصلواته على سيدنا محمد وآله وسلم تسليما كثيرا"
+}

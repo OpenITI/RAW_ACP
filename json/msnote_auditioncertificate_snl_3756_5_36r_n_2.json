@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد المعروف بابن الغوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلس من إملاء الغوري "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 91"
+      ],
+      "classmark": [
+        "3756/5"
+      ],
+      "folio_number": [
+        "36r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "0abdbb9a-6186-42ac-abaf-9ab47c9a73e4",
+      "startIndex": 26,
+      "text": "نور الدين ابن المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "0fb75d2e-7cd8-466f-8686-847264a8b6b1",
+      "startIndex": 58,
+      "text": "ابن طولوبغا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "104dd0c5-97de-4127-a948-02816c37eaad",
+      "startIndex": 82,
+      "text": "عبد القادر بن شعبان القشاسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "15f768e6-3013-493f-ab2d-1a6f29a6ce7d",
+      "startIndex": 117,
+      "text": "صلاح الدين بن محمد البعلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "1b14d300-4663-4ce9-b944-b9955863876c",
+      "startIndex": 287,
+      "text": "يوسف بن عبد الهادي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "889"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "5c7984ca-b2b5-457a-8370-662ab83872d9",
+      "startIndex": 200,
+      "text": " رابع شهر شوال سنة تسع وثمانين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "salihiya_quarter"
+          ]
+        ]
+      },
+      "endIndex": 269,
+      "guid": "b30599e0-8c06-4aa1-afca-a72a2ce0822b",
+      "startIndex": 243,
+      "text": "منزله بالسهم الأعلى بصالحية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "ff445a6e-9e54-435b-9855-39b2dddceaa7",
+      "startIndex": 150,
+      "text": "محمد الحبوبي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخ نور الدين ابن المؤذن بإجازته من ابن طولوبغا فسمعه الشيخ عبد القادر بن شعبان القشاسي والشيخ صلاح الدين بن محمد البعلي والشيخ محمد الحبوبي وآخرين وصح ذلك وثبت [نهار؟] يوم السبت رابع شهر شوال سنة تسع وثمانين وثمان ماية بمنزله بالسهم الأعلى بصالحية دمشق وأجاز وكتب يوسف بن عبد الهادي الحنبلي"
+}

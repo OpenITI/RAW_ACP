@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "همام بن منبه بن كامل الصنعاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "صحيفة همام بن منبه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 124"
+      ],
+      "classmark": [
+        "3762/2"
+      ],
+      "folio_number": [
+        "16v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 401,
+      "guid": "0401d1f0-f50b-439b-81f2-3de1454541d8",
+      "startIndex": 368,
+      "text": "علي بن محمد بن عمر بن هلال الأزدي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "09b0a97a-2e0a-4f3e-ae10-0e41a66b80e0",
+      "startIndex": 85,
+      "text": "أبي الفرج مسعود بن الحسين الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "28accfd8-b7f5-4c03-8276-86b4a70164bc",
+      "startIndex": 31,
+      "text": " أبي محمد عبد القادر بن عبد الله الرهاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "4e4bcad3-931d-4e58-968f-cd950f8e4e2f",
+      "startIndex": 266,
+      "text": "أبو منصور بن أبي الفضل بن أبي محمد البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "5e72f773-aa04-4b7f-b4f0-a98a384839e6",
+      "startIndex": 135,
+      "text": "محمد بن يحيى بن منده",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "7995d2d2-1527-4fe3-a0f8-75b83de3e2af",
+      "startIndex": 121,
+      "text": "عبد الوهاب بن محمد بن يحيى بن منده",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "3"
+        ],
+        "year": [
+          "609"
+        ]
+      },
+      "endIndex": 347,
+      "guid": "acb1c696-7b89-4228-848d-210b81bd4e07",
+      "startIndex": 317,
+      "text": " شهر ربيع الأول سنة تسع وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "af7b22a3-1562-4f11-b73f-1b2ffefc51e0",
+      "startIndex": 175,
+      "text": " إسماعيل بن ظفر النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "c7ae735d-9d64-4ac6-825b-fe113c508ed4",
+      "startIndex": 200,
+      "text": "يحيى بن أبي منصور بن أبي الفتح الصيرفي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذه الصحيفة على الحافظ أبي محمد عبد القادر بن عبد الله الرهاوي بحق سماعه من أبي الفرج مسعود بن الحسين الثقفي عن عبد الوهاب بن محمد بن يحيى بن منده عن أبيه محمد بقراءة إسماعيل بن ظفر النابلسي يحيى بن أبي منصور بن أبي الفتح الصيرفي في آخرين منهم مثبت الأسماء أبو منصور بن أبي الفضل بن أبي محمد البغدادي وذلك في شهر ربيع الأول سنة تسع وستماية نقله من خطه مختصرا علي بن محمد بن عمر بن هلال الأزدي "
+}

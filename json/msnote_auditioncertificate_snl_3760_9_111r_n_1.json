@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/9"
+      ],
+      "folio_number": [
+        "111r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "2fc1f0ec-f764-41dc-b309-eb7d7f233f61",
+      "startIndex": 46,
+      "text": " أبي محمد المبارك بن أحمد بن بركة الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "514e0db3-11b0-4f91-bee6-de18272dc92c",
+      "startIndex": 129,
+      "text": "محمد بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "97c6f714-e539-46ba-87d2-72ae75c30ac8",
+      "startIndex": 156,
+      "text": "عمر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "ca783aa1-05a4-462a-b78d-195e554f523e",
+      "startIndex": 161,
+      "text": "عبد العزيز بن معالي بن غنيمة ابن حسن بن منينا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "541"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "e1940183-9fa1-4860-87fe-e289abf0e18d",
+      "startIndex": 210,
+      "text": "الجمعة ثامن عشر ربيع الآخر سنة إحدى وأربعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "fcc754f6-a902-4372-a2ce-bb24a8deaeed",
+      "startIndex": 97,
+      "text": "أبي الغنائم بن أبي عثمان",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء واللذين قبله والذي بعده على أبي محمد المبارك بن أحمد بن بركة الكندي بسماعه من أبي الغنائم بن أبي عثمان بقراءة محمد بن محمد بن طبرزد أخوه عمر وعبد العزيز بن معالي بن غنيمة ابن حسن بن منينا في الجمعة ثامن عشر ربيع الآخر سنة إحدى وأربعين وخمسماية"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن أحمد بن عبد الرحمن المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأحاديث المسلسلات "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 47"
+      ],
+      "classmark": [
+        "3747/1"
+      ],
+      "folio_number": [
+        "1v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "afdd5d26-a7a0-470d-830a-dfb8b81bdf52",
+      "index": 159,
+      "isZeroPoint": false,
+      "startIndex": 128,
+      "text": "محمد بن عبد الواحد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "640"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "b8a547bb-8d3c-4abd-b12e-67ca52f7cb4a",
+      "index": 158,
+      "isZeroPoint": false,
+      "startIndex": 84,
+      "text": "يوم السبت ثاني شوال سنة أربعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "eaa13bf3-f2c8-416a-93b2-0f7ddaefe427",
+      "index": 157,
+      "isZeroPoint": false,
+      "startIndex": 30,
+      "text": "أبو عبد الله محمد بن محمود بن معالي [الحراني؟] الصفار",
+      "type": "person"
+    }
+  ],
+  "text": " سمع عليَّ هذا الحديث من لفظي أبو عبد الله محمد بن محمود بن معالي [الحراني؟] الصفار يوم السبت ثاني شوال سنة أربعين وستماية كتبه محمد بن عبد الواحد "
+}

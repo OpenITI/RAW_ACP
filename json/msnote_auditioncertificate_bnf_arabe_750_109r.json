@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن عبد الله الظاهري"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "مشيخة ابن البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 750"
+      ],
+      "folio_number": [
+        "109r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f110.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f110.image.r=%22Arabe%20750%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "29c34c40-7b8c-4a93-83e3-a87a4345ba53",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "محمود بن علي بن عبد العزيز بن محمد الشهير بابن الهندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "nasiriya_khaniqa"
+          ]
+        ]
+      },
+      "endIndex": 141,
+      "guid": "337528ef-4c71-45c5-8ea4-48da24a4c0ed",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 118,
+      "text": "خانقاه الناصرية بسرياقوس",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 25,
+      "guid": "426ca4f1-6622-4500-bd7b-34e396592773",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 23,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 239,
+      "guid": "d58c031c-375b-4014-8302-a59f479d68cf",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "قال ذلك وتلفظ به وكتبه محمود بن علي الهندي",
+      "type": "signature_of_musmi"
+    }
+  ],
+  "text": "بلغ مقابلة بقراءة ولدي علي على كاتبها والده محمود بن علي بن عبد العزيز بن محمد الشهير بابن الهندي من فقراء الصوفية بالخانقاه الناصرية بسرياقوس وأجزت له أن يروي عني جميع ما يجوز لي وعني روايته بشرطه قال ذلك وتلفظ به وكتبه محمود بن علي الهندي"
+}

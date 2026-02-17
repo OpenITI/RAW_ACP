@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج4"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 7"
+      ],
+      "catalog": [
+        "FMMU 112"
+      ],
+      "classmark": [
+        "3760/4"
+      ],
+      "folio_number": [
+        "55r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "3989c4da-19dc-4292-8c8b-5dbbfcde0324",
+      "startIndex": 104,
+      "text": "محمد بن سعيد بن الموفق بن علي الخازن النيسابوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 22,
+      "guid": "62099a39-d513-4fe3-a813-c8a9138004a0",
+      "startIndex": 8,
+      "text": " تجني الوهبانية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "8e96ec68-a52b-41d1-b6b7-f4e1201f485d",
+      "startIndex": 42,
+      "text": " أبي محمد عبد السلام بن أبي محمد بن عبد الرحمن البلدي الفراوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 34,
+      "guid": "a4d61b15-e024-49dd-966a-eafb6cf60013",
+      "startIndex": 27,
+      "text": "ابن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "10"
+        ],
+        "year": [
+          "574"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "c66e6f94-12cc-4bdf-8ff9-3cb5692540e3",
+      "startIndex": 155,
+      "text": "شوال سنة أربع وسبعين وخمس ماية",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه من تجني الوهبانية عن ابن طلحة بقراءة أبي محمد عبد السلام بن أبي محمد بن عبد الرحمن البلدي الفراوي محمد بن سعيد بن الموفق بن علي الخازن النيسابوري في شوال سنة أربع وسبعين وخمس ماية فيه مصلح وسمع وهو صحيح "
+}

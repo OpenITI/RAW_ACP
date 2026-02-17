@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبدالله بن محمد بن عبيد بن أبي الدنيا "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الصمت"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 160"
+      ],
+      "classmark": [
+        "3768/1"
+      ],
+      "folio_number": [
+        "18r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "059dec51-90e4-47ed-b39f-8762cf264d43",
+      "startIndex": 54,
+      "text": "عماد الدين أبي إسحق إبراهيم بن عبد الواحد بن علي بن سرور المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "09cb1af5-601e-422d-92e4-87b8ac716086",
+      "startIndex": 137,
+      "text": "ابن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          "b8775a2a-3b46-41d6-b1cb-c8f064d0e114"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "491e5745-e901-4207-aad1-bd9f401e536d",
+      "startIndex": 164,
+      "text": " أبو المرجا سالم بن ثمال بن عنان العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "612"
+        ]
+      },
+      "endIndex": 256,
+      "guid": "8904cbaf-5bbb-43bc-b7bb-34fd0a9f39ca",
+      "startIndex": 213,
+      "text": "السبت ثالث عشرين شوال سنة اثنتي عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 383,
+      "guid": "a47249de-b5e8-40a3-a871-b05ecbc5b690",
+      "startIndex": 351,
+      "text": "مفضل بن علي بن عبد الواحد الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 267,
+      "guid": "b9510ea0-bb5a-4064-b5f7-f957d069f587",
+      "startIndex": 259,
+      "text": "مسجد دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "dd12e704-6044-43ec-8e93-edf0e985d047",
+      "startIndex": 129,
+      "text": "شهدة ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت من أول الجزء إلى باب ذم اللعانين على الشيخ الأجل عماد الدين أبي إسحق إبراهيم بن عبد الواحد بن علي بن سرور المقدسي بسماعه من شهدة عن ابن طلحة فسمع بقراءتي الأجل أبو المرجا سالم بن ثمال بن عنان العرضي وذلك يوم السبت ثالث عشرين شوال سنة اثنتي عشرة وستمائة بمسجد دمشق فكمل سماع جميع هذا الكتاب وهو كتاب الصمت لي ولسالم المذكور على الشيخ المذكور كتبه مفضل بن علي بن عبد الواحد الشافعي والحمد لله رب العالمين وصلواته على محمد وآله وسلم"
+}

@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "119v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "7ad90c7a-dd08-4da3-90de-23604ea883fa",
+      "startIndex": 30,
+      "text": "يوسف بن الزكي عبد الرحمن  بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "819ee792-53d2-4f66-8091-fb06e07accd4",
+      "startIndex": 240,
+      "text": "السبت السادس والعشرين من جمادى الآخرة سنة ثلث وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 315,
+      "guid": "862a40a0-8653-4ef4-936e-0be1a2f8398b",
+      "startIndex": 302,
+      "text": "سفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "98b45e93-b2c6-4021-af79-492adffe1884",
+      "startIndex": 179,
+      "text": "عبد الرحمن بن أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "aa80c807-4275-4c2c-a177-03ec7f1c1488",
+      "startIndex": 343,
+      "text": " شمس الدين ابن الكمال المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "ac6057be-99f9-486d-9782-3afbbae9a249",
+      "startIndex": 70,
+      "text": "أبو العباس أحمد بن عبد الحليم بن تيمية الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "badcedd3-1100-42e5-8812-e6754121ae73",
+      "startIndex": 143,
+      "text": "محمد بن عبد الرحمن بن سامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "bb6f87b4-f259-412a-98d7-904f06433321",
+      "startIndex": 118,
+      "text": "القاسم بن محمد البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "dfcb4333-048c-4bce-ad7f-ed8cfc8eae2d",
+      "startIndex": 199,
+      "text": "عمر بن حسن بن عمر بن حبيب",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن  بن يوسف المزي أبو العباس أحمد بن عبد الحليم بن تيمية الحراني والقاسم بن محمد البرزالي ومحمد بن عبد الرحمن بن سامة وابن عمه عبد الرحمن بن أحمد وعمر بن حسن بن عمر بن حبيب وصح ذلك في يوم السبت السادس والعشرين من جمادى الآخرة سنة ثلث وثمانين وستمية بسفح جبل قاسيون وأجاز لهم المسمع وهو الشيخ شمس الدين ابن الكمال المقدسي رواية ما يجوز له روايته "
+}

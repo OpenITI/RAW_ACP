@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن القاسم بن إسماعيل الحلبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي القاسم الحلبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 120"
+      ],
+      "classmark": [
+        "3761/12"
+      ],
+      "folio_number": [
+        "115r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "480"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "4780e09f-9f43-4c8e-a362-4b01823c906d",
+      "startIndex": 185,
+      "text": "يوم الاثنين لليلتين بقيتا من جمادى الأولى من سنة ثمانين وأربع ماية للهجرة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "suq_gazl_mosque"
+          ]
+        ]
+      },
+      "endIndex": 282,
+      "guid": "5b9ab758-eeff-4381-8119-ed1fec0662d0",
+      "startIndex": 262,
+      "text": "مسجد سوق الغزل المعلق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "6a9bc991-5bde-41ca-8b0e-3234525eeada",
+      "startIndex": 297,
+      "text": "القاسم بن علي بن الحسن بن هبة الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "761e3f80-d6a0-4b64-a97f-5a2d1883b698",
+      "startIndex": 33,
+      "text": "أبي الحسن علي بن عساكر بن سرور المقدسي الخشاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "c0deab6b-956b-4d8b-9a12-4431590fa887",
+      "startIndex": 142,
+      "text": "أبي محمد عبد الله ابن صابر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "c41a9167-480d-4836-9dc2-ef6efc000355",
+      "startIndex": 83,
+      "text": "أبي عبد الله الحسن بن أحمد بن عبد الواحد بن أبي الحديد",
+      "type": "person"
+    }
+  ],
+  "text": "في أصل ابن أبي الحديد سماع شيخنا أبي الحسن علي بن عساكر بن سرور المقدسي الخشاب على أبي عبد الله الحسن بن أحمد بن عبد الواحد بن أبي الحديد بخط أبي محمد عبد الله ابن صابر وذلك بقراءته في يوم الاثنين لليلتين بقيتا من جمادى الأولى من سنة ثمانين وأربع ماية للهجرة في مسجد سوق الغزل المعلق وصح ذلك نقله القاسم بن علي بن الحسن بن هبة الله"
+}

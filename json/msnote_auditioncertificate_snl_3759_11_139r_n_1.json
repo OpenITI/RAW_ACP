@@ -1,0 +1,396 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن هارون الضبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الضبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/11"
+      ],
+      "folio_number": [
+        "139r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 680,
+      "guid": "1e73f205-c800-46f6-847f-ca6f4bd363c1",
+      "startIndex": 651,
+      "text": "إبراهيم بن جملة بن مسلم المحجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "1fe0224c-4b64-46f0-9586-499156794581",
+      "startIndex": 199,
+      "text": "محمد بن حمزة بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 470,
+      "guid": "37e459e8-f035-4a7c-811d-41c71543bf9e",
+      "startIndex": 434,
+      "text": "إبراهيم بن عبد الجليل بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 427,
+      "guid": "4dc5adfa-9ba9-4e5a-8804-241b024c5f80",
+      "startIndex": 402,
+      "text": "محمد بن أحمد بن عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 766,
+      "guid": "5d5ab24a-5142-435b-bf4b-c4054813ad69",
+      "startIndex": 742,
+      "text": "المسجد العتيق بجبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "5de8a3ef-3688-4c8b-98dc-20fb70c5bf36",
+      "startIndex": 335,
+      "text": "محمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "648"
+        ]
+      },
+      "endIndex": 740,
+      "guid": "60d52e3f-fca2-4608-a7d9-44387c7d2ec2",
+      "startIndex": 698,
+      "text": " الخميس سلخ المحرم سنة ثمان وأربعين وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "68a6248b-9d42-4598-8e2a-3c83176dbb68",
+      "startIndex": 69,
+      "text": "أبي] حفص عمر بن محمد بن طبرزد رحمه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 806,
+      "guid": "68bb706c-92ab-47a4-a662-8d742c75d73e",
+      "startIndex": 773,
+      "text": "أحمد بن عبد الرحمن بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 617,
+      "guid": "68f06c0a-eda9-4385-b1cd-4bf155e8462c",
+      "startIndex": 591,
+      "text": "عبد الصمد بن صميدة بن قطامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "7fcba45c-972c-49a8-a0e3-70947f01ca06",
+      "startIndex": 149,
+      "text": "عبد الله بن الشيخ شرف الدين عبد الله بن أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "8fbea728-87cf-4ab7-8a71-4c859819229d",
+      "startIndex": 300,
+      "text": "محمد بن عبد الرحمن بن عوض",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 399,
+      "guid": "91d236dc-4ecd-400f-b39a-d687eb059ca6",
+      "startIndex": 374,
+      "text": "إبراهيم بن إسماعيل بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 646,
+      "guid": "a8eb78b8-9506-42f2-a82c-bb22e1d9f530",
+      "startIndex": 620,
+      "text": "مفرج بن فرج بن دؤاد السوادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 297,
+      "guid": "a99764dd-97e7-49bd-9636-2f62c41882b0",
+      "startIndex": 272,
+      "text": "محمد بن أحمد بن عبد الحميد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "cf45e697-8e14-432e-8314-9ddf4ff6fdd9",
+      "startIndex": 120,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 542,
+      "guid": "cfe68526-6989-49cd-961c-78371ebea319",
+      "startIndex": 525,
+      "text": "سعد بن صخر بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 566,
+      "guid": "d3fda61d-4bd2-4bd2-b498-80d8b482bc5f",
+      "startIndex": 545,
+      "text": "محفوظ بن أيوب بن إقبال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 522,
+      "guid": "dc7832a8-25b9-465a-9069-46f202d0befc",
+      "startIndex": 481,
+      "text": "أبو الحسن علي بن عمر بن عسكر الحلبي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "dd8c4c4a-245b-4c18-9afc-b56f7b34836f",
+      "startIndex": 353,
+      "text": "عمر بن أحمد بن حازم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "f1dffea9-d88d-4612-acda-a2b4a6574941",
+      "startIndex": 230,
+      "text": "أحمد بن إبراهيم بن عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 588,
+      "guid": "f2e4f9bc-d151-421d-85b1-54a920b276d6",
+      "startIndex": 569,
+      "text": "نصر بن سعيد بن منصور",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء وحديث بقرة بني إسرائيل بحق روايتي لهما عن الشيخ [أبي] حفص عمر بن محمد بن طبرزد رحمه الله فسمعه ابني عبد الرحمن في السنة الرابعة وعبد الله بن الشيخ شرف الدين عبد الله بن أحمد حضر ومحمد بن حمزة بن أحمد وابن أخته أحمد بن إبراهيم بن عبد العزيز في الرابعة ومحمد بن أحمد بن عبد الحميد ومحمد بن عبد الرحمن بن عوض وابن عمه محمد بن عبد الله وعمر بن أحمد بن حازم وإبراهيم بن إسماعيل بن أحمد ومحمد بن أحمد بن عبد الرحيم حضر وإبراهيم بن عبد الجليل بن أحمد المقدسيون والشيخ أبو الحسن علي بن عمر بن عسكر الحلبي الحنفي وسعد بن صخر بن أحمد ومحفوظ بن أيوب بن إقبال ونصر بن سعيد بن منصور وعبد الصمد بن صميدة بن قطامي ومفرج بن فرج بن دؤاد السواديون وإبراهيم بن جملة بن مسلم المحجي وصح ذلك وكمل يوم الخميس سلخ المحرم سنة ثمان وأربعين وستمية بالمسجد العتيق بجبل قاسيون كتبه أحمد بن عبد الرحمن بن محمد المقدسي حامدا الله ومصليا على نبيه"
+}

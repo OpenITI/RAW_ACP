@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الرحمن بن العباس المخلص"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه سبعة مجالس من أمالي أبي طاهر المخلص"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 34"
+      ],
+      "classmark": [
+        "3744/5"
+      ],
+      "folio_number": [
+        "40r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "0b0de954-53fa-40a1-9f95-067ea04e8a1e",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 138,
+      "text": "شمس الدين أبي الحسن علي بن المظفر بن النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "238f86c9-d3f2-49d1-88bf-60b864e13504",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 238,
+      "text": "أبي المعالي بن الشريف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 609,
+      "guid": "2f81c05d-0d9c-47b0-a7d1-408fbe60b71e",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 606,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 580,
+      "guid": "386619bd-7827-49df-a30e-225915990800",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 570,
+      "text": "ابن هزارمرد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 499,
+      "guid": "494916e4-aa20-4d4a-818e-135de7c78ae9",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 479,
+      "text": "أبي بكر محمد بن دحروج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 396,
+      "guid": "62d8b40c-109a-4506-97aa-85b7955d5567",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 369,
+      "text": "أبي حفص عمر بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 680,
+      "guid": "65920fcc-7a59-4c38-a1d0-0e1f4379db36",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 647,
+      "text": "كيدغدي بن أيبك بن عبد الله العلائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 355,
+      "guid": "66265009-fe20-46cf-acf6-369dda1a3a04",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 315,
+      "text": "أبو الدر ياقوت بن عبد الله مولى بن الخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 719,
+      "guid": "8619a0af-508d-4293-be69-04811465f6c5",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 683,
+      "text": "شمس الدين عبد السلام بن محمود بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 591,
+      "guid": "be4ba9a2-b63e-4bb0-ac2e-4cba532cbcc7",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 585,
+      "text": "المخلص ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 644,
+      "guid": "c179c78d-8680-4976-97f4-0fd425a3ea9f",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 612,
+      "text": "أحمد بن أبي بكر بن أبي علي الآمدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 832,
+      "guid": "c819920b-72cb-4ed7-9b88-0ce1a8e8be28",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 789,
+      "text": "إسماعيل بن عبد الله بن أبي سعد بن علي الآمدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 527,
+      "guid": "e2a082a3-d116-46e1-91ec-b12cc2fbc25e",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 502,
+      "text": "أبي بكر أحمد بن علي الدلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 475,
+      "guid": "e561b03a-6ee6-4b68-9e10-b66c24381a48",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 454,
+      "text": "أبي غالب محمد بن قريش؟",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 782,
+      "guid": "e73210a5-f7c0-4222-90d7-6097a3ebc48c",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 729,
+      "text": "يوم الاثنين خامس عشر ربيع الأول سنة خمس وخمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "f159c9be-93a6-44de-abd2-30fbe4f427c8",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 72,
+      "text": "شرف الدين أبي عبد الله الحسين بن إبراهيم بن الحسين الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 301,
+      "guid": "f9fb718d-c87a-44a8-94e7-bd696668b41e",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 261,
+      "text": "أبي العباس الخضر بن كامل بن سالم المعبِّر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 450,
+      "guid": "fcb021dc-8f00-436f-859c-f568bb43842c",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 416,
+      "text": "أبي بكر محمد بن عبد الباقي الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت من أول المجلس الرابع إلى آخر الجزء على الشيخ الإمام العالم الفاضل شرف الدين أبي عبد الله الحسين بن إبراهيم بن الحسين الإربلي والشيخ شمس الدين أبي الحسن علي بن المظفر بن النشبي بسماع الشيخ شرف الدين أبي عبد الله الحسين بن إبراهيم من أبي المعالي بن الشريف وأبي العباس الخضر بن كامل بن سالم المعبِّر قالا أخبرنا أبو الدر ياقوت بن عبد الله مولى بن الخاري وبإجازته من أبي حفص عمر بن محمد بن طبرزد بسماعه من الأشياخ أبي بكر محمد بن عبد الباقي الأنصاري و[أبي غالب محمد بن قريش؟] وأبي بكر محمد بن دحروج وأبي بكر أحمد بن علي الدلال قالو[ا] كلهم أجمعون وياقوت الرومي أخبرنا ابن هزارمرد عن المخلص وسمع ذلك ولدي محمد وأحمد بن أبي بكر بن أبي علي الآمدي وكيدغدي بن أيبك بن عبد الله العلائي وشمس الدين عبد السلام بن محمود بن حمزة وذلك في يوم الاثنين خامس عشر ربيع الأول سنة خمس وخمسين وستماية وكتب إسماعيل بن عبد الله بن أبي سعد بن علي الآمدي حامدا الله سبحانه"
+}

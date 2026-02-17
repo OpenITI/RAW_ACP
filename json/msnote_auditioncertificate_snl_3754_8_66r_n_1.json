@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "66r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "07128114-dc2d-43af-bccb-d202ea7a5c52",
+      "index": 222,
+      "isZeroPoint": false,
+      "startIndex": 61,
+      "text": "يوم الجمعة سادس [.... سنة خمس وثلين وخمسماية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 40,
+      "guid": "25e291e7-68e8-4e92-b502-8d993666f8e8",
+      "index": 225,
+      "isZeroPoint": false,
+      "startIndex": 22,
+      "text": "أبي البقاء بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "4fca1a6a-bb3e-4be2-9c4c-db210e2e5bd2",
+      "index": 224,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "الحسن بن محمد البكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "c73c9a79-1e7f-4bd0-8724-5ff5b70e0856",
+      "index": 223,
+      "isZeroPoint": false,
+      "startIndex": 119,
+      "text": "الآدمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "f5b36189-4b19-40cd-912c-3f323e917bfc",
+      "index": 221,
+      "isZeroPoint": false,
+      "startIndex": 47,
+      "text": "عمر",
+      "type": "person"
+    }
+  ],
+  "text": " [... ... ...] بقراءة أبي البقاء بن طبرزد أخوه عمر وآخرون في يوم الجمعة سادس [.... سنة خمس وثلين وخمسماية] نقلته من خط الآدمي وقال نقلته مختصرا من نسخة ابن طبرزد كتبه الحسن بن محمد البكري"
+}

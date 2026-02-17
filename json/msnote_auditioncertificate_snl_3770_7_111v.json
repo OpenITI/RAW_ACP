@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن محمد الأصبهاني الدقاق "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "معجم مشايخ الدقاق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 173"
+      ],
+      "classmark": [
+        "3770/7"
+      ],
+      "folio_number": [
+        "111v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "206f2c87-9687-4c4d-b85e-6b8bed610247",
+      "startIndex": 63,
+      "text": "أبي الحسن مسعود بن أبي منصور بن محمد الجمال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "594"
+        ]
+      },
+      "endIndex": 304,
+      "guid": "27315696-c846-4897-83b5-39e32b2f37bb",
+      "startIndex": 256,
+      "text": "الأربعاء ثالث ربيع الآخر سنة أربع وتسعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "a712a6b6-6a92-4213-b6ba-b042832cc1a0",
+      "startIndex": 227,
+      "text": "محمد بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "e009ae41-307d-47e4-a1bf-29716c5b102e",
+      "startIndex": 131,
+      "text": "أبو موسى عبد الله بن الحافظ أبي محمد عبد الغني بن عبد الواحد بن علي بن سرور المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "persia",
+            "isfahan"
+          ]
+        ]
+      },
+      "endIndex": 312,
+      "guid": "fa4ebd55-0b03-499b-a634-85e83c9a5697",
+      "startIndex": 307,
+      "text": "أصبهان",
+      "type": "place"
+    }
+  ],
+  "text": "سمع جميع معجم أبي عبد الله محمد بن عبد الواحد الدقاق على الشيخ أبي الحسن مسعود بن أبي منصور بن محمد الجمال بسماعه فيه شيخنا الحافظ أبو موسى عبد الله بن الحافظ أبي محمد عبد الغني بن عبد الواحد بن علي بن سرور المقدسي بقراءة أخيه محمد بن عبد الغني وآخران يوم الأربعاء ثالث ربيع الآخر سنة أربع وتسعين وخمسماية بأصبهان"
+}

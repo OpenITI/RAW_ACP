@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "130v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f135.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f135.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 756,
+      "guid": "08cec4ce-7cb4-455b-8211-4c2bee23fd11",
+      "index": 160,
+      "isZeroPoint": false,
+      "startIndex": 713,
+      "text": "شمس الدين محمد إبراهيم بن منصور بن علي المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 455,
+      "guid": "13ec23df-812a-4aaf-b1ca-3bc2886d20fc",
+      "index": 155,
+      "isZeroPoint": false,
+      "startIndex": 452,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "705"
+        ]
+      },
+      "endIndex": 843,
+      "guid": "1475d6a6-3b5a-4850-bb35-16dfa49abf1b",
+      "index": 162,
+      "isZeroPoint": false,
+      "startIndex": 799,
+      "text": "يوم الأربعاء يوم عرفة المبارك سنة خمس وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "241cf095-0f72-49b3-8f9e-ee4e3eb24f9b",
+      "index": 150,
+      "isZeroPoint": false,
+      "startIndex": 66,
+      "text": "أبي الفداء إسماعيل بن الخطيب محيي الدين أبي حامد محمد بن الخطيب قاضي القضاة عماد الدين أبي القاسم عبد الكريم بن قاضي القضاة جمال الدين أبي القاسم عبد الصمد بن محمد بن أبي الفضل ابن الحرستاني الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 449,
+      "guid": "3102f275-4941-4019-83ca-d4ddfe38142d",
+      "index": 154,
+      "isZeroPoint": false,
+      "startIndex": 446,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 429,
+      "guid": "31a942d3-c756-4d2e-8d45-9078db426d3e",
+      "index": 153,
+      "isZeroPoint": false,
+      "startIndex": 395,
+      "text": "القاسم بن محمد بن يوسف ابن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "52688683-a78e-422d-a00c-cb12d847d658",
+      "index": 151,
+      "isZeroPoint": false,
+      "startIndex": 294,
+      "text": "السخاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 603,
+      "guid": "5ef8fa2a-9192-4fa9-96b9-c9ac07d26748",
+      "index": 157,
+      "isZeroPoint": false,
+      "startIndex": 574,
+      "text": "شمس الدين محمود بن خلف المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 854,
+      "guid": "6eabccd7-b818-4ec5-96e4-aa5bf01d4a88",
+      "index": 163,
+      "isZeroPoint": false,
+      "startIndex": 846,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 656,
+      "guid": "93323cee-f715-4afe-be99-e3a7515630ac",
+      "index": 158,
+      "isZeroPoint": false,
+      "startIndex": 606,
+      "text": "نجم الدين عبد المجيد بن محمد بن إسماعيل بن أبي جراد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "99547bab-0d66-4103-8d7c-9d87b4efd2f2",
+      "index": 152,
+      "isZeroPoint": false,
+      "startIndex": 313,
+      "text": "شرف الدين أبي إسحق إبراهيم بن أبي الحسن بن صدقة المخرمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 571,
+      "guid": "bfd03013-1fcb-4e4d-a269-b9843338d90c",
+      "index": 156,
+      "isZeroPoint": false,
+      "startIndex": 492,
+      "text": "فخر الدين أبو محمد عبد الرحمن بن محمد بن عبد الرحمن بن يوسف بن محمد ابن البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 710,
+      "guid": "ce704e5f-bd50-41a6-8202-f779dba968db",
+      "index": 159,
+      "isZeroPoint": false,
+      "startIndex": 659,
+      "text": "شمس الدين محمد بن إبراهيم بن عثمان بن علي ابن اللبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 792,
+      "guid": "d346d683-bace-4cc3-adb3-4d581126fb4d",
+      "index": 161,
+      "isZeroPoint": false,
+      "startIndex": 759,
+      "text": "علم الدين قيصر الجمالي [الميطروجي؟",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ الأجل الأمين الصدر الأصيل العدل شرف الدين أبي الفداء إسماعيل بن الخطيب محيي الدين أبي حامد محمد بن الخطيب قاضي القضاة عماد الدين أبي القاسم عبد الكريم بن قاضي القضاة جمال الدين أبي القاسم عبد الصمد بن محمد بن أبي الفضل ابن الحرستاني الأنصاري بسماعه حضورًا في الرابعة من السخاوي وعلى شيخنا شرف الدين أبي إسحق إبراهيم بن أبي الحسن بن صدقة المخرمي بإجازته من السخاوي بقراءة القاسم بن محمد بن يوسف ابن البرزالي وهذا خطه ابناه محمد وأحمد وصاحبه المحدث الفاضل الفقيه الأصيل فخر الدين أبو محمد عبد الرحمن بن محمد بن عبد الرحمن بن يوسف بن محمد ابن البعلبكي وشمس الدين محمود بن خلف المنبجي ونجم الدين عبد المجيد بن محمد بن إسماعيل بن أبي جراد وشمس الدين محمد بن إبراهيم بن عثمان بن علي ابن اللبان وشمس الدين محمد إبراهيم بن منصور بن علي المزي وعلم الدين قيصر الجمالي [الميطروجي؟] وصح يوم الأربعاء يوم عرفة المبارك سنة خمس وسبعمئة بجامع دمشق وأجاز الشيخان لهم جميع ما يجوز لهما [في الأصل له] روايته والحمد لله رب العالمين وصلى الله على محمد وآله"
+}

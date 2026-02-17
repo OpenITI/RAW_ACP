@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن علي بن محمد بن طيب الواسطي الجلابي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث عن شيوخ أبي عبد الله الجلابي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 141"
+      ],
+      "classmark": [
+        "3764/9"
+      ],
+      "folio_number": [
+        "149r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 773,
+      "guid": "2364d7b9-d8a5-4a12-ad1b-52a0cfd32a90",
+      "startIndex": 730,
+      "text": "أبي الحسن علي بن محمد بن علي بن بقاء الملقن ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "23a029e7-51f5-4387-b3c5-37c08bcf025b",
+      "startIndex": 368,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 867,
+      "guid": "3e8fa7d2-a03a-4f6c-8324-69b01b1d7560",
+      "startIndex": 861,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "696"
+        ]
+      },
+      "endIndex": 501,
+      "guid": "45865219-a61f-4bd1-a7ef-15d37770cde0",
+      "startIndex": 463,
+      "text": "الإثنين ثامن شوال سنة ست وتسعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 856,
+      "guid": "48c2b0e1-5509-487e-b89c-0d807be5f390",
+      "startIndex": 835,
+      "text": " أبي الحسن بن الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 355,
+      "guid": "49631337-1d59-4c84-9595-e446d7c6edaa",
+      "startIndex": 323,
+      "text": "علي بن محمد بن عبد الحميد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 654,
+      "guid": "4f0a1adb-7bad-4cb6-9985-60677dd951e2",
+      "startIndex": 643,
+      "text": "نصر بن مقاتل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 638,
+      "guid": "564a6d4b-805b-495f-8df7-40feb805bbc6",
+      "startIndex": 626,
+      "text": " ابن أبي لقمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 689,
+      "guid": "5e1f36ca-444f-4a58-8209-0a9c4630ec79",
+      "startIndex": 672,
+      "text": " أبي الطيب الجريري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 450,
+      "guid": "5faf363b-88ba-4699-8deb-fe58aa75a27c",
+      "startIndex": 446,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "64d3ba80-262a-4c67-b6aa-60272759b0e4",
+      "startIndex": 307,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "664b913a-540a-41fb-939f-76cd1a545093",
+      "startIndex": 387,
+      "text": "عبد الله بن أحمد بن عبد الله بن أحمد بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 669,
+      "guid": "709bce4e-20e3-4ff3-b856-587697239856",
+      "startIndex": 658,
+      "text": " سهل بن بشر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "c3829291-fd40-4e37-b7ec-f8f962457a11",
+      "startIndex": 198,
+      "text": " نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "db074b4b-9c0b-41ee-bf46-1be23496c77d",
+      "startIndex": 127,
+      "text": "عمر بن يحيى بن شافع بن جمعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "dde93980-a503-437c-bd5f-172ced41c521",
+      "startIndex": 59,
+      "text": "شمس الدين أبي عبد الله محمد بن علي بن أحمد بن فضل الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 516,
+      "guid": "ef3c171a-1142-4218-8cca-bae344144733",
+      "startIndex": 504,
+      "text": "الجامع بالجبل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "f1b2f57c-4e4d-44fc-a2a7-045d3152b1f2",
+      "startIndex": 255,
+      "text": "شمس الدين محمد بن إبراهيم بن غنائم بن المهندس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 579,
+      "guid": "ff5b43eb-7e27-416b-996c-831a3fdaac12",
+      "startIndex": 570,
+      "text": " ابن البن ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء من حديث الجلابي على الشيخ الصالح المسند شمس الدين أبي عبد الله محمد بن علي بن أحمد بن فضل الواسطي بسماعه من عمر بن يحيى بن شافع بن جمعة بسنده بقراءة الشيخ الإمام العالم شيخ الطلبة نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي المحدث شمس الدين محمد بن إبراهيم بن غنائم بن المهندس وابنه عبد الله والشيخ علي بن محمد بن عبد الحميد المقدسي وأحضر ابنه محمدا وكاتب السماع عبد الله بن أحمد بن عبد الله بن أحمد بن محمد المقدسي وأخوه محمد وذلك في يوم الإثنين ثامن شوال سنة ست وتسعين وستمائة بالجامع بالجبل وسمعوا عليه بالقراءة والتاريخ حديث المنبجي بسماعه من ابن البن بسنده والتسوية بين ثنا وأنبا للطحاوي بسماعه من ابن أبي لقمة عن نصر بن مقاتل عن سهل بن بشر عن أبي الطيب الجريري عنه وسمعوا أيضا عليه وعلى الشيخ الزاهد أبي الحسن علي بن محمد بن علي بن بقاء الملقن بالقراءة والتاريخ جزءًا من مسند أبي أمية الطرسوسي بسماعهما من أبي الحسن بن الصابوني عن السلفي بسنده وصح وثبت "
+}

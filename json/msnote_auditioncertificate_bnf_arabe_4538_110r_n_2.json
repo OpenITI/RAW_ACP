@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عبد الله مالك بن أنس بن مالك بن أبي عامر الأصبحي الحميري المدني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/340144647693192036125"
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 4538"
+      ],
+      "folio_number": [
+        "110r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11003759p/f111.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11003759p/f111.item.r=%22arabe%204538%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "25- 30"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "570"
+        ]
+      },
+      "endIndex": 526,
+      "guid": "0be13d55-6ab3-413c-8c4f-d9b1af056cfb",
+      "index": 147,
+      "isZeroPoint": false,
+      "startIndex": 487,
+      "text": "أواخر ذي قعدة سنة ست [و] سبعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "1eded339-0461-4e92-a3d5-3c492d23588b",
+      "index": 140,
+      "isZeroPoint": false,
+      "startIndex": 178,
+      "text": "أبي عمران موسى بن أبي تليد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "46cd419b-2d35-492f-9c62-8f660d6d7c07",
+      "index": 139,
+      "isZeroPoint": false,
+      "startIndex": 111,
+      "text": "أبي الحسن علي بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "74d466ad-92d6-4ceb-b80d-d3e81583227a",
+      "index": 142,
+      "isZeroPoint": false,
+      "startIndex": 270,
+      "text": "أبي القاسم عبد الوارث بن سفيان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 349,
+      "guid": "bd4b2ea5-2709-4706-91eb-10edc7ebde74",
+      "index": 144,
+      "isZeroPoint": false,
+      "startIndex": 338,
+      "text": "يحيى بن يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 33,
+      "guid": "c538c8fa-d40c-4680-987e-babf10922e6e",
+      "index": 138,
+      "isZeroPoint": false,
+      "startIndex": 5,
+      "text": "يحيى بن عيسى بن محمد الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 357,
+      "guid": "c76871bd-f86d-4947-958f-79d59f3e8ecd",
+      "index": 145,
+      "isZeroPoint": false,
+      "startIndex": 354,
+      "text": "مالك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 404,
+      "guid": "e05da5c3-0a57-4935-877e-2131841353d5",
+      "index": 146,
+      "isZeroPoint": false,
+      "startIndex": 393,
+      "text": "أبي عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 545,
+      "guid": "f58adfdb-f65d-4a15-ac29-932a0e075445",
+      "index": 148,
+      "isZeroPoint": false,
+      "startIndex": 529,
+      "text": "علي بن عبد الرحمن",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "fc1ae7f9-28fd-477c-a565-0c60f39872aa",
+      "index": 141,
+      "isZeroPoint": false,
+      "startIndex": 233,
+      "text": "أبي] عمر بن عبد البر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 333,
+      "guid": "fedaf2f6-d900-41f0-aa9d-ec222c7c96ca",
+      "index": 143,
+      "isZeroPoint": false,
+      "startIndex": 304,
+      "text": "قاسم بن أصبع [بن] محمد بن وضاح",
+      "type": "person"
+    }
+  ],
+  "text": "يقول يحيى بن عيسى بن محمد الأنصاري وفقه الله سمعت كتاب الموطأ هذا الجزء وما تقدمه من الأجزاء على الفقيه الموقر أبي الحسن علي بن عبد الرحمن رضي الله عنه وأذن لي أن أحدث به عنه عن أبي عمران موسى بن أبي تليد رحمه الله حدثه به إجازة عن [أبي] عمر بن عبد البر رضي الله عنه عن أبي القاسم عبد الوارث بن سفيان عن قاسم بن أصبع [بن] محمد بن وضاح عن يحيى بن يحيى عن مالك رضي الله عنه بقراءة الفقيه الأكمل أبي عبد الله [...] أكرمه الله من كتاب سُمِع على أبي عمران بن أبي تليد وعليه خط يده وكتب [...] أواخر ذي قعدة سنة ست [و] سبعين وخمس ماية  علي بن عبد الرحمن."
+}

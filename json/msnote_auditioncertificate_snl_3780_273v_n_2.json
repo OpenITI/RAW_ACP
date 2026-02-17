@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "273v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 25,
+      "guid": "09d2f933-da3a-4146-974b-70003f1f87ff",
+      "startIndex": 8,
+      "text": " أبي الحسن بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "year": [
+          "528"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "b3156ecb-1277-4cbb-8235-a5c66576e4b9",
+      "startIndex": 77,
+      "text": " ثمان وعشرين وخمس مائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "fab9333a-f28a-4887-93ce-fe6cf346912c",
+      "startIndex": 33,
+      "text": " أبي القاسم بن الحرستاني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من أبي الحسن بن قبيس القاضي أبي القاسم بن الحرستاني بقراءة والده في سنة ثمان وعشرين وخمس مائة "
+}

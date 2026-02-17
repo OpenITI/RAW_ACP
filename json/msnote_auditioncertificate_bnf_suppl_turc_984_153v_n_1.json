@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر محمد بن علي الهمداني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلس لأبي بكر محمد بن أبي علي الهمداني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "153v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f157.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f157.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "alexandria"
+          ]
+        ]
+      },
+      "endIndex": 347,
+      "guid": "1f3663bc-6107-4986-b098-70e821a0a38b",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 338,
+      "text": "الإسكندرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "641"
+        ]
+      },
+      "endIndex": 335,
+      "guid": "64c65e49-be5a-4c5c-a297-b26365b10bc3",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 299,
+      "text": "ثامن ذي حجة  سنة إحدى وأربعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "7419cc34-fa51-4b15-a05b-86215ee0d887",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 29,
+      "text": "أبي القاسم عبد الرحمن بن مكي بن الحاسب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "8a499065-6065-43bb-bb8b-3ef86fe685c9",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 208,
+      "text": "عبد الله بن عبد الملك الزيلعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "96ac6aa8-c6b4-4a7d-a913-39503da7e716",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": "أبو القاسم عبيد بن محمد بن عباس السعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "d5cf0d4d-d9cc-41a8-8692-19f93643754f",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 239,
+      "text": "أحمد بن إسماعيل بن إبراهيم النميري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "eabcfe3b-474e-46ae-a4a0-a0afdc580906",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 144,
+      "text": "بدر الدين أبو النجم بدر بن عبد الله الشهابي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ جميع هذا الجزء على الشيخ أبي القاسم عبد الرحمن بن مكي بن الحاسب بسماعه فيه نقلًا أبو القاسم عبيد بن محمد بن عباس السعردي [كذا] وسمع بقراءته بدر الدين أبو النجم بدر بن عبد الله الشهابي خادم الضريح النبوي وعبد الله بن عبد الملك الزيلعي وأحمد بن إسماعيل بن إبراهيم النميري وهذا خطه وصح ذلك وثبت في ثامن ذي حجة  سنة إحدى وأربعين وستمائة بالإسكندرية وسمعوا بالقراءة والتاريخ جزءًا فيه أحاديث منتقاة من رواية أبي زكريا يحيى بن عبد الوهاب بن منده رواية السلفي عنه بسماع شيخنا من أوله حديث ابن عباس ليبعثن الله هذا الركن وآخره زُرغباً وصح وثبت"
+}

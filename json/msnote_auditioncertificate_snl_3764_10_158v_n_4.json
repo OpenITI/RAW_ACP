@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 141"
+      ],
+      "classmark": [
+        "3764/10"
+      ],
+      "folio_number": [
+        "158v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 17,
+      "guid": "1e5f315d-c152-41e8-b113-bf20ba7cfe5f",
+      "startIndex": 8,
+      "text": "ابن المقير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "2d490a37-a605-4361-a9f3-667ad1be56f1",
+      "startIndex": 90,
+      "text": "عبد الواحد بن عبد الله بن عبد الواحد ابن عبد الله بن أبي جرادة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "2de0fc8e-9fb7-4353-b815-d671347748c5",
+      "startIndex": 26,
+      "text": "أحمد بن محمود بن إبراهيم بن نبهان الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "4f7425ca-4d92-4c3a-911d-40987d01d6aa",
+      "startIndex": 154,
+      "text": "أبو القاسم عبيد بن محمد بن عباس الأسعردي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "641"
+        ]
+      },
+      "endIndex": 304,
+      "guid": "c8ab700d-7756-4a99-a67f-770095709d7a",
+      "startIndex": 258,
+      "text": "السابع من جمادى الآخرة سنة إحدى وأربعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-fakhriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 321,
+      "guid": "dc28d5f6-9f1d-489c-b8b0-45fb6a6009c6",
+      "startIndex": 307,
+      "text": "المدرسة الفخرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "e18b9a72-07d6-4d33-840a-df4d85c7a032",
+      "startIndex": 201,
+      "text": " يعقوب بن أحمد بن علي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من ابن المقير بقراءة أحمد بن محمود بن إبراهيم بن نبهان الجوهري والسماع في الأصل بخطه عبد الواحد بن عبد الله بن عبد الواحد ابن عبد الله بن أبي جرادة وأبو القاسم عبيد بن محمد بن عباس الأسعردي والحاج يعقوب بن أحمد بن علي و[... ...] التركماني وآخرون وصح في السابع من جمادى الآخرة سنة إحدى وأربعين وستمائة بالمدرسة الفخرية [...]"
+}

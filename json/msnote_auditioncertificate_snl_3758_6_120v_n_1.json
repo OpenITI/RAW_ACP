@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن طلحة بن محمد البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي الحسن النعالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 102"
+      ],
+      "classmark": [
+        "3758/6"
+      ],
+      "folio_number": [
+        "120v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "569"
+        ]
+      },
+      "endIndex": 361,
+      "guid": "04721444-16cb-4789-b00c-474fb2c652f0",
+      "startIndex": 326,
+      "text": "سلخ ذي القعدة سنة تسع وستين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "25f78dc9-e169-4fa8-828e-4a413f16b434",
+      "startIndex": 79,
+      "text": "أبي عبد الله الحسين بن أحمد بن محمد بن طلحة بن محمد بن عثمان النعالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "68b3e17f-dd36-4a9c-9c25-6199b1ad2bf4",
+      "startIndex": 224,
+      "text": "أبو الثناء محمود بن سالم بن مهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "8018eadf-449a-45dc-9b13-9f8ae3b7d4b3",
+      "startIndex": 20,
+      "text": "خديجة بنت أحمد بن الحسن بن عبد الكريم النهرواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 422,
+      "guid": "c105d7d1-1c1e-4907-9217-c21c5ff480cf",
+      "startIndex": 406,
+      "text": "عبد الله بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 390,
+      "guid": "c87c7abf-73a0-4b4f-ac11-0bdb712d4eaf",
+      "startIndex": 376,
+      "text": "أحمد بن الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "c9ddda34-4761-4e79-9299-fbd1fbff887c",
+      "startIndex": 287,
+      "text": "عبيد الله بن يونس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "cd582673-4557-4c41-bb08-56fce68b2b75",
+      "startIndex": 263,
+      "text": "أبو محمد إبراهيم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "de5a1851-4d25-45e5-9aa7-0b639a90de18",
+      "startIndex": 311,
+      "text": "علي ",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على فخر النساء خديجة بنت أحمد بن الحسن بن عبد الكريم النهرواني بسماعها من أبي عبد الله الحسين بن أحمد بن محمد بن طلحة بن محمد بن عثمان النعالي في يوم الجمعة السادس عشرين من صفر سنة اثنتين وتسعين وأربعماية بسماعه من جده أبو الثناء محمود بن سالم بن مهدي وابنه أبو محمد إبراهيم بقراءة عبيد الله بن يونس وأخوه علي كتب ذلك في سلخ ذي القعدة سنة تسع وستين وخمسماية نقلته من نقل أحمد بن الجوهري من نسخته كتبه عبد الله بن المحب"
+}

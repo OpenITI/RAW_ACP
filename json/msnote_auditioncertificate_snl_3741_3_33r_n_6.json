@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "33r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "0e25452c-6f81-4077-84f4-91415afdcdc8",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 81,
+      "text": "إبراهيم بن أحمد بن محمد بن خلف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "37172ee2-8141-42f1-8aef-9200ef5266ae",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 55,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "649"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "520575d3-73c2-4afc-a7ef-bfd8046a2d5a",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 112,
+      "text": "يوم الجمعة ثالث عشر ذي القعدة سنة تسع وأربعين وستماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 48,
+      "guid": "c9a5e9ad-2018-464f-a21f-40271978121a",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": "الحسن بن عبد الله بن عبد الغني",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه عليه بقراءة الحسن بن عبد الله بن عبد الغني ولده عبد الله في الرابعة وخاله إبراهيم بن أحمد بن محمد بن خلف يوم الجمعة ثالث عشر ذي القعدة سنة تسع وأربعين وستماية "
+}

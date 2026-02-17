@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضل بن أحمد بن محمد الفراوي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "العوالي المائة من مسموعات الفراوي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 172"
+      ],
+      "classmark": [
+        "3770/1"
+      ],
+      "folio_number": [
+        "2v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "1b97a4f1-4ba7-495a-a21e-7167a028f143",
+      "startIndex": 153,
+      "text": " الثلثاء لسبع بقين من شعبان سنة خمس وخمسين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "8a9e447c-9fba-4da3-80f8-a2ea78070b87",
+      "startIndex": 114,
+      "text": "أحمد بن علي بن مسعود بن ربيع الفامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "aeb019c2-85a8-4bba-ad2c-a6ca5d01196f",
+      "startIndex": 17,
+      "text": "زين الدين ابن عبد الدائم بقراءة داود بن عيسى الهكاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 220,
+      "guid": "e4a38e93-1e72-4ee1-937d-a9ef60afedcf",
+      "startIndex": 204,
+      "text": "منزله بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "f413ca3f-6cb2-4d8c-83ed-f510ac6afc01",
+      "startIndex": 70,
+      "text": "عبد الله بن الحسن بن عبد الله بن عبد الغني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها على الشيخ زين الدين ابن عبد الدائم بقراءة داود بن عيسى الهكاري عبد الله بن الحسن بن عبد الله بن عبد الغني وأحمد بن علي بن مسعود بن ربيع الفامي يوم الثلثاء لسبع بقين من شعبان سنة خمس وخمسين وستمئة بمنزله بسفح قاسيون"
+}

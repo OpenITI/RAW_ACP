@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن إسحق بن زيد الحلبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد القاضي أبي الحسن علي بن محمد بن إسحق بن زيد الحلبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "126r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000263.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059149"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "019c6890-8db7-4a2e-95da-eac7a529ab86",
+      "startIndex": 10,
+      "text": "أبو بكر محمد بن محمد بن سليمان العامري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 144,
+      "guid": "024ac845-ea7b-4215-b15c-430fca1daca4",
+      "startIndex": 141,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "2c908e7b-2330-49e7-b1ad-1544a1185503",
+      "startIndex": 179,
+      "text": "علي بن مسعود الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "3d2ac445-55da-45ad-afd4-65a040d09627",
+      "startIndex": 69,
+      "text": "إسماعيل بن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "76da52ca-fb5e-4dc2-8fbe-ec5e0fa6d06c",
+      "startIndex": 56,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "611"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "f6820745-c0b4-4544-b7bd-8b408c750d43",
+      "startIndex": 102,
+      "text": "في سابع عشر شوال سنة إحدى عشرة وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "f68e06f1-c77d-43f6-9526-a68a52e435f6",
+      "startIndex": 151,
+      "text": "مسعود بن أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه أبو بكر محمد بن محمد بن سليمان العامري، وولده محمد، بقراءة إسماعيل بن الأنماطي وبخطه السماع في سابع عشر شوال سنة إحدى عشرة وستمئة بدمشق نقله مسعود بن أحمد مختصراً من خط علي بن مسعود الموصلي بجبل قاسيون وصح وثبت."
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يعقوب بن يوسف الأصم "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأول و الثاني من حديث أبي العباس محمد بن يعقوب الأصم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 162"
+      ],
+      "classmark": [
+        "3768/7"
+      ],
+      "folio_number": [
+        "129r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "al-mizza"
+          ]
+        ]
+      },
+      "endIndex": 302,
+      "guid": "0b8e575e-cca5-450b-b6a1-c263cda5a9eb",
+      "startIndex": 298,
+      "text": "المزة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "717"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "0f9fe3b8-ee2e-4315-9f2f-dd6bd7f19fbd",
+      "startIndex": 258,
+      "text": "الجمعة عاشر شوال سنة سبع عشرة وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "21f09eb8-7e2a-4778-a649-9f6c2dea6889",
+      "startIndex": 235,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "44b842e4-74fb-4370-ae5f-d3fdf7948d42",
+      "startIndex": 195,
+      "text": "أبي محمد عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "45adb7f1-2793-4ef1-9980-3840cedb03a4",
+      "startIndex": 84,
+      "text": "الشهاب عمر بن محمد بن عبد الله السهروردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "4c0ce6e3-dbca-423b-8fff-2fda441550ea",
+      "startIndex": 134,
+      "text": "أبي زرعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "b3a720e8-ec08-476a-a429-072a77c7f554",
+      "startIndex": 31,
+      "text": "أبي نصر محمد بن محمد بن محمد بن هبة الله الشيرازي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء والثالث بعده على أبي نصر محمد بن محمد بن محمد بن هبة الله الشيرازي عن الشهاب عمر بن محمد بن عبد الله السهروردي إجازة عن أبي زرعة سماعا في ربيع الأول سنة ثمان وخمسين وخمسمائة بقراءة أبي محمد عبد الله بن أحمد بن المحب ابنه محمد وذا خطه وغيره يوم الجمعة عاشر شوال سنة سبع عشرة وسبعمائة بالمزة والحمد لله\n\n"
+}

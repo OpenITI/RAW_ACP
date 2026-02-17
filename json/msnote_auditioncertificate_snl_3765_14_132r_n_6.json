@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن محمد بن عبد الله بن بشران "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "إسلام كعب بن زهير وقصيدته"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 150"
+      ],
+      "classmark": [
+        "3765/14"
+      ],
+      "folio_number": [
+        "132r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "747"
+        ]
+      },
+      "endIndex": 297,
+      "guid": "5a2f252c-4243-4745-97ef-507e0fca393d",
+      "startIndex": 241,
+      "text": "السبت سابع عشرين جمادى الآخرة من سنة سبع وأربعين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "e0ec02cb-cd54-4742-b07a-2dcc0fb698b3"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "5e17a885-46e7-4ab5-9d50-5f44533752bd",
+      "startIndex": 319,
+      "text": "محمد بن موسى بن محمد بن سند بن تميم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "0d536083-b463-4cd6-998b-641616923a15"
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "809c52b8-533d-4b44-8c6e-e8d528e2a162",
+      "startIndex": 174,
+      "text": "نجم الدين أبو الخير سعيد بن عبد الله الدهلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "d465c34d-98d3-4f8e-9a43-9799913ea3eb"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "85663f52-5298-41e6-93cd-f3a00fab3a24",
+      "startIndex": 63,
+      "text": "شمس الدين أبي عبد الله محمد بن أحمد بن عثمان الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "sadriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 306,
+      "guid": "a8c73a26-402d-45ae-a255-772be63287c6",
+      "startIndex": 300,
+      "text": "الصدرية",
+      "type": "place"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام شيخ الإسلام الحافظ الناقد شمس الدين أبي عبد الله محمد بن أحمد بن عثمان الذهبي نفع الله به فسمعه مالكه شيخنا الإمام العمدة العلامة الحافظ نجم الدين أبو الخير سعيد بن عبد الله الدهلي وآخرون بفوت وصح في يوم السبت سابع عشرين جمادى الآخرة من سنة سبع وأربعين وسبعمائة بالصدرية بدمشق وكتب محمد بن موسى بن محمد بن سند بن تميم"
+}

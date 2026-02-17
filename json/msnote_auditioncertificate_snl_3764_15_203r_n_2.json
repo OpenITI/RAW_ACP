@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الخطيب البغدادي بجامع دمشق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 143"
+      ],
+      "classmark": [
+        "3764/15"
+      ],
+      "folio_number": [
+        "203r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 331,
+      "guid": "05b08848-963c-4363-8901-814a380bab10",
+      "startIndex": 295,
+      "text": "فخر الدين أحمد بن حسن بن يوسف الفارقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 419,
+      "guid": "067165fd-7167-4150-b6b9-3663ac75d5b7",
+      "startIndex": 396,
+      "text": "الجامع المظفري ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "0eec1e49-eb0d-4f9c-af7d-6dfd425ed59b",
+      "startIndex": 133,
+      "text": "نور الدين علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "1586abf9-7530-4717-b3f0-d1d6c69105cb",
+      "startIndex": 182,
+      "text": "حسن بن إبراهيم بن أحمد بن سونج المتطبب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "675"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "69cbc2b7-a3d4-4b93-bfd0-03cecbce9d93",
+      "startIndex": 345,
+      "text": "يوم الأربعاء سلخ ذي القعدة سنة خمس وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "afd6f6ea-aa60-47f5-b1e3-d2f5a91fe20a",
+      "startIndex": 235,
+      "text": "محمد بن أبي بكر بن محمد بن طرخان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "b5292bd9-4db7-4189-b6ad-04301a7588aa",
+      "startIndex": 104,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "f433d339-5672-43d8-b16b-853bae606f49",
+      "startIndex": 43,
+      "text": "أبي يحيى إسماعيل بن أبي عبد الله بن حماد العسقلاني ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الصالح المسند أبي يحيى إسماعيل بن أبي عبد الله بن حماد العسقلاني بسماعه من ابن طبرزد بسنده بقراءة مالكه نور الدين علي بن مسعود بن نفيس الموصلي ثم الحلبي حسن بن إبراهيم بن أحمد بن سونج المتطبب وكاتب الأسماء محمد بن أبي بكر بن محمد بن طرخان وسمع بفوت المجلس الأول منه فخر الدين أحمد بن حسن بن يوسف الفارقي وصح وثبت في يوم الأربعاء سلخ ذي القعدة سنة خمس وسبعين وستمائة بالجامع المظفري ظاهر دمشق والحمد لله وحده"
+}

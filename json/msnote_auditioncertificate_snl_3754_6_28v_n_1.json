@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن أحمد ضياء الدين المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من حديث الشيرازي وإسماعيل بن جعفر"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/6 في الفهرس الرسالة الخامسة"
+      ],
+      "folio_number": [
+        "28v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "persia",
+            "isfahan"
+          ]
+        ]
+      },
+      "endIndex": 165,
+      "guid": "2452d2db-ce63-40bd-a83d-71482b2d798a",
+      "index": 175,
+      "isZeroPoint": false,
+      "startIndex": 160,
+      "text": "أصبهان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "61a2060a-2f8c-4016-9dfa-6bf56dcc48be",
+      "index": 172,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "أبي المجد زاهر بن أحمد الضرير ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "9"
+        ],
+        "year": [
+          "606"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "81d7b0ef-454f-4eb7-afe6-a8568aab9b18",
+      "index": 174,
+      "isZeroPoint": false,
+      "startIndex": 131,
+      "text": "شهر رمضان من سنة ست وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 248,
+      "guid": "8d674d5e-3ff7-4085-ad6d-bce275495013",
+      "index": 178,
+      "isZeroPoint": false,
+      "startIndex": 239,
+      "text": "عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "9c97773f-6586-4e23-8e50-19ac9094741b",
+      "index": 177,
+      "isZeroPoint": false,
+      "startIndex": 233,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "9d769da1-a713-499d-b146-70a362a609af",
+      "index": 176,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "أحمد بن الحافظ أبي الفتح محمد بن الحافظ أبي محمد عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "dcc39e1e-3c27-421b-af5d-992b7ae4076b",
+      "index": 173,
+      "isZeroPoint": false,
+      "startIndex": 84,
+      "text": "الكبريتي ",
+      "type": "person"
+    }
+  ],
+  "text": " سمعت ما في هذه الورقة من حديث الشيرازي على أبي المجد زاهر بن أحمد الضرير بسماعه من الكبريتي ونقلت من أصل سماعه وسماع شيخه وذلك في شهر رمضان من سنة ست وستماية بأصبهان وسمعه أحمد بن الحافظ أبي الفتح محمد بن الحافظ أبي محمد عبد الغني ومحمد وعبد العزيز ابنا عبد الملك والحمد لله وحده وصلواته على سيد المرسلين وخاتم النبيين وعلى آله أجمعين"
+}

@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 8"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "28v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.item.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "01588554-5583-44b8-8ae8-0c661d96b41c",
+      "index": 396,
+      "isZeroPoint": false,
+      "startIndex": 87,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "31dfd997-34fe-46c7-b71b-fa7e814f8c4b",
+      "index": 399,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "يوم الأربعاء لسبع بقين من ربيع الأول سنة خمس وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "51fc57d7-7edb-4ad8-979f-a2eced9228d5",
+      "index": 397,
+      "isZeroPoint": false,
+      "startIndex": 93,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "7aa8008f-722f-40c5-8f75-f37c3a0e3c93",
+      "index": 395,
+      "isZeroPoint": false,
+      "startIndex": 27,
+      "text": "تقي الدين إسماعيل بن إبراهيم بن أبي اليسر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "8c6e3e81-eafd-464a-bdeb-62d8b0d7b04a",
+      "index": 398,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "علي الموصلي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جزء ابن جوصا على الشيخ تقي الدين إسماعيل بن إبراهيم بن أبي اليسر بسماعه تراه سبطاه محمد وعلي ابنا صدر الدين عبد المؤمن بن عبد العزيز بن عبد بقراءة علي الموصلي يوم الأربعاء لسبع بقين من ربيع الأول سنة خمس وستين وستماية."
+}

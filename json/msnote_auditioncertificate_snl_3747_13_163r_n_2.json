@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن عبيد الله بن عبد الله السمسار الحرفي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي القاسم الحرفي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 51 "
+      ],
+      "classmark": [
+        "3747/13"
+      ],
+      "folio_number": [
+        "163r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "724"
+        ]
+      },
+      "endIndex": 247,
+      "guid": "4c1f483c-2548-48e9-84ff-f86ab0b0c574",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 204,
+      "text": "سادس عشري ربيع الأول سنة أربع وعشرين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "617c90ac-faa5-4479-ba2d-1fb5b2514e26",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 174,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "a7040cc0-81e7-4dd3-b8ea-810a331c1eea",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 70,
+      "text": "أبي بكر بن محمد بن أحمد بن عنتر السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "ae01377b-a300-4bbc-933c-03ec4737b288",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 122,
+      "text": "عبد الرحمن بن مكي سبط السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "e5b8a87d-cf1b-4be0-bece-dc2d988e8d8b",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "أبي بكر بن محمد بن الرضي عبد الرحمن بن محمد بن عبد الجبار",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على أبي بكر بن محمد بن الرضي عبد الرحمن بن محمد بن عبد الجبار وأبي بكر بن محمد بن أحمد بن عنتر السلمي بإجازتهما من عبد الرحمن بن مكي سبط السلفي بسماعه من جده بالقراءة محمد القارئ وذا خطه وآخرون في سادس عشري ربيع الأول سنة أربع وعشرين وسبعمية"
+}

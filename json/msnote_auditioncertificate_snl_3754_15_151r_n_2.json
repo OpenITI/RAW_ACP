@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فضائل العباس بن عبد المطلب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 79"
+      ],
+      "classmark": [
+        "3754/15"
+      ],
+      "folio_number": [
+        "151r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "524"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "0abb7635-395c-472a-ad15-f5cc78803b5b",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 95,
+      "text": "يوم الجمعة ثالث ذي الحجة من سنة أربع وعشرين وخمسماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "388b91a2-c927-4c8f-9aa0-2f870815588a",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 88,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "49c84233-d000-469c-a878-578f216c6aa0",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 46,
+      "text": "المبارك بن أبي بكر بن معمر بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "71f872eb-de43-405d-851e-f7e5f3f7744b",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "محمد بن النجار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 25,
+      "guid": "a13a81f0-c6c2-4e8c-9193-1fff81801b5e",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 14,
+      "text": "بن السمرقندي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه من لفظ بن السمرقندي جماعة وكاتب السماع المبارك بن أبي بكر بن معمر بن طبرزد وأخوه عمر في يوم الجمعة ثالث ذي الحجة من سنة أربع وعشرين وخمسماية نقلته أيضا من خط محمد بن النجار مختصرا"
+}

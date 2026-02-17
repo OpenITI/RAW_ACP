@@ -1,0 +1,419 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر أحمد بن عبدان الشيرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من فوائد أبي بكر أحمد بن عبدان الشيرازي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "155r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f159.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f159.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "alexandria"
+          ]
+        ]
+      },
+      "endIndex": 965,
+      "guid": "065d4231-b9b0-4cc1-b567-d514c19a4889",
+      "index": 115,
+      "isZeroPoint": false,
+      "startIndex": 956,
+      "text": "الإسكندرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 352,
+      "guid": "0d22f00f-aba2-469d-82dd-a66054b815bc",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 343,
+      "text": "عبد الجبار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "20e69f85-df93-4f65-a089-f430b8fe7051",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 137,
+      "text": "أبي محمد عبد الله بن إبراهيم بن يوسف المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 866,
+      "guid": "30f9eefd-06cb-4f80-9375-1de68b3a7433",
+      "index": 113,
+      "isZeroPoint": false,
+      "startIndex": 823,
+      "text": "جعفر بن أبي الحسين بن بركات بن جعفر الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 470,
+      "guid": "3dcf2e80-8261-4775-a3ac-cb634c5b9bb0",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 443,
+      "text": "محمد بن يوسف بن فتوح العبدري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "46f705a0-9b39-4295-bb5a-dacee1089fdf",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "الرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 508,
+      "guid": "4af0e29d-b52c-4df7-a43c-a3b71d4f97de",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 473,
+      "text": "عبد الكريم بن طاهر بن جابر الموازيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "4decd7f5-5d28-4469-82b0-2f430e7459f7",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 181,
+      "text": "أبو الحسين علي بن المفضل بن علي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 1022,
+      "guid": "548c08ec-a4be-498d-b98b-86157b151f60",
+      "index": 116,
+      "isZeroPoint": false,
+      "startIndex": 967,
+      "text": "هذا صحيح وكتب عبد الرحمن بن مكي بن حمزة بن موقا الأنصاري",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "55a0a4d9-24de-4c6a-8d01-30a9b7cf558e",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 58,
+      "text": "أبي القاسم عبد الرحمن بن مكي بن حمزة بن موقا الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 661,
+      "guid": "7115d909-464e-4f2f-9c5b-f2bf020db0dc",
+      "index": 109,
+      "isZeroPoint": false,
+      "startIndex": 617,
+      "text": "عبد الله بن رُدَيني بن رزق الله الربعي الناجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "724b5d18-9502-421f-9c9d-e8f56b1c6caf",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 222,
+      "text": "أبو محمد عبد العزيز بن عيسى اللخمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 335,
+      "guid": "7c60e268-865d-4b9f-850c-d3f615984d3c",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 307,
+      "text": "أبو الحسن بشار بن علي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 545,
+      "guid": "82d85024-94ed-4835-a0ce-92b114767087",
+      "index": 106,
+      "isZeroPoint": false,
+      "startIndex": 511,
+      "text": "أحمد بن عبد الرحمن بن حماد الصنهاجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 741,
+      "guid": "91f17b9d-2124-4ca1-9d78-812859f777e6",
+      "index": 111,
+      "isZeroPoint": false,
+      "startIndex": 701,
+      "text": "أبو بكر بن عبد الملك بن عبد الله المراكشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 390,
+      "guid": "bca0374c-c199-48bb-bfbe-e9c057861d54",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 381,
+      "text": "عبد المعطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 304,
+      "guid": "c159d681-ac30-41aa-a476-f1e5faa20c83",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 278,
+      "text": "إبراهيم بن عبد الله البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "570"
+        ]
+      },
+      "endIndex": 953,
+      "guid": "c8e90a29-c162-4bca-b495-013c24d52edc",
+      "index": 114,
+      "isZeroPoint": false,
+      "startIndex": 889,
+      "text": "يوم الجمعة بعد الصلاة الثاني والعشرين من شعبان سنة سبعين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 820,
+      "guid": "d1e2ed10-8441-4b59-af93-e9ab34745d17",
+      "index": 112,
+      "isZeroPoint": false,
+      "startIndex": 751,
+      "text": "أبو الفضل عبد الله بن القاضي أبي الطاهر إسماعيل بن رمضان بن عبد السميع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 574,
+      "guid": "d7a11d32-46f0-48f1-b0df-0a8a24927ef2",
+      "index": 107,
+      "isZeroPoint": false,
+      "startIndex": 548,
+      "text": "منصور بن عمر بن عبيد القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 440,
+      "guid": "db2673f7-6887-4171-bb62-7c65d4e620d0",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 393,
+      "text": "أبو الطاهر إسماعيل بن عبد الله بن محمد بن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 614,
+      "guid": "eb2a8ba6-4227-41bd-986d-b8404d1c412c",
+      "index": 108,
+      "isZeroPoint": false,
+      "startIndex": 577,
+      "text": "أبو عبد الله بن أبي بكر بن مفرج الركاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 698,
+      "guid": "eb36e12a-245f-42c4-ab95-5f76d5164c05",
+      "index": 110,
+      "isZeroPoint": false,
+      "startIndex": 664,
+      "text": "علي بن أبي بكر بن سيد الناس اليشكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 373,
+      "guid": "efd681f9-8214-4c13-ba46-cc42e397b7f2",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 355,
+      "text": "أبو نصر فتوح بن خلف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "f61312f3-c9fe-4565-ab37-7650c5d7cb54",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 258,
+      "text": "أبو محمد",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ السماع لجميع الجزء المنتخب منه هذه الأحاديث على الشيخ أبي القاسم عبد الرحمن بن مكي بن حمزة بن موقا الأنصاري بإجازته من الرازي بقراءة أبي محمد عبد الله بن إبراهيم بن يوسف المصري أبو الحسين علي بن المفضل بن علي المقدسي وأبو محمد عبد العزيز بن عيسى اللخمي وأبو محمد بن المسمع وإبراهيم بن عبد الله البالسي وأبو الحسن بشار بن علي المقدسي وابنه عبد الجبار وأبو نصر فتوح بن خلف وابنه عبد المعطي وأبو الطاهر إسماعيل بن عبد الله بن محمد بن النحاس ومحمد بن يوسف بن فتوح العبدري وعبد الكريم بن طاهر بن جابر الموازيني وأحمد بن عبد الرحمن بن حماد الصنهاجي ومنصور بن عمر بن عبيد القرشي وأبو عبد الله بن أبي بكر بن مفرج الركاب وعبد الله بن رُدَيني بن رزق الله الربعي الناجي وعلي بن أبي بكر بن سيد الناس اليشكري وأبو بكر بن عبد الملك بن عبد الله المراكشي والقاضي أبو الفضل عبد الله بن القاضي أبي الطاهر إسماعيل بن رمضان بن عبد السميع وجعفر بن أبي الحسين بن بركات بن جعفر الهمداني والسماع بخطه وذلك في يوم الجمعة بعد الصلاة الثاني والعشرين من شعبان سنة سبعين وخمسمائة بالإسكندرية\nهذا صحيح وكتب عبد الرحمن بن مكي بن حمزة بن موقا الأنصاري"
+}

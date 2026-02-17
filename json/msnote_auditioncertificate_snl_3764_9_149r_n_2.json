@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن علي بن محمد بن طيب الواسطي الجلابي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث عن شيوخ أبي عبد الله الجلابي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 141"
+      ],
+      "classmark": [
+        "3764/9"
+      ],
+      "folio_number": [
+        "149r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "104003de-1288-4e40-a571-8788a13d51db",
+      "startIndex": 186,
+      "text": "أبو بكر بن محمد بن أبي بكر بن خليل الاعزازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "7fda8b92-bda1-4978-8b7d-f964f28ebf73",
+      "startIndex": 151,
+      "text": " محمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "b8f043a4-3bcc-4322-9d58-6f39160b4ddb",
+      "startIndex": 36,
+      "text": "أبي عبد الله محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 33,
+      "guid": "bcb1ecd2-c534-44c5-8f69-936185ebddab",
+      "startIndex": 16,
+      "text": " أبي محمد عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "731"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "e83d7ea3-e1db-499c-91d2-dc82c0c0facb",
+      "startIndex": 241,
+      "text": "الخميس تاسع رجب سنة أحدى وثلاثين وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "ef17f81f-5ed0-4b61-ad0b-03c954e22924",
+      "startIndex": 127,
+      "text": "الواسطي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 291,
+      "guid": "f085e900-7d70-4165-aa4c-b791247d57bd",
+      "startIndex": 283,
+      "text": "الضيائية ",
+      "type": "place"
+    }
+  ],
+  "text": "سمعه على الشيخين أبي محمد عبد الله وأبي عبد الله محمد ابني أحمد بن المحب عبد الله بن أحمد بن محمد بن إبراهيم بسماعهما أعلاه من الواسطي ابن المسمع الأول محمد بن عبد الله بقراءته وذا خطه وأبو بكر بن محمد بن أبي بكر بن خليل الاعزازي وآخرون يوم الخميس تاسع رجب سنة أحدى وثلاثين وسبعمئة بالضيائية "
+}

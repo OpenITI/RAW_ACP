@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أحمد بن قدامه المقدسي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/261321728"
+      ],
+      "work_title": [
+        "كتاب التوابين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 1384"
+      ],
+      "folio_number": [
+        "41r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000791q/f45.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000791q/f45.item.r=%22Arabe%201384%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "870"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "277d6f04-0c10-4975-ab47-fb6067d28da3",
+      "index": 2,
+      "isZeroPoint": false,
+      "startIndex": 112,
+      "text": "يوم الثلاثاء حادي عشر شهر الله المحرم سنة سبعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "4caf2ddc-f67c-4696-8934-6d9d675de4a7",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 217,
+      "text": "يوسف بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "67ea1c51-871f-4493-8b9e-2f0133780e4d",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "شهاب الدين بن الشريفة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "f38fef45-f2b3-4ff3-95d6-7ebffd71a4b3",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 192,
+      "text": "حسين بن علي بن مفرج",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت من أوله إلى هنا على الشيخ شهاب الدين بن الشريفة بإجازته من المشايخ الثلاثة وصح ذلك وثبت في ثلث مجالس آخرها يوم الثلاثاء حادي عشر شهر الله المحرم سنة سبعين وثمان ماية وسمع هذا الجزء الشيخ حسين بن علي بن مفرج وكتب يوسف بن عبد الهادي"
+}

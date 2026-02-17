@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 141"
+      ],
+      "classmark": [
+        "3764/10"
+      ],
+      "folio_number": [
+        "153r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 348,
+      "guid": "0dd6d7cd-3522-416f-b0d4-595279dae651",
+      "startIndex": 323,
+      "text": "محمد بن يحيى بن علي القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "39fe8428-e98e-4ef0-a3cf-820b9521b2c1",
+      "startIndex": 147,
+      "text": "أبي الحسن بن أبي عبد الله البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 223,
+      "guid": "68dfdd7e-7d3d-4c74-b6d5-558e0d1896ca",
+      "startIndex": 196,
+      "text": "منزل سكني بدار عمرو بن العاص",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "682"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "9c454d0a-c17f-478f-8a11-07ccac46b172",
+      "startIndex": 241,
+      "text": "الثامن من ذي الحجة من سنة اثنتين وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "9e9f7e05-d1b7-4176-ac43-687778feb4f0",
+      "startIndex": 44,
+      "text": "أبو العباس أحمـد بـن عبد الرحيم بن أبي عبد الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "be11a1c1-3d4a-485d-a382-0d2709535498",
+      "startIndex": 185,
+      "text": "شهدة ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأه علـي صـاحبـه الـولـد الصـالـح المجتهـد أبو العباس أحمـد بـن عبد الرحيم بن أبي عبد الله الشافعي نفعه الله بالعلم وإيانا بحق روايتي له عن الشيخ أبي الحسن بن أبي عبد الله البغدادي عن شهدة وذلك بمنزل سكني بدار عمرو بن العاص رضي الله عنه في الثامن من ذي الحجة من سنة اثنتين وثمانين وستمائة وكتب العبد الفقير إلى رحمة مولاه محمد بن يحيى بن علي القرشي"
+}

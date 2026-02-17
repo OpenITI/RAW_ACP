@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبد الملك بن محمد بن عبد الله بن بشران الزاهد البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن بشران"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 154"
+      ],
+      "classmark": [
+        "3766"
+      ],
+      "folio_number": [
+        "52r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 320,
+      "guid": "2da934b6-07f5-4493-9eff-5ecc73d84ad2",
+      "startIndex": 298,
+      "text": "منزل المسمع بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "4e47448d-bac5-4bcf-a8bc-e28491f95b44",
+      "startIndex": 194,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "56404681-352c-42e1-bf46-90caaec18eed",
+      "startIndex": 122,
+      "text": "جعفر الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "5c1045d0-ea73-4c39-99cf-8edc0cbb182c",
+      "startIndex": 36,
+      "text": "أبي محمد عيسى بن عبد الرحمن بن معالي بن حمد بن أحمد المقدسي المطعم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "718"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "68bdcfc6-ed9a-47e9-afb3-4ee46057680f",
+      "startIndex": 253,
+      "text": "الأحد الثامن من شوال سنة ثمان عشرة وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "a214f66c-5f0e-4e56-babe-af5742b32e7d",
+      "startIndex": 222,
+      "text": "علي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 490,
+      "guid": "aeea1503-808a-493b-a200-9193194e1632",
+      "startIndex": 482,
+      "text": "البوصيري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 471,
+      "guid": "b08d4f89-e2c4-4e41-a5fa-d4309e922ac4",
+      "startIndex": 430,
+      "text": "أبي سليمان عبد الرحمن بن الحافظ عبد الغني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 522,
+      "guid": "b13e6f1e-a24a-4716-aaaf-240689ca7276",
+      "startIndex": 514,
+      "text": "ابن حمصة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "beb71d61-2592-4076-8049-63f20e938db7",
+      "startIndex": 155,
+      "text": "عبد الله بن أحمد بن المحب المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "d4a55636-b958-459f-9360-9ff8356da31e",
+      "startIndex": 200,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 509,
+      "guid": "fe78864e-101e-4e63-9ead-68b706a39721",
+      "startIndex": 494,
+      "text": "أبي صادق المديني",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ المسند أبي محمد عيسى بن عبد الرحمن بن معالي بن حمد بن أحمد المقدسي المطعم بسماعه فيه أصلا من جعفر الهمداني بقراءة كاتب السماع عبد الله بن أحمد بن المحب المقدسي ابنه محمد ومحمد ابن المسمع وابنه علي في آخر الثانية وذلك في يوم الأحد الثامن من شوال سنة ثمان عشرة وسبعمائة بمنزل المسمع بسفح قاسيون وأجاز لهم جميع ما يجوز له روايته وسمعوا عليه بالقراءة والتاريخ مجلس البطاقة من أمالي حمزة الكناني بسماعه من أبي سليمان عبد الرحمن بن الحافظ عبد الغني بسماعه من البوصيري عن أبي صادق المديني عن ابن حمصة عنه وصح وثبت ولله الحمد والمنة وصلى الله على محمد"
+}

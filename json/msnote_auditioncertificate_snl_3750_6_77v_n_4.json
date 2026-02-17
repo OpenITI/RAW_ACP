@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إبراهيم بن حرب السمسار العسكري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند أبي هريرة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 63 "
+      ],
+      "classmark": [
+        "3750/6"
+      ],
+      "folio_number": [
+        "77v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 32,
+      "guid": "0b055545-6600-40cd-8dc3-12198450123d",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 9,
+      "text": " أبي الحجاج يوسف بن خليل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "27e10fc5-5753-4392-b697-a80deef88b3a",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 81,
+      "text": "عبد الملك بن عبد الرحمن بن عبد الأحد الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "638"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "48e4a022-04ce-49ac-9cb2-633469769b77",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "يوم الأربعاء التاسع من صفر سنة ثمان وثلثين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "6f4857a8-9ec8-4445-81f4-c5ab99a69158",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 50,
+      "text": "عبد الواحد بن أبي جرادة الحلبي",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه على أبي الحجاج يوسف بن خليل عن شيخيه بقراءة عبد الواحد بن أبي جرادة الحلبي عبد الملك بن عبد الرحمن بن عبد الأحد الحراني وآخرون يوم الأربعاء التاسع من صفر سنة ثمان وثلثين وستمية"
+}

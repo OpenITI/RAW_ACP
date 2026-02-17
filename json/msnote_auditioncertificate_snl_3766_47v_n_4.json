@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبد الملك بن محمد بن عبد الله بن بشران الزاهد البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن بشران"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 154"
+      ],
+      "classmark": [
+        "3766"
+      ],
+      "folio_number": [
+        "47v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "alexandria"
+          ]
+        ]
+      },
+      "endIndex": 273,
+      "guid": "030fc5a5-0942-4723-9b18-8ac245a80a63",
+      "startIndex": 264,
+      "text": "الإسكندرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "0cce4840-8b55-4c7a-92f4-31c54015974f",
+      "startIndex": 115,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "144fba22-d4a9-4a06-8f03-64c2dc336fa8",
+      "startIndex": 155,
+      "text": "عبد الباقي بن عبد العزيز بن عبد المنعم الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "18254170-afc6-4b6e-9b35-c1d45fb25915",
+      "startIndex": 128,
+      "text": "علي بن حسن بن داود الجزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "633"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "40cc3226-1445-4328-be92-a22c3c60a8c4",
+      "startIndex": 218,
+      "text": "السبت ثاني عشر صفر سنة ثلاث وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "4b841290-761e-4e2b-b18b-1924a5e087cb",
+      "startIndex": 280,
+      "text": "محمد بن عبد الله بن عبد الغني المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "6b13bab6-713f-46ba-bb6a-bcaa65cd4f77",
+      "startIndex": 45,
+      "text": "أبي الفضل جعفر بن أبي الحسن بن أبي البركات الهمداني ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء جميعه على الشيخ الإمام العالم أبي الفضل جعفر بن أبي الحسن بن أبي البركات الهمداني بسماعه على الحافظ السلفي فسمعه علي بن حسن بن داود الجزري وعبد الباقي بن عبد العزيز بن عبد المنعم الحراني وصح وثبت في يوم السبت ثاني عشر صفر سنة ثلاث وثلاثين وستمائة  بالإسكندرية كتبه محمد بن عبد الله بن عبد الغني المقدسي عفا الله عنه والحمد لله وحده وصلى الله على سيدنا محمد وآله وسلم تسليما كثيرا"
+}

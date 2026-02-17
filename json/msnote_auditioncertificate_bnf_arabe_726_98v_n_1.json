@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الغني بن عبد الواحد الجماعيلي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90044730"
+      ],
+      "work_title": [
+        "عمدة الاحكام"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 726"
+      ],
+      "folio_number": [
+        "98v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11004894t/f101.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11004894t/f101.image.r=%22Arabe%20726%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 464,
+      "guid": "0f69ee71-5feb-4133-8351-eec9a72c2cdd",
+      "startIndex": 395,
+      "text": "ناصر الدين محمد بن محيي الدين عبد العزيز بن إبراهيم ابن الحسن الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 310,
+      "guid": "0fa36e9a-0425-414a-9eb2-01fe53cc51ec",
+      "startIndex": 280,
+      "text": "سعد الدين مسعود بن جوران البدوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-fakhriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 577,
+      "guid": "58b81fab-b2d2-483a-aebe-f8933f703be9",
+      "startIndex": 544,
+      "text": "المدرسة الفخرية من القاهرة المعزية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "691"
+        ]
+      },
+      "endIndex": 541,
+      "guid": "717e9a38-b594-4abb-bfb9-69bbd454e94b",
+      "startIndex": 489,
+      "text": "عشية الخميس رابع جمادى الأولى سنة إحدى وتسعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 653,
+      "guid": "8a85d4ca-70ee-4883-86fc-8583fd5e74b5",
+      "startIndex": 608,
+      "text": "رافع بن أبي محمد هجرس بن محمد الصميدي السلامي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 392,
+      "guid": "8b5d8fdf-16e2-461f-a943-c634d29b1ffd",
+      "startIndex": 313,
+      "text": "كمال الدين أبو عبد الله أحمد بن القاضي الأجل محيي الدين عبد الرحيم بن شكر اللخمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "d64c7584-27a8-4d2e-8a72-b56826074ad7",
+      "startIndex": 193,
+      "text": "عبد الجليل البهنسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "e1ba1ead-9d30-4711-8c20-d1c616fa71d0",
+      "startIndex": 166,
+      "text": "ضياء الدين ابن أبي الحجاج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "ff582893-f751-4ca7-87e3-49f08e2ab1bc",
+      "startIndex": 83,
+      "text": "رضي الدين أبي بكر بن عمر بن علي القسنطيني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الكتاب أعني العمدة على الشيخ الإمام العلامة مفتي المسلمين بقية السلف رضي الدين أبي بكر بن عمر بن علي القسنطيني أبقاه الله وأخبرني أنه سمعها على الشيخين ضياء الدين ابن أبي الحجاج وعبد الجليل البهنسي كلاهما عن مصنفهما وأخبرته إجازة لما خالف إن خالف وسمع الفقهاء الجلة سعد الدين مسعود بن جوران البدوي وكمال الدين أبو عبد الله أحمد بن القاضي الأجل محيي الدين عبد الرحيم بن شكر اللخمي وناصر الدين محمد بن محيي الدين عبد العزيز بن إبراهيم ابن الحسن الأنصاري وصح ذلك في مجالس آخرها عشية الخميس رابع جمادى الأولى سنة إحدى وتسعين وستماية بالمدرسة الفخرية من القاهرة المعزية وأجاز لي ولهم ما يرويه وكتبه رافع بن أبي محمد هجرس بن محمد الصميدي السلامي حامدًا مصليًا على نبيه مسلمًا\nنقله كما شاهده محمد بن إلياس بن عثمان"
+}

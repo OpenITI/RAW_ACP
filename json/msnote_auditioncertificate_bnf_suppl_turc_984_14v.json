@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن هشام بن عروة "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث محمد بن هشام بن عروة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "14v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f16.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f16.item.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "2b15b60a-185b-40ae-9bb5-e29a1f61c5bf",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 58,
+      "text": " زين الدين أبي بكر الرحبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "742"
+        ]
+      },
+      "endIndex": 327,
+      "guid": "3bd571cf-8686-4c35-ada9-bc07619fffad",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 264,
+      "text": "يوم الأربعاء رابع عشر شهر ربيع الأول سنة اثنتين وأربعين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 365,
+      "guid": "51439672-4925-413f-a738-b3afb8327332",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 334,
+      "text": "أحمد بن يوسف بن سعد الله الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "5a5c787d-b028-4399-8a3b-ebf3c262b1e0",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 245,
+      "text": "بلال الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "5ac7601e-c2aa-45c1-bce6-073ddadc1623",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 118,
+      "text": "ضياء الدين المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "a5d3100a-6f45-4c09-9b7a-4c377c94f052",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 98,
+      "text": "ابن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-salihyia_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 419,
+      "guid": "b784bfdc-a4cf-409d-bf7e-3e0636d35203",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 393,
+      "text": "المدرسة الصالحية من القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "cb3eed00-b87e-4c84-a6ba-d0873b463b59",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "علاء الدين علي بن مكي المعروف بابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "e4d19773-e383-4e13-babf-773577930115",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 210,
+      "text": " شمس الدين أبو عبد الله محمد",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع الجزء الأول على الشيخ الإمام المحدث الصدر الكبير زين الدين أبي بكر الرحبي بسماعه فيه من ابن الخباز عن الشيخ ضياء الدين المقدسي فسمعه المولى الصدر الكبير علاء الدين علي بن مكي المعروف بابن النحاس وولده شمس الدين أبو عبد الله محمد وفتاه بلال الحبشي وصح في يوم الأربعاء رابع عشر شهر ربيع الأول سنة اثنتين وأربعين وسبعماية كتبه أحمد بن يوسف بن سعد الله الحراني عفا الله عنه وكان السماع بالمدرسة الصالحية من القاهرة حسبنا الله ونعم الوكيل وأجاز لنا الشيخ ما يرويه"
+}

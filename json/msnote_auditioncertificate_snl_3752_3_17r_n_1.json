@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن أبي الدنيا القرشي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب العقل وفضله"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 67 "
+      ],
+      "classmark": [
+        "3752/3"
+      ],
+      "folio_number": [
+        "17r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "0152e0ee-682d-42d4-ba72-bd932c2edccb",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 172,
+      "text": "محمد بن عمر بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "0add3b4e-9488-4a17-a244-00ed3840b9a5",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 196,
+      "text": "أحمد بن عمر بن محمد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "suq_al-thulatha'"
+          ]
+        ]
+      },
+      "endIndex": 652,
+      "guid": "1166573e-ef34-4446-ad14-65e931cb5766",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 636,
+      "text": "بغداد بسوق الثلثا",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "34543b0b-a6af-4407-985d-7f8c77790e01",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 262,
+      "text": "عبد الرحمن بن إبراهيم بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "38dda060-1164-4c0b-8292-63d794d0c136",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 225,
+      "text": "محمد بن إبراهيم بن سعد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 519,
+      "guid": "44dd3b3f-5b88-4445-9cfb-53e5a73347c0",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 473,
+      "text": "عبد الرحيم بن نفيس بن هبة الله بن وهبان الحديثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "6cdd5961-72c5-4527-882a-834633c956da",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 129,
+      "text": "أبو الفتح محمد بن عبد الغني بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 470,
+      "guid": "7a2c3e18-313a-45d3-9172-39466437a014",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 428,
+      "text": "أبو الفضل عبد العزيز بن مسعود بن سعد الناقد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "afc80557-cc15-47e4-bfc2-5f48bbd4c4d4",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 63,
+      "text": "ابن البنا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 379,
+      "guid": "b633347e-872b-4f8c-8ae9-6c3459f9f69c",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 333,
+      "text": "أبو حفص عمر بن أبي منصور بن أبي القاسم بن حواوا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "bb00f52e-caa1-44a2-8c90-109e6410ff5b",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 21,
+      "text": "أبي الحسن علي بن يحيى بن الطراح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "12"
+        ],
+        "year": [
+          "582"
+        ]
+      },
+      "endIndex": 625,
+      "guid": "bb4a6a52-8c86-47b8-ad2c-214e4e7bf495",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 585,
+      "text": " ذي الحجة من سنة اثنيتن وثمانين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "bee78207-5e8b-4267-8889-56269e7c34dc",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 303,
+      "text": "محمد بن يوسف بن همام الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 425,
+      "guid": "c7befb59-cc48-45c7-a849-7bffe41dd490",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 382,
+      "text": "أبو الرضا محمد بن مبشر بن أحمد بن علي الرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "cbefd6c5-fbf1-4220-9f00-a6c2aeba02d4",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 86,
+      "text": "أبي السعادات محمد بن المبارك بن محمد الجبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 576,
+      "guid": "d41dea35-a75d-44c5-8330-ecd2020d523a",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 522,
+      "text": "أبو بكر عبد الله بن المكرم بن هبة الله بن المكرم الصوفي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميعه على الشيخ أبي الحسن علي بن يحيى بن الطراح بسماعه من ابن البنا بقراءة الشيخ أبي السعادات محمد بن المبارك بن محمد الجبي أبو الفتح محمد بن عبد الغني بن عبد الواحد ومحمد بن عمر بن أبي بكر وأحمد بن عمر بن محمد بن أحمد ومحمد بن إبراهيم بن سعد وكاتب الأسماء عبد الرحمن بن إبراهيم بن أحمد المقدسيون ومحمد بن يوسف بن همام الدمشقي وأبو حفص عمر بن أبي منصور بن أبي القاسم بن حواوا وأبو الرضا محمد بن مبشر بن أحمد بن علي الرازي وأبو الفضل عبد العزيز بن مسعود بن سعد الناقد وعبد الرحيم بن نفيس بن هبة الله بن وهبان الحديثي وأبو بكر عبد الله بن المكرم بن هبة الله بن المكرم الصوفي وذلك في ذي الحجة من سنة اثنيتن وثمانين وخمس ماية وصح ذلك ببغداد بسوق الثلثا والحمد لله وصلى الله على سيدنا محمد وآله"
+}

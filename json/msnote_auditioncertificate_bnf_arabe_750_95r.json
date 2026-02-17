@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن عبد الله الظاهري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مشيخة ابن البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 750"
+      ],
+      "folio_number": [
+        "95r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f97.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f97.image.r=%22Arabe%20750%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "d2ef887e-e634-46e5-b21c-a1fed188d566",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 41,
+      "text": "محمود بن علي بن عبد العزيز بن محمد الهندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 33,
+      "guid": "ef625fca-d07a-43b1-930b-36362e43ed6a",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 18,
+      "text": "علي بن محمود على",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ مقابلة بقراءة علي بن محمود على والده محمود بن علي بن عبد العزيز بن محمد الهندي من فقراء صوفية الخانقاه الناصرية بسرياقوس كاتبها وأجزت له أن يروي عني جميع ما يجوز لي وعني روايته بشرطه عند أهله"
+}

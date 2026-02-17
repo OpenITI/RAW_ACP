@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96b"
+      ],
+      "folio_number": [
+        "145v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1769442294/1200/0/00000296.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00010967"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "0e6da0d5-5c1e-4220-a4e9-e29b825c697f",
+      "startIndex": 169,
+      "text": "ابن رفاعة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 482,
+      "guid": "17a9400b-0f08-48be-9c05-7111277b8a89",
+      "startIndex": 443,
+      "text": "عبد الرحمن بن مقرب بن عبد الكريم التجيبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 580,
+      "guid": "32e57457-0964-4602-acd5-e8356f06aa95",
+      "startIndex": 578,
+      "text": "مصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "4bd8d380-ed0a-41e7-85b3-b2a7548b1332",
+      "startIndex": 237,
+      "text": "أبو القاسم الفضل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 434,
+      "guid": "53e49bb3-f6da-43c0-bc31-70a13d7ea205",
+      "startIndex": 391,
+      "text": "أبو محمد عبد المنعم بن محمود بن عياش التونسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "7eb2e652-72f7-4486-b70d-266815fd49d1",
+      "startIndex": 68,
+      "text": "أبي محمد هبة الله بن القاضي أمين الدولة أبي الحسين يحيى بن علي بن حيدرة العدل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "b0963767-3d26-4ff4-9374-9d4db3711b36",
+      "startIndex": 255,
+      "text": "أبو الحسن مرتضى بن عبد الغني بن شريف بن غدير ابن رفاعة السعدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "d5e1b72e-3e91-4d5f-afbf-abbf8f7efb66",
+      "startIndex": 192,
+      "text": "أبو طالب محمد بن محمد بن الفضل العباسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "597"
+        ]
+      },
+      "endIndex": 575,
+      "guid": "e05e1187-d002-464e-ab99-caf895ee2c1e",
+      "startIndex": 521,
+      "text": "الثاني عشر من جمادى الآخرة منه سنة سبع وتسعين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "ec4618a3-3427-4c4d-904f-47c879b4b1ef",
+      "startIndex": 318,
+      "text": "أبو حفص عمر بن ناصر بن مقلد السنهوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 369,
+      "guid": "f508e2ee-c929-4b7e-b650-b24e1e994c36",
+      "startIndex": 356,
+      "text": "بدر [الأمتاد؟]",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على سيدنا القاضي الأجل الفقيه العالم صنيعة الملك أبي محمد هبة الله بن القاضي أمين الدولة أبي الحسين يحيى بن علي بن حيدرة العدل وفقه الله بحق سماعه من ابن رفاعة الشريف العدل أبو طالب محمد بن محمد بن الفضل العباسي وولده أبو القاسم الفضل وأبو الحسن مرتضى بن عبد الغني بن شريف بن غدير ابن رفاعة السعدي وأبو حفص عمر بن ناصر بن مقلد السنهوري وبدر [الأمتاد؟] مولى القاضي المسمع وأبو محمد عبد المنعم بن محمود بن عياش التونسي بقراءة عبد الرحمن بن مقرب بن عبد الكريم التجيبي وهذا خطه وذلك في ليلة يسفر صباحها عن الثاني عشر من جمادى الآخرة منه سنة سبع وتسعين وخمس مائة بمصر"
+}

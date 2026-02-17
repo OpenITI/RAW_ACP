@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "190v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "0a28ec3c-2716-430b-aa7d-8248234e4743",
+      "startIndex": 333,
+      "text": "أحمد الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "609"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "15a59e68-ddcc-4679-98da-fd40730da9bf",
+      "startIndex": 276,
+      "text": "الجمعة ثاني شهر رمضان سنة تسع وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "81c03db5-f0be-4c87-b332-1d2935c2bef6",
+      "startIndex": 45,
+      "text": "أبي القاسم عبد الصمد بن محمد الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "83a0fcd9-4146-4719-9dc0-2814fc015669",
+      "startIndex": 160,
+      "text": "أبو إسحق إبراهيم بن أبي المحاسن بن رسلان الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 382,
+      "guid": "8b932e0d-25bb-4184-9c39-674bd117fa94",
+      "startIndex": 358,
+      "text": "أحمد بن أيبك بن عبد الله ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "adacbbd8-321c-49b1-b508-f7e84affdfc9",
+      "startIndex": 122,
+      "text": " أبي محمد عبد العزيز بن عثمان الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "d3d53b57-6381-42f3-93d8-2fb2e5766ad3",
+      "startIndex": 98,
+      "text": "عبد الكريم السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "e8e5bfd2-f114-4c66-8b8d-5cfb96da4a7d",
+      "startIndex": 221,
+      "text": "عبد الجليل بن عبد الجبار الأبهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "fe6d2ceb-ac19-4d17-b4d9-e70f2661243c",
+      "startIndex": 215,
+      "text": "محمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو الخامس عشر على القاضي أبي القاسم عبد الصمد بن محمد الحرستاني بحق إجازته من عبد الكريم السلمي بقراءة أبي محمد عبد العزيز بن عثمان الإربلي أبو إسحق إبراهيم بن أبي المحاسن بن رسلان الشافعي وابنه محمد وعبد الجليل بن عبد الجبار الأبهري والخطه له وذلك في يوم الجمعة ثاني شهر رمضان سنة تسع وستماية نقله من خط الأبهري أحمد الظاهري ومن خطه نقل أحمد بن أيبك بن عبد الله "
+}

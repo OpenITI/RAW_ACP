@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن عبد العزيز المديني المصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي مطيع المصري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 156"
+      ],
+      "classmark": [
+        "3767"
+      ],
+      "folio_number": [
+        "41r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 574,
+      "guid": "0ba26de3-11f7-43d3-b474-7b82de7b8592",
+      "startIndex": 548,
+      "text": "عيسى بن بركة بن والي السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "3bdbc4da-3d11-468f-9e17-e74d262f2c35",
+      "startIndex": 48,
+      "text": "شمس الدين أبي محمد عبد الرحمن بن أحمد بن عبد الملك بن عثمان المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "611b256e-f592-4eb4-86d5-e4250b57f223",
+      "startIndex": 186,
+      "text": "علي بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 432,
+      "guid": "6a1bbc1a-8dda-4cce-a0eb-b42057c6450a",
+      "startIndex": 379,
+      "text": "محمد بن الشيخ تقي الدين إبراهيم بن علي بن أحمد الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "70fcea32-7c4e-44af-84bd-4d93d8495653",
+      "startIndex": 231,
+      "text": "صدر الدين إبراهيم بن أحمد بن عقبة الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "673"
+        ]
+      },
+      "endIndex": 497,
+      "guid": "761975f2-0bf5-4717-9a15-4d01ab328444",
+      "startIndex": 449,
+      "text": "الجمعة سابع شهر رمضان المظم سنة ثلث وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 513,
+      "guid": "8d0968c3-e044-45de-bed6-f6d21a7b96c1",
+      "startIndex": 500,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 376,
+      "guid": "9b00ef9a-2a64-43b0-ac4c-eb759b4bea7a",
+      "startIndex": 313,
+      "text": "أبو بكر أحمد بن الشيخ شمس الدين محمد بن عبد الرحيم بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 310,
+      "guid": "dca7eaae-0ac7-40c1-bf4f-53aae1191b8a",
+      "startIndex": 273,
+      "text": "علي بن عبد الله بن عبد الرحمن بن سلامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "e9ddd8c8-d46c-4d49-bd41-41e9043a9232",
+      "startIndex": 126,
+      "text": "أبي محمد عبد الله بن أحمد بن محمد بن قدامة",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء الثاني حسب على الشيخ الإمام العدل شمس الدين أبي محمد عبد الرحمن بن أحمد بن عبد الملك بن عثمان المقدسي بسماعه من أبي محمد عبد الله بن أحمد بن محمد بن قدامة بسنده فيه بقراءة علي بن مسعود بن نفيس الموصلي وهذا خطه القاضي صدر الدين إبراهيم بن أحمد بن عقبة الحنفي وعلي بن عبد الله بن عبد الرحمن بن سلامة وأبو بكر أحمد بن الشيخ شمس الدين محمد بن عبد الرحيم بن عبد الواحد ومحمد بن الشيخ تقي الدين إبراهيم بن علي بن أحمد الواسطي وصح ذلك في يوم الجمعة سابع شهر رمضان المظم سنة ثلث وسبعين وستمية بالجامع المظفري بسفح جبل قاسيون وسمع أيضا الفقيه عيسى بن بركة بن والي السلمي وأجاز المسمع جميع ما يجوز له روايته بشرطه والحمد لله وحده "
+}

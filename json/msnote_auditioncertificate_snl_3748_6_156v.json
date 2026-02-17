@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أيوب بن يحيى بن ضريس الرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث ابن ضريس وغيره"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 55 "
+      ],
+      "classmark": [
+        "3748/6"
+      ],
+      "folio_number": [
+        "156v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "0e9538c3-a85d-4b93-951f-78c21aeb1e63",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "أبي عبد الله المرسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 335,
+      "guid": "1d183e21-8b59-48bd-9c22-8792060a7663",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 332,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 323,
+      "guid": "1dd3fbdc-2dc3-423d-8f2a-f57eacc278be",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 320,
+      "text": "زاهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "209f6ca6-be9f-46c1-805c-06ab0e88a2e2",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 180,
+      "text": "أبي روح عبد المعز بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "731"
+        ]
+      },
+      "endIndex": 495,
+      "guid": "220e1cfa-d770-4696-9ae3-5f79247d71c6",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 445,
+      "text": "يوم الاثنين حادي عشر شعبان سنة إحدى وثلاثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 381,
+      "guid": "2873e78f-b342-46ac-b5eb-49d1dada81d1",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 379,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 296,
+      "guid": "2dc86e68-b53a-4562-9655-a0350448151a",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 262,
+      "text": "أبي الفضل أحمد بن هبة الله بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "53f2bea2-1638-41e3-b4e1-d11151ee452f",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 62,
+      "text": " أبي بكر بن محمد بن الرضي عبد الرحمن بن محمد بن عبد الجبار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "79247911-cc1b-4742-8e62-10162abe994c",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 362,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "84935e4d-5aaa-43db-a1bd-b16a2f0df65c",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": "أبي علي البكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "a9f74b89-3cac-4deb-93ba-404f4e753c74",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 217,
+      "text": "أبي محمد عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 507,
+      "guid": "e988e273-6c7a-460f-a5d5-ff821e73e5d4",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 498,
+      "text": "الضيا[ئية]",
+      "type": "place"
+    }
+  ],
+  "text": " سمع الثالث من حديث ابن الضريس وآخره وثلين منه [كذا] على الشيخ أبي بكر بن محمد بن الرضي عبد الرحمن بن محمد بن عبد الجبار بإجازته من أبي علي البكري وأبي عبد الله المرسي بسماعهما من أبي روح عبد المعز بن محمد وعلى والدي أبي محمد عبد الله بن أحمد بن المحب بسماعه من أبي الفضل أحمد بن هبة الله بن عساكر بإجازته من أبي روح عن زاهر بقراءة محمد بن المسمع الثاني وذا خطه محمد في الخامسة وعلي في الثالثة ابنا محمد بن علي بن داود بن بحتر الملقن وآخرو ن في يوم الاثنين حادي عشر شعبان سنة إحدى وثلاثين وسبعمية بالضيا[ئية]"
+}

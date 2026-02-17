@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/76600419"
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 709"
+      ],
+      "folio_number": [
+        "269r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f273.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f273.item.r=%22Arabe%20709%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "owner",
+          "writer"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "16cb63f9-93af-4649-81d4-0ef4826779f8",
+      "index": 135,
+      "isZeroPoint": false,
+      "startIndex": 94,
+      "text": "أبي الحسن علي بن أحمد بن محمد بن كوثر المحاربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "4b45528e-6f34-42be-9a46-5aa679f6b9e6",
+      "index": 137,
+      "isZeroPoint": false,
+      "startIndex": 231,
+      "text": "أبو إسحق إبراهيم بن محمد الوادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "2"
+        ],
+        "year": [
+          "577"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "6799c094-9ae9-42b3-8a0d-b28446e5cd22",
+      "index": 140,
+      "isZeroPoint": false,
+      "startIndex": 338,
+      "text": "في صفر سنة سبع وسبعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "7dce6505-efa1-4d88-a349-e566e362c0f8",
+      "index": 136,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "محمد بن إبراهيم بن سعيد الرعيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 450,
+      "guid": "bc6bd245-9830-4724-a50f-2e3efe86e7c7",
+      "index": 141,
+      "isZeroPoint": false,
+      "startIndex": 376,
+      "text": "علي بن أحمد بن محمد بن كوثر المحاربي ما ذكر فوق هذا من القراءة والسماع صحيح",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "ff1a0ffd-46de-47e1-863b-07a8c658e0b9",
+      "index": 138,
+      "isZeroPoint": false,
+      "startIndex": 277,
+      "text": "أبو عبد الله محمد بن عبد الله التوقاتي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ جميع هذا المصنف مصنف أبي عيسى الترمذي على صاحبه الفقيه المقرئ الحافظ المحدث الراوية الحاج أبي الحسن علي بن أحمد بن محمد بن كوثر المحاربي رضي الله عنه وآتاه رحمة من لدنه محمد بن إبراهيم بن سعيد الرعيني وسمع بقراءته الشيخ الفقيه أبو إسحق إبراهيم بن محمد الوادي والشيخ الفقيه أبو عبد الله محمد بن عبد الله التوقاتي وكانت القراءة والسماع في صفر سنة سبع وسبعين وخمس ماية\n[...] علي بن أحمد بن محمد بن كوثر المحاربي ما ذكر فوق هذا من القراءة والسماع صحيح وقد أجزت لهم أن يحدثوا عني هذا الكتاب المذكور [... ...] وكتب في تاريخ القراءة والسماع المذكور بخط يده حامدًا الله تعالى ومصليًا على نبيه [...]"
+}

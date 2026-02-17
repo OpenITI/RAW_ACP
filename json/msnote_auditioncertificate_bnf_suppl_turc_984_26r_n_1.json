@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "26r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f27.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f27.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "hijaz",
+            "mecca",
+            "manzilat_sab'"
+          ]
+        ]
+      },
+      "endIndex": 514,
+      "guid": "0205285d-980a-415c-955f-a37c87044c79",
+      "index": 366,
+      "isZeroPoint": false,
+      "startIndex": 495,
+      "text": "منزلة السبع بدرب مكة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "0e792e36-aae7-49fd-9e43-50bc58fe0cf2",
+      "index": 363,
+      "isZeroPoint": false,
+      "startIndex": 293,
+      "text": "فاطمة خاتون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "730"
+        ]
+      },
+      "endIndex": 573,
+      "guid": "16db227c-724f-4d59-afc5-e75a685ec424",
+      "index": 367,
+      "isZeroPoint": false,
+      "startIndex": 531,
+      "text": "الجمعة ثاني شهر ذي الحجة سنة ثلاثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 338,
+      "guid": "86169741-851f-4284-9824-fd57bd289f2e",
+      "index": 364,
+      "isZeroPoint": false,
+      "startIndex": 329,
+      "text": "زهرة خاتون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "8ceaf920-7ce0-4dae-ac23-8b6caef296db",
+      "index": 361,
+      "isZeroPoint": false,
+      "startIndex": 154,
+      "text": "نجم الدين أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 745,
+      "guid": "92772477-9474-4aa3-9128-0c83b6049b8f",
+      "index": 370,
+      "isZeroPoint": false,
+      "startIndex": 712,
+      "text": "صحيح ذلك وكتب علي بن محمد بن سلمان",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 479,
+      "guid": "9c4d888f-f356-4c23-9944-ac615a9a7c17",
+      "index": 365,
+      "isZeroPoint": false,
+      "startIndex": 451,
+      "text": "علي بن عيسى الدلال بسوق الخيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "9d45769d-046f-45ec-98cf-fb23a8b93ee9",
+      "index": 360,
+      "isZeroPoint": false,
+      "startIndex": 75,
+      "text": "فخر الدين عثمان بن أخي المسمع تقي الدين غانم بن شمس الدين محمد عُرف بابن غانم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 697,
+      "guid": "d60a54f9-6cb0-4567-91bb-9a6ab6e42f43",
+      "index": 369,
+      "isZeroPoint": false,
+      "startIndex": 644,
+      "text": "عبد الله بن علي بن محمد عُرف بابن غانم الشافعي الجعفري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "d984f401-1dff-4db7-90aa-cf5383727ade",
+      "index": 362,
+      "isZeroPoint": false,
+      "startIndex": 181,
+      "text": "عماد الدين إبراهيم بن سيف الدين أبي بكر بن الملك المعز فخر الدين يعقوب بن السلطان الملك العادل",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت على والدي أبقاه الله تعالى هذه الأحاديث الخمسة بسنده المبين فيه فسمعه فخر الدين عثمان بن أخي المسمع تقي الدين غانم بن شمس الدين محمد عُرف بابن غانم ونجم الدين أحمد ولد المسمع وعماد الدين إبراهيم بن سيف الدين أبي بكر بن الملك المعز فخر الدين يعقوب بن السلطان الملك العادل وحضرت ابنتا بنته فاطمة خاتون وعمرها سنتان إلا قليلا وزهرة خاتون وعمرها سنة إلا قليلا وهما بنات فخر الدين يعقوب بن علاء الدين علي بن سيف الدين أبي بكر المذكور أعلاه وسمع أيضًا علي بن عيسى الدلال بسوق الخيل وصح ذلك وثبت بمنزلة السبع بدرب مكة شرفها الله يوم الجمعة ثاني شهر ذي الحجة سنة ثلاثين وسبعمية وأجاز المسمع أبقاه الله للجماعة أن يرووا عنه ذلك بشرطه عند أهله وكتب عبد الله بن علي بن محمد عُرف بابن غانم الشافعي الجعفري غفر الله لهم\nصحيح ذلك وكتب علي بن محمد بن سلمان عفا الله تعالى عنهم"
+}

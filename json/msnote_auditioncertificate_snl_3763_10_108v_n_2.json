@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "108v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "686"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "16beff5b-cb63-4b42-b136-c8596ab847d2",
+      "startIndex": 143,
+      "text": "الثلثا الرابع والعشرين من شوال سنة ست وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "21d4da87-7962-41ce-910b-c9c5cc382f95",
+      "startIndex": 63,
+      "text": "ابن البن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "2aa045f6-a918-4424-a8dc-3313064addc6",
+      "startIndex": 84,
+      "text": "محمد بن أيوب بن إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "42f56acc-2f0f-41c4-ae9f-1157c2e13747",
+      "startIndex": 200,
+      "text": " يوسف بن الزكي عبد الرحمن المزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "6b6461d1-b46d-43c8-97df-add5ab3e5e4b",
+      "startIndex": 109,
+      "text": "أحمد بن هلال بن بدوي الزرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "7d619b61-1aa3-422c-bf70-873472113bb6",
+      "startIndex": 10,
+      "text": "أبي إسحق إبراهيم بن عثمان بن يحيى اللمتوني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته على أبي إسحق إبراهيم بن عثمان بن يحيى اللمتوني بسماعه من ابن البن عن جده وسمع محمد بن أيوب بن إسماعيل وأحمد بن هلال بن بدوي الزرعيان يوم الثلثا الرابع والعشرين من شوال سنة ست وثمانين وستمية وكتب يوسف بن الزكي عبد الرحمن المزي "
+}

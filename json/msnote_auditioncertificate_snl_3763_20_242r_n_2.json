@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يحيى بن إبراهيم بن أحمد بن محمد السلماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر السلماسي عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 134"
+      ],
+      "classmark": [
+        "3763/20"
+      ],
+      "folio_number": [
+        "242r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "3a67b90e-f45a-43c0-9d1f-2d76f18a7a93",
+      "startIndex": 78,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "79e318a3-2f1b-47d7-8162-e6b62f5eb4e3",
+      "startIndex": 22,
+      "text": "أبي بكر بن محمد بن طرخان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "7cf79441-686c-4433-92f9-cdda080ffe40",
+      "startIndex": 178,
+      "text": "يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "728"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "91ff6215-e3d1-44af-bac3-70f2c40272ce",
+      "startIndex": 102,
+      "text": "الأحد الخامس والعشرين من رجب سنة ثمان وعشرين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 171,
+      "guid": "caa2d9cd-d47a-40c4-8fbd-2dc7dfe8be8b",
+      "startIndex": 156,
+      "text": "منزلنا بالأشرفية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "ce44bf19-f999-4dc7-b5c6-a7eb0935553a",
+      "startIndex": 50,
+      "text": "ابن المنجا ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "d544b13d-caae-49c3-965f-fdfa4e24c3a8",
+      "startIndex": 64,
+      "text": "السلماسي ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء عليّ عن أبي بكر بن محمد بن طرخان عن ابن المنجا عن السلماسي ابني عبد الرحمن بقراءته ليلة الأحد الخامس والعشرين من رجب سنة ثمان وعشرين وسبعمية بمنزلنا بالأشرفية وكتب يوسف بن الزكي عبد الرحمن المزي"
+}

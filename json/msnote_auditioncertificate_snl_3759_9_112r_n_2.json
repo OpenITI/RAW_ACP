@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "سريج بن يونس بن إبراهيم بن شعيب البلخي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب القضاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/9"
+      ],
+      "folio_number": [
+        "112r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "salihiya_quarter"
+          ]
+        ]
+      },
+      "endIndex": 271,
+      "guid": "15cbcf08-2ef2-4c0c-a7b7-f74b57af4912",
+      "startIndex": 254,
+      "text": "منزل الشيخ بالجبل ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "16110c65-5cb8-4aff-9e41-6118bf825aa8",
+      "startIndex": 39,
+      "text": "القاسم بن محمد بن يوسف بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "688"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "5c4a32c8-21d0-4f33-bd17-43cce656620e",
+      "startIndex": 201,
+      "text": " السبت الثاني من ربيع الأول سنة ثمان وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "5ce3a12e-b742-4a58-9236-7e13081d1281",
+      "startIndex": 124,
+      "text": "شمس الدين محمد بن أحمد بن محمد بن صالح العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "a9acad23-535f-4701-a8b3-6833b9b315e2",
+      "startIndex": 176,
+      "text": "علي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "b0084f9d-d452-4348-89a7-1937c01f6a56",
+      "startIndex": 74,
+      "text": "شمس الدين محمد بن أحمد بن علي بن عبد الغني الرقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "f6256d10-01e5-4287-be32-881fa387d87a",
+      "startIndex": 186,
+      "text": " فرج",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة كاتب السماع في الأصل القاسم بن محمد بن يوسف بن البرزالي شمس الدين محمد بن أحمد بن علي بن عبد الغني الرقي وشمس الدين محمد بن أحمد بن محمد بن صالح العرضي وأخوه علي وفتاهم فرج وآخرون يوم السبت الثاني من ربيع الأول سنة ثمان وثمانين وستمية بمنزل الشيخ بالجبل "
+}

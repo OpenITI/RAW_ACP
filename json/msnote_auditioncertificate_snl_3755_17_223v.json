@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يزداد بن عبد الرحمن بن محمد بن يزداد "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي سعيد الأشج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 87"
+      ],
+      "classmark": [
+        "3755/17"
+      ],
+      "folio_number": [
+        "223v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "14c8091f-e7b1-41d3-870d-ff4ac78a234e",
+      "index": 347,
+      "isZeroPoint": false,
+      "startIndex": 33,
+      "text": "أبي بكر محمد بن طرخان بن بلتكين بن بجكم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 405,
+      "guid": "32aead88-39dd-40dc-8bcb-3f94fda9285f",
+      "index": 351,
+      "isZeroPoint": false,
+      "startIndex": 332,
+      "text": "أبي بكر عبد الله بن عتيق بن محمد بن سعدون بن مرجى بن سعدون بن مرجى العبدري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 80,
+      "guid": "350be566-2704-4fc3-9c7d-ea780ddca376",
+      "index": 348,
+      "isZeroPoint": false,
+      "startIndex": 76,
+      "text": "منزله",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "74fcbc76-23a1-4acf-848f-fb67bee8e3d1",
+      "index": 349,
+      "isZeroPoint": false,
+      "startIndex": 212,
+      "text": "أبي القاسم عبد الله بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 495,
+      "guid": "95a76f79-af2d-4198-a80f-09c28dbfe79d",
+      "index": 354,
+      "isZeroPoint": false,
+      "startIndex": 492,
+      "text": "حماد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 405,
+      "guid": "a6ff3ea2-876c-4584-b91e-d821d2373bbc",
+      "index": 352,
+      "isZeroPoint": false,
+      "startIndex": 352,
+      "text": "عتيق بن محمد بن سعدون بن مرجى بن سعدون بن مرجى العبدري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "df83dd05-2631-4f53-96ab-d309ce641a59",
+      "index": 350,
+      "isZeroPoint": false,
+      "startIndex": 241,
+      "text": "الحسن بن محمد بن أحمد الخلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "501"
+        ]
+      },
+      "endIndex": 472,
+      "guid": "f4bcf89d-81db-46d9-82f7-1ec85e0d4fc3",
+      "index": 353,
+      "isZeroPoint": false,
+      "startIndex": 427,
+      "text": "يوم الثلثا ثاني جمادى الآخرة سنة إحدى وخمسماية",
+      "type": "date"
+    }
+  ],
+  "text": " سمعت جميع هذا الجزء بقراءتي على أبي بكر محمد بن طرخان بن بلتكين بن بجكم في منزله من نسخة أبي غالب الماوردي بخط ابن النعال وفيها سماعه بخط ابن الخاضبة وسماع أبي القاسم السمرقندي بقراءته وسماع الماوردي ثلاثتهم من أبي القاسم عبد الله بن محمد والحسن بن محمد بن أحمد الخلال في آخر يوم من ذي القعدة سنة تسع وستين وأربعماية وسمع ذلك ابني أبي بكر عبد الله بن عتيق بن محمد بن سعدون بن مرجى بن سعدون بن مرجى العبدري جبره [الله] وذلك في يوم الثلثا ثاني جمادى الآخرة سنة إحدى وخمسماية نقلته من خط الشيخ حماد ونقله من الأصل فيما ذكر "
+}

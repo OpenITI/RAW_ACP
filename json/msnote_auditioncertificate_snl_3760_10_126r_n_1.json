@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/10"
+      ],
+      "folio_number": [
+        "126r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "540"
+        ]
+      },
+      "endIndex": 355,
+      "guid": "262b165a-86a2-4dc7-9c91-c16252276a7f",
+      "startIndex": 326,
+      "text": "ربيع الأول سنة أربعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 296,
+      "guid": "2d038c09-296e-4c4b-a0a8-f2d8ab4134c1",
+      "startIndex": 264,
+      "text": "عبد الجبار بن هبة الله بن البندار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "3c7fa180-3332-4ce0-aa72-66781a519429",
+      "startIndex": 186,
+      "text": "أبي محمد بن الخشاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "58c7b87b-d767-4df8-8974-7a7324f552dc",
+      "startIndex": 170,
+      "text": "المحاملي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 385,
+      "guid": "730d8337-3b9f-4a82-b58b-c01a3b190aa3",
+      "startIndex": 369,
+      "text": "عبد الغني بن مشرف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "832adf99-9759-48df-b31c-1697e35011a9",
+      "startIndex": 158,
+      "text": "ابن يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "a741064e-9c85-495a-8f18-6eb5ced6b204",
+      "startIndex": 215,
+      "text": " أبو منصور عبد الملك بن المبارك بن الحسن القاضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "af73b5f8-74c3-42cf-9926-5efeb3188462",
+      "startIndex": 122,
+      "text": " أبي الغنائم بن أبي عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "baf4a86b-410b-4347-9a3d-111abfa4ea59",
+      "startIndex": 61,
+      "text": "أبي بكر أحمد بن علي بن عبد الواحد ابن الأشقر الدلال",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء الخامس من حديث المحاملي رواية ابن يحيى عنه على أبي بكر أحمد بن علي بن عبد الواحد ابن الأشقر الدلال بسماعه من أبي الغنائم بن أبي عثمان بسماعه من ابن يحيى عن المحاملي بقراءة أبي محمد بن الخشاب جماعة منهم أبو منصور عبد الملك بن المبارك بن الحسن القاضي وعبد الجبار بن هبة الله بن البندار وكتب السماع ومن خطه نقلت في ربيع الأول سنة أربعين وخمسماية نقلته من خط عبد الغني بن مشرف وذكر أنه نقله من خط ابن البندار المذكور"
+}

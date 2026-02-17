@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "65v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f68.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f68.item.r=%22arabe%20708%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami",
+          "writer"
+        ]
+      },
+      "endIndex": 606,
+      "guid": "1738c2a9-819d-4598-842f-80c2d3867388",
+      "index": 75,
+      "isZeroPoint": false,
+      "startIndex": 554,
+      "text": "الحسن بن علي بن عيسى بن الحسن اللخمي عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "1b254e7f-b46b-4c1e-ad92-7ed9a99083ed",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 145,
+      "text": "زكي الدين أبي محمد عبد العظيم ابن عبد القوي بن عبد الله المنذري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 494,
+      "guid": "51ab1cbe-f28c-4187-8506-e5f5148b5bc5",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 449,
+      "text": " الثالث من جمادى الأولى سنة خمس وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "59a7514c-52ca-490d-b510-54238a544204",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 324,
+      "text": "بيليك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 247,
+      "guid": "6e55ebd4-cdf7-4482-b685-216990e221b6",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 239,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "b1957290-db04-4dfe-a886-b2260e51b4c8",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 282,
+      "text": "سابق الدين أزدمر بن عبد الله المعزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "dar_al-hadith_al-kamiliya"
+          ]
+        ]
+      },
+      "endIndex": 515,
+      "guid": "bbd67e73-adc1-4323-b214-b6748a736618",
+      "index": 74,
+      "isZeroPoint": false,
+      "startIndex": 497,
+      "text": "دار الحديث الكاملية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 707,
+      "guid": "c3dfdd61-a27f-43e5-ac5c-0a19a79b8970",
+      "index": 76,
+      "isZeroPoint": false,
+      "startIndex": 625,
+      "text": "صحيح ذلك كتبه عبد العظيم بن عبد القوي بن عبد الله المنذري غفر الله تعالى له ولطف به",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 386,
+      "guid": "cf9b8875-859b-47e8-9b6b-05a06882d178",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 331,
+      "text": "شرف الدين أبو عمرو عثمان ابن أبي الفتح بن إسماعيل الخويي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 415,
+      "guid": "dc10a349-cc76-4c9b-a068-17f7bd7843c1",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 389,
+      "text": "حسن بن غازي بن مرهف السمسار",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء الخامس من السنن لأبي داود على سيدنا وشيخنا الفقيه الإمام العالم الناقد الحافظ العلامة الحافظ الحبر القدوة جامع أشتات الفضائل زكي الدين أبي محمد عبد العظيم ابن عبد القوي بن عبد الله المنذري أثابه الله الجنة بسماعه له من ابن طبرزد فسمع السادة الأجلاء الأمير الأجل سابق الدين أزدمر بن عبد الله المعزي وفتاه بيليك وشرف الدين أبو عمرو عثمان ابن أبي الفتح بن إسماعيل الخويي وحسن بن غازي بن مرهف السمسار وصح ذلك وثبت في مجلسين آخرهما في الثالث من جمادى الأولى سنة خمس وخمسين وستمائة بدار الحديث الكاملية عمرها الله تعالى بذكره كتبه عبد الله الحسن بن علي بن عيسى بن الحسن اللخمي عرف بابن الصيرفي والحمد لله وحده.\nصحيح ذلك كتبه عبد العظيم بن عبد القوي بن عبد الله المنذري غفر الله تعالى له ولطف به."
+}

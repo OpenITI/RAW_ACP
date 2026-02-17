@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن عبد الله الظاهري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مشيخة ابن البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 750"
+      ],
+      "folio_number": [
+        "44r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f46.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f46.image.r=%22Arabe%20750%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "44c7e8ba-040e-4c41-a8eb-8bee7251e027",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 49,
+      "text": " محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "71bb044c-214e-4d48-ac5d-9e4f8915077a",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 25,
+      "text": "علي بن محمد بن على",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 159,
+      "guid": "d0725290-29b2-44c1-8327-47e311346eb9",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 141,
+      "text": "محمود بن علي الهندي",
+      "type": "signature_of_musmi"
+    }
+  ],
+  "text": "بلغ قراءة ومقابلة بقراءة علي بن محمد بن على والده محمود كاتبها وأجزت له أن يروي عني جميع ما يجوز لي وعني روايته بشرطه عند أهله قال ذلك وكتبه محمود بن علي الهندي"
+}

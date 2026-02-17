@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد حرب بن اسماعيل بن خلف الكرماني الحنبلي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/78553892"
+      ],
+      "work_title": [
+        "أحاديث أبي محمد حرب بن إسماعيل الكرماني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "52r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f55.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "394f5e95-3c44-4ab9-8786-3af459398b56",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 84,
+      "text": "أبي عمرو بن منده",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "51dc0012-ab5b-4690-ac8b-4f37abba1adc",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 108,
+      "text": "معمر بن الفاخر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "year": [
+          "540"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "5b3d426d-a589-402b-b4de-6abab6c58372",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 169,
+      "text": "سنة أربعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "5f6f7f4b-b892-4406-b20a-2579fef7c614",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 130,
+      "text": "أبو الفتوح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "e6cfda4f-872f-41a0-a0f4-37a36666c6fe",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "e9619e7d-a306-40db-826e-a4ca2e249f01",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 142,
+      "text": "يحيى ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "f2253866-95be-473b-805b-bbc327dd4486",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 36,
+      "text": "محمد بن أبي القاسم بن محمد الصالحاني",
+      "type": "person"
+    }
+  ],
+  "text": "سمع أحاديث حرب بن إسماعيل على الشيخ محمد بن أبي القاسم بن محمد الصالحاني بروايته عن أبي عمرو بن منده بقراءة معمر بن الفاخر أولاده أبو الفتوح ويحيى ويوسف حضر والجماعة في سنة أربعين وخمسماية"
+}

@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عشرة أحاديث عن عشرة مشايخ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 59"
+      ],
+      "classmark": [
+        "3749/7"
+      ],
+      "folio_number": [
+        "196v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "3e67a3e7-031c-45c2-b18a-4bcae4fe0da9",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 16,
+      "text": "عز الدين خليل بن محمود بن عبد الله عتيق ابن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "640e1407-709c-42a3-aaa6-79ca358a7197",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 237,
+      "text": "ابن خليل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 214,
+      "guid": "c243975a-d699-41eb-9d4f-efff40343ab2",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 177,
+      "text": "العز إبراهيم بن صالح بن هاشم بن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "eebb761d-95c8-4bca-8101-81ca88a05711",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 259,
+      "text": "برهان الدين الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "794"
+        ]
+      },
+      "endIndex": 355,
+      "guid": "f82c7eb6-7a05-4435-84ec-5d89bf323635",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 311,
+      "text": "يوم السبت عشرين رمضان سنة أربع وتسعين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "al-zujajiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 378,
+      "guid": "f9337bdb-c1bf-4940-b01a-eb02baf8a98e",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 358,
+      "text": "حلب بالمدرسة الزجاجية",
+      "type": "place"
+    }
+  ],
+  "text": " وسمع على الشيخ عز الدين خليل بن محمود بن عبد الله عتيق ابن العجمي ترجمتين ترجمة ابن قادشاه والتي بعدها وهي ترجمة الكراني بسماعه للترجمة الأولى ومن ترجمة ابن قادشاه إلى آخره من العز إبراهيم بن صالح بن هاشم بن العجمي بسماعه من ابن [مكرر] ابن خليل شيخنا الحافظ برهان الدين الحلبي وجمع معه ومن خطه لخصت وصح ذلك في يوم السبت عشرين رمضان سنة أربع وتسعين وسبعمية بحلب بالمدرسة الزجاجية وأجاز"
+}

@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مجهول المؤلف"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه فضل رجب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 65 "
+      ],
+      "classmark": [
+        "3750/11"
+      ],
+      "folio_number": [
+        "152r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "0f101f0e-21f3-4eae-988d-96417af94f62",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 80,
+      "text": "ابن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "870"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "44a7a7a6-850a-48ba-b736-a754ebf175fc",
+      "index": 106,
+      "isZeroPoint": false,
+      "startIndex": 192,
+      "text": "يوم الخميس ثامن عشرين شهر الله المحرم سنة سبعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "4df4899c-1ee5-44a7-8d27-3996e412c1d3",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 166,
+      "text": "ابن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "53740fbb-c8c0-4721-a3e8-f63db83ec366",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 128,
+      "text": "المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "7763e28d-860f-4d14-afe0-fa4864424cbc",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 95,
+      "text": "علي بن أحمد المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "85a5d3bc-5998-4ed5-ba05-dffd0c515ec3",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "فاطمة بنت الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "c8669798-7de6-4f81-a5f3-8df0dc8162b3",
+      "index": 107,
+      "isZeroPoint": false,
+      "startIndex": 263,
+      "text": "يوسف بن حسن بن عبد الهادي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "e5b6ce94-a7ad-43a2-9324-0056720123cb",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 135,
+      "text": "عبد الله بن المحب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "f8b9ea6e-f18e-466b-8363-a96b9ef396c1",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "ابن البالسي ",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخة الأصيلة فاطمة بنت الحرستاني بإجازتها من ابن البالسي وابن الحرستاني وعلي بن أحمد المرداوي بإجازتهم من المزي وعبد الله بن المحب بإجازتهما من ابن الأنماطي وصح ذلك وثبت يوم الخميس ثامن عشرين شهر الله المحرم سنة سبعين وثمان ماية وأجازت وكتب يوسف بن حسن بن عبد الهادي وأخبرنا به جدي عن الصلاح بن أبي عمر عن الفخر بن البخاري عن الكندي"
+}

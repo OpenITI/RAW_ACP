@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عشرة أحاديث عن عشرة مشايخ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 59 "
+      ],
+      "classmark": [
+        "3749/7"
+      ],
+      "folio_number": [
+        "197r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 229,
+      "guid": "1bdf01ee-1627-4af4-88ae-69245fb999dc",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 227,
+      "text": "حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "3bf0185d-5b21-4367-8048-3a2c36223b01",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 187,
+      "text": "علي بن عيسى ابن عمر المعري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "year": [
+          "776"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "5392c37f-49f3-4a69-9213-724407b7b9c0",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 222,
+      "text": "776",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "7321b608-e980-48c6-b047-66954d55e97b",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 145,
+      "text": "العز إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "a862459e-13e2-4fd7-b929-6411c1510994",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 78,
+      "text": "عماد الدين إسماعيل بن عيسى ابن عمر الباريني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "c965da1b-f9c7-41bf-b20b-563f394d2888",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "ابن ظهيرة ",
+      "type": "person"
+    }
+  ],
+  "text": " وسمع من أوله إلى آخر ترجمة أبي المكارم أحمد بن محمد اللبان وهو خمس تراجم على عماد الدين إسماعيل بن عيسى ابن عمر الباريني بسماعه له فيه نقلا على العز إبراهيم بسنده بقراءة ابن ظهيرة الشيخ علي بن عيسى ابن عمر المعري وصح سنة 776 بحلب"
+}

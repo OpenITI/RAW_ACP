@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن بن شاذان السكري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي الحسن السكري وأماليه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/19"
+      ],
+      "folio_number": [
+        "236v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "36eef317-dfa0-4524-9621-0f103d58b1c6",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 78,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 392,
+      "guid": "626a9cfb-e546-4812-b56f-329e63a8dce8",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 369,
+      "text": "سفح جبل قاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 248,
+      "guid": "b45f8d8a-d1db-481d-901b-d548b97ae0bc",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 208,
+      "text": "عماد الدين حسن بن إبراهيم بن أحمد بن سونج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "b9788e89-69ba-49ec-bd3f-3843fb12e0b6",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 251,
+      "text": "محمد بن أحمد بن محمد بن علي بن عبد الله بن تميم  الحجاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 531,
+      "guid": "d51ece99-344e-46d3-ad6e-99727a6301b0",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 451,
+      "text": " يوسف بن الزكي عبد الرحمن بن يوسف بن عبد الملك بن يوسف بن علي بن أبي الزهر المزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "f982178c-6808-4e78-9567-34ab4971b562",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "ابن طبرزد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "42"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "ff3bfb28-c08b-4ff5-b0bc-ffc00f6c17d0",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 312,
+      "text": "يوم السبت رابع عشرين جمادى الأولى سنة تسع وسبعين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": " قرأته أجمع على الشيخ الإمام العالم العامل بقية المشايخ مسند الشام رحلة الوقت فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد بن أحمد المقدسي بسماعه في بيته من ابن طبرزد وإجازة جميع مروياته فسمعه الفقيه الفاضل عماد الدين حسن بن إبراهيم بن أحمد بن سونج ومحمد بن أحمد بن محمد بن علي بن عبد الله بن تميم  الحجاوي وصح يوم السبت رابع عشرين جمادى الأولى سنة تسع وسبعين وستمية بسفح جبل قاسيون ظاهر دمشق المحروسة وأجاز لنا الشيخ وكتب العبد الفقير إلى الله تعالى يوسف بن الزكي عبد الرحمن بن يوسف بن عبد الملك بن يوسف بن علي بن أبي الزهر المزي عفا الله عنه حامدا لله تعالى مصليا على نبيه وآله وصحبه ومسلما"
+}

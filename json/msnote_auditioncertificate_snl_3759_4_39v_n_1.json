@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يحيى بن منصور الشافعي النيسابوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعين المخرجة من مسموعات النيسابوري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/4"
+      ],
+      "folio_number": [
+        "39v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "17fded96-025e-4bcd-ba93-ce2e7903162c",
+      "startIndex": 24,
+      "text": "أبي عبد الله محمد بن أبي بكر بن أحمد بن خلف ابن النور البلخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "5a430834-45ad-44ae-a343-a0273be66486",
+      "startIndex": 185,
+      "text": " أبي سعد محمد بن يحيى بن منصور النيسابوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 284,
+      "guid": "5e155bb6-b7ea-4052-9c4d-3c4619d391d9",
+      "startIndex": 243,
+      "text": "محب الدين عبد الله بن أحمد بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "66710329-7ba5-45a0-b2a6-3cf684e1bb1e",
+      "startIndex": 291,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 345,
+      "guid": "6bb1b8c8-a527-4407-b5e7-853e3707ce22",
+      "startIndex": 308,
+      "text": "محمد بن أحمد بن أبي الهيجاء ابن الزراد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "a6da844e-e0cc-4a5a-af37-67801acbfce5",
+      "startIndex": 108,
+      "text": "شهاب الدين أبي الفضل منصور بن علي بن إسماعيل المخزومي الطبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 400,
+      "guid": "b92d429d-046e-4df2-8af1-99b85709df8d",
+      "startIndex": 369,
+      "text": "عبد الحافظ بن عبد المنعم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "652"
+        ]
+      },
+      "endIndex": 462,
+      "guid": "cdc01990-d618-44aa-85ba-6fcfaa42c42b",
+      "startIndex": 408,
+      "text": " يوم السبت الثاني عشر من شعبان سنة اثنتين وخمسين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ أبي عبد الله محمد بن أبي بكر بن أحمد بن خلف ابن النور البلخي بسماعه من الشيخ الإمام شهاب الدين أبي الفضل منصور بن علي بن إسماعيل المخزومي الطبري بسماعه من الإمام أبي سعد محمد بن يحيى بن منصور النيسابوري عن شيوخه بقراءة محب الدين عبد الله بن أحمد بن محمد المقدسي ابنه محمد في الثالثة ومحمد بن أحمد بن أبي الهيجاء ابن الزراد وكاتب السماع في الأصل عبد الحافظ بن عبد المنعم المقدسي وآخرون يوم السبت الثاني عشر من شعبان سنة اثنتين وخمسين وستمية"
+}

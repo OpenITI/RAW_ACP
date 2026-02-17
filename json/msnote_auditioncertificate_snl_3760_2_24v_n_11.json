@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج2"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 11"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/2"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "month": [
+          "11"
+        ],
+        "year": [
+          "614"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "02ea10b1-1c3d-4913-8f32-6964d9bfdeb0",
+      "startIndex": 67,
+      "text": "ذي القعدة سنة أربع عشرة وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "2cded6e0-499c-4751-af27-918da47ff0ec",
+      "startIndex": 31,
+      "text": "إبراهيم بن محمد بن الشعر الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "98b6055f-c819-44ac-838d-c0741df91fdc",
+      "startIndex": 117,
+      "text": "عمر بن أحمد بن أحمد بن النشائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "copyist"
+        ]
+      },
+      "endIndex": 29,
+      "guid": "de89a431-0091-41c5-93b9-ce6c560671c0",
+      "startIndex": 15,
+      "text": " أحمد البندنيجي",
+      "type": "person"
+    }
+  ],
+  "text": "وقرأه على العدل أحمد البندنيجي إبراهيم بن محمد بن الشعر الواسطي في ذي القعدة سنة أربع عشرة وستمية نقلت ذلك كله من خط عمر بن أحمد بن أحمد بن النشائي [في الأصل الإنشائي]"
+}

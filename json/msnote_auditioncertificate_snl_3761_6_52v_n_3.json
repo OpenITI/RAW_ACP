@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "52v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "2698eac0-642e-4ed6-a96d-c93509eb1139",
+      "startIndex": 137,
+      "text": "ست العرب ابنة يحيى بن عبد الله الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+},
+      "endIndex": 345,
+      "guid": "57a73f52-9f87-48f9-b12d-75ee4ac2e322",
+      "startIndex": 318,
+      "text": "هذا صحيح وكتب أبو اليمن بخطه",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 293,
+      "guid": "6200d756-a299-4c64-9bfe-9670c338ca46",
+      "startIndex": 283,
+      "text": "دار المسمع ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "a6428c41-2844-441a-962f-a4b2b8aae351",
+      "startIndex": 189,
+      "text": "يحيى بن عبد الله الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "604"
+        ]
+      },
+      "endIndex": 278,
+      "guid": "abec4834-10f9-43f5-bf0b-761ef515c6b5",
+      "startIndex": 240,
+      "text": "السبت مستهل شهر المحرم سنة أربع وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "b475531c-d71c-4862-b8f0-56fcdc79f3f8",
+      "startIndex": 74,
+      "text": "أبي اليمن زيد بن الحسن بن زيد الكندي تاج الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 385,
+      "guid": "f2171f44-815d-4581-ba45-fca0a5bf0cda",
+      "startIndex": 366,
+      "text": "علي بن مسعود الموصلي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على السيد الأجل الإمام العالم العلامة فريد الزمان حجة العرب أبي اليمن زيد بن الحسن بن زيد الكندي تاج الدين ادام الله نعمته ست العرب ابنة يحيى بن عبد الله الكندي بقراءة والدها يحيى بن عبد الله الكندي في الليلة التي صبيحتها يوم السبت مستهل شهر المحرم سنة أربع وستماية في دار المسمع المذكور عمره الله تعالى هذا صحيح وكتب أبو اليمن بخطه نقله كما وجده بنصه علي بن مسعود الموصلي عفا الله عنه"
+}

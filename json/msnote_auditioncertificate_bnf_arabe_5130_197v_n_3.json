@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "المازري، محمد بن علي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90038618"
+      ],
+      "work_title": [
+        "المعلم بفوائد مسلم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 5130"
+      ],
+      "folio_number": [
+        "197v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10032290r/f199.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10032290r/f199.item.r=%22arabe%205130%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "1750891e-8342-41fc-87f5-360ed7b3e684",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 81,
+      "text": "إسماعيل بن ثعلب المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "1efa2ef5-a13f-4534-bd8a-fc9e784be1f2",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 257,
+      "text": "محمد بن أحمد بن علي القسطلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "636"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "84bc6c4c-b048-4907-be5b-d28f80184cd2",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 290,
+      "text": "ثاني عشرين شهر شعبان سنة ست وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "bbfecc1f-61ce-44a8-9fe1-5fb12db28579",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "أبي القاسم عبد الرحمن بن أبي حرمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "c996a9da-3d0d-4aa2-b74b-ddb951f30f3e",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 105,
+      "text": "موفق الدين عثمان بن موسى الآمدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "ce9f3185-90bc-4dd7-b0e1-5c72a8d97f4d",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 191,
+      "text": "عبد الرحيم بن أحمد بن عمر التونسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "dbd05ebc-9c04-4f98-9020-ffb6973ad626",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 138,
+      "text": "أبو عبد الله محمد بن عبد المعطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "ff442fb2-32a2-48c3-a30f-00daf97e6a60",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 176,
+      "text": "محمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع المعلم من فوائد مسلم على الشيخ أبي القاسم عبد الرحمن بن أبي حرمي الكاتب إسماعيل بن ثعلب المصري وموفق الدين عثمان بن موسى الآمدي وأبو عبد الله محمد بن عبد المعطي وولده محمد وسمع بعضه عبد الرحيم بن أحمد بن عمر التونسي [...] الأعمى بقراءة مثبت الأحرف محمد بن أحمد بن علي القسطلاني في ثاني عشرين شهر شعبان سنة ست وثلاثين وستمائة."
+}

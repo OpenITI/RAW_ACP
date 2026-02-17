@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج2"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 9"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/2"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "2df6fa69-221e-4eb4-b1b9-ec3188936d30",
+      "startIndex": 94,
+      "text": "أبي المحاسن عمر بن علي القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "37c505d1-ed03-4ea0-b6e4-66ff0864130e",
+      "startIndex": 240,
+      "text": "أحمد بن أبي بكر أحمد بن أحمد [البندنيجي] ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "bab_al-azj"
+          ]
+        ]
+      },
+      "endIndex": 233,
+      "guid": "3deeb3b3-5114-47e1-b296-a3b06126b213",
+      "startIndex": 225,
+      "text": "باب الأزج",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "5cb96e10-6b30-4b8d-9952-db3a95ffd23f",
+      "startIndex": 33,
+      "text": " أبي المعمر عبد الله بن أبي سعد المعروف بخزيفة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "554"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "923f1cf3-06dd-4c1a-91d9-6705035d8c63",
+      "startIndex": 154,
+      "text": " يوم الجمعة حادي [عشر/ عشرين؟] ربيع الأول من سنة أربع وخمسين وخمسماية",
+      "type": "date"
+    }
+  ],
+  "text": "بلغت من أول الجزء سماعا على الشيخ أبي المعمر عبد الله بن أبي سعد المعروف بخزيفة بقراءة الحافظ أبي المحاسن عمر بن علي القرشي والسماع على نسخته بخطه وذلك في يوم الجمعة حادي [عشر/ عشرين؟] ربيع الأول من سنة أربع وخمسين وخمسماية بباب الأزج وكتب أحمد بن أبي بكر أحمد بن أحمد [البندنيجي] نقل في سنة خمس وستين وخمسماية"
+}

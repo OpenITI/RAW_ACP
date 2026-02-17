@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن عبد العزيز بن جريج المكي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث ابن جريج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 120"
+      ],
+      "classmark": [
+        "3761/13"
+      ],
+      "folio_number": [
+        "124r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "31fc0ea3-666f-45d2-a86b-05deb945c2da",
+      "startIndex": 83,
+      "text": "أبي الحسن علي بن المسلم السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "340cd1b2-24cb-4e9c-8f53-a1f6115a91ba",
+      "startIndex": 18,
+      "text": "أبي طاهر بركات بن إبراهيم بن طاهر الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 248,
+      "guid": "930dbf02-e5e1-4151-9da8-a4504229c883",
+      "startIndex": 203,
+      "text": "عبد الرحمن بن أبي الفهم بن عبد الرحمن اليلداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "589"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "c8187d4e-fd69-4159-b152-bae7dce8645b",
+      "startIndex": 254,
+      "text": "الجمعة الخامس من ربيع الآخر سنة تسع وثمانين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "d0bc0fb0-63a8-4c47-a490-a264c9f774dd",
+      "startIndex": 121,
+      "text": "أبي الوحش عبد الرحمن بن أبي منصور بن نسيم المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على أبي طاهر بركات بن إبراهيم بن طاهر الخشوعي بسماعه من جمال الإسلام أبي الحسن علي بن المسلم السلمي بقراءة أبي الوحش عبد الرحمن بن أبي منصور بن نسيم المقدسي جماعة منهم كاتب السماع في الأصل عبد الرحمن بن أبي الفهم بن عبد الرحمن اليلداني يوم الجمعة الخامس من ربيع الآخر سنة تسع وثمانين وخمسماية"
+}

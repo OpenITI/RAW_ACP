@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "145v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 599,
+      "guid": "0714f93c-fc36-4131-8d03-da08eaa0898b",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 578,
+      "text": "يوسف بن عز الدين محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 692,
+      "guid": "14fecfa9-2ddb-409f-9e56-b30046b2dd7c",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 639,
+      "text": "يوم الأحد سادس عشري شهر رمضان في سنة تسع وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 736,
+      "guid": "2b3156e4-9870-46c1-b897-46062b8a8a7c",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 699,
+      "text": "محمد بن أحمد بن محمد بن النجيب الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 500,
+      "guid": "41cff91b-4adb-4fc5-ad3f-4fb7d021d9ee",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 444,
+      "text": "فخر الدين عثمان بن محمد بن نجيم بن الحراني الشافعي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 434,
+      "guid": "5ad0b108-a98f-43f1-aadd-3863aa2a1539",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 387,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 563,
+      "guid": "79b2e120-3e6c-43e5-a4c3-e9988ed76018",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 510,
+      "text": "علم الدين القاسم ابن محمد بن يوسف بن البرزالي الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "other"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "97ad9d44-390f-4929-bd8d-61832ebb5f3c",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 196,
+      "text": "أبي إسحق إبراهيم بن عثمان الأسعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "b2a64074-221d-4c44-9e18-a13f09c87452",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 265,
+      "text": "أبي الحسن علي بن عبد الرحمن عرف بابن تاج القراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "d3d2345c-0733-4a14-b990-83227b75025d",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 84,
+      "text": "بدر الدين أبي محمد عبد اللطيف بن محمد بن محمد بن نصر الله العبدي الحموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 352,
+      "guid": "ed76fd42-c7a3-4854-8bae-34265f9a2cae",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 323,
+      "text": "أبي القاسم يحيى بن أحمد السيبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "taqwiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 634,
+      "guid": "f01c6dd5-d880-4bb1-bc71-61691b77cf33",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 614,
+      "text": "المدرسة التقوية بدمشق",
+      "type": "place"
+    }
+  ],
+  "text": " بلغت سماعا لجميع هذا الجزء على الشيخ الإمام العالم العامل الأوحد الحافظ بقية السلف بدر الدين أبي محمد عبد اللطيف بن محمد بن محمد بن نصر الله العبدي الحموي نفع الله به عرضا بنسخة مقروءة على الشيخ أبي إسحق إبراهيم بن عثمان الأسعردي بسماع شيخنا في بيته منه بسماعه من أبي الحسن علي بن عبد الرحمن عرف بابن تاج القراء بسماعه من أبي القاسم يحيى بن أحمد السيبي بسنده بقراءة مالكه الإمام العالم نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي والسادة فخر الدين عثمان بن محمد بن نجيم بن الحراني الشافعي الصوفي والفقيه علم الدين القاسم ابن محمد بن يوسف بن البرزالي الإشبيلي وحفيد المسمع يوسف بن عز الدين محمد وصح ذلك وثبت بالمدرسة التقوية بدمشق في يوم الأحد سادس عشري شهر رمضان في سنة تسع وسبعين وستمية وكتب محمد بن أحمد بن محمد بن النجيب الشافعي"
+}

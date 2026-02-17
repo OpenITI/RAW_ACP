@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عثمان بن أحمد بن عبد الله بن يزيد الدقاق المعروف بابن السماك "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد أبي عمرو عثمان الدقاق أو حديث حنبل بن إسحق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 182"
+      ],
+      "classmark": [
+        "3771/17"
+      ],
+      "folio_number": [
+        "213r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 596,
+      "guid": "07dc9214-9261-487f-93d5-6c567352fce1",
+      "startIndex": 554,
+      "text": "حادي عشري ربيع الآخر سنة ثمان وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 443,
+      "guid": "0c3e1ec8-ffcf-4d50-aafb-bbcb9ed91efd",
+      "startIndex": 364,
+      "text": "علاء الدين أبو الحسن علي بن الصدر شمس الدين محمد بن سلمان بن حمائل عرف بابن غانم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 490,
+      "guid": "4210447a-8b72-47a1-b3f9-2dfebdf09d33",
+      "startIndex": 446,
+      "text": "علي بن عبد الكافي بن عبد الملك الربعي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 361,
+      "guid": "4f6e969c-b5a7-4edb-a860-db8884b3e802",
+      "startIndex": 316,
+      "text": "زين الدين يوسف بن محمود بن سنان القاسمي القواس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 764,
+      "guid": "60b15692-f7af-4a89-b9a1-7aebc10c6603",
+      "startIndex": 649,
+      "text": "أجزت لهم وفقهم الله ونفع بهم جميع ما سألوه بشرطه وقد صح سماعهم كتبه العبد الفقير محمد بن عوضة عفا الله عنه في تاريخه",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 313,
+      "guid": "7e7cf3c4-1f95-4f7c-938e-ce2ca98d3f30",
+      "startIndex": 275,
+      "text": "شمس الدين محمد بن محمد بن الحسين الكنجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "al-mizza"
+          ]
+        ]
+      },
+      "endIndex": 549,
+      "guid": "c78005c9-03ee-4558-a2e0-316cc961bbe8",
+      "startIndex": 515,
+      "text": "بستان المسمع من أرض المزة ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 267,
+      "guid": "ced9835e-f1b2-47df-940a-faf33407ae4d",
+      "startIndex": 230,
+      "text": "أبي الحسن على بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "dc2a6d19-3eaf-417f-8063-29ab5907134a",
+      "startIndex": 65,
+      "text": "عماد الدين أبي عبد الله محمد بن عوضة بن محمد بن عوضة",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم العامل الزاهد الرباني عماد الدين أبي عبد الله محمد بن عوضة بن محمد بن عوضة أدام الله أيامه عرضًا بأصل سماعه المنقول في هذه وقد وافقت بينهما بما في الحواشي بقراءة مالك الجزء الإمام المحدث أبي الحسن على بن مسعود بن نفيس الموصلي شيخنا شمس الدين محمد بن محمد بن الحسين الكنجي وزين الدين يوسف بن محمود بن سنان القاسمي القواس وعلاء الدين أبو الحسن علي بن الصدر شمس الدين محمد بن سلمان بن حمائل عرف بابن غانم وعلي بن عبد الكافي بن عبد الملك الربعي الشافعي والخط له وصح ذلك وثبت ببستان المسمع من أرض المزة ظاهر دمشق في حادي عشري ربيع الآخر سنة ثمان وستين وستمائة والحمد لله وحده وصلى الله على محمد وآله وصحبه وسلم أجزت لهم وفقهم الله ونفع بهم جميع ما سألوه بشرطه وقد صح سماعهم كتبه العبد الفقير محمد بن عوضة عفا الله عنه في تاريخه"
+}

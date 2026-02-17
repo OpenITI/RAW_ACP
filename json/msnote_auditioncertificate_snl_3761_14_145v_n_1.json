@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن قريب بن علي الباهلي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الخيل"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 121"
+      ],
+      "classmark": [
+        "3761/14"
+      ],
+      "folio_number": [
+        "145v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "70b16009-384b-4d4a-b19a-cf6dfa68cb16",
+      "startIndex": 35,
+      "text": "أبي المعالي ثابت بن بندار بن إبراهيم البقال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "497"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "9d806482-bb93-49c3-9029-8afbd3f23f27",
+      "startIndex": 148,
+      "text": " ذي الحجة من سنة سبع وتسعين وأربع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "e701a52b-3d36-4232-b71d-2d1dbad83f1c",
+      "startIndex": 79,
+      "text": "أحمد بن عبد الباقي بن الحسن بن منازل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "fc5ee0d1-ba36-4000-acb4-2637fd026eb4",
+      "startIndex": 125,
+      "text": " أبو محمد رضوان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 199,
+      "guid": "fc8b9e41-9c78-4c2a-83d9-cc02dcd4087e",
+      "startIndex": 190,
+      "text": "منزل الشيخ",
+      "type": "place"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء من الشيخ الجليل أبي المعالي ثابت بن بندار بن إبراهيم البقال أحمد بن عبد الباقي بن الحسن بن منازل وسمع ولده أبو محمد رضوان وذلك في ذي الحجة من سنة سبع وتسعين وأربع ماية في منزل الشيخ"
+}

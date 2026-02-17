@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسن بن هبة الله بن عساكر"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "التجريد "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 47/48"
+      ],
+      "classmark": [
+        "3747/2"
+      ],
+      "folio_number": [
+        "26v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 494,
+      "guid": "18be366f-7335-444a-a2c5-3147ec67a2bc",
+      "index": 145,
+      "isZeroPoint": false,
+      "startIndex": 451,
+      "text": "أبو علي حـ[ـسن] ابن علي بن عبد الوارث الصقلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "1ca15571-d47e-426e-a8e4-da0f0907a9c8",
+      "index": 138,
+      "isZeroPoint": false,
+      "startIndex": 114,
+      "text": "أبي القاسم علي بن الحسن بن هبة الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "3e7404c2-bdd2-4cad-94e0-f55fe763ac97",
+      "index": 140,
+      "isZeroPoint": false,
+      "startIndex": 199,
+      "text": "أبو المحاسن نصر الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "4233fb31-4912-4ef4-8908-552329875dcb",
+      "index": 141,
+      "isZeroPoint": false,
+      "startIndex": 221,
+      "text": "عبد [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 731,
+      "guid": "435fcce6-7171-4db2-b3fc-d3ee1e9e95b6",
+      "index": 151,
+      "isZeroPoint": false,
+      "startIndex": 711,
+      "text": "دار السنة بمدينة دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 659,
+      "guid": "539c3540-a5cf-4960-8b58-8468c6572d35",
+      "index": 149,
+      "isZeroPoint": false,
+      "startIndex": 619,
+      "text": "أحمد بن علي بن أبي بكر بن إسماعيل القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 441,
+      "guid": "57db3916-84fe-4c2a-a34c-8fc1838abf0c",
+      "index": 144,
+      "isZeroPoint": false,
+      "startIndex": 403,
+      "text": "أبو العباس أحمد بن ناصر بن طعان الطريفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 553,
+      "guid": "9494867e-f185-482f-9269-66d751ce73f0",
+      "index": 146,
+      "isZeroPoint": false,
+      "startIndex": 504,
+      "text": "أبو عبد الله محمد بن أحمد بن محمد الأنصاري البلنسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 603,
+      "guid": "a2e88a18-3794-483a-ba76-7ece78ae05f2",
+      "index": 148,
+      "isZeroPoint": false,
+      "startIndex": 583,
+      "text": "محمد بن ميمون بن مالك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "a688cd36-a432-4f21-8850-617f17f94c4c",
+      "index": 139,
+      "isZeroPoint": false,
+      "startIndex": 178,
+      "text": "بو منصور عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "af39e1d3-e2aa-4e35-9d0a-3a3dd3b3dc8b",
+      "index": 142,
+      "isZeroPoint": false,
+      "startIndex": 283,
+      "text": "بهاء الدين أبي المواهب الحسن بن القاضي أبي الغنائم هبة الله بن محفوظ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "570"
+        ]
+      },
+      "endIndex": 709,
+      "guid": "cb3c9f3c-5bb4-4dec-bc27-f7eb9f63bcb5",
+      "index": 150,
+      "isZeroPoint": false,
+      "startIndex": 665,
+      "text": " يوم الأحد ثامن عشر شعبان سنة سبعين وخمسماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "d18dab83-4830-4cd6-bf08-e15bad5e1f63",
+      "index": 143,
+      "isZeroPoint": false,
+      "startIndex": 360,
+      "text": "عبد العزيز بن شداد بن تميم الحميري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 580,
+      "guid": "f78a5789-cd30-443c-abe5-3b3ee657ea1d",
+      "index": 147,
+      "isZeroPoint": false,
+      "startIndex": 556,
+      "text": "محمد بن محمد بن أبي الحسن",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على مؤلفه سيدنا الشيخ الإمام العالم الحافظ الثقة ثقة الدين صدر الحفاظ ناصر السنة محدث [الشام] أبي القاسم علي بن الحسن بن هبة الله الشافعي أيده الله بنو أخيه أبو منصور عبد الرحمن وأبو المحاسن نصر الله وعبد [...] بنو القاضي أبي عبد الله محمد بن الحسن بقراءة القاضي بهاء الدين أبي المواهب الحسن بن القاضي أبي الغنائم هبة الله بن محفوظ والأمير عبد العزيز بن شداد بن تميم الحميري والفقيه أبو العباس أحمد بن ناصر بن طعان الطريفي والفقيه أبو علي حـ[ـسن] ابن علي بن عبد الوارث الصقلي والفقيه أبو عبد الله محمد بن أحمد بن محمد الأنصاري البلنسي ومحمد بن محمد بن أبي الحسن ومحمد بن ميمون بن مالك ومثبت الأسماء أحمد بن علي بن أبي بكر بن إسماعيل القرطبي وذلك يوم الأحد ثامن عشر شعبان سنة سبعين وخمسماية بدار السنة بمدينة دمشق حرسها الله والحمد لله وصلواته على [سيدنا محمد]"
+}

@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن عثمان الذهبي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "معجم الذهبي الصغير"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 60"
+      ],
+      "classmark": [
+        "3749/9"
+      ],
+      "folio_number": [
+        "217v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "41bf3ec2-0069-443b-bf92-61a41e2bf117",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 101,
+      "text": "برهان الدين إبراهيم بن محمد بن خليل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "4893a935-b25c-497d-b284-7e9eb03dc344",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "4cba3558-e1d9-42b2-a10f-0f90207309f4",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 74,
+      "text": "الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "56aad98e-0250-40c2-9579-8872529185fb",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 174,
+      "text": "أحمد بن أبي بكر بن أحمد الرسام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "5e5e3920-4d4f-4968-bda0-ab0adf4cdbb3",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "61cacf2d-d41b-45c5-bb0f-322a99561e46",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 263,
+      "text": "أبو بكر ابن عثمان بن عبد الرحمن القلعي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "782"
+        ]
+      },
+      "endIndex": 369,
+      "guid": "74b3fd7c-62dd-4475-8580-f37f73c9776d",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 316,
+      "text": "يوم الأحد سابع جمادى الأولى سنة اثنتين وثمانين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "755bb73b-45ef-40c2-a550-fecb92a902a5",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 238,
+      "text": "أحمد بن البرهان القاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "hama"
+          ]
+        ]
+      },
+      "endIndex": 388,
+      "guid": "7e9a6394-6392-44ac-b22a-d06af841d9b6",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 372,
+      "text": "منزل المسمع بحماة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "9949d871-efdb-4464-8a10-dfdff8fdfe88",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 23,
+      "text": "شهاب الدين أبي العباس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "b7388c04-734e-4ea9-9125-9313ad2a2a47",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 401,
+      "text": "محمد بن زريق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "fed76840-4216-4da2-83c7-8edcaa730592",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": "علي بن محمود بن أبي بكر السلمي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على قاضي القضاة شهاب الدين أبي العباس بسماعه باطنها نقلا من مخرجها الذهبي بقراءة شيخنا الحافظ برهان الدين إبراهيم بن محمد بن خليل المذكور أعلاه ولداه عبد الله ومحمود وأحمد بن أبي بكر بن أحمد الرسام وعلي بن محمود بن أبي بكر السلمي وأحمد بن البرهان القاهري وأبو بكر ابن عثمان بن عبد الرحمن القلعي الحنبليون وصح يوم الأحد سابع جمادى الأولى سنة اثنتين وثمانين وسبعمية بمنزل المسمع بحماة وأجاز نقله محمد بن زريق من خط القارئ"
+}

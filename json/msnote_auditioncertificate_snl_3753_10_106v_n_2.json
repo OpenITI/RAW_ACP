@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد القزويني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلس من أمالي أبي الحسن القزويني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 73"
+      ],
+      "classmark": [
+        "3753/10"
+      ],
+      "folio_number": [
+        "106v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 44,
+      "guid": "1e30217a-e426-4d36-be52-e14d2f7563fb",
+      "index": 205,
+      "isZeroPoint": false,
+      "startIndex": 36,
+      "text": "ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "290bd775-f86c-4684-927c-c3d12cfef220",
+      "index": 209,
+      "isZeroPoint": false,
+      "startIndex": 138,
+      "text": "محمد بن علي السقباوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "5e3c7054-e7d4-473d-b365-4bdad29df21b",
+      "index": 208,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "بدر الدين حسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "897"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "8dec838d-d9c0-4348-81ff-b5069deb8aec",
+      "index": 210,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "يوم الجمعة ثالث شهر جمادى الأولى سنة سبع وتسعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "b1dc81f4-3f4a-41a9-b0e9-e946d7540d4b",
+      "index": 207,
+      "isZeroPoint": false,
+      "startIndex": 78,
+      "text": "أبو نعيم أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "bc36534e-1e24-40af-bc3c-38d19dca257a",
+      "index": 206,
+      "isZeroPoint": false,
+      "startIndex": 54,
+      "text": "بلبل بنت عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "fac51db2-3cb1-458c-a5c6-d184bef2663f",
+      "index": 211,
+      "isZeroPoint": false,
+      "startIndex": 254,
+      "text": "يوسف بن عبد الهادي",
+      "type": "person"
+    }
+  ],
+  "text": " الحمد لله سمعه من لفظي عن جماعة عن ابن المحب أم ولدي بلبل بنت عبد الله وولدي أبو نعيم أحمد في خامس يوم من عمره وبعضه ولدي بدر الدين حسن ومحمد بن علي السقباوي وصح ذلك يوم الجمعة ثالث شهر جمادى الأولى سنة سبع وتسعين وثمان ماية وأجزت لهم أن يرووه عني وكتب يوسف بن عبد الهادي"
+}

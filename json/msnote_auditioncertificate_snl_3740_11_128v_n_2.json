@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إبراهيم بن عبد الله بن مسلم الكجي البصري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي مسلم الكجي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 24"
+      ],
+      "classmark": [
+        "3740/11"
+      ],
+      "folio_number": [
+        "128v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 386,
+      "guid": "00528c47-a3fa-407c-9ef5-ed2de7cef8d1",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 361,
+      "text": "عبد الغني بن خليفة الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "1435c8cc-7b35-4b49-8088-0cbe78671cb2",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 178,
+      "text": "عبد الوهاب بن| بزغش العيبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "675"
+        ]
+      },
+      "endIndex": 471,
+      "guid": "5b616fb4-8a07-41e2-8815-cd352eccc090",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 418,
+      "text": "يوم الجمعة منتصف شهر ربيع الآخر سنة خمس وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "74449d06-db46-4ca7-8ddf-a307b8e14f10",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "محمد بن عماد الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "79be5d80-caea-4373-adea-e6210b128715",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 223,
+      "text": "ابن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "7a80fc59-4f24-4641-82ab-e859af37231f",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 124,
+      "text": "أبي محمد عبد العزيز بن الأخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 352,
+      "guid": "968b828a-604c-48d1-9899-e1265f2ed5a1",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 321,
+      "text": "السابق مثقال بن عبد الله القليجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 482,
+      "guid": "c4c1c6c0-7b51-4c65-a52f-57b65d4fbf0b",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 474,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "c6fb8a0c-51bd-44f8-8905-7d35116ac4aa",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 42,
+      "text": "جمال الدين أبي حامد محمد بن علي بن محمود المحمودي ابن الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "edb35112-e4d1-4936-acb7-0d2bc460f2a4",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 269,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "fc245788-5ce3-4a7d-b50a-fdbd651818fa",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 236,
+      "text": "ابن خيرون",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميعه على الشيخ الإمام العالم الحافظ جمال الدين أبي حامد محمد بن علي بن محمود المحمودي ابن الصابوني بإجازته من المشايخ أبي محمد عبد العزيز بن الأخضر ومحمد بن عماد الحراني و|عبد الوهاب بن| بزغش العيبي بسماعهم باطنها من ابن البطي عن ابن خيرون بسنده فيه بقراءة كاتبه علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه السابق مثقال بن عبد الله القليجي والشيخ عبد الغني بن خليفة الحراني وصح ذلك وثبت في مجلسين آخرهما يوم الجمعة منتصف شهر ربيع الآخر سنة خمس وسبعين وستماية بجامع دمشق المحروسة والحمد لله وحده وصلواته على خير خلقه محمد وآله"
+}

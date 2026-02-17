@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن المظفر بن محمد بن موسى بن عيسى البزاز "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 50/51"
+      ],
+      "classmark": [
+        "3747/10"
+      ],
+      "folio_number": [
+        "141r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 316,
+      "guid": "125acfec-d063-4c4f-a32e-ef6df2022a46",
+      "index": 110,
+      "isZeroPoint": false,
+      "startIndex": 291,
+      "text": "الجامع المظفري بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "3d65408b-288e-40ae-a2e1-7bc769024f87",
+      "index": 107,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "54b236a1-8429-4e24-9e1c-fbc506cb5be3",
+      "index": 106,
+      "isZeroPoint": false,
+      "startIndex": 100,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "83a4af91-7a6c-4d65-94a8-ac7e732f4c3f",
+      "index": 108,
+      "isZeroPoint": false,
+      "startIndex": 184,
+      "text": "أبو عبد الله محمد بن مسلم بن مالك الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "681"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "83fd1162-e227-4a3c-bca1-47810a7b5342",
+      "index": 109,
+      "isZeroPoint": false,
+      "startIndex": 238,
+      "text": "يوم الخميس الرابع عشر من شهر رمضان سنة إحدى وثمانين",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "fbc70204-9c7a-4f97-b0aa-13d84c2286d8",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "أبي يحيى إسماعيل بن أبي عبد الله بن حماد العسقلاني",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميعه على الشيخ الصالح المسند أبي يحيى إسماعيل بن أبي عبد الله بن حماد العسقلاني بسماعه فيه من ابن طبرزد بسنده بقراءة علي بن مسعود بن نفيس الموصلي ثم الحلبي وهذا خطه عفا الله عنه أبو عبد الله محمد بن مسلم بن مالك الصالحي وصح وثبت في يوم الخميس الرابع عشر من شهر رمضان سنة إحدى وثمانين بالجامع المظفري بسفح قاسيون ظاهر دمشق والحمد لله وحده وصلى الله على نبيه محمد وآله وصحبه وسلم"
+}

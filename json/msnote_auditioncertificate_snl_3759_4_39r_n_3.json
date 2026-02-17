@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يحيى بن منصور الشافعي النيسابوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعين المخرجة من مسموعات النيسابوري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/4"
+      ],
+      "folio_number": [
+        "39r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "3974281e-9aef-4002-a38d-dc3e9535b8a4",
+      "startIndex": 11,
+      "text": "أبو عبد الله محمد بن محمد بن علي بن حسن الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "bec33618-8e55-40e5-b856-77998261efb3",
+      "startIndex": 101,
+      "text": "ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "780"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "de921fe3-1f40-44fe-b642-cc27471af151",
+      "startIndex": 62,
+      "text": "جمادى الأولى من السنة [780] ",
+      "type": "date"
+    }
+  ],
+  "text": "وقرأه كذلك أبو عبد الله محمد بن محمد بن علي بن حسن الحراني في جمادى الأولى من السنة [780] عليَّ كتبه ابن المحب"
+}

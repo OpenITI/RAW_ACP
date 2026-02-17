@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن عبد الله الظاهري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مشيخة ابن البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 750"
+      ],
+      "folio_number": [
+        "32v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f35.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f35.image.r=%22Arabe%20750%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 20,
+      "guid": "40d43815-e1c8-4976-9d34-863aeba67da5",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 18,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 139,
+      "guid": "8d6f4582-996b-4bda-8af0-bd1998da7d0e",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 121,
+      "text": "محمود بن علي الهندي",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "c3cf0f4d-8f8c-449d-8eb7-415f57bc7270",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 32,
+      "text": "محمود بن علي الهندي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ مقابلة وقراءة علي بن كاتبها محمود بن علي الهندي وأجزت له أن يروي عني جميع ما يجوز لي وعني روايته بشرطه عند أهله كتبه محمود بن علي الهندي"
+}

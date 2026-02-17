@@ -1,0 +1,229 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن سليمان البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي سعد البغدادي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 133"
+      ],
+      "classmark": [
+        "3763/16"
+      ],
+      "folio_number": [
+        "189r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "0655b434-a1bd-4801-b60f-063cae0db65c",
+      "startIndex": 50,
+      "text": "شهاب الدين أبي محمد عبد الحق بن عبد السلام بن عبد الحق الصقلي التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "1b8b5605-5998-4484-91e5-1315c311c81b",
+      "startIndex": 246,
+      "text": "عبد الرحمن بن إبراهيم بن أبي الفرج النجار الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "47964de2-1b10-4d41-b74d-fdbe376ffa1e",
+      "startIndex": 298,
+      "text": "عبد الخالق بن أبي الفضل بن نجم النشار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "farra'in_mosque"
+          ]
+        ]
+      },
+      "endIndex": 558,
+      "guid": "61e6391a-1c8a-4f7f-b187-c4dc63fb4087",
+      "startIndex": 535,
+      "text": "مسجد بدرب الفرائين بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "632"
+        ]
+      },
+      "endIndex": 532,
+      "guid": "95e4c19f-975b-4b82-8111-bd28d274a08d",
+      "startIndex": 483,
+      "text": "الخميس حادي عشري ذي الحجة سنة اثنتين وثلثين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "bc0408b0-d469-474e-a1a2-a505c79ddf5c",
+      "startIndex": 164,
+      "text": "جمال الدين أبي حامد محمد بن شيخنا الإمام علم الدين علي بن محمود المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 377,
+      "guid": "e83e7c68-027c-43d5-9e6e-7322ccfbd521",
+      "startIndex": 343,
+      "text": "مسعود عتيق حسام الدين اليمني المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "eaab6e97-145b-4003-a912-ad7acc29f0c3",
+      "startIndex": 386,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 469,
+      "guid": "fa0c5769-2954-4f49-a9c9-503bb673cf65",
+      "startIndex": 416,
+      "text": "عبيد الله بن بيرم بن يوسف بن خمردكين الصوري ثم الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء أجمع على الشيخ الإمام العالم الأمين شهاب الدين أبي محمد عبد الحق بن عبد السلام بن عبد الحق الصقلي التميمي بسماعه فيه نقلا بقراءة الإمام الفقيه العالم جمال الدين أبي حامد محمد بن شيخنا الإمام علم الدين علي بن محمود المحمودي الصابوني عبد الرحمن بن إبراهيم بن أبي الفرج النجار الأنصاري وعبد الخالق بن أبي الفضل بن نجم النشار والحاج مسعود عتيق حسام الدين اليمني المؤذن ووالده عبد الله وكاتب الأسماء الفقير عبيد الله بن بيرم بن يوسف بن خمردكين الصوري ثم الدمشقي وذلك في يوم الخميس حادي عشري ذي الحجة سنة اثنتين وثلثين وستمية بمسجد بدرب الفرائين بدمشق المحروسة وأجاز الشيخ للجماعة"
+}

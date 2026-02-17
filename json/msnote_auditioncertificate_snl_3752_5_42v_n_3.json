@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو زرعة الدمشقي عبد الرحمن بن عمرو بن عبد الله بن صفوان النصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي زرعة الدمشقي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 68 "
+      ],
+      "classmark": [
+        "3752/5"
+      ],
+      "folio_number": [
+        "42v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "044c1b27-f2cf-4bfa-a7ab-62366db984e5",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 87,
+      "text": "ابن البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "25ac6b15-66e5-49d2-bfba-a921c9218313",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 228,
+      "text": "يوسف بن حسن ابن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "869"
+        ]
+      },
+      "endIndex": 215,
+      "guid": "766a88d7-0153-4b0d-be66-2abf6cb7d323",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "يوم الأربعاء ثامن عشرين شهر ذي الحجة سنة تسع وستين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "8af424f1-85a3-4ad1-b1f5-87182ad38c91",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "8efa444f-5d6e-496a-aa81-e5402244b0fd",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 100,
+      "text": "علي بن أحمد المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 46,
+      "guid": "abb0a9f6-0965-4046-b247-a7251fee1271",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 26,
+      "text": "شهاب الدين بن الشريفة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "ee2f78fb-f66d-44cc-bec3-b8120bbbfa8b",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 59,
+      "text": "عبد الله بن خليل الحرستاني ",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخ شهاب الدين بن الشريفة بإجازته من عبد الله بن خليل الحرستاني وابن البالسي وعلي بن أحمد المرداوي بإجازتهم من المزي وصح ذلك وثبت في يوم الأربعاء ثامن عشرين شهر ذي الحجة سنة تسع وستين وثمان ماية وأجاز وكتب يوسف بن حسن ابن عبد الهادي وأخبرنا به جماعة من شيوخنا إجازة بإجازتهم من ابن المحب بسنده أعلاه"
+}

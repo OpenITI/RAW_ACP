@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن الحسن بن أحمد البناء"
+      ],
+      "work_title": [
+        "مشيخة أبي غالب ابن البناء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 17"
+      ],
+      "classmark": [
+        "3739/1"
+      ],
+      "folio_number": [
+        "2r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 370,
+      "guid": "0b53ed1e-6497-4964-a26f-ef93658cd40d",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 337,
+      "text": "منزل ابن الشيخة بسفح [جبل قاسيون] ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "114948ee-b360-4a43-b64c-7d0318c227c2",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 252,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "46211ad6-709b-4794-a489-18d02d2827e8",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 195,
+      "text": "القاسم بن محمد بن يوسف بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "55173041-a5c4-4a95-9ecd-ffb2514cdf63",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 114,
+      "text": "شمس الدين محمد بن مسلم بن مالك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "5ee61b8c-49a0-4c12-ae5f-d9069bf129d1",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 86,
+      "text": "[....] عمر بن حبيب الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "8108166a-5e5d-43da-a3d6-af5a03cd1a30",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 146,
+      "text": "ست الفقهاء بنت أحمد بن عبد الملك المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "9"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "c68fbc56-8003-4c1b-8d83-6ae441a78a59",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 307,
+      "text": "رمضان سنة ثلث وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "e6987a6c-7ff8-4652-bea4-7f3a0d9f31ff",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 42,
+      "text": "أم أحمد زينب بنت مكي بن علي بن كامل الحراني",
+      "type": "person"
+    }
+  ],
+  "text": " سمع هذا الجزء على الشيخة الصالحة المسندة أم أحمد زينب بنت مكي بن علي بن كامل الحراني [....] عمر بن حبيب الدمشقي وشمس الدين محمد بن مسلم بن مالك وست الفقهاء بنت أحمد بن عبد الملك المقدسي [....] والقاسم بن محمد بن يوسف بن البرزالي وهذا خطه بقراءة الشيخ نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي [...] رمضان سنة ثلث وثمانين وستمئة بمنزل ابن الشيخة بسفح [جبل قاسيون] "
+}

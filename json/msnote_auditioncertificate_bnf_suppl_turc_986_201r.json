@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمر عثمان بن محمد بن عبد الله المحمي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "الجزء فيه من حديث أبي عمرو عثمان بن محمد بن عبد الله المحمي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "201r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f208.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f208.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "745"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "12705fc3-6b28-4e61-9fac-daf084550f32",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": "يوم الجمعة السابع والعشرين من جمادى الآخرة سنة خمس وأربعين وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "72f8b210-e4e6-4cfe-95da-7000898f348a",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "9567c7c3-66d0-48a6-a6f4-4ea6dacfc9c6",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 25,
+      "text": "بهاء الدين علي بن عمر بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "fc2c44d9-a4ee-4e83-98be-868e96e10156",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 73,
+      "text": "ابن البخاري",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء على الشيخ بهاء الدين علي بن عمر بن أحمد المقدسي بسماعه من ابن البخاري يوم الجمعة السابع والعشرين من جمادى الآخرة سنة خمس وأربعين وسبعمئة كتبه محمد بن المحب"
+}

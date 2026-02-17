@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن ماجه"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/73824880"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 706"
+      ],
+      "folio_number": [
+        "300v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000313s/f304.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000313s/f304.item.r=arabe%20706.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "1edcc843-20af-4cac-bfa6-92abd5eb2e0b",
+      "startIndex": 115,
+      "text": "أبي محمد شاكر الله بن غلام الله بن إسماعيل الشافعي عرف بابن الشمعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 936,
+      "guid": "334c0de9-90c7-4ef4-9084-4ab79e89d479",
+      "startIndex": 871,
+      "text": "أحمد بن عبد القادر بن أحمد بن مكتوم بن أحمد بن محمد بن سليم القيسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "684"
+        ]
+      },
+      "endIndex": 760,
+      "guid": "3bf3b7e8-e9ab-44f7-98c4-d1dc2cb6570e",
+      "startIndex": 712,
+      "text": "يوم الخميس السادس عشر من شهر رجب سنة أربع وثمانين",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 650,
+      "guid": "3f03d6ef-94c6-4a7f-936f-235688d9cba8",
+      "startIndex": 598,
+      "text": "أبو عبد الله محمد بن عبد الصمد بن عبد العزيز التزمنتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 688,
+      "guid": "4edb9a65-2153-4859-b678-d883da5e669e",
+      "startIndex": 673,
+      "text": "أبو إسحق إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 411,
+      "guid": "593176e5-c2e1-4f12-9220-27ff038e4281",
+      "startIndex": 375,
+      "text": "الصفي خليل بن أبي بكر بن محمد المراغي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 477,
+      "guid": "5a746ebb-0684-4900-9e2a-3996bd52c67d",
+      "startIndex": 461,
+      "text": "أبي محمد بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 590,
+      "guid": "67827ed5-4efc-4301-9cb2-e5dcc0ede400",
+      "startIndex": 566,
+      "text": "بدر الدين محمد بن الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 802,
+      "guid": "9ac479b0-10c2-4734-803d-cb7b4ca1ab72",
+      "startIndex": 792,
+      "text": "ابن الدقوقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "a7a02ca8-e939-4132-a85d-9b77e28f9287",
+      "startIndex": 352,
+      "text": "أبي منصور المقومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 267,
+      "guid": "a9923389-1c95-495d-a874-9ee2cac128ff",
+      "startIndex": 208,
+      "text": "أبي بكر عبد العزيز بن أبي الفتح أحمد بن عمر بن باقا البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 670,
+      "guid": "c3b382ab-973f-433b-bde4-6021e64b5e6b",
+      "startIndex": 659,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 294,
+      "guid": "c9b29402-33e1-407b-9970-ffa58765d31b",
+      "startIndex": 279,
+      "text": "أبي زرعة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+
+          ]
+        ]
+      },
+      "endIndex": 778,
+      "guid": "cbe363b8-84e0-4fac-8505-d24b4810c430",
+      "startIndex": 763,
+      "text": "مسجد ابن الجوهري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "f558aa15-571e-48a8-9b5c-e5430d594c9f",
+      "startIndex": 32,
+      "text": "نجيب الدين أبي عبد الله محمد بن أبي العباس أحمد بن محمد بن المؤيد الهمداني",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الكتاب على الشيخين نجيب الدين أبي عبد الله محمد بن أبي العباس أحمد بن محمد بن المؤيد الهمداني والمقرئ أبي محمد شاكر الله بن غلام الله بن إسماعيل الشافعي عرف بابن الشمعة بسماعهما لجميعه من القاضي أبي بكر عبد العزيز بن أبي الفتح أحمد بن عمر بن باقا البغدادي بسماعه من أبي زرعة المقدسي خلا الأول والعاشر فإنه رواهما إجازة إن لم يكن سماعاً عن أبي منصور المقومي وعلى الصفي خليل بن أبي بكر بن محمد المراغي الجزء الأول والعاشر والحادي عشر بسماعه من الشيخ أبي محمد بن قدامة لجميع الكتاب وأجازته من ابن باقا قالا أنا أبو زرعة أنا المقومي واللفظ لابن باقا بقراءة بدر الدين محمد بن الجوهري وغيره أبو عبد الله محمد بن عبد الصمد بن عبد العزيز التزمنتي وولداه أبو بكر محمد وأبو إسحق إبراهيم وصح في مجالس آخرها في يوم الخميس السادس عشر من شهر رجب سنة أربع وثمانين بمسجد ابن الجوهري. نقله من خط ابن الدقوقي في بيت كمال الدين إبراهيم بن التزمنتي ملخصاً الفقير إلى الله تعالى أحمد بن عبد القادر بن أحمد بن مكتوم بن أحمد بن محمد بن سليم القيسي عفا الله عنه وغفر له ولوالديه ولجميع المسلمين."
+}

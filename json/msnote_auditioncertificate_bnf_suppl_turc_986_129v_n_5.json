@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "129v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f134.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f134.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "1abe3acb-6f9f-48b2-afa3-4719b763f580",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 185,
+      "text": "ابن رواج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 291,
+      "guid": "3a78edb5-a0cc-4b1c-8fa6-a1225a4b84ac",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 285,
+      "text": "الكامخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "3d072a10-8a55-4685-b306-510428db5c3a",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 195,
+      "text": "سبط السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 471,
+      "guid": "3f5a0a7e-9a4e-423c-9b8e-421f1adc65c0",
+      "index": 108,
+      "isZeroPoint": false,
+      "startIndex": 468,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "45dc8572-8d64-4ecd-ad13-ebc817fcb407",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 273,
+      "text": "أبي زرعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "4b73685d-e1d9-4337-a63e-ce23f4cc298e",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 303,
+      "text": "الحيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 541,
+      "guid": "568b7210-8f4d-4297-ac40-970a9fd398e9",
+      "index": 109,
+      "isZeroPoint": false,
+      "startIndex": 500,
+      "text": "محمد بن أبي بكر بن عامر بن أبي بكر بن شريط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "5c725829-f43d-4819-b04a-ca674f04f9f8",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "ابن الجُميزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 460,
+      "guid": "7148e24c-8f53-45b6-aae9-6e4f6ac9b4f4",
+      "index": 107,
+      "isZeroPoint": false,
+      "startIndex": 457,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "8539f4ed-cec8-476b-82ad-776f6b2003bb",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 258,
+      "text": "ابن القبيطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "706"
+        ]
+      },
+      "endIndex": 756,
+      "guid": "a4f7605e-3e0b-4105-b79e-104b63b30942",
+      "index": 115,
+      "isZeroPoint": false,
+      "startIndex": 720,
+      "text": "يوم الجمعة سابع محرم سنة ست وسبع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 359,
+      "guid": "aea6d0d4-0f8d-465a-810b-38a142c1ca60",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 339,
+      "text": "عثمان بن خطيب القرافة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 590,
+      "guid": "aebc90eb-1b49-46fa-b419-4cbe4b620e15",
+      "index": 110,
+      "isZeroPoint": false,
+      "startIndex": 544,
+      "text": "شمس الدين محمود بن خليفة بن محمد بن خلف المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "af456f03-84d5-4b73-90a9-c127d186972b",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 227,
+      "text": "الكرجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 632,
+      "guid": "b04f5ac2-05b3-47c0-97ad-0d99fc8e9dd6",
+      "index": 111,
+      "isZeroPoint": false,
+      "startIndex": 593,
+      "text": "شمس الدين محمد بن إبراهيم بن منصور المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "b086802a-69fe-4b2a-9402-d2a8a28a4f9f",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 145,
+      "text": "السخاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "c151f68f-c0cb-4eff-a329-306a9c04656f",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 22,
+      "text": "شهاب الدين أحمد بن سليمان بن مروان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 713,
+      "guid": "c4c46651-56c9-40b0-8a5d-36be8d289e96",
+      "index": 114,
+      "isZeroPoint": false,
+      "startIndex": 684,
+      "text": "عبد الرحمن بن محمد بن البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 658,
+      "guid": "c58fdd97-3b48-4ead-9267-efb9c5794ae0",
+      "index": 112,
+      "isZeroPoint": false,
+      "startIndex": 641,
+      "text": "علي بن طالب الكفتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 669,
+      "guid": "ca4fda1c-72be-4e69-b084-b8a7fb63e3c3",
+      "index": 113,
+      "isZeroPoint": false,
+      "startIndex": 666,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "cded3559-a9af-45bf-9094-a190a75c62e3",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 217,
+      "text": "السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 450,
+      "guid": "ce223064-1672-4ddb-baeb-bb9e1dadfb87",
+      "index": 106,
+      "isZeroPoint": false,
+      "startIndex": 406,
+      "text": "علم الدين أبي محمد القاسم بن محمد بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 767,
+      "guid": "d226d7f7-e60a-4d0f-af58-ea62c23c74cb",
+      "index": 116,
+      "isZeroPoint": false,
+      "startIndex": 759,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "d42a9c6a-a406-4e7a-a193-fceb4e2ff21c",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 58,
+      "text": "عماد الدين محمد بن علي بن محمد بن علي بن محمد ابن النابلسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه أجمع على العدلين شهاب الدين أحمد بن سليمان بن مروان وعماد الدين محمد بن علي بن محمد بن علي بن محمد ابن النابلسي بسماع الأول وحضور الثاني من السخاوي وبإجازة الثاني من ابن الجُميزي وابن رواج وسبط السلفي بسماعهم من السلفي عن الكرجي وبإجازة الثاني أيضًا من ابن القبيطي عن أبي زرعة عن الكامخي كلاهما عن الحيري بسنده وبسماع الثاني أيضًا من عثمان بن خطيب القرافة بإجازته من السلفي بسنده بقراءة الإمام الحافظ علم الدين أبي محمد القاسم بن محمد بن البرزالي ابنه محمد وأخوه أحمد وابن بنت خالت [كذا] القارئ محمد بن أبي بكر بن عامر بن أبي بكر بن شريط وشمس الدين محمود بن خليفة بن محمد بن خلف المنبجي وشمس الدين محمد بن إبراهيم بن منصور المزي والشيخ علي بن طالب الكفتي وابنه أحمد وكاتب السماع عبد الرحمن بن محمد بن البعلبكي وفيه يوم الجمعة سابع محرم سنة ست وسبع مائة بجامع دمشق والحمد لله رب العالمين وصلى الله على سيدنا محمد وآله وصحبه وسلم."
+}

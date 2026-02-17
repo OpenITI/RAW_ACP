@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن إسحق بن زيد الحلبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد القاضي أبي الحسن علي بن محمد بن إسحق بن زيد الحلبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 9"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "126r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000263.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059149"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "6a2b06d2-10ba-4a15-87c5-7c0182004c72",
+      "startIndex": 165,
+      "text": "في ليلة تسفر عن يوم الخميس الخامس عشر من ربيع الآخر سنة خمس وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "9cdb5121-852a-42fd-a51e-c890548e2958",
+      "startIndex": 17,
+      "text": "أبي حامد محمد بن علي بن محمود المحمودي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "b420d34b-9488-451c-bc06-ce809031ff81",
+      "startIndex": 138,
+      "text": "ابن] الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "qibla_mosque"
+          ]
+        ]
+      },
+      "endIndex": 259,
+      "guid": "ca46f8e9-aca9-4704-abd8-8a152eec035b",
+      "startIndex": 240,
+      "text": "جامع القبلة ظاهر مصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "ca9348f4-06b8-46aa-a4ea-50fdf497daec",
+      "startIndex": 56,
+      "text": " يعقوب بن أحمد بن يعقوب الحلبي المقرئ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الحافظ أبي حامد محمد بن علي بن محمود المحمودي، يعقوب بن أحمد بن يعقوب الحلبي المقرئ والده بقراءته والسماع بخط المسمع بسماعه من [ابن] الحرستاني وهذا السماع في ليلة تسفر عن يوم الخميس الخامس عشر من ربيع الآخر سنة خمس وستين وستمائة بجامع القبلة ظاهر مصر."
+}

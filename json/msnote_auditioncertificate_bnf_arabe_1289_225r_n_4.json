@@ -1,0 +1,594 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الفرج طاهر بن محمد بن عبد الرحيم بن نباتة"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "خطبة النكاح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 1289"
+      ],
+      "folio_number": [
+        "225r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000775p/f232.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000775p/f232.item.r=%22Arabe%201289%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 931,
+      "guid": "04240556-e232-4d27-ab2b-63e77591f498",
+      "startIndex": 893,
+      "text": "أحمد بن جمال الدين محمد بن محمود الجوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1461,
+      "guid": "075dc076-7a51-4307-953d-86864343320d",
+      "startIndex": 1430,
+      "text": "إبراهيم بن محمد بن يحيى الصنهاجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 666,
+      "guid": "13897628-26cb-428f-b539-9d6b7c1d0e9c",
+      "startIndex": 616,
+      "text": "محمد بن أحمد ومجد الدين محمد بن محمد بن علي الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1679,
+      "guid": "2f6f58a2-6be8-4a53-afd6-8cee4cc6b871",
+      "startIndex": 1676,
+      "text": "يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "326fddc8-5a88-4cff-b109-5d8c65d2569b",
+      "startIndex": 223,
+      "text": "الكندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "46f7d05b-180b-4642-9e22-4f4c874cc1b7",
+      "startIndex": 285,
+      "text": "نجم الدين أبي عمران موسى بن إبراهيم بن يحيى الشقراوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1567,
+      "guid": "582f37b9-e5a4-4f19-8031-81bac31de865",
+      "startIndex": 1565,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1809,
+      "guid": "64ef5780-9062-4ba2-9fb1-f5f2aafd2a1a",
+      "startIndex": 1806,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1899,
+      "guid": "658f6d0d-8f94-420d-804b-196acc13e082",
+      "startIndex": 1861,
+      "text": "علي بن إبراهيم بن داود بن سلمان الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "6f540162-d8d2-43b0-a802-d7034c7c3ba1",
+      "startIndex": 398,
+      "text": "شمس الدين محمد بن إبراهيم بن يحيى المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1199,
+      "guid": "6f9bed71-75d7-4392-9b3b-07a38d40c74c",
+      "startIndex": 1171,
+      "text": "محمد بن سليمان بن داود الجزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 530,
+      "guid": "6fa12558-8b74-41af-9554-9e202cccbec1",
+      "startIndex": 490,
+      "text": "محيي الدين يحيى بن [رامس؟] بن نجم الجعفري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1573,
+      "guid": "82501915-83bd-4f13-97ea-b951834c89bf",
+      "startIndex": 1570,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 690,
+      "guid": "8bd048a7-6347-420a-8a0f-a7c5103004b2",
+      "startIndex": 669,
+      "text": "منصور بن إسحق بن منصور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 569,
+      "guid": "8ce5b090-a638-40ee-93ca-f5da06c2a33b",
+      "startIndex": 539,
+      "text": "رسلان بن حيدر بن رسلان البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1132,
+      "guid": "9ae7816b-267a-483a-81a1-f9e266b3cc22",
+      "startIndex": 1089,
+      "text": "محمد بن أحمد بن عبد الرحمن بن عيَّاش الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1524,
+      "guid": "9ea86edf-5e2d-4c84-b11b-bbf8a4470c65",
+      "startIndex": 1497,
+      "text": "إدريس بن قطب بن أولمش الرومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 773,
+      "guid": "ae4ad839-2843-4531-b1fa-d0197dbd4bdd",
+      "startIndex": 723,
+      "text": "كمال الدين أبو القاسم أحمد بن محمد بن محمد الشيرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 943,
+      "guid": "afb207a4-c3ad-4b8e-afe8-182721d8e694",
+      "startIndex": 939,
+      "text": "كافور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1333,
+      "guid": "b8b00be4-b4be-4723-893c-443def0cbbc2",
+      "startIndex": 1300,
+      "text": "عمر بن إسماعيل بن إبراهيم السنجاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 860,
+      "guid": "c3a50e3a-7b41-4102-900e-579a3377928f",
+      "startIndex": 819,
+      "text": "ناصر الدين عمر بن عبد المنعم بن عمر القواس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "c8cb6e65-f611-4f07-958a-c976c0efa84d",
+      "startIndex": 129,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 604,
+      "guid": "cd458402-9b32-403b-8573-a78da2c157c1",
+      "startIndex": 572,
+      "text": "عبد الرحمن بن علي بن أحمد الحجاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1017,
+      "guid": "d50f8b53-bc0b-4808-9962-4695fed98bcc",
+      "startIndex": 968,
+      "text": "صفي الدين محمود بن أبي بكر بن محمد بن حامد الأرموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1761,
+      "guid": "d513f3c7-9155-471b-a863-627a1b96c480",
+      "startIndex": 1731,
+      "text": "[...] بن عثمان بن محمد الاعزازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1259,
+      "guid": "e018f5fb-dbc9-4ba6-aba8-bdcd8dc7acef",
+      "startIndex": 1231,
+      "text": "محمد بن محمد بن يحيى الشيرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "e651db6a-31e2-4b7b-b6af-d71a9399d432",
+      "startIndex": 339,
+      "text": "شرف الدين عبد الحميد بن محمد بن محمد بن هبة الله الشيرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1409,
+      "guid": "ebf9b7ba-5179-479e-bce8-2eda371f381e",
+      "startIndex": 1383,
+      "text": "بن عمار بن هبة الله الرسعني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 487,
+      "guid": "f2a99cd4-1223-48dc-ab4e-9cab191f6366",
+      "startIndex": 441,
+      "text": "تقي الدين عبد الحميد بن أحمد بن إبراهيم الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت سماعًا لجميع هذه الخطب على الشيخ الإمام العالم العامل الفاضل المسند مُلحق الأصاغر بالأكابر رحلة الوقت بقية السلف طراز الخلف فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي أدام الله بركته بسماعه منقولًا أعلاه من الكندي بسنده أوله بقراءة الشيخ الإمام العالم المُحدِّث الفاضل نجم الدين أبي عمران موسى بن إبراهيم بن يحيى الشقراوي وشرف الدين عبد الحميد بن محمد بن محمد بن هبة الله الشيرازي وشمس الدين محمد بن إبراهيم بن يحيى المالكي وتقي الدين عبد الحميد بن أحمد بن إبراهيم الدمشقي ومحيي الدين يحيى بن [رامس؟] بن نجم الجعفري والشيخ رسلان بن حيدر بن رسلان البغدادي وعبد الرحمن بن علي بن أحمد الحجاوي وابن أخيه محمد بن أحمد ومجد الدين محمد بن محمد بن علي الصيرفي ومنصور بن إسحق بن منصور وسمع الجميع خلا الميعاد السادس كمال الدين أبو القاسم أحمد بن محمد بن محمد الشيرازي وسمع الجميع خلا الميعاد الخامس شيخنا المسند ناصر الدين عمر بن عبد المنعم بن عمر القواس وسمع الجميع خلا الميعاد العاشر أحمد بن جمال الدين محمد بن محمود الجوخي وفتاه كافور ثم أعاد لهما ما فاتهما صفي الدين محمود بن أبي بكر بن محمد بن حامد الأرموي بعد ذلك بنحو سنتين وكمل لهما سماع جميع الكتاب وسمع جميع الكتاب كاملًا محمد بن أحمد بن عبد الرحمن بن عيَّاش الصالحي وسمع الجميع خلا الميعاد الثاني الشيخ محمد بن سليمان بن داود الجزري وسمع الجميع خلا الأول والسابع محمد بن محمد بن يحيى الشيرازي وسمع الجميع خلا الرابع والتاسع والعاشر عمر بن إسماعيل بن إبراهيم السنجاري وسمع الميعاد الأول والثالث إلى آخر السادس [...] بن عمار بن هبة الله الرسعني وسمع الأول والثاني إبراهيم بن محمد بن يحيى الصنهاجي وسمع الأول والسابع إلى آخر الكتاب إدريس بن قطب بن أولمش الرومي وسمع الجميع خلا الميعاد الرابع والخامس علي ومحمد ابنا [القاضي؟] [عماد؟] الدين محمد بن عبد القادر الأنصاري وسمع الميعاد الثاني والثالث أخوهما لأبويهما يحيى وسمع من أول الثاني إلى آخر الرابع والميعاد السادس [...] بن عثمان بن محمد الاعزازي وسمع الجميع خلا الثالث [...] وسمع ذلك أخوه أحمد خلا الميعاد الثاني وصح ذلك وثبت بالجامع [...] كتب علي بن إبراهيم بن داود بن سلمان الشافعي عفا الله عنه حامدًا الله تعالى ومصليًا ومسلمًا"
+}

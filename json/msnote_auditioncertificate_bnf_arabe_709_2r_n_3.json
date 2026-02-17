@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/76600419"
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 709"
+      ],
+      "folio_number": [
+        "2r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.item.r=%22arabe%20709%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "1f78c6d3-aa2e-4d3a-9064-5789d9cb6ceb",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": "أبي الحسن علي ابن أحمد بن كوثر المحاربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "351b570e-e11a-40c4-8654-cf3ed067b9f9",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 221,
+      "text": "أبو علي الحسن بن أحمد بن مكتوف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "588"
+        ]
+      },
+      "endIndex": 338,
+      "guid": "9a023619-c79f-444f-be05-5b9dd7f07a73",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 295,
+      "text": "لعشر بقين من شعبان سنة ثمان وثمانين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "reader"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "d8d3e4c4-fc87-4fe6-8a94-19399586ab9d",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 138,
+      "text": "عبد الله بن الحسن بن أحمد الأنصاري ابن القرطبي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ جميع هذا الديوان في هذه الأم العتيقة على راويها الشيخ الفقيه الحاج المقرئ الفاضل أبي الحسن علي ابن أحمد بن كوثر المحاربي رضي الله عنه عبد الله بن الحسن بن أحمد الأنصاري ابن القرطبي وفقه الله وسمعه أجمع بقراءته الفقيه أبو علي الحسن بن أحمد بن مكتوف وكتب القارئ عبد الله إثر الفراغ من القراءة لعشر بقين من شعبان سنة ثمان وثمانين وخمسماية"
+}

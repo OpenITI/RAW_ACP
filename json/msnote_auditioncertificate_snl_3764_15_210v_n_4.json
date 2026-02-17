@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الخطيب البغدادي بجامع دمشق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 143"
+      ],
+      "classmark": [
+        "3764/15"
+      ],
+      "folio_number": [
+        "210v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "05621bc2-7cdd-4ac2-9e1e-1f32e3e77461",
+      "startIndex": 128,
+      "text": "أبي عبد الله محمد بن يوسف البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "12cde862-b085-433e-b194-a13366dad8d6",
+      "startIndex": 163,
+      "text": "محمد بن عبد الله بن محمد بن عمر بن النن الكمراناتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "madrasat_najib"
+          ]
+        ]
+      },
+      "endIndex": 381,
+      "guid": "564bbaf7-32c3-4896-92d1-41ca190baba6",
+      "startIndex": 345,
+      "text": "مدرسة أبي النجيب على شاطىء دجلة بغداد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 408,
+      "guid": "87a8ed41-e925-48d5-8f0a-7e64f1dda5db",
+      "startIndex": 387,
+      "text": " إبراهيم بن عمر القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 48,
+      "guid": "916c50e5-a908-498f-9cc5-1b59804d752d",
+      "startIndex": 10,
+      "text": "أبي الفضل سليمان بن محمد بن علي الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "98aa5348-b696-4800-89a4-6e708a8f1063",
+      "startIndex": 236,
+      "text": "عبد الله المكنى بأبي القاسم بن تميم بن علي بن تميم التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "9a79a899-a293-4b76-a718-3920d486a400",
+      "startIndex": 107,
+      "text": "الخطيب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "e038f419-e9d6-4955-ae0e-da34f8ecdb5f",
+      "startIndex": 59,
+      "text": " أبي منصور محمد بن عبد الملك بن خيرون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "611"
+        ]
+      },
+      "endIndex": 342,
+      "guid": "e3628870-1fc3-4489-b2ab-587c89c09997",
+      "startIndex": 302,
+      "text": " يوم العاشر من شوال سنة إحدى عشرة وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه على أبي الفضل سليمان بن محمد بن علي الموصلي بسماعه من أبي منصور محمد بن عبد الملك بن خيرون بسماعه من الخطيب بقراءة الحافظ أبي عبد الله محمد بن يوسف البرزالي محمد بن عبد الله بن محمد بن عمر بن النن الكمراناتي في آخرين وكاتب السماع عبد الله المكنى بأبي القاسم بن تميم بن علي بن تميم التنوخي وذلك في يوم العاشر من شوال سنة إحدى عشرة وستمائة بمدرسة أبي النجيب على شاطىء دجلة بغداد نقله إبراهيم بن عمر القرشي"
+}

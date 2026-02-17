@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن بن شاذان السكري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي الحسن السكري وأماليه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/19"
+      ],
+      "folio_number": [
+        "250r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "0177bee5-cca7-47fe-898e-7a8e4b9e581b",
+      "index": 91,
+      "isZeroPoint": false,
+      "startIndex": 361,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "2f5b1ca1-aad2-4aaf-b9fb-a8849fce639d",
+      "index": 85,
+      "isZeroPoint": false,
+      "startIndex": 47,
+      "text": "بدر الدين أبي العباس أحمد بن شيبان بن تغلب الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 509,
+      "guid": "360d0f3a-e9a9-412f-8e5f-6477b1cf6839",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 468,
+      "text": "محمد بن إبراهيم بن غنائم بن المهندس الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 529,
+      "guid": "56450265-609c-4780-aa64-4a63584e74b6",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 526,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "5e6c2e7e-d49a-488a-84f8-c4fb2df5b85a",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 434,
+      "text": "أسماء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 379,
+      "guid": "7dea8df0-ae82-41fa-ba77-a6c2753d9ca6",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 376,
+      "text": "رحمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "905845a5-2ca3-455f-9673-92b3ce476e83",
+      "index": 86,
+      "isZeroPoint": false,
+      "startIndex": 115,
+      "text": "أم أحمد زينب بنت مكي بن علي بن كامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 373,
+      "guid": "930ab898-07ae-4e02-af41-cd1804880004",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 370,
+      "text": "رقية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "97d853be-4cda-4268-b0bf-2ee11246e94a",
+      "index": 87,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "عمر بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 359,
+      "guid": "a9fbd7df-7630-490d-b6a8-49a9e035d056",
+      "index": 90,
+      "isZeroPoint": false,
+      "startIndex": 355,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 643,
+      "guid": "abab70ef-1f4c-4841-9a5f-222dcc294d15",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 606,
+      "text": "منزل المسمعة بسفح جبل قاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 603,
+      "guid": "aec1e44e-0b26-49ad-a3ed-edfb9dd8c944",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 547,
+      "text": "يوم الأربعاء خامس رمضان المعظم من سنة ثلاث وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "cec2cab9-5460-43c8-8590-fc6c1da53310",
+      "index": 89,
+      "isZeroPoint": false,
+      "startIndex": 306,
+      "text": "عائشة بنت عبد الله بن عبد الملك المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "dccc1a4f-5a0f-46a8-9450-47a8ad827338",
+      "index": 88,
+      "isZeroPoint": false,
+      "startIndex": 228,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 431,
+      "guid": "e2dc050c-4ab3-4220-9526-ec90f42e7b52",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 424,
+      "text": "عبد الله",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخين المسندين الشيخ بدر الدين أبي العباس أحمد بن شيبان بن تغلب الشيباني والشيخة الصالحة أم أحمد زينب بنت مكي بن علي بن كامل الحراني بسماعهما من عمر بن طبرزد بسنده فيه بقراءة الشيخ الإمام العالم المفيد نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي فسمعه ابنة المسمعة عائشة بنت عبد الله بن عبد الملك المقدسي وأولادها أحمد وإبراهيم ورقية ورحمة أولاد نصر الله بن محمد بن عياش وابنا أختهم عبد الله وأسماء ابنا الحاج أبي بكر بن حمزة ومحمد بن إبراهيم بن غنائم بن المهندس الحنفي وهذا خطه وأخوه أحمد وصح ذلك وثبت في يوم الأربعاء خامس رمضان المعظم من سنة ثلاث وثمانين وستمية بمنزل المسمعة بسفح جبل قاسيون ظاهر دمشق المحروسة وأجازا للجماعة جميع ما يجوز لهما روايته متلفظان بذلك والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلم تسليما كثيرا"
+}

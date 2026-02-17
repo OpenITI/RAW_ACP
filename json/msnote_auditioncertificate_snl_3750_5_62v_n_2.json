@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن الحسين الجرجاني الغطريفي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي أحمد الغطريفي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 62 "
+      ],
+      "classmark": [
+        "3750/5"
+      ],
+      "folio_number": [
+        "62v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "0071f0a9-654f-449d-bf10-1ebbeafa4285",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 36,
+      "text": " أبي منصور محمد بن علي بن منصور بن عبد الملك بن إبراهيم القراء القزويني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 552,
+      "guid": "01c5c99d-2141-48d3-a4c2-48d2ef81748f",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 515,
+      "text": "أبو بكر محمد بن محمد بن عنقيش الأنباري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "other"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "1acc27e5-7d91-4a28-9671-56a698ea10a4",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 236,
+      "text": "أبي بكر أحمد بن علي بن الخطيب الحافظ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "510"
+        ]
+      },
+      "endIndex": 810,
+      "guid": "2e398bdf-bcbd-474c-a7bc-0ed685f1ec84",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 754,
+      "text": "يوم الخميس الثالث والعشرين من ذي القعدة سنة عشر وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 458,
+      "guid": "48bdf7f2-d1d5-4863-a5f8-10ce019865bf",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 414,
+      "text": "أبو القاسم هبة الله بن بد بن أبي الفرج العجان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 512,
+      "guid": "86255c08-dd4b-4b71-a2d3-54984bce39d1",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 470,
+      "text": "أبو الفضل وفاء بن أسعد بن البهي التركي الحر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 403,
+      "guid": "864f6dc1-175f-4bdc-9aff-a5a85bf8c832",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 342,
+      "text": "أبو الحسين هبة الله بن الحسن بن هبة الله بن عبد الله بن الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 749,
+      "guid": "a4a621c4-77ac-42a2-ba93-ce0efb0b4fa6",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 705,
+      "text": "المبارك بن عسكر بن خزرج المقرئ الضرير الحديثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 608,
+      "guid": "a6d11ee1-25bd-4985-a54a-830264b48811",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 568,
+      "text": "إبراهيم بن الحسن بن طاهر بن الحصني الحموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "ac26ac03-9021-4049-a1e0-113684e8d6a7",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 179,
+      "text": " أبو الطيب طاهر بن عبد الله بن طاهر الطبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 702,
+      "guid": "e902e885-91f9-4539-9216-882add26def7",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 679,
+      "text": "إدريس بن عبد الله المؤذن",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ الإمام أبي منصور محمد بن علي بن منصور بن عبد الملك بن إبراهيم القراء القزويني أيده الله رضي الله [عنه] مع المعارضة بكتابه الذي أخبره به القاضي الإمام أبو الطيب طاهر بن عبد الله بن طاهر الطبري بقراءة الإمام أبي بكر أحمد بن علي بن الخطيب الحافظ في شهر ربيع الأول من سنة أربعين وأربع ماية صاحبه الشيخ الفقيه النفيس أبو الحسين هبة الله بن الحسن بن هبة الله بن عبد الله بن الحسين بقراءته وأبو القاسم هبة الله بن بد بن أبي الفرج العجان وابن أخيه أبو الفضل وفاء بن أسعد بن البهي التركي الحر وأبو بكر محمد بن محمد بن عنقيش الأنباري وكاتب الأسماء إبراهيم بن الحسن بن طاهر بن الحصني الحموي وسمع من أول حديث عبد الحميد بن أبي أمية قال شهدت أنساً إلى آخر الجزء إدريس بن عبد الله المؤذن والمبارك بن عسكر بن خزرج المقرئ الضرير الحديثي في يوم الخميس الثالث والعشرين من ذي القعدة سنة عشر وخمس ماية والأحاديث المعلم عليها بالحمرة داخلة في السماع على الشيخ الإمام أبي منصور رضي الله عنه "
+}

@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن علي بن عبد الله الطامذي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد الطامذي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 64 "
+      ],
+      "classmark": [
+        "3750/8"
+      ],
+      "folio_number": [
+        "100r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 605,
+      "guid": "094fea93-2562-4334-8d33-61cf88cc8874",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 557,
+      "text": "أفضل الدين علي بن عمر بن عبد الرحيم بن بدر الجزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "154b431a-fc45-4672-b39a-90abfbeb0d49",
+      "index": 91,
+      "isZeroPoint": false,
+      "startIndex": 43,
+      "text": "سليمان بن حمزة بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 374,
+      "guid": "3cf792b2-a438-4b58-8a82-35f470f3cc0c",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 288,
+      "text": "أبي عبد الله محمد بن أبي غالب زهير بن محمد بن أحمد بن أبي سعد المعروف بشعرانة الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "60fe3ce0-0fc1-44d5-a6b0-8cc1cfba49a3",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 386,
+      "text": "الطامذي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "709"
+        ]
+      },
+      "endIndex": 647,
+      "guid": "82608d85-79b6-475c-bbc3-72cd366ac9b3",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 617,
+      "text": "تاسع ذي القعدة سنة تسع وسبعمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "8960858c-fae2-4ae7-948a-9eaf18fd5600",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "يحيى بن محمد بن سعد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 506,
+      "guid": "ac80fd10-ae7e-4445-8be0-52854a9f2ec1",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 494,
+      "text": "كريمة القرشية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 22,
+      "guid": "c0213774-625b-4aff-a4a3-88303fd81cc4",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 8,
+      "text": "القاسم البرزالي",
+      "type": "person"
+    }
+  ],
+  "text": " في ثبت القاسم البرزالي أنه قرأ على القاضي سليمان بن حمزة بن أحمد ويحيى بن محمد بن سعد الجزء الأول من فوائد أبي محمد عبد الله بن علي الطامذي تخريج أبي الفرج ثابت بن محمد المديني قال وعدة الفوائد هي ثلاثة أجزاء بخط المخرج في وقف ابن الجوهري واسمها بهجة الحافظ ولهجة اللافظ بإجازة الأول من أبي عبد الله محمد بن أبي غالب زهير بن محمد بن أحمد بن أبي سعد المعروف بشعرانة الأصبهاني بسماعه من الطامذي سنة تسع وخمسين وخمسمية قال وهذا الجزء الأول أوله خطبة وآخره [...] للبستي [... ....] وبإجازة يحيى من كريمة القرشية بإجازتها من الطامذي وجزء فضائل [... ...] فسمعهما أفضل الدين علي بن عمر بن عبد الرحيم بن بدر الجزري وآخرون في تاسع ذي القعدة سنة تسع وسبعمية "
+}

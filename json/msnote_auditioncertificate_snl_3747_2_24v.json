@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسن بن هبة الله بن عساكر"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "التجريد "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 47/48"
+      ],
+      "classmark": [
+        "3747/2"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "667"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "08eb9fc5-55c3-4048-b7c2-b32dfd14efc3",
+      "startIndex": 266,
+      "text": " ثالث ذي قعدة سنة سبع وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "285faf7e-8245-4246-8ecb-8b3fb40c7c8c",
+      "startIndex": 106,
+      "text": "أبي منصور عبد الرحمن بن محمد بن الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-sarrajin"
+          ]
+        ]
+      },
+      "endIndex": 324,
+      "guid": "3e4533d7-a8b2-4a11-b2cc-1a971dc93bca",
+      "startIndex": 303,
+      "text": "دار سيف السراجين بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "6b37dbf6-7fc6-4c96-9e5f-2a6aaedc494a",
+      "startIndex": 226,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "83728b00-9f44-414c-916e-185543c666a9",
+      "startIndex": 226,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "83d8938f-0aaf-4c37-b838-0d4e6ce9742c",
+      "startIndex": 28,
+      "text": "عز الدين أبي العز مظفر بن علي بن المظفر بن القاسم النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 215,
+      "guid": "a62aa44f-db55-4f40-a9c7-3ab716aa5100",
+      "startIndex": 177,
+      "text": "عبد الكريم ابن عبد الله بن بدران السراج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 383,
+      "guid": "b21ff861-60b5-493f-b9d5-bfdce00b5c32",
+      "startIndex": 345,
+      "text": "علي بن مسعود ابن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميعه على الشيخ الأجل عز الدين أبي العز مظفر بن علي بن المظفر بن القاسم النشبي بحق سماعه في آخره من أبي منصور عبد الرحمن بن محمد بن الحسن بسماعه من عمه المخرج فسمعه الحاج عبد الكريم ابن عبد الله بن بدران السراج وولداه المحمدان جبرهما الله تعالى وصح ذلك وثبت في ثالث ذي قعدة سنة سبع وستين وستماية بدار سيف السراجين بدمشق وكتب فقير رحمة ربه علي بن مسعود ابن نفيس الموصلي ثم الحلبي عفا الله عنه والحمد لله وحده وصلى الله على محمد وآله وصحبه وسلم تسليما "
+}

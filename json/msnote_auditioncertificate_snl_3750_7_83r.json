@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أحمد بن محمد بن حنبل"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند أنس بن مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 63 "
+      ],
+      "classmark": [
+        "3750/7"
+      ],
+      "folio_number": [
+        "83r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 333,
+      "guid": "1ca4c86b-c0fa-4018-a851-cc8701235c99",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 316,
+      "text": "الصلاح ابن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "23a1e3e4-6958-4ba4-bf79-6b74f3c1251c",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "ابن الحصين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "870"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "24e0244f-4d72-400f-a3c4-13d6f5472db6",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 190,
+      "text": "يوم السبت ثامن شهر الله المحرم سنة سبعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "34dc751a-6f51-4e8f-856b-5da335d6c0f6",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 94,
+      "text": "علي بن أبي بكر الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 435,
+      "guid": "3547e38a-f086-4613-a56e-eba5ffe99f25",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 420,
+      "text": "أبي بكر بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "47484138-309a-43c2-ac8f-18b9efe6467b",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 72,
+      "text": "ابن البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "a0d64aac-c88e-4ee4-9504-1c0efb1c1f37",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "فاطمة بنت خليل الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "a282dcc4-f8d8-4ace-b66f-8892a43ff3b5",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 127,
+      "text": "الفخر بن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "a5c6c9c1-a82f-4f93-81ba-f4e8e060b664",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 147,
+      "text": "حنبل الرصافي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 450,
+      "guid": "beb783af-87f9-4f1e-b122-8ef558e948c1",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 445,
+      "text": "الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 278,
+      "guid": "e2992a66-c1ce-4e63-94c2-34f8179e74f9",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 254,
+      "text": "يوسف بن حسن بن عبد الهادي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخة الأصيلة فاطمة بنت خليل الحرستاني بإجازتها من ابن البالسي بسماعه من علي بن أبي بكر الحراني بسماعه من الفخر بن البخاري عن حنبل الرصافي عن ابن الحصين وصح ذلك وثبت في يوم السبت ثامن شهر الله المحرم سنة سبعين وثمان ماية وأجازت وكتب يوسف بن حسن بن عبد الهادي وأخبرني به جماعة من شيوخنا إجازة عن الصلاح ابن أبي عمر إما إجازة وإما بسماعه عن الفخر بن البخاري وأخبرني به جماعة من شيوخنا إجازة عن الحافظ أبي بكر بن المحب كذلك عن الذهبي كذلك"
+}

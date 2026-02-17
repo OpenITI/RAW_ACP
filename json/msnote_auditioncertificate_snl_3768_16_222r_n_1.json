@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن إسماعيل بن صالح الصفار "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي علي إسماعيل بن محمد بن إسماعيل بن صالح الصفار عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 166"
+      ],
+      "classmark": [
+        "3768/16"
+      ],
+      "folio_number": [
+        "222r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 397,
+      "guid": "3bcf3bfb-4c1a-460d-8264-3c71562e22d4",
+      "startIndex": 394,
+      "text": "علي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "45907bcc-e8e4-4318-b9c1-6a5cdbd7021a",
+      "startIndex": 410,
+      "text": "محمد بن داود بن ياقوت الصارمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "4d6b2cf2-399f-4b31-9ac2-2926dbf3e460",
+      "startIndex": 208,
+      "text": "سالم بن ثمال بن عنان العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "634"
+        ]
+      },
+      "endIndex": 567,
+      "guid": "65d4753a-afda-4d45-95a1-ecb485b5dbd3",
+      "startIndex": 507,
+      "text": "الأربعاء الخامس من شهر الله الأصب رجب سنة أربع وثلاثين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 387,
+      "guid": "725b27de-fd8e-4adf-a1c9-4ef3c822bfdb",
+      "startIndex": 357,
+      "text": "علي بن أبي طالب بن مياس المنقذي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "7434d4bb-c764-43f2-a01c-e1bf3c2c30b3",
+      "startIndex": 147,
+      "text": "تقي الدين أبو عبد الله محمد بن أحمد بن محمد الأصفهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 487,
+      "guid": "971653f3-1917-4b40-bc28-b26742f9099b",
+      "startIndex": 479,
+      "text": "ابن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "c941a8c9-eea1-4f32-be8c-ac22b73a7a26",
+      "startIndex": 59,
+      "text": "أبي الحسن علي بن أبي عبد الله بن أبي الحسن ابن المقير البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 595,
+      "guid": "d0c3fea1-68b5-43f6-be8f-19cbf9bac6e8",
+      "startIndex": 570,
+      "text": "حلقة الحنابلة من جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "d8be79c1-96cf-4e76-aa77-a1f734aa676a",
+      "startIndex": 252,
+      "text": "ناصر الدين أبو نصر محمد بن عربشاه بن أبي بكر الهمداني ثم الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "e47e304d-41da-46d7-85c2-156822e54669",
+      "startIndex": 318,
+      "text": "أبو عمرو عثمان بن محمد بن عمر الحجازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "f1c8ef04-a561-4155-9eba-c572a97f98c0",
+      "startIndex": 242,
+      "text": "عبد الله",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ السماع لجميع هذا الجزء على الشيخ الصالح المتعبد الزاهد أبي الحسن علي بن أبي عبد الله بن أبي الحسن ابن المقير البغدادي عمره الله الجماعة السادة تقي الدين أبو عبد الله محمد بن أحمد بن محمد الأصفهاني والشيخ سالم بن ثمال بن عنان العرضي وابنه عبد الله وناصر الدين أبو نصر محمد بن عربشاه بن أبي بكر الهمداني ثم الدمشقي وأبو عمرو عثمان بن محمد بن عمر الحجازي وعلي بن أبي طالب بن مياس المنقذي وأخي علي وكتب القارئ محمد بن داود بن ياقوت الصارمي غفر الله له ولهم وذلك بإجازة المسمع من ابن البطي بسنده أوله في يوم الأربعاء الخامس من شهر الله الأصب رجب سنة أربع وثلاثين وستمئة بحلقة الحنابلة من جامع دمشق عمره الله وصح وثبت والحمد لله حق حمده وأجاز المسمع للمذكورين رواية هذا الجزء عنه ورواية جميع مسموعاته وما يجوز له روايته بسؤالي وتلفظ به كتبه محمد بن داود حامدا لله مصليا"
+}

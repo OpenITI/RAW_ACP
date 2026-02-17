@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن عبد العزيز المديني المصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي مطيع المصري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 156"
+      ],
+      "classmark": [
+        "3767"
+      ],
+      "folio_number": [
+        "25v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "6acefab0-b7fa-488e-b821-18d4bd1a67d6",
+      "startIndex": 107,
+      "text": "ابن بيان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "70cb0e72-1b66-4d16-91fa-d3324ed8f4b7",
+      "startIndex": 46,
+      "text": "ناصح الدين أبي الفرج عبد الرحمن بن نجم بن الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "85539eef-3ba0-4679-bfae-da4534030507",
+      "startIndex": 244,
+      "text": "علي بن مسعود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "616"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "d78ce0d9-bda7-437f-b7ea-7733d26d83d7",
+      "startIndex": 191,
+      "text": "الأربعاء رابع ربيع الآخر من سنة ست عشرة وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "e87a29ba-4b7f-4989-b4db-e501cdd129c1",
+      "startIndex": 149,
+      "text": "أحمد بن عبد الدائم بن نعمة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "f63e4b33-c165-46af-9ccd-6178f328f01c",
+      "startIndex": 119,
+      "text": "أبي مطيع",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه أعني الثاني من أمالي أبي مطيع على الشيخ ناصح الدين أبي الفرج عبد الرحمن بن نجم بن الحنبلي بروايته عن ابن بيان عن أبي مطيع بقراءته والسماع بخطه أحمد بن عبد الدائم بن نعمة المقدسي في يوم الأربعاء رابع ربيع الآخر من سنة ست عشرة وستماية نقله علي بن مسعود مختصرا من الأصل عفا الله عنه ورفق به"
+}

@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "منتخب من الفوائد الصحاح العوالي ج5"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 140"
+      ],
+      "classmark": [
+        "3764/8"
+      ],
+      "folio_number": [
+        "137v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 578,
+      "guid": "26774c3f-c4fe-4c88-b24f-93c5b2d5d69b",
+      "startIndex": 545,
+      "text": "محمد بن يوسف بن موسى بن خميس السقا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "5fb9dbe0-14bc-4169-b169-6ad1586a9748",
+      "startIndex": 287,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 502,
+      "guid": "72f0e0a7-0442-4e01-855a-8903df87633a",
+      "startIndex": 473,
+      "text": "محمد بن زكري بن إسماعيل النجار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "755614db-cf79-4a7a-8ba9-8ba119520038",
+      "startIndex": 158,
+      "text": " الموفق يعيش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "77b9336e-2476-4c33-ab66-c78e7a71eb5a",
+      "startIndex": 183,
+      "text": "أبي جعفر عبد الرحمن بن عبد الله بن أبي الحسن بن المقير البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "693"
+        ]
+      },
+      "endIndex": 673,
+      "guid": "839b8736-1798-4946-a5d5-84bc1cb5793c",
+      "startIndex": 630,
+      "text": "السبت ثالث ذي القعدة سنة ثلاث وتسعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 470,
+      "guid": "9f5c7a63-e00a-42f2-9b81-c461bb69f3fc",
+      "startIndex": 420,
+      "text": "محمد بن الشيخ محمد بن عبد الرحمن بن عبد الله الكنجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 617,
+      "guid": "a0fa5d88-7da6-42dc-9d24-7907ff6a6610",
+      "startIndex": 581,
+      "text": "التقي محمد بن عرفة بن المظفر الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 417,
+      "guid": "abbb1a34-d903-4044-9b9c-282639cb363f",
+      "startIndex": 383,
+      "text": "محمد بن محمد بن محمود بن علي الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "b7fa1381-01fc-4ea6-b239-03e30e236be1",
+      "startIndex": 43,
+      "text": "بهاء الدين وجماله أبي صابر أيوب بن أبي بكر بن إبراهيم بن النحاس الحلبي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 690,
+      "guid": "b95713f3-1f6a-45d6-8b99-b2255820e1ff",
+      "startIndex": 676,
+      "text": "كلاسة جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 380,
+      "guid": "dc933400-9ec2-4400-9ada-b6b171b7f26d",
+      "startIndex": 354,
+      "text": "أحمد بن عمر بن معتوق الأدمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 542,
+      "guid": "e563ac06-e720-42c7-b328-c5fee45316dd",
+      "startIndex": 505,
+      "text": "محمد بن إبراهيم بن محمد بن زكري المؤذن",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم بهاء الدين وجماله أبي صابر أيوب بن أبي بكر بن إبراهيم بن النحاس الحلبي الحنفي أكرمه الله تعالى بسماعه فيه باطنها من الموفق يعيش بحضور الشيخ أبي جعفر عبد الرحمن بن عبد الله بن أبي الحسن بن المقير البغدادي بإجازته من الموفق يعيش بسنده فيه بقراءة علي بن مسعود بن نفيس الموصلي ثم الحلبي وهذا خطه عفا الله عنه الشيخ أحمد بن عمر بن معتوق الأدمي ومحمد بن محمد بن محمود بن علي الذهبي ومحمد بن الشيخ محمد بن عبد الرحمن بن عبد الله الكنجي ومحمد بن زكري بن إسماعيل النجار ومحمد بن إبراهيم بن محمد بن زكري المؤذن ومحمد بن يوسف بن موسى بن خميس السقا والتقي محمد بن عرفة بن المظفر الأنصاري وصح في يوم السبت ثالث ذي القعدة سنة ثلاث وتسعين وستمائة بكلاسة جامع دمشق المحروسة والحمد لله وحده وصلى الله على سيدنا محمد نبيه وآله وصحبه وسلم تسليما كثيرا وصح و ثبت "
+}

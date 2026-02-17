@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الترمذي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أربعون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 613"
+      ],
+      "folio_number": [
+        "23r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000619"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "alexandria"
+          ]
+        ]
+      },
+      "endIndex": 176,
+      "guid": "349ddbdd-72c0-48b9-89de-2b980def0c04",
+      "startIndex": 163,
+      "text": "ثغر الإسكندرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "639"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "5068b55a-dea8-4284-abdb-335a2940b4a3",
+      "startIndex": 127,
+      "text": "يوم الاثنين منتصف ذي الحجة سنة 639",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "51281c66-8e2d-41f6-90b0-b1fb8d59c150",
+      "startIndex": 82,
+      "text": "أبي الرشد عيسى بن أبي بكر بن محمد الحميدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 20,
+      "guid": "5df6f573-539f-415a-bb7e-a0471087d107",
+      "startIndex": 12,
+      "text": "ا]بن رواج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "9c2e4a1e-1d2c-4d0a-9f41-eba6ddc40fec",
+      "startIndex": 22,
+      "text": "عبد المؤمن بن خلف بن أبي الحسن التوني الدمياطي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها على [ا]بن رواج عبد المؤمن بن خلف بن أبي الحسن التوني الدمياطي وغيره بقراءة أبي الرشد عيسى بن أبي بكر بن محمد الحميدي في يوم الاثنين منتصف ذي الحجة سنة 639 بثغر الإسكندرية"
+}

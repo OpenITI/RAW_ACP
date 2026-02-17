@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عفان بن مسلم الصفار الأنصاري البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث عفان بن مسلم الصفار عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 167"
+      ],
+      "classmark": [
+        "3768/17"
+      ],
+      "folio_number": [
+        "238v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 465,
+      "guid": "22ab16cc-075b-4fc9-8f35-495b00238a64",
+      "startIndex": 440,
+      "text": "يوسف بن عبد المنعم بن نعمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 546,
+      "guid": "256044de-d894-4c3b-a31f-8d54da80f2a2",
+      "startIndex": 538,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "47e59056-0d06-468a-857c-c93c9e88e5c1",
+      "startIndex": 278,
+      "text": "أبو عبد الله محمد بن محمود بن مطروح المصيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 419,
+      "guid": "4a8cc5fe-d02b-49d9-ad8d-e79fd3f59b3c",
+      "startIndex": 372,
+      "text": "أبو الحسن علي بن عبد المغيث بن عبد الرحمن الصقلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "605"
+        ]
+      },
+      "endIndex": 535,
+      "guid": "4b1ebff9-877e-4fdb-ad52-58925f9b52c9",
+      "startIndex": 500,
+      "text": "السبت ثاني ذي القعدة سنة خمس وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "be1695bb-4246-4c3f-8633-240c590a21b5",
+      "startIndex": 238,
+      "text": "أبو محمد بيان بن عثمان بن محمد الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "c6e8a973-7183-4382-885b-c6d82034325b",
+      "startIndex": 170,
+      "text": "أبو الفرج عبد [الرحمن] بن سلمان بن سعيد البغدادي ثم الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 369,
+      "guid": "f569642a-c39a-48cf-ad2e-7be0e739af40",
+      "startIndex": 323,
+      "text": "أبو محمد عبد الرحيم بن بدران بن أبي بكر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "fc2239a8-465f-4750-8866-6eecf9220c21",
+      "startIndex": 82,
+      "text": "موفق [الدين] أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الفقيه الإمام العالم الأوحد الصدر الكبير شيخ الإسلام سيدنا موفق [الدين] أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي أثابه الله الجنة الفقيه أبو الفرج عبد [الرحمن] بن سلمان بن سعيد البغدادي ثم الحراني والفقيه أبو محمد بيان بن عثمان بن محمد الدمشقي وأبو عبد الله محمد بن محمود بن مطروح المصيني وأبو محمد عبد الرحيم بن بدران بن أبي بكر المقدسي وأبو الحسن علي بن عبد المغيث بن عبد الرحمن الصقلي [في الأصل السقلي] ويوسف بن عبد المنعم بن نعمة بقراءته وهذا خطه وصح وثبت في يوم السبت ثاني ذي القعدة سنة خمس وستمائة بجامع دمشق والحمد لله"
+}

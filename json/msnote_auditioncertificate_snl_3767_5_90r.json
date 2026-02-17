@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر محمد بن عبد الغني بن أبي بكر ابن نقطة البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة من حديث مالك بن أنس "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 157"
+      ],
+      "classmark": [
+        "3767/5"
+      ],
+      "folio_number": [
+        "90r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "2f7f998f-3c27-415f-8166-ab0a1042a9ad",
+      "startIndex": 274,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "4c91634b-e411-4d9b-91c0-4cf761286211",
+      "startIndex": 64,
+      "text": "أبي الحجاج يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "744ad629-e882-47b6-a40b-79ee8712d990",
+      "startIndex": 116,
+      "text": "أبي بكر محمد بن إسماعيل ابن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "9d9a9808-5a19-49c5-9a44-7eb215afe8b8",
+      "startIndex": 169,
+      "text": "الكندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 267,
+      "guid": "c155a6a9-1acb-4215-b888-3eae3932511b",
+      "startIndex": 243,
+      "text": "دار الحديث الأشرفية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "732"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "f1068cda-fc4c-4a77-9ac6-dc4370eda8aa",
+      "startIndex": 183,
+      "text": "الأحد التاسع عشر من ربيع الآخر سنة اثنتين وثلاثين وسبعمائة",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت عوالي مالك هذه على الشيخ الإمام الحافظ الحجة شيخ حفاظ عصره أبي الحجاج يوسف بن الزكي عبد الرحمن المزي بسماعه من أبي بكر محمد بن إسماعيل ابن الأنماطي بسماعه حضورا من الكندي في يوم الأحد التاسع عشر من ربيع الآخر سنة اثنتين وثلاثين وسبعمائة بدار الحديث الأشرفية بدمشق كتبه محمد بن عبد الله بن أحمد بن المحب"
+}

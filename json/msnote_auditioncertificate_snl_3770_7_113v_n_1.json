@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن محمد الأصبهاني الدقاق "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "معجم مشايخ الدقاق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 173"
+      ],
+      "classmark": [
+        "3770/7"
+      ],
+      "folio_number": [
+        "113v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "1cd1b070-c3b5-47d4-a9d0-157f5cf85f8f",
+      "startIndex": 188,
+      "text": "محمد بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "6a25562f-67d9-4598-b833-eaed64e0d0af",
+      "startIndex": 92,
+      "text": "أبي الحسن مسعود بن أبي منصور بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "persia",
+            "isfahan"
+          ]
+        ]
+      },
+      "endIndex": 306,
+      "guid": "715450fa-6e62-4588-94b4-04ad9341d948",
+      "startIndex": 301,
+      "text": "أصفهان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "79fd9f40-8194-4bfe-8cbc-1ee75a45bbde",
+      "startIndex": 140,
+      "text": "عبد الله بن عبد الغني بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "e6344947-585e-4f7b-81e0-8e602e6e60c9",
+      "startIndex": 313,
+      "text": "ابن الدخميسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "594"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "f6073d08-a2ad-4dca-8ef7-e440bd0a65af",
+      "startIndex": 242,
+      "text": "الأربعاء ثالث ربيع الآخر لسنة أربع وتسعين وخمسماية",
+      "type": "date"
+    }
+  ],
+  "text": "سمع جميع ما في آخر هذا المعجم وهو من أمالي أبي عبد الله محمد بن عبد الواحد الدقاق على الشيخ أبي الحسن مسعود بن أبي منصور بن محمد بسماعه فيه عبد الله بن عبد الغني بن عبد الواحد بقراءة أخيه محمد بن عبد الغني ومن خطه نقلت وآخرون اختصرتهم في يوم الأربعاء ثالث ربيع الآخر لسنة أربع وتسعين وخمسماية بمحروسة أصفهان نقله ابن الدخميسي"
+}

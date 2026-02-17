@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن أحمد بن بلبان الناصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأحاديث العوالي من المصافحات والموافقات والأبدال"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 43"
+      ],
+      "classmark": [
+        "3746/1"
+      ],
+      "folio_number": [
+        "30r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "zar'",
+            "hanabila_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 284,
+      "guid": "276ab8a7-e163-45cd-a935-f75f8782cd9a",
+      "startIndex": 266,
+      "text": "مدرسة الحنابلة بزرع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "68900104-2353-4ce5-a2dc-043da5d35229"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "59c3b17a-60d9-4b3c-8c77-22b4609e5450",
+      "startIndex": 98,
+      "text": "ضياء الدين أبي الفضائل دانيال بن منكلي بن صرفا الكركي التركماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 254,
+      "guid": "6c8a6131-1276-45e1-8557-00ca111cb856",
+      "startIndex": 210,
+      "text": "أبو يعقوب يوسف بن رزيق بن عبد الرزاق النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 386,
+      "guid": "95aa7824-4e61-4b55-b151-64f155926e0b",
+      "startIndex": 361,
+      "text": "محمد بن عبد الرحمن بن سامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "682"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "e70b6c25-ad17-4b01-a133-84fbd2414f22",
+      "startIndex": 289,
+      "text": "يوم الجمعة الثاني والعشرين من ذي القعدة سنة اثنتين وثمانين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ]
+      },
+      "endIndex": 552,
+      "guid": "f3411621-a4dd-47e1-8e51-d4f569b039a9",
+      "startIndex": 401,
+      "text": "صحيح ذلك كتبه دانيال بن منكلي بن صرفا التركماني الكركي الشافعي النائب في الحكم العزيز يومئذ بزرع المحروسة وأعمالها عفا الله عنه في التاريخ المذكور أعلاه",
+      "type": "signature_of_musmi"
+    }
+  ],
+  "text": " بلغت قراءة من أول هذه المشيخة خلا الكلام على أحاديثها على المخرجة له القاضي الإمام العالم الفاضل ضياء الدين أبي الفضائل دانيال بن منكلي بن صرفا الكركي التركماني أطال الله بقاءه فكملت لي المشيخة جمعاء فسمع ذلك أبو يعقوب يوسف بن رزيق بن عبد الرزاق النابلسي وصح وثبت بمدرسة الحنابلة بزرع في يوم الجمعة الثاني والعشرين من ذي القعدة سنة اثنتين وثمانين وستماية كتبه محمد بن عبد الرحمن بن سامة عفا الله عنه صحيح ذلك كتبه دانيال بن منكلي بن صرفا التركماني الكركي الشافعي النائب في الحكم العزيز يومئذ بزرع المحروسة وأعمالها عفا الله عنه في التاريخ المذكور أعلاه"
+}

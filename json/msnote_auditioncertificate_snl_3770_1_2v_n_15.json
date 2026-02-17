@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضل بن أحمد بن محمد الفراوي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "العوالي المائة من مسموعات الفراوي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 15"
+      ],
+      "catalog": [
+        "FMMU 172"
+      ],
+      "classmark": [
+        "3770/1"
+      ],
+      "folio_number": [
+        "2v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 30,
+      "guid": "1b24bbde-9848-48f4-b8c1-e40a87aa264b",
+      "startIndex": 19,
+      "text": "أحمد بن سامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "22dcdfa0-6b57-4bc8-b78a-29fd6412a1b7",
+      "startIndex": 38,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "666"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "30793047-797e-4541-bc1f-6652b7b83b09",
+      "startIndex": 82,
+      "text": " الخميس في عشر رجب الوسط سنة ست وستين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "619574ef-a279-482e-94ea-30be7ccfe956",
+      "startIndex": 32,
+      "text": "محمد ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها عليه بقراءة أحمد بن سامة محمد وعبد الرحمن ابنا أحمد بن عبد الله بن راجح يوم الخميس في عشر رجب الوسط سنة ست وستين وستمئة"
+}

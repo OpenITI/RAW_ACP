@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن الصقر المعروف بابن النمط أبو بكر الزاهد "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي بكر محمد بن عبد الله الشافعي وأبي قلابة محمد بن أحمد بن حمدان السراج الإمام وأبي يعقوب يوسف بن يعقوب النجيرمى وأبي بكر الخوخاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 164"
+      ],
+      "classmark": [
+        "3768/12"
+      ],
+      "folio_number": [
+        "183r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "091c02be-e0cb-4e19-8d03-7c8b01dd76e6",
+      "startIndex": 119,
+      "text": "أبو محمد عبد الغني بن عبد الواحد بن علي بن سرور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "561"
+        ]
+      },
+      "endIndex": 278,
+      "guid": "1d1e4b1d-15c7-4aee-b0bf-e8734f1488f3",
+      "startIndex": 210,
+      "text": "السبت السابع والعشرون من شهر جمادى الآخرة من سنة إحدى وستين وخمسمائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 399,
+      "guid": "6ee2532d-e03d-466e-a36c-35c8030439a7",
+      "startIndex": 279,
+      "text": "صحيح ذلك وكتب محمد بن عبد الباقي بن أحمد بن سلمان في التاريخ والحمد لله رب العالمين وصلواته على سيدنا محمد نبيه وآله وسلم",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "ba9d3bc7-ddb3-46d6-8d60-fe7d204bbc2e",
+      "startIndex": 103,
+      "text": "ابن خيرون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "bdd04817-ec84-4e87-a6c9-2feca15b5dd4",
+      "startIndex": 172,
+      "text": "عبد الله بن أحمد بن محمد بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "c5ec288d-e935-4003-82c9-c4ec4196d4b3",
+      "startIndex": 38,
+      "text": "أبي الفتح محمد بن عبد الباقي بن أحمد بن سلمان",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء على شيخنا الإمام الثقة أبي الفتح محمد بن عبد الباقي بن أحمد بن سلمان عرضا بأصل سماعه من ابن خيرون فسمعه أبو محمد عبد الغني بن عبد الواحد بن علي بن سرور وكتب عبد الله بن أحمد بن محمد بن قدامة يوم السبت السابع والعشرون من شهر جمادى الآخرة من سنة إحدى وستين وخمسمائة صحيح ذلك وكتب محمد بن عبد الباقي بن أحمد بن سلمان في التاريخ والحمد لله رب العالمين وصلواته على سيدنا محمد نبيه وآله وسلم"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "178r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "453"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "3d83832c-38e5-414c-b46b-b5da7530db60",
+      "startIndex": 159,
+      "text": "ربيع الأول من سنة ثلث وخمسة وأربعمائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "8e09f815-1da5-435b-bb92-bc5bc62f7d6e",
+      "startIndex": 86,
+      "text": "العلاء بن أبي المغيرة بن حزم الأندلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 150,
+      "guid": "bcd97e58-2e7f-47b9-9e99-bc11aeb94281",
+      "startIndex": 130,
+      "text": "دمشق في المسجد الجامع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "d3fcc3ac-ba78-43b4-9e24-42ad2764c3e1",
+      "startIndex": 22,
+      "text": " أبي محمد عبد العزيز بن أحمد بن علي الكتاني الصوفي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه من لفظ الشيخ أبي محمد عبد العزيز بن أحمد بن علي الكتاني الصوفي رضي الله عنه العلاء بن أبي المغيرة بن حزم الأندلسي وذلك بدمشق في المسجد الجامع في شهر ربيع الأول من سنة ثلث وخمسة وأربعمائة "
+}

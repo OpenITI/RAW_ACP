@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن بشر الزبيري العكبري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي بكر الزبيري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 21/22"
+      ],
+      "classmark": [
+        "3740/2"
+      ],
+      "folio_number": [
+        "34r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "00ef2aa1-9ef0-4645-9cdb-fe90fc1944eb",
+      "index": 164,
+      "isZeroPoint": false,
+      "startIndex": 336,
+      "text": "حسن بن علي بن محمد الموقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "09767421-4cd1-4312-83a7-a7ceb53e57f6",
+      "index": 157,
+      "isZeroPoint": false,
+      "startIndex": 84,
+      "text": "أبي محمد فارس بن أبي فراس بن عبد الله الجعبري الدلال في الحوائص",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "0ba044e5-e948-419f-a060-cce4fc7d0f3d",
+      "index": 159,
+      "isZeroPoint": false,
+      "startIndex": 199,
+      "text": "الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 301,
+      "guid": "318a48ec-4865-41d1-937f-449074f88bda",
+      "index": 161,
+      "isZeroPoint": false,
+      "startIndex": 268,
+      "text": "أبي محمد عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 387,
+      "guid": "37f6068b-9f7d-4439-988c-d9967dc80e1f",
+      "index": 165,
+      "isZeroPoint": false,
+      "startIndex": 364,
+      "text": "عرار بن عبد الله المخدم؟",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "3f1e6109-c25a-4f78-b1ec-ea37b6a93281",
+      "index": 160,
+      "isZeroPoint": false,
+      "startIndex": 224,
+      "text": "عبد الوهاب المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 476,
+      "guid": "41749c13-9e7f-4fb7-bbad-5f5e2ffd7b25",
+      "index": 169,
+      "isZeroPoint": false,
+      "startIndex": 442,
+      "text": "محمد بن يحيى بن محمد بن سعد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 543,
+      "guid": "4aa4b6d1-1cde-47df-8c98-8bdfcc4df01d",
+      "index": 171,
+      "isZeroPoint": false,
+      "startIndex": 535,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "606e641a-f2c2-4bf8-8cb4-40524c80d9f0",
+      "index": 156,
+      "isZeroPoint": false,
+      "startIndex": 33,
+      "text": "أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "726"
+        ]
+      },
+      "endIndex": 532,
+      "guid": "63058c13-f4fc-4e5c-85af-0ca27c1c8561",
+      "index": 170,
+      "isZeroPoint": false,
+      "startIndex": 485,
+      "text": "يوم السبت الخامس من صفر من سنة ست وعشرين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 400,
+      "guid": "83b71832-99fb-4094-8ec3-a38949c15fdf",
+      "index": 166,
+      "isZeroPoint": false,
+      "startIndex": 396,
+      "text": "بشير ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 313,
+      "guid": "aa8395b7-83b6-4ee2-bad8-cbd722609838",
+      "index": 162,
+      "isZeroPoint": false,
+      "startIndex": 309,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 327,
+      "guid": "bcc67053-465f-4aac-ac33-1236965c9f01",
+      "index": 163,
+      "isZeroPoint": false,
+      "startIndex": 324,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "dcd95876-8af3-4263-ae77-29e67e25285d",
+      "index": 158,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "أبي الحسن علي بن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 439,
+      "guid": "e4c7487a-fc64-48bf-8a00-e64063f220cb",
+      "index": 168,
+      "isZeroPoint": false,
+      "startIndex": 402,
+      "text": "محمد بن أحمد بن علي بن [لاجين؟] الطحان",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على الشيخين الإمام الحافظ أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي وأبي محمد فارس بن أبي فراس بن عبد الله الجعبري الدلال في الحوائص بسماع الأول من أبي الحسن علي بن البخاري بإجازته من الخشوعي وبسماع الثاني من عبد الوهاب المقدسي بسماعه من الخشوعي بقراءة أبي محمد عبد الله بن أحمد بن المحب ابناه محمد وهذا خطه وأحمد والشيخ حسن بن علي بن محمد الموقي و[عرار بن عبد الله المخدم؟] وابنه بشير ومحمد بن أحمد بن علي بن [لاجين؟] الطحان ومحمد بن يحيى بن محمد بن سعد المقدسي وغيرهم يوم السبت الخامس من صفر من سنة ست وعشرين وسبعمية بجامع دمشق وأجاز لهم"
+}

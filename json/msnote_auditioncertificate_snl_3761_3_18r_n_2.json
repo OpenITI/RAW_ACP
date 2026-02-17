@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن عبد الباقي بن أبي القاسم بن الباجي الصقلي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي علي الصقلي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 116"
+      ],
+      "classmark": [
+        "3761/3"
+      ],
+      "folio_number": [
+        "18r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "174231da-90d6-4b7f-8ece-07e4fc4bd751",
+      "startIndex": 63,
+      "text": "ابن البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "7d6e5866-8c91-48f5-a35d-3ad7c2e9ee50",
+      "startIndex": 85,
+      "text": " ابن المحب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "8d86f03f-a96d-47a2-8f08-9f745b911b5c",
+      "startIndex": 196,
+      "text": "يوسف بن حسن ابن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "870"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "ca3d10d9-e2e2-49ec-9d15-aaf5bef83747",
+      "startIndex": 130,
+      "text": "الخميس ثامن عشرين شهر الله المحرم سنة سبعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "d09ef7cc-e26c-4e5d-8bc2-c09604d35d04",
+      "startIndex": 25,
+      "text": "شهاب الدين أحمد بن الشريفة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "e4434252-c430-4dae-92e4-50b951d5cb35",
+      "startIndex": 97,
+      "text": "زينب بنت الكمال",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء على الشيخ شهاب الدين أحمد بن الشريفة بإجازته من ابن البالسي بإجازته من ابن المحب وزينب بنت الكمال وصح ذلك وثبت يوم الخميس ثامن عشرين شهر الله المحرم سنة سبعين وثمان ماية وأجاز وكتب يوسف بن حسن ابن عبد الهادي وأخبرني به جماعة من شيوخنا إجازة بإجازتهم من ابن المحب"
+}

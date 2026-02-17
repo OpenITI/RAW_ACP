@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "108r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "6a95af19-e47f-4341-913e-94f249102b67",
+      "startIndex": 100,
+      "text": "جبريل بن ياقوت الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "ad2694ab-f9ff-4de6-85d1-ad974ccca674",
+      "startIndex": 24,
+      "text": "عبد الله بن محمد بن إبراهيم ابن القيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "b8bd28de-431c-44e0-b5b2-939b18b8f5c5",
+      "startIndex": 124,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "745"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "e375e23f-eddf-4b80-b7ad-e36f6181e022",
+      "startIndex": 179,
+      "text": "الاثنين ثاني عشر رمضان سنة خمس وأربعين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "e4829db0-d2c3-4024-a94e-f0b8d9d69f5f",
+      "startIndex": 72,
+      "text": "ابن الكمال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "hanut_musmi'"
+          ]
+        ]
+      },
+      "endIndex": 232,
+      "guid": "fccf3e4e-31b9-4746-9191-c3b194b36a09",
+      "startIndex": 227,
+      "text": "حانوته",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "ff0615fc-a469-4f20-ad4e-29c0b2e7ec20",
+      "startIndex": 84,
+      "text": "ابن طرخان",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الحاج عبد الله بن محمد بن إبراهيم ابن القيم بسماعه من ابن الكمال وابن طرخان الشيخ جبريل بن ياقوت الصالحي ومحمد بن عبد الله بن أحمد بن المحب بقراءته وهذا خطه يوم الاثنين ثاني عشر رمضان سنة خمس وأربعين وسبعمية بحانوته والحمد لله"
+}

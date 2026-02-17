@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد اللطيف بن عبد المنعم ابن الصيقل الحراني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء العاشر من موافقات الايمّة الستّة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 515"
+      ],
+      "folio_number": [
+        "14v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011391"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "3aea0cb8-883e-4097-b19e-a5abd0f92499",
+      "startIndex": 193,
+      "text": "زين الدين عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "4d373a2b-6a31-46a4-9c4b-b67de41ae4a4",
+      "startIndex": 75,
+      "text": "كمال الدين أبي محمد عبد الرحمن بن أبي بكر بن أبي بكر بن محمد بن محمود البسطامي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "6630e6dc-e476-45ad-87f1-1bb44573c7ad",
+      "startIndex": 285,
+      "text": "محمد بن إبراهيم بن محمد الواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "713"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "988fe421-e86c-40bd-a294-81332dab4ff4",
+      "startIndex": 209,
+      "text": " يوم الأحد ثامن عشري القعدة سنة ثلاث عشرة وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-salihyia_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 278,
+      "guid": "9b511fa2-f8eb-4d2b-98b0-e3b6ee48305a",
+      "startIndex": 260,
+      "text": "الصالحية من القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "e11d0f54-1b6a-41e8-8e6d-a2432115e35b",
+      "startIndex": 176,
+      "text": "النجيب",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت قراءة من أوله للأحاديث دون الكلام على الشيخ الإمام العالم أقضى القضاة كمال الدين أبي محمد عبد الرحمن بن أبي بكر بن أبي بكر بن محمد بن محمود البسطامي الحنفي، بسماعه فيه من النجيب وسمع ولده زين الدين عمر في يوم الأحد ثامن عشري القعدة سنة ثلاث عشرة وسبعمئة بالصالحية من القاهرة وكتب محمد بن إبراهيم بن محمد الواني."
+}

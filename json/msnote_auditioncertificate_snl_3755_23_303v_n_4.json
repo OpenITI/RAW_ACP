@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن الصلت"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد منتقاة من رواية الشيخين أحمد بن الصلت وعبيد الله بن محمد بن أبي مسلم عن شيوخهما"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 89"
+      ],
+      "classmark": [
+        "3755/23"
+      ],
+      "folio_number": [
+        "303v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "10559131-4e20-4938-8e21-7b1d633617e9",
+      "index": 117,
+      "isZeroPoint": false,
+      "startIndex": 263,
+      "text": "يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "1385ad81-dd90-4ac1-be3d-71bbbad781b8",
+      "index": 112,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "ست الكتبة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "28f87774-5ad8-4dea-99ee-da1305f4270c",
+      "index": 115,
+      "isZeroPoint": false,
+      "startIndex": 248,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "671"
+        ]
+      },
+      "endIndex": 460,
+      "guid": "29a24cd0-2697-4aa3-9204-3e77df247f97",
+      "index": 121,
+      "isZeroPoint": false,
+      "startIndex": 427,
+      "text": " سادس محرم سنة إحدى وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 568,
+      "guid": "3b9abe40-cf61-4e1e-8668-ff048689f014",
+      "index": 123,
+      "isZeroPoint": false,
+      "startIndex": 531,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "4268c537-4c18-4f9d-9d43-8f8b2e536e2a",
+      "index": 116,
+      "isZeroPoint": false,
+      "startIndex": 254,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 410,
+      "guid": "4c8e3730-a51a-4979-b392-f34e1a5b2120",
+      "index": 120,
+      "isZeroPoint": false,
+      "startIndex": 380,
+      "text": "أحمد بن إبراهيم بن أحمد بن سونج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "5f57c9b6-8a90-4658-b330-6af175d95127",
+      "index": 111,
+      "isZeroPoint": false,
+      "startIndex": 122,
+      "text": " تاج الدين الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "65fbe35a-dc71-43d2-8040-3766441f539b",
+      "index": 114,
+      "isZeroPoint": false,
+      "startIndex": 236,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "9a61e77c-e692-4043-bd10-26cf4bb60fa9",
+      "index": 113,
+      "isZeroPoint": false,
+      "startIndex": 178,
+      "text": "نجم الدين علي بن محمد بن عمر بن هلال الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "a6136749-916f-40a0-a83f-0f6256e037a1",
+      "index": 110,
+      "isZeroPoint": false,
+      "startIndex": 45,
+      "text": "سيف الدين أبي زكريا يحيى بن عبد الرحمن بن نجم بن الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 335,
+      "guid": "ae225c24-3b26-4f1c-8293-ca30f09fb22b",
+      "index": 119,
+      "isZeroPoint": false,
+      "startIndex": 306,
+      "text": "محمد بن مجد الدين الحريري أبوه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "d6093ef3-f498-4d6f-9858-93bd546a001e",
+      "index": 118,
+      "isZeroPoint": false,
+      "startIndex": 284,
+      "text": "عيسى بن بركة بن والي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "sahibiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 491,
+      "guid": "f0cd72be-6650-4280-aa71-76fcca7d87f8",
+      "index": 122,
+      "isZeroPoint": false,
+      "startIndex": 463,
+      "text": "مدرسة الصاحبة بسفح جبل قاسيون",
+      "type": "place"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على الشيخ الإمام الأصيل سيف الدين أبي زكريا يحيى بن عبد الرحمن بن نجم بن الحنبلي بسماعه فيه منقولا من تاج الدين الكندي وإجازته من ست الكتبة بسندهما فيه فسمع نجم الدين علي بن محمد بن عمر بن هلال الأزدي وأولاد المسمع عبد الرحمن ومحمد وإبراهيم ويوسف حضر في الخامسة وعيسى بن بركة بن والي ومحمد بن مجد الدين الحريري أبوه وسمع من حديث أبي أحمد الفرضي إلى آخر الجزء أحمد بن إبراهيم بن أحمد بن سونج وصح ذلك وثبت في سادس محرم سنة إحدى وسبعين وستماية بمدرسة الصاحبة بسفح جبل قاسيون ظاهر دمشق المحروسة كتبه فقير رحمة ربه علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه وأجاز المسمع جميع مروياته بشرطه والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلم"
+}

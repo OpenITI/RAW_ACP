@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن محمد بن إبراهيم الحنائي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي القاسم الحنائي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 70"
+      ],
+      "classmark": [
+        "3753/2"
+      ],
+      "folio_number": [
+        "35r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "50db7b0c-265e-49ad-acc6-49e7b20b6c84",
+      "startIndex": 23,
+      "text": "أبو محمد عبد الرحمن بن علي بن المسلم اللخمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "6b5e8108-b82b-4220-a746-a252469ed09f",
+      "startIndex": 145,
+      "text": "عماد الدين أبي إسحق إبراهيم بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "525"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "9f130c4c-9278-4d50-a1c2-a2f86225f51a",
+      "startIndex": 70,
+      "text": "يوم الخميس سابع عشري ذي القعدة سنة خمس وعشرين وخمسماية",
+      "type": "date"
+    }
+  ],
+  "text": " وسماعه أيضا عليه ومعه أبو محمد عبد الرحمن بن علي بن المسلم اللخمي في يوم الخميس سابع عشري ذي القعدة سنة خمس وعشرين وخمسماية نقلته من نقل الإمام عماد الدين أبي إسحق إبراهيم بن عبد الواحد"
+}

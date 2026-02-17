@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 604"
+      ],
+      "folio_number": [
+        "63v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000610"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "725696b6-8cb6-457d-8058-6f85fedfb214",
+      "startIndex": 62,
+      "text": "أبي عبد الله ابن الميلق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 100,
+      "guid": "7ce07645-b649-472a-b0f7-6131a37302e6",
+      "startIndex": 87,
+      "text": "منزله بالقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 38,
+      "guid": "9050639a-e4a3-4a70-ac9e-0f7a66d5666b",
+      "startIndex": 18,
+      "text": "محمد بن أحمد التزمنتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "793"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "f2f27914-8eb0-41b6-85b2-0bcaa22f577e",
+      "startIndex": 102,
+      "text": "سنة 793",
+      "type": "date"
+    }
+  ],
+  "text": "بلغ في الثامن عشر محمد بن أحمد التزمنتي قراءة على قاضي القضاة أبي عبد الله ابن الميلق بمنزله بالقاهرة سنة 793 والحمد لله وحده."
+}

@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي بن عاصم ابن المقرئ الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرخصة في تقبيل اليد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 181"
+      ],
+      "classmark": [
+        "3771/11"
+      ],
+      "folio_number": [
+        "161r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "1948bcbb-bf8e-4522-b16a-37bf16ccccfb",
+      "startIndex": 21,
+      "text": "أبي عمرو عثمان بن إبراهيم بن أبي علي الحمصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "461867d1-d7a6-496a-b780-16db72649397",
+      "startIndex": 69,
+      "text": "الضياء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "8641ea22-bc9b-4152-a238-b997edd4b120",
+      "startIndex": 88,
+      "text": "المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "year": [
+          "701"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "c480d7ef-cded-4809-b281-dba4e103fa3d",
+      "startIndex": 106,
+      "text": "إحدى وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "eb5e6dc3-54d3-4131-a1a6-a9374693214c",
+      "startIndex": 76,
+      "text": "علي الجيتي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من الشيخ المقرئ أبي عمرو عثمان بن إبراهيم بن أبي علي الحمصي أنا الضياء علي الجيتي والمحب بقراءته سنة إحدى وسبعمائة"
+}

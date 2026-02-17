@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر محمد بن محمد بن جعفر الأنباري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر الأنباري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 116"
+      ],
+      "classmark": [
+        "3761/1"
+      ],
+      "folio_number": [
+        "5v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "570ea2c4-b302-479a-9d81-72be355cfd93",
+      "startIndex": 288,
+      "text": "عبد الله بن محمد بن جرير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "7d228850-eac9-4923-945b-907b2fec5b99",
+      "startIndex": 40,
+      "text": "أبي العباس أحمد بن الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "84eac7ca-98bc-46ad-9f4a-1e8c22e965bc",
+      "startIndex": 171,
+      "text": "أبي العز عبد المغيث بن زهير الحربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "89c1ed2c-0c47-4e4f-b14d-fe278b3cc73d",
+      "startIndex": 248,
+      "text": "عمر بن علي بن زيد اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "mansur_mosque"
+          ]
+        ]
+      },
+      "endIndex": 391,
+      "guid": "93adb182-ecea-4837-82d5-4e860a0076bc",
+      "startIndex": 380,
+      "text": "جامع المنصور",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "99badc05-e3ba-4d8d-a664-10d4699ad661",
+      "startIndex": 99,
+      "text": "الشريف بهاء الشرف أبي علي الحسن بن جعفر بن عبد الصمد ابن المتوكل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "551"
+        ]
+      },
+      "endIndex": 377,
+      "guid": "d2dce965-e5fa-4b27-81ef-e57571fdca37",
+      "startIndex": 346,
+      "text": " رجب من سنة إحدى وخمسين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "eb79122d-bd0c-41a3-9c98-0954c5657248",
+      "startIndex": 217,
+      "text": "عثمان بن محمد بن الحسن الدقاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "fc338a89-cb25-493a-92de-0c06cace5226",
+      "startIndex": 278,
+      "text": "عبد الله",
+      "type": "person"
+    }
+  ],
+  "text": "شاهدت على الأصل المنقول منه هذا وهو بخط أبي العباس أحمد بن الجوهري ما صورته سمع جميع هذا الجزء على الشريف بهاء الشرف أبي علي الحسن بن جعفر بن عبد الصمد ابن المتوكل بقراءة أبي العز عبد المغيث بن زهير الحربي جماعة منهم عثمان بن محمد بن الحسن الدقاق وعمر بن علي بن زيد اللتي وولده عبد الله وعبد الله بن محمد بن جرير وكتب السماع ومن خطه نقل وآخرون في رجب من سنة إحدى وخمسين وخمسماية بجامع المنصور"
+}

@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عمر بن محمد بن سلم بن البراء التميمي الجعابي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ذكر من حدث عن النبي هو وأبوه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "41r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f43.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "7aa9fb0f-eaef-4a2b-b7c0-b5dc937b2d54",
+      "startIndex": 98,
+      "text": "إسحق النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "733"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "8942d5fd-bc4e-4341-8d78-21bb725b3b80",
+      "startIndex": 167,
+      "text": "الأحد خامس عشر ربيع الآخر سنة ثلاث وثلاثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "8aa48385-d18e-435d-902c-7b66cf8972be",
+      "startIndex": 75,
+      "text": "الحمصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-sadriya"
+          ]
+        ]
+      },
+      "endIndex": 225,
+      "guid": "91473444-f337-4601-8b70-b2d65a8a70ef",
+      "startIndex": 219,
+      "text": "الصدرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "9538232f-3d69-4c1d-98fb-75c4958fa330",
+      "startIndex": 129,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "e58824aa-0df8-4799-bd14-64d7893e9cbe",
+      "startIndex": 23,
+      "text": "أبي عبد الله محمد بن أحمد بن عثمان الذهبي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الشيخ الحافظ أبي عبد الله محمد بن أحمد بن عثمان الذهبي بسماعه من الحمصي وإن كان سمعه من إسحق النحاس فقد أخبرنا بقراءته محمد بن عبد الله بن أحمد بن المحب يوم الأحد خامس عشر ربيع الآخر سنة ثلاث وثلاثين وسبعمية بالصدرية"
+}

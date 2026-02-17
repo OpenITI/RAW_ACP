@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي بن عاصم ابن المقرئ الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرخصة في تقبيل اليد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 181"
+      ],
+      "classmark": [
+        "3771/11"
+      ],
+      "folio_number": [
+        "161v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "015e1810-8248-40c7-bdf1-e4939304d13a",
+      "startIndex": 173,
+      "text": "الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "0289e81b-78db-4784-abd9-384ba1259c0e",
+      "startIndex": 77,
+      "text": "علي بن عبد الكافي السبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "81b7aad4-0aca-4594-9737-e03c7fdc44c5",
+      "startIndex": 71,
+      "text": "المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "707"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "dbefd5f1-ef17-4c54-aac9-56f28d38e42c",
+      "startIndex": 115,
+      "text": "ثاني شوال عام سبعة وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "e518bb68-f1cf-4d6c-abf4-22ba1e72dbcc",
+      "startIndex": 25,
+      "text": "محمود بن عمر بن محمد بن أبي بكر الهروي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 155,
+      "guid": "eb8a7bed-7b78-4edd-b5e4-8872ba1d16c6",
+      "startIndex": 144,
+      "text": "جبل الصالحية",
+      "type": "place"
+    }
+  ],
+  "text": "سمعه من الشيخ محمد ويلقب محمود بن عمر بن محمد بن أبي بكر الهروي بقراءة المحب علي بن عبد الكافي السبكي ومنه نقلت في ثاني شوال عام سبعة وسبعمائة بجبل الصالحية وأجاز لهم. كتبه الذهبي"
+}

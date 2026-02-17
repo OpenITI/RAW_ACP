@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عبد الله بن جعفر السعدي البصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "تسمية من روي عنه من اولاده العشرة وغيرهم من أصحاب رسول الله"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 138"
+      ],
+      "classmark": [
+        "3764/3"
+      ],
+      "folio_number": [
+        "39v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "defaultLabel": "Place1",
+      "guid": "505df94f-08af-4986-bf6e-658e0af3b4c0",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "968cf315-1562-4221-a84b-c9d44eaefb7d",
+      "startIndex": 128,
+      "text": "عبد العزيز بن الأخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 240,
+      "guid": "a94aed0f-9279-47e8-95e9-a6bf805902a8",
+      "startIndex": 232,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "bb02a0cf-dc6b-4454-861f-63b84502ee91",
+      "startIndex": 261,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "beaff44b-25f0-4555-91ff-522c3dd607fd",
+      "startIndex": 189,
+      "text": "أواخر جمادى الآخرة سنة ثمان وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "7254e871-19b8-4100-a289-94cd90578360"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "c8512c4c-cef1-4f4e-87d3-655c7d3afc9b",
+      "startIndex": 35,
+      "text": "جمال الدين أبي زكريا يحيى بن أبي منصور بن أبي الفتح بن الصيرفي الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "cbb712ef-bded-4a49-92f6-0eefc9bde50b",
+      "startIndex": 150,
+      "text": "موفق الدين عبد الله بن أحمد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته أجمع على شيخنا الإمام العالم جمال الدين أبي زكريا يحيى بن أبي منصور بن أبي الفتح بن الصيرفي الحراني بسماعه فيه وإجازته من عبد العزيز بن الأخضر وموفق الدين عبد الله بن أحمد المقدسي في أواخر جمادى الآخرة سنة ثمان وستين وستمائة بجامع دمشق وكتب فقير رحمة ربه علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه ورفق به "
+}

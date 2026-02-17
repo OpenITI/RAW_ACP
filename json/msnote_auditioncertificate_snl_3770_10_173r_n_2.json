@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إبراهيم المعدل الرازي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "مشيخة أبي عبد الله الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 173"
+      ],
+      "classmark": [
+        "3770/10"
+      ],
+      "folio_number": [
+        "173r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "1cf8a21a-0c8a-4f3f-a403-c46eb5bad26a",
+      "startIndex": 120,
+      "text": "محب الدين أبي عبد الله محمد بن الإمام محب الدين عبد الله بن أحمد بن محمد بن إبراهيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 294,
+      "guid": "36593dd9-e0e3-4500-96dc-dfcfe56f2a68",
+      "startIndex": 213,
+      "text": "عماد الدين أبي بكر بن المحب محمد بن الرضي عبد الرحمن بن محمد بن عبد الجبار المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 741,
+      "guid": "451e63fd-3219-42bb-b4a8-d8d3d4091e17",
+      "startIndex": 729,
+      "text": " أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 550,
+      "guid": "56fd5ee9-6e87-4f6a-b89f-8c06cee7ca90",
+      "startIndex": 475,
+      "text": "شهاب الدين أبي العباس أحمد بن محمد بن أبي المعالي بن حجى الزبداني ثم الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 845,
+      "guid": "5f9573ea-880b-4697-b342-bd9fb4508011",
+      "startIndex": 817,
+      "text": "سليمان بن محمد بن مسلم البدوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 1164,
+      "guid": "606cb403-de16-488e-a807-48cdd806c714",
+      "startIndex": 1133,
+      "text": "المدرسة الضيائية بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 704,
+      "guid": "60c6c6c1-ba62-4129-98fe-9babcadce8c7",
+      "startIndex": 670,
+      "text": "محب الدين أبي محمد عبد الله بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 808,
+      "guid": "6dfff3ba-bb8b-46e9-8d84-1439f60a268f",
+      "startIndex": 766,
+      "text": "محمد بن أحمد بن عمر بن سلمان البالسي القطان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 449,
+      "guid": "76e25697-bd6e-4135-8ebc-ef0b03b125e5",
+      "startIndex": 369,
+      "text": "شهاب الدين أبي العباس أحمد بن الشجاع عبد الرحمن بن إبراهيم بن علي الهكاري الصرخدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "726"
+        ]
+      },
+      "endIndex": 1130,
+      "guid": "8bd89745-0203-4f60-a3f8-88aa6e90a3c3",
+      "startIndex": 1085,
+      "text": "الاثنين تاسع شهر المحرم سنة ست وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1068,
+      "guid": "b694fb2c-1795-4bcb-91d7-159f0b5a55c1",
+      "startIndex": 1009,
+      "text": "شرف الدين داود بن محمد بن عبد الله بن محمد بن محمود المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "cc05cda8-8cf4-4c06-8487-7c6b5c903fda",
+      "startIndex": 297,
+      "text": "أم علي فاطمة بنت عبد الله بن محمد بن عوض المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 882,
+      "guid": "cec39f00-dac3-4220-90cb-ebcdc8a6e0d3",
+      "startIndex": 848,
+      "text": "محمد بن يحيى بن محمد بن سعد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 757,
+      "guid": "df294596-d89d-4ec5-bdc3-a2541dfadc07",
+      "startIndex": 744,
+      "text": "أبو الفتح أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 572,
+      "guid": "f1e7ab2e-91b2-4e0d-bdec-4730953c673d",
+      "startIndex": 563,
+      "text": "خطيب مردا ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "f83985bd-ed9b-4af9-b8be-00e9fefe9f5a",
+      "startIndex": 57,
+      "text": "شمس الدين أبي عبد الله محمد بن أحمد بن أبي الهيجاء ابن الزراد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذه المشيخة على الشيوخ الأربعة الأجلاء المسندين شمس الدين أبي عبد الله محمد بن أحمد بن أبي الهيجاء ابن الزراد ومحب الدين أبي عبد الله محمد بن الإمام محب الدين عبد الله بن أحمد بن محمد بن إبراهيم المقدسي وعماد الدين أبي بكر بن المحب محمد بن الرضي عبد الرحمن بن محمد بن عبد الجبار المقدسي وأم علي فاطمة بنت عبد الله بن محمد بن عوض المقدسي والجزء الأول على الشيخ شهاب الدين أبي العباس أحمد بن الشجاع عبد الرحمن بن إبراهيم بن علي الهكاري الصرخدي والجزء الثاني على الشيخ شهاب الدين أبي العباس أحمد بن محمد بن أبي المعالي بن حجى الزبداني ثم الصالحي بسماعهم من خطيب مردا وفاطمة بنت ابن عوض واللذين قبلها حضورا في الرابعة بسنده بقراءة الشيخ الإمام العالم البارع الحافظ محب الدين أبي محمد عبد الله بن أحمد أخي المسمع الثاني ابناه أبو بكر محمد وأبو الفتح أحمد والشيخ محمد بن أحمد بن عمر بن سلمان البالسي القطان والشيخ سليمان بن محمد بن مسلم البدوي ومحمد بن يحيى بن محمد بن سعد المقدسي وهذا خطه وسمع المشيخة سوى من أولها إلى آخر ترجمة الشيخ الأول وسوى ترجمة الشيخ الرابع عشر والخامس عشر والسادس عشر والسابع عشر شرف الدين داود بن محمد بن عبد الله بن محمد بن محمود المرداوي وصح ذلك في يوم الاثنين تاسع شهر المحرم سنة ست وعشرين وسبعماية بالمدرسة الضيائية بسفح جبل قاسيون وأجازوا لنا ما يرووه"
+}

@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مجهول"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "ورقة مفردة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 180"
+      ],
+      "classmark": [
+        "3771/?"
+      ],
+      "folio_number": [
+        "135v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "13166e1e-a9f5-4254-9f35-88514922b3e7",
+      "startIndex": 33,
+      "text": "أحمد بن أحمد بن عبد العزيز بن القاص",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 31,
+      "guid": "345c924d-4f31-499c-b450-ee6aaa6cc224",
+      "startIndex": 26,
+      "text": "البلخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 17,
+      "guid": "be56acbb-b8c7-4197-a3fb-9e78d2b2edca",
+      "startIndex": 9,
+      "text": "ابن نبهان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "507"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "cc3c3dd9-efe4-4cdb-98a8-2a0b067c17e7",
+      "startIndex": 72,
+      "text": "جمادى الأولى سنة سبع وخمسمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه من ابن نبهان بقراءة البلخي أحمد بن أحمد بن عبد العزيز بن القاص في جمادى الأولى سنة سبع وخمسمائة"
+}

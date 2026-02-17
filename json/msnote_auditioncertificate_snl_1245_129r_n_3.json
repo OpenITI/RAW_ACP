@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبدالله بن الزبير القرشي الحميدي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند الحميدي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "1245"
+      ],
+      "folio_number": [
+        "129r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "0c346b51-c05a-4753-9956-6002f86ae6d9",
+      "startIndex": 139,
+      "text": "عبد النصير بن علي بن يحيى بن إسماعيل المريوطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "alexandria",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 232,
+      "guid": "2bdf6952-fd4c-4ec8-9355-7f919c951796",
+      "startIndex": 209,
+      "text": "منزل المسمع بالإسكندرية ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 17,
+      "guid": "62305b6f-41a9-4a43-afc8-2d9a872e015a",
+      "startIndex": 9,
+      "text": " ابن عماد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "626"
+        ]
+      },
+      "endIndex": 296,
+      "guid": "765bf8e7-2d71-450c-84be-0fd932755543",
+      "startIndex": 258,
+      "text": "الرابع من شهر رجب سنة ست وعشرين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "a7ba5676-d296-4b5e-a00b-b519e7b8ea77",
+      "startIndex": 87,
+      "text": "أبو الحسن بن عبد العظيم بن أبي الحسن الحصني المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "dd946469-680b-4703-ac52-bf01031a3498",
+      "startIndex": 26,
+      "text": "أبي محمد عبد العزيز بن عبد القوي بن محمد الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على ابن عماد بقراءة أبي محمد عبد العزيز بن عبد القوي بن محمد الأنصاري جماعة منهم أبو الحسن بن عبد العظيم بن أبي الحسن الحصني المصري وعبد النصير بن علي بن يحيى بن إسماعيل المريوطي والسماع بخطه ومنه نقلت بمنزل المسمع بالإسكندرية [في الأصل بالإسكندري] في الرابع من شهر رجب سنة ست وعشرين وستمائة"
+}

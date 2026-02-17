@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 604"
+      ],
+      "folio_number": [
+        "102r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000610"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "3fc61b5c-433c-44fb-8048-6b764073d777",
+      "startIndex": 73,
+      "text": "أبي عبد الله بن المبلق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "644836a9-124e-4885-8f94-c35d1b63bb4e",
+      "startIndex": 29,
+      "text": "محمد بن أحمد التزمنتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 103,
+      "guid": "7bc5fd48-e09e-4be3-867d-4ffeef87f458",
+      "startIndex": 97,
+      "text": "القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "793"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "e157ccba-41f8-4113-a033-e87deff6ff4a",
+      "startIndex": 107,
+      "text": " شوال سنة 793",
+      "type": "date"
+    }
+  ],
+  "text": "بلغ في الثاني والعشرين العبد محمد بن أحمد التزمنتي قراءة على قاضي القضاة أبي عبد الله بن المبلق بالقاهرة في شوال سنة 793."
+}

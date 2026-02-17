@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "119v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f124.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f124.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "713"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "2b559a4d-42cc-4e6b-a24b-8284f794c1a3",
+      "index": 152,
+      "isZeroPoint": false,
+      "startIndex": 276,
+      "text": " رابع عشري جمادى الأول سنة ثلاث عشرة وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "3688e49b-4ff0-4cd0-8b52-b137df974bf3",
+      "index": 151,
+      "isZeroPoint": false,
+      "startIndex": 215,
+      "text": "عبد الله بن محمد بن أبي بكر بن خليل المكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "3b4cfb3d-6cd4-463d-9bc1-ca95e34b659f",
+      "index": 150,
+      "isZeroPoint": false,
+      "startIndex": 154,
+      "text": "عبد الله بن الشيخ محمد بن إبراهيم بن محمد بن مرتضى المدني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "40d7e99a-94e2-40f2-8579-f54fb36040a0",
+      "index": 149,
+      "isZeroPoint": false,
+      "startIndex": 117,
+      "text": "علي بن عبد الرحمن بن مشكور المياسمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "qabr_zakaria"
+          ]
+        ]
+      },
+      "endIndex": 334,
+      "guid": "9904ea8b-e702-4347-979d-c053ac042377",
+      "index": 153,
+      "isZeroPoint": false,
+      "startIndex": 326,
+      "text": "قبر زكريا",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "e120a886-8160-4f88-9ddc-6f6169f31b4d",
+      "index": 147,
+      "isZeroPoint": false,
+      "startIndex": 29,
+      "text": "أبي إسحق إبراهيم بن علي بن محمد بن غالب الأنصاري التاجر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "ecd0ed54-c5cc-4242-ae53-93d0b2041666",
+      "index": 148,
+      "isZeroPoint": false,
+      "startIndex": 102,
+      "text": "السخاوي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الشيخ الأجل المسند أبي إسحق إبراهيم بن علي بن محمد بن غالب الأنصاري التاجر بجيرون بسماعه من السخاوي الفقيه علي بن عبد الرحمن بن مشكور المياسمي وعبد الله بن الشيخ محمد بن إبراهيم بن محمد بن مرتضى المدنيان وعبد الله بن محمد بن أبي بكر بن خليل المكي بقراءته وذا خطه وصح رابع عشري جمادى الأول سنة ثلاث عشرة وسبعمائة عند قبر زكريا عليه السلام بدمشق."
+}

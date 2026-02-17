@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "31r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f33.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f33.item.r=%22arabe%20708%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 517,
+      "guid": "00949c11-cb37-410b-bd8f-fec97d14ddcf",
+      "index": 138,
+      "isZeroPoint": false,
+      "startIndex": 460,
+      "text": "شرف الدين أبو عبد الله الحسين بن إبراهيم بن الحسين الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "0ccdb3c2-cc2b-4dd1-8241-8e590a196350",
+      "index": 134,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "أبي جعفر عمر بن محمد بن معمر بن طبرزد البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "22b26170-2268-4498-9bcf-1b23c7f70ed1",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 190,
+      "text": "أبي الفتح الدومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 715,
+      "guid": "63032918-863d-4b7b-ba8a-1488250ad6a4",
+      "index": 142,
+      "isZeroPoint": false,
+      "startIndex": 698,
+      "text": "جامع دمشق بالكلاسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 457,
+      "guid": "80b415c8-d5e4-4c6f-9552-f2c51b68b4fd",
+      "index": 137,
+      "isZeroPoint": false,
+      "startIndex": 398,
+      "text": "ضياء الدين أبو الحسين محمد ابن إسماعيل بن عبد الجبار المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 825,
+      "guid": "bb5667c9-c647-465b-951b-0990b72a15f4",
+      "index": 143,
+      "isZeroPoint": false,
+      "startIndex": 781,
+      "text": "الحسن ابن علي بن عيسى اللخمي عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 570,
+      "guid": "c501187a-31df-4aae-bd00-f4b95523d1dd",
+      "index": 139,
+      "isZeroPoint": false,
+      "startIndex": 520,
+      "text": "الحسن بن محمد بن محمد بن محمد بن محمد البكري التيمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "604"
+        ]
+      },
+      "endIndex": 695,
+      "guid": "d3aef890-e03d-48e1-86b3-af673cce9bf4",
+      "index": 141,
+      "isZeroPoint": false,
+      "startIndex": 655,
+      "text": "يوم الثلاثاء رابع المحرم سنة أربع وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "decf8b6e-e7bf-427b-a439-fd4cdbe88969",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 210,
+      "text": "أبي بكر الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 600,
+      "guid": "e1040a5f-56e0-4364-a462-dbdf81c71c7f",
+      "index": 140,
+      "isZeroPoint": false,
+      "startIndex": 587,
+      "text": "أبو الفضل محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 373,
+      "guid": "f501554f-83ee-42d7-9fee-4a8cff666039",
+      "index": 136,
+      "isZeroPoint": false,
+      "startIndex": 294,
+      "text": "زكي الدين بقية السلف أبي محمد عبد العظيم ابن عبد القوي بن عبد الله [...] المنذري",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ [.........]\nالحافظ العلامة [.....]\nوشاهده في آخره ما مثاله سمع جميع هذا الجزء الثالث من كتاب السنن لأبي داود رحمه الله على الشيخ أبي جعفر عمر بن محمد بن معمر بن طبرزد البغدادي بسماعه من أبي الفتح الدومي عن أبي بكر الخطيب بسنده بقراءة صاحب هذه النسخة الشيخ الفقيه الإمام العالم الحافظ الحجة زكي الدين بقية السلف أبي محمد عبد العظيم ابن عبد القوي بن عبد الله [...] المنذري القاضي الإمام [العالم] ضياء الدين أبو الحسين محمد ابن إسماعيل بن عبد الجبار المقدسي وشرف الدين أبو عبد الله الحسين بن إبراهيم بن الحسين الإربلي والحسن بن محمد بن محمد بن محمد بن محمد البكري التيمي وهذا خطه وأخوه أبو الفضل محمد وجماعة في الأصل المقروء منه بوقف البندهي وكان ذلك في يوم الثلاثاء رابع المحرم سنة أربع وستمائة بجامع دمشق بالكلاسة نقله إلى هنا كما شاهده في الأصل بعد المعارضة حرفا بحرف عبد الله الحسن ابن علي بن عيسى اللخمي عرف بابن الصيرفي والحمد لله وحده."
+}

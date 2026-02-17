@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "170r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "723"
+        ]
+      },
+      "endIndex": 278,
+      "guid": "0bef460b-c13b-40dc-9e09-92764c66e960",
+      "index": 114,
+      "isZeroPoint": false,
+      "startIndex": 227,
+      "text": "يوم الخميس ثالث جمادى الآخرة سنة ثلاث وعشرين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "400fd0c9-2828-4afd-9f95-759378d1f066",
+      "index": 111,
+      "isZeroPoint": false,
+      "startIndex": 68,
+      "text": "ابن القميرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "al-mizza"
+          ]
+        ]
+      },
+      "endIndex": 298,
+      "guid": "725ec050-5ac6-46b1-b48d-72bf48a9ff6a",
+      "index": 115,
+      "isZeroPoint": false,
+      "startIndex": 281,
+      "text": "المزة من غوطة دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "7bb61b60-a87b-46c7-bdef-77486cf6ada4",
+      "index": 113,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "جمال الدين إبراهيم ابن الشيخ جمال الدين محمد بن نصر الله ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "bc64e230-4be4-4ba3-a60d-bfdcc581c8b9",
+      "index": 112,
+      "isZeroPoint": false,
+      "startIndex": 103,
+      "text": "محمد بن رافع بن أبي محمد بن محمد السلامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "bfe4e62b-8831-4000-9917-847b73339057",
+      "index": 110,
+      "isZeroPoint": false,
+      "startIndex": 16,
+      "text": " أبا نصر محمد بن محمد بن محمد بن الشيرازي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه عليه أعني أبا نصر محمد بن محمد بن محمد بن الشيرازي بسماعه من ابن القميرة فقط بقراءة كاتب السماع محمد بن رافع بن أبي محمد بن محمد السلامي سامحه الله جمال الدين إبراهيم ابن الشيخ جمال الدين محمد بن نصر الله ابن النحاس وصح يوم الخميس ثالث جمادى الآخرة سنة ثلاث وعشرين وسبعمية بالمزة من غوطة دمشق وأجاز لنا ما يرويه"
+}

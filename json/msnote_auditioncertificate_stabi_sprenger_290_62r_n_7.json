@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المؤتنف تكملة المؤتلف والمختلف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 7"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 290"
+      ],
+      "folio_number": [
+        "62r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1663217491/1200/0/00000167.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011164"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          ""
+        ]
+      },
+      "endIndex": 123,
+      "guid": "9f876d2a-84be-42cc-82e8-980d498351db",
+      "startIndex": 101,
+      "text": " شوال سنة سبع وعشرين...",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "a8f7a9ea-43fe-40d5-9825-a0040e059cc8",
+      "startIndex": 14,
+      "text": "أبي القاسم هبة [الله] الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "c8fda1a2-5542-401d-9f93-fa31cf4c4299",
+      "startIndex": 52,
+      "text": "يوسف بن محمد [..] هبة الله بن يوسف بن عمر [الر..]",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه على أبي القاسم هبة [الله] الواسطي، بقراءة يوسف بن محمد [..] هبة الله بن يوسف بن عمر [الر..] شوال سنة سبع وعشرين..."
+}

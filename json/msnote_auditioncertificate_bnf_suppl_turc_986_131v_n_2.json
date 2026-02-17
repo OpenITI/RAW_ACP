@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "131v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f136.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f136.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-qarafa"
+          ]
+        ]
+      },
+      "endIndex": 420,
+      "guid": "0b23eeee-edc5-4fb7-8d62-7af4bc6976cc",
+      "startIndex": 393,
+      "text": "تربة الفارس أقطاي من القرافة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 329,
+      "guid": "22e1e739-ea0b-4967-95db-b46965c4f16e",
+      "startIndex": 291,
+      "text": "أبو بكر بن عبد الرحيم بن فضائل السمنودي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "306fb122-8b51-452e-b078-4bf468316884",
+      "startIndex": 114,
+      "text": "ابن بنت الجميزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "3ac39fca-b9e8-4092-8d4c-2f5752da71d6",
+      "startIndex": 258,
+      "text": " كافور بن عبد الله النبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "8e516a74-3082-4f44-a31e-3cc1a60f284e",
+      "startIndex": 199,
+      "text": "أبو القاسم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 490,
+      "guid": "92bfd4f1-c775-461a-ab53-eeaa929e0b8b",
+      "startIndex": 446,
+      "text": "عبد الرحمن بن محمد بن عبد الرحمن ابن البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "a223c85b-1400-486f-9c90-bcd6b41e3f9b",
+      "startIndex": 180,
+      "text": "السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "707"
+        ]
+      },
+      "endIndex": 390,
+      "guid": "a75ceb43-d38e-4356-af29-600d5c099ae6",
+      "startIndex": 346,
+      "text": "يوم الأحد تاسع شهر ربيع الآخر سنة سبع وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "b75dd307-c6fa-4e60-8f89-16171a249c38",
+      "startIndex": 53,
+      "text": "أبي محمد شهاب بن علي بن عبد الله المحسني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "bac98fd8-a7a1-4255-b116-02c801814cb1",
+      "startIndex": 159,
+      "text": "ابن رواج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 341,
+      "guid": "c3e1f314-d422-49fa-904a-91823592ac47",
+      "startIndex": 337,
+      "text": "محمد ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الصالح المبارك المنقطع أبي محمد شهاب بن علي بن عبد الله المحسني بسماعه فيه نقلًا من ابن بنت الجميزي وبإجازته إن لم يكن سماعًا من ابن رواج بسماعهما من السلفي بسنده فسمعه أبو القاسم ابن المسمع وهو في الخامسة من عمره والطواشي الأجل كافور بن عبد الله النبلي والشيخ أبو بكر بن عبد الرحيم بن فضائل السمنودي وابنه محمد وصح يوم الأحد تاسع شهر ربيع الآخر سنة سبع وسبعمئة بتربة الفارس أقطاي من القرافة وأجاز لنا ما يرويه وكتب عبد الرحمن بن محمد بن عبد الرحمن ابن البعلبكي عفا الله عنه والحمد لله ثم وجدت سماعه على ابن رواج ونقلته وهو فيه نقلًا كتبه ابن البعلبكي"
+}

@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "181r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f185.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f185.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "177fd12e-89c1-4c63-85b5-71ac5516f9dc",
+      "index": 339,
+      "isZeroPoint": false,
+      "startIndex": 131,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 252,
+      "guid": "3d4ee3e8-8356-438a-ae8c-34b8301fc67c",
+      "index": 341,
+      "isZeroPoint": false,
+      "startIndex": 237,
+      "text": "المدرسة الضيائية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "60496a23-940a-4e64-8b63-7319c2163dc3",
+      "index": 342,
+      "isZeroPoint": false,
+      "startIndex": 274,
+      "text": "محمد بن مسلم بن مالك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "682"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "741240ca-11b8-4c33-8f1c-df04859cd202",
+      "index": 340,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "يوم الجمعة التاسع عشر من شهر ربيع الآخر من سنة اثنتين وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "8da994b0-3d80-49b7-8c5a-287b96806dd3",
+      "index": 338,
+      "isZeroPoint": false,
+      "startIndex": 55,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم مسند الشام فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد بن أحمد المقدسي بسماعه فيه من ابن طبرزد بسنده فيه وصح ذلك وثبت في يوم الجمعة التاسع عشر من شهر ربيع الآخر من سنة اثنتين وثمانين وستمئة بالمدرسة الضيائية من سفح قاسيون وكتبه محمد بن مسلم بن مالك والحمد لله وحده وصلى الله على سيدنا محمد وآله وسلم تسليمًا"
+}

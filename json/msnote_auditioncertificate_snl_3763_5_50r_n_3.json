@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاضي أبو يعلى محمد بن الحسين بن محمد الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي يعلى الفراء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 128"
+      ],
+      "classmark": [
+        "3763/5"
+      ],
+      "folio_number": [
+        "50r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "0ec7f14e-e637-4a63-91f7-967c6a63ffb6",
+      "startIndex": 24,
+      "text": "علاء الدين علي بن قيران السكزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "550d4be2-53a3-4656-8849-dd13f3b0aa8b",
+      "startIndex": 100,
+      "text": "عمر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "90e5e210-eb1c-41c1-a967-bfdd57ecbeac",
+      "startIndex": 56,
+      "text": "شهاب الدين أحمد بن خضر بن حامد الصواف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 170,
+      "guid": "950f980c-9020-4023-9b16-9cba5eee1179",
+      "startIndex": 160,
+      "text": "القـ[ـاهرة]",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "e2dc125d-7610-448d-8c2a-b73ef8c3e9bd",
+      "startIndex": 194,
+      "text": "عمر بن إبراهيم بن عبد الله بن عبد الله بن محمد ابن العجمي الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "734"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "f9234bdb-4d5c-48a9-a8d4-1d7648180d7c",
+      "startIndex": 108,
+      "text": "الاثنين سابع عشر شوال من سنة أربع وثلاثين وسبعماية",
+      "type": "date"
+    }
+  ],
+  "text": "وقرأته عليه فسمعه الشيخ علاء الدين علي بن قيران السكزي وشهاب الدين أحمد بن خضر بن حامد الصواف وابنه عمر يوم الاثنين سابع عشر شوال من سنة أربع وثلاثين وسبعماية بالقـ[ـاهرة] وأجازنا ما يرويه كتبه عمر بن إبراهيم بن عبد الله بن عبد الله بن محمد ابن العجمي الحلبي"
+}

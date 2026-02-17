@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "129v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f134.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f134.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "36a52725-e5a9-440b-bdae-d484657e80bb",
+      "index": 75,
+      "isZeroPoint": false,
+      "startIndex": 58,
+      "text": " بلبان الجمدار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "72231ee0-b6c5-48a1-9ebf-d891e01c9f15",
+      "index": 76,
+      "isZeroPoint": false,
+      "startIndex": 80,
+      "text": "شهاب بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "d179be81-e45d-47f2-8fe8-5e7f68bc1a6f",
+      "index": 77,
+      "isZeroPoint": false,
+      "startIndex": 95,
+      "text": "جمادى الأولى سنة اثنتين وأربعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 15,
+      "guid": "d850b12e-38e3-45a5-afcd-be9662ff70fd",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 8,
+      "text": "ابن رواج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 48,
+      "guid": "e1ed946c-f34a-45b4-af0a-a67692112069",
+      "index": 74,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": "علي بن وردان محسن الصالحي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من ابن رواج بقراءة علي بن وردان محسن الصالحي ومماليكه بلبان الجمدار وربيبه شهاب بن علي في جمادى الأولى سنة اثنتين وأربعين وستماية"
+}

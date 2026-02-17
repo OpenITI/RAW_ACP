@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمرو محمد بن أحمد بن حمدان الحيري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سؤالات أبي عمرو محمد بن أحمد بن حمدان الحيري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "155v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f163.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f163.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "month": [
+          "11"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "18290778-83e4-48ca-9948-62b781c121b5",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 153,
+      "text": "ذي القعدة من السنة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "1efff7b7-3996-4a41-a532-d2de40f5fe16",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 124,
+      "text": "علم الدين القاسم البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "7b3f904f-9a10-45d1-a028-793f8fb7d464",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 23,
+      "text": "مجد الدين أبي محمد عبد العزيز بن حسن بن حسين بن الخليلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "7d791183-37f0-40da-a8a1-4e648d3442f5",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 100,
+      "text": " زاهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "a7996b67-74e9-4641-93ad-8487b21c8b64",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 90,
+      "text": "أبي روح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "b096bd7a-fb34-4cd4-8053-a8cec656e3fd",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 113,
+      "text": "يوسف المزي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الشيخ الإمام مجد الدين أبي محمد عبد العزيز بن حسن بن حسين بن الخليلي بإجازته من أبي روح عن زاهر بقراءة يوسف المزي علم الدين القاسم البرزالي في ذي القعدة من السنة."
+}

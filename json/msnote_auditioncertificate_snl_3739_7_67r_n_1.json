@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسحق بن إبراهيم الثقفي السراج النيسابوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المنتقى من مسند الثقفي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 19"
+      ],
+      "classmark": [
+        "3739/7"
+      ],
+      "folio_number": [
+        "67r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "249f488b-e53f-4d28-b121-0fa82c308eac",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 74,
+      "text": "ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 163,
+      "guid": "3c4c72b2-d369-4360-81cf-57c8c3e23f5b",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 153,
+      "text": "تحت الساعات",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "745"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "757c2135-489a-48ba-afd7-3ce3c7de49af",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": " يوم الجمعة السابع والعشرين من جمادى الآخرة سنة خمس وأربعين وسبعمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "7ea6c415-f04c-4eb8-9116-76ca2f6f8475",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 170,
+      "text": "محمد بن المحب عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "9be30fca-a48a-4ab3-9b90-7225c9989c11",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 26,
+      "text": "بهاء الدين علي بن عمر بن أحمد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخ بهاء الدين علي بن عمر بن أحمد المقدسي بسماعه من ابن البخاري يوم الجمعة السابع والعشرين من جمادى الآخرة سنة خمس وأربعين وسبعمية تحت الساعات كتبه محمد بن المحب عبد الله"
+}

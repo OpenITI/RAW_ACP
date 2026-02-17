@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "آدم بن أبي إياس العسقلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث آدم بن أبي إياس العسقلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        " FMMU 97"
+      ],
+      "classmark": [
+        "3757/10"
+      ],
+      "folio_number": [
+        "174v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "656"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "3c3cb606-eda5-4cfc-9c8a-c070a3796353",
+      "startIndex": 260,
+      "text": "يوم الاثنين ثامن عشر رجب سنة ست وخمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "4acbaa4e-1162-4014-bd6c-97f25e02d32e",
+      "startIndex": 193,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "8aa36c86-4754-43c7-bb67-13ecc57bbbfa",
+      "startIndex": 138,
+      "text": "محب الدين عبد الله بن أحمد بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-sayf"
+          ]
+        ]
+      },
+      "endIndex": 320,
+      "guid": "a78166ea-662f-4703-a0ed-9a64fc29b4b9",
+      "startIndex": 308,
+      "text": "دار سيف بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "a79f2fc2-4a5e-4d23-881b-3f12190cb938",
+      "startIndex": 117,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "c18c3df1-7c79-4a41-90d9-c0af85609d23",
+      "startIndex": 187,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "f0ce0235-efe3-434e-b9c3-2ac568c8bad9",
+      "startIndex": 35,
+      "text": "جمال الدين أبي الفضل عبد العزيز بن عبد الوهاب بن بيان بن سالم الكفرطابي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "fea2e1bc-58f6-4928-82cd-34832c86c65a",
+      "startIndex": 210,
+      "text": "إسماعيل بن إبراهيم بن سالم ابن الخباز",
+      "type": "person"
+    }
+  ],
+  "text": "سمع حديث آدم بن أبي إياس على الشيخ جمال الدين أبي الفضل عبد العزيز بن عبد الوهاب بن بيان بن سالم الكفرطابي بسماعه من الثقفي بقراءة الإمام محب الدين عبد الله بن أحمد بن محمد المقدسي ابناه محمد وأحمد في الرابعة وإسماعيل بن إبراهيم بن سالم ابن الخباز وكتب السماع يوم الاثنين ثامن عشر رجب سنة ست وخمسين وستماية بدار سيف بدمشق"
+}

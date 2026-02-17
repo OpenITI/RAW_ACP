@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "هبة بن الحسن أبي القاسم الطبري اللالكائي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد الحسان العوالي المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 89"
+      ],
+      "classmark": [
+        "3755/22"
+      ],
+      "folio_number": [
+        "271r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "006ea72e-4428-46c3-8e73-95f40c5279b0",
+      "startIndex": 58,
+      "text": "أبي القاسم عبد الله بن الحسن بن رواحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "0db77fc6-1c46-47eb-a93d-46fa4dd3e873",
+      "startIndex": 120,
+      "text": "سليمان بن عبد الكريم بن عبد الرحمن الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "0fb087e1-7e33-4b45-9c48-0e08059467ab",
+      "startIndex": 267,
+      "text": "عبد الله بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "2a4fda90-49d8-492e-b19a-ad6cfeadb844",
+      "startIndex": 170,
+      "text": "فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "jawziya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 260,
+      "guid": "b388dfa3-a18e-4e8e-9c66-2fe32562560f",
+      "startIndex": 235,
+      "text": "منزل القارئ بالجوزية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "bd0dc3a2-8965-47d7-b907-ef30d60c2e31",
+      "startIndex": 106,
+      "text": "السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1-10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "628"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "d06666b6-718c-4341-9497-f75827e1ae0b",
+      "startIndex": 184,
+      "text": "العشر الأول من ربيع الآخر سنة ثمان وعشرين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": " سمع هذا الجزء الأول من حديث أبي الحسن بن بشران على الشيخ أبي القاسم عبد الله بن الحسن بن رواحة بسماعه من السلفي بقراءة سليمان بن عبد الكريم بن عبد الرحمن الأنصاري ابنته فاطمة وذلك في العشر الأول من ربيع الآخر سنة ثمان وعشرين وستماية بمنزل القارئ بالجوزية بدمشق نقله عبد الله بن المحب"
+}

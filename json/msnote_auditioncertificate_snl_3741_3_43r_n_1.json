@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "43r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "116a9f91-2c02-4aa8-aaf1-e16e4ccc9312",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "مجد الدين أبي الفرج يحيى بن أبي الرجاء محمود بن سعد الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "ribat_khatun"
+          ]
+        ]
+      },
+      "endIndex": 383,
+      "guid": "222599e5-d535-4b2e-94fb-f1d2df7748e8",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 363,
+      "text": "رباط خاتون ظاهر دمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "7a25f30a-6e4f-4031-83de-def742544aa0",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 162,
+      "text": "أبي الحسن علي بن محمد بن علي بن جميل المعافري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "7e04633d-5fa0-4ec3-8e17-412fbc6b2d48",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 232,
+      "text": " أبي جعفر أحمد بن علي القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "9512b62b-f5d1-4855-8561-163cc67077ed",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 103,
+      "text": "أبي علي الحداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "582"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "b5af6be4-8138-44ea-933c-789b4f8da9e2",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 303,
+      "text": "يوم الثلثا النصف من ذي القعدة سنة اثنتين وثمانين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "f9b3ed1d-be23-445b-987f-6d16c288ef12",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 208,
+      "text": "أبو الحسن محمد بن الإمام أبي جعفر أحمد بن علي القرطبي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الإمام مجد الدين أبي الفرج يحيى بن أبي الرجاء محمود بن سعد الثقفي بحق سماعه من أبي علي الحداد حضورا سنة خمسة عشرة وخمس ماية بقراءة الخطيب أبي الحسن علي بن محمد بن علي بن جميل المعافري أبو الحسن محمد بن الإمام أبي جعفر أحمد بن علي القرطبي والسماع بخط والده المذكور ومنه نقلت وذلك يوم الثلثا النصف من ذي القعدة سنة اثنتين وثمانين وخمس ماية برباط خاتون ظاهر دمشق "
+}

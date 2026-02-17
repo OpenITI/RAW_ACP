@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 7"
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "127v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "year": [
+          "634"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "7e8da219-e790-4223-9525-7ce86400d84d",
+      "startIndex": 99,
+      "text": " سنة أربع وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "be287006-218e-42c7-8128-a7e124250305",
+      "startIndex": 59,
+      "text": "فارس بن آق سنقر الأمجدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "c0b677b4-1067-41d7-8320-a99bdbfcb65d",
+      "startIndex": 156,
+      "text": "الحسن بن علي اللخمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "d6db518f-eaa4-4748-918f-51374a0a1f60",
+      "startIndex": 130,
+      "text": "علي بن بلبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 46,
+      "guid": "ed951289-146f-40eb-b474-45d6b550b045",
+      "startIndex": 20,
+      "text": "حسين بن علي بن رفاعة السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "efa39f46-67e9-4080-917c-ddf9ab283839",
+      "startIndex": 53,
+      "text": "محمد ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه بقراءة الفقيه حسين بن علي بن رفاعة السلمي ولده محمد وفارس بن آق سنقر الأمجدي وجماعة على الأصل سنة أربع وثلاثين وستمائة نقله علي بن بلبان ونقله من خطه الحسن بن علي اللخمي وجميع هذا المنقول حرفا بحرف والحمد لله وحده وصلى الله على محمد"
+}

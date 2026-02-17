@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد حرب بن اسماعيل بن خلف الكرماني الحنبلي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/78553892"
+      ],
+      "work_title": [
+        "أحاديث أبي محمد حرب بن إسماعيل الكرماني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "52r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f55.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f55.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "6e45bd8a-4fd5-4e7c-b203-54698c623724",
+      "startIndex": 189,
+      "text": "أبي عمرو بن منده",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "8406cc2e-b420-4623-bced-b4d09c7cbd63",
+      "startIndex": 128,
+      "text": "محمد أبي القاسم الصالحاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "b79fb166-cdc4-446a-99ff-0478681e5d9b",
+      "startIndex": 61,
+      "text": "أبي المطهر سعيد بن روح بن محمد بن أبرويه الصالحاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "e3cefff6-2e13-43a0-bcbf-f4eb7a5d2131",
+      "startIndex": 155,
+      "text": "أبي نصر بن رجاء بن سليم ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع حديث إبراهيم بن أدهم وحديث حرب بن إسماعيل على الشيخ أبي المطهر سعيد بن روح بن محمد بن أبرويه الصالحاني بروايته عن شيخه محمد أبي القاسم الصالحاني وأبي نصر بن رجاء بن سليم كلاهما عن أبي عمرو بن منده"
+}

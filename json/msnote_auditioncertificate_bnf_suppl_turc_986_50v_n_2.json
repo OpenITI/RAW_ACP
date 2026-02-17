@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ضياء الدين محمد بن عبد الواحد بن أحمد المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الثالث من الفوائد الحافظ ضياء الدين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "50v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f54.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f54.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 389,
+      "guid": "202111d5-e328-45a1-8c0b-33976d1674a8",
+      "index": 322,
+      "isZeroPoint": false,
+      "startIndex": 342,
+      "text": "إسماعيل بن إبراهيم بن سالم بن ركاب بن سعد الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "7d1d39e4-ebf7-4138-9bde-7b8113bd99b7",
+      "index": 319,
+      "isZeroPoint": false,
+      "startIndex": 50,
+      "text": "زين الدين أبي العباس أحمد بن الدائم بن نعمة بن أحمد بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 321,
+      "guid": "d7df8a46-e159-499a-ba4b-c7329ddda1e3",
+      "index": 321,
+      "isZeroPoint": false,
+      "startIndex": 249,
+      "text": "سيف الدين أبي البركات داود بن عيسى بن أبي بكر عمر بن داود الهكاري الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "e6d5639a-d815-425f-9619-6706d6ab9ddb",
+      "index": 320,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد بن عبد الرحمن المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "656"
+        ]
+      },
+      "endIndex": 452,
+      "guid": "ea55da8e-96d6-4946-9aec-f8f53d486e4e",
+      "index": 323,
+      "isZeroPoint": false,
+      "startIndex": 404,
+      "text": "الخميس عاشر جمادى الأولى من سنة ست وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 471,
+      "guid": "ee87a61e-89b3-4d68-873e-de6ac5410304",
+      "index": 324,
+      "isZeroPoint": false,
+      "startIndex": 455,
+      "text": "منزل الشيخ المسمع",
+      "type": "place"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم الحافظ زين الدين أبي العباس أحمد بن الدائم بن نعمة بن أحمد بن محمد المقدسي بحق سماعه فيه من مؤلفه الحافظ ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد بن عبد الرحمن المقدسي بقراءة الفقيه الإمام العالم سيف الدين أبي البركات داود بن عيسى بن أبي بكر عمر بن داود الهكاري الحنبلي فسمعه مثبت الأسماء إسماعيل بن إبراهيم بن سالم بن ركاب بن سعد الخباز وذلك في عشية الخميس عاشر جمادى الأولى من سنة ست وخمسين وستمائة بمنزل الشيخ المسمع بسفح جبل قاسيون والحمد لله وحده وصلى الله على محمد النبي الأمي وعلى آله وصحبه وسلم تسليما كثيرا إلى يوم الدين"
+}

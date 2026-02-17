@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن بن شاذان السكري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي الحسن السكري وأماليه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/19"
+      ],
+      "folio_number": [
+        "237v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "35efb807-ae05-4af3-83e1-b0bd42f6e6b8",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 194,
+      "text": "محمد بن عبد الرحمن بن سامة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "3789b2ee-ed2f-4cc6-8813-3b02b17786df",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 100,
+      "text": "يوم الأربـ[ـعاء] مستهل شهر رمضان المعظم سنة تسع وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "7859d93e-07ab-45a0-be26-e9a7b3f47569",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 87,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 187,
+      "guid": "a216568e-9adc-4cd2-9416-0bd995f65d4b",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 164,
+      "text": "منزلها من سفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "ffd152c0-50a5-4715-9c4d-0e79d3d5b7ea",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "زينب بنت مكي بن علي بن كامل الحراني",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على الشيخة الصالحة زينب بنت مكي بن علي بن كامل الحراني بسماعها من ابن طبرزد في يوم الأربـ[ـعاء] مستهل شهر رمضان المعظم سنة تسع وسبعين وستماية بمنزلها من سفح جبل قاسيون كتبه محمد بن عبد الرحمن بن سامة "
+}

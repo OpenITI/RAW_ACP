@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 604"
+      ],
+      "folio_number": [
+        "34v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000610"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "3db9cfa2-2d28-4c2d-9f72-afa8fd42d4e6",
+      "startIndex": 63,
+      "text": "شهاب الدين أحمد الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 24,
+      "guid": "bd0a9f5e-7e10-4470-a7a7-848d4e8d8b51",
+      "startIndex": 4,
+      "text": "محمد بن أحمد السمنودي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "768"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "d00b126e-7e7d-43f5-b251-364be405f72f",
+      "startIndex": 100,
+      "text": " سنة 768",
+      "type": "date"
+    }
+  ],
+  "text": "بلغ محمد بن أحمد السمنودي قراءة وجماعة سماعاً على الشيخ الصالح شهاب الدين أحمد الجوهري في الثاني عشر سنة 768."
+}

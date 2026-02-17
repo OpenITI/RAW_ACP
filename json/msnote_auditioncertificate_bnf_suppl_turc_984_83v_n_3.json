@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبوعبد الرحمن أحمد بن شعيب بن علي بن سنان بن بحر بن دينار النَّسائي "
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90044822"
+      ],
+      "work_title": [
+        "جزء من كتاب الطهارة/ سنن النسائي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "83v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f87.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f87.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "21cdb0f7-7af6-4819-971c-203bf165001b",
+      "index": 580,
+      "isZeroPoint": false,
+      "startIndex": 69,
+      "text": "أبي صادق مرشد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "5bcd0aee-5ad1-4e74-88ea-47c68f5a0e6f",
+      "index": 584,
+      "isZeroPoint": false,
+      "startIndex": 190,
+      "text": "أبو بكر الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "7f2b987d-586e-4d05-8e78-0a9f461a5559",
+      "index": 582,
+      "isZeroPoint": false,
+      "startIndex": 117,
+      "text": "عبد الرحمن بن إبراهيم اليلداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "ac2f61ac-090b-404d-a5a0-ac46baa8d67a",
+      "index": 581,
+      "isZeroPoint": false,
+      "startIndex": 90,
+      "text": "أبي الحجاج يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "590"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "cf0c16b5-51b2-4fef-86b9-4ab4ae34c3b8",
+      "index": 583,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "جمادى الأولى سنة تسعين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "df68d69b-535a-4ab2-9e1e-beaa8db590e4",
+      "index": 579,
+      "isZeroPoint": false,
+      "startIndex": 9,
+      "text": "أبي طاهر بركات بن إبراهيم بن طاهر الخشوعي القرشي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من أبي طاهر بركات بن إبراهيم بن طاهر الخشوعي القرشي بإجازته من أبي صادق مرشد بقراءة أبي الحجاج يوسف جماعة منهم عبد الرحمن بن إبراهيم اليلداني في جمادى الأولى سنة تسعين وخمسمائة اختصره أبو بكر الحراني"
+}

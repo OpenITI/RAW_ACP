@@ -1,0 +1,493 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "65r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "'aziya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 1601,
+      "guid": "0d4ba84a-0e82-47d2-a051-298f8e8599a4",
+      "startIndex": 1582,
+      "text": "مدرسة العزيزية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1260,
+      "guid": "1af3a189-18f6-46cd-90dc-5c8a049f7ac7",
+      "startIndex": 1234,
+      "text": "أبو بكر محمد بن وصيف الغزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "2b780e58-e5a5-4655-9b4c-959ba69a0a86",
+      "startIndex": 106,
+      "text": "أبو العباس أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 521,
+      "guid": "34cb3b5b-dae5-422e-8916-7f93f657337a",
+      "startIndex": 489,
+      "text": "أبو يعقوب إسحق بن إبراهيم الأذرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1073,
+      "guid": "4b7e8460-4b74-43a0-86d1-f5a9a8ff319e",
+      "startIndex": 1026,
+      "text": "أبي الفتح نصر الله بن محمد بن عبد الغزي المصيصي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1503,
+      "guid": "54f8ebc9-e422-49b1-a854-060f3d60f3cc",
+      "startIndex": 1472,
+      "text": "عبد الجليل بن عبد الجبار الأبهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "5c7da8ce-7da0-4b9d-89fe-0e8abd28b38c",
+      "startIndex": 357,
+      "text": "أبي الحسن علي بن أحمد بن منصور بن قبيس الغساني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "7190a14c-9096-4449-a27e-7176a482f886",
+      "startIndex": 373,
+      "text": " أحمد بن منصور بن قبيس الغساني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 301,
+      "guid": "721a11e4-93fd-40d0-85bb-ed0df856bb39",
+      "startIndex": 241,
+      "text": "جمال الدين أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 961,
+      "guid": "85720646-1424-4064-b31a-53c4c76f3dc6",
+      "startIndex": 933,
+      "text": " أبو علي الحسن بن الفرج الغزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 1439,
+      "guid": "86178bf1-271c-456b-8795-370de03e960e",
+      "startIndex": 1385,
+      "text": " صدر الدين أبي علي الحسن بن محمد بن محمد بن محمد البكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 1674,
+      "guid": "8e64bf70-8ff0-43c0-89a5-6d48cff9b603",
+      "startIndex": 1622,
+      "text": "صحيح ذلك كتبه عبد الصمد بن محمد بن أبي الفضل الأنصاري",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "606"
+        ]
+      },
+      "endIndex": 1579,
+      "guid": "93412f4e-cdb7-4f99-8063-2db2879c42ef",
+      "startIndex": 1538,
+      "text": "الأحد ثالث عشر جمادى الآخرة سنة ست وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 700,
+      "guid": "9deed25b-e7b2-4729-976f-6e4d66c9275e",
+      "startIndex": 670,
+      "text": "أبو الزنباع روح بن الفرج القطان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 479,
+      "guid": "9f7dd268-a901-40b3-8420-c6bc5be83541",
+      "startIndex": 440,
+      "text": "أبو محمد عبد الرحمن بن عثمان بن أبي نصر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1184,
+      "guid": "a8d1e6da-049d-4ae7-9644-f362680ceede",
+      "startIndex": 1153,
+      "text": "أبو الفتح نصر بن إبراهيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 585,
+      "guid": "aeb88997-78cc-485f-a2a4-5eef92b2fd9c",
+      "startIndex": 574,
+      "text": "يحيى بن بكير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 600,
+      "guid": "b2b972be-ac3f-40ed-b64b-2580948b45cd",
+      "startIndex": 590,
+      "text": "مالك بن أنس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "b959081d-d86f-4e92-a55c-48d67586b1cb",
+      "startIndex": 74,
+      "text": " شرف الدين أبو محمد عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 894,
+      "guid": "d3138bd9-0310-4053-891e-1e42d734c90f",
+      "startIndex": 857,
+      "text": "أبو الحسين عبد الوهاب بن جعفر الميداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1223,
+      "guid": "d57731d2-7c18-4267-82a8-4cf744613bf6",
+      "startIndex": 1195,
+      "text": "أبو بكر محمد بن جعفر الميماسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 568,
+      "guid": "fcdb5c0a-f658-4cf5-be53-0f5a0ebe26b4",
+      "startIndex": 532,
+      "text": "أبو زكريا يحيى بن أيوب بن بادي العلاف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 928,
+      "guid": "fe065915-3cca-4bda-9845-bb7798b31636",
+      "startIndex": 900,
+      "text": "أبو عمر محمد بن موسى بن فضالة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 1726,
+      "guid": "ff485a3c-609d-43ce-bd99-3d5300f5d068",
+      "startIndex": 1689,
+      "text": "محمد بن أحمد بن محمد بن النجيب الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": "شاهدت على ثبت شيخنا جمال الدين ابن الحموي ما معناه على الاختصار سمع الفقيه شرف الدين أبو محمد عبد الواحد وأبو العباس أحمد انبا حسام الدين أبي بكر سليمان الحموي جميع كتاب الموطأ لمالك بن أنس رواية يحيى بن بكير على القاضي الفقيه الأمام العالم جمال الدين أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري بسماعه جميع الكتاب سوى كتاب الأقضية والرهون على الشيخ أبي الحسن علي بن أحمد بن منصور بن قبيس الغساني أنبأ والدي أبو العباس أحمد قال أنبأ أبو محمد عبد الرحمن بن عثمان بن أبي نصر قال أنبأ أبو يعقوب إسحق بن إبراهيم الأذرعي قال أنبأ أبو زكريا يحيى بن أيوب بن بادي العلاف ثنا يحيى بن بكير عن مالك بن أنس سوى كتاب البيوع بأسره فإن ابن أبي نصر قال ثنا أبو يعقوب الأذرعي ثنا أبو الزنباع روح بن الفرج القطان بمصر ثنا يحيى بن بكير عن مالك وقال أبو العباس ابن قبيس وأنبأ بجميع  كتاب الصلاة وكتاب الزكاة وكتاب الصيام والاعتكاف وليلة القدر وكتاب الجنائز وكتاب الجهاد أبو الحسين عبد الوهاب بن جعفر الميداني أنا أبو عمر محمد بن موسى بن فضالة ثنا أبو علي الحسن بن الفرج الغزي ثنا يحيى بن بكير وكتاب الأقضية والرهون سمعاه عليه بحق سماعه من أبي الفتح نصر الله بن محمد بن عبد الغزي المصيصي من أوله إلى بقية باب جامع الأقضية ومنه إلى آخره إجارة إن لم يكن سماعا قال أنبأ أبو الفتح نصر بن إبراهيم المقدسي قال أنبأ أبو بكر محمد بن جعفر الميماسي قال أنبأ أبو بكر محمد بن وصيف الغزي أول كتاب الأقضية إلى الرهون سماعا ومنه إلى آخره إجازة قال أنبأ أبو علي الحسن بن الفرج ثنا يحيى بن بكير عن مالك بقراءة الشريف صدر الدين أبي علي الحسن بن محمد بن محمد بن محمد البكري مع جماعة أسماءهم على الأصل بخط عبد الجليل بن عبد الجبار الأبهري وهذا خطه وذلك في مجالس أخرها يوم الأحد ثالث عشر جمادى الآخرة سنة ست وستمائة بمدرسة العزيزية بدمشق وتحته تصحيح المسمع صحيح ذلك كتبه عبد الصمد بن محمد بن أبي الفضل الأنصاري كتبه كما ذكر محمد بن أحمد بن محمد بن النجيب الشافعي عفا الله عنه حامدا مصليا مسلما"
+}

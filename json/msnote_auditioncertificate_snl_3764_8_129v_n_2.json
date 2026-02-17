@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "منتخب من الفوائد الصحاح العوالي ج5"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 140"
+      ],
+      "classmark": [
+        "3764/8"
+      ],
+      "folio_number": [
+        "129v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "5acbf51c-837f-4081-9a3e-10b172d2e0a4",
+      "startIndex": 63,
+      "text": "يوسف بن حسن بن عبد الهادي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "afc393f0-b2c3-4931-826e-a629ca330157",
+      "startIndex": 49,
+      "text": "ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "faeadc1c-9b07-4616-a4d3-e8dc62edd052",
+      "startIndex": 28,
+      "text": "ابن جوارش",
+      "type": "person"
+    }
+  ],
+  "text": "سمعت هذا الجزء وما قبله على ابن جوارش بإجازته من ابن المحب كتب يوسف بن حسن بن عبد الهادي "
+}

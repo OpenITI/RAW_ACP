@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن محمد بن إبراهيم الحنائي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي القاسم الحنائي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 70"
+      ],
+      "classmark": [
+        "3753/2"
+      ],
+      "folio_number": [
+        "35v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "00473e94-291b-44fd-922a-41185035063e",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "محمد بن عبد المنعم بن عمار بن هامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1-10"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "631"
+        ]
+      },
+      "endIndex": 290,
+      "guid": "2aaabadd-b13b-4ddf-9b6e-748fc906054f",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 231,
+      "text": "يوم السبت في العشر الأول من شعبان من سنة إحدى وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "3c92fc59-07bf-454c-a515-0a688e382763",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 30,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 344,
+      "guid": "bd353237-8d4a-431a-8b91-011b6d1aa49f",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 293,
+      "text": "سفح جبل قاسيون بدار الحديث التي أنشأها الشيخ المسمع ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "c13e4b62-2f8a-41f5-8eb0-184db0bea5ce",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 110,
+      "text": "ضياء الدين أبي الحسن علي بن محمد بن علي البالسي ",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه على الشيخ الإمام الحافظ ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي بقراءة الفقيه الإمام ضياء الدين أبي الحسن علي بن محمد بن علي البالسي وكتب محمد بن عبد المنعم بن عمار بن هامل الحراني وهو مثبت هذه الأحرف وذلك يوم السبت في العشر الأول من شعبان من سنة إحدى وثلثين وستماية بسفح جبل قاسيون بدار الحديث التي أنشأها الشيخ المسمع "
+}

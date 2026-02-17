@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الدعاء "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/15"
+      ],
+      "folio_number": [
+        "177v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "51a321ec-6060-40bd-bf72-ed659dc9b7ac",
+      "startIndex": 140,
+      "text": "أبو المعالي عبد الله بن أبي الفرج بن معالي بن بركة الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "6c1104af-1f7c-4b74-9661-f7f288612748",
+      "startIndex": 10,
+      "text": "أبي الفضل عبد الله بن أحمد بن محمد بن عبد القاهر الطوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "8b79d488-077b-46ce-9ef7-75898d54acb4",
+      "startIndex": 93,
+      "text": "محمد بن أحمد بن محمد بن الحسين بن خلف البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "a3131322-38aa-4f7b-bd42-4aebdf66933d",
+      "startIndex": 76,
+      "text": "ابن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "567"
+        ]
+      },
+      "endIndex": 247,
+      "guid": "eb5a2469-a9e7-4ca1-8dd4-8dc0ae9fde39",
+      "startIndex": 202,
+      "text": "الاثنين ثامن عشري شعبان سنة سبع وستين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "mossul",
+            "tusi_mosque"
+          ]
+        ]
+      },
+      "endIndex": 268,
+      "guid": "f1cc9ffe-0f55-445f-866d-cdefc9dd87b0",
+      "startIndex": 250,
+      "text": "مسجد المسمع بالموصل",
+      "type": "place"
+    }
+  ],
+  "text": "وسمعه على أبي الفضل عبد الله بن أحمد بن محمد بن عبد القاهر الطوسي بسماعه من ابن البطر بقراءة محمد بن أحمد بن محمد بن الحسين بن خلف البغدادي أبو المعالي عبد الله بن أبي الفرج بن معالي بن بركة الموصلي في الاثنين ثامن عشري شعبان سنة سبع وستين وخمسماية بمسجد المسمع بالموصل نقلته من [انتهى الكلام في الأصل]"
+}

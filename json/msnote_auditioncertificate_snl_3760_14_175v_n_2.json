@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/14"
+      ],
+      "folio_number": [
+        "175v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "546"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "057c383f-3fc4-420e-be26-274db3c9cd15",
+      "startIndex": 135,
+      "text": "السبت سادس عشر المحرم سنة ست وأربعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "9c808d12-55c5-4c98-97ca-9beebbc4936e",
+      "startIndex": 41,
+      "text": "أبي أحمد بن أحمد بن علي الخراز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "b0760f6e-f14a-4a92-af3f-d63f2ac170d9",
+      "startIndex": 103,
+      "text": "شجاع ابن سالم بن علي البيطار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "c3f25499-cdf2-40a3-8891-4d31d582d608",
+      "startIndex": 81,
+      "text": " ابن أبي عثمان ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع هذا الجزء أيضا والجزء الذي قبله على أبي أحمد بن أحمد بن علي الخراز بسماعه من ابن أبي عثمان بقراءة شجاع ابن سالم بن علي البيطار في السبت سادس عشر المحرم سنة ست وأربعين وخمسماية"
+}

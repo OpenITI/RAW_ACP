@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن المفضل بن أحمد الثقفي الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/6"
+      ],
+      "folio_number": [
+        "62v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "636"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "29a6f536-bed7-4ca6-8185-8cf824c4b41a",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 117,
+      "text": "يوم الخميس العاشر من رجب سنة ست وثلاثين",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "hims"
+          ]
+        ]
+      },
+      "endIndex": 169,
+      "guid": "2e10393d-bfc3-4522-96e8-fae83f4706a6",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "حمص",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "2e2a321d-6144-406c-858c-efd3f1aa2fdc",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 45,
+      "text": "عبد القادر بن عبدان بن نصر الله بن بركة الحمصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "4413edeb-47ca-493f-9f78-53af865e0895",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 20,
+      "text": "محمد بن أبي بكر بن معالي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعها عليه بقراءة محمد بن أبي بكر بن معالي عبد القادر بن عبدان بن نصر الله بن بركة الحمصي وآخرون في مجلسين ثانيهما يوم الخميس العاشر من رجب سنة ست وثلاثين [وستمية] بحمص"
+}

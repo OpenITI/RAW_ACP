@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن عرفة بن يزيد العبدي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الحسن بن عرفة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/8"
+      ],
+      "folio_number": [
+        "108v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 571,
+      "guid": "092457e1-d5ac-41e7-9f5d-85e1d8608cfd",
+      "startIndex": 558,
+      "text": "أم الحسن فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 430,
+      "guid": "109fc60e-8590-4908-9f9f-dfd812592cf2",
+      "startIndex": 391,
+      "text": "نور الدين علي بن مسعود الحلبي ثم الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "harat_al-ruwm"
+          ]
+        ]
+      },
+      "endIndex": 643,
+      "guid": "162c7384-d3ac-42c8-b058-c6dd60e84f52",
+      "startIndex": 624,
+      "text": "منزله أول حارة الروم",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "319fb581-e431-4967-8b4d-403941456083",
+      "startIndex": 262,
+      "text": "نجم الدين عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "39535393-c174-4711-b12d-a46904bc6a23",
+      "startIndex": 88,
+      "text": "نجيب الدين عبد اللطيف بن عبد المنعم بن علي ابن الصيقل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 467,
+      "guid": "3f6a1e77-5db8-4138-9710-6c5ee27ea05a",
+      "startIndex": 443,
+      "text": " بلبان بن عبد الله الرومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "664"
+        ]
+      },
+      "endIndex": 621,
+      "guid": "45821e39-e7eb-47f0-b474-5d7cf334fd1d",
+      "startIndex": 585,
+      "text": "رابع شهر رجب الفرد أربع وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 534,
+      "guid": "5a554bf1-4935-4e85-8ebe-adab0c637f21",
+      "startIndex": 489,
+      "text": "محمد بن أحمد بن إبراهيم بن عيسى القرشي الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+},
+      "endIndex": 797,
+      "guid": "65b0af04-8eac-4a0d-9bcd-ff49dc89aec4",
+      "startIndex": 745,
+      "text": "صحيح ذلك وكتب عبد اللطيف بن عبد المنعم بن علي الحراني",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 351,
+      "guid": "6f68197f-89dd-44b5-a485-e2916080faf2",
+      "startIndex": 289,
+      "text": "ناصر الدين محمد بن الأمير عماد الدين [مبارك؟] بن فخرالدين عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "849b3b07-09b0-44b7-86ea-5e8ac57da11b",
+      "startIndex": 185,
+      "text": "ابن كليب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 254,
+      "guid": "e70c4e43-15d0-41f8-838e-a3d658405b1b",
+      "startIndex": 207,
+      "text": "نور الدين علي ابن زكي الدين عمر الصنهاجي الحميري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 555,
+      "guid": "f620849b-3195-44df-8620-794d2b8b2ada",
+      "startIndex": 543,
+      "text": "أبو الدر محمد",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ السماع بقراءتي لجميع هذا الجزء على المولى الصاحب الكبير الرئيس ثقة الملوك والسلاطين نجيب الدين عبد اللطيف بن عبد المنعم بن علي ابن الصيقل الحراني أيده الله تعالى بسماعه فيه نقلا من ابن كليب فسمعه الشريف نور الدين علي ابن زكي الدين عمر الصنهاجي الحميري وولده نجم الدين عبد الله والأمير ناصر الدين محمد بن الأمير عماد الدين [مبارك؟] بن فخرالدين عثمان وصاحب الجزء الشيخ الأجل المحدث المفيد نور الدين علي بن مسعود الحلبي ثم الموصلي وغلام الشيخ بلبان بن عبد الله الرومي وكاتب الطبقة وقارئه محمد بن أحمد بن إبراهيم بن عيسى القرشي الدمشقي وولديه أبو الدر محمد وأم الحسن فاطمة وصح وثبت في رابع شهر رجب الفرد أربع وستين وستماية بمنزله أول حارة الروم وأجاز الشيخ أيده الله للجماعة جميع مسموعاته وإجازاته وصح وثبت الحمد [لله] وحده وصلوته على محمد نبيه صحيح ذلك وكتب عبد اللطيف بن عبد المنعم بن علي الحراني"
+}

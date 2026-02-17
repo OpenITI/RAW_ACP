@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        null
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Oct 1510"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00017929"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "4657efb2-9f2c-4feb-a452-eed666c30e95",
+      "startIndex": 85,
+      "text": " يوسف الججيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 201,
+      "guid": "98e80c85-c786-4572-a572-5cff2961a1d4",
+      "startIndex": 179,
+      "text": "منزل المسمع بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "876"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "d1090800-6e9b-4115-8fe0-6fd7a7126451",
+      "startIndex": 132,
+      "text": "يوم الخميس ثامن شوال سنة ست وسبعين وثمان مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "e084e963-fb2c-4399-844b-cec7420c7cc8",
+      "startIndex": 43,
+      "text": "شمس الدين محمد بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "f734a20b-b319-4640-8a26-61bb8d07542d",
+      "startIndex": 209,
+      "text": "أحمد بن حسن بن أحمد بن عبد الهادي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت قراءة إلى هنا على الشيخ الصالح المفنن شمس الدين محمد بن محمد المقدسي بقراءته على يوسف الججيني وأجاز لي ما يجوز له روايته بشرطه يوم الخميس ثامن شوال سنة ست وسبعين وثمان مائة بمنزل المسمع بسفح قاسيون وكتبه أحمد بن حسن بن أحمد بن عبد الهادي والحمدلله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلم. حسبنا الله ونعم الوكيل."
+}

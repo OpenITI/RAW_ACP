@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن يحيى ثعلب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " كتاب الفصيح في اللغة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 47"
+      ],
+      "folio_number": [
+        "116v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00063197"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "180c0b1b-c0d2-47c2-83e6-cfc0c6cf4b1a",
+      "startIndex": 32,
+      "text": "محمد بن خمارتكين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "211f5109-d5ee-494a-9d3f-10e5ab4f90f2",
+      "startIndex": 159,
+      "text": "ابن مجاهد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "500"
+        ]
+      },
+      "endIndex": 416,
+      "guid": "289a2e5b-498b-4788-b208-32fe81b010c2",
+      "startIndex": 408,
+      "text": " خمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "4c44c2bc-9dd4-44bc-ae0e-2aa85f16a777",
+      "startIndex": 117,
+      "text": "أبي محمد الدهان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 403,
+      "guid": "93508c4c-43e5-49d7-bfb8-8ce91126d709",
+      "startIndex": 377,
+      "text": "يحيى بن علي الخطيب التبريزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 321,
+      "guid": "bd7e3b55-dfd3-4dd7-809f-a87f4b6c0c07",
+      "startIndex": 305,
+      "text": "أبي العلاء المعري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "ce4c804e-c5c7-43fd-ab8f-64b53689fa3c",
+      "startIndex": 172,
+      "text": "ثعلب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "db5d56ba-6577-4388-8d55-a92222ab3e34",
+      "startIndex": 136,
+      "text": "علي بن عيسى الرماني",
+      "type": "person"
+    }
+  ],
+  "text": "في الأصل ما هذه صورته\nقرأ عليَّ محمد بن خمارتكين عتيقي نفعه الله بالعلم، كتاب الفصيح، وأجزت له أن يرويه عني جميعه عن أبي محمد الدهان عن علي بن عيسى الرماني عن ابن مجاهد عن ثعلب وأجزت له ان يروي عني إصلاح المنطق وأدب الكتاب وغريب الحديث لأبي عبيدة، وكتاب الحمامة، وشعر المتنبي هذه الكتب كلها مما قرأته على أبي العلاء المعري رحمه الله ووهبت له النسخ المقروءة على أبي العلاء وكتب يحيى بن علي الخطيب التبريزي سنة خمس مائة"
+}

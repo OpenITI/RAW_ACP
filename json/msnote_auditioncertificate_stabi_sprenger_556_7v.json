@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " الجزء الثاني من كتاب شرف اصحاب الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 556"
+      ],
+      "folio_number": [
+        "7v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1777973198/1200/0/00000018.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011432"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "3aa213f3-aaa9-4bf5-91a7-2f81b98838c9",
+      "startIndex": 281,
+      "text": "شهاب الدين أحمد بن أبي عبد الله بن أبي المعالي بن مرشد الحموي المعروف بابن قرباص",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "4640f300-5166-437d-9673-5f5e7e1cc2b4",
+      "startIndex": 42,
+      "text": "عز الدين أبي العز عبد العزيز بن عبد المنعم بن علي بن نصر الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          "8434e5ac-5970-4808-9dca-c576d6b98580"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "4d9ed0c1-b89a-486b-a65d-b312295e484a",
+      "startIndex": 135,
+      "text": "علي بن المظفر بن إبراهيم بن عمر الاسكندري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 523,
+      "guid": "714fc274-2b64-48fe-a62c-d4cd7ed2cabd",
+      "startIndex": 451,
+      "text": "صحيح ذالك (كذا) وكتب عبد العزيز بن عبد المنعم بن علي الحراني عفا الله عنه",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "672"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "ba5c1994-877b-4505-9878-f5ac475cdf78",
+      "startIndex": 384,
+      "text": "يوم الخميس حادي عشرين ذي الحجة سنة اثنتين وسبعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 370,
+      "guid": "e91a5666-486e-46af-ba64-79086525e080",
+      "startIndex": 368,
+      "text": "مصر",
+      "type": "place"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الأجل الصالح عز الدين أبي العز عبد العزيز بن عبد المنعم بن علي بن نصر الحراني أعزه الله تعالى بسماعه فيه، علي بن المظفر بن إبراهيم بن عمر الاسكندري، بقراءته وهذا خطه، وسمع من قوله ما روي في حفظ الحديث وآدابه من الثواب إلى آخر الجزء، الصدر الأجل الفاضل شهاب الدين أحمد بن أبي عبد الله بن أبي المعالي بن مرشد الحموي المعروف بابن قرباص، وصح بمصر المحروسة في يوم الخميس حادي عشرين ذي الحجة سنة اثنتين وسبعين وستمئة. وصح وثبت.\nصحيح ذالك (كذا) وكتب عبد العزيز بن عبد المنعم بن علي الحراني عفا الله عنه"
+}

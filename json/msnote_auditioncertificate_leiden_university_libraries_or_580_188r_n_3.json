@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "188r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "0009b9b2-fc39-49be-8f3d-27ac5cd95dbb",
+      "startIndex": 296,
+      "text": "يعقوب بن أحمد بن يعقوب الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "03fc388a-8c37-40e6-84f4-d82b5fa624e4",
+      "startIndex": 139,
+      "text": " أبي القاسم عبد الصمد بن محمد الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "3334e0a0-33b7-45df-98d6-93f6d5f0d59e",
+      "startIndex": 51,
+      "text": "جمال الدين أبي حامد محمد بن علي بن محمود المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 290,
+      "guid": "4af08024-800b-492b-b110-e719af78ce9b",
+      "startIndex": 262,
+      "text": "علو دار الحديث النورية بدمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "674"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "a3b9824f-3d8e-4283-898a-0bd426352b45",
+      "startIndex": 211,
+      "text": " الأربعاء عاشر ربيع الآخر سنة أربع وسبعين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على شيخنا الإمام العالم الحافظ جمال الدين أبي حامد محمد بن علي بن محمود المحمودي الصابوني بحق إجازته إن لم يكن سماعا من أبي القاسم عبد الصمد بن محمد الأنصاري بسنده فيه وصح في ليلة تسفر عن يوم الأربعاء عاشر ربيع الآخر سنة أربع وسبعين وستماية بعلو دار الحديث النورية بدمشق كتبه يعقوب بن أحمد بن يعقوب الحلبي عفا الله عنه حامدا الله تعالى ومصليا ومسلما"
+}

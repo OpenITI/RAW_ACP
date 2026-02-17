@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد محمد بن أحمد بن عبد الله ابن النقور البزاز "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "جزء فيه حديث نيل مصر وغير ذلك وشيء من حديث الصيدلاني رضوان بن أحمد رواية المخلص وشيء من حديث عيسى بن علي الوزير وشيء من حديث أبي القاسم الصيدلاني المقرئ "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 178"
+      ],
+      "classmark": [
+        "3771/4"
+      ],
+      "folio_number": [
+        "83r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "muzzafar_mosque"
+          ]
+        ]
+      },
+      "endIndex": 277,
+      "guid": "07ee39e6-296c-4ad7-8a50-518444d4db91",
+      "startIndex": 265,
+      "text": "بجامع المنصور",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "2d7d362b-76d2-4242-9215-61085962bb58",
+      "startIndex": 127,
+      "text": "عمر بن محمد بن معمر بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "337d16b0-8309-497c-84a7-b2ae6a9d98a9",
+      "startIndex": 191,
+      "text": "محمد بن محمد بن معمر بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "55decbac-22fb-455d-9b00-1c2215c28067",
+      "startIndex": 107,
+      "text": "ابن النقور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "6790b8db-f31e-4318-acc9-31842c07b24d",
+      "startIndex": 52,
+      "text": "أبي القاسم إسماعيل بن أحمد بن عمر السمرقندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "529"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "8dbf53d5-e349-4e57-8f10-e83d0c977c5b",
+      "startIndex": 224,
+      "text": "سادس عشر رجب من سنة تسع وعشرين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "a1324553-550d-4d09-8414-08a5d50fc0a8",
+      "startIndex": 296,
+      "text": "محمد بن أبي القاسم بن محمد بن أسعد بن الحليم الحنفي",
+      "type": "person"
+    }
+  ],
+  "text": "وعليه بالخط ما صورته وقرأت جميع هذا الجزء على الشيخ أبي القاسم إسماعيل بن أحمد بن عمر السمرقندي بروايته عن ابن النقور وسمع أخي عمر بن محمد بن معمر بن طبرزد جبره الله وآخرون اختصرتهم أنا وكتب محمد بن محمد بن معمر بن طبرزد في سادس عشر رجب من سنة تسع وعشرين وخمس مائة بجامع المنصور نقلها كما شاهدها محمد بن أبي القاسم بن محمد بن أسعد بن الحليم الحنفي"
+}

@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبد الملك بن محمد بن عبد الله بن بشران الزاهد البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن بشران"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 154"
+      ],
+      "classmark": [
+        "3766"
+      ],
+      "folio_number": [
+        "50r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 307,
+      "guid": "184af1d2-0e06-4c7c-8540-e6501a89ccbc",
+      "startIndex": 283,
+      "text": "أحمد بن حسن بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "876"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "3c8910f5-4cb0-4951-a2ae-8ff91c905e6d",
+      "startIndex": 192,
+      "text": "الأحد خامس شوال سنة ست وسبعين وثمانمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "c83d81cd-ccdf-447c-8fe7-cc03bad98649",
+      "startIndex": 86,
+      "text": "أبي عبد الله محمد بن محمد بن علي المقدسي السيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "e276e2ab-13ef-4714-a229-9deda387be0f",
+      "startIndex": 145,
+      "text": "زيد بن غيث بن سليمان العجلوني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء جميعه وهو الحادي والعشرون من البشرانيات على الشيخ الصالح المعمر القدوة أبي عبد الله محمد بن محمد بن علي المقدسي السيلي بسماعه على زيد بن غيث بن سليمان العجلوني وصح ذلك وثبت يوم الأحد خامس شوال سنة ست وسبعين وثمانمائة وأجاز لي المسمع جميع ما يجوز له روايته بشرطه وكتبه أحمد بن حسن بن عبد الهادي والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلم"
+}

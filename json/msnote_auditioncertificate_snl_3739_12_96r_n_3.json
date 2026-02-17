@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد السمرقندي"
+      ],
+      "work_title": [
+        "المسلسل الأول"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 20"
+      ],
+      "classmark": [
+        "3739/12"
+      ],
+      "folio_number": [
+        "96r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "2a9c54e8-03f9-4e46-b950-0e247431fd23",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 96,
+      "text": "الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "b1a367bf-532c-47ce-88ec-97006682690d",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 103,
+      "text": "الحسين ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 30,
+      "guid": "ce327d4c-85d4-4149-9f36-96e966645dec",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 16,
+      "text": "بي حفص بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami",
+          "copyist"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "d03c9e7e-97ac-46f1-9d51-dd65be11f9c0",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 46,
+      "text": "هبة الله بن أبي الكرم الواسطي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "e8bbf1c4-888e-44fd-8380-f68affcd2e6a",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 90,
+      "text": "محمد ",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه من الشيخ أبي حفص بن طبرزد ونقله من أصله هبة الله بن أبي الكرم الواسطي الحنفي وأخوته محمد والحسن والحسين "
+}

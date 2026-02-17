@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عمر بن أحمد بن عثمان بن أحمد بن شاهين البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فضائل شهر رمضان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/12"
+      ],
+      "folio_number": [
+        "202r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "25835032-9943-49f2-8e02-bb1ea10bada0",
+      "startIndex": 25,
+      "text": "أبي عبد الله الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "45ace417-c3ec-4e38-85ec-c60acc1baf9e",
+      "startIndex": 45,
+      "text": "أبي محمد عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "4e964c9e-9a8f-42cf-a250-170cbb80c87d",
+      "startIndex": 80,
+      "text": "أبو اليمن زيد بن الحسن بن زيد الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "6"
+        ],
+        "year": [
+          "534"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "cbd5a3ff-1054-48a2-a396-78e619dc7412",
+      "startIndex": 174,
+      "text": "جمادى الأولى سنة أربع وثلثين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "fe3cc019-9947-4f13-83b5-dc0ac35122ac",
+      "startIndex": 124,
+      "text": "المبارك بن كامل بن أبي غالب الخفاف",
+      "type": "person"
+    }
+  ],
+  "text": "سمع الجزء كله من الشيخين أبي عبد الله الحسن وأبي محمد عبد الله ابني علي بن أحمد أبو اليمن زيد بن الحسن بن زيد الكندي بقراءة المبارك بن كامل بن أبي غالب الخفاف وكتب السماع في جمادى الأولى سنة أربع وثلثين وخمسماية"
+}

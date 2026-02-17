@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبدالله بن محمد بن عبيد بن أبي الدنيا "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الصمت"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 160"
+      ],
+      "classmark": [
+        "3768/1"
+      ],
+      "folio_number": [
+        "47r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 290,
+      "guid": "39a16c2d-2f88-43af-aad4-3d3ff7c5d119",
+      "startIndex": 227,
+      "text": "أبو العباس أحمد بن أبي بكر بن غزال ابن الواسطي المؤذن يعرف بثعلب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "576"
+        ]
+      },
+      "endIndex": 415,
+      "guid": "89c19851-53d1-4779-9640-b4987c18eae5",
+      "startIndex": 377,
+      "text": "الأربعاء شهر صفر سنة ست وسبعين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 427,
+      "guid": "adede5ac-803a-4f19-90b9-8daeed962872",
+      "startIndex": 418,
+      "text": "جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 347,
+      "guid": "b0c78d45-7866-4d51-be32-134560d0d304",
+      "startIndex": 297,
+      "text": "عبد الرحمن بن إبراهيم بن أحمد بن عبد الرحمن المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "b53c340f-245d-43ed-91b1-52c979dc8a0d",
+      "startIndex": 91,
+      "text": "أبي محمد عبد الغني بن عبد الواحد بن علي بن سرور المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "dd9f6b70-1f0d-4b9e-9602-62946df460ad",
+      "startIndex": 170,
+      "text": "سيف الدين أبو القاسم عبد الله بن عمر بن أبي بكر المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت كتاب الصمت لابن أبي الدنيا كله وهو من هذه النسخة أربعة أجزاء على الفقيه الحافظ الإمام أبي محمد عبد الغني بن عبد الواحد بن علي بن سرور المقدسي سلمه الله فسمعه الفقيه سيف الدين أبو القاسم عبد الله بن عمر بن أبي بكر المقدسي وأبو العباس أحمد بن أبي بكر بن غزال ابن الواسطي المؤذن يعرف بثعلب وكتب عبد الرحمن بن إبراهيم بن أحمد بن عبد الرحمن المقدسي وذلك في مجالس عدة آخرها يوم الأربعاء شهر صفر سنة ست وسبعين وخمسمائة بجبل قاسيون وصلى الله على سيدنا محمد وآله وسلم تسليما كثيرا"
+}

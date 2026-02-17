@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبد الملك بن محمد بن عبد الله بن بشران الزاهد البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن بشران"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 154"
+      ],
+      "classmark": [
+        "3766"
+      ],
+      "folio_number": [
+        "76v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 388,
+      "guid": "1954ba5f-cf72-4d39-91e0-bb4a4057429b",
+      "startIndex": 385,
+      "text": "زينب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "19b5cec0-a420-4628-b8cb-afd665cec854",
+      "startIndex": 247,
+      "text": "عبد الله بن أحمد بن المحب المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "31c6942d-db14-4444-b373-d926bf7969ee",
+      "startIndex": 117,
+      "text": "شرف الدين أبي محمد عيسى بن عبد الرحمن بن معالي بن حمد بن أحمد المطعم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 634,
+      "guid": "46b504d5-8349-4d04-ba5e-96a9cbff03c7",
+      "startIndex": 613,
+      "text": "منزل الشيخ بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "719"
+        ]
+      },
+      "endIndex": 610,
+      "guid": "5dcbc040-850d-47a4-bbc9-a8b38b726b4a",
+      "startIndex": 567,
+      "text": "السبت التاسع من المحرم سنة تسع عشرة وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 489,
+      "guid": "622fbf05-b613-4f1b-8152-43d56ba2d114",
+      "startIndex": 485,
+      "text": "صالحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "68dbba35-0b95-437f-a586-6550ac24a859",
+      "startIndex": 391,
+      "text": "أسماء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 482,
+      "guid": "73fbb41a-6cfe-41d2-ba8c-16e4155be4a9",
+      "startIndex": 452,
+      "text": "فاطمة بنت منصور بن لاحق المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "986ea335-cdc9-4b42-baf3-817bec12f1ba",
+      "startIndex": 204,
+      "text": "جعفر الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 359,
+      "guid": "a6de17c9-58ab-45f9-8152-61a8ebc5c238",
+      "startIndex": 311,
+      "text": "أبو عبد الله محمد بن أحمد بن عمر بن سلمان البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 365,
+      "guid": "ad24d341-a2bd-485c-909d-e2cf0273a0a1",
+      "startIndex": 362,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 505,
+      "guid": "b47ac3fe-0418-47c7-8525-306277d243c0",
+      "startIndex": 503,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 297,
+      "guid": "da96aa0a-1f80-4c75-9bec-6ccfdbf41a49",
+      "startIndex": 293,
+      "text": "خديجة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 551,
+      "guid": "ed3192c0-a98f-429b-bb09-e8f6ebfe47d3",
+      "startIndex": 546,
+      "text": "فاطمة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "f45e82d1-4cbc-4691-9944-a02f983012f1",
+      "startIndex": 221,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "f997d74a-6c52-4e7f-826e-011199a3bf3b",
+      "startIndex": 368,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "fda74c22-d122-4121-baa7-4c227e57b546",
+      "startIndex": 287,
+      "text": "محمد ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو الرابع والعشرون من البشرانيات والجزء الثالث والعشرين قبله على الشيخ المسند المعمر بقية الشيوخ شرف الدين أبي محمد عيسى بن عبد الرحمن بن معالي بن حمد بن أحمد المطعم المقدسي بسماعه من جعفر الهمداني عن السلفي بقراءة كاتب السماع عبد الله بن أحمد بن المحب المقدسي ابناه محمد وخديجة في الثانية وأبو عبد الله محمد بن أحمد بن عمر بن سلمان البالسي ومحمد وأحمد في الثالثة وزينب وأسماء أولاد أحمد بن ألطنبا بن عبد الله الفوارسي الحلبي وأمهم فاطمة بنت منصور بن لاحق المنبجي وصالحة في الرابعة وعلي في الثالثة ولدا محمد ابن المسمع وأمهما فاطمة وصح ذلك في يوم السبت التاسع من المحرم سنة تسع عشرة وسبعمائة بمنزل الشيخ بسفح قاسيون وأجاز لهم مروياته وسمعوا عليه بالقراءة والتاريخ كتاب الأربعين في التصوف لأبي نعيم الحافظ بسماعه من الحافظ ضياء الدين المقدسي بسماعه من أبي جعفر الصيدلاني بحضوره على الحداد عنه وجزءا من حديث أبي بكر ابن الأنباري بسماعه من عبد الله ابن اللتي بسماعه من أبي علي ابن المتوكل وبإجازته إن لم يكن سماعا من جعفر الهمداني عن السلفي قالا أنبا أبو غالب الباقلاني عن البرقاني عنه وجزءا لطيفا فيه منتقى من كتاب ذم الكلام لشيخ الإسلام الأنصاري وهو من رواية الترمذي بسماعه من ابن اللتي عن أبي الوقت عنه وجزءا فيه المجلس الرابع والعشرون من أمالي أبي القاسم بن البسري بسماعه من ابن اللتي بسماعه من أبي المعالي بن اللحاس عنه إجازة وصح وثبت الحمد لله رب العالمين وصلى الله على سيدنا محمد النبي وآله [وصحبه وسلم]"
+}

@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "طراد بن محمد الزينبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي طراد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "note": [
+        "غير مفهرسة"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 128"
+      ],
+      "classmark": [
+        "3763/?"
+      ],
+      "folio_number": [
+        "87r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "41c36cb1-e8f8-44bf-a86c-75415bce87e8",
+      "startIndex": 118,
+      "text": "أبي محمد عبد الله بن علي بن أحمد المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "4a0a1603-b429-4106-82c0-016fe34688e9",
+      "startIndex": 209,
+      "text": "علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "601"
+        ]
+      },
+      "endIndex": 290,
+      "guid": "565ec2f0-3754-40a1-aa8c-a3288cd5db87",
+      "startIndex": 253,
+      "text": "الثالث من جمادى الأولى سنة إحدى وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "6b61dd2a-3fd5-4439-9bf9-2664e7e4be73",
+      "startIndex": 161,
+      "text": "طراد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "c9f49437-838b-4499-9fa4-ee383eab260e",
+      "startIndex": 62,
+      "text": "تاج الدين أبي اليمن زيد بن الحسن بن زيد الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "da1fef31-147c-426b-9a4d-a7e1f01e36b0",
+      "startIndex": 173,
+      "text": "أبي الفتح محمد بن عبد الغني المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع المجلس الثالث عشر من الأصل من أمالي طراد على الشيخ الإمام تاج الدين أبي اليمن زيد بن الحسن بن زيد الكندي عن الشيخ أبي محمد عبد الله بن علي بن أحمد المقرئ عن طراد بقراءة أبي الفتح محمد بن عبد الغني المقدسي علي بن أحمد بن عبد الواحد المقدسي وآخرون في الثالث من جمادى الأولى سنة إحدى وستمية والحمد لله وحده"
+}

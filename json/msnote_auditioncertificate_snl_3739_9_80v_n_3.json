@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد الأصبهاني السلفي"
+      ],
+      "work_title": [
+        "حديث المصافحة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 19"
+      ],
+      "classmark": [
+        "3739/9"
+      ],
+      "folio_number": [
+        "80v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "08f81730-b6f3-46ac-8b3d-b873396a0a0a",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 130,
+      "text": "تقي الدين أبو العباس أحمد بن عبد الحليم بن تيمية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "1a2bb7f0-f5b5-41de-b1ac-036f0f008179",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 271,
+      "text": "يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "680"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "4d73f081-96a2-46ad-b7a1-a65886322aca",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 189,
+      "text": "يوم الجمعة حادي عشر محرم سنة ثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 255,
+      "guid": "53678568-31bc-4cfc-9044-69c1ea53cf52",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 233,
+      "text": "دار السنة النورية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "5dbd73bd-0068-40cb-a491-efa14149ef0c",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 89,
+      "text": "السخاوي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "7ce7a570-37a8-4708-832f-c08ca5778ac8",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": " شهاب الدين أبي العباس بن الصابوني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "a977f3d5-2bbc-487e-8b36-78be8fd79f8c",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 107,
+      "text": "محمد ",
+      "type": "person"
+    }
+  ],
+  "text": " قرأته ثانياً على الشيخ الإمام الجليل الأصيل شهاب الدين أبي العباس بن الصابوني بسماعه من السخاوي فسمعه أخي محمد جبره الله والإمام تقي الدين أبو العباس أحمد بن عبد الحليم بن تيمية وصح بشرطه يوم الجمعة حادي عشر محرم سنة ثمانين وستمية بدار السنة النورية بدمشق المحروسة وكتب يوسف بن الزكي عبد الرحمن المزي عفا الله عنه "
+}

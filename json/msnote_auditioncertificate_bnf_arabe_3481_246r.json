@@ -1,0 +1,451 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر أحمد بن مروان الدينوري المالكي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب المجالسة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 3481"
+      ],
+      "folio_number": [
+        "246r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110029593/f247.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110029593/f247.item.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 782,
+      "guid": "115754ba-4b04-4c2c-b9da-a881437c8e00",
+      "index": 117,
+      "isZeroPoint": false,
+      "startIndex": 759,
+      "text": "حسن بن عثمان بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 553,
+      "guid": "151d6062-44fd-48dc-96ba-452426853bf5",
+      "index": 111,
+      "isZeroPoint": false,
+      "startIndex": 526,
+      "text": "زيد بن زياد بن حمدان الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "mossul",
+            "dar_al-hadith_al-muzafariya"
+          ]
+        ]
+      },
+      "endIndex": 1171,
+      "guid": "180c564b-d3ca-4368-bf2c-9f044db801e1",
+      "index": 130,
+      "isZeroPoint": false,
+      "startIndex": 1145,
+      "text": "الموصل بدار الحديث المظفرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 448,
+      "guid": "1cfd7a41-1ee3-4c95-8bca-8458d868198f",
+      "index": 108,
+      "isZeroPoint": false,
+      "startIndex": 407,
+      "text": "أبو عبد الله محمد بن أحمد بن سليمان الزهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 902,
+      "guid": "22ec0946-06a9-4409-a6d8-13226f1aaa87",
+      "index": 123,
+      "isZeroPoint": false,
+      "startIndex": 893,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 523,
+      "guid": "235fa3b4-382a-4ce5-b674-6f66e60c5a69",
+      "index": 110,
+      "isZeroPoint": false,
+      "startIndex": 499,
+      "text": "خلف بن محمد بن خلف الكنري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 680,
+      "guid": "36567a70-6b58-4d28-bf5f-0af9f19aec8e",
+      "index": 114,
+      "isZeroPoint": false,
+      "startIndex": 635,
+      "text": "عمر بن محمد بن عبد الله بن [عبد] الرحمن القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 632,
+      "guid": "3c61b26f-433b-4163-8804-fd7cc92019a5",
+      "index": 113,
+      "isZeroPoint": false,
+      "startIndex": 605,
+      "text": "سعيد بن خضر بن مجلي الفرزاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "3f0e03e9-bf9f-4e8f-827b-9d9ba1965391",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 127,
+      "text": "أبي المعالي عبد الله بن عبد الرحمن بن أحمد بن صابر السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "517ed50a-60f8-4be1-b8f5-159344d8c4be",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 57,
+      "text": "جمال الدين أبي محمد عبد القادر بن عبد الله الرهاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "53018257-52bd-4440-89e6-673f0beb25c6",
+      "index": 106,
+      "isZeroPoint": false,
+      "startIndex": 284,
+      "text": "نجم الدين أبو محمد عبد الله بن فضائل بن أبي بكر بن بلال المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 959,
+      "guid": "64dda678-7680-4d08-a2ed-72a36ea97498",
+      "index": 124,
+      "isZeroPoint": false,
+      "startIndex": 931,
+      "text": "يوسف بن محمود بن سنقر الزارجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 878,
+      "guid": "706f7c3c-fa99-4ea8-9115-a06114c4c27d",
+      "index": 121,
+      "isZeroPoint": false,
+      "startIndex": 874,
+      "text": "محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 719,
+      "guid": "7d7bcf16-36bf-41b0-88b1-5eab478baf77",
+      "index": 115,
+      "isZeroPoint": false,
+      "startIndex": 683,
+      "text": "أبو بكر بن إسماعيل بن جورين الشهرزوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 404,
+      "guid": "82c5aed6-1768-477b-b97a-ddcdb11179b1",
+      "index": 107,
+      "isZeroPoint": false,
+      "startIndex": 355,
+      "text": "أبو محمد عبد الجبار بن أبي الفضل بن الفرج البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 756,
+      "guid": "89a01319-6ea5-456a-b88c-cc7a744d747a",
+      "index": 116,
+      "isZeroPoint": false,
+      "startIndex": 722,
+      "text": "عبد العزيز بن يوسف بن شعبان الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 836,
+      "guid": "8ab939c5-53d7-4d48-bdef-4bc4e3b337e2",
+      "index": 119,
+      "isZeroPoint": false,
+      "startIndex": 810,
+      "text": "يوسف بن محمود بن عبد الكافي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1041,
+      "guid": "8cb0103c-9be2-4c64-991e-c7b81bc22915",
+      "index": 126,
+      "isZeroPoint": false,
+      "startIndex": 1020,
+      "text": "علي بن عبد الله الرومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1- 3"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "596"
+        ]
+      },
+      "endIndex": 1142,
+      "guid": "9ff027d6-0e63-4253-963e-62c49a8d2227",
+      "index": 129,
+      "isZeroPoint": false,
+      "startIndex": 1093,
+      "text": "في يوم الاثنين مستهل رجب من سنة ست وتسعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 496,
+      "guid": "aa8d52da-816e-4d0c-9308-6d21c566fe05",
+      "index": 109,
+      "isZeroPoint": false,
+      "startIndex": 451,
+      "text": "أبو محمد جعفر بن محمد بن جعفر العباسي البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "b8f5b6d5-12ad-49a2-bdf2-3af46faae093",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 205,
+      "text": "أبي عبد الله محمد بن القاسم بن الحسن المعروف بابن [الزيدلنجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 805,
+      "guid": "b9ca7f7c-86d5-4c16-9f76-bc9560fba9be",
+      "index": 118,
+      "isZeroPoint": false,
+      "startIndex": 785,
+      "text": "محمد بن عيسى الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 890,
+      "guid": "c9c39b8f-4d5a-476d-a5e3-29691b5ec226",
+      "index": 122,
+      "isZeroPoint": false,
+      "startIndex": 881,
+      "text": "عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 869,
+      "guid": "d27646a5-c73d-469c-a076-7b3a21e5f4f3",
+      "index": 120,
+      "isZeroPoint": false,
+      "startIndex": 839,
+      "text": "عمر بن مسعود بن الحسين الجيلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1012,
+      "guid": "d4e95dfc-c41f-447e-80f0-7a1db5f50687",
+      "index": 125,
+      "isZeroPoint": false,
+      "startIndex": 987,
+      "text": "أم محمد خاتون بنت عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 602,
+      "guid": "daf79c5f-82fb-4894-8e98-61e60f10b472",
+      "index": 112,
+      "isZeroPoint": false,
+      "startIndex": 556,
+      "text": "أبو عبد الله محمد بن محمود بن عبيد الله الهاشمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1086,
+      "guid": "faca84b6-a2b7-410c-8806-6ca386616134",
+      "index": 127,
+      "isZeroPoint": false,
+      "startIndex": 1057,
+      "text": "محمود بن أيوب بن سعد الشهرزوري",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم الحافظ الأوحد جمال الدين أبي محمد عبد القادر بن عبد الله الرهاوي بحق سماعه من الشيخ أبي المعالي عبد الله بن عبد الرحمن بن أحمد بن صابر السلمي بقراءة الشيخ الإمام أبي عبد الله محمد بن القاسم بن الحسن المعروف بابن [الزيدلنجي؟] المشايخ الأجلاء نجم الدين أبو محمد عبد الله بن فضائل بن أبي بكر بن بلال المقدسي والشيخ أبو محمد عبد الجبار بن أبي الفضل بن الفرج البغدادي وأبو عبد الله محمد بن أحمد بن سليمان الزهري وأبو محمد جعفر بن محمد بن جعفر العباسي البغدادي وخلف بن محمد بن خلف الكنري وزيد بن زياد بن حمدان الحراني وأبو عبد الله محمد بن محمود بن عبيد الله الهاشمي وسعيد بن خضر بن مجلي الفرزاني وعمر بن محمد بن عبد الله بن [عبد] الرحمن القرشي وأبو بكر بن إسماعيل بن جورين الشهرزوري وعبد العزيز بن يوسف بن شعبان الإربلي وحسن بن عثمان بن عبد الله ومحمد بن عيسى الهمدانيين ويوسف بن محمود بن عبد الكافي وعمر بن مسعود بن الحسين الجيلانيين ومحمود وعبد العزيز وعبد الرحمن بنو عدي بن حجاج الموصليون ويوسف بن محمود بن سنقر الزارجي وصاحبة الشيخ المسموع عليه أم محمد خاتون بنت عبد الله وفتاه علي بن عبد الله الرومي ومثبت الأسماء محمود بن أيوب بن سعد الشهرزوري وذلك في يوم الاثنين مستهل رجب من سنة ست وتسعين وخمسماية بالموصل بدار الحديث المظفرية والحمد لله رب العالمين وصلوته على محمد وآله وسلم تسليما."
+}

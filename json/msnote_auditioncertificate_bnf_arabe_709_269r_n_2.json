@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/76600419"
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 709"
+      ],
+      "folio_number": [
+        "269r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f273.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f273.item.r=%22Arabe%20709%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "8fcc7f88-2ef5-4b90-b23e-b007835bed84",
+      "index": 129,
+      "isZeroPoint": false,
+      "startIndex": 185,
+      "text": "الشريف أبو علي طاهر بن علي بن عبد الله العثماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 341,
+      "guid": "d85e504c-a2af-4a72-ba5c-9fa4203baee8",
+      "index": 132,
+      "isZeroPoint": false,
+      "startIndex": 315,
+      "text": "علي بن أحمد بن محمد بن كوثر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 290,
+      "guid": "e3cd4822-0515-4f03-9254-8a08b116b913",
+      "index": 130,
+      "isZeroPoint": false,
+      "startIndex": 260,
+      "text": "أبو العباس أحمد بن محمد بن كوثر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "547"
+        ]
+      },
+      "endIndex": 449,
+      "guid": "e9ff4f92-286f-434a-bd6d-19082c196ec7",
+      "index": 133,
+      "isZeroPoint": false,
+      "startIndex": 370,
+      "text": "يوم الخميس الثالث والعشرين من ذي القعدة سنت [كذا في الأصل] سبع وأربعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "ec18bad5-a062-46b0-b68a-f2faae0a0cb5",
+      "index": 131,
+      "isZeroPoint": false,
+      "startIndex": 298,
+      "text": "أبو الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "f1121815-0e34-449b-8c97-61451ce9a982",
+      "index": 128,
+      "isZeroPoint": false,
+      "startIndex": 73,
+      "text": "عبد الملك [بن أبي القاسم بن أبي سهل] الكروخي الهروي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 490,
+      "guid": "fb24af3d-529d-4150-b7f6-766eb3aa480f",
+      "index": 134,
+      "isZeroPoint": false,
+      "startIndex": 456,
+      "text": "يوسف بن عبد الرحمن بن يوسف الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": "بسم الله الرحمن الرحيم\nقرأت جميع هذا الكتاب مع العلل على الشيخ أبي الفتح عبد الملك [بن أبي القاسم بن أبي سهل] الكروخي الهروي وعبد الملك ينظر في أصل السماع وقابلت ذلك [...] وسمع بقراءتي الشريف أبو علي طاهر بن علي بن عبد الله العثماني وصاحب الكتاب الفقيه الجليل أبو العباس أحمد بن محمد بن كوثر وولده أبو الحسن المقرئ علي بن أحمد بن محمد بن كوثر وصح ذلك في مجالس عدة آخرها يوم الخميس الثالث والعشرين من ذي القعدة سنت [كذا في الأصل] سبع وأربعين وخمس ماية وكتب يوسف بن عبد الرحمن بن يوسف الأنصاري بخطه في التاريخ المذكور والحمد لله وحده والصلاة على محمد نبيه وعلى آله الطيبين [...]."
+}

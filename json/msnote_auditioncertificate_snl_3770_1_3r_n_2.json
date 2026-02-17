@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضل بن أحمد بن محمد الفراوي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "العوالي المائة من مسموعات الفراوي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 172"
+      ],
+      "classmark": [
+        "3770/1"
+      ],
+      "folio_number": [
+        "3r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 40,
+      "guid": "53793679-7f83-4117-9c88-ee982a62431b",
+      "startIndex": 19,
+      "text": "المحب عبد الله بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "651"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "63f04a40-617d-411d-8418-9647246078d9",
+      "startIndex": 124,
+      "text": "الأحد سادس جمادى الآخرة سنة إحدى وخمسين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 197,
+      "guid": "74b3074b-3da7-45db-9929-2ef713aa0554",
+      "startIndex": 172,
+      "text": "دار الحديث الأشرفية بالجبل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "c7e6fa0e-e47a-4a8b-a67d-3d610fdf91a4",
+      "startIndex": 42,
+      "text": "عبد الرحمن بن نصر بن عبيد بن محمد بن عمران",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "e13e1749-54af-4c90-8dd9-d3fba0a08e5d",
+      "startIndex": 86,
+      "text": "أحمد بن علي بن حسن الكردي المشرقي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها عليه بقراءة المحب عبد الله بن أحمد عبد الرحمن بن نصر بن عبيد بن محمد بن عمران وأحمد بن علي بن حسن الكردي المشرقي يوم الأحد سادس جمادى الآخرة سنة إحدى وخمسين وستمية بدار الحديث الأشرفية بالجبل"
+}

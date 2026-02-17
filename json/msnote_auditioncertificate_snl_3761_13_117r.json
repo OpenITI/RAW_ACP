@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن عبد العزيز بن جريج المكي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث ابن جريج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 120"
+      ],
+      "classmark": [
+        "3761/13"
+      ],
+      "folio_number": [
+        "117r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 271,
+      "guid": "377ef3bc-ad69-4084-8984-47d16b8f6d56",
+      "startIndex": 255,
+      "text": "منزل المسمع بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "571220c0-a995-4467-be7b-44d5c2d3c2d5",
+      "startIndex": 52,
+      "text": "بهاء الدين أبي محمد القاسم بن الشيخ الإمام الحافظ أبي القاسم علي بن الحسن بن هبة الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "597"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "c0e89691-a9b5-43c4-8bac-676e4c9c156d",
+      "startIndex": 157,
+      "text": " الاثنين الرابع والعشرين من رجب سنة سبع وتسعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "f38bac33-846f-48a7-b9ed-68dee483b497",
+      "startIndex": 219,
+      "text": "محمد بن عتان بن علي بن عتان الجزري",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزؤ من لفظ شيخنا الشيخ الإمام الحافظ بهاء الدين أبي محمد القاسم بن الشيخ الإمام الحافظ أبي القاسم علي بن الحسن بن هبة الله الشافعي وذلك في يوم الاثنين الرابع والعشرين من رجب سنة سبع وتسعين وخمس ماية كتبه محمد بن عتان بن علي بن عتان الجزري بمنزل المسمع بدمشق [وصلى] الله على محمد وآله وسلم وحسبنا الله ونعم الوكيل "
+}

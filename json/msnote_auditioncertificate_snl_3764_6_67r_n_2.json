@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أمية بن أبي الصلت"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "قصيدة لأمية بن أبي الصلت"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 139"
+      ],
+      "classmark": [
+        "3764/6"
+      ],
+      "folio_number": [
+        "67r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "867"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "0d68f630-dc6a-4ce1-bf6e-91744182f1df",
+      "startIndex": 205,
+      "text": "الأربعاء رابع عشر شهر ذي الحجة سنة سبع وستين وثمانمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "2af608c9-ecae-4c42-8582-ddabbf4f6407",
+      "startIndex": 117,
+      "text": "عمر بن البالسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "4cf79f32-66ab-4c70-a7b3-4e78b4441ac3",
+      "startIndex": 144,
+      "text": "المزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "defaultLabel": "Place1",
+      "guid": "6362a3b4-f2cb-43f9-b2cf-8fe48fd8d6af",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 297,
+      "guid": "7c9a2241-4819-4ca9-8a3a-4e972b3ed664",
+      "startIndex": 272,
+      "text": "يوسف بن حسن بن عبد الهادي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "98628375-8d73-4838-9db4-9a3d10a3c3b2",
+      "startIndex": 95,
+      "text": "علي بن أحمد المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "d1e8272f-434b-4fcc-b4a3-eb5fec1b81a8",
+      "startIndex": 34,
+      "text": " فاطمة بنت الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "ed907c11-a35e-4cb4-8bd9-d4239d100683",
+      "startIndex": 67,
+      "text": "عبد الله بن خليل الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "f7b86849-906e-4c18-8f6e-8fd2d5f2ddb6",
+      "startIndex": 161,
+      "text": "عبد الرحمن بن أبي الفهم",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذه القصيدة على الشيخة الرحلة فاطمة بنت الحرستاني بإجازتها من عبد الله بن خليل الحرستاني وعلي بن أحمد المرداوي وعمر بن البالسي بإجازتهم من المزي بإجازته من عبد الرحمن بن أبي الفهم وصح ذلك وثبت في يوم الأربعاء رابع عشر شهر ذي الحجة سنة سبع وستين وثمانمائة وأجازت وكتب يوسف بن حسن بن عبد الهادي "
+}

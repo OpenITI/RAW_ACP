@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يحيى بن معين"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "معرفة الرجال"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 15/16"
+      ],
+      "classmark": [
+        "3738/1"
+      ],
+      "folio_number": [
+        "20v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "15605772-6ca6-4d46-a4e7-e5f1a78e0e53",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 110,
+      "text": "ابن حيويه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "2fb3d6f3-50fc-480b-a2e3-648afebe153f",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 200,
+      "text": "عبد الرحمن بن المبارك بن كامل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "527"
+        ]
+      },
+      "endIndex": 296,
+      "guid": "6c01f0b7-aedd-42d7-a02e-986bbe9c246b",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 257,
+      "text": "جمادى الأولى من سنة سبع وعشرين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "700b9c0f-841c-4dd9-aec5-00f0f0b1b436",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 231,
+      "text": "يلتكين بن أخبار التركي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "9e14d121-5f4d-4d5e-995d-babd02c4fe2c",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "المبارك بن كامل بن أبي غالب الخفاف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "f58a3316-30f1-4d11-841e-3492942184a2",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 29,
+      "text": "أبي منصور محمد بن عبد الملك بن خيرون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "f630daa4-c3bf-403c-90b2-f518f3088bec",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 77,
+      "text": "أبي محمد الحسن بن علي الجوهري",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء من الشيخ أبي منصور محمد بن عبد الملك بن خيرون بإجازته من أبي محمد الحسن بن علي الجوهري عن ابن حيويه إجازة بقراءة المبارك بن كامل بن أبي غالب الخفاف وسمع من موضع اسمه إلى آخره ابني عبد الرحمن بن المبارك بن كامل ويلتكين بن أخبار التركي في جمادى الأولى من سنة سبع وعشرين وخمس ماية"
+}

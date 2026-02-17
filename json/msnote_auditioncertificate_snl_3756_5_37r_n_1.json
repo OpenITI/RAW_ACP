@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        null
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 91"
+      ],
+      "classmark": [
+        "3756/5"
+      ],
+      "folio_number": [
+        "37r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 592,
+      "guid": "1d85a640-cbce-42d6-a1d1-9608d54c6fce",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 545,
+      "text": "عبد الولي بن بدر الدين حسن بن عبد الولي الأسعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "1f900013-9632-44db-bada-6f3f02be8b83",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 267,
+      "text": "ابن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "746"
+        ]
+      },
+      "endIndex": 852,
+      "guid": "3014b066-b5bf-43cd-b98b-3c587210ea4c",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 787,
+      "text": "يوم الثلثا ثالث عشر شهر الله المحرم الحرام سنة ست وتسعين وسبعماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 391,
+      "guid": "45f27439-a0ee-4b9b-983a-87209ad2136b",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 327,
+      "text": "بدر الدين بن الحافظ عماد الدين أبي الفداء إسماعيل بن كثير الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "4eaf764d-ac36-4afa-8992-eb91926d067a",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 398,
+      "text": "أبو الفضل إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 443,
+      "guid": "5c82cae4-a9b7-4939-bb11-527f5105e9a9",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 422,
+      "text": " أحمد بن علي بن الفلاح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 611,
+      "guid": "60b2798e-c81b-4a3e-9520-aad024d126eb",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 600,
+      "text": "أطلمش التركي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 720,
+      "guid": "618e2851-9295-4aab-af13-df66c771a86a",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 702,
+      "text": "محمد بن علي بن يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "salihiya_quarter"
+          ]
+        ]
+      },
+      "endIndex": 874,
+      "guid": "6474d3ce-231b-42d0-8d95-32109829c873",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 854,
+      "text": "منزل المسمع بالصالحية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 699,
+      "guid": "7715ec93-f4b0-481e-a5fd-a046b537e9d9",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 669,
+      "text": "محمد بن أحمد بن عبد الحق الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "7b7515bb-f19a-48a1-b5a4-7b9f8a4d2e53",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 292,
+      "text": "الخشوعي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 515,
+      "guid": "813f5ab4-6c8c-4785-9120-311351e615a0",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 471,
+      "text": "ناصر الدين محمد بن عبد الرحمن بن زريق الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 761,
+      "guid": "8488a5c6-9560-4e15-a56e-312a078fb3f2",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 723,
+      "text": "أبو بكر عبد الله ابن محمد بن الشيخ يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "8a08164c-e82d-4e4c-a9aa-52f1caaa5382",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 51,
+      "text": "شهاب الدين أحمد بن عماد الدين أبو بكر بن أحمد ابن عبد الحميد بن عبد الهادي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 654,
+      "guid": "8e079472-7816-4522-a761-913295424974",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 614,
+      "text": "عماد الدين أبو بكر بن محمد بن أحمد الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "a0c936ec-fec6-4d6e-8b41-854c5722aad4",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "محب الدين ابن المحب عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "a646fbab-86d6-4ab0-b1cf-2d47180aa6b6",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 161,
+      "text": "ابن] أبي الهيجاء بن الزراد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 527,
+      "guid": "b6488901-9484-4deb-a1c7-6d14649ffca3",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 524,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "c203ee90-5908-49ed-928c-406df8433f6c",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 189,
+      "text": "ابن مري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "eb75780e-7c54-4b27-9e1c-09c95d049ed7",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 228,
+      "text": "الجزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 534,
+      "guid": "eff4f0bd-98c6-46f4-9b46-11eb4c2251aa",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 530,
+      "text": "فاطمة",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ المسند المكثر الرحلة شهاب الدين أحمد بن عماد الدين أبو بكر بن أحمد ابن عبد الحميد بن عبد الهادي المقدسي بسماعه من المشايخ الأربعة [ابن] أبي الهيجاء بن الزراد وابن مري ومحب الدين ابن المحب عبد الله والجزري بسماع الأولين وحضور الأخيرين من ابن عبد الدائم بسماعه من الخشوعي بقراءة الشيخ الإمام الحافظ بدر الدين بن الحافظ عماد الدين أبي الفداء إسماعيل بن كثير الشافعي ولده أبو الفضل إسماعيل وخادمه أحمد بن علي بن الفلاح أبوه والشيخ الإمام الحافظ ناصر الدين محمد بن عبد الرحمن بن زريق الحنبلي وابناه أحمد وفاطمة والخواجا عبد الولي بن بدر الدين حسن بن عبد الولي الأسعردي وفتاه أطلمش التركي وعماد الدين أبو بكر بن محمد بن أحمد الحنفي نسيب المسمع ومحمد بن أحمد بن عبد الحق الحنفي ومحمد بن علي بن يحيى وأبو بكر عبد الله ابن محمد بن الشيخ يوسف وذا خطه وصح ذلك وثبت في يوم الثلثا ثالث عشر شهر الله المحرم الحرام سنة ست وتسعين وسبعماية بمنزل المسمع بالصالحية وأجاز والحمد لله على نعمه "
+}

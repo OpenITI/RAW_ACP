@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "119v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f124.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f124.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "75a1aa81-02d6-472a-b380-c13028e23f8e",
+      "startIndex": 66,
+      "text": "نجم الدين أبي محمد عبد الرحيم بن يحيى بن عبد الرحيم بن المفرج بن مسلمة الأموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "75efa2dc-9ecb-4564-b26d-c146703d5073",
+      "startIndex": 209,
+      "text": "بهاء الدين عبد الله بن محمد بن أبي بكر بن خليل بن إبراهيم المكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 407,
+      "guid": "87ac7c35-bba6-4305-bca5-cd71841f2d64",
+      "startIndex": 390,
+      "text": "جامع دمشق تحت نسره",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "8ce398d7-6ce5-429b-be83-3e21647ad351"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 307,
+      "guid": "bb02cbfa-7033-40cb-bc14-685d2dbf23cf",
+      "startIndex": 274,
+      "text": "خليل بن كيكلدي بن عبد الله العلائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "713"
+        ]
+      },
+      "endIndex": 387,
+      "guid": "e3431b35-71ad-45dc-b80a-afad5d2a4950",
+      "startIndex": 329,
+      "text": "يوم الأحد رابع عشري شهر جمادى الأول سنة ثلاث عشرة وسبع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "f3b747ed-452d-41de-bc8a-f683f35fa1fb",
+      "startIndex": 165,
+      "text": "السخاوي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو جزء سفيان بن عيينة على الشيخ الفقيه الأصيل نجم الدين أبي محمد عبد الرحيم بن يحيى بن عبد الرحيم بن المفرج بن مسلمة الأموي بحضوره فيه نقلًا على السخاوي بسنده الفقيه الفاضل المحدث الرحَّال بهاء الدين عبد الله بن محمد بن أبي بكر بن خليل بن إبراهيم المكي وخليل بن كيكلدي بن عبد الله العلائي بقراءته وهذا خطه في يوم الأحد رابع عشري شهر جمادى الأول سنة ثلاث عشرة وسبع مائة بجامع دمشق تحت نسره."
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو يعلى الخليل بن عبد الله الخليلي القزويني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "حديث القهقهة وعلله ويليه جزء من فوائد يوسف بن عاصم الرازي برواية الخليلي عن علي بن أحمد بن صالح عنه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 181"
+      ],
+      "classmark": [
+        "3771/14"
+      ],
+      "folio_number": [
+        "177v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 30,
+      "guid": "1def54f1-412e-44c4-9606-13f8b3e9823e",
+      "startIndex": 13,
+      "text": "عبد القادر الرهاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "4f8a7db2-460b-496c-98eb-0a2765caa166",
+      "startIndex": 44,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "501"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "d18ce7c8-9321-471b-a491-cb51394c6762",
+      "startIndex": 156,
+      "text": "المحرم سنة إحدى وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "fab5ac0d-4d98-4078-a471-9f8dab74d9a8",
+      "startIndex": 115,
+      "text": "أبو مسلم داود بن محمد بن الحسن الصوفي",
+      "type": "person"
+    }
+  ],
+  "text": "نقلتُه من خط عبد القادر الرهاوي ونقله من خط السلفي قال وفيه بخطه في أوله فوق البسملة سمعت بقراءتي إلى آخره والشيخُ أبو مسلم داود بن محمد بن الحسن الصوفي في المحرم سنة إحدى وخمسمائة"
+}

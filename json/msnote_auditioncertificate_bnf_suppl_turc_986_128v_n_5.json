@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "128v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "449ea932-c01a-406a-a394-eb88b24341ea",
+      "index": 290,
+      "isZeroPoint": false,
+      "startIndex": 101,
+      "text": "عبد الغالب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "7460b18e-4f8c-4be0-a00d-0fecc4e984b2",
+      "index": 291,
+      "isZeroPoint": false,
+      "startIndex": 114,
+      "text": " يوم الأربعاء ثاني عشر صفر سنة اثنتين وأربعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "8cd8d88a-2baf-433f-a292-43be15ada3e6",
+      "index": 289,
+      "isZeroPoint": false,
+      "startIndex": 91,
+      "text": " إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "c1e54926-f0ef-4e66-9688-d6ca87b9f104",
+      "index": 288,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "ابن شعيب عز الدين أبو الحسن علي بن نصير الدين محمد بن غالب الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة ابن شعيب عز الدين أبو الحسن علي بن نصير الدين محمد بن غالب الأنصاري وابناه إبراهيم وعبد الغالب في يوم الأربعاء ثاني عشر صفر سنة اثنتين وأربعين وستمائة"
+}

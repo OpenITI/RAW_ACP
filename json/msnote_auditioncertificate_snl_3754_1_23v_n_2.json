@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يوسف بن محمد البرزالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سلوك طريق السلف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 75"
+      ],
+      "classmark": [
+        "3754/1"
+      ],
+      "folio_number": [
+        "23v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "706"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "58d97028-7f97-4d07-94e4-125d120a9a04",
+      "index": 122,
+      "isZeroPoint": false,
+      "startIndex": 168,
+      "text": "يوم الثلثا ثامن عشرين شوال سنة ست وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 220,
+      "guid": "72ab790d-bc70-4b7a-851b-3e31007151c9",
+      "index": 123,
+      "isZeroPoint": false,
+      "startIndex": 211,
+      "text": "جامع دمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "76f7823b-f382-42b7-9be3-821cf3c80a85",
+      "index": 120,
+      "isZeroPoint": false,
+      "startIndex": 46,
+      "text": "محمد بن أبي محمد عبد الله بن أحمد بن المحب عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "9a9da5f9-14da-4720-a0c2-bbef2c431dea",
+      "index": 121,
+      "isZeroPoint": false,
+      "startIndex": 106,
+      "text": "عبد الرحمن بن محمد بن عبد الرحمن ابن البعلبكي ",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه عليه بقراءة الشيخ المحدث الفاضل المفيد محمد بن أبي محمد عبد الله بن أحمد بن المحب عبد الله المقدسي عبد الرحمن بن محمد بن عبد الرحمن ابن البعلبكي وهذا خطه وصح في يوم الثلثا ثامن عشرين شوال سنة ست وسبعمية بجامع دمشق المحروسة وأجاز لهم ما يرويه"
+}

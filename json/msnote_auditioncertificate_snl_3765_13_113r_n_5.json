@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        " ؟"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "رحلة الشافعي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "113r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "0c99ecac-9154-4132-b6da-f2a7defcf4cd",
+      "startIndex": 58,
+      "text": "ناصر الدين أبي نصر محمد بن عربشاه بن أبي بكر الهمذاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "669"
+        ]
+      },
+      "endIndex": 372,
+      "guid": "450d630f-eb49-4596-8a65-3b83f08b3be2",
+      "startIndex": 325,
+      "text": "الأحد حادي عشرين شهر رمضان سنة تسع وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "6d9e8371-c1a4-4b1c-b321-27c58743514a",
+      "startIndex": 379,
+      "text": "عبد الرحمن السبتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "74b8e8da-4c63-4d73-a1e4-17ccaa983cad",
+      "startIndex": 232,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "harat_al-balata"
+          ]
+        ]
+      },
+      "endIndex": 319,
+      "guid": "c11911ed-27b7-48cc-8435-bb325054d4a5",
+      "startIndex": 303,
+      "text": "حارة البلاط بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "dfd51e31-e193-4113-aa07-97e55ae627c0",
+      "startIndex": 173,
+      "text": "نور الدين أبو الحسن علي بن إبراهيم بن داود العطار الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "e9e92728-889c-4fc0-8328-b89cb38dbce1",
+      "startIndex": 248,
+      "text": "جمال الدين عبد الوهاب بن عمر بن عباس التجيبي ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم المحدث المفيد ناصر الدين أبي نصر محمد بن عربشاه بن أبي بكر الهمذاني بحق سماعـ[ـه] فيه نقلا تراه فسمعه صاحبه الولد العزيز المجتهد نور الدين أبو الحسن علي بن إبراهيم بن داود العطار الدمشقي ومحمد بن المسمع وجمال الدين عبد الوهاب بن عمر بن عباس التجيبي وصح وثبت بحارة البلاط بدمشق يوم الأحد حادي عشرين شهر رمضان سنة تسع وستين وستمائة كتبه عبد الرحمن السبتي"
+}

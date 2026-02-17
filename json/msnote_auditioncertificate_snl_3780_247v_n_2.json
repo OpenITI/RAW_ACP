@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "247v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "475baa65-85d3-4f40-94ae-9898f0d8be93",
+      "startIndex": 65,
+      "text": " ابن الأكفاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "953134a9-dfe2-4bcf-8843-702e63d93472",
+      "startIndex": 37,
+      "text": "أبو الحسن علي بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "466"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "a1451f4a-1ce6-4ac2-bdd1-de2aa2897b8e",
+      "startIndex": 100,
+      "text": "ذي القعدة من سنة ست وستين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 30,
+      "guid": "f0f886ed-1a11-45e4-be7d-a696289a3178",
+      "startIndex": 7,
+      "text": " أبي العباس أحمد بن قبيس",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من أبي العباس أحمد بن قبيس ولده أبو الحسن علي بن أحمد بقراءة ابن الأكفاني ومن خطه نقلت وذلك في ذي القعدة من سنة ست وستين وأربعمائة"
+}

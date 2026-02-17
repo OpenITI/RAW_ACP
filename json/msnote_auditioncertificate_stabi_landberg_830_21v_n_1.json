@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن احمد الذهبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " مجلسان من امالي حمزة بن حمزة "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 830"
+      ],
+      "folio_number": [
+        "21v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1831174081/1200/0/00000048.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007489"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "0c3d05bf-681f-4bff-be8b-a8797c18336b",
+      "startIndex": 161,
+      "text": "أبو طاهر أحمد بن محمد بن أحمد بن المبارك المراغي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "56afd68b-d677-4a4f-ba0d-c323a1baf4d8",
+      "startIndex": 211,
+      "text": "أحمد بن العلم محمد بن محمود الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "5eb00ede-a2e5-4705-82fb-106af22d8c06",
+      "startIndex": 124,
+      "text": "محب الدين عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "64390f4f-63cf-42e7-b646-70ef47074097",
+      "startIndex": 248,
+      "text": "محمد بن أحمد بن عثمان الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27- 30"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "701"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "7c6818c6-4696-43f9-a10e-7ec367988891",
+      "startIndex": 291,
+      "text": " سلخ ذي القعدة سنة إحدى وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "b29e7159-a27b-45ca-ad7c-8721f3eda15f",
+      "startIndex": 48,
+      "text": "أبي علي الحسن بن علي بن أبي بكر بن يونس بن الخلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "f9a5e519-e603-4b4e-8b0e-ea05b9b79c9a",
+      "startIndex": 107,
+      "text": " كريمة",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذين المجلسين على الشيخ المسند العدل المكثر أبي علي الحسن بن علي بن أبي بكر بن يونس بن الخلال بسماعه من كريمة المُحدثة. محب الدين عبد الله بن أحمد بن المحب وأبو طاهر أحمد بن محمد بن أحمد بن المبارك المراغي وأحمد بن العلم محمد بن محمود الحراني ومحمد بن أحمد بن عثمان الذهبي بقراءته وصح في سلخ ذي القعدة سنة إحدى وسبعمائة ولله الحمد."
+}

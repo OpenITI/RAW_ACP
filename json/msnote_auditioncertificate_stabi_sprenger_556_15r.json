@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " الجزء الثاني من كتاب شرف اصحاب الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 556"
+      ],
+      "folio_number": [
+        "15r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1777973198/1200/0/00000033.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011432"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "0556f369-5edd-4b79-82d2-340e18108f80",
+      "startIndex": 203,
+      "text": "سيف الدين أبو بكر إبراهيم بن محلى الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 597,
+      "guid": "09e45f00-89aa-45d4-9495-137a8bdc44de",
+      "startIndex": 584,
+      "text": "منزله بالقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "2dac60fc-8a93-404a-997f-d89b7b939187",
+      "startIndex": 351,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "34edd833-695e-4028-9d69-aa96e7aa5d82",
+      "startIndex": 80,
+      "text": "نجيب الدين أبي الفرج عبد اللطيف بن أبي محمد عبد المنعم الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 581,
+      "guid": "4a99f896-43b2-4b8d-a862-47c8d659a457",
+      "startIndex": 521,
+      "text": "يوم الاثنين السابع عشر من جمادى الآخرة سنة ثمان وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 753,
+      "guid": "89d528ed-289e-4ba4-a3db-67ffe483b22e",
+      "startIndex": 692,
+      "text": "الحسن بن علي بن عيسى بن الحسن بن علي اللخمي عُرف بابن الصيرفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "930ceb7b-6dc1-4826-96c4-72d7dd89be81",
+      "startIndex": 253,
+      "text": "محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "98e9165d-b37f-416d-bbb6-40bcdf64f307",
+      "startIndex": 247,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 400,
+      "guid": "ae75cda7-9b67-4b17-ab86-a3d746b33c22",
+      "startIndex": 364,
+      "text": "مسعود بن أحمد بن مسعود بن زيد الحارثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 436,
+      "guid": "b0d05a82-e391-47c1-8d68-b17b05f6b2ab",
+      "startIndex": 404,
+      "text": "محمد بن عبد الله بن محمود الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "d3a027c7-2f87-4d1a-85fc-863103b8402a",
+      "startIndex": 357,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 341,
+      "guid": "dd32999b-e2dc-4e92-a92a-2e896be96156",
+      "startIndex": 298,
+      "text": "علاء الدين كشتغدي بن عبد الله الخطائي المعزي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء والذي قبله على شيخنا السديد [...] الصدر الرئيس مسند [الوقت]\nنجيب الدين أبي الفرج عبد اللطيف بن أبي محمد عبد المنعم الحراني بسماعه فيه فسـ[ـمع] هذا الجزء فقط وهو الثاني الجماعة: الأجل سيف الدين أبو بكر إبراهيم بن محلى الدمشقي، ومحمد ومحمود ابنا حسام الدين محمد بن سنقر العادلي، وعلاء الدين كشتغدي بن عبد الله الخطائي المعزي، وولداه محمد وأحمد، ومسعود بن أحمد بن مسعود بن زيد الحارثي، ومحمد بن عبد الله بن محمود الحراني، وأجاز المسمع لي وللمذكورين جميع ما يجوز له روايته [بسؤالي؟] إياه وذلك في |مجلسين| يوم الاثنين السابع عشر من جمادى الآخرة سنة ثمان وستين وستمائة بمنزله بالقاهرة المحروسة. فيه مخرج بين الأسطر مجلسين آخرهما وهو صحيح قال ذلك وكتبه عبد الله الفقير إلى رحمته الحسن بن علي بن عيسى بن الحسن بن علي اللخمي عُرف بابن الصيرفي حامداً مصلياً مسلماً وصح وثبت."
+}

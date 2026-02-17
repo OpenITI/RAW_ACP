@@ -1,0 +1,424 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المسلسل الأول"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 20"
+      ],
+      "classmark": [
+        "3739/12"
+      ],
+      "folio_number": [
+        "105v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 667,
+      "guid": "102096ab-17c5-4836-8fb5-21f5c6589c20",
+      "startIndex": 644,
+      "text": "أيبغا بن عبد الله التركي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "1fc8cba1-fc15-4438-9ccc-5e8b6033a89e",
+      "startIndex": 146,
+      "text": "ابن السمرقندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1086,
+      "guid": "3bef37a7-8ab6-484d-b80e-8e3c4706d5ce",
+      "startIndex": 1055,
+      "text": "يوسف بن خليل بن عبد الله الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "603"
+        ]
+      },
+      "endIndex": 1167,
+      "guid": "3ec5bf46-05de-4d3d-ac9e-bce04cb91064",
+      "startIndex": 1113,
+      "text": "ليلة الأربعاء سادس [عشر؟] ربيع الآخر من سنة ثلث وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1052,
+      "guid": "44b4ba11-4329-4685-a8ec-03fffa0a9550",
+      "startIndex": 1033,
+      "text": "محمد بن الحسن بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 427,
+      "guid": "4a374e83-b255-42b8-8774-74fe511c9f38",
+      "startIndex": 381,
+      "text": "أبو طالب عبد الله بن عبد الرحمن بن سلطان القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 725,
+      "guid": "5dc1e806-3aa6-4e7f-9e62-ab33f2b458cf",
+      "startIndex": 670,
+      "text": "شرف الدين أبو محمد عبد الكريم بن إبراهيم بن رافع الغساني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 765,
+      "guid": "6beba533-2873-44e6-a34e-6dd1b7285459",
+      "startIndex": 728,
+      "text": "عبد الرحمن بن بحر بن أبي الفضل اليحصبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani / Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "96ec8c98-1bb2-4645-b011-54e990d81c22"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 636,
+      "guid": "6c04c81b-c68a-45b5-ba2c-3d89f85b5c35",
+      "startIndex": 578,
+      "text": "أمين الدين أبو عبد الله الخضر بن عبد الرحمن بن الخضر السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 827,
+      "guid": "80530411-6640-4fee-b226-c1202c387763",
+      "startIndex": 812,
+      "text": "سنجر بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1022,
+      "guid": "94aa051f-1b01-412a-9257-bb650a43ead1",
+      "startIndex": 973,
+      "text": "عماد الدين أبو القاسم علي بن القاسم بن علي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 521,
+      "guid": "ad2301ac-bc7c-4dc0-ae61-a416bbd2e90b",
+      "startIndex": 453,
+      "text": "شهاب الدين أبو محمد عبد العزيز ابن عبد الملك بن تميم الشيباني المقرئ ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "b16dfa76-75fc-4d45-b5b6-1f8a599b59dc",
+      "startIndex": 167,
+      "text": "الملك المحسن العالم العابد الزاهد الورع ظهير الدنيا والدين سيد الملوك والسلاطين أبو العباس أحمد بن الملك الناصر صلاح الدنيا والدين أبو المظفر يوسف بن أيوب بن شاذي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 809,
+      "guid": "b527302b-4e32-4305-b377-c00d171b5661",
+      "startIndex": 768,
+      "text": "سليمان بن عبد الكريم بن عبد الرحمن السيوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 938,
+      "guid": "b7fbd77e-d329-4675-ae8d-0ee52e06d5d1",
+      "startIndex": 886,
+      "text": "أبو عبد الله بن عبد الرحمن بن محمد ابن عماد العسقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "b9e27853-35ca-4c3d-8412-671370347a08",
+      "startIndex": 95,
+      "text": "أبي حفص عمر بن محمد بن معمر بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 575,
+      "guid": "cd178e96-8535-4ca4-992a-0246fc6277b0",
+      "startIndex": 523,
+      "text": "شهاب الدين أبو إسحق إبراهيم بن محمد بن أبي بكر القفصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 971,
+      "guid": "d762160c-8e48-45a2-a229-fdb4ed724291",
+      "startIndex": 941,
+      "text": "بدر بن عبد الله الحبشي المحسني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 451,
+      "guid": "d9eb65b0-d8ce-453e-af80-1d9455ee8f57",
+      "startIndex": 435,
+      "text": "أبو المفاخر أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 883,
+      "guid": "f3a62d51-69a7-4707-bba6-c6be407e13a0",
+      "startIndex": 859,
+      "text": "محمد بن أبي الزهر المحسني",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء من أوله إلى آخره وهو الحديث الأول المسلسل مع ما أضيف إليه على الشيخ الجليل أبي حفص عمر بن محمد بن معمر بن طبرزد بسماعه فيه من ابن السمرقندي المولا الملك المحسن العالم العابد الزاهد الورع ظهير الدنيا والدين سيد الملوك والسلاطين أبو العباس أحمد بن الملك الناصر صلاح الدنيا والدين أبو المظفر يوسف بن أيوب بن شاذي والقاضي الإمام العالم الأوحد شرف الدين أقضى القضاة أبو طالب عبد الله بن عبد الرحمن بن سلطان القرشي وولده أبو المفاخر أحمد وشهاب الدين أبو محمد عبد العزيز ابن عبد الملك بن تميم الشيباني المقرئ وشهاب الدين أبو إسحق إبراهيم بن محمد بن أبي بكر القفصي وأمين الدين أبو عبد الله الخضر بن عبد الرحمن بن الخضر السلمي وفتاه أيبغا بن عبد الله التركي وشرف الدين أبو محمد عبد الكريم بن إبراهيم بن رافع الغساني وعبد الرحمن بن بحر بن أبي الفضل اليحصبي وسليمان بن عبد الكريم بن عبد الرحمن السيوري وسنجر بن عبد الله فتا القاضي شرف الدين المذكور ومحمد بن أبي الزهر المحسني وأبو عبد الله بن عبد الرحمن بن محمد ابن عماد العسقلاني وبدر بن عبد الله الحبشي المحسني وعماد الدين أبو القاسم علي بن القاسم بن علي الشافعي وابن عمه محمد بن الحسن بن علي ويوسف بن خليل بن عبد الله الدمشقي بقراءته وهذا خطه وذلك في ليلة الأربعاء سادس [عشر؟] ربيع الآخر من سنة ثلث وستماية وصح وثبت والحمد لله وحده"
+}

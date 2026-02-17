@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عثمان بن أحمد بن محمد بن هارون السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة الحسان العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/5"
+      ],
+      "folio_number": [
+        "75r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "09986fb9-0dd2-48c6-8851-2b70066896e1",
+      "index": 108,
+      "isZeroPoint": false,
+      "startIndex": 120,
+      "text": "إسماعيل بن حاجي التركماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 48,
+      "guid": "391c5008-8a4b-4b06-b77f-4346d9928f9d",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": "فرج بن علي بن صالح الجيتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "4d04fe47-671a-494b-81e7-327179e841b9",
+      "index": 107,
+      "isZeroPoint": false,
+      "startIndex": 114,
+      "text": "خليل ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "593173f3-167d-4eac-8666-e7e871c12456",
+      "index": 111,
+      "isZeroPoint": false,
+      "startIndex": 248,
+      "text": "محمد ابن سند ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "748"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "5ce6161c-446c-4ee0-8c17-c9f8a2bf5195",
+      "index": 109,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "يوم الجمعة خامس شهر شعبان من سنة ثمان وأربعين و[سبعمية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 235,
+      "guid": "9feeb1c7-8ce1-43f5-a48d-0bbcb80a4610",
+      "index": 110,
+      "isZeroPoint": false,
+      "startIndex": 222,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "f0590985-af33-494f-9e06-22b59747d2f9",
+      "index": 106,
+      "isZeroPoint": false,
+      "startIndex": 60,
+      "text": "الفخر ابن البخاري",
+      "type": "person"
+    }
+  ],
+  "text": " قرأته على الشيخ الصالح فرج بن علي بن صالح الجيتي بسماعه من الفخر ابن البخاري عن شيوخه وعارضت نسختي بهذه فسمع أخي خليل وإسماعيل بن حاجي التركماني وآخرون بفوت وصح في يوم الجمعة خامس شهر شعبان من سنة ثمان وأربعين و[سبعمية] بالجامع المظفري وأجاز كتبه محمد ابن سند "
+}

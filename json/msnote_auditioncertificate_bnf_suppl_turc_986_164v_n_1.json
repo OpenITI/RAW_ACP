@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمرو محمد بن أحمد بن حمدان الحيري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سؤالات أبي عمرو محمد بن أحمد بن حمدان الحيري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "164v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f172.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f172.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "1e4052dc-641e-41c7-ab13-917a254ddcd5",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 125,
+      "text": "محمد بن أحمد بن الهيجاء بن أبي المعالي الزراد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "31287c0a-ed57-4b93-8f01-fe0e114c9acf",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 103,
+      "text": "محاسن بن محمد الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "72159743-46d7-4514-bc80-5076a62d9f42",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": "زاهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "b2824dba-8dfe-468c-acb8-e656cfe42c31",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 15,
+      "text": "صدر الدين أبي علي الحسن بن محمد بن محمد البكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "652"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "c982c0d9-c348-42e5-8fcd-5a21ef595dcb",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "في ثامن رجب سنة اثنتين وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "d58c37f1-4b8a-41ec-8303-6bfce8014248",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 72,
+      "text": "أبي روح",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على الشيخ صدر الدين أبي علي الحسن بن محمد بن محمد البكري بسماعه من أبي روح أنبأ زاهر بسنده بقراءة محاسن بن محمد الحراني محمد بن أحمد بن الهيجاء بن أبي المعالي الزراد في ثامن رجب سنة اثنتين وخمسين وستمائة"
+}

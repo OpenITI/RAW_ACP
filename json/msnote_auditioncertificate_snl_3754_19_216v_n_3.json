@@ -1,0 +1,356 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسن بن هبة الله الشافعي ابن عساكر"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعون الأبدال العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 80"
+      ],
+      "classmark": [
+        "3754/19"
+      ],
+      "folio_number": [
+        "216v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "621"
+        ]
+      },
+      "endIndex": 1008,
+      "guid": "2c3b0582-ac1c-4471-aaba-6baad45c4d91",
+      "startIndex": 947,
+      "text": "يوم الثلثا ثالث عشري من شهر ربيع الآخر سنة إحدى وعشرين وست مية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "32c7c8a9-f3cf-4452-a457-1e137c4b87e0",
+      "startIndex": 392,
+      "text": "أيبك التركي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 630,
+      "guid": "3bdcd1d0-bdf9-45d5-932e-154e08277714",
+      "startIndex": 559,
+      "text": "عبد الله بن شيخنا زين الأمناء أبي البركات الحسن بن محمد بن الحسن الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "3ee27c58-1e74-4e5d-a3be-62ba3eb79ed7",
+      "startIndex": 85,
+      "text": " أبي القاسم الحسين بن هبة الله بن محفوظ بن صصرى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 823,
+      "guid": "3f7580dd-a2cb-4c22-890e-1484664633c9",
+      "startIndex": 779,
+      "text": "أبو الثناء محمود بن غازي بن عبد الرحمن التاجر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1019,
+      "guid": "575a972f-1c0d-43e2-bda1-fde316965d84",
+      "startIndex": 1011,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 486,
+      "guid": "630a658f-2a61-494f-8410-afe5b46f6585",
+      "startIndex": 440,
+      "text": "عز الدين أبو الفتح عمر بن محمد بن منصور الأميني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "79312215-8def-4bf6-8140-82667574c7af",
+      "startIndex": 280,
+      "text": " أبو العباس أحمد بن القاضي الفاضل أبي علي عبد الرحيم بن علي بن الحسين بن البيساني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 770,
+      "guid": "7ed7bd34-b748-4fec-8a03-549083f3ee7d",
+      "startIndex": 720,
+      "text": "إبراهيم بن محمود بن شيخنا تاج الأمناء أحمد بن محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 556,
+      "guid": "97749ec3-4f92-486c-bd0d-03c7d0205a17",
+      "startIndex": 500,
+      "text": "عز الدين أبو محمد عبد العزيز بن عثمان بن أبي طاهر الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 708,
+      "guid": "9e5eaa2c-87c0-4678-9368-94e0444aff3f",
+      "startIndex": 646,
+      "text": "الحسين بن أبي القاسم علي بن شيخنا الحافظ أبي محمد القاسم بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 937,
+      "guid": "be6cb7cc-5ac3-4069-af36-2b8897910212",
+      "startIndex": 918,
+      "text": "محمد بن لؤلؤ المغيثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 390,
+      "guid": "cc154f45-f60d-44ba-82ac-a3077dcdc70e",
+      "startIndex": 386,
+      "text": "سنقر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "ce73de7a-0e1a-426a-9efb-5ad2f9a2c1a4",
+      "startIndex": 176,
+      "text": "أبي القاسم علي بن الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 874,
+      "guid": "d0c7e5e5-4a71-47c9-a36b-3cfde779a827",
+      "startIndex": 826,
+      "text": "أبو النور بن أبي الفهم بن أبي محمد التاجر الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 1061,
+      "guid": "e2d11741-d291-4d66-8926-ad90beb56726",
+      "startIndex": 1026,
+      "text": "خالد بن يوسف بن سعد النابلسي الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزؤ وهو الأربعون الأبدال العوالي على الشيخ العالم الأمين العدل الرضا أبي القاسم الحسين بن هبة الله بن محفوظ بن صصرى أثابه الله عرضا بأصل سماعه من مخرجه الحافظ أبي القاسم علي بن الحسن رحمه الله فسمعه المشايخ السادة القاضي الأشرف بهاء الدين رئيس الرؤساء مجد العلماء أبو العباس أحمد بن القاضي الفاضل أبي علي عبد الرحيم بن علي بن الحسين بن البيساني أدام الله توفيقه وفتياه سنقر وأيبك التركيان وصاحبه الحاجب الأجل العالم المفيد عز الدين أبو الفتح عمر بن محمد بن منصور الأميني أبقاه الله وعز الدين أبو محمد عبد العزيز بن عثمان بن أبي طاهر الإربلي وعبد الله بن شيخنا زين الأمناء أبي البركات الحسن بن محمد بن الحسن الشافعي وابن ابن عمته الحسين بن أبي القاسم علي بن شيخنا الحافظ أبي محمد القاسم بن علي وابن خاله إبراهيم بن محمود بن شيخنا تاج الأمناء أحمد بن محمود والشيخ أبو الثناء محمود بن غازي بن عبد الرحمن التاجر وأبو النور بن أبي الفهم بن أبي محمد التاجر الدمشقيون وسمع من موضع اسمه وهو في الورقة العاشرة محمد بن لؤلؤ المغيثي وذلك في يوم الثلثا ثالث عشري من شهر ربيع الآخر سنة إحدى وعشرين وست مية بجامع دمشق وكتب خالد بن يوسف بن سعد النابلسي الشافعي عفا الله عنه "
+}

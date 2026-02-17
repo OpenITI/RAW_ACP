@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد المنعم بن عبد الوهاب بن سعد بن كليب الحراني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث عن النبي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 48"
+      ],
+      "classmark": [
+        "3747/3"
+      ],
+      "folio_number": [
+        "34v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "0bed39fe-6397-4f06-a171-a4dae8f8f464",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 149,
+      "text": "فاطمة بنت الجمال أحمد بن محمد بن طوق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 348,
+      "guid": "0bef9056-d036-4aa9-a114-37ac2d5518ad",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 298,
+      "text": "محمد بن علي بن الحسن بن حمزة بن أبي المحاسن الحسيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "3159123c-9793-4e30-8c30-0bdccdacfb6a",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 97,
+      "text": "ابن كليب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "khanaqah_tawawisiya"
+          ]
+        ]
+      },
+      "endIndex": 260,
+      "guid": "8e1b127e-ac2d-4630-a5c4-91c9cd42cb09",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 246,
+      "text": "منزلي بالطواويس",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "744"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "b8b615a9-ef03-468e-a56f-de1965e861dd",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 194,
+      "text": "يوم الثلثا ثالث عشر الحجة سنة أربع وأربعين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "db1ee0a3-808e-4687-af20-cf3bc08ab29c",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 78,
+      "text": "ابن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "ead0a7c4-9757-4826-94a2-99c58eb397ed",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 116,
+      "text": "أبو الطاهر أحمد",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا المجلس سوى الكلام على الأحاديث على المسمعة المسماة أعلاه بسماعها من ابن عبد الدائم أنا ابن كليب وحضر ولدي أبو الطاهر أحمد في الأولى مع أمه فاطمة بنت الجمال أحمد بن محمد بن طوق وصح ذلك يوم الثلثا ثالث عشر الحجة سنة أربع وأربعين وسبعمية بمنزلي بالطواويس وأجازت لنا رواية ما لها روايته وكتب محمد بن علي بن الحسن بن حمزة بن أبي المحاسن الحسيني"
+}

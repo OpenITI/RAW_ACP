@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن هارون الضبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الضبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/11"
+      ],
+      "folio_number": [
+        "134r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "4a76de5c-dd52-4d7d-8ce2-b68311539087",
+      "startIndex": 220,
+      "text": "يوسف بن حسن بن عبد الهادي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "7ab1df45-32d9-4840-b79d-a09fe6c04e71",
+      "startIndex": 94,
+      "text": "المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "83f63ab3-3b31-436f-ae5a-b8d9ae4803a7",
+      "startIndex": 34,
+      "text": "فاطمة بنت الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "869"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "c42d0e05-a16c-4064-8a7a-e4d220740891",
+      "startIndex": 138,
+      "text": " يوم الأربعاء ثامن عشرين شهر ذي الحجة الحرام سنة تسع وستين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "c7a6bc73-1c18-48ac-8fa8-cc91c9994310",
+      "startIndex": 103,
+      "text": "ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "f87905fd-cb7a-4201-bb98-c248bbb63c2d",
+      "startIndex": 116,
+      "text": "ابن شيبان",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء على الشيخة الأصيلة فاطمة بنت الحرستاني بإجازتها من المشايخ الثلاثة بإجازتهم من المزي عن ابن البخاري وابن شيبان وصح ذلك وثبت يوم الأربعاء ثامن عشرين شهر ذي الحجة الحرام سنة تسع وستين وثمان ماية وأجازت وكتب يوسف بن حسن بن عبد الهادي "
+}

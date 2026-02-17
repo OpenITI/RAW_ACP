@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 8"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "128v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "8fa2f4fc-128e-465c-aa10-478370b5d31b"
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "69b50dc5-75eb-4097-8166-620aed66ec80",
+      "startIndex": 26,
+      "text": "محمد بن إبراهيم الميدومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "8145a211-a517-45e9-b662-be8eeafdc526",
+      "startIndex": 51,
+      "text": "تاج الدين أحمد بن محمد بن علي بن شجاع الهاشمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "647"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "817b66a6-a779-4ced-8ffd-2643cefd3789",
+      "startIndex": 98,
+      "text": "خمس خلون من صفر سنة سبع وأربعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 17,
+      "guid": "95bae0c7-977d-466d-94a2-b35d74759b54",
+      "startIndex": 10,
+      "text": "ابن رواج",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على ابن رواج بقراءة محمد بن إبراهيم الميدومي تاج الدين أحمد بن محمد بن علي بن شجاع الهاشمي لخمس خلون من صفر سنة سبع وأربعين وستمئة."
+}

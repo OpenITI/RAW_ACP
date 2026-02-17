@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن محمد بن جعوان"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المستجاد من تاريخ بغداد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 9"
+      ],
+      "folio_number": [
+        "56r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        "28e06c37-2948-4e26-88a2-e499dd4486da"
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000015"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "5cbc4fdc-8fa1-408e-8938-1c70a0586e96",
+      "startIndex": 303,
+      "text": "الحافظ المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 374,
+      "guid": "69e2d879-dad1-4212-9242-1bc8f7e2bb40",
+      "startIndex": 340,
+      "text": "أبي إسحق بن محمد بن أبي بكر البياني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 455,
+      "guid": "76800743-e670-48fb-8565-7093f9a36565",
+      "startIndex": 451,
+      "text": "الجبل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "85d4f2ef-75bd-4e6e-9229-4e8e81abda6d",
+      "startIndex": 278,
+      "text": "ابن المجاور ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 537,
+      "guid": "ba718f87-bb24-43a2-85ce-2361dab9ef0f",
+      "startIndex": 515,
+      "text": "أحمد بن محمد بن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "689"
+        ]
+      },
+      "endIndex": 449,
+      "guid": "c420d1a2-412e-4a98-9947-53b7135b4f87",
+      "startIndex": 404,
+      "text": " يوم الخميس ثاني شعبان سنة تسع وثمانين وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "f948fa2b-a8b9-46b8-968a-b2d737f87011",
+      "startIndex": 243,
+      "text": " شمس الدين البياني",
+      "type": "person"
+    }
+  ],
+  "text": " وجدت على أصله أنَّ هذا الانتقاء للإمام المحدث أبي عبد الله محمد بن محمد بن جعوان وقد انتقى من التاريخ لبغداد من أول الجزء الثالث عشر إلى الجزء الخامس والثلاثين من تجزئة الخطيب رحمه الله تعالى وهي ستة وستين أجزاء وعليه ما هذا تنميقه سمعه شيخنا شمس الدين البياني [...] الجزء على ابن المجاور بقراءة شيخنا الحافظ المزي رحمة الله عليه مع والده أبي إسحق بن محمد بن أبي بكر البياني وهو حاضر في الثالثة في آخرين يوم الخميس ثاني شعبان سنة تسع وثمانين وستمية بالجبل وأجاز لهم المسمع وقد نقل من الثبت وكذا وجدته أثبته ابن خ [أحمد بن محمد بن البخاري] حامداً الله ومصليا"
+}

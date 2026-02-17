@@ -1,0 +1,592 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ضياء الدين محمد بن عبد الواحد بن أحمد المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الثالث من الفوائد الحافظ ضياء الدين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "50r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f53.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f53.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 648,
+      "guid": "12e12f45-b247-4135-9811-cb29b0b56b20",
+      "index": 265,
+      "isZeroPoint": false,
+      "startIndex": 644,
+      "text": "عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 888,
+      "guid": "2834207e-c5f1-4383-bd27-001a9e53c9b1",
+      "index": 273,
+      "isZeroPoint": false,
+      "startIndex": 859,
+      "text": "علي بن عسكر بن [...] الباقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1130,
+      "guid": "32d7a61e-96cd-44cf-beab-64fa3b413ee9",
+      "index": 281,
+      "isZeroPoint": false,
+      "startIndex": 1104,
+      "text": "سالم بن ثمال بن عنان العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 641,
+      "guid": "35a2c778-1dc2-4ab1-ba01-eb2d99605614",
+      "index": 264,
+      "isZeroPoint": false,
+      "startIndex": 598,
+      "text": "أبو الحسن بن أبي القاسم بن عز الدين البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "626"
+        ]
+      },
+      "endIndex": 1204,
+      "guid": "47b8284b-1b0e-427a-a3b3-7a7cd8c387a1",
+      "index": 282,
+      "isZeroPoint": false,
+      "startIndex": 1148,
+      "text": " يوم الجمعة سادس عشرين شهر شعبان من سنة ستة عشرين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 388,
+      "guid": "4ccfb83f-b470-471c-91e9-010b1adff2dd",
+      "index": 256,
+      "isZeroPoint": false,
+      "startIndex": 349,
+      "text": "محمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "4f9a5a1c-21da-4378-aeab-48764c52eb2e",
+      "index": 250,
+      "isZeroPoint": false,
+      "startIndex": 215,
+      "text": "عيسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "51760b97-9c5e-4d88-9bbd-e0507e42130b",
+      "index": 252,
+      "isZeroPoint": false,
+      "startIndex": 227,
+      "text": "عبد القادر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "54f9d757-4b6f-41c2-a756-399b91cab3a5",
+      "index": 247,
+      "isZeroPoint": false,
+      "startIndex": 77,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 498,
+      "guid": "6919f0c1-7dd3-462b-9402-a5c4e9241a93",
+      "index": 259,
+      "isZeroPoint": false,
+      "startIndex": 465,
+      "text": "أحمد بن أبي بكر بن إبراهيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 918,
+      "guid": "69f21f95-e38b-4d9a-b4b6-177b758f94c6",
+      "index": 274,
+      "isZeroPoint": false,
+      "startIndex": 891,
+      "text": "محمد بن نعمة بن نجم المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "70add604-953f-4a90-928f-1733766dcffa",
+      "index": 251,
+      "isZeroPoint": false,
+      "startIndex": 221,
+      "text": "يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "73515a81-3b01-466c-81ae-9e9ad98abc6a",
+      "index": 253,
+      "isZeroPoint": false,
+      "startIndex": 239,
+      "text": "عوض بن أحمد بن عوض المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 989,
+      "guid": "7dbdb60c-2b04-455b-8358-2d81f3ff81c7",
+      "index": 277,
+      "isZeroPoint": false,
+      "startIndex": 986,
+      "text": "ناصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 750,
+      "guid": "83298572-fb50-454c-8b57-2d2ef4229047",
+      "index": 269,
+      "isZeroPoint": false,
+      "startIndex": 743,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 462,
+      "guid": "8e8faadf-08c3-42ca-a88e-f48c7ffaaa27",
+      "index": 258,
+      "isZeroPoint": false,
+      "startIndex": 425,
+      "text": "عبد الله بن عبد الهادي بن يوسف المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "91d6af5e-51bf-4cc6-96c2-fc8b0f031c0d",
+      "index": 249,
+      "isZeroPoint": false,
+      "startIndex": 203,
+      "text": "عبد الساتر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "a1e159f5-0917-4d86-8391-bbdecdff4984",
+      "index": 254,
+      "isZeroPoint": false,
+      "startIndex": 267,
+      "text": "عبد الرحيم  بن عمر بن عوض المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 955,
+      "guid": "a32df50a-4b28-4588-ae9d-24bd9f15692f",
+      "index": 275,
+      "isZeroPoint": false,
+      "startIndex": 921,
+      "text": "عبد الرحمن بن علوان بن رافع السليمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 787,
+      "guid": "a53486e9-3e77-4150-8f8f-92b1dcfaf314",
+      "index": 270,
+      "isZeroPoint": false,
+      "startIndex": 753,
+      "text": "إسماعيل بن عمران بن مسعود البرقعيدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 595,
+      "guid": "a5e2e8fa-833c-426f-a6ae-cf4fa2c7d65b",
+      "index": 263,
+      "isZeroPoint": false,
+      "startIndex": 547,
+      "text": "أبو عبد الله محمد بن عمر بن محمد بن جعفر الهمذاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 983,
+      "guid": "a5fb490c-61c3-4a89-bb05-6dc4c3563f16",
+      "index": 276,
+      "isZeroPoint": false,
+      "startIndex": 958,
+      "text": "محمد بن علي بن رافع السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1057,
+      "guid": "a9fe63c2-e25a-4ccd-8e32-7ab9fea186aa",
+      "index": 279,
+      "isZeroPoint": false,
+      "startIndex": 1023,
+      "text": "عبد الرحمن بن خزعل بن مزروع السليمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "b529653c-c0de-4d8c-bc0d-43b49f5a32ab",
+      "index": 255,
+      "isZeroPoint": false,
+      "startIndex": 309,
+      "text": "نجم الدين أحمد بن محمد بن راجح المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 817,
+      "guid": "b5dbeb71-792c-4864-bae7-889d54a97135",
+      "index": 271,
+      "isZeroPoint": false,
+      "startIndex": 790,
+      "text": "أبو بكر بن كامل بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 537,
+      "guid": "b6184e58-56c0-4515-b7ac-75e1b4716e9f",
+      "index": 262,
+      "isZeroPoint": false,
+      "startIndex": 534,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "b640925c-d257-46ce-8fb5-087fa15085c2",
+      "index": 248,
+      "isZeroPoint": false,
+      "startIndex": 164,
+      "text": "عبد الحميد بن محمد بن أبي بكر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 856,
+      "guid": "bd8efd10-c6b3-4b8c-9b03-ffaaf36b4012",
+      "index": 272,
+      "isZeroPoint": false,
+      "startIndex": 820,
+      "text": "عبد الله بن إبراهيم بن سلمان البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 519,
+      "guid": "c882b62b-3e1e-4d97-8097-0baaf325a9b3",
+      "index": 260,
+      "isZeroPoint": false,
+      "startIndex": 501,
+      "text": "حازم بن حامد بن حسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1234,
+      "guid": "c9f4b14e-7fda-4ffe-93df-47a5faaf70b6",
+      "index": 283,
+      "isZeroPoint": false,
+      "startIndex": 1207,
+      "text": "جامع مظفر الدين بن صاحب إربل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 688,
+      "guid": "d10d14c6-c78c-4649-8099-8f20c3035715",
+      "index": 267,
+      "isZeroPoint": false,
+      "startIndex": 685,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 995,
+      "guid": "d2c0db7f-ba84-44ec-af21-ee9c739dc31b",
+      "index": 278,
+      "isZeroPoint": false,
+      "startIndex": 992,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 422,
+      "guid": "d32bcaf7-fcd1-42b1-8749-b3ca74a86964",
+      "index": 257,
+      "isZeroPoint": false,
+      "startIndex": 391,
+      "text": "محمد بن عمرو بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 700,
+      "guid": "d968e63c-d580-4a83-b415-80902a1e8237",
+      "index": 268,
+      "isZeroPoint": false,
+      "startIndex": 691,
+      "text": "عبد السلام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 654,
+      "guid": "e1e1220e-e42c-4857-99e4-813efa13b85a",
+      "index": 266,
+      "isZeroPoint": false,
+      "startIndex": 651,
+      "text": "داود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1097,
+      "guid": "f43c355f-f591-40ef-91a9-f3c7fee2b580",
+      "index": 280,
+      "isZeroPoint": false,
+      "startIndex": 1060,
+      "text": "الجمال محمد بن عبد الحق بن خلف الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 531,
+      "guid": "f7ccbf2a-7520-4e0f-aa09-2f10c5e96722",
+      "index": 261,
+      "isZeroPoint": false,
+      "startIndex": 527,
+      "text": " أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع الجزء من لفظ مخرجه الفقيه الإمام العالم العامل الموفق السعيد الحافظ ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي وفقه الله تعالى آمين الفقيه عبد الحميد بن محمد بن أبي بكر المقدسي وعبد الساتر وعيسى ويحيى وعبد القادر وعوض بن أحمد بن عوض المقدسي وعبد الرحيم  بن عمر بن عوض المقدسي والقاضي نجم الدين أحمد بن محمد بن راجح المقدسي ومحمد بن عبد الرحيم بن عبد الواحد المقدسي ومحمد بن عمرو بن عبد الله المقدسي وعبد الله بن عبد الهادي بن يوسف المقدسي وأحمد بن أبي بكر بن إبراهيم المقدسي وحازم بن حامد بن حسن وابناه أحمد ومحمد والفقيه أبو عبد الله محمد بن عمر بن محمد بن جعفر الهمذاني وأبو الحسن بن أبي القاسم بن عز الدين البغدادي وعثمان وداود ابنا عبد الله بن مرا الجيتي وأحمد وعبد السلام ابنا عبد الرحمن ابن بلال وابن عبد السلام عبد الله وإسماعيل بن عمران بن مسعود البرقعيدي وأبو بكر بن كامل بن عبد الغني وعبد الله بن إبراهيم بن سلمان البغدادي وعلي بن عسكر بن [...] الباقلاني ومحمد بن نعمة بن نجم المرداوي وعبد الرحمن بن علوان بن رافع السليمي ومحمد بن علي بن رافع السلمي وناصر ومحمد ابنا يوسف بن ناصر البقعي وعبد الرحمن بن خزعل بن مزروع السليمي والجمال محمد بن عبد الحق بن خلف الحنبلي وكتب سالم بن ثمال بن عنان العرضي عفا الله عنه وصح يوم الجمعة سادس عشرين شهر شعبان من سنة ستة عشرين وستمائة بجامع مظفر الدين بن صاحب إربل والحمد لله وحده وحسبنا الله ونعم الوكيل وبه نستعين"
+}

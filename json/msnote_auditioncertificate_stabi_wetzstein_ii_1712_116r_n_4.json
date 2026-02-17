@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ثلاثة وثلاثون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1712"
+      ],
+      "folio_number": [
+        "116r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.refaiya.uni-leipzig.de/receive/DE1Book_manuscript_00066928"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "03651cc6-93a4-476e-8390-44d66c587cdf",
+      "startIndex": 86,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "525"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "11e166c5-959b-4f88-9628-5e1879b99ea7",
+      "startIndex": 126,
+      "text": "ربيع الأول سنة خمس وعشرين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "9794d69b-4403-4b3a-b900-f13924d6de77",
+      "startIndex": 41,
+      "text": "أبي البقاء المبارك بن أبي بكر بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "be4c8b9e-49e6-4552-8334-505355fc5bd6",
+      "startIndex": 92,
+      "text": "أبو محمد بن أبي بكر بن الطويلة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 32,
+      "guid": "eabb6063-9afe-42be-ad36-7afa677e8680",
+      "startIndex": 17,
+      "text": "أبي بكر الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على القاضي أبي بكر الأنصاري بقراءة أبي البقاء المبارك بن أبي بكر بن طبرزد، أخوه عمر، وأبو محمد بن أبي بكر بن الطويلة في ربيع الأول سنة خمس وعشرين وخمسمائة."
+}

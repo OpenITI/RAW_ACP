@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن هارون الضبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الضبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/11"
+      ],
+      "folio_number": [
+        "138r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "126ef12e-9480-4fd4-a9a1-96928061473c",
+      "startIndex": 144,
+      "text": "العشاري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "3e9b9fd7-da74-491f-bb70-e7114a9b4b9b",
+      "startIndex": 35,
+      "text": "عز الدين محمد بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "76545cd4-8635-4265-9e87-b45d13ec9e86",
+      "startIndex": 159,
+      "text": "أبي البقاء محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 273,
+      "guid": "7f0e9e2e-df39-4f52-920e-f7b1a8724baf",
+      "startIndex": 247,
+      "text": "يوسف بن عبد المنعم بن نعمة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "952b7686-9300-4ea0-8efe-c776f10fc420",
+      "startIndex": 189,
+      "text": "عمر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "6"
+        ],
+        "year": [
+          "525"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "e8cb951f-5d61-46d1-995b-576ae1662682",
+      "startIndex": 205,
+      "text": "جمادى الآخر سنة خمس وعشرين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "f1ec3d3a-a67b-4686-8868-2bc19f6e038b",
+      "startIndex": 90,
+      "text": "أبي القاسم هبة الله بن أحمد بن عمر الحريري",
+      "type": "person"
+    }
+  ],
+  "text": "رأيت في آخر حديث البقرة بخط الحافظ عز الدين محمد بن عبد الغني رحمه الله سمع هذا الجزء على أبي القاسم هبة الله بن أحمد بن عمر الحريري بروايته عن العشاري بقراءة أبي البقاء محمد بن طبرزد أخوه عمر في آخرين في جمادى الآخر سنة خمس وعشرين وخمس ماية نقله يوسف بن عبد المنعم بن نعمة "
+}

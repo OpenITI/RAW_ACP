@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        " محمد بن أحمد بن أبي الفوارس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الحافظ أبي الفتح محمد بن أحمد بن أبي الفوارس"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Petermann II 30"
+      ],
+      "folio_number": [
+        "73v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN884842371/1200/0/00000152.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059003"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "12060b1e-c803-4b76-9ec5-fa28939e8050",
+      "startIndex": 90,
+      "text": "ثابت بن مشرف الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "qasr_mosque"
+          ]
+        ]
+      },
+      "endIndex": 213,
+      "guid": "377e0c8e-aed8-4acb-b76b-dacae70a9f4e",
+      "startIndex": 204,
+      "text": "جامع القصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "74d915bb-7163-4b70-91e0-75ca2a87b0b0",
+      "startIndex": 36,
+      "text": "أبي إسحق إبراهيم بن محمود بن نصر بن الشعار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "a4ee5925-79d0-4996-986d-ecf111f6f17d",
+      "startIndex": 111,
+      "text": "محمد بن محفوظ الجرباذقاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 27,
+      "guid": "b8040ef9-cb6f-4da5-9f45-6f1b1863bf9c",
+      "startIndex": 10,
+      "text": "أبي الفتوح بن سوار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27- 30"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "553"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "c0557768-6fe7-4ef0-a4ad-3d8e25a20c9e",
+      "startIndex": 167,
+      "text": "سلخ شعبان سنة ثلاث وخمسين وخمس مائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه على أبي الفتوح بن سوار بقراءة أبي إسحق إبراهيم بن محمود بن نصر بن الشعار جماعة منهم ثابت بن مشرف الخباز ومحمد بن محفوظ الجرباذقاني وبخطه السماع في الأصل وذلك في سلخ شعبان سنة ثلاث وخمسين وخمس مائة بجامع القصر."
+}

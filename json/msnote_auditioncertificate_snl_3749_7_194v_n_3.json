@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عشرة أحاديث عن عشرة مشايخ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 59 "
+      ],
+      "classmark": [
+        "3749/7"
+      ],
+      "folio_number": [
+        "194v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 104,
+      "guid": "49c6d15a-c4b8-4b61-849c-9aa204712664",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 102,
+      "text": "حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 19,
+      "guid": "6122c1fa-eee6-4fdd-ac79-9baef35221f6",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 12,
+      "text": "عز الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "6622ab0c-52a1-42e6-95d9-d75d4173af72",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 47,
+      "text": "أبي القاسم عمر بن حسن بن حبيب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "722"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "a41b9065-c8cd-46d7-8611-8dfd00a910f0",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 89,
+      "text": "رجب سنة 722",
+      "type": "date"
+    }
+  ],
+  "text": " وسمعوه على عز الدين أيضا بقراءة والدهم الإمام أبي القاسم عمر بن حسن بن حبيب وصح في تمام رجب سنة 722 بحلب [.........]"
+}

@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن محمد بن الحسن الخلال"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث قس بن ساعدة الإيادي وغيره"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/7 في الفهرس الرسالة السادسة"
+      ],
+      "folio_number": [
+        "32r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "0e90fd3e-8538-4eca-b2a8-8a541fb0a23f",
+      "index": 180,
+      "isZeroPoint": false,
+      "startIndex": 134,
+      "text": "عبد الخالق بن أحمد بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "3aaef760-a2ad-4a29-bf96-29fa070169fe",
+      "index": 181,
+      "isZeroPoint": false,
+      "startIndex": 161,
+      "text": "رابع شعبان سنة خمس وثلاثين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 44,
+      "guid": "d9b172f4-283a-437a-9fca-08e1a4a9d682",
+      "index": 179,
+      "isZeroPoint": false,
+      "startIndex": 39,
+      "text": "الأسدي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء من لفظي بروايتي عن الأسدي الشيخ الزاهد [...] بن علي بن أبي الفضل والشيخ [أبو القاسم بن أحمد بن ....؟] المقرئ وكتب عبد الخالق بن أحمد بن محمد رابع شعبان سنة خمس وثلاثين وخمسماية "
+}

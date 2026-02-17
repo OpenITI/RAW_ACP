@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمر عثمان بن محمد بن عبد الله المحمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء فيه من حديث أبي عمرو عثمان بن محمد بن عبد الله المحمي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "210r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f217.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f217.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 467,
+      "guid": "1c33d8b2-dd1e-4936-84d8-e97fa4ea3b08",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 459,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 273,
+      "guid": "47519839-cc9d-4394-bced-bf36f59b1def",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 197,
+      "text": "شرف الدين أبي عبد الله محمد بن أبي محمد الحسن ابن سالم بن علي بن سلام الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "6b8d350b-95dc-4765-8ac8-46dabb121cc0",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 50,
+      "text": "محمد بن الإمام جمال الإسلام زين الأمناء أبي البركات الحسن بن محمد بن الحسن بن هبة الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "abb145f7-f262-4925-a6fa-47f972116791",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 291,
+      "text": "يعقوب بن محمد بن يوسف المراغي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "624"
+        ]
+      },
+      "endIndex": 456,
+      "guid": "c6513c9f-a34b-4adb-b990-a00610e37d56",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 401,
+      "text": "يوم الأربعاء سابع عشر ربيع الآخر سنة أربع وعشرين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "d83a6643-2b6d-4381-a233-a0a59553b032",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 322,
+      "text": "أبو الفتح نصر الله بن عين الدولة الحنفي الجندي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم الأوحد محمد بن الإمام جمال الإسلام زين الأمناء أبي البركات الحسن بن محمد بن الحسن بن هبة الله الشافعي بسماعه فيه نقلًا بقراءة الفقيه الإمام العالم المحدث شرف الدين أبي عبد الله محمد بن أبي محمد الحسن ابن سالم بن علي بن سلام الدمشقي سلمه الله تعالى يعقوب بن محمد بن يوسف المراغي وأبو الفتح نصر الله بن عين الدولة الحنفي الجندي وهذا خطه لطف الله به وصح ذلك في يوم الأربعاء سابع عشر ربيع الآخر سنة أربع وعشرين وستمائة بجامع دمشق والحمد لله وحده وصلى الله على محمد وآله وسلم"
+}

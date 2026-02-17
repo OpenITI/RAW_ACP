@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الله الأنصاري وأبي محمد بن ماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتقا من الأحاديث "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "137r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f140.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f140.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "00264fd3-b26d-41bf-aa8e-2368705ae87f",
+      "startIndex": 40,
+      "text": "أبي محمد عبد الرحمن بن الشيخ أبي عمر محمد بن أحمد بن محمد بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "03480d0d-14f5-427b-bbda-0ce88bb908be",
+      "startIndex": 159,
+      "text": "أبي البقاء محمد بن عبد الرحمن بن محمد بن ضياء الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 573,
+      "guid": "2e90a700-c8c5-478d-a63f-8a9507c65ddb",
+      "startIndex": 527,
+      "text": "يوم الثلاثاء عاشر صفر سنة اثنتين وأربعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 589,
+      "guid": "39aa6e7e-2a9b-4de7-abb1-908280e51a02",
+      "startIndex": 576,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 433,
+      "guid": "538657a4-4574-465e-b0b2-353ad461e12f",
+      "startIndex": 395,
+      "text": "أبو العباس أحمد بن محمد بن أمية العبدري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "664a2a82-9141-43bc-8246-2e90e8a43bb0",
+      "startIndex": 108,
+      "text": "أبي عبد الله محمد بن أحمد بن سالم بن أبي عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 473,
+      "guid": "811c6e08-c310-4966-beb7-bbf63c8d326d",
+      "startIndex": 436,
+      "text": "أبو العباس أحمد بن محمد بن عيسى الخرزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 522,
+      "guid": "8c3c0e1a-b934-4a15-8568-da4de837337e",
+      "startIndex": 476,
+      "text": "الحاج أبو عبد الله محمد بن عمر بن الحوش السعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "b1c8c591-31c0-4ade-9e3f-24a00165d39d",
+      "startIndex": 226,
+      "text": "أحمد بن عيسى بن عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "f383ea0a-56dd-4ee3-be6d-5fc3ad2aa679",
+      "startIndex": 304,
+      "text": "أبي اليُمن الكندي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الأشياخ الأئمة العالم أبي محمد عبد الرحمن بن الشيخ أبي عمر محمد بن أحمد بن محمد بن قدامة وأبي عبد الله محمد بن أحمد بن سالم بن أبي عبد الله وأبي البقاء محمد بن عبد الرحمن بن محمد بن ضياء الخباز ومن لفظ مثبته أحمد بن عيسى بن عبد الله بن أحمد بن محمد بن قدامة المقدسيون بسماعهم من الإمام أبي اليُمن الكندي بسنده أوله قال القارئ له ومحمد بن عبد الرحمن ونحن حاضرون الأشياخ العلماء أبو العباس أحمد بن محمد بن أمية العبدري وأبو العباس أحمد بن محمد بن عيسى الخرزي والحاج أبو عبد الله محمد بن عمر بن الحوش السعردي في يوم الثلاثاء عاشر صفر سنة اثنتين وأربعين وستمئة بالجامع المظفري بسفح جبل قاسيون والحمد لله رب العالمين وصلى الله على محمد وآله الطاهرين وسلم تسليما."
+}

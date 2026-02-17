@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "127v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "262f465d-d758-41f8-866a-751fd5b005a1",
+      "startIndex": 9,
+      "text": "الشريف أبي نصر محمد بن محمد بن علي الزينبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "371c337c-086b-47cf-b9d4-f4333472b59b",
+      "startIndex": 75,
+      "text": "سعيد بن أحمد بن الحسن بن البناء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "7cc01ece-d8fc-4270-a0b1-f1685558477d",
+      "startIndex": 59,
+      "text": "ابن كادش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "477"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "c2f385e0-2d62-41fd-8abe-7d1fee679551",
+      "startIndex": 114,
+      "text": "السبت لسبع بقين من ذي الحجة سنة سبع وسبعين وأربعمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه من الشريف أبي نصر محمد بن محمد بن علي الزينبي بقراءة ابن كادش جماعة وسعيد بن أحمد بن الحسن بن البناء في يوم السبت لسبع بقين من ذي الحجة سنة سبع وسبعين وأربعمائة"
+}

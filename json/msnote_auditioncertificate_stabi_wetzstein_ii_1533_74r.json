@@ -1,0 +1,318 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن اسحاق ابن خزيمة"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "کتاب التوحید واثبات صفات الرب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1533"
+      ],
+      "folio_number": [
+        "74r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN791611183/1200/0/00000149.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00023959"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 554,
+      "guid": "01f21572-0ef2-454e-b8c4-3240e59ae6f3",
+      "startIndex": 509,
+      "text": "برهان الدين أبي محمد إبراهيم بن أحمد ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 469,
+      "guid": "0ded4615-bb0e-4991-81cb-23e818d702b7",
+      "startIndex": 415,
+      "text": "أبي طاهر محمد بن الفضل بن أبي بكر محمد بن إسحق بن خزيمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "739"
+        ]
+      },
+      "endIndex": 981,
+      "guid": "3ece9df6-a805-447f-b8e9-24e286ab0941",
+      "startIndex": 930,
+      "text": "يوم الأحد خامس عشري ذي الحجة سنة تسع وثلاثين وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "50863db3-f318-4f82-adb1-11cebd9f59ee",
+      "startIndex": 231,
+      "text": "أبي روح عبد العزيز بن محمد بن أبي الفضل الهروي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "5af76390-78a4-4f04-abad-639b99fb9238",
+      "startIndex": 119,
+      "text": "أم محمد زينب ابنة عمر بن كندي الكندية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 492,
+      "guid": "5c79d306-57fa-4a72-928c-46a5314f7557",
+      "startIndex": 486,
+      "text": "أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 1002,
+      "guid": "a005f43a-6525-4e75-bca9-ca6fffba2fac",
+      "startIndex": 988,
+      "text": "باب الفرج بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 600,
+      "guid": "be4c3723-5386-4268-b5de-bda83ccf2858",
+      "startIndex": 568,
+      "text": "ناصر الدين محمد بن طولوبغا السيفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "d14e8c2b-8b36-45a8-a3a1-779d71c094c3",
+      "startIndex": 362,
+      "text": " أبي عثمان إسماعيل بن عبد الرحمن الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 738,
+      "guid": "e57cfac7-3207-4029-8806-7bd28fdfb5d2",
+      "startIndex": 631,
+      "text": " شمس الدين أبي عبد الله محمد بن عماد الدين أبي العباس أحمد بن عبد الهادي بن عبد الحميد بن عبد الهادي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "ea092a8f-2f22-4c54-89f7-ffd692847138",
+      "startIndex": 56,
+      "text": "جمال الدين أبي الحجاج يوسف بن عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "edfa2f9b-39e5-4d09-a6b7-163ba02275da",
+      "startIndex": 289,
+      "text": "أبي عبد الله محمد بن إسماعيل بن الحسين بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 890,
+      "guid": "eea17521-ca9f-44ef-9590-ecfd5f1aba24",
+      "startIndex": 812,
+      "text": "شهاب الدين أبو الفتح أحمد بن الشيخ محب الدين أبي محمد عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 808,
+      "guid": "f39fc4d8-ad6e-436d-8cd4-e3a757aa2a0d",
+      "startIndex": 749,
+      "text": "محب الدين أبو عبد الله محمد بن محمد بن محمد بن ناصر الأندلسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع كتاب التوحيد هذا، من غير هذه النسخة على الحافظ جمال الدين أبي الحجاج يوسف بن عبد الرحمن المزي، بقراءته له على أم محمد زينب ابنة عمر بن كندي الكندية، وذلك في مجالس آخرها يوم الجمعة 18 شوال سنة 693 بمدينة بعلبك، بإجازتها من أبي روح عبد العزيز بن محمد بن أبي الفضل الهروي، بسماعه من أبي عبد الله محمد بن إسماعيل بن الحسين بن حمزة [في الأصل حرة]، بإجازته من أبي عثمان إسماعيل بن عبد الرحمن الصابوني، بسماعه من أبي طاهر محمد بن الفضل بن أبي بكر محمد بن إسحق بن خزيمة، بسماعه من جده أبي بكر. بقراءة الإمام برهان الدين أبي محمد إبراهيم بن أحمد ابن المحب، جمعٌ منهم: ناصر الدين محمد بن طولوبغا السيفي ومن خطه لخصت، والإمام العلامة شمس الدين أبي عبد الله محمد بن عماد الدين أبي العباس أحمد بن عبد الهادي بن عبد الحميد بن عبد الهادي المقدسي، والإمام محب الدين أبو عبد الله محمد بن محمد بن محمد بن ناصر الأندلسي، وشهاب الدين أبو الفتح أحمد بن الشيخ محب الدين أبي محمد عبد الله بن أحمد بن المحب، وآخرون. وصح ذلك في ثلاثة مجالس آخرها يوم الأحد خامس عشري ذي الحجة سنة تسع وثلاثين وسبعمئة داخل باب الفرج بدمشق والحمد لله وحده."
+}

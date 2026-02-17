@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "30v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f33.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f33.item.r=%22arabe%20708%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+      },
+      "endIndex": 857,
+      "guid": "0b6ba7b7-b650-4187-bdd0-9f1ae813af7a",
+      "index": 133,
+      "isZeroPoint": false,
+      "startIndex": 775,
+      "text": "صحيح ذلك كتبه عبد العظيم بن عبد القوي بن عبد الله المنذري غفر الله تعالى له ولطف به",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "dar_al-hadith_al-kamiliya"
+          ]
+        ]
+      },
+      "endIndex": 738,
+      "guid": "15b8f23a-fee4-4c74-8b94-a0e549a51414",
+      "index": 131,
+      "isZeroPoint": false,
+      "startIndex": 720,
+      "text": "دار الحديث الكاملية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 442,
+      "guid": "2ea98f74-867d-4bb0-a24c-94c910b1246e",
+      "index": 125,
+      "isZeroPoint": false,
+      "startIndex": 402,
+      "text": "شهاب الدين بلال وسابق الدين مثقال الصاحبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "439368c9-e1c9-41f3-a194-805798713fc2",
+      "index": 119,
+      "isZeroPoint": false,
+      "startIndex": 69,
+      "text": "زكي الدين أبي محمد عبد العظيم بن عبد القوي المنذري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "4569e880-a7c5-4aec-a076-8c6fe8f787f7",
+      "index": 120,
+      "isZeroPoint": false,
+      "startIndex": 130,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 773,
+      "guid": "890d7a2e-ec23-4230-84c9-438c8e257992",
+      "index": 132,
+      "isZeroPoint": false,
+      "startIndex": 745,
+      "text": "الحسن بن علي عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 399,
+      "guid": "92b0cb69-1ee5-40c0-83cf-65a382a424dd",
+      "index": 124,
+      "isZeroPoint": false,
+      "startIndex": 332,
+      "text": "معين الدين محمد بن الشيخ الإمام معين الدين حسن بن أبي الحسن بن حمويه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 617,
+      "guid": "aa50c415-f2d3-4667-a0dc-3e966a578fd7",
+      "index": 129,
+      "isZeroPoint": false,
+      "startIndex": 588,
+      "text": "محمد بن أبي الحسين عرف بالحداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 585,
+      "guid": "b2556483-813f-4c96-95a2-777d4a72f6e3",
+      "index": 128,
+      "isZeroPoint": false,
+      "startIndex": 543,
+      "text": "أبو الحسن بن عبد الكريم بن عبد الله الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "b61c4f63-2ece-44d4-94a4-933314acdb58",
+      "index": 121,
+      "isZeroPoint": false,
+      "startIndex": 160,
+      "text": "وجيه الدين أبو الطاهر إسماعيل بن محمد بن محمد الأنصاري القيرواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 487,
+      "guid": "c1416b72-f7c6-43f6-994c-74b806389913",
+      "index": 126,
+      "isZeroPoint": false,
+      "startIndex": 447,
+      "text": "ناصر الدين محمد بن سيف الدين [...] السهمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "654"
+        ]
+      },
+      "endIndex": 717,
+      "guid": "c4a59117-e70b-4cd0-b100-43fcac250477",
+      "index": 130,
+      "isZeroPoint": false,
+      "startIndex": 666,
+      "text": "التاسع عشر من شهر ربيع الآخر سنة أربع وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "d851dfdb-62be-4a51-914f-c0f406ec65b6",
+      "index": 122,
+      "isZeroPoint": false,
+      "startIndex": 226,
+      "text": "زين الدين مقرب بن عبد الرحيم بن مقرب الأقفاصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 329,
+      "guid": "f1a65c42-c95e-4103-ba34-f7c3f115bb1e",
+      "index": 123,
+      "isZeroPoint": false,
+      "startIndex": 273,
+      "text": "جمال الدين أبو بكر بن إسماعيل بن الحسن القرشي عرف بالوراق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 540,
+      "guid": "feed4a26-f848-4020-90b3-3c83fe9ce738",
+      "index": 127,
+      "isZeroPoint": false,
+      "startIndex": 490,
+      "text": "صدر الدين أبو بكر محمد بن عبد الله بن محمد الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء [الثالث من سنن أبي داود ........................\nزكي الدين أبي محمد عبد العظيم بن عبد القوي المنذري بسماعه من ابن طبرزد وسمع السادة الأجلاء وجيه الدين أبو الطاهر إسماعيل بن محمد بن محمد الأنصاري القيرواني وزين الدين مقرب بن عبد الرحيم بن مقرب الأقفاصي وجمال الدين أبو بكر بن إسماعيل بن الحسن القرشي عرف بالوراق ومعين الدين محمد بن الشيخ الإمام معين الدين حسن بن أبي الحسن بن حمويه وشهاب الدين بلال وسابق الدين مثقال الصاحبيان وناصر الدين محمد بن سيف الدين [...] السهمي وصدر الدين أبو بكر محمد بن عبد الله بن محمد الأنصاري وأبو الحسن بن عبد الكريم بن عبد الله الدمشقي ومحمد بن أبي الحسين عرف بالحداد وجماعة كثيرة لم تحضرني أسماؤهم وصح ذلك وثبت في التاسع عشر من شهر ربيع الآخر سنة أربع وخمسين وستمائة بدار الحديث الكاملية كتبه الحسن بن علي عرف بابن الصيرفي\nصحيح ذلك كتبه عبد العظيم بن عبد القوي بن عبد الله المنذري غفر الله تعالى له ولطف به."
+}

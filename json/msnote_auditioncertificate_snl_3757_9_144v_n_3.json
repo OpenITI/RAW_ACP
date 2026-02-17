@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "144v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 623,
+      "guid": "28d9c89b-4f8c-4f42-bc6d-f87b654e5727",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 587,
+      "text": "حمد بن أحمد بن محمد بن النجيب الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "3c8aad21-66d2-44a7-88c9-e53a94bc6b35",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 159,
+      "text": "شهدة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 441,
+      "guid": "484850c0-0dfb-4827-b131-09c581a9281b",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 405,
+      "text": " عبد الله بن سونج بن عبد الله الناصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 397,
+      "guid": "4ae150fd-b091-4f7b-94e3-256d713a059e",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 355,
+      "text": "صفي الدين جوهر بن عبد الله الظهيري التفليسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 309,
+      "guid": "4dee08cf-4dff-4652-9cb9-59e75f0d01a8",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 259,
+      "text": "وجيه الدين أبو القاسم موسى بن محمد بن موسى الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 352,
+      "guid": "91361003-a2fa-4b61-ad62-948d4a2a3cb7",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 312,
+      "text": "بدر الدين محمد بن الحسن بن المظفر الحسيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 480,
+      "guid": "9a39dd92-69ad-44b6-8b4e-cabb3da2fffd",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 457,
+      "text": "دار الحديث النورية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 531,
+      "guid": "e1ecfa3c-4687-4ba3-91ad-a9a355fb8bf2",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 485,
+      "text": "يوم السبت حادي عشري شوال سنة ثمان وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "e73cb7de-42b2-43d5-9211-08bb455dfecb",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 73,
+      "text": "كمال الدين أبي محمد عبد الرحيم بن محمد بن عطاء الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "eece914c-ce32-4849-95af-3ce538ec6665",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 204,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "fb75bc57-3d3b-4ad9-bb70-3af22641022e",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 137,
+      "text": "بهاء الدين المقدسي ",
+      "type": "person"
+    }
+  ],
+  "text": " سمعت جميع هذا الجزء وما بعده على الشيخ الإمام الفقيه العدل الرضي الرئيس كمال الدين أبي محمد عبد الرحيم بن محمد بن عطاء الحنفي بسماعه من بهاء الدين المقدسي عن شهدة بقراءة مالكه الشيخ الإمام العالم الفاضل نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي وسمعه وجيه الدين أبو القاسم موسى بن محمد بن موسى الأنصاري وبدر الدين محمد بن الحسن بن المظفر الحسيني وصفي الدين جوهر بن عبد الله الظهيري التفليسي والحاج عبد الله بن سونج بن عبد الله الناصري وصح ذلك وثبت بدار الحديث النورية بدمشق في يوم السبت حادي عشري شوال سنة ثمان وسبعين وستمية وأجاز لي لهم جميع ما يرويه وتلفظ بذلك حين سألته كتبه محمد بن أحمد بن محمد بن النجيب الشافعي عفا الله عنه والحمد لله رب العالمين "
+}

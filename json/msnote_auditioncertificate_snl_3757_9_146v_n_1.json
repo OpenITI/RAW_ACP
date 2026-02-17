@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "146v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 482,
+      "guid": "089e5f65-50d6-4390-9ac9-076128aabf02",
+      "index": 107,
+      "isZeroPoint": false,
+      "startIndex": 470,
+      "text": " أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "728"
+        ]
+      },
+      "endIndex": 659,
+      "guid": "22ec8a81-5aea-46af-8152-a74f77d6348f",
+      "index": 111,
+      "isZeroPoint": false,
+      "startIndex": 603,
+      "text": "يوم الأربعاء حادي عشر ربيع الآخر سنة ثمان وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "276f7b5b-6528-46f4-8400-78e3d82d970c",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "سيف الدين أبي بكر بن العدل عز الدين عبد العزيز بن أحمد بن رمضان بن صالح الأنصاري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 679,
+      "guid": "6df20a55-4eff-4d9b-a874-8462c678b33c",
+      "index": 112,
+      "isZeroPoint": false,
+      "startIndex": 662,
+      "text": "جامع دمشق المحروسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 356,
+      "guid": "810cc80f-9766-4a54-b09f-3074688bd320",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 349,
+      "text": "الحمامي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 463,
+      "guid": "a6fffc6f-2bfa-4b25-aa41-3b5321fbb492",
+      "index": 106,
+      "isZeroPoint": false,
+      "startIndex": 412,
+      "text": "محب الدين أبي محمد عبد الله بن أحمد بن المحب المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 581,
+      "guid": "b764c9fd-93f0-4b4d-90cc-203acf30dfa7",
+      "index": 110,
+      "isZeroPoint": false,
+      "startIndex": 547,
+      "text": "محمد بن يحيى بن محمد بن سعد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "c48323ef-f515-462d-b051-9b98fdb50965",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 285,
+      "text": "الخشوعي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 498,
+      "guid": "dbda78c2-e0c7-4b2d-8fc9-944750f16623",
+      "index": 108,
+      "isZeroPoint": false,
+      "startIndex": 485,
+      "text": "أبو الفتح أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 273,
+      "guid": "df42fb93-ce5b-42cf-a25e-d2bdd5e2f5ec",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 264,
+      "text": "ابن النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 544,
+      "guid": "e0be0164-5f17-4f0c-9984-ad04254f24ae",
+      "index": 109,
+      "isZeroPoint": false,
+      "startIndex": 501,
+      "text": "بدر الدين حسن بن علي بن محمد البغدادي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 337,
+      "guid": "ed810385-1b26-458b-82c3-a6473275373c",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 332,
+      "text": "الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 373,
+      "guid": "fd1fd94f-b67a-4dcb-ade2-bc46f689721e",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 367,
+      "text": "النجاد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "fdbf83eb-e662-4a6b-8a14-ba1217aee493",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 303,
+      "text": "عبد الكريم بن حمزة",
+      "type": "person"
+    }
+  ],
+  "text": " سمع من أول هذا الجزء وهو الأول من الفرج بعد الشدة لابن أبي الدنيا إلى قوله إني كنت من الظالمين وهو القدر الذي فات شهدة على طراد الزينبي على الشيخ الإمام العدل الأصيل الرضي سيف الدين أبي بكر بن العدل عز الدين عبد العزيز بن أحمد بن رمضان بن صالح الأنصاري بسماعه من ابن النشبي بسماعه من الخشوعي بسماعه من عبد الكريم بن حمزة بسماعه من الخطيب بسماعه من الحمامي بسماعه من النجاد عنه بقراءة الشيخ الإمام الحافظ الأوحد محب الدين أبي محمد عبد الله بن أحمد بن المحب المقدسي ابناه أبو بكر محمد وأبو الفتح أحمد وبدر الدين حسن بن علي بن محمد البغدادي الصوفي ومحمد بن يحيى بن محمد بن سعد المقدسي وهذا خطه وصح ذلك في يوم الأربعاء حادي عشر ربيع الآخر سنة ثمان وعشرين وسبعماية بجامع دمشق المحروسة وأجاز لنا جميع ما يرويه والحمد لله رب العالمين"
+}

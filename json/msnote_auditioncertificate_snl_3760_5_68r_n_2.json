@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج5"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 112"
+      ],
+      "classmark": [
+        "3760/5"
+      ],
+      "folio_number": [
+        "68r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "harim_al-tahiri"
+          ]
+        ]
+      },
+      "endIndex": 363,
+      "guid": "231264f8-4cec-4b40-9db0-22ee6474e456",
+      "startIndex": 338,
+      "text": "الحريم الطاهري بدكان الشيخ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "34b1d854-c177-48ae-8772-f37f7c7ab055",
+      "startIndex": 96,
+      "text": "أبي القاسم علي بن أحمد بن محمد بن البسري البندار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "885dba0a-e925-4a80-99e3-3af690f82c1c",
+      "startIndex": 156,
+      "text": "أبي عمر بن مهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "556"
+        ]
+      },
+      "endIndex": 335,
+      "guid": "d77b24a2-8d80-40cc-95e0-baca12ce4952",
+      "startIndex": 281,
+      "text": "الخميس ثالث عشرين ربيع الأول من سنة ست وخمسين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "da3aa095-2ddf-4391-bcb2-3b4dd9c5fa56",
+      "startIndex": 42,
+      "text": "أبي المعالي محمد بن محمد بن محمد بن الجبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "dff018b4-e628-4b86-8a32-b05229690716",
+      "startIndex": 237,
+      "text": "أحمد بن يعقوب بن عبد الله المارستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "e5bd3776-43c3-4375-81a3-d605aa233b9a",
+      "startIndex": 183,
+      "text": "محمد بن المبارك بن محمد بن مشق",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الصالح الثقة أبي المعالي محمد بن محمد بن محمد بن الجبان بإجازته من أبي القاسم علي بن أحمد بن محمد بن البسري البندار بروايته عن أبي عمر بن مهدي عنه بقراءة محمد بن المبارك بن محمد بن مشق وبخطه السماع ومنه نقلت أحمد بن يعقوب بن عبد الله المارستاني في يوم الخميس ثالث عشرين ربيع الأول من سنة ست وخمسين وخمس ماية بالحريم الطاهري بدكان الشيخ"
+}

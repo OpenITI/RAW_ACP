@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المؤتنف تكملة المؤتلف والمختلف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 290"
+      ],
+      "folio_number": [
+        "206r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1663217491/1200/0/00000547.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011164"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 34,
+      "guid": "059787ca-7bb3-43f9-bc0f-31fc0ff1f078",
+      "startIndex": 13,
+      "text": "أحمد بن الحسن بن خيرون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "2f57adc6-250f-424e-8342-1804711dabda",
+      "startIndex": 68,
+      "text": "أبو الفتح كثير بن يعقوب البستي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "d28421ca-3a7d-4e39-b41b-b617abd8cc24",
+      "startIndex": 45,
+      "text": "أبي بكر الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "467"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "f6eaf741-eb1b-4bcb-ab79-763df7084740",
+      "startIndex": 122,
+      "text": "في شهر ربيع الآخر من سنة سبع وستين وأربع مائة ",
+      "type": "date"
+    }
+  ],
+  "text": "سمع جميعه من أحمد بن الحسن بن خيرون إجازة عن أبي بكر الخطيب، القاضي أبو الفتح كثير بن يعقوب البستي وعارض بكتابه، بقراءته، في شهر ربيع الآخر من سنة سبع وستين وأربع مائة وكتب ابن خيرون."
+}

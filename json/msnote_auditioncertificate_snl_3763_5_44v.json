@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاضي أبو يعلى محمد بن الحسين بن محمد الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي يعلى الفراء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 128"
+      ],
+      "classmark": [
+        "3763/5"
+      ],
+      "folio_number": [
+        "44v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "47250a6c-92b9-41b1-82aa-796806e931d0",
+      "startIndex": 211,
+      "text": "علاء الدين علي بن قيران السكزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "74d98ef3-331b-456e-b072-2e0d81df082e",
+      "startIndex": 127,
+      "text": "النجيب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "7cd8c4e4-3ba6-4c86-9fa4-46606d00b6b3",
+      "startIndex": 277,
+      "text": "محمد بن علي بن أيبك السروجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "82818447-0ba2-4b5e-a857-8a4f37813fd5",
+      "startIndex": 35,
+      "text": " نور الدين أبي الحسن علي بن إسماعيل بن إبراهيم بن عبد الرحمن بن قريش المخزومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "9ed8d753-4907-4069-bd07-890ea47dbb29",
+      "startIndex": 155,
+      "text": " تقي الدين أبي المعالي محمد بن رافع بن أبي محمد السلامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "731"
+        ]
+      },
+      "endIndex": 398,
+      "guid": "a3133931-d01f-4cc0-9307-c5eee7e201f4",
+      "startIndex": 330,
+      "text": "الثلثا الحادي والعشرين من شهر ربيع الأول من سنة إحدى وثلاثين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "aa4feec0-cd0a-44d7-bb70-8ec0a4799444",
+      "startIndex": 243,
+      "text": "أبو سعيد خليل بن أبي بكر بن بدال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "khazzan_al-silah"
+          ]
+        ]
+      },
+      "endIndex": 422,
+      "guid": "e2f88668-6456-4ff8-a84b-017a48e8ee3c",
+      "startIndex": 401,
+      "text": "خزان السلاح من القاهرة",
+      "type": "place"
+    }
+  ],
+  "text": "سمعه على الشيخ المسند الأصيل المكثر نور الدين أبي الحسن علي بن إسماعيل بن إبراهيم بن عبد الرحمن بن قريش المخزومي بسماعه فيه من النجيب عن شيخه بقراءة الإمام تقي الدين أبي المعالي محمد بن رافع بن أبي محمد السلامي علاء الدين علي بن قيران السكزي وأبو سعيد خليل بن أبي بكر بن بدال ومحمد بن علي بن أيبك السروجي وهذا خطه وصح وثبت في يوم الثلثا الحادي والعشرين من شهر ربيع الأول من سنة إحدى وثلاثين وسبعماية بخزان السلاح من القاهرة وأجاز لنا ما يجوز له روايته والحمد لله وحده وصلواته على سيدنا محمد وآله وصحبه وسلم تسليما كثيرا"
+}

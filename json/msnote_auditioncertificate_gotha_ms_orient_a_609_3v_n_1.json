@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "هبة الله الشيباني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجالس إملاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 609"
+      ],
+      "folio_number": [
+        "3v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000615"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "25925824-cf97-40a3-bf0c-2047af202424",
+      "startIndex": 9,
+      "text": "أبي معمر حذيفة بن سعد الوزان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "52c0af63-12cf-4c04-83e3-f721fe8ec5e0",
+      "startIndex": 45,
+      "text": "مكي بن أبي القاسم الغراد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "556"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "a0c0d096-6e89-4ec7-bca5-5883071698aa",
+      "startIndex": 111,
+      "text": "يوم الثلاثاء من رجب سنة ست وخمسين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "aed3eda4-640a-4ca7-940a-43dfe96a6a3a",
+      "startIndex": 70,
+      "text": "أبو الحسن علي بن النفيس بن بورنداز",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على أبي معمر حذيفة بن سعد الوزان بقراءة مكي بن أبي القاسم الغراد أبو الحسن علي بن النفيس بن بورنداز وغيره يوم الثلاثاء من رجب سنة ست وخمسين وخمسماية."
+}

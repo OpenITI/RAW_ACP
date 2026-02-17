@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الرحمن بن العباس المخلص"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة الغرائب عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 102"
+      ],
+      "classmark": [
+        "3758/7"
+      ],
+      "folio_number": [
+        "258v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "7296a13e-4212-4ee9-877a-715afe3a5e1a",
+      "startIndex": 44,
+      "text": "شمس الدين أبي عبد الله محمد بن عبد الرحيم المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "74bfe331-1e5b-4576-87b3-c70b89fb8868",
+      "startIndex": 164,
+      "text": "يمان بن مسعود بن يمان الزيتاوي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "685"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "f560ffed-45b3-4b86-92d5-a2587ce55e45",
+      "startIndex": 125,
+      "text": "منتصف صفر سنة خمس وثمانين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم شمس الدين أبي عبد الله محمد بن عبد الرحيم المقدسي بسماعه فيه وذلك في مجالس آخرها منتصف صفر سنة خمس وثمانين وستماية كتبه يمان بن مسعود بن يمان الزيتاوي المقدسي عفى الله عنه والحمد لله وحده وصلى الله على محمد وآله |وصحبه| وسلم تسليما "
+}

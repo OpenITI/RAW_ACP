@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن القاسم بن إسماعيل الحلبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي القاسم الحلبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 120"
+      ],
+      "classmark": [
+        "3761/12"
+      ],
+      "folio_number": [
+        "115r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "552"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "54ae5b2e-ef0f-4359-a0b5-5822e79f4b54",
+      "startIndex": 129,
+      "text": " رجب سنة اثنيتن وخمسين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "79ef87df-4349-461b-af65-da285c06f744",
+      "startIndex": 62,
+      "text": "هبة الله بن محفوظ بن صصرى ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "b0231c58-51b0-4692-8936-fb46fe552751",
+      "startIndex": 94,
+      "text": "أبو المواهب الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "bb8b79b4-261f-43ba-951a-607e332857ca",
+      "startIndex": 25,
+      "text": "بي الحسن علي بن عساكر بن سرور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "e5bafa95-3498-46b1-914b-43b0682aab83",
+      "startIndex": 113,
+      "text": "الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 176,
+      "guid": "ebf67d4c-8d08-4117-959f-1feec94b9c60",
+      "startIndex": 163,
+      "text": "الجامع الأموي ",
+      "type": "place"
+    }
+  ],
+  "text": "سمع الجزء كله على الشيخ أبي الحسن علي بن عساكر بن سرور بقراءة هبة الله بن محفوظ بن صصرى ولداه أبو المواهب الحسن والحسين وآخرون في رجب سنة اثنيتن وخمسين وخمس ماية بالجامع الأموي "
+}

@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "51v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "17034e15-8059-4558-985f-3afb2782dc2f",
+      "startIndex": 121,
+      "text": "الكندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "18644b21-6d35-4672-97a5-bcba810a73e3",
+      "startIndex": 23,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد ابن البخاري المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "308e66a7-cfaa-4aa0-9c21-8237233aed82",
+      "startIndex": 166,
+      "text": "محمد بن عمر بن نصر الله ابن القواس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "84336d14-0bda-4248-aa23-586c5ca0afe8",
+      "startIndex": 99,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "687"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "bf8e1bb5-94d6-45b4-8b31-126fb8873574",
+      "startIndex": 234,
+      "text": "الاثنين السادس من رمضان سنة سبع وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "d2f81216-c93e-4e7d-a16a-ee6c9957733c",
+      "startIndex": 155,
+      "text": "يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "d3320308-5992-4519-9a80-9de5f5a81bd0",
+      "startIndex": 202,
+      "text": "أحمد بن أيوب بن زيد الأذرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 286,
+      "guid": "fc28d61c-e82b-434a-b5f5-8df5da12839a",
+      "startIndex": 282,
+      "text": "الجبل",
+      "type": "place"
+    }
+  ],
+  "text": "وسمعه على الشيخ الإمام فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد ابن البخاري المقدسي بسماعه من ابن طبرزد وبإجازته من الكندي بسندهما بقراءة كاتب السماع يوسف المزي محمد بن عمر بن نصر الله ابن القواس وأحمد بن أيوب بن زيد الأذرعي يوم الاثنين السادس من رمضان سنة سبع وثمانين وستمية بالجبل"
+}

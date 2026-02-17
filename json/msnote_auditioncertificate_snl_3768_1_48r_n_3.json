@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبدالله بن محمد بن عبيد بن أبي الدنيا "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الصمت"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 160"
+      ],
+      "classmark": [
+        "3768/1"
+      ],
+      "folio_number": [
+        "48r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          "b8775a2a-3b46-41d6-b1cb-c8f064d0e114"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "14170054-45e9-4415-880b-934df1f211de",
+      "startIndex": 245,
+      "text": "أبو المرجا سالم بن ثمال بن عنان العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 418,
+      "guid": "453ea156-7b00-4901-8e9f-c8b55e3cf915",
+      "startIndex": 386,
+      "text": "مفضل بن علي بن عبد الواحد الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "612"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "4ba8cea6-ae51-41dc-b751-a6619009afd4",
+      "startIndex": 310,
+      "text": "الثلثاء تاسع عشر شوال سنة اثنتي عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "97dbb85b-6cac-4dcb-b9c5-4710ab341ba1",
+      "startIndex": 94,
+      "text": "عماد الدين أبي إسحق إبراهيم بن عبد الواحد بن سرور المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "a4cbabb4-6c8d-4820-8443-c2b933b98907",
+      "startIndex": 194,
+      "text": "أبو عبد الرحيم عسكر بن عبد الرحيم بن عسكر النصيبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 378,
+      "guid": "c9a8eee0-b33b-455a-b229-634d89dd10ae",
+      "startIndex": 356,
+      "text": "مسجد دمشق بحلقة الحنابل",
+      "type": "place"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء والذي قبله ومن باب ذم اللعانين في الثاني إلى آخره على الشيخ الإمام العالم عماد الدين أبي إسحق إبراهيم بن عبد الواحد بن سرور المقدسي بسماعه فيه فسمع بقراءتي الفقيهان الجليلان أبو عبد الرحيم عسكر بن عبد الرحيم بن عسكر النصيبي وأبو المرجا سالم بن ثمال بن عنان العرضي وذلك في مجلسين آخرهما يوم الثلثاء تاسع عشر شوال سنة اثنتي عشرة وستمائة بمسجد دمشق بحلقة الحنابلة كتبه مفضل بن علي بن عبد الواحد الشافعي والحمد لله رب العالمين"
+}

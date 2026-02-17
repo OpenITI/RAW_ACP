@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "جزء فيه أحاديث منتقاة عوالي جمعها محمد بن عبد الواحد "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "4v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f7.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f7.image.r=%22turc%20983%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "64af80ce-06d3-44e8-b50c-4c2e932b8322",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 234,
+      "text": "محمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "70031b0d-94fb-4fec-ac76-49adb5f6e67b",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 32,
+      "text": "المحب إسماعيل بن عمر بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "7b636ecb-2800-41eb-ab3a-33b2fd129300",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 175,
+      "text": "أحمد بن العز محمد وعبد العزيز بن عبد الملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "nusaybin"
+          ]
+        ]
+      },
+      "endIndex": 81,
+      "guid": "a0f6f68e-4efa-4321-a241-8e18d58bbd89",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 76,
+      "text": "نصيبين",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "605"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "c1faa5f4-ba0b-474f-861d-77726c3fac75",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 87,
+      "text": " يوم الاحد يوم عرفة عشر [شهر] الله سنة كتبه من سنة خمس وست ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "dbce89a0-4ff3-467a-b55c-fd6e56496494",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 70,
+      "text": "أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ من أوله سماعًا عليَّ الإمام المحب إسماعيل بن عمر بن أبي بكر وأخوه أحمد بنصيبين وذلك يوم الاحد يوم عرفة عشر [شهر] الله سنة كتبه من سنة خمس وست ماية وسمعه عليَّ ظاهر نصيبين أحمد بن العز محمد وعبد العزيز بن عبد الملك في التاريخ وكتب محمد بن عبد الواحد حامدًا الله وحده ومصليًا على محمد وآله ومسلمًا"
+}

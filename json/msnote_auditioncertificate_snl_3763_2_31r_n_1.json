@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عمرو بن البختري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي البختري عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 127"
+      ],
+      "classmark": [
+        "3763/2"
+      ],
+      "folio_number": [
+        "31r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "005235a7-dd67-4dbf-804b-31595ef55a68",
+      "startIndex": 212,
+      "text": "أبي العباس أحمد بن محمود بن أحمد الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          "6b37a78e-9472-41d1-a57c-fcf1dd8547b9"
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 644,
+      "guid": "0169db47-1206-4a9e-8655-0adf30e9c735",
+      "startIndex": 625,
+      "text": "جعفر بن محمد العباسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "2aeb7fa6-1499-4eb8-bfeb-1dab00a5574e",
+      "startIndex": 120,
+      "text": "أبي السعادات نصر الله بن عبد الرحمن بن محمد القزاز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 553,
+      "guid": "43e2e806-bea8-4930-ae86-f4d83d081660",
+      "startIndex": 525,
+      "text": "محمد بن الحسن بن محمد الغزنوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "44649fc4-78c3-4d03-803f-26c8b2314a7b",
+      "startIndex": 283,
+      "text": "تقي الدين أبو الحسن علي بن أبي الفتح بن باسويه الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "8f29aa1e-1581-4a65-be88-300b612ad6b8",
+      "startIndex": 181,
+      "text": "أبي القاسم الربعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "8fdc6ce2-e17f-429a-b8b5-882f74cd1052",
+      "startIndex": 339,
+      "text": "أبو بكر عتيق بن علي الصنهاجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 410,
+      "guid": "d29f259f-ca1f-48df-aede-37aeb7f2bf73",
+      "startIndex": 369,
+      "text": "علي بن سعد الله بن أبي بكر العاقولي البواب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 454,
+      "guid": "ee2ebcfb-c2c4-45e1-9da0-326b6ad87ea0",
+      "startIndex": 413,
+      "text": "أبو القاسم عبد الرحمن بن أبي منصور الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 483,
+      "guid": "eefd1269-823a-4ccf-89d5-812ec1c18217",
+      "startIndex": 457,
+      "text": "عبد القادر بن زنكي الأشتري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "581"
+        ]
+      },
+      "endIndex": 614,
+      "guid": "f4868933-43fa-4db8-817f-ede1a32a986e",
+      "startIndex": 576,
+      "text": "سابع عشر رجب سنة إحدى وثمانين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 725,
+      "guid": "f49dc68e-3af4-4c34-840b-28f461975054",
+      "startIndex": 694,
+      "text": "عبد الجليل بن عبد الجبار الأبهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 522,
+      "guid": "ff7f560a-0d57-49fd-bb70-37c6edc542bd",
+      "startIndex": 485,
+      "text": "أبو حامد محمد بن محمد بن أحمد المندائي",
+      "type": "person"
+    }
+  ],
+  "text": "شاهدت على نسخة الشيخ تقي الدين ابن باسويه من هذه المجالس وفيها أيضا مجلس من أمالي الأشناني سمع جميع هذا الجزء على الشيخ أبي السعادات نصر الله بن عبد الرحمن بن محمد القزاز بسماعه من أبي القاسم الربعي بقراءة الشيخ أبي العباس أحمد بن محمود بن أحمد الواسطي صاحب الجزء الشيخ الأجل العالم تقي الدين أبو الحسن علي بن أبي الفتح بن باسويه الواسطي وأبو بكر عتيق بن علي الصنهاجي وعلي بن سعد الله بن أبي بكر العاقولي البواب وأبو القاسم عبد الرحمن بن أبي منصور الواسطي وعبد القادر بن زنكي الأشتري وأبو حامد محمد بن محمد بن أحمد المندائي ومحمد بن الحسن بن محمد الغزنوي وبخطه السماع وذلك في سابع عشر رجب سنة إحدى وثمانين وخمس ماية وصح نقله جعفر بن محمد العباسي عفى الله عنه من الأصل بعد المقابلة ونقله من خطه عبد الجليل بن عبد الجبار الأبهري عفا الله عنه في رجب سنة ثلاث وعشرين وستماية بدمشق "
+}

@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        null
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي المقري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند نافع بن أبي نعيم المقري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 61- 62 "
+      ],
+      "classmark": [
+        "3750/3"
+      ],
+      "folio_number": [
+        "26v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 14,
+      "guid": "3a3f737a-fe8d-47a6-a931-2c8d5a1f676c",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 12,
+      "text": "جدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "8dc464c7-b2bd-4074-8792-a182a8e30e72",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 26,
+      "text": "الصلاح بن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "ccb65f46-8994-4f6a-b52c-807e5131e154",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 48,
+      "text": "الفخر بن البخاري",
+      "type": "person"
+    }
+  ],
+  "text": " وأخبرنا به جدي وغيره أنا الصلاح بن أبي عمر أنا الفخر بن البخاري"
+}

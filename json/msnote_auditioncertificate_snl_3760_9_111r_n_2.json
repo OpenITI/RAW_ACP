@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/9"
+      ],
+      "folio_number": [
+        "111r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "005fbf38-4f91-458c-83a7-7b8691cc238c",
+      "startIndex": 24,
+      "text": "أبي علي أحمد بن علي بن الخراز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "2acff8ee-5e02-427b-a692-91419a76d408",
+      "startIndex": 104,
+      "text": "سالم بن علي بن سلامة البيطار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "546"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "40564ac1-e4c2-4875-8f46-4457ff3da554",
+      "startIndex": 157,
+      "text": "يوم السبت سادس عشر المحرم من سنة ست وأربعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "5998c4e4-00bf-4037-9f37-a37b77ee98a3",
+      "startIndex": 85,
+      "text": "أبي محمد بن الخشاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "other"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "5cd6be05-6abc-477a-9e68-967f46b2b452",
+      "startIndex": 264,
+      "text": "تقي الدين أبي الحسن علي بن عبد العزيز بن محمد الإربلي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "6307d8d7-0944-491f-90ac-17497a89780b",
+      "startIndex": 64,
+      "text": "ابن أبي عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "7ed08b66-4d20-42f1-87be-89e7e8955024",
+      "startIndex": 139,
+      "text": "أبو الفضل شجاع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "other"
+        ]
+      },
+      "endIndex": 381,
+      "guid": "af08f3a6-bc9e-4728-906a-bbf8343dec3a",
+      "startIndex": 353,
+      "text": "عبد العزيز بن معالي بن غنيمة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "e36d7635-4dbf-4da5-82f1-7dd476413767",
+      "startIndex": 228,
+      "text": "ابن مشرف",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع الثالث والرابع على أبي علي أحمد بن علي بن الخراز بسماعه من ابن أبي عثمان بقراءة أبي محمد بن الخشاب سالم بن علي بن سلامة البيطار وولده أبو الفضل شجاع في يوم السبت سادس عشر المحرم من سنة ست وأربعين وخمسماية نقلت الجميع من خط ابن مشرف. رواية شيخنا الإمام العالم تقي الدين أبي الحسن علي بن عبد العزيز بن محمد الإربلي الشافعي بحق إجازته من الشيخ الإمام عبد العزيز بن معالي بن غنيمة بسماعه فيه منقولا"
+}

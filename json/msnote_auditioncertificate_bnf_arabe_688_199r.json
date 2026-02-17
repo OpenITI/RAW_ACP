@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسماعيل البخاري"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/154679127"
+      ],
+      "work_title": [
+        "صحيح البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 688"
+      ],
+      "folio_number": [
+        "199r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000471r/f203.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000471r/f203.image.r=%22Arabe%20688%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "863"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "24352646-2178-4f93-871a-0be8410391b4",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 90,
+      "text": "تاسع عشري جمادى الآخرة سنة ثلث وستين وثمانماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "4c2a6b4e-8f1a-4c7b-88ee-ce25aea65df2",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 39,
+      "text": "أحمد بن زيد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 21,
+      "guid": "b3b7f33d-f4c2-4ede-810b-5663afc52056",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 10,
+      "text": "محمد البُرصي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ الشيخ محمد البُرصي قراءة على كاتبه أحمد بن زيد من هذه النسخة ومن غيرها في مجالس آخرها تاسع عشري جمادى الآخرة سنة ثلث وستين وثمانماية"
+}

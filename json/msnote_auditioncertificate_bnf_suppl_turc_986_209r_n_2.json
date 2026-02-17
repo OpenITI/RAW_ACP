@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمر عثمان بن محمد بن عبد الله المحمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء فيه من حديث أبي عمرو عثمان بن محمد بن عبد الله المحمي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "209r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f216.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f216.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 409,
+      "guid": "0131772b-ffd4-4fe8-bf18-eab4071b9927",
+      "index": 75,
+      "isZeroPoint": false,
+      "startIndex": 363,
+      "text": "أبو البهاء بن أبي الهيجاء بن أبي الفتح بن مسلمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "9"
+        ],
+        "year": [
+          "607"
+        ]
+      },
+      "endIndex": 522,
+      "guid": "04c73c41-2cf6-4387-9d18-85bbef422f1c",
+      "index": 79,
+      "isZeroPoint": false,
+      "startIndex": 498,
+      "text": "شهر رمضان سنة سبع وست مئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "5b255259-98f8-42ae-b83a-52249e724b9d",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 284,
+      "text": "أبو غالب المظفر بن محمد بن سيف الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "72768e1c-c3a3-4fc9-9cbd-b67b1165ffd8",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 141,
+      "text": "تقي الدين أبي إسحق إبراهيم بن محمد بن الأزهر الصريفيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "84f9ab9a-c96d-4a27-809f-37e7b64220f1",
+      "index": 76,
+      "isZeroPoint": false,
+      "startIndex": 412,
+      "text": "أبو الحسن بن إبراهيم بن عوض",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 528,
+      "guid": "8ce2b690-3729-40c1-a0fc-deb2b2ccf23b",
+      "index": 80,
+      "isZeroPoint": false,
+      "startIndex": 525,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "98fea89d-ee6f-4294-9ab4-274f31897a4b",
+      "index": 74,
+      "isZeroPoint": false,
+      "startIndex": 325,
+      "text": "أبو عمرو عثمان بن أبي الفتح نصر الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 493,
+      "guid": "a8946bc0-4f6a-482c-839c-0b1272aafed5",
+      "index": 78,
+      "isZeroPoint": false,
+      "startIndex": 490,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "b7504b34-a2ac-40f1-ad03-0a2fe65bf3b0",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 222,
+      "text": "نجيب الدين أبو الفتح بن أبي العز بن أبي طالب الشيباني الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "d1fb436f-a005-4786-aa9d-201f861f26ee",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 53,
+      "text": "تاج الأمناء أبي الفضل أحمد بن محمد بن الحسن الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 482,
+      "guid": "ff117a2b-741b-4554-8752-73211754b825",
+      "index": 77,
+      "isZeroPoint": false,
+      "startIndex": 454,
+      "text": "عبد الرحمن بن عبد الله الفراء",
+      "type": "person"
+    }
+  ],
+  "text": "سمع الجزء كله على القاضي الإمام العالم الكبير الكامل تاج الأمناء أبي الفضل أحمد بن محمد بن الحسن الشافعي بسماعه فيه نقلًا تراه بقراءة الإمام تقي الدين أبي إسحق إبراهيم بن محمد بن الأزهر الصريفيني صاحبه الإمام الأجل العالم نجيب الدين أبو الفتح بن أبي العز بن أبي طالب الشيباني الصفار وأبو غالب المظفر بن محمد بن سيف الأنصاري وأبو عمرو عثمان بن أبي الفتح نصر الله وأبو البهاء بن أبي الهيجاء بن أبي الفتح بن مسلمة وأبو الحسن بن إبراهيم بن عوض وكاتب الأسماء عبد الرحمن بن عبد الله الفراء وابنه محمد في شهر رمضان سنة سبع وست مئة بدمشق."
+}

@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن أحمد بن عبد الرحمن المقدسي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "الموافقات العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "20r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f21.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f21.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 316,
+      "guid": "22549d1f-428f-4e62-a1ef-6fe31dbe7b6c",
+      "index": 311,
+      "isZeroPoint": false,
+      "startIndex": 303,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "3c1cced6-9acd-4ce5-b382-28c6bed1cb5e",
+      "index": 308,
+      "isZeroPoint": false,
+      "startIndex": 169,
+      "text": "عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "61c6d650-bf7b-429d-b13d-306317e9e639",
+      "index": 305,
+      "isZeroPoint": false,
+      "startIndex": 45,
+      "text": "أبي الفضل سليمان بن حمزة بن أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "63037b9b-dc38-4a0a-a428-93d8db455bda",
+      "index": 309,
+      "isZeroPoint": false,
+      "startIndex": 213,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "713"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "7d8009c5-b793-48d4-a268-5b513054dad9",
+      "index": 310,
+      "isZeroPoint": false,
+      "startIndex": 258,
+      "text": "يوم الثلاثاء ثاني رجب سنة ثلاث عشرة وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "94c50ba1-6074-4d1e-a979-83923ced62a3",
+      "index": 306,
+      "isZeroPoint": false,
+      "startIndex": 79,
+      "text": "يحيى بن محمد بن سعد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "f0bac4cf-7ced-4a40-a1d7-a0389814dbd6",
+      "index": 307,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "ضياء الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "f957d1a5-157c-4f8a-9acc-71118b92ab69",
+      "index": 312,
+      "isZeroPoint": false,
+      "startIndex": 331,
+      "text": "محمد بن أبي بكر عبد الله",
+      "type": "person"
+    }
+  ],
+  "text": "سمع الجزء الأول الموافقات على الشيخين القاضي أبي الفضل سليمان بن حمزة بن أحمد ويحيى بن محمد بن سعد المقدسيين بسماع الأول وإجازة الثاني من مؤلفه الحافظ ضياء الدين بقراءة عبد الله بن أحمد بن المحب ومن خطه لخصت ابنه محمد حاضرا في أوائل الشهر الثاني عشر من عمره يوم الثلاثاء ثاني رجب سنة ثلاث عشرة وسبعمية بالجامع المظفري بقاسيون لخصه محمد بن أبي بكر عبد الله عفا الله عنهما."
+}

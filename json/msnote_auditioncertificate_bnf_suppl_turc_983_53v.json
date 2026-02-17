@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد حرب بن اسماعيل بن خلف الكرماني الحنبلي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/78553892"
+      ],
+      "work_title": [
+        "أحاديث أبي محمد حرب بن إسماعيل الكرماني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "suppl Turc 983"
+      ],
+      "folio_number": [
+        "53v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f57.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f57.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "007a16b7-4841-42d7-8705-c9b4576fa1f3",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 96,
+      "text": "ابن أبي عصرون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "1b60a2d1-02b8-4ea9-9bbf-bfa3d2f63e07",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 192,
+      "text": "سعيد بن أبرويه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "4836c569-a3f0-40ab-b841-30dd56af3166",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 39,
+      "text": "أبي محمد القاسم بن محمد بن يوسف البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "737"
+        ]
+      },
+      "endIndex": 477,
+      "guid": "577d0bb7-e5fc-4460-89dd-95dc1d33cb14",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 434,
+      "text": " الجمعة آخر رمضان من سنة سبع وثلاثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 429,
+      "guid": "5a204908-171f-4583-9dac-7f213cb8777f",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 414,
+      "text": "أبي عمرو بن منده",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "5fce4d0c-b6d9-4698-a325-eae52ad3e064",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 208,
+      "text": "أحمد بن محمد الفاراقاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "6398c5bc-a2a5-46bc-94ea-bd361a218c1a",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 256,
+      "text": "الصباغ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 680,
+      "guid": "ab774d38-61c0-4d13-8183-372ad600965b",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 612,
+      "text": "محمد بن عبد الله بن أحمد بن المحب عبد الله بن أحمد بن محمد بن إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "b15dc6d1-3b5f-4ad3-84d1-fbf6f43f5543",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 264,
+      "text": "جمعة بنت سليم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 605,
+      "guid": "b3767c9e-712f-48bd-a7b4-56227385834e",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 553,
+      "text": "علي بن محمد بن عبد الله بن عبد الباقي التميمي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "babb4b59-2f60-4c67-b7e7-322f960b70a0",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 83,
+      "text": "ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 248,
+      "guid": "cfef2dba-342b-4093-b68b-207d1a403125",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 233,
+      "text": "المؤيد بن الأخوة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "d0b8e59f-455b-4d43-a22d-04af8f6a34af",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 294,
+      "text": "أبي بكر محمد بن أبي القاسم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "d911ae45-5dd2-4f2d-8d04-f4312af46ed6",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 111,
+      "text": "أبي إسحق بن الدرجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 550,
+      "guid": "f3389984-225b-48dc-bf34-0948329bf74f",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 485,
+      "text": "بدر الدين |محمد بن| أحمد بن إسماعيل بن عبد الرحمن بن مكي المارديني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء على الشيخ الإمام الحافظ أبي محمد القاسم بن محمد بن يوسف البرزالي عن ابن البخاري وابن أبي عصرون وأبي إسحق بن الدرجي بإجازة الأولين من شيوخهما المذكورين فيه وبإجازة ابن الدرجي من سعيد بن أبرويه وأحمد بن محمد الفاراقاني والمؤيد بن الأخوة وابني الصباغ وجمعة بنت سليم بسماعهم كلهم من أبي بكر محمد بن أبي القاسم إلا جمعة فبسماعها وسماع أبي المطهر وسعيد وابنته وابن أخته الصالحي ابني نصر بن سليم كلاهما عن أبي عمرو بن منده يوم الجمعة آخر رمضان من سنة سبع وثلاثين وسبعمية فسمعه بدر الدين |محمد بن| أحمد بن إسماعيل بن عبد الرحمن بن مكي المارديني وعلي بن محمد بن عبد الله بن عبد الباقي التميمي الحنبلي كتبه محمد بن عبد الله بن أحمد بن المحب عبد الله بن أحمد بن محمد بن إبراهيم"
+}

@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن الحسن بن أحمد البناء"
+      ],
+      "work_title": [
+        "مشيخة أبي غالب ابن البناء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 17"
+      ],
+      "classmark": [
+        "3739/1"
+      ],
+      "folio_number": [
+        "0r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 597,
+      "guid": "0506f5e4-ffa3-447f-b74a-f5c0978ab8a2",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 565,
+      "text": "عبد الله بن أحمد بن المحب المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 382,
+      "guid": "0dc32b90-bb61-4384-a251-fe07b848ef25",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 332,
+      "text": "شمس الدين أبي عبد الله محمد بن أحمد بن عثمان الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "2e266d80-96a1-4d09-9410-32abe2292442",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 87,
+      "text": "مجد الدين أبي الفداء إسماعيل بن محمد بن إسماعيل الحراني الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "hajibiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 689,
+      "guid": "54a85ebf-818e-4d39-8d66-84c9c2ba55dc",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 668,
+      "text": "المدرسة الحاجبية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 616,
+      "guid": "652aab4e-5b98-4a58-84ac-013062423cd0",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 605,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 550,
+      "guid": "66561945-a770-4538-a773-2f7a172a7eb1",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 513,
+      "text": "إبراهيم بن غازي بن يوسف الصفدي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "718"
+        ]
+      },
+      "endIndex": 665,
+      "guid": "7bf15d78-ecab-4c37-b6f2-a693c81c0a85",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 622,
+      "text": "يوم الأحد رابع شعبان سنة ثماني عشرة وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "a455e250-dec4-4410-8843-d23d6ba91bd3",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 199,
+      "text": "شمس الدين عبد الرحمن بن الشيخ أبي عمر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 510,
+      "guid": "c3f1bb92-9580-44af-a6c5-7ba579831f5d",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 446,
+      "text": "أبو عبد الله محمد بن إبراهيم بن علي بن محمد بن علي بن بقاء الملقن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "c6dcf813-906c-441e-b054-154dee34bda1",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 255,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 443,
+      "guid": "d06d0d63-b378-4b82-88b8-5c3b3e8e7a46",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 400,
+      "text": "نجم الدين عبد الرحمن بن حسين بن يحيى القبابي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ الإمام العالم العلامة البارع الأوحد العابد مفتي المسلمين مجد الدين أبي الفداء إسماعيل بن محمد بن إسماعيل الحراني الحنبلي نفع الله ببركته بسماعه فيه أصلا على شيخ الإسلام شمس الدين عبد الرحمن بن الشيخ أبي عمر المقدسي بسماعه من ابن طبرزد بقراءة الشيخ الإمام العالم الحافظ البارع الزاهد الورع حجة المحدثين شمس الدين أبي عبد الله محمد بن أحمد بن عثمان الذهبي سلمه الله الشيخ نجم الدين عبد الرحمن بن حسين بن يحيى القبابي وأبو عبد الله محمد بن إبراهيم بن علي بن محمد بن علي بن بقاء الملقن وإبراهيم بن غازي بن يوسف الصفدي الحنبلي وكاتب السماع عبد الله بن أحمد بن المحب المقدسي وابنه أبو بكر محمد وصح يوم الأحد رابع شعبان سنة ثماني عشرة وسبعماية بالمدرسة الحاجبية بدمشق [في الأصل الحجابية] وأجاز لهم مروياته الحمد لله وصلى الله على سيدنا محمد النبي وآله"
+}

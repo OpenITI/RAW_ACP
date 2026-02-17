@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96b"
+      ],
+      "folio_number": [
+        "79r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1769442294/1200/0/00000163.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00010967"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 310,
+      "guid": "375a22cd-6c91-4596-8da3-c60ad4ebc471",
+      "startIndex": 250,
+      "text": "عبد الرحمن ابن الحسين بن عبد الله الجَبَّاب التميمي ثم السعدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "553"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "4c92a589-3daf-4726-85d2-99d93ef3add6",
+      "startIndex": 209,
+      "text": "المحرم من سنة ثلاث وخمسين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "7ab84513-f0d5-4e4f-98d6-6bfe4a941e4d",
+      "startIndex": 23,
+      "text": "أبو محمد هبة الله بن يحيى بن علي بن حيدرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "hijaz",
+            "mecca",
+            "haram_al-sharif"
+          ]
+        ]
+      },
+      "endIndex": 172,
+      "guid": "ba7e331a-199a-41f1-a469-f6e3534f6a95",
+      "startIndex": 160,
+      "text": "المسجد الحرام",
+      "type": "place"
+    }
+  ],
+  "text": "قرأ عليَّ القاضي الأجل أبو محمد هبة الله بن يحيى بن علي بن حيدرة جعله الله من العلماء الراسخين ونفعه بما علمه من علوم الدين هذه المجلدة جميعها قراءة تثبت وضبط بالمسجد الحرام زاد الله في تشريفه وتعظيمه وذلك في المحرم من سنة ثلاث وخمسين وخمس مائة وكتب عبد الرحمن ابن الحسين بن عبد الله الجَبَّاب التميمي ثم السعدي في الخامس من المحرم من السنة المذكورة والحمد لله كثيرا وصلواته على سيدنا محمد نبيه وآله الأبرار صح."
+}

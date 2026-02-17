@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الجزء فيه من حديث أبي عمرو عثمان بن محمد بن عبد الله المحمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أبو عمر عثمان بن محمد بن عبد الله المحمي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "212"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f219.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f219.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "0666e4f1-7198-4db0-9934-f6211c4841be",
+      "index": 213,
+      "isZeroPoint": false,
+      "startIndex": 53,
+      "text": "علم الدين القاسم بن محمد بن يوسف البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "0c0c050d-425c-47b7-b142-9525dd89d47e",
+      "index": 218,
+      "isZeroPoint": false,
+      "startIndex": 295,
+      "text": "ابن الشهرزوري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "34f3186a-755f-454e-8c9a-7a53eda41cdc",
+      "index": 217,
+      "isZeroPoint": false,
+      "startIndex": 268,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 468,
+      "guid": "5bd827cf-2b62-4876-970c-44943da8d0ff",
+      "index": 222,
+      "isZeroPoint": false,
+      "startIndex": 428,
+      "text": "أحمد بن عبد الله بن منصور الحراني الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "5d012e5e-0902-4f9d-84bc-7c64563f415e",
+      "index": 216,
+      "isZeroPoint": false,
+      "startIndex": 213,
+      "text": "أم أحمد زينب بنت مكي بن علي بن كامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "6babea98-9c28-4d08-80a1-388c479291da",
+      "index": 219,
+      "isZeroPoint": false,
+      "startIndex": 318,
+      "text": " المحمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "7ce1e03c-9574-496c-ba64-d5d7406601d2",
+      "index": 214,
+      "isZeroPoint": false,
+      "startIndex": 119,
+      "text": "فخر الدين علي بن أحمد بن عبد الله |الواحد| المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 421,
+      "guid": "8150f47a-7aa9-4ad6-8872-f13e8ada64b6",
+      "index": 221,
+      "isZeroPoint": false,
+      "startIndex": 407,
+      "text": "كلاسة جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "731"
+        ]
+      },
+      "endIndex": 404,
+      "guid": "8c5b162a-e45e-4f5f-8601-8c3d9d95b9ba",
+      "index": 220,
+      "isZeroPoint": false,
+      "startIndex": 342,
+      "text": " في يوم الأحد الثامن عشر من ربيع الأول سنة إحدى وثلاثين وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 551,
+      "guid": "96b107fb-e148-4ff4-9145-eae264b3b1b7",
+      "index": 223,
+      "isZeroPoint": false,
+      "startIndex": 493,
+      "text": "برهان الدين إبراهيم بن علي بن محمد بن سعيد الهلالي الغرناطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "feea8400-ad6a-4e6d-a501-5b5dc0b01e46",
+      "index": 215,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "بدر الدين أحمد بن شيبان بن تغلب الشيباني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء على الشيخ الإمام العلامة الحجة العمدة علم الدين القاسم بن محمد بن يوسف البرزالي قال أنا المشايخ الثلاثة فخر الدين علي بن أحمد بن عبد الله |الواحد| المقدسي وبدر الدين أحمد بن شيبان بن تغلب الشيباني وأم أحمد زينب بنت مكي بن علي بن كامل الحراني بسماعهم من ابن طبرزد بسماعه من القاضي ابن الشهرزوري بسماعه من المحمي عن شيوخه وصح ذلك في يوم الأحد الثامن عشر من ربيع الأول سنة إحدى وثلاثين وسبعمئة بكلاسة جامع دمشق وكتب أحمد بن عبد الله بن منصور الحراني الشافعي\nوسمع هذا الجزء بقراءتي برهان الدين إبراهيم بن علي بن محمد بن سعيد الهلالي الغرناطي ألحقه أحمد الحراني"
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو جعفر محمد بن عمرو ابن البختري الرزاز "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي جعفر محمد بن عمرو ابن البختري الرزاز "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 161"
+      ],
+      "classmark": [
+        "3768/3"
+      ],
+      "folio_number": [
+        "73r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "0c8e4a59-ac35-447f-a51d-8753169c62e8",
+      "startIndex": 249,
+      "text": "سليمان بن إبراهيم بن هبة الله بن رحمة السعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "614"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "4b285991-bb82-44b1-9b3f-9c442912037b",
+      "startIndex": 307,
+      "text": "الثلثاء سابع وعشرين شعبان سنة أربع عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "73433f34-931e-4443-bc4d-eb3172a13747",
+      "startIndex": 55,
+      "text": "أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 379,
+      "guid": "7c375b62-8390-4bd2-ac98-282145acbd6f",
+      "startIndex": 356,
+      "text": "حلقة الحنابلة بجامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "8fcb8b05-090c-4f14-8324-ed36bd008154",
+      "startIndex": 194,
+      "text": "أبو الحسن بن أبي القاسم بن محمد البعقوبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "b5483bca-a491-4e63-ac32-84859a2bad98",
+      "startIndex": 123,
+      "text": "عبد الرحمن بن شحانة الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "e8193fc1-631c-40de-b7d5-74c78e176aa4",
+      "startIndex": 157,
+      "text": "علي بن الحسن بن علي الحنبلي الدمشقي ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع الجزء الرابع من حديث البختري على الشيخ الإمام أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي بحق سماعه بقراءة عبد الرحمن بن شحانة الحراني الشيخ علي بن الحسن بن علي الحنبلي الدمشقي وأبو الحسن بن أبي القاسم بن محمد البعقوبي ومثبت الأسماء سليمان بن إبراهيم بن هبة الله بن رحمة السعردي وصح ذلك يوم الثلثاء سابع وعشرين شعبان سنة أربع عشرة وستمائة بحلقة الحنابلة بجامع دمشق والحمد لله وحده وصلى الله على محمد وآله وسلم"
+}

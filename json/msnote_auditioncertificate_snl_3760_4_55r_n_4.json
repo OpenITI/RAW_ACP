@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج4"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 112"
+      ],
+      "classmark": [
+        "3760/4"
+      ],
+      "folio_number": [
+        "55r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "4c7c6e7a-c8a5-438d-a75f-fd56057435bb",
+      "startIndex": 107,
+      "text": "أم الحياء زهرة بنت محمد بن أحمد بن حاضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 35,
+      "guid": "9d5f1d71-4b08-459a-a489-767588343ded",
+      "startIndex": 9,
+      "text": "تجني بنت عبد الله الوهبانية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "bb1d64d0-65c4-408b-beaa-20fc38850d0d",
+      "startIndex": 86,
+      "text": "إبراهيم بن [المعاز؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "da6bb58b-167b-4378-ac66-4fe824a0fc00",
+      "startIndex": 51,
+      "text": "ابن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "563"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "f27c5d82-7cc1-4c1b-b32e-a1015ce7dc56",
+      "startIndex": 156,
+      "text": " يوم الأربعاء السابع والعشرين من ذي الحجة سنة ثلث وستين وخمس ماية",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه من تجني بنت عبد الله الوهبانية بحق سماعها من ابن طلحة وكذلك الجزء الثاني بقراءة إبراهيم بن [المعاز؟] أم الحياء زهرة بنت محمد بن أحمد بن حاضر وجماعة في يوم الأربعاء السابع والعشرين من ذي الحجة سنة ثلث وستين وخمس ماية"
+}

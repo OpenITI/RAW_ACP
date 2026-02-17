@@ -1,0 +1,521 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد إبن موسى إبن مردويه"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " تفسير المسند"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Oct. 1483"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1669078205/1200/0/00000052.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00017902"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "03c5981f-be24-4b0f-a765-ffcc72b95432",
+      "startIndex": 49,
+      "text": "أبي هاشم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 595,
+      "guid": "094e1f67-fd0a-4468-9c17-701d7c7a43a5",
+      "startIndex": 586,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "18a6cb0e-39c3-48e8-9718-c5beb3ee7da2",
+      "startIndex": 283,
+      "text": "شمس الدين المظفر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "1a617b29-3cec-4be7-be90-123397b27dbb",
+      "startIndex": 138,
+      "text": "مودود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "1c63dd82-a2a9-43d8-a670-801bdbe7a2cc",
+      "startIndex": 76,
+      "text": "شهاب الدين أبي القاسم إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 825,
+      "guid": "1d3050aa-78a7-4e6f-9659-0fa17e5edbb7",
+      "startIndex": 781,
+      "text": "تقي الدين إبراهيم بن محمد بن الأزهر الصريفيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 256,
+      "guid": "3641f8ad-7adc-4cb1-81b4-5f3b9dbe137c",
+      "startIndex": 242,
+      "text": "جمال الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 483,
+      "guid": "4510e46f-d456-4f69-80d9-855c3c038378",
+      "startIndex": 470,
+      "text": "أبو منصور محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "47896caf-bb2d-440a-a869-6467555851d0",
+      "startIndex": 301,
+      "text": "علاء الدين علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 410,
+      "guid": "5e290825-2db0-41f9-813f-f656c4bb1047",
+      "startIndex": 396,
+      "text": "شهاب الدين حيدر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "5e8edab6-0bfc-4b99-a9b3-52a3a7850112",
+      "startIndex": 379,
+      "text": "عماد الدين يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 370,
+      "guid": "639f4826-0949-43e4-bb4a-e0d8a9acf015",
+      "startIndex": 357,
+      "text": "نور الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "6726d3b7-f9a4-4187-bf59-64deefb1f8eb",
+      "startIndex": 180,
+      "text": "نظام الدين مفتي الشريعة أبو الفضل إسحق بن الإمام المطهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 759,
+      "guid": "67c410e9-9cba-40ad-8b83-f304cf1da3f1",
+      "startIndex": 726,
+      "text": "محمد بن محمد بن محمد بن علي بن حسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 657,
+      "guid": "71a7b027-de8b-4aa2-a138-43851d7eda99",
+      "startIndex": 631,
+      "text": "علي بن المؤيد بن أبي القاسم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "81929243-e379-4309-ae75-44976d6cbbf4",
+      "startIndex": 111,
+      "text": "نجيب الدين عبد العظيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 583,
+      "guid": "8e0f5fc4-2bf9-4ee7-b2eb-4b962f722bb9",
+      "startIndex": 574,
+      "text": "عبد الرشيد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 628,
+      "guid": "9484a58b-b8c5-48f8-844f-d70616581884",
+      "startIndex": 614,
+      "text": "عبد الله بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "612"
+        ]
+      },
+      "endIndex": 882,
+      "guid": "aaf2e63e-9ba0-467d-a247-40fdeb9f9e5a",
+      "startIndex": 830,
+      "text": "يوم الخميس التاسع ربيع الأول سنة [اثنتي عشرة] وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 669,
+      "guid": "b69592f3-de82-4699-80b2-de04dd68a43d",
+      "startIndex": 666,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 502,
+      "guid": "b872b82d-eea7-456c-92d4-1a0cc5af6a23",
+      "startIndex": 486,
+      "text": "أبو عبد الله محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 679,
+      "guid": "bb3f9e8b-31d4-42af-9e58-62cdf11bd05d",
+      "startIndex": 672,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "c49de044-7a2c-4516-afed-4b32b363d799",
+      "startIndex": 259,
+      "text": "شرف الدين المطهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 565,
+      "guid": "c8ff90ab-186f-4c85-96f9-39fa9a17b71d",
+      "startIndex": 556,
+      "text": "عبد الحميد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 531,
+      "guid": "d540cf68-75f1-4881-844e-dd6bd54459b8",
+      "startIndex": 512,
+      "text": "أبو عبد الرحمن [أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع الجزؤ جميعه على المشايخ المذكورين وعلى كاتبه أبي هاشم منهم الصدر الكبير شهاب الدين أبي القاسم إسماعيل وعلى نجيب الدين عبد العظيم وعلى مودود بسماعهما المبين الصدر الكبير الإمام نظام الدين مفتي الشريعة أبو الفضل إسحق بن الإمام المطهر وابنه جمال الدين محمد وشرف الدين المطهر وأخواه شمس الدين المظفر وعلاء الدين علي بنو الإمام شرف الدين محمد المطهر والإمام نور الدين محمد وأخواه عماد الدين يحيى وشهاب الدين حيدر بنوا الإمام جمال الدين محمد بن عبد المؤمن الشفروه وأولادي أبو منصور محمد وأبو عبد الله محمد وأخوهما أبو عبد الرحمن [أحمد] بنو أبي هاشم المذكور وعبد الحميد وأخواه عبد الرشيد وعبد الرحمن بنوا عبد العظيم وعبد الله بن عمر وعلي بن المؤيد بن أبي القاسم وأخواه محمد وعبد الله ابنا أبي بكر بن محمد بن أبي القاسم الخوانجي ومحمد بن محمد بن محمد بن علي بن حسن بقراءة صاحبه الإمام تقي الدين إبراهيم بن محمد بن الأزهر الصريفيني في يوم الخميس التاسع ربيع الأول سنة [اثنتي عشرة] وستمائة."
+}

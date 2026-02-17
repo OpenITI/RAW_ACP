@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن محمد بن عبد الله بن بشران "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "إسلام كعب بن زهير وقصيدته"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 150"
+      ],
+      "classmark": [
+        "3765/14"
+      ],
+      "folio_number": [
+        "132r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "2ad9c3b7-b9bd-4040-92c0-875913e595ab",
+      "startIndex": 185,
+      "text": "جمال الدين المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "a8a05b3d-6d05-4cde-aa5f-4eb780d7942b",
+      "startIndex": 224,
+      "text": "يوسف بن محمد السرمري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "694"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "bc441ca8-c753-4514-b8df-edaf43eaccdb",
+      "startIndex": 102,
+      "text": "الإثنين الثامن المحرم سنة أربع وتسعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "e1e79910-58e8-484e-a51b-813673446a08",
+      "startIndex": 22,
+      "text": "أحمد بن مظفر النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "e35a91e6-3861-4769-8b07-d3ef19ebbbe7",
+      "startIndex": 44,
+      "text": "محمد بن أحمد بن عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "baalbek"
+          ]
+        ]
+      },
+      "endIndex": 158,
+      "guid": "f52318e0-e24e-4949-b8f9-e475fce51a69",
+      "startIndex": 148,
+      "text": "مدينة بعلبك",
+      "type": "place"
+    }
+  ],
+  "text": "[وسمعـ]ـه عليه بقراءة أحمد بن مظفر النابلسي محمد بن أحمد بن عثمان وآخرون بفوت في مجلسين [ثانيهما] يوم الإثنين الثامن المحرم سنة أربع وتسعين وستمئة بمدينة بعلبك [نقله] أجمع من خط الإمام جمال الدين المزي الفقير إلى الله تعالى يوسف بن محمد السرمري عفا الله عنه"
+}

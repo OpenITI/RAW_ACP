@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد المؤمن الحراني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث بن كرامة ومن حديث طاهر بن خالد الايلي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1751"
+      ],
+      "folio_number": [
+        "42r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00066939"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-'alima"
+          ]
+        ]
+      },
+      "endIndex": 701,
+      "guid": "00e7bbee-e265-46a4-8459-a32b8ee5b26d",
+      "startIndex": 683,
+      "text": "دار الحديث العالمية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 382,
+      "guid": "01a74f58-7621-45f7-be2a-48970ec35882",
+      "startIndex": 363,
+      "text": "أحمد بن سامة بن كوكب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "2477f658-7953-4e49-a7d5-70a87e3bff1a",
+      "startIndex": 158,
+      "text": "الدينوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "6dcaa5c5-faf2-4fcf-bcd5-188977247e5a",
+      "startIndex": 65,
+      "text": "شمس الدين أبي عبد الله محمد بن عبد المنعم بن عمار بن هامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 359,
+      "guid": "6fddeaac-6983-41fd-8d08-828c0216faee",
+      "startIndex": 331,
+      "text": "أحمد بن سعيد ابن وحيش بن شبيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 478,
+      "guid": "7200f8da-7328-4809-a3ec-4dcc9c223063",
+      "startIndex": 427,
+      "text": "يوم الثلاثاء في العاشر من رجب سنة ثلاث وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "7abba4f3-2aec-4d52-a9a3-819fd9a6f6cb",
+      "startIndex": 173,
+      "text": "زين الدين عبد الله بن الشيخ ناصح الدين عبد الرحمن بن نجم الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 327,
+      "guid": "89b06d6e-a3bb-47da-98be-810cadc166e4",
+      "startIndex": 272,
+      "text": "أحمد بن بهاء الدين أبي القاسم محمد بن جعفر بن جيش الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 488,
+      "guid": "92c7635f-fbc8-4cc2-b56c-3dce8cc04b24",
+      "startIndex": 485,
+      "text": "لؤلؤ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "c08ae836-24fd-4280-a9f0-e35a03dcc9de",
+      "startIndex": 251,
+      "text": "عيسى بن هارون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 247,
+      "guid": "fcd82946-b3e9-414f-9293-eeb89cf89e12",
+      "startIndex": 245,
+      "text": "علي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم الزاهد المتقن المفيد شمس الدين أبي عبد الله محمد بن عبد المنعم بن عمار بن هامل الحراني رضي الله عنه بروايته له عن الدينوري فسمعه زين الدين عبد الله بن الشيخ ناصح الدين عبد الرحمن بن نجم الحنبلي، وولده علي، وعيسى بن هارون، وفتاه أحمد بن بهاء الدين أبي القاسم محمد بن جعفر بن جيش الحلبي، وأحمد بن سعيد ابن وحيش بن شبيب، وأحمد بن سامة بن كوكب وهو مثبت الأسماء |والقارئ| وصح ذلك وثبت في يوم الثلاثاء في العاشر من رجب سنة ثلاث وستين وستمائة وسمع لؤلؤ |لهذا الجزء| فتا بهاء الدين أبي القاسم محمد بن جعفر بن جيش الحلبي مع الجماعة بالقراءة والتاريخ وكتب أحمد بن سامة بن كوكب والحمد لله وحده وصلى الله على محمد وآله وصحبه وسلم تسليماً وكان السماع بدار الحديث العالمية."
+}

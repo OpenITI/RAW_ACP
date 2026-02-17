@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن بن شاذان السكري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي الحسن السكري وأماليه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/19"
+      ],
+      "folio_number": [
+        "249v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          ""
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "0cdc3101-d2fb-4687-ab32-2635fe5f5b59",
+      "startIndex": 243,
+      "text": "سعد الدين أبي محمد مسعود بن زيد الحارثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 481,
+      "guid": "1355cd8e-a4e7-4a9c-af14-b88b44286c09",
+      "startIndex": 435,
+      "text": "أبو بكر بن الشرف حسن بن أبي الفتح بن أبي الثابت",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "1bbff8fd-5b91-4276-a118-929a104dc8f0"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "142d216a-1afc-4f5d-949e-4c04b60d3f2d",
+      "startIndex": 297,
+      "text": "شمس الدين أبو عبد الله محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 432,
+      "guid": "5ec7c055-fe07-4d2a-b631-d4cba3133aaf",
+      "startIndex": 396,
+      "text": "يوسف بن حسين بن أبي [البدر؟] الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "c8e5df95-710e-4cec-bdb8-272fde259c61"
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "5fa2204d-cedd-4e8d-97aa-b91656db17f9",
+      "startIndex": 125,
+      "text": "أبي حفص عمر بن محمد بن معمر بن طبرزد البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "02d6a851-d759-4db1-b53d-186bdab1a65c"
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 537,
+      "guid": "8673dab3-93ab-46a5-8fb8-087aecbc09a1",
+      "startIndex": 484,
+      "text": "عبد الحافظ بن عبد المنعم بن غازي بن عمر بن علي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 661,
+      "guid": "916e9f99-7d00-4351-b546-cf063c94a5ff",
+      "startIndex": 618,
+      "text": "الدير الصالحين بمنزل المسمعة بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "674"
+        ]
+      },
+      "endIndex": 615,
+      "guid": "9bcae015-88ea-4792-bfa2-beb07257e92b",
+      "startIndex": 564,
+      "text": "يوم الثلثا سابع جمادى الآخرة سنة أربع وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "a3626dc9-50b6-4921-8bfb-c9d75bbdba3c",
+      "startIndex": 55,
+      "text": "أم أحمد زينب بنت مكي بن علي بن كامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "da4940aa-44ce-40db-899d-078c73dba342",
+      "startIndex": 371,
+      "text": "عمر بن خضر بن عبد الولي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخة الجليلة الصالحة الزاهدة أم أحمد زينب بنت مكي بن علي بن كامل الحراني أثابها الله بحق سماعها من أبي حفص عمر بن محمد بن معمر بن طبرزد البغدادي في بيتها وإجازتها جميع ما يجوز له روايته بسنده فيه بقراءة الإمام الفاضل سعد الدين أبي محمد مسعود بن زيد الحارثي الإمام الفاضل شمس الدين أبو عبد الله محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري وعمر بن خضر بن عبد الولي ويوسف بن حسين بن أبي [البدر؟] الأنصاري وأبو بكر بن الشرف حسن بن أبي الفتح بن أبي الثابت وعبد الحافظ بن عبد المنعم بن غازي بن عمر بن علي المقدسي وهذا خطه وصح ذلك وثبت في يوم الثلثا سابع جمادى الآخرة سنة أربع وسبعين وستماية بالدير الصالحين بمنزل المسمعة بسفح جبل قاسيون والحمد لله حق حمده وصلى الله على سيدنا محمد وآله "
+}

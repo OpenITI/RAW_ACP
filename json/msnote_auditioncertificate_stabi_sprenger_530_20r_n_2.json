@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن موسى الحازمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الاعتبار في الناسخ والمنسوخ في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 530"
+      ],
+      "folio_number": [
+        "20r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        "1b64cb20-5142-4c00-bd68-014c90adb3b2"
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011406"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 924,
+      "guid": "2433ea06-da1a-4bb4-a12e-9d473500a174",
+      "startIndex": 838,
+      "text": "صحيح ذلك بتاريخه كتبه علي ابن سيد الكل العشرين من جمادى الآخر سنة ثلاث وثمانين وستمائة.",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          "8377a26c-27a3-425e-870d-e2234a8b4edd"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 254,
+      "guid": "3941bac4-b6fa-4051-8987-313c259b4dac",
+      "startIndex": 204,
+      "text": "محمد بن عبد الحميد بن عبد الله بن خلف القرشي المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 447,
+      "guid": "3a3758cb-fb5b-4901-b6c3-64581003b93f",
+      "startIndex": 386,
+      "text": "تاج الدين [أحمد؟] بن العدل جمال الدين محمد بن عبد الله بن حسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "4ccb5b67-d1fd-441e-a96f-e9c2189bd838",
+      "startIndex": 267,
+      "text": "جلال الدين محمد بن إسماعيل بن موسى بن نصر الحسيني المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "damietta",
+            "hanut_al-shuhud"
+          ]
+        ]
+      },
+      "endIndex": 724,
+      "guid": "4f101a09-2d33-411e-b85a-9678e8042e26",
+      "startIndex": 696,
+      "text": "حانوت الشهود بعدوة ثغر [دمياط",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "62182847-3e67-49c4-9a62-69edbbdc9e6b",
+      "startIndex": 181,
+      "text": "الحازمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "7bc1cba0-522a-4dd9-90c4-873f3b0aea73",
+      "startIndex": 64,
+      "text": "علي بن ياسين بن سيد الكل التوني الدمياطي ...",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "86f31cdb-a628-4951-ade4-d96059ce6109",
+      "startIndex": 120,
+      "text": " نور الدين أبي المكارم عبد الله بن الحسن الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 589,
+      "guid": "b2e92e3b-b2f8-436e-9898-55a01fec0f16",
+      "startIndex": 541,
+      "text": "أحمد بن الخطيب بدر الدين عبد الله [...] أبي حذيفة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 795,
+      "guid": "d55d8ab4-348f-4e13-ab78-2370cbef4c83",
+      "startIndex": 735,
+      "text": "يوم الأحد العشرين من شهر جمادى الآخر سنة ثلاث وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 382,
+      "guid": "f0fc1d4e-4217-4efa-b94e-b7262bb2c199",
+      "startIndex": 331,
+      "text": "شهاب الدين أحمد بن أبي العباس بن مري المناوي الفيومي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع من أول هذا الجزء إلى كتاب الصلاة على الشيخ الأجل العدل [... علي بن ياسين بن سيد الكل التوني الدمياطي ...]، بسماعه من نور الدين أبي المكارم عبد الله بن الحسن الدمياطي، بسماعه من الحازمي المؤلف، بقراءة محمد بن عبد الحميد بن عبد الله بن خلف القرشي المصري، وهذا خطه، جلال الدين محمد بن إسماعيل بن موسى بن نصر الحسيني المصري، والأخ شهاب الدين أحمد بن أبي العباس بن مري المناوي الفيومي، وتاج الدين [أحمد؟] بن العدل جمال الدين محمد بن عبد الله بن حسين، [...] إلى آخر كتاب الطهارة [...] الفقيه الأجل زين الدين يوسف بن محمد بن علي [...]، والمعين أحمد بن الخطيب بدر الدين عبد الله [...] أبي حذيفة، وأجاز الشيخ المسمع [للسادة] المذكورين في الطبقة جميع ما يجوز له [روايته] بشرطه، والحمد لله وحده [...]، بحانوت الشهود بعدوة ثغر [دمياط] المحروس يوم الأحد العشرين من شهر جمادى الآخر سنة ثلاث وثمانين وستمائة وصلى الله على سيدنا محمد وعلى آله وصحبه.\nصحيح ذلك بتاريخه كتبه علي ابن سيد الكل العشرين من جمادى الآخر سنة ثلاث وثمانين وستمائة."
+}

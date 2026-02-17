@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "146v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 155,
+      "guid": "122d2bae-9300-4e06-b7d6-ca676c8ba089",
+      "index": 116,
+      "isZeroPoint": false,
+      "startIndex": 147,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "32a2b204-65a3-4146-9f43-ceb73e60c3ce",
+      "index": 114,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": " النجم ابن النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 48,
+      "guid": "4b03308e-eeaa-4d92-9901-b861a121dbb0",
+      "index": 113,
+      "isZeroPoint": false,
+      "startIndex": 32,
+      "text": "سيف الدين أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "99a4a15c-054f-4feb-81c6-50339b1febeb",
+      "index": 117,
+      "isZeroPoint": false,
+      "startIndex": 189,
+      "text": "إسماعيل بن يوسف بن عبد الله الحبال البعلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "744"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "bc7d555c-223d-42b5-8941-60f976a5fddf",
+      "index": 115,
+      "isZeroPoint": false,
+      "startIndex": 94,
+      "text": "يوم السبت حادي عشر ذي قعدة سنة أربع وأربعين وسبعمية",
+      "type": "date"
+    }
+  ],
+  "text": " قرأت هذا الجزء جميعه على الشيخ سيف الدين أبي بكر المذكور بسماعه من النجم ابن النشبي بسنده في يوم السبت حادي عشر ذي قعدة سنة أربع وأربعين وسبعمية بجامع دمشق المحروسة وأجاز لي ما يرويه وكتب إسماعيل بن يوسف بن عبد الله الحبال البعلي"
+}

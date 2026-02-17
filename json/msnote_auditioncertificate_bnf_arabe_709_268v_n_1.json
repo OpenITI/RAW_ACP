@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/76600419"
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 709"
+      ],
+      "folio_number": [
+        "268v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f271.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f271.item.r=%22Arabe%20709%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "578"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "22f27848-c54f-4b1a-89e4-560b7381df0b",
+      "index": 111,
+      "isZeroPoint": false,
+      "startIndex": 221,
+      "text": "رجب من سنة ثمان وسبعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "2946a7cd-4b82-4ac9-8fae-5e04440dfa8f",
+      "index": 109,
+      "isZeroPoint": false,
+      "startIndex": 89,
+      "text": "أبي الحسن علي بن أحمد بن محمد بن كوثر المحاربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "7bf5eab6-773b-42d3-b068-43699216947e",
+      "index": 110,
+      "isZeroPoint": false,
+      "startIndex": 161,
+      "text": "عمر بن عبد المجيد بن عمر الأزدي ثم الرندي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الكتاب على صاحبه الشيخ الأجل الفقيه الأستاذ المقرئ الأفضل الراوية الناقد المحدث أبي الحسن علي بن أحمد بن محمد بن كوثر المحاربي رضي الله عنه وكتب القارئ عمر بن عبد المجيد بن عمر الأزدي ثم الرندي عفا الله عنه [في] رجب من سنة ثمان وسبعين وخمس ماية."
+}

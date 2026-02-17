@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الحسين بن عبد الله الآجري البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "التصديق بالنظر إلى الله تعالى في الآخرة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 151"
+      ],
+      "classmark": [
+        "3765/18"
+      ],
+      "folio_number": [
+        "200v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "705"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "192aba6e-715b-413d-8dc1-5d4a797f1d23",
+      "startIndex": 196,
+      "text": "السبت عاشر شهر ربيع الآخر سنة خمس وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "qabat_mosque"
+          ]
+        ]
+      },
+      "endIndex": 253,
+      "guid": "25dc03fa-3bc5-4470-98f1-796f63556c46",
+      "startIndex": 240,
+      "text": "مسجد قباث بحلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 40,
+      "guid": "2788bbf1-8b0c-4e19-8adf-49268e71871b",
+      "startIndex": 9,
+      "text": "أبي سعيد سنقر بن عبد الله الزيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "2d0c001b-27a2-4c37-87dc-7ac3769eb658",
+      "startIndex": 125,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "78d95db6-b9bb-4902-8c8d-54791282888c",
+      "startIndex": 82,
+      "text": "محمد بن عبد الكريم بن يوسف ابن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "92bf5961-b114-4c66-aa76-e31c28d35a04",
+      "startIndex": 52,
+      "text": "الفخر الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "9a0d91df-9dc4-4e10-ab65-3628a34b1fea",
+      "startIndex": 260,
+      "text": "عبد الرحيم بن الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "af374a07-f93c-427d-b733-fd92d6bd6a74",
+      "startIndex": 73,
+      "text": "المقاتلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "cd35d234-816b-4779-b33b-31e4a310952b",
+      "startIndex": 142,
+      "text": "فاطمة",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على أبي سعيد سنقر بن عبد الله الزيني بسماعه من الفخر الإربلي بقراءة المقاتلي محمد بن عبد الكريم بن يوسف ابن العجمي وحضر محمد في الثالثة وفاطمة في الخامسة ابنا عمر بن الحسن بن عمر بن حبيب يوم السبت عاشر شهر ربيع الآخر سنة خمس وسبعمائة بمسجد قباث بحلب نقله عبد الرحيم بن الحسين من المجلد الثالث من ثبت ابن حبيب بحلب"
+}

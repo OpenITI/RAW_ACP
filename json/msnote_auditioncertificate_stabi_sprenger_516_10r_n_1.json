@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الفضل محمد بن احمد بن محمد الجارودي الهروي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من رواية ابن العالي وغيره بانتقاء ابي الفضل الجارودي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 516"
+      ],
+      "folio_number": [
+        "10r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011392"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "236471fe-0668-4194-afb0-9e48bd11450e",
+      "startIndex": 161,
+      "text": "رشيد الدين أبي عبد الله محمد بن أبي القاسم عبد الله بن عمر بن أبي القاسم المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 768,
+      "guid": "383faa30-e041-48d7-ab6b-b926ff6fa7cd",
+      "startIndex": 743,
+      "text": "أرسلان ابن عبد الله الرومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "39614d98-a4f9-426d-a22e-a0c10ea7f23b",
+      "startIndex": 59,
+      "text": "أبي إسماعيل عبد الله بن محمد بن علي الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 871,
+      "guid": "4c99aa3e-7d12-4316-b657-bd68d28e471a",
+      "startIndex": 827,
+      "text": "محمد بن يوسف بن أبي الحسن بن أبي الرضا الآدمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 929,
+      "guid": "72d9a7fd-b2e3-4d67-a32d-546427ffb0e6",
+      "startIndex": 874,
+      "text": "أبو العلاء محمود بن أبي بكر بن أبي العلاء الفرضي البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 470,
+      "guid": "86d1d324-6336-416e-9c9a-8ff0bc829d0b",
+      "startIndex": 420,
+      "text": "جمال الدين أبي بكر أحمد بن علي بن عبد الله القلانسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 588,
+      "guid": "895bc148-5ec9-42bf-94c4-b7bbf98c624d",
+      "startIndex": 521,
+      "text": "سعد الدين أبو محمد سعد الله بن عبد الأحد بن سعد الله بن بخيخ الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1-3"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 1013,
+      "guid": "9812fafa-560e-4463-8cdd-97bd9d75d9b9",
+      "startIndex": 958,
+      "text": "الخميس مستهل ذي الحجة الحرام من سنة ثلاث وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "ribat_al-arjuaniya"
+          ]
+        ]
+      },
+      "endIndex": 1066,
+      "guid": "a04ba55f-d1b0-4c8e-884b-820a9879a539",
+      "startIndex": 1016,
+      "text": "منزل المسمع برباط الأرجوانية من درب زاخي شرقي بغداد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 643,
+      "guid": "a3a7e794-7ae3-4e1f-b756-8cad15658d98",
+      "startIndex": 615,
+      "text": "شمس الدين أبو الفضل عبد الأحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "cbd15168-742a-4232-bab2-3b52cc780f98",
+      "startIndex": 312,
+      "text": "أبي الحسن علي بن أبي بكر بن روزبة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 735,
+      "guid": "e4c5b027-a31c-4a8b-a253-52a5403fbaa9",
+      "startIndex": 682,
+      "text": "عز الدين أبو المجدد ولد شاه بن سنجر بن عبد الله النجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 364,
+      "guid": "eb667608-e05d-47f1-bca3-29e4ee390b43",
+      "startIndex": 356,
+      "text": "أبي الوقت",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 1223,
+      "guid": "ef4f6e7c-060e-42d9-882f-f4139ff8b8ea",
+      "startIndex": 1149,
+      "text": "السماع والإجازة صحيحان وكتب محمد بن أبي القاسم المقرئ حامداً ومصلياً ومسلما",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 824,
+      "guid": "efdedcf5-96e4-4130-be85-8635470078b0",
+      "startIndex": 778,
+      "text": "أبو محمد الحسن بن علي بن عمر بن الهمذاني الخفاف",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء ويُعرف بابن العالي من رواية شيخ الإسلام أبي إسماعيل عبد الله بن محمد بن علي الأنصاري عنه وعن غيره على الشيخ الإمام العالم الفاضل الكامل العدل رشيد الدين أبي عبد الله محمد بن أبي القاسم عبد الله بن عمر بن أبي القاسم المقرئ حرس الله فضله بسماعه حضوراً وتراه منقولاُ في الوجهة المقابلة لهذه. على أبي الحسن علي بن أبي بكر بن روزبة بسماعه من أبي الوقت بسنده بقراءة الشيخ الإمام الحافظ المتقن المفيد الخطيب جمال الدين أبي بكر أحمد بن علي بن عبد الله القلانسي أدام الله نفعه الجماعة السيد الأجل الأوحد العالم سعد الدين أبو محمد سعد الله بن عبد الأحد بن سعد الله بن بخيخ الحراني وابنه النجيب صاحب النسخة شمس الدين أبو الفضل عبد الأحد عضده الله به، والأمير العالم المحترم عز الدين أبو المجدد ولد شاه بن سنجر بن عبد الله النجمي وفتاه أرسلان ابن عبد الله الرومي، والحاج أبو محمد الحسن بن علي بن عمر بن الهمذاني الخفاف ومحمد بن يوسف بن أبي الحسن بن أبي الرضا الآدمي وأبو العلاء محمود بن أبي بكر بن أبي العلاء الفرضي البخاري والسماع بخطه وصح وثبت ضحوة الخميس مستهل ذي الحجة الحرام من سنة ثلاث وثمانين وستمائة بمنزل المسمع برباط الأرجوانية من درب زاخي شرقي بغداد وأجاز المسمع للجماعة جميع ما يجوز له روايته وعنه أيضاً والحمد لله وحده وصح وثبت.\nالسماع والإجازة صحيحان وكتب محمد بن أبي القاسم المقرئ حامداً ومصلياً ومسلماً."
+}

@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "البخاري"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/154679127"
+      ],
+      "work_title": [
+        "منتخب حديث صحيح البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "93r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f96.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f96.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "1-3"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "645"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "3b9cbcfb-a478-4c55-bf19-ef37e242c86a",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 281,
+      "text": "المستهل من جمادى الأولى من سنة خمس وأربعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "750f2811-ff52-49c3-8958-abd86e1af937",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 227,
+      "text": "عثمان بن عمر بن الرَّبيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "9f6ef7bd-531c-49d6-bf64-9652ede487cb",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 124,
+      "text": "تقي الدين أحمد بن العز بن معاني بن سلامة الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "ccf3f349-7ce2-44d4-a39e-2a21b27121e1",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "عماد الدين أبي جعفر بن أبي محمد بن أبي جعفر البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "e2cb5edb-d22b-4a0e-b119-1f4c177dad21",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 43,
+      "text": "أبي الحسين ابن عبد الخالق بن عبد الله الكناني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-saqatiayn"
+          ]
+        ]
+      },
+      "endIndex": 340,
+      "guid": "e7d685ef-a01a-4d7c-b6f0-02abaef113cc",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 333,
+      "text": "السقطيين",
+      "type": "place"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ العامل الأديب أبي الحسين ابن عبد الخالق بن عبد الله الكناني بحق سماعه المنقول فيه بقراءة الأجل تقي الدين أحمد بن العز بن معاني بن سلامة الشافعي عماد الدين أبي جعفر بن أبي محمد بن أبي جعفر البغدادي وعثمان بن عمر بن الرَّبيب وهذا خطه وصح ذلك وثبت في يوم المستهل من جمادى الأولى من سنة خمس وأربعين وستمائة بالسقطيين"
+}

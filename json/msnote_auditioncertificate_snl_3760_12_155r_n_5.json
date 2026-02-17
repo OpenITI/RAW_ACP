@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/12"
+      ],
+      "folio_number": [
+        "155r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "aecbe717-0ba5-41b7-9266-c6451e117a64",
+      "startIndex": 79,
+      "text": "عبد اللطيف ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "565"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "b8609179-fba5-48d4-b556-594e31c0a694",
+      "startIndex": 165,
+      "text": "جمادى الأولى سنة خمس وستين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "c2861a7c-57ee-424a-8865-aa020f188a64",
+      "startIndex": 61,
+      "text": "يوسف الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "fe27d763-0544-40a6-9f47-7db4c97422d8",
+      "startIndex": 220,
+      "text": "ابن مشرف ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع هذا الجزء مع المضاف إليه وهو تمامه بخط عمي عليها بقراءة يوسف الموصلي ابنه عبد اللطيف وسمع حديث جرير قال قال رسول الله صلى الله عليه وسلم اللحد لنا [... ...] في جمادى الأولى سنة خمس وستين وخمسماية نقلت ذلك كله من خط ابن مشرف "
+}

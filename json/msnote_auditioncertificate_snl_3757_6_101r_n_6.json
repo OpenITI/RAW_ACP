@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن موسى الأشيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أبي علي الأشيب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        " FMMU 95"
+      ],
+      "classmark": [
+        "3757/6"
+      ],
+      "folio_number": [
+        "101r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "239c1e80-487d-43bf-b266-4be9f342e6f8",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 59,
+      "text": " علي بن مسعود الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "269a5710-9504-40a3-bdb7-361e11189c94",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 116,
+      "text": "عبد الله بن محمد بن نصر القيم أبوه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 208,
+      "guid": "5fa7732b-36e7-4c8b-a0b9-f74e6d63a6ac",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 200,
+      "text": "الضيائية ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "974e038e-b119-41d0-b6b2-e904ce227ddd",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 43,
+      "text": "الصيدلاني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 30,
+      "guid": "9aeb6e5a-042c-40ce-a8b5-25249bfe22bb",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "أبي الحسن بن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "b5abb030-cfd4-44fd-a353-34cbee7e6879",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "يوم الأحد ثامن ربيع الأول سنة تسع وسبعين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": " وسمعه على أبي الحسن بن البخاري بإجازته من الصيدلاني بقراءة علي بن مسعود الموصلي والسماع بخطه [.... ...] عبد [...] وعبد الله بن محمد بن نصر القيم أبوه يوم الأحد ثامن ربيع الأول سنة تسع وسبعين وستمية بالضيائية "
+}

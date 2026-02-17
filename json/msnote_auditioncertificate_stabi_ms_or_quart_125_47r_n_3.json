@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء الحادي عشر من حديث ابي سهل احمد بن محمد بن عبد الله بن زياد القطان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "47r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000095.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059154"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "2dcc6e6d-c277-48cf-8771-2aa7a92837d6",
+      "startIndex": 154,
+      "text": "سيف الدين أبي الحسن علي بن الرضي عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 435,
+      "guid": "4692557b-7095-4477-a8cb-9c03d5f7b5d4",
+      "startIndex": 400,
+      "text": "أحمد بن أبي بكر بن عبد الغني الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "685"
+        ]
+      },
+      "endIndex": 488,
+      "guid": "476b6840-b7ab-4e7f-91ae-1c48a187bc3f",
+      "startIndex": 447,
+      "text": "الأحد يوم عيد النحر سنة خمس وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "483906e6-b541-497c-b90a-79655f7caf83",
+      "startIndex": 92,
+      "text": "جمال الدين أبي العباس أحمد بن أبي محمد بن عبد الرزاق العطار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "73ca3b86-fcb4-4889-a4d1-e56575fde519",
+      "startIndex": 246,
+      "text": "موفق الدين بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 558,
+      "guid": "751eb734-c253-45de-b725-ec396fa12aa2",
+      "startIndex": 529,
+      "text": "يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 504,
+      "guid": "7944e82d-650d-4b33-b590-37a5b9824e93",
+      "startIndex": 491,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 396,
+      "guid": "7fdfc569-c1f6-4b01-b749-ccc505311094",
+      "startIndex": 346,
+      "text": "نور الدين أبو الحسن علي بن أبي بكر بن بحتر الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 277,
+      "guid": "8093641d-78d1-4700-8dea-6953dc86f35c",
+      "startIndex": 269,
+      "text": "ابن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 318,
+      "guid": "d67ac50c-3bd2-4373-89b3-4175e2a6b6b4",
+      "startIndex": 303,
+      "text": "أبي علي بن شاذان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 297,
+      "guid": "e8517940-170d-4ed2-ba47-7cee68981c95",
+      "startIndex": 283,
+      "text": "ابن أيوب البزار",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء الحادي عشر من حديث أبي سهل بن زياد القطان على الشيخين الجليلين المسندين جمال الدين أبي العباس أحمد بن أبي محمد بن عبد الرزاق العطار، وسيف الدين أبي الحسن علي بن الرضي عبد الرحمن بسماعهما فيه، والثاني حاضر في الخامسة، من الشيخ موفق الدين بن قدامة عن ابن البطي، عن ابن أيوب البزار، عن أبي علي بن شاذان، عنه، فسمعه الفقيه الإمام نور الدين أبو الحسن علي بن أبي بكر بن بحتر الأنصاري، وأحمد بن أبي بكر بن عبد الغني الحراني. وصح عشية الأحد يوم عيد النحر سنة خمس وثمانين وستمئة بالجامع المظفري بالجبل وأجازا لنا وكتب يوسف بن الزكي عبد الرحمن المزي عفا الله عنه."
+}

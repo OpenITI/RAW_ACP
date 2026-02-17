@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن علي بن عبد الله الطامذي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد الطامذي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 64 "
+      ],
+      "classmark": [
+        "3750/8"
+      ],
+      "folio_number": [
+        "99v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "031a7bf7-1937-4fd4-bed4-21c49d0bc030",
+      "index": 80,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "بدر الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "32e90d0d-b0c2-446c-86eb-660cad924c59",
+      "index": 77,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "شمس الدين محمد بن علي بن محمد ابن طولون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "salihiya_quarter"
+          ]
+        ]
+      },
+      "endIndex": 288,
+      "guid": "3964d05f-0ca7-47ed-9cc0-04361d7c7ad0",
+      "index": 83,
+      "isZeroPoint": false,
+      "startIndex": 254,
+      "text": "منزلنا بالسهم الأعلى من صالحية دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 379,
+      "guid": "854d79f2-f1b0-4e7a-b7d6-88ca52dad03d",
+      "index": 84,
+      "isZeroPoint": false,
+      "startIndex": 362,
+      "text": "يوسف بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "92f998ba-38b0-4d5b-b00e-5b1467d56eba",
+      "index": 78,
+      "isZeroPoint": false,
+      "startIndex": 92,
+      "text": "إبراهيم بن أحمد بن يوسف الفندقومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "897"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "9b6cf235-8d7b-46ff-ba82-5154929cac75",
+      "index": 82,
+      "isZeroPoint": false,
+      "startIndex": 184,
+      "text": "يوم السبت ثاني عشرين شهر رجب الفرد من شهور سنة سبع وتسعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "be724f57-d793-42b4-8054-1525a00a6569",
+      "index": 79,
+      "isZeroPoint": false,
+      "startIndex": 139,
+      "text": "عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "c4e61407-19d1-46c4-8e97-7e56e593fe74",
+      "index": 81,
+      "isZeroPoint": false,
+      "startIndex": 162,
+      "text": "عبد الله",
+      "type": "person"
+    }
+  ],
+  "text": " الحمد لله أنهاه قراءة عليَّ الولد شمس الدين محمد بن علي بن محمد ابن طولون فسمع غالبه الشيخ إبراهيم بن أحمد بن يوسف الفندقومي وبعضه أولادي عبد الهادي وبدر الدين وعبد الله وصح ذلك وثبت يوم السبت ثاني عشرين شهر رجب الفرد من شهور سنة سبع وتسعين وثمان ماية بمنزلنا بالسهم الأعلى من صالحية دمشق وأجزت لهم أن يرووه عني وجميع ما يجوز لي وعني روايته بشرطه عند أهله وكتب يوسف بن عبد الهادي"
+}

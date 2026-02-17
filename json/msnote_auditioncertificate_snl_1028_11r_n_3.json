@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "1028"
+      ],
+      "folio_number": [
+        "11r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "08a1afe9-48b5-4d26-ad5b-b2e05cc53743",
+      "startIndex": 38,
+      "text": "عبد الوهاب الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 35,
+      "guid": "3b3b2c96-bd26-419a-8d96-8be4283a288d",
+      "startIndex": 17,
+      "text": "سعيد بن أحمد البناء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "year": [
+          "477"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "eb0e1e5c-e30d-42c6-9846-c176b22f3829",
+      "startIndex": 62,
+      "text": "سبع وسبعين وأربعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 15,
+      "guid": "ed1d351f-b1de-45a7-aec5-02b155b7f314",
+      "startIndex": 9,
+      "text": "الزينبي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من الزينبي سعيد بن أحمد البناء وعبد الوهاب الأنماطي سنة سبع وسبعين وأربعمية"
+}

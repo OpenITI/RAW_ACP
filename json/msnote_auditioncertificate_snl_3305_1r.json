@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر أحمد بن علي بن ثابت الخطيب البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "اقتضاء العلم العمل"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "3305"
+      ],
+      "folio_number": [
+        "1r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "725"
+        ]
+      },
+      "endIndex": 596,
+      "guid": "1abd77ef-35d3-4363-b5f2-4b377aa3c2f1",
+      "startIndex": 546,
+      "text": "الأربعاء حادي عشر ربيع الآخر سنة خمس وعشرين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "22b09af0-070a-4073-b990-ed0bd263ef77",
+      "startIndex": 177,
+      "text": "الخشوعي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 534,
+      "guid": "365de934-758c-4f94-8372-1da65b7a5cf2",
+      "startIndex": 530,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "459daed2-0654-4ec6-8661-a4f0f44497de",
+      "startIndex": 215,
+      "text": "إسماعيل بن إبراهيم بن أبي اليسر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "69e2e732-1c3e-441b-86c0-ae6c5b6ce2ea",
+      "startIndex": 120,
+      "text": "محمد بن إبراهيم بن علي البابشرقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 467,
+      "guid": "7550e05b-6d26-4e03-b132-8dafe4848542",
+      "startIndex": 446,
+      "text": "كمال الدين محمد بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "9b454200-c949-4f86-b500-1f0990998079",
+      "startIndex": 196,
+      "text": "جلال الدين شاكر بن إسماعيل بن إبراهيم بن أبي اليسر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "bustan_salih-mosque"
+          ]
+        ]
+      },
+      "endIndex": 632,
+      "guid": "a2b7233a-bdf2-4307-ad30-4345fca1ec25",
+      "startIndex": 599,
+      "text": "بستان جوار مسجد جوار مسجد أبي صالح",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 513,
+      "guid": "a74fdaf7-ca94-46b4-8b62-0d7d326fd261",
+      "startIndex": 481,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "a7bf9ff6-7158-4a02-bab4-725969a4100a",
+      "startIndex": 15,
+      "text": "أبي إسحق إبراهيم بن علي بن عبد الجبار بن علي البابشرقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 513,
+      "guid": "ae18a00b-9f62-4e35-9a5b-9223095efb5b",
+      "startIndex": 489,
+      "text": "عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 384,
+      "guid": "af01147f-84df-4251-baff-003d615cdb84",
+      "startIndex": 372,
+      "text": "موسى الزهراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "dadf3302-ddb6-4934-b7cd-739d8b4d88e1",
+      "startIndex": 392,
+      "text": "سعيد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 434,
+      "guid": "e466c530-a3d5-4dcd-808d-14e5962538ec",
+      "startIndex": 398,
+      "text": "جمال الدين إبراهيم بن محمد ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 369,
+      "guid": "ef27af53-3485-40ca-888b-ae35c9ec1675",
+      "startIndex": 343,
+      "text": "محمد بن يحيى بن محمد بن سعد",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على الشيخ أبي إسحق إبراهيم بن علي بن عبد الجبار بن علي البابشرقي [الباب شرقي] المؤذن بمنارة الباب الشرقي بسماعه من محمد بن إبراهيم بن علي البابشرقي [الباب شرقي]، بسماعه من الخشوعي وعلى الشيخ جلال الدين شاكر بن إسماعيل بن إبراهيم بن أبي اليسر من قوله باب اغتنام الشبيبة والصحة والفراغ إلى آخر الكتاب بسماعه من أبيه عن الخشوعي بقراءة والدي محمد بن يحيى بن محمد بن سعد وموسى الزهراني وأخوه سعيد وجمال الدين إبراهيم بن محمد ابن النحاس وابن أخيه كمال الدين محمد بن علي وابن القارئ محمد بن عبد الله بن أحمد بن المحب وهذا خطه وأخوه أحمد وآخرون يوم الأربعاء حادي عشر ربيع الآخر سنة خمس وعشرين وسبعمية ببستان جوار مسجد جوار مسجد أبي صالح"
+}

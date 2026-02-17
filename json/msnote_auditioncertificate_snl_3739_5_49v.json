@@ -1,0 +1,295 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الفضل أحمد بن ملاعب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث ابن ملاعب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 18"
+      ],
+      "classmark": [
+        "3739/5"
+      ],
+      "folio_number": [
+        "49v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "015a6597-abda-4815-b40d-e5b326c35b41",
+      "startIndex": 221,
+      "text": "البختري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 425,
+      "guid": "2ad95f4c-dae8-45a8-900d-c43ec5508ebb",
+      "startIndex": 385,
+      "text": "عبد الرحمن بن عبد الله بن عبد الله الفراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 504,
+      "guid": "3e3d49cb-190d-456b-99cb-f9aea6857e4b",
+      "startIndex": 496,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "3f103040-e190-40eb-a26c-415ee3c6572c",
+      "startIndex": 188,
+      "text": "الخطيب الأنباري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1- 10"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "608"
+        ]
+      },
+      "endIndex": 552,
+      "guid": "6451e835-882d-4206-8903-7abc29f19344",
+      "startIndex": 509,
+      "text": "العشر الأول من جمادى الآخرة سنة ثمان وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "6e6896c5-f376-4867-bfd1-ac2a9979bb20",
+      "startIndex": 259,
+      "text": "برهان الدين أبي عبد الله محمد بن أحمد بن محمد المرادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 604,
+      "guid": "8b33b98b-24f0-46f4-a543-2fb4fc4ebba8",
+      "startIndex": 566,
+      "text": "علي بن سالم بن سلمان بن العرباني الحصني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 436,
+      "guid": "c3ffc312-c112-4241-9cf6-bba16474a715",
+      "startIndex": 433,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "d70ef6b3-306e-422f-b1ca-29f2abc2e2d5",
+      "startIndex": 174,
+      "text": "عبد الباقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "e2201af5-09d0-4bc1-a057-6733ff8ce24a",
+      "startIndex": 76,
+      "text": "موفق الدين أبو محمد عبد الله ابن أحمد بن محمد بن قدامة بن المقدام المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 476,
+      "guid": "e476ba2f-3200-46b1-b369-add263f1a3fa",
+      "startIndex": 439,
+      "text": "محمد بن عبد الله ابن عبد الرحمن النوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "e4c58088-b742-4581-9c77-4d141b18921c",
+      "startIndex": 208,
+      "text": "ا]بن مهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 382,
+      "guid": "e8c79c76-50fe-419b-b00b-bcf9d9743c29",
+      "startIndex": 324,
+      "text": "جمال الدين أبي زكريا يحيى بن أبي منصور بن أبي الفتح الحراني",
+      "type": "person"
+    }
+  ],
+  "text": " شاهدت على الأصل ما صورته مختصرا سمع جميع هذا الجزء على الشيخ الإمام العالم موفق الدين أبو محمد عبد الله ابن أحمد بن محمد بن قدامة بن المقدام المقدسي قدس الله روحه بسماعه من عبد الباقي عن الخطيب الأنباري عن [ا]بن مهدي عن البختري عنه وذلك بقراءة الفقيه المحدث برهان الدين أبي عبد الله محمد بن أحمد بن محمد المرادي جماعة منهم جمال الدين أبي زكريا يحيى بن أبي منصور بن أبي الفتح الحراني وعبد الرحمن بن عبد الله بن عبد الله الفراء وولده محمد ومحمد بن عبد الله ابن عبد الرحمن النوري والخط له وصح ذلك بجامع دمشق في العشر الأول من جمادى الآخرة سنة ثمان وستماية نقله من خطه علي بن سالم بن سلمان بن العرباني الحصني عفا الله عنه والضرب صحيح لأنه لم يكن في الأصل إلا اسمه لا غير يعلم ذلك والحمد لله وحده وصلواته على محمد وآله وصحبه وسلم تسليما كثيرا"
+}

@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "داود بن يزيد الأودي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند داود بن يزيد الأودي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "39r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f40.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f40.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "3b7d4a46-fb9d-41ad-92ee-dee637bceb24",
+      "index": 500,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "أبي الفتح المطهر بن محمد بن جعفر البيع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "49afcb51-0aa1-47d5-acd2-8981d53b6748",
+      "index": 502,
+      "isZeroPoint": false,
+      "startIndex": 125,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "61cd1252-2c86-4025-b43a-2ac0fdf54313",
+      "index": 501,
+      "isZeroPoint": false,
+      "startIndex": 96,
+      "text": "أحمد بن محمد [... ...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "6"
+        ],
+        "year": [
+          "472"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "b446dbfc-33d8-4ac8-a530-4413e7bb16d0",
+      "index": 503,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": " جمادى الآخرة سنة اثنتين وسبعين وأربع ماية",
+      "type": "date"
+    }
+  ],
+  "text": "سمع الجزء كله على الوجه من الشيخ الحافظ أبي الفتح المطهر بن محمد بن جعفر البيع حرسه الله بقراءة أحمد بن محمد [... ...] وابنه محمد في جمادى الآخرة سنة اثنتين وسبعين وأربع ماية"
+}

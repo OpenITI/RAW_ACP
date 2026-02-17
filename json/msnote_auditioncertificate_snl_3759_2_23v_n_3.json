@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن العزيز البغوي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حكايات أبي بسطام"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/2"
+      ],
+      "folio_number": [
+        "23v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "2305a8d9-954e-4cd1-a4d4-38ea80785bee",
+      "startIndex": 137,
+      "text": "عبد الرحمن بن حسن السبتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "405af900-c880-4486-94d5-52959233ff76",
+      "startIndex": 177,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "40a21e43-11d1-4917-9d09-0b353764308f",
+      "startIndex": 183,
+      "text": "عبد الكريم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "74f5ba50-6ae7-430a-886b-d9e60a2ea159",
+      "startIndex": 236,
+      "text": " يوم الخميس ثاني عشر صفر سنة ثمان وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "8860c69c-bd98-4230-b678-27a34a4ecc72",
+      "startIndex": 16,
+      "text": "شرف الدين أبي محمد عبد الملك بن عبد الكريم بن عبد الرحمن بن أحمد بن محمد بن عبد القاهر الطوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "busra",
+            "markaz_al-hukm"
+          ]
+        ]
+      },
+      "endIndex": 230,
+      "guid": "9fd278fb-fe86-4ad0-9f04-40cbe8f2839d",
+      "startIndex": 211,
+      "text": "مركزحكمه بمدينة بصرى",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "ee5411a8-f379-4da8-96af-e91c104ae719",
+      "startIndex": 289,
+      "text": "عبد الله بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "f10d4d61-a046-40ef-93d0-9503b77e6466",
+      "startIndex": 120,
+      "text": "ابن اللتي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على القاضي شرف الدين أبي محمد عبد الملك بن عبد الكريم بن عبد الرحمن بن أحمد بن محمد بن عبد القاهر الطوسي بسماعه من ابن اللتي بقراءة عبد الرحمن بن حسن السبتي ومن خطه اختصرت أحمد وعبد الكريم ابنا المسمع وصح بمركزحكمه بمدينة بصرى عشية يوم الخميس ثاني عشر صفر سنة ثمان وستين وستماية نقله عبد الله بن المحب من خط القارئ من نسخته بالنورية ولله الحمد \n\n"
+}

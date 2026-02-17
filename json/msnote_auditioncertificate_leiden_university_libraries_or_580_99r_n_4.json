@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "99r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 337,
+      "guid": "4d9feedd-12bd-4f72-a0d4-f571b78ab2d6",
+      "startIndex": 329,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "62d8506d-7b0f-4878-8cbf-31b2b9c98b61",
+      "startIndex": 68,
+      "text": "جمال الدين أبي حامد محمد بن الشيخ علم الدين أبي الحسن علي بن أبي الفتح محمود بن أحمد المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "7e66609c-8038-4935-9987-b9bfca89e2c1",
+      "startIndex": 236,
+      "text": "عبد الكريم بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "91bf0470-c01a-4b7f-ab91-88b736ec84bd",
+      "startIndex": 202,
+      "text": "أبي القاسم بن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 417,
+      "guid": "c12e7534-8545-4daa-a202-5b63f6c2c363",
+      "startIndex": 369,
+      "text": "محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "672"
+        ]
+      },
+      "endIndex": 326,
+      "guid": "f52bf7c2-1de5-4cde-8164-1857a86acf29",
+      "startIndex": 273,
+      "text": "الجمعة سادس شهر ربيع الآخر سنة اثنتين وسبعين [وستماية]",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء وهو السابع على مالكه الشيخ الإمام العالم الحافظ جمال الدين أبي حامد محمد بن الشيخ علم الدين أبي الحسن علي بن أبي الفتح محمود بن أحمد المحمودي الصابوني بسماعه فيه أصلا تراه من القاضي أبي القاسم بن الحرستاني بسماعه من عبد الكريم بن حمزة بسنده وصح ذلك يوم الجمعة سادس شهر ربيع الآخر سنة اثنتين وسبعين [وستماية] بجامع دمشق المحروسة وكتب الفقير إلى الله محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري عفا الله عنه حامدا ومصليا ومسلما"
+}

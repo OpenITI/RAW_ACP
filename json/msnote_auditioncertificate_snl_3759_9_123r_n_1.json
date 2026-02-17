@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "سريج بن يونس بن إبراهيم بن شعيب البلخي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب القضاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/9"
+      ],
+      "folio_number": [
+        "123r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "0b232fe2-cb17-4ab9-9386-833248717924",
+      "startIndex": 22,
+      "text": " أبي غالب أحمد بن الحسن بن أحمد بن عبد الله بن البناء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "8"
+        ],
+        "year": [
+          "526"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "c4fab193-c313-4974-82b5-5c87b4bec069",
+      "startIndex": 144,
+      "text": "شعبان سنة ست وعشرين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "fd0a6447-794d-4e40-9b64-a52986bcb596",
+      "startIndex": 83,
+      "text": "أبي البقاء بن أبي بكر ابن معمر بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "fd763ab7-de7a-4759-913a-4bd5f00cc4be",
+      "startIndex": 128,
+      "text": "عمر ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على أبي غالب أحمد بن الحسن بن أحمد بن عبد الله بن البناء بقراءة أبي البقاء بن أبي بكر ابن معمر بن طبرزد أخوه عمر في آخرين في شعبان سنة ست وعشرين وخمس ماية"
+}

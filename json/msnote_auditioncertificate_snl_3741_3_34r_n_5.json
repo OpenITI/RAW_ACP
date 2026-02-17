@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "34r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "al-'aqayba"
+          ]
+        ]
+      },
+      "endIndex": 205,
+      "guid": "000da1af-d153-44fb-b5a8-68e1ac72bdda",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 199,
+      "text": "العقيبة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "3676c87c-a98b-4c1a-82e4-28c0ee34f6c2",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 68,
+      "text": "يحيى بن عبد العزيز بن عبد السلام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "c14de971-20d1-4426-9cbd-8c56e6212ae3",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 54,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "652"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "d1a06442-37f0-469b-be09-98675ed38f5f",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "يوم السبت خامس ذي الحجة سنة اثنتين وخمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "ea10c615-889e-4a49-9c82-308bb2519485",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "أبي إسحق إبراهيم بن خليل الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "f13dd0c1-26c3-46da-841d-e79fc398712b",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": "زينب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "f73c7a40-c6de-49f7-b6a0-683233273e17",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 107,
+      "text": "أحمد ",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على أبي إسحق إبراهيم بن خليل الدمشقي بسماعه من الثقفي بقراءة يحيى بن عبد العزيز بن عبد السلام ولداه أحمد في [فراغ في الأصل] وزينب في الخامسة يوم السبت خامس ذي الحجة سنة اثنتين وخمسين وستماية بالعقيبة"
+}

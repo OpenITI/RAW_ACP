@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاضي أبو يعلى محمد بن الحسين بن محمد الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي يعلى الفراء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 128"
+      ],
+      "classmark": [
+        "3763/5"
+      ],
+      "folio_number": [
+        "48v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "1478b6bf-26e3-4e26-86e4-d26fa9994ca7",
+      "startIndex": 210,
+      "text": "أبو إسحق إبراهيم بن محاسن ابن شادي البزاز ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 343,
+      "guid": "18b7068d-b865-45c7-aec9-a121e62d7181",
+      "startIndex": 324,
+      "text": "أحمد بن محمد الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "597"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "802ad246-c2a8-4b37-ba03-01ad334704e1",
+      "startIndex": 264,
+      "text": "الأحد ثامن عشرين رمضان سنة سبع وتسعين وخمسمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "9cdbdeb9-bbba-472c-aa86-c31f09bde1b3",
+      "startIndex": 94,
+      "text": "أبي بكر محمد بن عبد الباقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "a8107bec-7fa3-4790-bab3-e6b9029bd6bb",
+      "startIndex": 188,
+      "text": "أبو الفرج عبد اللطيف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "ea889cd1-5ee9-46bb-95d0-81665ebd8bee",
+      "startIndex": 140,
+      "text": "عبد المنعم بن علي بن نصر بن الصيقل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "fab4436c-4c34-4580-a82f-d42d6e95bc05",
+      "startIndex": 27,
+      "text": "أبي علي بن أبي القاسم بن أبي علي بن الخريف",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه على الشيخ الصالح أبي علي بن أبي القاسم بن أبي علي بن الخريف بحق سماعه فيه من القاضي أبي بكر محمد بن عبد الباقي بقراءة كاتب السماع عبد المنعم بن علي بن نصر بن الصيقل الحراني ولده أبو الفرج عبد اللطيف وأبو إسحق إبراهيم بن محاسن ابن شادي البزاز وذلك في يوم الأحد ثامن عشرين رمضان سنة سبع وتسعين وخمسمية وصح وثبت نقله أحمد بن محمد الظاهري كما شاهده بخط الإمام عبد المنعم الحراني "
+}

@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر محمد بن عبد الغني بن أبي بكر ابن نقطة البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة من حديث مالك بن أنس "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 157"
+      ],
+      "classmark": [
+        "3767/5"
+      ],
+      "folio_number": [
+        "99v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "114d3b06-b214-4695-b0f7-7b83af4156a8",
+      "startIndex": 207,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "314e78a5-37ec-49af-bb9c-20383293f78e",
+      "startIndex": 143,
+      "text": "الكندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "32dbfc17-6a1e-4c8d-aa73-5c2f022132b3",
+      "startIndex": 126,
+      "text": " يوسف الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "3b28b13c-e756-44f4-a0c4-135053dabaa8",
+      "startIndex": 60,
+      "text": "علاء الدين أبي الحسن علي بن المظفر بن إبراهيم الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-nafisiya"
+          ]
+        ]
+      },
+      "endIndex": 309,
+      "guid": "a295b7fb-ab96-48e4-960e-275b6b3a1bf0",
+      "startIndex": 285,
+      "text": "دار الحديث النفيسية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "712"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "a44450de-2f2c-436d-b31e-79a2d8a547d7",
+      "startIndex": 230,
+      "text": " الأربعاء تاسع عشر ربيع الآخر سنة اثنتي عشرة وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "e7060aab-3898-4b68-a231-6f1902a874b9",
+      "startIndex": 157,
+      "text": "القاسم بن محمد بن يوسف ابن البرزالي ",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على الشيخ الإمام الفاضل البارع الصدر الرئيس ذي الفضائل علاء الدين أبي الحسن علي بن المظفر بن إبراهيم الكندي بسماعه فيه من يوسف الإربلي عن الكندي بقراءة القاسم بن محمد بن يوسف ابن البرزالي وهذا خطه ولده محمد في مجالس آخرها يوم الأربعاء تاسع عشر ربيع الآخر سنة اثنتي عشرة وسبعمائة بدار الحديث النفيسية بدمشق"
+}

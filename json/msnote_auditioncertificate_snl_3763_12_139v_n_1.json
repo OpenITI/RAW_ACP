@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن نصر بن أحمد الخوجاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث منتخبة من أجزاء الخوجاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 131"
+      ],
+      "classmark": [
+        "3763/12"
+      ],
+      "folio_number": [
+        "139v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 309,
+      "guid": "33818fce-cdee-4f82-b4e3-853de3d57186",
+      "startIndex": 277,
+      "text": "عبد الرحمن بن عوض بن يوسف الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "83087b9d-2e83-4a26-af69-bb1093c9dcfd",
+      "startIndex": 100,
+      "text": "رشيد الدين أبي محمد عبد الوهاب بن ظافر عرف بابن رواج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+},
+      "endIndex": 481,
+      "guid": "b75c379c-16ab-4373-84eb-13666abc6750",
+      "startIndex": 416,
+      "text": "صحيح ذلك وكتب عبد الوهاب ابن ظافر بن علي عرف بابن رواج بالإسكندرية",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "c314596d-5a79-4438-8611-cb41f54aff6c",
+      "startIndex": 166,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "c583d7f2-7467-41ba-9a5e-8813cc65ba06",
+      "startIndex": 198,
+      "text": "نجم الدين أبي العباس أحمد بن إسماعيل بن إبراهيم النميري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "alexandria",
+            "harat_azdiyin"
+          ]
+        ]
+      },
+      "endIndex": 414,
+      "guid": "cc318c1b-8689-46fb-ad4b-b10d4e20b6b1",
+      "startIndex": 390,
+      "text": "مسجد الشيخ بحارة الأزديين",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "641"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "e0f65cf6-55d9-4830-a4c9-a76f63c4cfd4",
+      "startIndex": 331,
+      "text": "ثامن ذي الحجة من سنة إحدى وأربعين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "سمع من أول أحاديث المطهر بن عبد الرحمن بن عزو إلى آخر الجزء سوى المعلم عليه على الشيخ الإمام العالم رشيد الدين أبي محمد عبد الوهاب بن ظافر عرف بابن رواج بحق سماعه من السلفي بقراءة صاحبه الشيخ الأجل نجم الدين أبي العباس أحمد بن إسماعيل بن إبراهيم النميري وفقه الله وسمع بقراءته عبد الرحمن بن عوض بن يوسف الشافعي وهذا خطه وصح ذلك في ثامن ذي الحجة من سنة إحدى وأربعين وستماية بثغر الإسكندرية بمسجد الشيخ بحارة الأزديين صحيح ذلك وكتب عبد الوهاب ابن ظافر بن علي عرف بابن رواج بالإسكندرية"
+}

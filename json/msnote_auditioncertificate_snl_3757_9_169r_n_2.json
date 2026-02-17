@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "169r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 502,
+      "guid": "06607dd7-ae17-4332-aeb1-2f9217e27356",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 478,
+      "text": "دار الحديث الأشرفية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "1550df39-abdc-4be0-a28c-f9082f0a141c",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "أبي إسحق الكاشغري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "709"
+        ]
+      },
+      "endIndex": 475,
+      "guid": "17da792a-293a-4fb9-8d8c-2de37372e7d3",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 430,
+      "text": "الخميس الثاني والعشرين من صفر سنة تسع وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "3530c0ce-4470-4c30-a3a9-33ad76e893fe",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 203,
+      "text": "يحيى بن أحمد الحسيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 420,
+      "guid": "3914dd80-86a2-4328-bb7f-d8f5478a6c97",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 372,
+      "text": "أبو عبد الله محمد بن أحمد بن عمر بن سلمان البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 543,
+      "guid": "44a8b5c2-cfc4-4599-9503-e777fb550521",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 519,
+      "text": "عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "6e29a681-4763-4567-92a8-5f463d455c1b",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 117,
+      "text": "أبي القاسم بن قميرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "6e3ff76e-0111-4e48-a214-b5c98ea445d4",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 227,
+      "text": "ابن بشران",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "9588f879-81f7-4ef1-bf03-b232735f351e",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 185,
+      "text": "ابن تاج القراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 369,
+      "guid": "a7ccbb30-36d3-4af5-a5c6-8b4bacf6d0d6",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 325,
+      "text": "أبو محمد عبد الله بن يعقوب بن سيدهم الاسكندري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "b24e5ad4-412e-4a4a-8344-3b04e169b9e1",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 140,
+      "text": "شهدة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 323,
+      "guid": "b814763e-5c11-4d31-895d-4f001ebf4979",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 319,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "cfadef2c-06a0-4e0f-8ab6-f2be9f060cfa",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 34,
+      "text": "كمال الدين أبي الفضل إسحق بن أبي بكر بن إبراهيم الأسدي الحلبي ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "ec0c8dc0-3697-4775-87cd-8795de38b13c",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 261,
+      "text": " أبو عبد الله محمد بن عمر بن محمود بن زباطر الحراني",
+      "type": "person"
+    }
+  ],
+  "text": " ثم قرأته على الشيخ المكثر المسند كمال الدين أبي الفضل إسحق بن أبي بكر بن إبراهيم الأسدي الحلبي ابن النحاس بسماعه من أبي القاسم بن قميرة عن شهدة وبإجازته من أبي إسحق الكاشغري بسماعه من ابن تاج القراء عن يحيى بن أحمد الحسيني عن ابن بشران وسمع شيخنا العالم الزاهد أبو عبد الله محمد بن عمر بن محمود بن زباطر الحراني وابنه محمد وأبو محمد عبد الله بن يعقوب بن سيدهم الاسكندري وأبو عبد الله محمد بن أحمد بن عمر بن سلمان البالسي وصح يوم الخميس الثاني والعشرين من صفر سنة تسع وسبعماية بدار الحديث الأشرفية بدمشق وأجاز لهم كتبه عبد الله بن أحمد بن المحب"
+}

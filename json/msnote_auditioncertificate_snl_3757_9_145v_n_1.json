@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "145v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 296,
+      "guid": "2b71da19-b592-4f25-bd7f-ac78f5f86e6f",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 287,
+      "text": "جامع دمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "56fccc85-485d-4d1b-b393-12e4817b2893",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 195,
+      "text": "شرف الدين أبو بكر بن محمد بن ممدود الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "6e87380a-b30c-4293-a763-3d17284b4da7",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 303,
+      "text": "علي بن مسعود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "b9cc8520-4825-4693-bc64-40920c497b9b",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 97,
+      "text": "نجم الدين أبي بكر محمد بن علي بن المظفر بن القاسم النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 284,
+      "guid": "df2b6c0f-817b-4758-907d-3ecd3b0a432a",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 250,
+      "text": "الثاني من صفر سنة خمس وستين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء وما بعده من النسخة المقابل عليها هذه على حسب الطاقة على الشيخ الجليل المسند نجم الدين أبي بكر محمد بن علي بن المظفر بن القاسم النشبي متصل سماعه فيه من شيخيه بسندهما فيه فسمع شرف الدين أبو بكر بن محمد بن ممدود الدمشقي وصح وثبت في الثاني من صفر سنة خمس وستين وستماية بجامع دمشق  وكتب علي بن مسعود عفا الله عنه ورفق به حامدا الله ومصليا ومسلما"
+}

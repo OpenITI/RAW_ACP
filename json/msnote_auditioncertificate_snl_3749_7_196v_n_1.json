@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عشرة أحاديث عن عشرة مشايخ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 59"
+      ],
+      "classmark": [
+        "3749/7"
+      ],
+      "folio_number": [
+        "196v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "773"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "0d41072a-370b-43eb-af49-a5ff0565cdb8",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 362,
+      "text": "يوم الأربعاء خامس عشر ذي قعدة سنة ثلاث وتسعين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 38,
+      "guid": "483f33b2-6def-4fd3-b95d-1127ef8922df",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 16,
+      "text": "زين الدين عمر بن أيدغمش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "7581230a-be17-47c0-a302-47098d677336",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 152,
+      "text": "ناصر الدين محمد بن القاضي بدر الدين حسن بن الفاقوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "9085eb27-0b68-455d-a8f8-2d2b980de468",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 50,
+      "text": "العز إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 277,
+      "guid": "96982169-b3d3-40db-b148-d5e021bc86f8",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 231,
+      "text": "جمال الدين عبد الله بن الشرف أبي بكر بن النصيبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "al-sharfiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 428,
+      "guid": "f8e8557c-92bb-4653-be29-289752674850",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 417,
+      "text": "الشرفية بحلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "fbf9053b-b448-4abf-81b5-cf1330858a76",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 91,
+      "text": "برهان الدين الحلبي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه أيضا على زين الدين عمر بن أيدغمش بسماعه من العز إبراهيم بقراءة شيخنا الحافظ العلامة برهان الدين الحلبي المذكور فيه ومن خطه لخصته جمع منهم القاضي ناصر الدين محمد بن القاضي بدر الدين حسن بن الفاقوسي أحد الموقعين بالقاهرة وسمع جمال الدين عبد الله بن الشرف أبي بكر بن النصيبي من أوله إلى حديث أبي هريرة العين حقي ونهى عن الوشم في ترجمة أبي سعود الجمال وصح في يوم الأربعاء خامس عشر ذي قعدة سنة ثلاث وتسعين وسبعمية بالشرفية بحلب وأجاز"
+}

@@ -1,0 +1,737 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسماعيل البخاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1326"
+      ],
+      "folio_number": [
+        "246v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN769639313/1200/0/00000496.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00023752"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1260,
+      "guid": "1844333b-8567-4dd9-a96e-6c5fc20f2a02",
+      "startIndex": 1257,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 409,
+      "guid": "1923ef67-4f80-412e-babf-ffe99674d150",
+      "startIndex": 402,
+      "text": " البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 429,
+      "guid": "1a5ce91d-9fe1-4485-8369-33a1e84c2fc9",
+      "startIndex": 418,
+      "text": "محمد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1558,
+      "guid": "216a21bd-1f07-4ad9-8e52-1cdeb108c7f9",
+      "startIndex": 1535,
+      "text": "عبد الحميد بن سقر بن نجم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "28141c46-7454-4ce2-b184-ab9bea1c5dae",
+      "startIndex": 283,
+      "text": "ابن الزبيدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 520,
+      "guid": "331a3094-f0a3-4c3f-a028-99d2198b5c12",
+      "startIndex": 498,
+      "text": "محمد بن سيف الدين بكتمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 940,
+      "guid": "3ac26ba8-f7fe-4d04-934e-a5fb62c3c059",
+      "startIndex": 923,
+      "text": "أيوب بن الفخر إياس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1167,
+      "guid": "41165f79-229d-4a0a-9c49-c8b726338cf0",
+      "startIndex": 1148,
+      "text": "باس بن منيع بن سلامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1425,
+      "guid": "4340aabb-fbbc-4243-a710-fa2949273239",
+      "startIndex": 1408,
+      "text": "أحمد بن علي الكردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "5c8afc08-2389-4eab-bad7-04f6e5bb203f",
+      "startIndex": 130,
+      "text": "أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 574,
+      "guid": "6b313dc5-31f0-40f4-b5ab-950ed1737b7d",
+      "startIndex": 552,
+      "text": "مرشد بن عبد الله الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 768,
+      "guid": "858737e5-25da-418b-bcd2-615e3f95194f",
+      "startIndex": 733,
+      "text": "محمد بن أحمد بن سيدهم المقدسي الضرير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1531,
+      "guid": "8a114377-84bf-49f4-acc5-6a25fdb54306",
+      "startIndex": 1512,
+      "text": "حسن بن محمد بن هملان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 383,
+      "guid": "8a2037d0-fdb1-4773-b69b-04615505b4d9",
+      "startIndex": 375,
+      "text": "أبي الوقت",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 2004,
+      "guid": "8ac9fbaa-85df-45da-9117-a54f0624c00e",
+      "startIndex": 1958,
+      "text": "داود بن عيسى بن أبي بكر بن عمر بن داود الحنبلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1358,
+      "guid": "8dd4f376-bdc9-4331-baca-d5b7d6bfaecf",
+      "startIndex": 1337,
+      "text": "إبراهيم بن هلال بن شبل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2047,
+      "guid": "90f84756-e752-418c-becc-f149d14d0307",
+      "startIndex": 2044,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 610,
+      "guid": "9d006e02-1ce0-4764-bef9-9d24201867f5",
+      "startIndex": 578,
+      "text": "إسماعيل بن إبراهيم بن سالم الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "a46d68d5-ea55-476a-b01e-2f3898f6a599",
+      "startIndex": 210,
+      "text": "أبي محمد عبد الله بن أحمد بن إبراهيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 453,
+      "guid": "a7bafaa2-6b95-48d0-a8b9-b3ef8fac7bca",
+      "startIndex": 450,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1661,
+      "guid": "ae060043-e309-42f0-9dbd-475962634555",
+      "startIndex": 1646,
+      "text": "محمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1024,
+      "guid": "af1d77c5-8081-4689-984b-e6788d655c96",
+      "startIndex": 997,
+      "text": "يوسف بن محمد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2057,
+      "guid": "b19c1e09-1321-4924-a9b2-f1c292668b19",
+      "startIndex": 2050,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 1836,
+      "guid": "b9567913-4ec2-4146-aa4e-009266de93e5",
+      "startIndex": 1782,
+      "text": "يوم الأحد العاشر من ذي القعدة من سنة خمس وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1721,
+      "guid": "b993d2a0-eb81-4bbb-872f-0a7baa2c036e",
+      "startIndex": 1704,
+      "text": "محمد بن علي بن حسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1571,
+      "guid": "bcb2a119-04a8-4a5f-9bb4-f487ad0070fa",
+      "startIndex": 1562,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1272,
+      "guid": "c1d1d953-b928-4aa3-8a77-b8591d14d958",
+      "startIndex": 1263,
+      "text": "عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1581,
+      "guid": "c1f635f9-fe4a-4f30-a399-4c242b573acf",
+      "startIndex": 1574,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 680,
+      "guid": "caa0d62f-2b38-4beb-9bfc-1f9610c4f5ba",
+      "startIndex": 657,
+      "text": "عبد الله بن شكر اليونيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 643,
+      "guid": "d2201185-7911-4c02-9079-6d909c146668",
+      "startIndex": 620,
+      "text": "عبد الله بن أحمد بن تمام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1097,
+      "guid": "d2ceb49d-3cea-4745-979b-c89e59d26bc0",
+      "startIndex": 1081,
+      "text": "نصر الله بن منصور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 459,
+      "guid": "df954ed9-264a-432e-9a0f-4dbed3bed5fb",
+      "startIndex": 456,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 352,
+      "guid": "ea23220b-9dd0-48f4-8a4b-cb2a7f0024cc",
+      "startIndex": 318,
+      "text": "أبي القاسم أحمد بن عبد الصمد السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 1902,
+      "guid": "f187075e-01aa-4a4d-b7aa-1795f70b020f",
+      "startIndex": 1839,
+      "text": "مدرسة الحافظ ضياء الدين أبي عبد الله محمد بن عبد الواحد المقدسي ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 885,
+      "guid": "f6c1e3d7-ac3c-43be-99ba-f8a8e7638bb3",
+      "startIndex": 866,
+      "text": "أحمد بن علي بن [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2112,
+      "guid": "fbcaede3-67bd-4d5e-b15d-6d7ae6ba00b0",
+      "startIndex": 2087,
+      "text": "سعادة بن عبد الله بن سعادة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1639,
+      "guid": "fc8f0255-1703-4795-8f4f-6e4c634c30cc",
+      "startIndex": 1624,
+      "text": "أبو بكر بن محمد ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الكتاب جميعه وهو المجلد الخامس من الجامع الصحيح جمع الإمام أبي عبد الله محمد بن إسماعيل البخاري رضي الله عنه، على الإمام أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد المقدسي، أسعده الله تعالى والإمام أبي محمد عبد الله بن أحمد بن إبراهيم المقدسي أحسن الله إليه، بسماعهما من ابن الزبيدي، وسماع المسمع الأول من أبي القاسم أحمد بن عبد الصمد السلمي وهو حاضر بسماعهما من أبي الوقت بإسناده عن الإمام البخاري؛ فسمعه محمد بن أحمد أخي المسمع الأول، ومحمد وأحمد حاضر في الرابعة ابنا المسمع الثاني، ومحمد بن سيف الدين بكتمر عتيق عز الدين صاحب صرخد وفتاه مرشد بن عبد الله الحبشي، وإسماعيل بن إبراهيم بن سالم الخباز، والشيخ عبد الله بن أحمد بن تمام، وسمع الشيخ عبد الله بن شكر اليونيني من أول الكتاب إلى باب الحلف بعزة الله وصفاته، وسمع محمد بن أحمد بن سيدهم المقدسي الضرير من أوله إلى باب رحمة الولد ومن باب النهي عن الحذف إلى آخره الاستئذان من أجل البصر إلى آخره وسمع أحمد بن علي بن [...] من باب رحمة الولد إلى آخر آخره وسمع أيوب بن الفخر إياس من باب رحمة الولد إلى باب الحلف بعزة الله وصفاته، وسمع يوسف بن محمد بن أحمد المقدسي من باب رحمة الولد إلى باب الحلف بعزة الله وصفاته، وسمع نصر الله بن منصور من باب رحمة الولد مثل ما سمع المذكور قبله، وسمع عباس بن منيع بن سلامة من باب الحب في الله إلى باب النهي عن الحذف ومن باب الرجاء إلى باب الحلف بعزة الله، وسمع أحمد وعبد الرحيم ابنا سامة بن كوكب السوادي من باب النهي عن الحذف إلى آخره، وسمع إبراهيم بن هلال بن شبل من باب القصد والمداومة على العمل إلى آخره، وسمع أحمد بن علي الكردي من باب النهي عن الحذف إلى باب القصد والمداومة ومن باب الحلف بعزة الله إلى آخره، وسمع حسن بن محمد بن هملان، وعبد الحميد بن سقر بن نجم، وعبد الرحمن وعبد الله ابنا أحمد بن محمد المقدسي وأخوهما لأمهما أبو بكر بن محمد حضر، ومحمد بن عبد الله حضر من باب الحلف بعزة الله إلى آخره وسمع محمد بن علي بن حسن من باب الاستئذان من أجل البصر إلى آخره وذلك في مجالس آخرها يوم الأحد العاشر من ذي القعدة من سنة خمس وخمسين وستمائة بمدرسة الحافظ ضياء الدين أبي عبد الله محمد بن عبد الواحد المقدسي رحمه الله بسفح جبل قاسيون وفي الطبقة ضرب وهو صحيح كتبه داود بن عيسى بن أبي بكر بن عمر بن داود الحنبلي حامداً ومصلياً.\nوسمع بالقراءة والتاريخ أحمد وعبد الله حضر ابنا العز عمر بن أحمد، وسعادة بن عبد الله بن سعادة من باب النهي عن الحذف إلى باب القصد والمداو[مـ]ـة على العمل ألحقه إسماعيل بن إبراهيم بن سالم الخباز والحمدلله وحده وصلى الله على محمد وآله وسلم."
+}

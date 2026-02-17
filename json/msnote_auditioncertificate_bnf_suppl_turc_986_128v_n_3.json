@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "128v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "641"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "984f4386-a40b-4146-9927-3a2742074ab6",
+      "index": 282,
+      "isZeroPoint": false,
+      "startIndex": 91,
+      "text": "يوم السبت خامس رجب سنة إحدى وأربعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "ef95a125-d1ea-4c40-a720-6197f7c5b63f",
+      "index": 280,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "ضياء الدين علي بن محمد بن علي البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "f62b7cb6-755c-4689-9335-9e619def7898",
+      "index": 281,
+      "isZeroPoint": false,
+      "startIndex": 60,
+      "text": "أبو المعالي محمد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة ضياء الدين علي بن محمد بن علي البالسي ولده أبو المعالي محمد في الرابعة في يوم السبت خامس رجب سنة إحدى وأربعين وستمئة"
+}

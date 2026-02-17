@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن الحسن بن أحمد البناء"
+      ],
+      "work_title": [
+        "مشيخة أبي غالب ابن البناء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 17"
+      ],
+      "classmark": [
+        "3739/1"
+      ],
+      "folio_number": [
+        "14v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "740"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "249b41c0-dbb6-4b78-acdf-67e935eb92cc",
+      "index": 192,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "يوم الاثنين الثالث والعشرين من صفر سنة أربعين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "33813ff1-0801-42c7-bcf5-66bedeb4ecd8",
+      "index": 187,
+      "isZeroPoint": false,
+      "startIndex": 38,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "47ae1c2e-a036-4d1d-b2b0-c42e97416e90",
+      "index": 188,
+      "isZeroPoint": false,
+      "startIndex": 87,
+      "text": "زينب بنت مكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 277,
+      "guid": "7bb794ee-7dff-42ba-a476-e062c0472dae",
+      "index": 193,
+      "isZeroPoint": false,
+      "startIndex": 253,
+      "text": "دار الحديث الأشرفية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "977c575a-3dbe-450e-99fc-2928b974c6f9",
+      "index": 190,
+      "isZeroPoint": false,
+      "startIndex": 116,
+      "text": "ابن البناء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "bce8f0eb-9f0d-4123-ac1e-7c7ee24f1814",
+      "index": 189,
+      "isZeroPoint": false,
+      "startIndex": 103,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "e1bafb94-37c6-4dcf-a1a0-5d1ddaf3d19b",
+      "index": 191,
+      "isZeroPoint": false,
+      "startIndex": 136,
+      "text": "نجم الدين أبو الخير سعيد بن عبد الله البغدادي الحريري",
+      "type": "person"
+    }
+  ],
+  "text": " سمع هذا الجزء الخامس على كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي بسماعه من زينب بنت مكي عن ابن طبرزد عن ابن البناء عن شيوخه نجم الدين أبو الخير سعيد بن عبد الله البغدادي الحريري بقراءته يوم الاثنين الثالث والعشرين من صفر سنة أربعين وسبعمية بدار الحديث الأشرفية بدمشق حرسها الله تعالى "
+}

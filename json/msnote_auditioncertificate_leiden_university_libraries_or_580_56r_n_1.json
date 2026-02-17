@@ -1,0 +1,504 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "56r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "0071c3ea-42b7-4b6d-bdbd-165b9d57c411",
+      "startIndex": 274,
+      "text": "جمال الدين أبي القاسم عبد الصمد بن أبي الفضل الأنصاري الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "653"
+        ]
+      },
+      "endIndex": 1397,
+      "guid": "06a5d733-ee15-4942-b59d-33a03e38743c",
+      "startIndex": 1339,
+      "text": "الأربعاء السابع والعشرين من شهر رجب سنة ثلاث وخمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 826,
+      "guid": "10ee4924-3634-4d31-b7b4-0364b7e41bb2",
+      "startIndex": 789,
+      "text": "أبو الحسن علي بن عمران بن محيو المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 864,
+      "guid": "130c07a1-d2cf-444a-a98f-da673f8588cb",
+      "startIndex": 829,
+      "text": "علي بن أحمد بن يوسف الأنصاري القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1308,
+      "guid": "1c61d706-a6e5-44a9-8399-38eea32aa88a",
+      "startIndex": 1279,
+      "text": "أبو الحرم مكي بن مطلوب الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "2822e8db-d8f2-4139-8a1a-963ee4b8520b",
+      "startIndex": 105,
+      "text": "شرف الدين أبي عبد الله الحسين بن إبراهيم بن الحسين الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 875,
+      "guid": "2ca57064-a36d-45c4-a770-b107b4bb5415",
+      "startIndex": 872,
+      "text": "يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1276,
+      "guid": "34c3e3dd-f1a0-4741-af78-c80160c892ce",
+      "startIndex": 1231,
+      "text": "أبو الفرج بن الحسن بن أبي الفرج المرندي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1091,
+      "guid": "4c3d5fb7-b056-4d16-b921-cc92a75af094",
+      "startIndex": 1046,
+      "text": " أبي زكريا يحيى بن علي بن أحمد بن محمد الحضرمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1011,
+      "guid": "62de3ab9-7f86-4e16-8035-52ba0381b1f1",
+      "startIndex": 997,
+      "text": "شهاب الدين أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 606,
+      "guid": "67a5402e-b829-43c1-ae52-44bf22acbc94",
+      "startIndex": 572,
+      "text": "أبو علي حسن بن أبي عبد الله بن صدقة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1510,
+      "guid": "7b83012e-6d30-4c0c-8d86-b1806392f948",
+      "startIndex": 1459,
+      "text": "عبد الله بن يحيى بن أبي بكر بن يوسف الغساني الجزائري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1027,
+      "guid": "9aeb314f-7212-469d-90ad-4f7d3d74964d",
+      "startIndex": 1014,
+      "text": "زين الدين يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 720,
+      "guid": "a5902cae-fcf9-4fd2-a83c-b51d1044c8e1",
+      "startIndex": 660,
+      "text": "زين الدين أبو الفتح محمد بن أبي نصر محمد بن أبي بكر الأبيوردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 382,
+      "guid": "b1309b01-e2f1-4611-8d89-d84c85c99dfd",
+      "startIndex": 348,
+      "text": " أبي محمد عبد الكريم بن حمزة السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "c161a78d-3441-4ece-9d81-ef6e10f83831",
+      "startIndex": 177,
+      "text": "شهاب الدين أبي الخطاب عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 488,
+      "guid": "c638a682-0f19-4cef-b9e4-8e8294ad0f23",
+      "startIndex": 449,
+      "text": "أبي طاهر بركات بن إبراهيم القرشي الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 986,
+      "guid": "cf25a219-379e-4573-bb54-7048861d3f66",
+      "startIndex": 944,
+      "text": "أبو عبد الله محمد بن الحسين بن محمد الأشيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 657,
+      "guid": "d710f0f6-fa1b-49fc-9793-5756e241bb2d",
+      "startIndex": 609,
+      "text": "برهان الدين إبراهيم بن إسماعيل بن إبراهيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1166,
+      "guid": "d7dda792-9095-4193-836c-ccb230981887",
+      "startIndex": 1094,
+      "text": "شهاب الدين أحمد بن الفقيه أبي حامد محمد بن علي بن محمود المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 774,
+      "guid": "e0ae24d7-900e-4c6d-aa7a-78cc1b827179",
+      "startIndex": 723,
+      "text": "أبو عبد الله محمد بن الشيخ شهاب الدين أبي الخطاب عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1228,
+      "guid": "e33475dc-bc67-41c3-afce-9373e895bd38",
+      "startIndex": 1169,
+      "text": "شرف الدين أبو عبد الله محمد بن محمد بن زكريا بن رحمة الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1426,
+      "guid": "ea016b19-9836-44b3-954a-704e05d5e428",
+      "startIndex": 1400,
+      "text": "زاوية ابن عروة من جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 941,
+      "guid": "fc228c73-e6a2-4c73-8997-2aa83b8690c1",
+      "startIndex": 878,
+      "text": "نجم الدين أبو سليمان داود بن عبد الرحمن بن عثمان بن نعمة المراغي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء وهو الرابع من فوائد أبي القاسم تمام على صاحبه الشيخ الإمام العالم الفاضل شيخ الطائفة شرف الدين أبي عبد الله الحسين بن إبراهيم بن الحسين الإربلي وولده الأمين شهاب الدين أبي الخطاب عمر أثابهما الله جنة وإيانا بمنه بحق سماعهما من الشيخ الإمام العالم القاضي جمال الدين أبي القاسم عبد الصمد بن أبي الفضل الأنصاري الحرستاني بإجازته من أبي محمد عبد الكريم بن حمزة السلمي وبسماع الشيخ شرف الدين أبي عبد الله الحسين المبدأ باسمه من الشيخ أبي طاهر بركات بن إبراهيم القرشي الخشوعي بسماعه من أبي محمد عبد الكريم المذكور بسنده فيه فسمعه السادة الفقهاء الشيخ الصالح أبو علي حسن بن أبي عبد الله بن صدقة وبرهان الدين إبراهيم بن إسماعيل بن إبراهيم المقدسي وزين الدين أبو الفتح محمد بن أبي نصر محمد بن أبي بكر الأبيوردي وأبو عبد الله محمد بن الشيخ شهاب الدين أبي الخطاب عمر المسمع أبوه وأبو الحسن علي بن عمران بن محيو المالكي وعلي بن أحمد بن يوسف الأنصاري القرطبي وولده يوسف ونجم الدين أبو سليمان داود بن عبد الرحمن بن عثمان بن نعمة المراغي وأبو عبد الله محمد بن الحسين بن محمد الأشيري والأخوان شهاب الدين أحمد وزين الدين يحيى ابنا الشيخ الفقيه أبي زكريا يحيى بن علي بن أحمد بن محمد الحضرمي وشهاب الدين أحمد بن الفقيه أبي حامد محمد بن علي بن محمود المحمودي الصابوني وشرف الدين أبو عبد الله محمد بن محمد بن زكريا بن رحمة الدمشقي وأبو الفرج بن الحسن بن أبي الفرج المرندي الصوفي وأبو الحرم مكي بن مطلوب الواسطي وصح ذلك في مجلسين آخرهما يوم الأربعاء السابع والعشرين من شهر رجب سنة ثلاث وخمسين وستماية بزاوية ابن عروة من جامع دمشق حرسها الله بقراءة كاتب الأسماء عبد الله بن يحيى بن أبي بكر بن يوسف الغساني الجزائري آتاه الله رشده آمين والحمد لله وحده وصلواته على محمد وآله وسلم تسليما"
+}

@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "جزء من الموافقات في مشايخ أبي داود والترمذي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "124v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f128.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f128.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "348285a3-2b3d-4892-ae07-ea9b5a78f238",
+      "index": 194,
+      "isZeroPoint": false,
+      "startIndex": 96,
+      "text": "سليمان بن حمزة بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "b2048173-7e20-485d-a929-a3b7b6a4ad55",
+      "index": 192,
+      "isZeroPoint": false,
+      "startIndex": 59,
+      "text": " ابن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "635"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "dc50ebb8-c7fb-44b3-9f67-18fcf3327b31",
+      "index": 193,
+      "isZeroPoint": false,
+      "startIndex": 76,
+      "text": "خمس وثلاثين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "e1a34fe2-50ab-429f-92d1-45da8337ebfc",
+      "index": 191,
+      "isZeroPoint": false,
+      "startIndex": 183,
+      "text": "ضياء الدين المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على جامعه عيسى بن أبي محمد بن عبد الرزاق العطار بقراءة ابن أبي عمر سنة خمس وثلاثين وستمية وسليمان بن حمزة بن أحمد وآخرون في جمادى الأولى\nملاحظة: هذه الإجازة خاطئة فجامع الجزء هو ضياء الدين المقدسي وليس عيسى بن عبد الرزاق العطار"
+}

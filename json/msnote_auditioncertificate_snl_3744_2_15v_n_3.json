@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسن بن هبة الله الشافعي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "التوبة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 33"
+      ],
+      "classmark": [
+        "3744/2"
+      ],
+      "folio_number": [
+        "15v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL "
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "02890953-fab4-4acc-ae35-9f82eb321430",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "أبي القاسم الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "627"
+        ]
+      },
+      "endIndex": 269,
+      "guid": "16613c29-553b-4e4d-aad4-9382eb981563",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 212,
+      "text": "يوم الخميس الرابع عشر من ربيع الأول سنة سبع وعشرين وست مية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 280,
+      "guid": "1f08ee78-9f0f-449c-bb71-f4a1cacf005e",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 272,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "66370823-9678-4656-b291-01ae9ff6ee7d",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "أبو الحسن علي بن أحمد بن علي بن بدر العطار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "ab679d8a-cf4e-4cbd-9e10-5a485bb6d614",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "أبي الغنائم المسلم بن أحمد بن علي النصيبي المازني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "ed971296-ec64-4c1d-bca2-c7d715f5e313",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 287,
+      "text": "يوسف بن الحسن بن بدر النابلسي ",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على الشيخ الأجل الخطيب أبي الغنائم المسلم بن أحمد بن علي النصيبي المازني بحق سماعه فيه نقلا من لفظ ممليه الحافظ أبي القاسم الشافعي فسمعه أبو الحسن علي بن أحمد بن علي بن بدر العطار وصح ذلك في يوم الخميس الرابع عشر من ربيع الأول سنة سبع وعشرين وست مية بجامع دمشق كتبه يوسف بن الحسن بن بدر النابلسي "
+}

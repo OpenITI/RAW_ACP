@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن احمد الذهبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " مجلسان من امالي حمزة بن حمزة "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 830"
+      ],
+      "folio_number": [
+        "21v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1831174081/1200/0/00000048.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007489"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "1d93f48e-3315-4596-b8cc-b2cfe45aaee1",
+      "startIndex": 142,
+      "text": "أبي علي الحسن بن علي بن أبي بكر الخلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "23404456-d88a-419d-9e25-f015002dd3df",
+      "startIndex": 77,
+      "text": "شمس الدين أبي عبد الله محمد بن أحمد بن عثمان بن الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-sadriya"
+          ]
+        ]
+      },
+      "endIndex": 331,
+      "guid": "3a5c2526-7f91-4a07-b573-14ea6cc3ef54",
+      "startIndex": 315,
+      "text": "منزل المسمع بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 372,
+      "guid": "c4dfbf3e-9332-4064-b687-15482d23c489",
+      "startIndex": 338,
+      "text": "حمزة بن عمر بن أحمد بن محمد الهكاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "742"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "d3bdcc4c-a21d-45f2-8fc3-80cafea7a89a",
+      "startIndex": 252,
+      "text": "في يوم الثلاثاء الثالث من المحرم سنة اثنتين وأربعين وسبع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "fd425460-c70c-465f-a451-68f1a119ba39",
+      "startIndex": 210,
+      "text": "محمد بن إبراهيم بن أحمد التركماني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذين المجلسين على شيخنا الإمام الأوحد العلامة ركن المؤرخين جهبذة الزمان شمس الدين أبي عبد الله محمد بن أحمد بن عثمان بن الذهبي بسماعه من أبي علي الحسن بن علي بن أبي بكر الخلال بسنده فيه فسمعه الشيخ الصالح محمد بن إبراهيم بن أحمد التركماني وصح ذلك في يوم الثلاثاء الثالث من المحرم سنة اثنتين وأربعين وسبع مائة بمنزل المسمع بدمشق وكتب حمزة بن عمر بن أحمد بن محمد الهكاري حامداً مصلياً."
+}

@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضل بن أحمد بن محمد الفراوي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "العوالي المائة من مسموعات الفراوي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 172"
+      ],
+      "classmark": [
+        "3770/1"
+      ],
+      "folio_number": [
+        "3r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "1024e6c9-fc3c-4e2d-966d-bff6aec09e70",
+      "startIndex": 73,
+      "text": "شمس الدين أبو بكر أحمد بن محمد بن أبي طالب العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 196,
+      "guid": "239eaa9e-a7cb-4b2a-8319-9ad750f358ef",
+      "startIndex": 194,
+      "text": "حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "651"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "ae4bb1fd-a2fa-4f76-bba3-40a6dd23e13b",
+      "startIndex": 152,
+      "text": "سابع جمادى الآخرة سنة إحدى وخمسين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "c902db30-f9d2-43d5-91c7-c9681761e580",
+      "startIndex": 129,
+      "text": "أبو طالب عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 41,
+      "guid": "df350686-f38d-45c4-bb68-077bb196553f",
+      "startIndex": 11,
+      "text": "المعظم تورانشاه بن يوسف بن أيوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "f0adf055-040a-48aa-a480-2b42c4698fa7",
+      "startIndex": 50,
+      "text": "الناصح أبي بكر الحراني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها على المعظم تورانشاه بن يوسف بن أيوب بقراءة الناصح أبي بكر الحراني شمس الدين أبو بكر أحمد بن محمد بن أبي طالب العجمي وأخوه أبو طالب عبد الرحيم في سابع جمادى الآخرة سنة إحدى وخمسين وستمية بحلب وأجاز"
+}

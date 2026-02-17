@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "32r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "689"
+        ]
+      },
+      "endIndex": 498,
+      "guid": "087f83ff-0b95-4d71-a02f-c6c7e21fc111",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 439,
+      "text": "يوم الأ ربعاء الرابع من جمادى الآخرة سنة تسع وثمانين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "0ed51e71-ee4a-46b6-b7e6-805f79c3132c",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 348,
+      "text": "أحمد بن الصلاح محمد بن أحمد بن بدر بن تبع البعلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "115a70c6-9f24-48c9-802f-589aa0225a15",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 286,
+      "text": "تقي الدين أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "1417265b-fcb2-4cb9-91fb-2081b616b445",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 126,
+      "text": "أبي عبد الله الكراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "2a7f6ed1-9fa7-42b6-b28f-a102f533802f",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 16,
+      "text": "فخر الدين علي بن أحمد بن عبد الواحد المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 520,
+      "guid": "4fe06ac4-4c2a-48e4-b30c-9e8f278f0d48",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 501,
+      "text": "منزل المسمع بقاسيون ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "54844f7d-9e95-4fdf-876c-dcdb3ec1d7da",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 224,
+      "text": "علي بن مسعود الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "5db49f0e-f532-4827-acb9-73a4796a7c97",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 210,
+      "text": "الحداد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "60ac5601-628a-41de-9b14-23c54069ff3e",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 270,
+      "text": "شمس الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "83cfe0d1-7ce3-41bb-8066-bd4d774aa39e",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 106,
+      "text": "أبي جعفر الصيدلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 434,
+      "guid": "8c86ab1a-52ce-4f05-b189-8cbb23de5404",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 398,
+      "text": "محمد بن أحمد بن محمد بن بحتر المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "8ff7425d-c319-4775-a543-c067f4c26475",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 86,
+      "text": "أبي المكارم اللبان",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه على الشيخ فخر الدين علي بن أحمد بن عبد الواحد المقدسي بإجازته من المشايخ الثلثة أبي المكارم اللبان وأبي جعفر الصيدلاني وأبي عبد الله الكراني بسماع اللبان وحضور الصيدلاني وإجازة الكراني إن لم يكن سماعا من الحداد بقراءة علي بن مسعود الموصلي والسماع بخطه ومنه اختصرت شمس الدين محمد وتقي الدين أحمد ابنا الشيخ زين الدين أبي بكر بن محمد بن طرخان وأحمد بن الصلاح محمد بن أحمد بن بدر بن تبع البعلي ومحمد بن أحمد بن محمد بن بحتر المرداوي في يوم الأ ربعاء الرابع من جمادى الآخرة سنة تسع وثمانين وستماية بمنزل المسمع بقاسيون "
+}

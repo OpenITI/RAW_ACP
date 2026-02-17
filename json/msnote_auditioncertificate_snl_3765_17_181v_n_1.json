@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتخب من الزهد والرقائق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 151"
+      ],
+      "classmark": [
+        "3765/17"
+      ],
+      "folio_number": [
+        "181v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 433,
+      "guid": "0ca4591c-ae3d-4302-a627-863e88055da4",
+      "startIndex": 422,
+      "text": "محمد بن مسدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 543,
+      "guid": "7418223b-9621-4a9c-abd4-d921dda6452b",
+      "startIndex": 488,
+      "text": "عبد الله بن محمد بن محمد بن أبي بكر الطبري المكي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "9522e44e-b1b0-49b7-bc4c-c5d1c6a2ea55",
+      "startIndex": 234,
+      "text": "عبد الملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "a9860c45-68d4-401b-a41a-555f7011df8d",
+      "startIndex": 160,
+      "text": "الأثير أبي المعالي الفضل بن سهل بن بشر الإسفراييني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "637"
+        ]
+      },
+      "endIndex": 415,
+      "guid": "bd36c75e-3aeb-4416-87f6-ac8e5c991ce8",
+      "startIndex": 352,
+      "text": "السبت التاسع عشر من شهر رمضان المبارك من سنة سبع وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 338,
+      "guid": "f34a3afa-48aa-409b-8d6b-0ba7756904c8",
+      "startIndex": 275,
+      "text": "رشيد الدين أبي بكر محمد بن الزكي عبد العظيم بن عبد القوي المنذري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "f961430f-2e90-464f-bb0a-3f64bb8bcd25",
+      "startIndex": 102,
+      "text": "أبي الحسن علي بن الحسين بن علي بن منصور الأزجي",
+      "type": "person"
+    }
+  ],
+  "text": "وجدت بخط الإمام جمال الدين بن مسدي على نسخته من هذا الجزء بلغت سماعا على الشيخ الأجل المُسِنِّ المسند أبي الحسن علي بن الحسين بن علي بن منصور الأزجي بإجازته من الأثير أبي المعالي الفضل بن سهل بن بشر الإسفراييني عن مؤلفه وسمع معي ولدي عبد الملك وآخرون أسماؤهم على نسخة القارئ رشيد الدين أبي بكر محمد بن الزكي عبد العظيم بن عبد القوي المنذري وذلك في يوم السبت التاسع عشر من شهر رمضان المبارك من سنة سبع وثلاثين وستمائة كتبه محمد بن مسدي حامدا لله مصليا على رسوله محمد وآله وصحبه مسلما كتبه عبد الله بن محمد بن محمد بن أبي بكر الطبري المكي الشافعي حامدا لله مصليا على رسوله محمد وآله مسلما"
+}

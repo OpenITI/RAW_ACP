@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاضي أبو يعلى محمد بن الحسين بن محمد الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي يعلى الفراء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 128"
+      ],
+      "classmark": [
+        "3763/5"
+      ],
+      "folio_number": [
+        "48v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "33224e9b-32b8-4d13-b79a-745308c3d7c1",
+      "startIndex": 250,
+      "text": " أحمد بن محمد الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "36230333-d9e8-445c-8d17-10a4fb141c42",
+      "startIndex": 211,
+      "text": "أبي القاسم عبيد الله بن [السنبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "al-nasriya"
+          ]
+        ]
+      },
+      "endIndex": 147,
+      "guid": "84ee76a1-dd6b-4577-8b66-231a9cd15b73",
+      "startIndex": 129,
+      "text": "مسجد الشيخ بالنصرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "9252cedf-4060-4575-a737-c15d42574db7",
+      "startIndex": 293,
+      "text": "أبي محمد عبد المنعم الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 40,
+      "guid": "a1a1133f-e843-4429-892f-dc5e0340407f",
+      "startIndex": 15,
+      "text": "أبي بكر محمد بن عبد الباقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "b50b6914-e270-4c4d-a79f-6bad5e6e2c5c",
+      "startIndex": 97,
+      "text": "أبو طاهر يحيى بن مقبل بن الصدر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "b8f127e0-80f0-49ae-a71e-eadd009834f2",
+      "startIndex": 71,
+      "text": "عبد الله بن دهبل بن كاره",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "beb50836-9eef-4d87-845f-b851b7cf36bc",
+      "startIndex": 49,
+      "text": "أبي المعالي بن الصباغ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "527"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "c28ab176-9aa2-43e5-abf2-67ef299ea4c5",
+      "startIndex": 156,
+      "text": "الأربعاء غرة رجب سنة سبع وعشرين وخمسمية",
+      "type": "date"
+    }
+  ],
+  "text": "سمعه من القاضي أبي بكر محمد بن عبد الباقي بقراءة أبي المعالي بن الصباغ عبد الله بن دهبل بن كاره وأبو طاهر يحيى بن مقبل بن الصدر بمسجد الشيخ بالنصرية في يوم الأربعاء غرة رجب سنة سبع وعشرين وخمسمية نقلت ذلك من خط أبي القاسم عبيد الله بن [السنبي ؟] نقله أحمد بن محمد الظاهري كما شاهده بخط الإمام أبي محمد عبد المنعم الحراني"
+}

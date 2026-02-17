@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن منده بن منصور بن الهيثم الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "التاسع من حديث محمد بن منده"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 163"
+      ],
+      "classmark": [
+        "3768/9"
+      ],
+      "folio_number": [
+        "156v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "0d0f7777-f01e-4b5b-9633-a1a20291828c",
+      "startIndex": 211,
+      "text": "أبي محمد عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "1b09154d-af00-4692-bb49-a02a05306c40",
+      "startIndex": 251,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "35d1eb3b-0504-4b7e-b6e4-463fc132edce",
+      "startIndex": 103,
+      "text": "الأنجب بن أبي السعادات الحمامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "37a3e98c-5058-424f-9556-4d1d2217e2d9",
+      "startIndex": 144,
+      "text": "أبي الفتح ابن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "37c5095b-32e4-4676-9735-49eb6b81f693",
+      "startIndex": 42,
+      "text": "أبي زكريا يحيى بن محمد بن سعد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 333,
+      "guid": "3f82101d-183b-4b56-a63d-7cfd6612d5ca",
+      "startIndex": 318,
+      "text": "أحمد بن أبي طالب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "cf5ac607-35f8-4472-a92f-535434f7b4fb",
+      "startIndex": 174,
+      "text": "أبي الحسن ابن الخطيب الأنباري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "716"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "f15e78b4-b69d-4221-b479-2ab002aefca6",
+      "startIndex": 270,
+      "text": "ربيع الآخر سنة ست عشرة وسبعمائة",
+      "type": "date"
+    }
+  ],
+  "text": "سمع الجزء التاسع من حديث محمد بن منده على أبي زكريا يحيى بن محمد بن سعد بن عبد الله المقدسي بإجازته من الأنجب بن أبي السعادات الحمامي بسماعه من أبي الفتح ابن البطي بسماعه من أبي الحسن ابن الخطيب الأنباري بقراءة أبي محمد عبد الله بن أحمد بن المحب ابنه محمد في الرابعة في ربيع الآخر سنة ست عشرة وسبعمائة وأجازنا به أيضا أحمد بن أبي طالب عن الأنجب إجازة"
+}

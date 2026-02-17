@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عشرة أحاديث عن عشرة مشايخ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 59 "
+      ],
+      "classmark": [
+        "3749/7"
+      ],
+      "folio_number": [
+        "194v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "071e5ad4-ee66-494d-a6c6-35204a6fa510",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 214,
+      "text": "أبو القاسم علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 372,
+      "guid": "14cb7769-ad1f-4cf1-aef9-8e7a6aa8961d",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 348,
+      "text": "خطيب مردا محمد بن إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "6219356a-7eb0-447b-9fd5-b3d613f61a02",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "عز الدين أبي إسحق إبراهيم بن صالح بن هاشم بن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "717"
+        ]
+      },
+      "endIndex": 277,
+      "guid": "666af0b3-7d43-4ac2-bafd-6e41777a68b0",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 239,
+      "text": " سادس جمادى الآخرة سنة سبع عشرة وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 290,
+      "guid": "7d7995f7-045f-4b8a-8c59-317764038f24",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 280,
+      "text": "منزلهم بحلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "8e1c8b53-5287-4f96-8cc0-5346ab4c76bd",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 182,
+      "text": "أبو الحسن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "a3fd2b95-b300-45da-a881-7994cc327865",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "أبو محمد الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "abf33e63-fca2-4703-8038-cf6c024e4e9d",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 101,
+      "text": "شرف الدين الحسين بن عمر بن حسن بن عمر بن حبيب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "ad7c6909-2fcd-4f6e-9336-34f9d2bc2df2",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 78,
+      "text": "ابن خليل",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على عز الدين أبي إسحق إبراهيم بن صالح بن هاشم بن العجمي بسماعه تراه من ابن خليل بقراءة الإمام شرف الدين الحسين بن عمر بن حسن بن عمر بن حبيب ومن خطه لخصت جمع منهم أخوته الثلثة أبو الحسن محمد وأبو محمد الحسن وأبو القاسم علي وصح ذلك في سادس جمادى الآخرة سنة سبع عشرة وسبعمية بمنزلهم بحلب وأجاز وسمعوا عليه بالتاريخ مسلسلات التيمي بسماعه لها من خطيب مردا محمد بن إسماعيل بسنده"
+}

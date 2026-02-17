@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/6"
+      ],
+      "folio_number": [
+        "94v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "0db421e1-2541-49ab-9d51-ebb795db9639",
+      "index": 296,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": "الحاجي بزغش بن عبد الله الشافعي التاجر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "32dd6196-0c73-4e2e-a5d6-c26dfb632524",
+      "index": 295,
+      "isZeroPoint": false,
+      "startIndex": 110,
+      "text": "أبو الفرج عبد اللطيف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 326,
+      "guid": "5385f0fc-f96d-43d5-9420-20accb9f615c",
+      "index": 299,
+      "isZeroPoint": false,
+      "startIndex": 304,
+      "text": "أبي القاسم بن السمرقندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "653bbc65-8e15-4fd9-bdaa-b8f190a0f803",
+      "index": 298,
+      "isZeroPoint": false,
+      "startIndex": 238,
+      "text": "عبد العزيز بن محمود بن الأخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "597"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "68b2ba7c-dfcf-4403-a31e-30199fd70bb3",
+      "index": 297,
+      "isZeroPoint": false,
+      "startIndex": 174,
+      "text": "يوم الاثنين ثاني عشر جمادى الآخر من سنة سبع وتسعين وخمسمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "ad743309-33d2-493f-81df-870d2c6d8721",
+      "index": 294,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "نجم الدين أبو محمد عبد المنعم بن علي بن نصر بن الصيقل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 361,
+      "guid": "e67d5b00-e296-410e-8e0e-ab4b82a8f19d",
+      "index": 300,
+      "isZeroPoint": false,
+      "startIndex": 342,
+      "text": "أحمد بن محمد الظاهري",
+      "type": "person"
+    }
+  ],
+  "text": " قرأه عليَّ الشيخ الأجل الزاهد نجم الدين أبو محمد عبد المنعم بن علي بن نصر بن الصيقل الحراني الفقيه وسمع ولده أبو الفرج عبد اللطيف والحاجي بزغش بن عبد الله الشافعي التاجر في يوم الاثنين ثاني عشر جمادى الآخر من سنة سبع وتسعين وخمسمية وكتب عبد العزيز بن محمود بن الأخضر وذلك عرضا بأصلي وفيه سماعي من الشيخ أبي القاسم بن السمرقندي عن شيوخه نقله أحمد بن محمد الظاهري كما شاهده بخط الحافظ عبد العزيز بن الأخضر رحمه الله"
+}

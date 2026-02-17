@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عثمان بن أحمد بن محمد بن هارون السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة الحسان العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/5"
+      ],
+      "folio_number": [
+        "75r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "year": [
+          "682"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "3434919a-3a54-4590-9698-55df8dcf611a",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 134,
+      "text": "اثنتين وثمانين وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "480eb8dd-60a3-4afc-9abb-6fd5787e4f83",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 61,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "b239fb2a-2d2a-4f4b-9885-4c6e19b7242e",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 30,
+      "text": " أبي العباس أحمد بن تيمية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "cb750737-5e0b-4241-842a-20cdf6ab56a1",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 71,
+      "text": "أبو محمد القاسم بن محمد البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 166,
+      "guid": "e9497582-dc24-4685-b546-cfd165f6edb6",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "جبل قاسيون",
+      "type": "place"
+    }
+  ],
+  "text": " وسمعه عليه بقراءة شيخ الإسلام أبي العباس أحمد بن تيمية أخوه عبد الله وأبو محمد القاسم بن محمد البرزالي وآخرون في [فراغ في الأصل] سنة اثنتين وثمانين وستمية بجبل قاسيون نقلته من ثبت ابن تيمية"
+}

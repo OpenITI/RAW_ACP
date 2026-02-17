@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عمر بن محمد بن سلم بن البراء التميمي الجعابي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ذكر من حدث عن النبي هو وأبوه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "38v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f41.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f41.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 274,
+      "guid": "0f20de24-7e16-4c71-9989-23f5a3d78be5",
+      "startIndex": 261,
+      "text": "سفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "99c4fdb6-2f5b-47fd-bbb5-6bf4a0f9e287",
+      "startIndex": 197,
+      "text": "أحمد بن محمد بن عيسى بن الخرزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "634"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "ecaef349-9f30-413d-954c-bc3d06509e4c",
+      "startIndex": 135,
+      "text": "يوم الأحد ثالث عشرين ربيع الأول سنة أربع وثلاثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "fb01c4be-cff1-4ef7-b118-efa1a86331dc",
+      "startIndex": 57,
+      "text": " ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم الحافظ الناقد ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي بسماعه فيه وصح في يوم الأحد ثالث عشرين ربيع الأول سنة أربع وثلاثين وستماية كتبه أحمد بن محمد بن عيسى بن الخرزي بخطه والحمد لله وحده وذلك بدمشق بسفح جبل قاسيون"
+}

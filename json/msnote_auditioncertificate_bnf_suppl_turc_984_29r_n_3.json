@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "29r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.item.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "726285b3-1d22-4d70-b5e4-7fffee6cd4a9",
+      "index": 417,
+      "isZeroPoint": false,
+      "startIndex": 29,
+      "text": "زينب بنت إسماعيل بن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 27,
+      "guid": "7cbe291f-d588-4416-9b79-c7060e334ca2",
+      "index": 416,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "علي الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11- 20"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "8cc9a9de-271a-4219-b726-39476a15c39a",
+      "index": 418,
+      "isZeroPoint": false,
+      "startIndex": 56,
+      "text": "في العشر الأوسط من ربيع الأول سنة خمس وستين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه منه بقراءة علي الموصلي زينب بنت إسماعيل بن الخباز في العشر الأوسط من ربيع الأول سنة خمس وستين وستماية."
+}

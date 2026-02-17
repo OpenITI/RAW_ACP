@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن عثمان الذهبي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "معجم الذهبي الصغير"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 60"
+      ],
+      "classmark": [
+        "3749/9"
+      ],
+      "folio_number": [
+        "217v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "khanaqah_simisatiya"
+          ]
+        ]
+      },
+      "endIndex": 126,
+      "guid": "8bf459fd-022c-48ca-8930-f87c9eb29f15",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 102,
+      "text": "الخانقاه السميساطية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "d0d40523-bfb3-408f-916a-87d724756ba6",
+      "index": 91,
+      "isZeroPoint": false,
+      "startIndex": 34,
+      "text": "شهاب الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "e2b56d10-f28d-4073-9b15-66ff3c4b74e7",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 139,
+      "text": "محمد بن الخيضري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "840"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "ff33421c-54f5-428d-95c7-63327e505d30",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 52,
+      "text": " في مستهل جمادى الأولى 84 [840]",
+      "type": "date"
+    }
+  ],
+  "text": " الحمد لله وحده وقرأته على القاضي شهاب الدين المذكور في مستهل جمادى الأولى 84 [840] أحسن الله ختامها بالخانقاه السميساطية بدمشق وأجاز كتبه محمد بن الخيضري"
+}

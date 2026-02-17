@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن الفضل التيمي الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "جزء فيه أحاديث مسلسلات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 180"
+      ],
+      "classmark": [
+        "3771/10"
+      ],
+      "folio_number": [
+        "155r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "68526646-1c83-4d95-bbb7-06c3b8a36996",
+      "startIndex": 70,
+      "text": "شرف الدين أبي محمد عبد المؤمن بن خلف بن أبي الحسن الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "6cfa4706-c5ff-496c-bfe9-79fca7ea5976",
+      "startIndex": 209,
+      "text": "أبي محمد عبد الحميد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 768,
+      "guid": "6d1eeaf0-8e96-4f38-ae43-f150fce327b9",
+      "startIndex": 710,
+      "text": "ناصر الدين أبو عبد الله محمد بن أحمد بن مصطفى الواعظ القدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 898,
+      "guid": "7732392a-8c5b-4e1e-9875-4f7103c747c8",
+      "startIndex": 843,
+      "text": "الخميس العاشر من شعبان المبارك من سنة تسع وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "7e857cd7-a2f3-47b1-b960-aa2363d445a9",
+      "startIndex": 230,
+      "text": "أبي عبد الله محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "zahiriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 933,
+      "guid": "92529a18-bd96-4040-a6c4-53d0accee8e7",
+      "startIndex": 901,
+      "text": "المدرسة الظاهرية بالقاهرة المعزية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 418,
+      "guid": "b0023fb3-b232-43b9-ba9f-f445f0fa52f9",
+      "startIndex": 368,
+      "text": "محمد بن عبد الحميد بن عبد الله بن خلف القرشي المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "b23e1f21-0d86-47ac-9d98-6573eef44f6b",
+      "startIndex": 299,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 821,
+      "guid": "b59926bc-d9b9-4ed2-a232-35ec7113e2e6",
+      "startIndex": 776,
+      "text": "شمس الدين محمد بن أبي بكر بن أبي الوقار الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 581,
+      "guid": "c26214d5-c141-44bc-81e2-007ba6c1d6a4",
+      "startIndex": 530,
+      "text": "أبو عبد الله محمد بن عاصم بن عبيد الله الرندي القيسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 513,
+      "guid": "d586be5f-baae-4bbc-82c5-bf3e0d2f5d55",
+      "startIndex": 456,
+      "text": "سديد الدين أبي بكر عبد الله بن أحمد بن علي بن عامر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 647,
+      "guid": "e9002543-f92d-4103-81cf-5c74b94810ce",
+      "startIndex": 597,
+      "text": "عز الدين محمد بن عبد القادر بن عثمان عرف بابن منهال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 693,
+      "guid": "ee45daa3-eafb-4b03-b2c3-4b65fb2dc996",
+      "startIndex": 650,
+      "text": "أبو عبد الله محمد بن سعيد بن عبد الله المدني",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذه الأحاديث المسلسلة بشرطها على شيخنا الإمام العلامة الحافظ شرف الدين أبي محمد عبد المؤمن بن خلف بن أبي الحسن الدمياطي أبقاه الله تعالى بحق سماعه من شيوخه الأربعة المذكورين فيه وبحق سماعه من الشيخين أبي محمد عبد الحميد وأبي عبد الله محمد ابني عبد الهادي ابن قدامة المقدسي بسماعهم ستتهم من الثقفي بسنده بقراءة فقير رحمة الله سبحانه وتعالى خادم السنة والجماعة محمد بن عبد الحميد بن عبد الله بن خلف القرشي المصري والخط له الجماعة القاضي الأجل العدل سديد الدين أبي بكر عبد الله بن أحمد بن علي بن عامر المقدسي والفقيه الصالح أبو عبد الله محمد بن عاصم بن عبيد الله الرندي القيسي والفقيه الأجل عز الدين محمد بن عبد القادر بن عثمان عرف بابن منهال وأبو عبد الله محمد بن سعيد بن عبد الله المدني والفقيه الصالح ناصر الدين أبو عبد الله محمد بن أحمد بن مصطفى الواعظ القدسي والأخ شمس الدين محمد بن أبي بكر بن أبي الوقار الحلبي وصح ذلك وثبت في يوم الخميس العاشر من شعبان المبارك من سنة تسع وسبعين وستمائة بالمدرسة الظاهرية بالقاهرة المعزية وأجاز الشيخ المسمع للمذكورين جميع ما يجوز له وعنه روايته بشرطه وتلفظ بذلك والحمد لله وحده وصلى الله على سيدنا محمد وعلى آله وصحبة وسلم. فيه كشط على المؤمن وهو صحيح وحسبنا الله ونعم الوكيل والحمد لله أولا وآخرا"
+}

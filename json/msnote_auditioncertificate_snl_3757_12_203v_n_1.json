@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عمر بن أحمد بن عثمان بن أحمد بن شاهين البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فضائل شهر رمضان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/12"
+      ],
+      "folio_number": [
+        "203v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "1f16c277-8746-4174-8703-454bcf1b822d",
+      "startIndex": 142,
+      "text": "بن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "733"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "49d1f2e9-5f86-4ecb-a9ad-668f8d5aba6a",
+      "startIndex": 197,
+      "text": "يوم الأحد التاسع والعشرين من ربيع الآخر سنة ثلاث وثلاثين وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 278,
+      "guid": "4cc41307-4c47-409f-80e3-c7260a17c5a8",
+      "startIndex": 265,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "4d6e987c-ec5a-46d9-9efd-c893fa432a81",
+      "startIndex": 179,
+      "text": "الكندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "6c10a6aa-0962-4244-b7b0-bf1b56bff1d1",
+      "startIndex": 154,
+      "text": "ابن العسقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "7439de34-e946-48d7-9e1a-efecdb110a8a",
+      "startIndex": 39,
+      "text": "شمس الدين أبي عبد الله محمد بن عبد الحافظ بن عبد المنعم بن غازي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "8d873bc3-fafc-456d-a722-7a5d1b0c34ab",
+      "startIndex": 301,
+      "text": "محمد بن محمد ابن أبي بكر بن أحمد بن عبد الدائم المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء على الشيخ الجليل المسند شمس الدين أبي عبد الله محمد بن عبد الحافظ بن عبد المنعم بن غازي المقدسي بسماعه فيه أصلا من شيخ الإسلام بن أبي عمر وابن العسقلاني بسماعهم من الكندي وصح ذلك في يوم الأحد التاسع والعشرين من ربيع الآخر سنة ثلاث وثلاثين وسبع ماية بالجامع المظفري بسفح جبل قاسيون وكتب محمد بن محمد ابن أبي بكر بن أحمد بن عبد الدائم المقدسي حامدا الله مصليا على رسوله وآله وصحبه"
+}

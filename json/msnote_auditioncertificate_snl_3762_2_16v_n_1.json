@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "همام بن منبه بن كامل الصنعاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "صحيفة همام بن منبه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 124"
+      ],
+      "classmark": [
+        "3762/2"
+      ],
+      "folio_number": [
+        "16v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "069c9644-6c5b-4aa3-889d-63e894c780d4",
+      "startIndex": 62,
+      "text": "أم الفضل كريمة بنت الشيخ الأمين نجم الدين عبد الوهاب بن علي بن الخضر القرشية الزبيرية الأسدية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "213cac8c-5023-4c55-a744-e11080e72991",
+      "startIndex": 232,
+      "text": " بن منده",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 504,
+      "guid": "254cb4cf-bd9d-4fd0-beaa-562bba68b3b5",
+      "startIndex": 463,
+      "text": "بمنزلها عمر بطول بقائها من درب المسك بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "623"
+        ]
+      },
+      "endIndex": 461,
+      "guid": "6026b8da-e7a7-44bf-94ad-a259b9470480",
+      "startIndex": 408,
+      "text": "الثلثا سابع عشر شهر ربيع الأول سنة ثلاث وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "6048dcce-d5e0-4a75-9bfd-38ac9c47cbb0",
+      "startIndex": 269,
+      "text": "جمال الدين أبي العباس أحمد بن أبي الفضائل ابن أبي المجد الدخميسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "61eff9d4-81c7-407c-8964-1bfdc16f17fc",
+      "startIndex": 344,
+      "text": "عمر بن محمد بن منصور الأميني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "d384394b-d1a1-4774-a045-a648b5e5304c",
+      "startIndex": 196,
+      "text": "أبي الخير محمد بن الباغبان",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء من أوله إلى آخره على الشيخة الصالحة الصينة أم الفضل كريمة بنت الشيخ الأمين نجم الدين عبد الوهاب بن علي بن الخضر القرشية الزبيرية الأسدية صان الله قدرها بإجازتها من الشيخ الأصيل أبي الخير محمد بن الباغبان عن الإمام بن منده بقراءة الإمام العالم الفاضل جمال الدين أبي العباس أحمد بن أبي الفضائل ابن أبي المجد الدخميسي نفعه الله عمر بن محمد بن منصور الأميني وهذا خطه عفا الله عنه وصح وثبت يوم الثلثا سابع عشر شهر ربيع الأول سنة ثلاث وعشرين وستماية بمنزلها عمر بطول بقائها من درب المسك بدمشق والحمد لله حق حمده"
+}

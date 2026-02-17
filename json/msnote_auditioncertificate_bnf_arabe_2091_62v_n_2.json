@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "جمال الدين المزي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/16163574"
+      ],
+      "work_title": [
+        "تهذيب الكمال في اسمــاء الرجــال "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 2091"
+      ],
+      "folio_number": [
+        "62v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110026394/f65.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110026394/f65.item.r=%22Arabe%202091%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "714"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "3d24cd86-449a-4461-a3e7-e027047d46fe",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 39,
+      "text": "يوم الأربعاء السابع والعشرين من صفر سنة أربع عشرة وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "c0810dbc-f748-4268-988b-f8b0045a4eeb",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "محمد بن المهندس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "ca9d10c6-999d-442d-9c02-2de9be6559ac",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 104,
+      "text": "علاء الدين طيبرس الفاروخي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته عليه وعارضت نسختي في مجالس آخرها يوم الأربعاء السابع والعشرين من صفر سنة أربع عشرة وسبع ماية وسمع علاء الدين طيبرس الفاروخي من ترجمة عمر بن شبيب إلى آخره وكتب محمد بن المهندس"
+}

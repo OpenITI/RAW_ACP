@@ -1,0 +1,548 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عطاء الروذباري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الروذباري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 134"
+      ],
+      "classmark": [
+        "3763/18"
+      ],
+      "folio_number": [
+        "217r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1115,
+      "guid": "0183174a-f7ca-4d98-9c7a-161e86c1b848",
+      "startIndex": 1098,
+      "text": "[...] بنت عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "0844b91a-8b40-43da-8744-f9f6d2175386",
+      "startIndex": 112,
+      "text": "شهاب الدين أبي العباس أحمد بن أبي طالب بن نعمة بن حسن بن علي بن بيان الحجار ابن الشحنة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 391,
+      "guid": "13a99061-bd2c-4216-beaa-a70b78da094f",
+      "startIndex": 332,
+      "text": "عماد الدين أبي الفداء إسماعيل بن عمر بن كثير الشافعي البصروي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "626"
+        ]
+      },
+      "endIndex": 1725,
+      "guid": "201f2d5e-2d48-4865-b562-8fb1c1f51380",
+      "startIndex": 1682,
+      "text": "الثامن عشر من ذي الحجة سنة ست وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1668,
+      "guid": "2232d348-e790-4a66-873a-7a5c814685e2",
+      "startIndex": 1623,
+      "text": "بدر الدين الحسن بن علي بن محمد البغدادي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 435,
+      "guid": "2da4e449-3f70-43e7-b235-9ec36c101fde",
+      "startIndex": 407,
+      "text": "هلال بن أحمد بن محمد البصراوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 736,
+      "guid": "3491c984-4576-4f84-b73a-904fa50e12d8",
+      "startIndex": 685,
+      "text": "شهاب الدين أحمد بن إبراهيم بن أحمد بن عثمان السنجاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1244,
+      "guid": "349b79f4-8135-4db6-bdbf-b6ec82e7b4b0",
+      "startIndex": 1233,
+      "text": "محمد بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 1752,
+      "guid": "3d1717dd-f787-44ff-8391-e7401225166d",
+      "startIndex": 1728,
+      "text": "دار الحديث الأشرفية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "4d9b285e-52b6-4ae3-a372-4a55efc80c85",
+      "startIndex": 216,
+      "text": "أبي إسحق إبراهيم بن عمر بن يوسف بن إبراهيم الكاشغري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 576,
+      "guid": "503c30ce-2a75-4034-8ae9-7804dc4c4a78",
+      "startIndex": 544,
+      "text": "مبارك بن عبد الله اللبناني الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 839,
+      "guid": "53ca947d-3a45-499f-b2b3-0826d510a737",
+      "startIndex": 787,
+      "text": "محمد بن محمد بن إسماعيل بن العفيف الحراني التاجر أبوه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 682,
+      "guid": "546a5350-2ae6-42e4-a852-1127280ed6f8",
+      "startIndex": 649,
+      "text": "صفي الدين جوهر بن عبد الله الكاملي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 516,
+      "guid": "72cbc38a-6e99-4fa5-8fdf-742642685282",
+      "startIndex": 458,
+      "text": "شمس الدين أبو عبد الله محمد بن إبراهيم بن غنائم ابن المهندس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami",
+          "reader"
+        ]
+      },
+      "endIndex": 1517,
+      "guid": "73e09377-f740-4efd-b132-dd465e6d4193",
+      "startIndex": 1470,
+      "text": "ناصر الدين أبو عبد الله محمد بن طغريل بن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1028,
+      "guid": "7e65490a-b8e2-443d-a7ce-5e104062ecc2",
+      "startIndex": 981,
+      "text": "زاهر بن يحيى بن عبد الرحيم بن عبد الرزاق الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 953,
+      "guid": "87d80c88-024c-4800-8c66-669ffa351c72",
+      "startIndex": 932,
+      "text": "فرج بن عبد الله الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1183,
+      "guid": "93ff23ca-6bf8-4aa2-99f6-f9d8447fd9cc",
+      "startIndex": 1141,
+      "text": "أبو بكر بن محمد بن محمد بن عبد الله الجعبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 535,
+      "guid": "96f7aa32-0c72-4a7e-bf28-8228000d1fe2",
+      "startIndex": 532,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1215,
+      "guid": "aaf6d1c0-2500-4728-bcfa-d722b8632c07",
+      "startIndex": 1186,
+      "text": "محمد بن محمد بن الحسن بن نباتة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 910,
+      "guid": "ba4b7488-7b17-4d9d-ad2c-3a40bb413526",
+      "startIndex": 874,
+      "text": "محمد بن سنجر بن عبد الله الحمامي أبوه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 871,
+      "guid": "bcd382e7-78de-4bee-9bf0-f1fb7d789bda",
+      "startIndex": 842,
+      "text": "محمد بن حسن بن سعيد ابن الشماع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1065,
+      "guid": "c19b76fe-2613-46fd-b983-5239dbb22f25",
+      "startIndex": 1031,
+      "text": "فاطمة بنت أبي الفتح بن أحمد الراكبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 638,
+      "guid": "d3c4bc95-8e3c-491b-a6fc-3b1123cd3681",
+      "startIndex": 585,
+      "text": "جمال الدين عبد الله بن عبد الصمد بن عمر بن عبية الحموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "f8b53e43-8b7e-4cff-8e76-867388b7ec0d",
+      "startIndex": 277,
+      "text": " أبي الفتح بن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 784,
+      "guid": "fdea1e52-d5cd-41aa-ad1d-17c3803b4088",
+      "startIndex": 739,
+      "text": "صلاح الدين محمد بن أحمد بن علي بن قبيطة الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ]
+      },
+      "endIndex": 1095,
+      "guid": "ff2a293c-286c-4cf3-a91d-7cfe623b431e",
+      "startIndex": 1068,
+      "text": "صفية بنت حسن بن معتد الكناني",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو ثلث مجالس من أمالي أبي عبد الله أحمد بن عطاء الروذباري الصوفي رحمه الله على الشيخ المسند شهاب الدين أبي العباس أحمد بن أبي طالب بن نعمة بن حسن بن علي بن بيان الحجار ابن الشحنة بإجازته من الشيخ أبي إسحق إبراهيم بن عمر بن يوسف بن إبراهيم الكاشغري بسماعه من أبي الفتح بن البطي بقراءة الفقيه العالم الفاضل المحدث عماد الدين أبي الفداء إسماعيل بن عمر بن كثير الشافعي البصروي الجماعة الشيخ هلال بن أحمد بن محمد البصراوي والشيخ العالم الحافظ شمس الدين أبو عبد الله محمد بن إبراهيم بن غنائم ابن المهندس وولده المبارك أحمد والشيخ مبارك بن عبد الله اللبناني الصوفي والشيخ جمال الدين عبد الله بن عبد الصمد بن عمر بن عبية الحموي والطواشي صفي الدين جوهر بن عبد الله الكاملي وشهاب الدين أحمد بن إبراهيم بن أحمد بن عثمان السنجاري وصلاح الدين محمد بن أحمد بن علي بن قبيطة الصفار ومحمد بن محمد بن إسماعيل بن العفيف الحراني التاجر أبوه ومحمد بن حسن بن سعيد ابن الشماع ومحمد بن سنجر بن عبد الله الحمامي أبوه عتيق الشهاب العطار وفرج بن عبد الله الحبشي عتيق ابن البيروتي العطار وزاهر بن يحيى بن عبد الرحيم بن عبد الرزاق الجوهري وفاطمة بنت أبي الفتح بن أحمد الراكبي وصفية بنت حسن بن معتد الكناني و[...] بنت عبد الله عتيقة صاحبة حماة [كذا] وأبو بكر بن محمد بن محمد بن عبد الله الجعبري ومحمد بن محمد بن الحسن بن نباتة وهذا خطه وحفيده محمد بن محمد جبره الله تعالى وسمعه خلا من حديث واثلة بن الأسقع قال قال رسول الله صلى الله عليه وسلم تحوز المرأة ثلثة مواريث لقيطها وعتيقها وولدها الذي لاعنت عليه في المجلس الثاني إلى آخر المجلس الثاني المذكور الفقيه العالم الفاضل المحدث ناصر الدين أبو عبد الله محمد بن طغريل بن الصيرفي بعضه بقراءة القارئ المذكور وبعضه بقراءته لنفسه وسمع من أول الجزء إلى حديث واثلة بن الأسقع المذكور أعلاه بدر الدين الحسن بن علي بن محمد البغدادي الصوفي وصح وثبت في الثامن عشر من ذي الحجة سنة ست وعشرين وستماية بدار الحديث الأشرفية بدمشق وأجاز له المسمع جميع ما يجوز له وعنه روايته بشرطه"
+}

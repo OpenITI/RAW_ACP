@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن عساكر"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "تاريخ مدينة دمشق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 1775"
+      ],
+      "folio_number": [
+        "106r"
+      ],
+      "image_link": [
+        "https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00018887/Ms-orient-A-01775_00215.tif"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00001781"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "2f6ed115-e511-40f9-8d54-22d1747cbfae",
+      "startIndex": 125,
+      "text": "أبو سعد [الله] ابن شيخنا أبي البركات الحسن [بن محمد بن] الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "3c204461-0bd3-4220-9649-c24ec45474cf",
+      "startIndex": 250,
+      "text": "محمد بن يوسف بن محمد البرزا[لي]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 395,
+      "guid": "4c2759c1-221a-4dd0-a14e-77538de26c44",
+      "startIndex": 382,
+      "text": "غربي جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 540,
+      "guid": "5125ef8b-21a8-47cd-98ca-ac9ddb94caa7",
+      "startIndex": 478,
+      "text": "أبو الحسن علي بن [...] محمد بن عبد السلام بن سعد [...] الميانجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "614"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "5ecef68b-9754-4061-8c2f-a48d03b69398",
+      "startIndex": 315,
+      "text": "يوم الخميس الرابع والعشرين [...] سنة ست عشرة وستماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "653b82e4-db9b-4268-8a5d-424374de0644",
+      "startIndex": 188,
+      "text": "أبو الحسن علي بن أحمد بن [...] الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "857e13f7-355e-48b8-8163-d9a96cb1cf5f",
+      "startIndex": 32,
+      "text": "أبي الفضل عبد المنعم [بن علي بن صدقة] الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 468,
+      "guid": "a7cde0ca-5bf5-4cd6-9200-55bb1e22aabe",
+      "startIndex": 443,
+      "text": "أبي المعالي محمد بن [....]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 247,
+      "guid": "cd6fa347-9e23-4f3a-b1b6-646b37dd8556",
+      "startIndex": 229,
+      "text": "عبد الرحمن بن [...]",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء [...] الأمين أبي الفضل عبد المنعم [بن علي بن صدقة] الحراني بسماعه فيه والملحق [بالإجازة] المطلقة من مصنفه أبو سعد [الله] ابن شيخنا أبي البركات الحسن [بن محمد بن] الحسن وأبو الحسن علي بن أحمد بن [...] الإشبيلي وعبد الرحمن بن [...] ومحمد بن يوسف بن محمد البرزا[لي] بقراءته وهذا خطه وعارض [...] ذلك يوم الخميس الرابع والعشرين [...] سنة ست عشرة وستماية [...] المقدسي غربي جامع دمشق [...] وقرأت عليه جزءا ضخما من [...] بسماعه من أبي المعالي محمد بن [....] أنا جدي أبو الحسن علي بن [...] محمد بن عبد السلام بن سعد [...] الميانجي إملاءً وذلك بالرواية [...] والتاريخ عقيب فراغ هذا [...] المذكورة أعلاه وصح ذلك."
+}

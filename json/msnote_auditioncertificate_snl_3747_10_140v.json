@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن المظفر بن محمد بن موسى بن عيسى البزاز "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 50/51"
+      ],
+      "classmark": [
+        "3747/10"
+      ],
+      "folio_number": [
+        "140v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "1aa82f7c-c23c-4d20-85c8-bbb3cdc8c12e",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 161,
+      "text": "ابن طبرزد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "3ab869a3-e514-44e8-84fd-704ff7cb49af",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 238,
+      "text": "القاسم بن محمد بن يوسف بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 361,
+      "guid": "70c9285e-5ec9-4c86-8736-91a6b880d5ae",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 335,
+      "text": "منزله بسفح قاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "7de78681-29ee-44aa-b75a-383116a87156",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 286,
+      "text": "يوم السبت سابع عشر شعبان سنة ثمان وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "9eb1df68-6720-485f-a2a1-ee58338326c7",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 88,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "c0455fdc-12de-454a-9bd0-6480e4e0dd62",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 185,
+      "text": "جمال الدين أبي الحجاج يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع هذا الجزء على الشيخ الإمام العالم الزاهد الورع شيخ المشايخ بقية السلف جمال الإسلام فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي بسماعه فيه أصلا من ابن طبرزد بقراءة الإمام جمال الدين أبي الحجاج يوسف بن الزكي عبد الرحمن المزي القاسم بن محمد بن يوسف بن البرزالي وهذا خطه وصح يوم السبت سابع عشر شعبان سنة ثمان وسبعين وستمية بمنزله بسفح قاسيون ظاهر دمشق والحمد لله وحده وصلوته على سيدنا محمد وآله"
+}

@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد العزيز ابن عبد السلام السلمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " احكام الجهاد وفضايله"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 793"
+      ],
+      "folio_number": [
+        "158r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00068277"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 840,
+      "guid": "0e7cb8ac-c463-430a-a918-38b7aaf7517f",
+      "startIndex": 675,
+      "text": "شرف الدين أبو عبد الله محمد بن الشيخ الإمام العالم العلامة العدل الأمين فتح الدين بن القاضي الأجل الإمام العالم العامل الصدر الكبير الفاضل جمال الدين أبي اسحق إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 365,
+      "guid": "56fa3972-6248-4520-9706-575da997c46d",
+      "startIndex": 358,
+      "text": "عز الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1101,
+      "guid": "5bd03316-3724-4e5c-9324-2e2637774b1c",
+      "startIndex": 1008,
+      "text": "محمد بن عثمان بن أحمد بن عثمان بن هبة الله بن أحمد بن عقيل القيسي الشافعي عرف بابن أبي الحوافر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "630"
+        ]
+      },
+      "endIndex": 987,
+      "guid": "5d3eb1b7-c346-4b52-8250-4c7522a591c6",
+      "startIndex": 929,
+      "text": "يوم الجمعة الرابع و[العشرين] من ذي القعدة سنة ثلاثين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 548,
+      "guid": "7889badf-b18e-4677-92a4-0efa2546aff5",
+      "startIndex": 507,
+      "text": "رضي الدين أبو بكر بن عمر بن علي القسطنطيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 911,
+      "guid": "84cb7852-14e2-4cac-abdd-f5fdb2aaed0a",
+      "startIndex": 893,
+      "text": "أبو محمد عبد الوهاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 313,
+      "guid": "89bf1354-6d4f-404b-a942-48de4959924b",
+      "startIndex": 152,
+      "text": "شرف الدين أبو عبد الله محمد بن الشيخ الإمام العالم العلامة مفتي المسلمين لسان المتكلمين قدوة العارفين عز الدين أبي محمد عبد العزيز بن عبد السلام ابن القاسم السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1101,
+      "guid": "b42f4b87-8ef3-4d30-bbe5-7fb25f1d3d16",
+      "startIndex": 1016,
+      "text": "عثمان بن أحمد بن عثمان بن هبة الله بن أحمد بن عقيل القيسي الشافعي عرف بابن أبي الحوافر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 874,
+      "guid": "c78e8b2b-80c7-4855-83cc-fdd3990a4540",
+      "startIndex": 860,
+      "text": "أبو [الحسن] علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 890,
+      "guid": "fdee37dc-6924-4cd0-9e06-2815c7c8ec2f",
+      "startIndex": 877,
+      "text": "أبو الفتح أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الكتاب الموسوع بأحكام الجهاد وفضائله على سيدي ومالكي والدي فسح الله لي في مدته وعلى سيدنا الشيخ الإمام العالم العلامة الصدر الكبير الكامل شرف الدين أبو عبد الله محمد بن الشيخ الإمام العالم العلامة مفتي المسلمين لسان المتكلمين قدوة العارفين عز الدين أبي محمد عبد العزيز بن عبد السلام ابن القاسم السلمي تغمده الله برحمته بحق سماعهما له على الشيخ عز الدين المؤلف وهذه النسخة التي هي أصل المسمع بيد شيخنا وسيدنا وقدوتنا الإمام العالم العلامة مفتي المسلمين لسان المتكلمين حجة العارفين العدل الصدوق رضي الدين أبو بكر بن عمر بن علي القسطنطيني فسح الله في مدته ونفع به كان يقابل بها حين القراءة فسمعه بقراءتي سيدنا الفقيه الإمام العالم الصدر الأمين الكامل العدل الرئيس شرف الدين أبو عبد الله محمد بن الشيخ الإمام العالم العلامة العدل الأمين فتح الدين بن القاضي الأجل الإمام العالم العامل الصدر الكبير الفاضل جمال الدين أبي اسحق إبراهيم وإخوتي أشقائي وهم أبو [الحسن] علي وأبو الفتح أحمد وأبو محمد عبد الوهاب وصح ذلك وثبت في يوم الجمعة الرابع و[العشرين] من ذي القعدة سنة ثلاثين وستمئة وكتب فقير رحمة ربه محمد بن عثمان بن أحمد بن عثمان بن هبة الله بن أحمد بن عقيل القيسي الشافعي عرف بابن أبي الحوافر حامداُ مصلياً مسلماً عفا الله عنه وغفر له ولوالديه"
+}

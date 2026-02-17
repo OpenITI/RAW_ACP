@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي وإسماعيل الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/12"
+      ],
+      "folio_number": [
+        "160r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 306,
+      "guid": "0a43f0df-20a9-4f58-bf54-d2a3c24c8301",
+      "startIndex": 282,
+      "text": "دار الحديث الأشرفية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "38f63353-ad56-4b69-bed4-69b542225d3f",
+      "startIndex": 92,
+      "text": "أبي حفص بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "854e8eba-7302-4aff-8b04-814dae823715",
+      "startIndex": 170,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "e873c179-2f29-45a7-b6e2-f205606db66f",
+      "startIndex": 116,
+      "text": "شمس الدين محمد بن عبد الرحمن بن يوسف بن محمد البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "684"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "e88edd63-9a2e-4f9a-b93f-5f1d02a83fd8",
+      "startIndex": 229,
+      "text": "الاثنين الثاني عشر من رمضان سنة أربع وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "f04f5951-bd15-4998-89f3-dcdfd83043f9",
+      "startIndex": 29,
+      "text": " بدر الدين أبي العباس أحمد بن شيبان بن تغلب الشيباني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الشيخ الجليل المسند بدر الدين أبي العباس أحمد بن شيبان بن تغلب الشيباني بسماعه من أبي حفص بن طبرزد بقراءة شمس الدين محمد بن عبد الرحمن بن يوسف بن محمد البعلبكي يوسف بن الزكي عبد الرحمن بن يوسف المزي وهذا خطه وآخرون يوم الاثنين الثاني عشر من رمضان سنة أربع وثمانين وستمية بدار الحديث الأشرفية بدمشق حرسها الله تعالى والحمد لله وحده "
+}

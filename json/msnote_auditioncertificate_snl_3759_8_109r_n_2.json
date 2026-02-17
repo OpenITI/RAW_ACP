@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن عرفة بن يزيد العبدي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الحسن بن عرفة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/8"
+      ],
+      "folio_number": [
+        "109r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 376,
+      "guid": "048dc186-00b4-4457-813e-2e0758993edc",
+      "startIndex": 365,
+      "text": "جامع الأموي ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "47d36c2e-f4e3-430c-9c31-e74cb2d616fe",
+      "startIndex": 110,
+      "text": "أم محمد لطيفة ابنة محمد ابن الأماسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 407,
+      "guid": "4831c9b7-02f0-48ba-a824-3b30cc98dfbd",
+      "startIndex": 383,
+      "text": "أحمد بن حسن بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "512580af-f258-4e37-8801-19ee21f4dec8",
+      "startIndex": 245,
+      "text": " أبي العباس أحمد بن عبد الدائم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "58e37704-2dee-4cfa-bc29-2a7dafc09106",
+      "startIndex": 76,
+      "text": "ابن ناصر الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "7df44002-4cc7-4640-aafb-1fc579df8091",
+      "startIndex": 183,
+      "text": "أمة العزيز زينب بنت أبي الفداء إسماعيل بن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "876"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "db02ff0c-5524-4bd9-9753-776689984518",
+      "startIndex": 289,
+      "text": "يوم الجمعة سادس شهر رمضان المعظم قدره سنة ست وسبعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "fbb69ac8-23c3-44b9-9107-ba2f3fb55125",
+      "startIndex": 33,
+      "text": "برهان الدين العجلوني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع جزء ابن عرفة على الشيخ برهان الدين العجلوني بسماعه له بقراءة شيخه ابن ناصر الدين على الشيخة المسندة أم محمد لطيفة ابنة محمد ابن الأماسي بحضورها في الثالثة لجميعه على الشيخة أمة العزيز زينب بنت أبي الفداء إسماعيل بن الخباز بسماعه له على أبي العباس أحمد بن عبد الدائم وصح ذلك وثبت يوم الجمعة سادس شهر رمضان المعظم قدره سنة ست وسبعين وثمان ماية |وأجازه لي| بجامع الأموي وكتبه أحمد بن حسن بن عبد الهادي"
+}

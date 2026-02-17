@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يحيى بن محمد بن صاعد بن كاتب البغدادي الهاشمي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "حديث يحيى بن محمد بن صاعد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 173"
+      ],
+      "classmark": [
+        "3770/8"
+      ],
+      "folio_number": [
+        "119r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "725"
+        ]
+      },
+      "endIndex": 633,
+      "guid": "023e79ef-0034-47dc-bb5b-4f44a6c2ca05",
+      "startIndex": 575,
+      "text": "الأربعاء حادي عشر شهر ربيع الآخر من سنة خمس وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "08d61e14-f35f-4b68-9cd2-247cba260fd4",
+      "startIndex": 275,
+      "text": "أبو الفتح أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 483,
+      "guid": "2f313a0e-ecdf-4de3-9a70-43118425a62a",
+      "startIndex": 456,
+      "text": "موسى بن علي بن محمد الزهراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "33bca106-88e8-4a7e-94ee-cb0f42ea2a4d",
+      "startIndex": 147,
+      "text": "ابن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "3dc4997e-7312-4ab9-a6b6-aeb35646c534",
+      "startIndex": 210,
+      "text": "محب الدين أبي محمد عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 403,
+      "guid": "4a71d7ce-3ea7-4512-a1db-c2537c67e8da",
+      "startIndex": 348,
+      "text": "جمال الدين إبراهيم بن محمد بن نصر الله بن إسماعيل النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 683,
+      "guid": "56821fb1-2a9a-470c-bff1-d8eb41f898c1",
+      "startIndex": 666,
+      "text": "مسجد المسمع بدمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 447,
+      "guid": "5eb50b39-e6e5-4459-af54-362bddebf9ca",
+      "startIndex": 415,
+      "text": "كمال الدين محمد بن علاء الدين علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 516,
+      "guid": "7ba11d9d-1464-44e6-af98-8207f21bdc46",
+      "startIndex": 497,
+      "text": "عبد الله [بن] بهادر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 345,
+      "guid": "7f132798-7f86-4807-bf5d-30c6ad693b66",
+      "startIndex": 291,
+      "text": "شمس الدين محمد بن سعد الدين يحيى بن محمد بن سعد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 556,
+      "guid": "b3976287-c5ad-4202-a98f-c4248319b759",
+      "startIndex": 530,
+      "text": "محمد بن ثابت بن نابت الخببي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "ddde9cdc-533b-44ef-bec0-183b9b0cdcce",
+      "startIndex": 65,
+      "text": "عماد الدين أبي إسحق إبراهيم بن يحيى بن أحمد الكيال الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "f0ddcfcb-e12a-4695-8bef-8e71f5d8d00a",
+      "startIndex": 261,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع من هنا إلى آخره على الشيخ الإمام العالم الفاضل الكبير المحدث عماد الدين أبي إسحق إبراهيم بن يحيى بن أحمد الكيال الحنفي بسماعه لذلك فيه أصلا من ابن عبد الدائم بسنده بقراءة الشيخ الإمام العالم العلامة الحافظ محب الدين أبي محمد عبد الله بن أحمد بن المحب ابناه أبو بكر محمد وأبو الفتح أحمد وشمس الدين محمد بن سعد الدين يحيى بن محمد بن سعد المقدسي وجمال الدين إبراهيم بن محمد بن نصر الله بن إسماعيل النحاس وابن أخيه كمال الدين محمد بن علاء الدين علي والشيخ موسى بن علي بن محمد الزهراني وأخوه سعيد وعبد الله [بن] بهادر عتيق المسمع ومحمد بن ثابت بن نابت الخببي وصح ذلك وثبت يوم الأربعاء حادي عشر شهر ربيع الآخر من سنة خمس وعشرين وسبعماية وأجاز لنا ما يجوز له أن يرويه بمسجد المسمع بدمشق "
+}

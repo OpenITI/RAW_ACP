@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "180r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f184.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f184.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "0b159187-e820-4a4b-80ba-1b99a52abf3e",
+      "index": 333,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "59d4fefa-1ab3-41bb-8e8c-3bf4e4e91ce1",
+      "index": 337,
+      "isZeroPoint": false,
+      "startIndex": 225,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "670"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "5bab3257-1798-4391-a3c5-98d0a1d48488",
+      "index": 334,
+      "isZeroPoint": false,
+      "startIndex": 100,
+      "text": " يوم الجمعة رابع صفر سنة سبعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "713f1f4d-c8ec-4e24-bdc3-71f886571a9e",
+      "index": 336,
+      "isZeroPoint": false,
+      "startIndex": 160,
+      "text": "محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 153,
+      "guid": "d4cf9713-b7d3-4682-8e83-e9424952f6dd",
+      "index": 335,
+      "isZeroPoint": false,
+      "startIndex": 139,
+      "text": "جامع جبل قاسيون",
+      "type": "place"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي في يوم الجمعة رابع صفر سنة سبعين وستمئة بجامع جبل قاسيون وكتب محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري وذلك بسماعه من ابن طبرزد بسنده تراه والحمد لله وحده"
+}

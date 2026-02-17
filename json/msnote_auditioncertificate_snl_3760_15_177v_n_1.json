@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الدعاء "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/15"
+      ],
+      "folio_number": [
+        "177v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "253405b8-79a0-4143-bad1-4d428346da7d",
+      "startIndex": 112,
+      "text": "البيع ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "562"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "42f37115-81af-4d41-83a9-a6f3f54ac8c4",
+      "startIndex": 203,
+      "text": "ثالث عشري رجب من سنة اثنتين وستين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "68078000-87d8-46d7-9b90-131a3151930c",
+      "startIndex": 129,
+      "text": "أبي الفتح محمد بن محمود بن العز بن إسحق الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "980b1c41-1a52-4e4e-a42d-c3ab103e1b04",
+      "startIndex": 177,
+      "text": "أبو علي أحمد بن القارئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 273,
+      "guid": "aa64a595-e2b3-4ca6-b2f9-293c5a28ed66",
+      "startIndex": 258,
+      "text": "إبراهيم بن النشف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "b8b7dc13-ad39-4606-a93d-b320a841386b",
+      "startIndex": 85,
+      "text": "أبي الخطاب نصر بن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "e4d92585-91b6-4493-8ca9-46d89c0471bf",
+      "startIndex": 40,
+      "text": "أبي عبد الله محمد بن محمد بن السكن",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه وهو كتاب الدعاء للمحاملي على الشيخ أبي عبد الله محمد بن محمد بن السكن بسماعه من أبي الخطاب نصر بن البطر عن البيع عنه بقراءة أبي الفتح محمد بن محمود بن العز بن إسحق الحراني أبو علي أحمد بن القارئ في ثالث عشري رجب من سنة اثنتين وستين وخمسماية نقلته من خط إبراهيم بن النشف من نسخة الشيخ وذكر أنه نقله من خط القارئ"
+}

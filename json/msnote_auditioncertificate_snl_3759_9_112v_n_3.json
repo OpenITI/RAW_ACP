@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "سريج بن يونس بن إبراهيم بن شعيب البلخي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب القضاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/9"
+      ],
+      "folio_number": [
+        "112v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "2a364aee-12e9-4752-9c5c-0690fe8fc6ef",
+      "startIndex": 88,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "680"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "2b7e0320-5708-4228-a66e-0b9d0fb32afe",
+      "startIndex": 158,
+      "text": "يوم الثلثا السادس عشر من جمادى الأولى سنة ثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "5d12cec5-d622-4fe9-9919-d06ad099ecf2",
+      "startIndex": 117,
+      "text": "يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "a132ead5-616e-4776-afd5-d200f02810c7",
+      "startIndex": 153,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 228,
+      "guid": "c7cd2ef6-3692-4a55-a367-398dc4c897af",
+      "startIndex": 215,
+      "text": "سفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "db66423c-3dcd-4242-94e8-4113fa5aba30",
+      "startIndex": 33,
+      "text": "أم أحمد زينب بنت مكي بن علي بن كامل الحراني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه علي الشيخة الصالحة المسندة أم أحمد زينب بنت مكي بن علي بن كامل الحراني بسماعها من ابن طبرزد بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن المزي أخوه محمد يوم الثلثا السادس عشر من جمادى الأولى سنة ثمانين وستمية بسفح جبل قاسيون "
+}

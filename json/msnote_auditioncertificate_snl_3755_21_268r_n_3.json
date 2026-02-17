@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "زكريا بن يحيى بن أسد المروزي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث سفيان بن عيينة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/21"
+      ],
+      "folio_number": [
+        "268r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 163,
+      "guid": "8b565fc4-c5b7-459d-9cc5-33d8306152c9",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "af537753-27bc-46ce-9973-019e25db634b",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 189,
+      "text": "القاسم بن محمد البرزالي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 46,
+      "guid": "b6b91351-67b4-47c0-b8d8-04737953df89",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 39,
+      "text": "ابن شعيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "640"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "d64580c0-ebfb-44ab-8350-9b6039b69382",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 113,
+      "text": "ثالث شعبان سنة أربعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "d7791d4d-221c-43a2-82a4-01b157b8cb9e",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 48,
+      "text": "يوسف بن محمد بن يوسف البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "f6bfe81f-6dbd-4fd1-9ca3-c189b30d8646",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 84,
+      "text": "أبو الفضل محمد",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه عليه مع الحديث الملحق به بقراءة ابن شعيب يوسف بن محمد بن يوسف البرزالي وابنه أبو الفضل محمد في الثالثة في ثالث شعبان سنة أربعين وستمية بحلقة الشيخ بجامع دمشق نقل ذلك مختصرا من الأصل القاسم بن محمد البرزالي "
+}

@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبوعبد الرحمن أحمد بن شعيب بن علي بن سنان بن بحر بن دينار النَّسائي "
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90044822"
+      ],
+      "work_title": [
+        "جزء من كتاب الطهارة/ سنن النسائي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "83r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f86.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f86.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "4f6acb0a-e44e-495e-bf74-3a23223b4ec1",
+      "startIndex": 89,
+      "text": "الحسن بن عبد الرحمن المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "5ffdbdaf-25ff-4f0a-ba6d-8be1b73d7dea",
+      "startIndex": 72,
+      "text": "ابن حيويه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "misr"
+          ]
+        ]
+      },
+      "endIndex": 200,
+      "guid": "757c0a07-23ee-46bd-b6eb-f67ef40568e9",
+      "startIndex": 198,
+      "text": "مصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "449"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "c918dd6f-6d3a-47d7-b80f-30adda44ff4f",
+      "startIndex": 162,
+      "text": "جمادى الآخرة سنة أربعين وأربع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "e33486fa-d9df-4849-85c7-5fabd901a73d",
+      "startIndex": 128,
+      "text": "مرشد بن يحيى بن القاسم المديني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "efe25c0a-69bf-4efb-b6d7-25570642ac3e",
+      "startIndex": 8,
+      "text": "أبي الحسن محمد بن الحسين بن محمد بن الحسين النيسابوري",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من أبي الحسن محمد بن الحسين بن محمد بن الحسين النيسابوري بسماعه من ابن حيويه بقراءة الحسن بن عبد الرحمن المالكي جماعة منهم مرشد بن يحيى بن القاسم المديني في جمادى الآخرة سنة أربعين وأربع مائة بمصر والحمد لله وحده."
+}

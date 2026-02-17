@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96b"
+      ],
+      "folio_number": [
+        "79r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1769442294/1200/0/00000163.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00010967"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "09cc436d-3d78-452f-8526-db24bd77b09a",
+      "startIndex": 69,
+      "text": "شهاب الدين أبي عبد الله محمد بن عبد المنعم بن محمد الأنصاري الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "5c09fbf7-137b-4a94-aa80-55cf05dcd41b",
+      "startIndex": 147,
+      "text": "ابن مجلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "682"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "5cef6d26-1db3-4be7-aec8-6e07a898eede",
+      "startIndex": 171,
+      "text": "في يوم الجمعة السابع والعشرين من شهر ربيع الأول سنة اثنتين وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "d629f244-0557-4072-a131-832f5e08dd91",
+      "startIndex": 304,
+      "text": " أحمد بن عبد الرحيم بن أبي عبد الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "mashhad_al-husayn"
+          ]
+        ]
+      },
+      "endIndex": 274,
+      "guid": "f2f0fcb2-03a7-44a2-9fe8-25241e58b03f",
+      "startIndex": 247,
+      "text": "القاهرة بمشهد الإمام الحُسين",
+      "type": "place"
+    }
+  ],
+  "text": "قرأتُ جميع هذا الجزء السادس والعشرون على الشيخ الفقيه الإمام البقيّة شهاب الدين أبي عبد الله محمد بن عبد المنعم بن محمد الأنصاري الشافعي بسماعه من ابن مجلي بسنده وصح وثبت في يوم الجمعة السابع والعشرين من شهر ربيع الأول سنة اثنتين وثمانين وستمائة بالقاهرة بمشهد الإمام الحُسين منها قاله وكتبه العبد الفقير أحمد بن عبد الرحيم بن أبي عبد الله الشافعي وهذا خطه عفا الله عنه."
+}

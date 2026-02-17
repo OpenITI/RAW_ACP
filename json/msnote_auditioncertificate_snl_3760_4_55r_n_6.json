@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج4"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 112"
+      ],
+      "classmark": [
+        "3760/4"
+      ],
+      "folio_number": [
+        "55r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "0c51b2c3-9d9c-409d-8a58-2eec27e2231d",
+      "startIndex": 137,
+      "text": "أبي الفتح أحمد بن حامد الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "564"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "165b43d1-de70-4856-b599-ebb4af1d1dcb",
+      "startIndex": 272,
+      "text": "الأربعاء ثاني رجب من سنة أربع وستين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "2c77d6c8-7e78-4294-b010-1c8d0e4777fd",
+      "startIndex": 105,
+      "text": "ابن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "2e9c4fce-1430-4d93-9474-380eaeb2ec2d",
+      "startIndex": 247,
+      "text": "أبو علي أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "52eb6dcf-0961-4d9b-8f26-4a7d27c68b16",
+      "startIndex": 117,
+      "text": "ابن مهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "b9ce8973-c7e1-4bf0-a086-4c8da55f9f39",
+      "startIndex": 177,
+      "text": "محمد بن محمود بن المعز الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "fe67c2a3-692d-404e-8e0a-717f4f6070f1",
+      "startIndex": 44,
+      "text": "أبي القاسم يحيى بن ثابت بن بندار بن إبراهيم البقال ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع أعني الجزء الرابع من حديث المحاملي على أبي القاسم يحيى بن ثابت بن بندار بن إبراهيم البقال بسماعه من ابن طلحة عن ابن مهدي عنه بقراءة أبي الفتح أحمد بن حامد الأصبهاني جماعة ومحمد بن محمود بن المعز الحراني وكتب السماع في الأصل ومن خطه نقلت ولده أبو علي أحمد وذلك في يوم الأربعاء ثاني رجب من سنة أربع وستين وخمس ماية"
+}

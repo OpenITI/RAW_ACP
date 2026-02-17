@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن محمد بن مسعود بن محمد العبادي السرمري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "نهج الرشاد في نظم الاعتقاد "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 33"
+      ],
+      "classmark": [
+        "3744/3"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "91f78ef4-cfea-4d9e-84bd-8a549f797cb6",
+      "startIndex": 70,
+      "text": "نجم الدين أبي الخير سعيد بن عبد الله الدهلي البغدادي الحريري الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 277,
+      "guid": "a4fc4e12-6c31-404e-92a4-2cbed2a929e9",
+      "startIndex": 269,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "740"
+        ]
+      },
+      "endIndex": 267,
+      "guid": "abd2b45b-86ec-47a1-ada4-7ab651d13596",
+      "startIndex": 215,
+      "text": "يوم الثلثا تاسع شهر شعبان المبارك سنة أربعين وسبعمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "ace70a03-be23-4fcb-a658-b622c3788a20",
+      "startIndex": 283,
+      "text": " محمد بن محمد بن نعمة المقدسي ",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذه القصيدة على الشيخ الإمام العالم المحدث المفيد المتقن الرحال نجم الدين أبي الخير سعيد بن عبد الله الدهلي البغدادي الحريري الحنبلي نفع الله به بسماعه لها من ناظمها وطبقة السماع بخطه بمقلوبها وصح ذلك وثبت في يوم الثلثا تاسع شهر شعبان المبارك سنة أربعين وسبعمية بجامع دمشق وكتب محمد بن محمد بن نعمة المقدسي عفا الله عنه والحمد لله وحده وصلوته على محمد وآله"
+}

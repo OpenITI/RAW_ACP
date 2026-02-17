@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "جمال الدين المزي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/16163574"
+      ],
+      "work_title": [
+        "تهذيب الكمال في اسمــاء الرجــال "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 2091"
+      ],
+      "folio_number": [
+        "40r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110026394/f42.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110026394/f42.item.r=%22Arabe%202091%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 399,
+      "guid": "02d0bc1f-2005-45fc-8219-138c97439301",
+      "startIndex": 396,
+      "text": "زينب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 505,
+      "guid": "16a8ce78-8bcc-4ed7-b709-d544749edf11",
+      "startIndex": 451,
+      "text": "شهاب الدين أبو العباس أحمد بن أبي مظفر بن محمد النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "8ce398d7-6ce5-429b-be83-3e21647ad351"
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 576,
+      "guid": "284dc0d8-f553-4c01-bf92-fdf00ba32b46",
+      "startIndex": 543,
+      "text": "خليل بن كيكلدي بن عبد الله العلائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "2ff40b83-0591-463e-8f9f-e6bd5a282b45",
+      "startIndex": 312,
+      "text": "جمال الدين أبي محمد رافع بن أبي محمد بن محمد السلامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-najibiya"
+          ]
+        ]
+      },
+      "endIndex": 678,
+      "guid": "6b4b9771-3fcd-475c-9b21-ca9c7a2c732c",
+      "startIndex": 661,
+      "text": "دار الحدث النجيبية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 441,
+      "guid": "a1a21f51-1c8d-4bcb-851f-8ec8db7bb2d3",
+      "startIndex": 437,
+      "text": "خديجة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "714"
+        ]
+      },
+      "endIndex": 645,
+      "guid": "ad3d3445-7ef9-48ab-ae45-2709a347b239",
+      "startIndex": 595,
+      "text": "يوم الأحد سادس عشري شهر محرم سنة أربع عشرة وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "c78a000a-aba9-4027-b417-5068b2af95e8",
+      "startIndex": 182,
+      "text": "أبي الحجاج يوسف بن زكي الدين عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 429,
+      "guid": "d2e3e575-0023-4dcf-a8b4-44834002b0dc",
+      "startIndex": 413,
+      "text": "عمر بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "f4755005-2ff9-4098-8e66-e41963a42cb6",
+      "startIndex": 377,
+      "text": "أبو عبد الله محمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على مصنفه شيخنا وسيدنا الإمام العالم العلامة الحافظ الحجة الناقد الزاهد جمال الدين بقية السلف طراز الخلف فريد فنه نسيج وحده محدث عصره عمدة الجهابذة أستاذ المحدثين أبي الحجاج يوسف بن زكي الدين عبد الرحمن بن يوسف المزي متعنا الله والمسلمين ببقائه بقراءة الشيخ الإمام العالم الزاهد المحدث المتقن جمال الدين أبي محمد رافع بن أبي محمد بن محمد السلامي ابنا المسمع أبو عبد الله محمد وزينب وابن أخيهما عمر بن عبد الرحمن وأخته خديجة والمحدث شهاب الدين أبو العباس أحمد بن أبي مظفر بن محمد النابلسي سبط الحافظ زين الدين خالد النابلسي وخليل بن كيكلدي بن عبد الله العلائي وهذا خطه وذلك في يوم الأحد سادس عشري شهر محرم سنة أربع عشرة وسبعماية بمنزل المسمع بدار الحدث النجيبية بدرب البانياسي بدمشق"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي وإسماعيل الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/12"
+      ],
+      "folio_number": [
+        "147r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "163e157a-6318-4be0-a27f-479ee29bf7ed",
+      "startIndex": 192,
+      "text": "أحمد القباقبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "834eb99f-3341-48d2-9751-00f23e21a64b",
+      "startIndex": 98,
+      "text": "محمد بن علي بن غانم ابن الجندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "786"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "9f393c1c-63ce-4bea-b8f7-3de153f0e447",
+      "startIndex": 140,
+      "text": " أواخر جمادى الآخرة سنة ست وثمانين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "b4294291-77f9-4731-b370-d6a50d209e92",
+      "startIndex": 211,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "fae18a24-48bd-4d4d-afd0-74819ab3e11d",
+      "startIndex": 8,
+      "text": " أبو عبد الله أحمد بن صالح بن نعيم البيتليدي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على أبو عبد الله أحمد بن صالح بن نعيم البيتليدي بعضه بقراءته وبعضه بقراءتي وسمع من موضع اسمه محمد بن علي بن غانم ابن الجندي إلى آخره في أواخر جمادى الآخرة سنة ست وثمانين وسبعمية عن الشيخ أحمد القباقبي كتبه محمد بن المحب"
+}

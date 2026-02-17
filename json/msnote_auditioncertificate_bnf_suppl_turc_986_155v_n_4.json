@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمرو محمد بن أحمد بن حمدان الحيري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سؤالات أبي عمرو محمد بن أحمد بن حمدان الحيري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "155v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f163.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f163.item.r=turc%20986.zoo"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 28,
+      "guid": "09800b3e-abde-4bf3-807c-d6de6907542f",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 22,
+      "text": "أبي روح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "0e1f39f7-1543-457f-90ee-2cc032471a2d",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 113,
+      "text": "يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 215,
+      "guid": "11aeef7c-d514-4c98-bf97-95b2467ff7c9",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 212,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "690"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "a200aa02-cdb7-46b1-b34b-78807ebd2529",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "يوم الجمعة الرابع عشر من صفر سنة تسعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "b738c1ce-307a-44db-8fbd-1555f3b8f876",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "تميم بن أبي سعيد الجرجاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "ef5336c6-f0cc-48f1-b4f2-18ca822196ed",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 129,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "f2ea26e0-16e0-45d3-96d3-d49188102c60",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 75,
+      "text": " أبي سعد الكنجروذي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بإجازته من أبي روح بسماعه من تميم بن أبي سعيد الجرجاني بسماعه من أبي سعد الكنجروذي بقراءة كاتب السماع يوسف المزي ابنه عبد الرحمن حاضرًا في الثالثة وآخرون يوم الجمعة الرابع عشر من صفر سنة تسعين وستمئة بدمشق"
+}

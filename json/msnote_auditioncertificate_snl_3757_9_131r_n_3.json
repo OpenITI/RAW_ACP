@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "131r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 239,
+      "guid": "034a2f30-3e47-4da3-9c61-2f3e21535351",
+      "index": 180,
+      "isZeroPoint": false,
+      "startIndex": 234,
+      "text": "منزلها",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "1baadc3d-5c39-4fa7-878e-35fc328829d4",
+      "index": 176,
+      "isZeroPoint": false,
+      "startIndex": 103,
+      "text": "ابن قميرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "4e8e7b6f-338c-49b7-bce6-d406c10a4800",
+      "index": 175,
+      "isZeroPoint": false,
+      "startIndex": 39,
+      "text": " أم عبد الله زينب ابنة أحمد بن الرحيم بن عبد الواحد الكمالية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "5389920e-5fd3-45e7-b7d2-ced21002f17a",
+      "index": 182,
+      "isZeroPoint": false,
+      "startIndex": 294,
+      "text": "أبي نصر بن الشيرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "96b56644-81ae-436b-a6df-5527eff8356c",
+      "index": 178,
+      "isZeroPoint": false,
+      "startIndex": 176,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "739"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "a48f5cde-cb56-4836-b4ae-4efa17ba41fd",
+      "index": 179,
+      "isZeroPoint": false,
+      "startIndex": 180,
+      "text": "يوم السبت ثاني عشر ذي القعدة سنة تسع وثلاثين وسبعمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 278,
+      "guid": "b9bc6674-6c8b-4db5-9392-19d9c17914fd",
+      "index": 181,
+      "isZeroPoint": false,
+      "startIndex": 246,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "bdf8438f-569a-4bd9-b4e2-54c16324a520",
+      "index": 177,
+      "isZeroPoint": false,
+      "startIndex": 124,
+      "text": " شرف الدين صالح بن عبد الله ابن بواب القيمرية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 325,
+      "guid": "e3a6d752-ed20-4006-9944-7e8ba6c87a56",
+      "index": 183,
+      "isZeroPoint": false,
+      "startIndex": 317,
+      "text": "ابن قميرة",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الكتاب كله على الشيخة العالمة أم عبد الله زينب ابنة أحمد بن الرحيم بن عبد الواحد الكمالية عن ابن قميرة إجازة فسمعه شرف الدين صالح بن عبد الله ابن بواب القيمرية وأخوه علي يوم السبت ثاني عشر ذي القعدة سنة تسع وثلاثين وسبعمية بمنزلها كتبه محمد بن عبد الله بن أحمد بن المحب وحدثتهم بن عن أبي نصر بن الشيرازي عن ابن قميرة سماعا متصلا والحمد لله وحده "
+}

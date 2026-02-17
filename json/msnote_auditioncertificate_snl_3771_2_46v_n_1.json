@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضيل بن غزوان الضبي الكوفي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "كتاب الدعاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 177"
+      ],
+      "classmark": [
+        "3771/2"
+      ],
+      "folio_number": [
+        "46v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "1048ec62-1890-4d3f-963a-7a71d3956955",
+      "startIndex": 36,
+      "text": "أبي الفرج ابن الخازن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "475"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "3d9cb126-3573-43f1-8db5-63abcaec1f03",
+      "startIndex": 124,
+      "text": " رجب سنة خمس وسبعين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "54b9b252-22a6-4ad4-a58e-8600bcbbdea4",
+      "startIndex": 107,
+      "text": "أبو الحسن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "iraq",
+            "kufa"
+          ]
+        ]
+      },
+      "endIndex": 160,
+      "guid": "73e093b2-05f2-44a0-a4f0-a02f279508a3",
+      "startIndex": 155,
+      "text": "الكوفة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "ffed1b83-5bfc-4880-af46-a44317e212a6",
+      "startIndex": 64,
+      "text": "محمد بن الحسن بن علوي بن غبرة الحارثي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع كتاب الدعاء لابن فضيل على الشيخ أبي الفرج ابن الخازن بقراءة محمد بن الحسن بن علوي بن غبرة الحارثي ابنه أبو الحسن محمد في رجب سنة خمس وسبعين وأربعمائة بالكوفة"
+}

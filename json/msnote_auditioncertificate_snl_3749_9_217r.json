@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن عثمان الذهبي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "معجم الذهبي الصغير"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 60"
+      ],
+      "classmark": [
+        "3749/9"
+      ],
+      "folio_number": [
+        "217r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 890,
+      "guid": "01cae85d-2830-4992-9a88-8690223ad8be",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 833,
+      "text": "محمد بن محمد [بن] محمد بن أحمد بن عبد الهادي بن عبد الحميد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 896,
+      "guid": "05dc346b-a0df-404b-99f4-93c91beabe44",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 893,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1150,
+      "guid": "14a236ea-1a18-4511-9f27-c919376e6718",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 1147,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "1bd0795f-097b-40c4-8775-58aa60b2b596",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 80,
+      "text": "محب الدين أبي محمد عبد الله بن أحمد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 796,
+      "guid": "1fe79130-da82-494a-8ca1-14faecfd26e4",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 786,
+      "text": "محمد بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1017,
+      "guid": "227c628c-ac58-4ffe-a08c-5d2b1a795ce6",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 949,
+      "text": "محمد بن محمد بن أبي بكر بن أحمد بن عبد الكريم بن أحمد بن أحمد الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "731"
+        ]
+      },
+      "endIndex": 1633,
+      "guid": "242fde04-2bec-4f52-831e-9fb24a91bd7a",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 1583,
+      "text": " عشية يوم الثلثا عاشر محرم سنة إحدى وثلثين وسبعمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "253e3e12-985d-4bf2-934e-6c63c94d4d43",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 23,
+      "text": "أبي عبد الله محمد بن أحمد بن الذهبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 616,
+      "guid": "263ad4ca-cad4-41b9-836c-59fd4404211c",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 560,
+      "text": "محمد بن حسن بن علي بن عمر بن أحمد بن عمر بن الشيخ أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 546,
+      "guid": "28b22ca7-3b56-493c-abc6-bf596b6c39ee",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 510,
+      "text": "محمد بن علي بن داود بن سليمان بن بحتر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1410,
+      "guid": "302b22ce-1607-4fa5-8e4b-6a4e7aae3c4f",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 1356,
+      "text": "محمد بن يحيى بن محمد بن سعد بن عبد الله بن سعد المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1566,
+      "guid": "340997fd-b461-4c79-b626-a1ff45e14770",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 1508,
+      "text": "أبو بكر بن أبي العز محمد بن إبراهيم بن عبد الله ابن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1198,
+      "guid": "393fabe1-d5a0-453f-8e74-479d9d4a3251",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 1153,
+      "text": "بهادر بن محمد بن سعد بن عبد الأحمد بن سعد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 422,
+      "guid": "3c335618-9897-42c4-a453-b18927733715",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 408,
+      "text": "ناصر الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 728,
+      "guid": "3e7518b2-61b1-42c1-8e1d-35aae1aa3d06",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 725,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 830,
+      "guid": "44184bea-9504-40a8-8bad-7634c0dbf3ae",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 799,
+      "text": "محمد بن عمر بن عبد الرحيم الجزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 708,
+      "guid": "56793e2e-fb02-44a5-a79c-0714fef9554e",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 670,
+      "text": "فاطمة بنت سليمان بن محمد بن مسلم البدوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 405,
+      "guid": "671bb8bd-c6d7-48ea-b34c-3051e7360ac7",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 324,
+      "text": "تقي الدين إبراهيم بن أحمد بن العز عمر بن أحمد بن عمر بن أبي بكر بن عبد الله بن سعد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1139,
+      "guid": "6bbc5c84-e734-4f6d-b2c5-12a086df7198",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 1103,
+      "text": "موسى بن عمر بن درغام المرداوي الشجاعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 905,
+      "guid": "6cd9814a-6ca9-48d6-8be3-96b774d63db8",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 899,
+      "text": "أبو بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 321,
+      "guid": "79d28631-327f-4f7e-8b05-733d07d84711",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 266,
+      "text": "عماد الدين إسماعيل بن عمر بن كثير بن ضوء البصروي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1332,
+      "guid": "7dc834ce-5044-4572-835f-33b30d85c96a",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 1267,
+      "text": "محمد بن صلاح الدين محمد بن أحمد بن إبراهيم بن عبد الله ابن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 558,
+      "guid": "8db86669-5c3e-4269-919b-dd8d707203a8",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 554,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 722,
+      "guid": "9cdf276b-7538-4c29-a5b8-213de6eab4b0",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 716,
+      "text": "أبو بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1491,
+      "guid": "aa27e1c8-d2e3-444f-910b-5bca6c16362d",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 1434,
+      "text": "محمد بن العز عبد الرحمن بن إبراهيم ابن عبد الله بن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "b8651e5d-373d-4a3f-bf27-51db5da86965",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 189,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "b8bea7ca-3e6b-4969-b617-1bee4ac18c13",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 159,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1661,
+      "guid": "c0b11877-3d6a-4bf3-9649-6e857d63df92",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 1635,
+      "text": "الجامع المظفري بصالحية دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "c79e1c1d-6151-4235-8968-cb5f620edb71",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "أبو الفتح أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1264,
+      "guid": "c7acb462-9db3-4496-9bec-be49ecfd5e35",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 1201,
+      "text": "أحمد بن عبد الرحيم بن محمد بن عبد الله بن محمد بن محمود المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1772,
+      "guid": "ce07c7b4-efa0-4a67-83f5-834193ddb454",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 1669,
+      "text": "محمد بن التقي عبد الله بن إبراهيم ابن القاضي النجم أحمد بن الشيخ شهاب الدين محمد بن خلف بن راجح المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "e5c827c1-58d7-4f03-9936-5f14ac3817a8",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 425,
+      "text": "شمس الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1022,
+      "guid": "e630cd6f-f843-47f0-a185-2b8242060f5f",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 1020,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1027,
+      "guid": "ed995e34-aaca-40c0-8b56-16c67683c40a",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 1025,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "ee702e9d-23fd-4825-ad0d-4d1e1a306213",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 214,
+      "text": "شمس الدين محمد بن أحمد بن عبد الهادي بن عبد الحميد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 667,
+      "guid": "fe244717-6abc-4699-957e-ad1eb7b90cb1",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 619,
+      "text": "أحمد بن محمد ابن أبي بكر بن محمد بن طرخان الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه على مخرجه الحافظ أبي عبد الله محمد بن أحمد بن الذهبي بقراءة الإمام العالم محب الدين أبي محمد عبد الله بن أحمد بن عبد الله المقدسي جمع منهم أولاده الثلثة أبو بكر محمد وأبو الفتح أحمد وعمر في 5 والأئمة الفضلاء شمس الدين محمد بن أحمد بن عبد الهادي بن عبد الحميد وعماد الدين إسماعيل بن عمر بن كثير بن ضوء البصروي الشافعي وتقي الدين إبراهيم بن أحمد بن العز عمر بن أحمد بن عمر بن أبي بكر بن عبد الله بن سعد وناصر الدين محمد وشمس الدين محمد ابنا فخر الدين محمد بن محمد بن محمد بن عبد القادر الأنصاري بن الصائغ ومحمد بن علي بن داود بن سليمان بن بحتر وابنه محمد ومحمد بن حسن بن علي بن عمر بن أحمد بن عمر بن الشيخ أبي عمر وأحمد بن محمد ابن أبي بكر بن محمد بن طرخان الدمشقي وفاطمة بنت سليمان بن محمد بن مسلم البدوي في 5 وأبو بكر وأحمد ابنا محمد بن أبي بكر بن خليل بن محمد الاعزازي وابن عمهم محمد بن علي ومحمد بن عمر بن عبد الرحيم الجزري ومحمد بن محمد [بن] محمد بن أحمد بن عبد الهادي بن عبد الحميد وأحمد وأبو بكر ابنا أحمد بن ألطنبا الفوارسي ابن الحلبية ومحمد بن محمد بن أبي بكر بن أحمد بن عبد الكريم بن أحمد بن أحمد الحنبلي وعلي وعمر ابنا محمد بن أبي بكر بن أحمد بن [عبد] الهادي بن عبد الحميد بن عبد الهادي وموسى بن عمر بن درغام المرداوي الشجاعي وابنه محمد وبهادر بن محمد بن سعد بن عبد الأحمد بن سعد الله وأحمد بن عبد الرحيم بن محمد بن عبد الله بن محمد بن محمود المرداوي ومحمد بن صلاح الدين محمد بن أحمد بن إبراهيم بن عبد الله ابن أبي عمر وكاتب السماع في الأصل محمد بن يحيى بن محمد بن سعد بن عبد الله بن سعد المقدسي ومن خطه لخصت وابن أخته محمد بن العز عبد الرحمن بن إبراهيم ابن عبد الله بن أبي عمر في 3 وابن أخته أبو بكر بن أبي العز محمد بن إبراهيم بن عبد الله ابن أبي عمر وصح ذلك وثبت في عشية يوم الثلثا عاشر محرم سنة إحدى وثلثين وسبعمية بالجامع المظفري بصالحية دمشق ومعهم محمد بن التقي عبد الله بن إبراهيم ابن القاضي النجم أحمد بن الشيخ شهاب الدين محمد بن خلف بن راجح المقدسي "
+}

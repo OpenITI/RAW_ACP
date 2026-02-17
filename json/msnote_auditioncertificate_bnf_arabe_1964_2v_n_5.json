@@ -1,0 +1,328 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسين بن عمر الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب المجالسة وجواهر العلم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Aydogan kars"
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 1964"
+      ],
+      "folio_number": [
+        "2v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11001549t/f6.item.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        "a3c8fd23-d66a-4a69-b992-2a97a8c60ae9"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11001549t/f6.item.r=%22Arabe%201964%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "647"
+        ]
+      },
+      "endIndex": 677,
+      "guid": "0346f5c2-26bb-48a1-a3eb-df383cf0c18b",
+      "startIndex": 623,
+      "text": "لثلاث إن بقين من شهر ربيع الأول سنة سبع وأربعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 217,
+      "guid": "09ac6b79-caba-4e8c-a5a1-ad967036d1c6",
+      "startIndex": 201,
+      "text": "أبي الطاهر الزيات",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 405,
+      "guid": "0e86140a-74bd-4152-8bcf-808c0bc60e77",
+      "startIndex": 347,
+      "text": "شمس الدين أبو المحاسن يوسف بن أحمد بن محمود بن أحمد الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "0fb6570d-0c9f-4b5b-8960-2efa8477205d",
+      "startIndex": 170,
+      "text": "البوصيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 290,
+      "guid": "1cc32402-841d-4530-9807-12333f28ed36",
+      "startIndex": 253,
+      "text": "محمد بن إبراهيم بن أبي القاسم الميدومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 565,
+      "guid": "42810ae3-91f7-4b6a-97d8-5605555020a2",
+      "startIndex": 513,
+      "text": "تقي الدين أبو العباس أحمد بن أبي العز بن معاني المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 597,
+      "guid": "6b1f7f36-05d0-40e8-9d1e-85742a6b0b4b",
+      "startIndex": 575,
+      "text": "زين الدين أبو الحسن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 504,
+      "guid": "764ad0b0-2c95-4764-80ba-0213c7442423",
+      "startIndex": 464,
+      "text": "أبو عبد الله محمد بن بدر بن رضوان السمسار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "91170681-4aac-4d4a-9158-cf2d0edead18",
+      "startIndex": 220,
+      "text": "ابن [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "994b3569-743d-4079-87da-262ceb1079c6",
+      "startIndex": 182,
+      "text": "الفراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "a1eab6ec-b908-41ba-834b-f1daf93acebb",
+      "startIndex": 56,
+      "text": "كمال الدين أبي عبد الله محمد بن الشيخ الإمام جمال الدين أبي الثناء محمود بن عبد الله ابن الملثم العادلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 686,
+      "guid": "a3252366-a62a-4393-9bf3-a57e8e13514a",
+      "startIndex": 680,
+      "text": "القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "f0efaaa7-d01b-469b-9265-17038bedba77",
+      "startIndex": 233,
+      "text": "الفراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 461,
+      "guid": "f5288873-53d2-4e5f-8aba-774647a41428",
+      "startIndex": 408,
+      "text": "نبيه الدين أبو علي الحسن بن إبراهيم بن أبي محمد الحنفي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ السماع لجميع هذا الجزء على الشيخ الإمام شيخ الإسلام كمال الدين أبي عبد الله محمد بن الشيخ الإمام جمال الدين أبي الثناء محمود بن عبد الله ابن الملثم العادلي بسماعه من البوصيري عن الفراء وبإجازته من أبي الطاهر الزيات وابن [...] عن الفراء بسنده بقراءة محمد بن إبراهيم بن أبي القاسم الميدومي وهذا خطه السادة صاحب الكتاب الشيخ النبيه العالم الحافظ شمس الدين أبو المحاسن يوسف بن أحمد بن محمود بن أحمد الدمشقي ونبيه الدين أبو علي الحسن بن إبراهيم بن أبي محمد الحنفي وأبو عبد الله محمد بن بدر بن رضوان السمسار المقرئ تقي الدين أبو العباس أحمد بن أبي العز بن معاني المصري والفقيه زين الدين أبو الحسن علي أخو المسمع وصح ذلك وثبت لثلاث إن بقين من شهر ربيع الأول سنة سبع وأربعين وستماية بالقاهرة والحمد لله وحده وصلواته على سيدنا محمد وآله وصحبه وسلامه"
+}

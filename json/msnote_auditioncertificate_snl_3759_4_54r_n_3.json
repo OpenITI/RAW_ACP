@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يحيى بن منصور الشافعي النيسابوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعين المخرجة من مسموعات النيسابوري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/4"
+      ],
+      "folio_number": [
+        "54r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "600"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "69b7eee2-de18-45b1-954d-c00a176243c7",
+      "startIndex": 246,
+      "text": "يوم الثلثا الثاني والعشرين من المحرم سنة ستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "709d78ca-95de-4bb9-93dd-081012d8966e",
+      "startIndex": 129,
+      "text": "عبد الرحيم بن النفيس هبة الله بن وهبان السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "a319905d-4318-419e-b62c-70f6a112c59b",
+      "startIndex": 31,
+      "text": "أبي علي يحيى بن الربيع بن سليمان الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 298,
+      "guid": "b052862e-1e47-4a85-b968-9bac1d20dbd3",
+      "startIndex": 294,
+      "text": "بغداد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "e39863b5-6d18-4270-b56d-285ab87ecc69",
+      "startIndex": 235,
+      "text": "عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "f09f0fb9-e85e-444f-88fb-a38be3cdeccc",
+      "startIndex": 175,
+      "text": "نجم الدين عبد المنعم بن علي بن نصر ابن الصيقل الحراني",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ الإمام أبي علي يحيى بن الربيع بن سليمان الواسطي مدرس المدرسة النظامية ببغداد بقراءة كاتب السماع في الأصل عبد الرحيم بن النفيس هبة الله بن وهبان السلمي نجم الدين عبد المنعم بن علي بن نصر ابن الصيقل الحراني وابنه عبد العزيز يوم الثلثا الثاني والعشرين من المحرم سنة ستمية ببغداد"
+}

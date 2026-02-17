@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 112"
+      ],
+      "classmark": [
+        "3760/7"
+      ],
+      "folio_number": [
+        "87r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "other"
+        ]
+      },
+      "endIndex": 396,
+      "guid": "02c96f84-23d0-425a-9e7b-80e548149150",
+      "startIndex": 344,
+      "text": "تقي الدين أبي الحسن علي بن عبد العزيز بن محمد الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "19b6573b-26ba-4ca6-a1ac-d8dd48adb991",
+      "startIndex": 144,
+      "text": " ابن يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "33a5cdb0-3bde-4b13-8289-8a07431249fd",
+      "startIndex": 117,
+      "text": "أبي الغنائم بن أبي عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "4d45cfd5-eda3-47e1-90a9-7cbf42d72996",
+      "startIndex": 197,
+      "text": "عبد العزيز بن معالي بن غنيمة بن حسن بن منينا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "7196f91f-582e-479e-a931-fb9bdbdf2267",
+      "startIndex": 165,
+      "text": "محمد بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "541"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "893482fb-21e3-4b1c-90aa-9cae187cf3b5",
+      "startIndex": 245,
+      "text": "الجمعة ثامن عشر شهر ربيع الآخر سنة إحدى وأربعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "b93f1f88-306b-4d26-9999-18afa5461a3c",
+      "startIndex": 67,
+      "text": "أبي محمد المبارك بن أحمد بن بركة الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "c1127e0d-3ae3-49c4-a0f8-f9f637f91c7e",
+      "startIndex": 314,
+      "text": "عبد الغني بن مشرف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "c36e08a8-3f99-49f9-89a2-e7748072c17a",
+      "startIndex": 192,
+      "text": "عمر ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع الجزء الثاني والثالث والرابع والخامس من حديث المحاملي على أبي محمد المبارك بن أحمد بن بركة الكندي بسماعه من أبي الغنائم بن أبي عثمان عن ابن يحيى عنه بقراءة محمد بن محمد بن طبرزد أخوه عمر وعبد العزيز بن معالي بن غنيمة بن حسن بن منينا في الجمعة ثامن عشر شهر ربيع الآخر سنة إحدى وأربعين وخمسماية نقلته من خط عبد الغني بن مشرف رواية شيخنا تقي الدين أبي الحسن علي بن عبد العزيز بن محمد الإربلي عن عبد العزيز بن معالي بن غنيمة بن حسن بن منينا المذكور"
+}

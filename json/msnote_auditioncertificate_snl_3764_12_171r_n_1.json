@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 142"
+      ],
+      "classmark": [
+        "3764/12"
+      ],
+      "folio_number": [
+        "171r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "0c5b7819-d9be-4db3-a893-65ea1b6334e2",
+      "startIndex": 211,
+      "text": "علم الدين القاسم بن محمد بن يوسف البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 347,
+      "guid": "2ee670d5-f5e8-4ae4-bd42-599cde4f5c97",
+      "startIndex": 338,
+      "text": "جامع دمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "33934594-70b2-4bc1-bfea-104e76288d7f",
+      "startIndex": 30,
+      "text": " برهان الدين أبي إسحق إبراهيم بن إسماعيل بن إبراهيم ابن الدرجي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "629cb8e5-8eea-43b8-8845-384a56265366",
+      "startIndex": 104,
+      "text": "أبي جعفر محمد بن أحمد بن نصر الصيدلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "85f70a13-d45c-457f-99a4-586d4bc43535",
+      "startIndex": 171,
+      "text": " يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 335,
+      "guid": "9b9a852d-17b5-45e4-81ea-ca59c1d8cad4",
+      "startIndex": 280,
+      "text": "الجمعة الثامن عشر من جمادى الآخرة سنة ثمان وسبعين وستمئة",
+      "type": "date"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ الإمام برهان الدين أبي إسحق إبراهيم بن إسماعيل بن إبراهيم ابن الدرجي بإجازته من أبي جعفر محمد بن أحمد بن نصر الصيدلاني بسنده فيه بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي علم الدين القاسم بن محمد بن يوسف البرزالي وآخرون بفوت وصح ذلك في يوم الجمعة الثامن عشر من جمادى الآخرة سنة ثمان وسبعين وستمئة بجامع دمشق "
+}

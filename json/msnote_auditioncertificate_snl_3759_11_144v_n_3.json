@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن هارون الضبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الضبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/11"
+      ],
+      "folio_number": [
+        "144v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "08c0d90b-b668-43d1-b621-c55e62fadf0d",
+      "startIndex": 123,
+      "text": "يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "191eb30f-b12f-4e58-8d30-510952dbf4c1",
+      "startIndex": 175,
+      "text": "الثلثا السابع والعشرين من جمادى الآخرة سنة تسع وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "f9003166-a439-4095-8b96-059e2d482cc3",
+      "startIndex": 51,
+      "text": "أبي الغنائم المسلم بن محمد بن المسلم بن علان القيسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "fd1ea45c-2ca6-4717-9960-6eb20702944a",
+      "startIndex": 112,
+      "text": " ابن طبرزد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع المجلس الحادي والستين من أمالي الضبي على الشيخ أبي الغنائم المسلم بن محمد بن المسلم بن علان القيسي بسماعه من ابن طبرزد يوسف بن الزكي عبد الرحمن المزي بقراءته وبخطه في يوم الثلثا السابع والعشرين من جمادى الآخرة سنة تسع وسبعين وستماية"
+}

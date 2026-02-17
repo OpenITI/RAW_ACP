@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن إسماعيل الصفار البلخي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث محمد بن سنان القزاز عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 82"
+      ],
+      "classmark": [
+        "3755/1"
+      ],
+      "folio_number": [
+        "3v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "1c2c8429-98e4-4f07-95aa-cdb3d9af2966",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 147,
+      "text": "عبد السلام بن يوسف بن محمد الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "563"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "29a32ede-9ea9-438d-84f3-7427321d1fc0",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 232,
+      "text": "يوم الثلثا العشرين من صفر سنة ثلث وستين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 205,
+      "guid": "3ff52e56-8233-414d-9e76-97eae2954191",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 189,
+      "text": " دار المسموع عليه",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "646774c7-261f-4f5a-b792-b44ff4effb81",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 131,
+      "text": "عبد اللطيف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "8361dbcd-78e5-45f2-858d-17397f0ae945",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 34,
+      "text": "أبي الفتح محمد بن عبد الباقي بن أحمد بن سلمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "a5fadd34-aef8-4d14-9931-d2ecdc41086d",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 86,
+      "text": " أبي العز يوسف بن محمد بن علي البغدادي",
+      "type": "person"
+    }
+  ],
+  "text": " سمعت جميعه على الشيخ الأجل الثقة أبي الفتح محمد بن عبد الباقي بن أحمد بن سلمان بقراءة أبي العز يوسف بن محمد بن علي البغدادي وابنه عبد اللطيف وكتب عبد السلام بن يوسف بن محمد الدمشقي وذلك في دار المسموع عليه بالـ[...] دار الخلافة في يوم الثلثا العشرين من صفر سنة ثلث وستين وخمس ماية "
+}

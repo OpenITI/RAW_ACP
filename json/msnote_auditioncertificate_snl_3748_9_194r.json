@@ -1,0 +1,595 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "نصر بن إبراهيم بن نصر النابلسي المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلس من أمالي نصر بن إبراهيم المقدسي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 56 "
+      ],
+      "classmark": [
+        "3748/9"
+      ],
+      "folio_number": [
+        "194r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1239,
+      "guid": "076a498d-907e-4cea-85e4-eb2af82c394e",
+      "startIndex": 1210,
+      "text": "أبو حفص عمر بن الحسن بن الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 647,
+      "guid": "11eb4373-e0fc-4e47-ab9f-dd9ebd853a12",
+      "startIndex": 622,
+      "text": "علي بن صالح بن محمد الرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "183ebd80-eadc-4f2d-9290-ff0682032f52",
+      "startIndex": 191,
+      "text": "شمس الدين أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 965,
+      "guid": "18aa67aa-5d18-45fb-b3ba-c22df0a973c8",
+      "startIndex": 917,
+      "text": "محمد بن أحمد بن علي بن أبي بكر بن إسماعيل القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "595"
+        ]
+      },
+      "endIndex": 1063,
+      "guid": "1b9422cf-4d50-48c7-ae42-6ff31615d091",
+      "startIndex": 1016,
+      "text": "خامس عشري ربيع الأول من سنة خمس وتسعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "282837fa-88d8-4448-9218-7a4da2423b6a",
+      "startIndex": 289,
+      "text": "أبو الفضل محمد بن أبي طالب بن كروس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 818,
+      "guid": "28e2b56d-f2b3-48e3-8b7c-6871d7b38fa2",
+      "startIndex": 788,
+      "text": "عثمان بن أبي بكر بن أيوب الفاسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "2c823342-f12e-4d1c-bfbf-682f3d05f0e7",
+      "startIndex": 242,
+      "text": "مظفر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "3bd2a0ed-30b3-49d7-9fb3-02961f0df408",
+      "startIndex": 215,
+      "text": "حيوس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 347,
+      "guid": "3f17ac5b-7b72-4ca0-aa90-4e579c1eb774",
+      "startIndex": 336,
+      "text": "مثقال الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 581,
+      "guid": "42e737a7-2775-40b5-ab30-e56e7a361da5",
+      "startIndex": 546,
+      "text": "سليمان بن عبد القاهر بن عقيل العباسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "45f0e4fa-a83d-4099-bebe-7b4d3b1767ce",
+      "startIndex": 36,
+      "text": "أبي الحسين أحمد بن حيوس بن فتيح الغنوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 901,
+      "guid": "6fe78e69-5407-4cd3-af83-7f63d97ddf30",
+      "startIndex": 862,
+      "text": "عبد العزيز بن عبد الملك بن تميم الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1189,
+      "guid": "701ccb17-989f-4ee0-9482-f9deed964a28",
+      "startIndex": 1132,
+      "text": " جمال الدين أبو المكارم محمد بن عقيل بن عبد الواحد بن كروس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 463,
+      "guid": "75f9b67f-ac5c-47d6-ab74-b9dbade14678",
+      "startIndex": 413,
+      "text": "أبو الفتح محمد بن علي بن محمد بن علي القرشي المهدوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 754,
+      "guid": "78a41186-1584-4ecb-a04a-4aa84cd0bfc9",
+      "startIndex": 727,
+      "text": "محمد بن حسان بن رافع العامري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 410,
+      "guid": "7d618a12-3401-4a82-b84f-d0ae64ca7cc4",
+      "startIndex": 350,
+      "text": "تقي الدين أبو طاهر إسماعيل بن عبد الله بن عبد المحسن الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 990,
+      "guid": "7d62aa42-46c0-435c-b661-45899f7fe75a",
+      "startIndex": 973,
+      "text": "أبو الحسين إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 619,
+      "guid": "891f2412-c9eb-416a-bf65-841e4be67738",
+      "startIndex": 584,
+      "text": "إسماعيل بن يوسف بن عبد الله الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 859,
+      "guid": "94fd6deb-80c0-46e4-8a96-000418611932",
+      "startIndex": 821,
+      "text": "علي بن سعيد بن إبراهيم السعردي الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "addf9719-eb83-4813-87a6-ba4c514b12ed",
+      "startIndex": 118,
+      "text": "وجيه الدين أبي الفرج إبراهيم بن يوسف بن محمد المعافري البوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ]
+      },
+      "endIndex": 1344,
+      "guid": "b4661fd3-123e-4ed5-8436-77f93387d36f",
+      "startIndex": 1285,
+      "text": "صحيح ذلك وكتب أحمد بن حيوس بن رافع بن منصور بن فتيح الغنو[ي]",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "d5be2bf4-87d8-451c-9eb1-aa947d78bce8"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1009,
+      "guid": "bb8fc0c7-19ef-4857-be27-f24da56eed15",
+      "startIndex": 1000,
+      "text": "فرج الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 785,
+      "guid": "c0b3d0db-09b9-4644-a782-812c89f01868",
+      "startIndex": 757,
+      "text": "عمر بن أبي بكر بن علي الكلابي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "d41a6402-31d2-4d15-accb-38668aa381b3",
+      "startIndex": 264,
+      "text": "نصر الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 502,
+      "guid": "d6b3e1b7-d31f-48ab-856e-03c217984f54",
+      "startIndex": 466,
+      "text": "أبو العباس أحمد بن عبد المنعم بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1207,
+      "guid": "da9fb6ae-3d1a-4875-a4f0-873f60a62baf",
+      "startIndex": 1203,
+      "text": "نرّوس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "e1f757c7-3040-421d-aa79-18780c4f9088",
+      "startIndex": 236,
+      "text": "هيثم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 536,
+      "guid": "e7684231-3812-4831-9ac6-86a7fff80b0b",
+      "startIndex": 505,
+      "text": "مفضل بن محمد بن سعد الله الكلابي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 724,
+      "guid": "f5d67046-5dea-4076-804f-a7d74f850c0b",
+      "startIndex": 650,
+      "text": "أبو القاسم عبد الرحمن بن أبي الفضل محمد بن يوسف الأنصاري عرف بابن أبي العيش",
+      "type": "person"
+    }
+  ],
+  "text": " سمع معي هذا الجزء على الشيخ الأمين أبي الحسين أحمد بن حيوس بن فتيح الغنوي واسمه في طبقة السماع عبد الله بقراءة صاحبه وجيه الدين أبي الفرج إبراهيم بن يوسف بن محمد المعافري البوني ابني المسمع شمس الدين أبو بكر محمد وحيوس وابنا شمس الدين هيثم ومظفر وابن المسمع أيضا نصر الله وابن أخت المسمع أبو الفضل محمد بن أبي طالب بن كروس وفتا الهيثم مثقال الحبشي وتقي الدين أبو طاهر إسماعيل بن عبد الله بن عبد المحسن الأنصاري وأبو الفتح محمد بن علي بن محمد بن علي القرشي المهدوي وأبو العباس أحمد بن عبد المنعم بن أحمد ومفضل بن محمد بن سعد الله الكلابي والشريف سليمان بن عبد القاهر بن عقيل العباسي وإسماعيل بن يوسف بن عبد الله الأنصاري وعلي بن صالح بن محمد الرازي وأبو القاسم عبد الرحمن بن أبي الفضل محمد بن يوسف الأنصاري عرف بابن أبي العيش ومحمد بن حسان بن رافع العامري وعمر بن أبي بكر بن علي الكلابي وعثمان بن أبي بكر بن أيوب الفاسي وعلي بن سعيد بن إبراهيم السعردي الشيباني وعبد العزيز بن عبد الملك بن تميم الشيباني وكاتب الأسماء محمد بن أحمد بن علي بن أبي بكر بن إسماعيل القرطبي وأخوه أبو الحسين إسماعيل وفتاهما فرج الحبشي وذلك خامس عشري ربيع الأول من سنة خمس وتسعين وخمس ماية والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه سمع الجميع أيضا جمال الدين أبو المكارم محمد بن عقيل بن عبد الواحد بن كروس وفتا الهيثم نرّوس وأبو حفص عمر بن الحسن بن الحسين في التاريخ المذكور وكتب محمد بن أحمد بن علي صحيح ذلك وكتب أحمد بن حيوس بن رافع بن منصور بن فتيح الغنو[ي]"
+}

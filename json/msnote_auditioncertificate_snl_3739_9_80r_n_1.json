@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد الأصبهاني السلفي"
+      ],
+      "work_title": [
+        "حديث المصافحة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 19"
+      ],
+      "classmark": [
+        "3739/9"
+      ],
+      "folio_number": [
+        "80r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "0ff1a29c-5716-4b49-83b5-145103d0b4f2",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 146,
+      "text": "علي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "363cd6ff-c242-416b-b4c0-f5b97bb81f62",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 202,
+      "text": "محمد بن علي بن محمود المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "al-qaboun"
+          ]
+        ]
+      },
+      "endIndex": 322,
+      "guid": "3f53de3b-2f62-4f98-a185-6ca6404e09ea",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 306,
+      "text": "القابون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "4cb005b2-996f-48c0-bcb7-0f58cdda558e",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 71,
+      "text": "أبي الفضل الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "50e5c8a8-7dfc-4a31-94dc-f57aa0847595",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 357,
+      "text": "يوسف المزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "693f60fa-9dce-4500-9543-0a2a7fce0414",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "6ef81dc3-5059-42bb-a83f-407bf5082ad1",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 100,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "635"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "789300d8-ba35-46d5-9074-d7afe9e494b2",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 258,
+      "text": "يوم الاثنين ثاني عشر رجب سنة خمس وثلثين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "f5625d14-5459-424f-9983-d27250581908",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 114,
+      "text": "أبي عبد الله بن الموقاني",
+      "type": "person"
+    }
+  ],
+  "text": " على أصله ما مختصره سمع جميع حديث المصافحة هذا على الشيخ الفاضل المقرئ أبي الفضل الهمداني بسماعه من السلفي بقراءة أبي عبد الله بن الموقاني جماعة وعلي وعبد الرحمن ابنا محمد بن علي المراكشي وكاتب التسميع محمد بن علي بن محمود المحمودي الصابوني وصح لهم بشرطه في يوم الاثنين ثاني عشر رجب سنة خمس وثلثين وستمية بالقابون ظاهر دمشق والحمد لله وصلواته على محمد نقله يوسف المزي عفا الله عنه والحمد لله وحده"
+}

@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/76600419"
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 7"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 709"
+      ],
+      "folio_number": [
+        "2r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.item.r=%22arabe%20709%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "11862864-3697-421a-bc36-68e7480f1919",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "محمد بن علي التغلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "580390af-3511-436e-af49-9b81e3095f79",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 71,
+      "text": "أبي الحسن علي بن أحمد [بن محمد بن كوثر المحاربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21- 30"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "7b39dccf-667e-4782-a808-c6ebb6630601",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "يوم الجمعة في العشر الأخير من ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "d5fcdca9-c1b4-4b30-b0b7-929b6fd731d8",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 131,
+      "text": "علي بن محمد بن عبد",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ بعض هذا الكتاب تأليف أبي عيسى في هذا الأصل العتيق أصل الفقيه الحاج أبي الحسن علي بن أحمد [بن محمد بن كوثر المحاربي] أكرمه الله علي بن محمد بن عبد [...] ومحمد بن علي التغلبي وكان السماع والقراءة يوم الجمعة في العشر الأخير من [...]"
+}

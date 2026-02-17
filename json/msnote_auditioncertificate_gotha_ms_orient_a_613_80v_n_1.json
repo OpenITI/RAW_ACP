@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأحاديث البلدانية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 613"
+      ],
+      "folio_number": [
+        "80v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000619"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "183b5f7d-3d24-434e-9f2b-1b1f89ab7139",
+      "startIndex": 118,
+      "text": "أبو هريرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "18c50448-d2cb-47cd-9fd0-f86c2c6645a4",
+      "startIndex": 33,
+      "text": "محمد بن أحمد بن عثمان الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27-30"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "724"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "47d87a4b-4bb3-43af-8e51-188c1b77fb70",
+      "startIndex": 141,
+      "text": " سلخ محرم سنة أربع وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "9d6ac8b4-0d56-4083-82d0-a0a9e638b9b7",
+      "startIndex": 217,
+      "text": "كتبه أحمد البارنباري",
+      "type": "person"
+    }
+  ],
+  "text": "شاهدت بخط سمع هذا الكتاب كله على محمد بن أحمد بن عثمان الذهبي بسنده على وجه الأربعين والكلام على الحديث فمن قوله ابنه أبو هريرة وآخرون وصح في سلخ محرم سنة أربع وعشرين وسبعماية وأجزت لهم ما يجوز لي إجازته لخصه من خطه وكتبه أحمد البارنباري."
+}

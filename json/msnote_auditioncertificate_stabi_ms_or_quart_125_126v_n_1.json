@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن إسحق بن زيد الحلبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد القاضي أبي الحسن علي بن محمد بن إسحق بن زيد الحلبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "126v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000264.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059149"
+      ],
+      "note": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "525"
+        ]
+      },
+      "endIndex": 483,
+      "guid": "01d53c0f-7a1e-417e-82ca-a60f33cab2c1",
+      "startIndex": 434,
+      "text": "في الرابع من شهر ربيع الأول سنة خمس وعشرين وخمسمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 499,
+      "guid": "04301a12-1b7c-44d6-9d23-df77ead73311",
+      "startIndex": 490,
+      "text": "جامع بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "70cbcf4c-17e9-4f3a-9143-43af2d7ef79b",
+      "startIndex": 182,
+      "text": "أبي محمد طاهر بن سهل بن بشر بن أحمد الإسفراييني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "92737565-2af1-45f5-abc3-c9379d49e95c",
+      "startIndex": 110,
+      "text": " أبو الحسين عبد الرحمن بن الحسين بن الخضر بن الحسين بن عبدان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "94e130ca-bdc4-4add-9e5f-009e2ca9853a",
+      "startIndex": 136,
+      "text": "الحسين بن الخضر بن الحسين بن عبدان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 343,
+      "guid": "af036bd5-c516-4464-9e2e-d0b0b29bd7c4",
+      "startIndex": 334,
+      "text": "عبد الكريم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "b165d7a1-d1fa-443b-ad97-0b1e2de7c4ab",
+      "startIndex": 238,
+      "text": "أبي عبد الله محمد بن أبي الفضل بن علي بن عبد الواحد الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 426,
+      "guid": "c3fdf604-d617-443e-9d64-a6483f6d8a2e",
+      "startIndex": 395,
+      "text": "عبد الخالق بن أسد بن ثابت المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 391,
+      "guid": "e3f9a931-c46b-40d5-9afc-bf04d18c9249",
+      "startIndex": 347,
+      "text": "أبو الفضل الحسن بن عبد الواحد بن محمد بن هلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 318,
+      "guid": "e57c9137-1856-497f-beeb-89e176d18fcb",
+      "startIndex": 309,
+      "text": "عبد الخالق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "ee4f1f1a-e6a2-4059-8760-f1ba17c9cf48",
+      "startIndex": 322,
+      "text": "عبد الصمد",
+      "type": "person"
+    }
+  ],
+  "text": "على الأصل من هذا الجزء وهو الأول من فوائد القاضي أبي الحسن الحلبي ما صورته، بلغت سماعاً من أوله إلى آخره وابني أبو الحسين عبد الرحمن بن الحسين بن الخضر بن الحسين بن عبدان. على الشيخ أبي محمد طاهر بن سهل بن بشر بن أحمد الإسفراييني، بقراءة أبي عبد الله محمد بن أبي الفضل بن علي بن عبد الواحد الحرستاني، وأولاده عبد الخالق، وعبد الصمد، وعبد الكريم، وأبو الفضل الحسن بن عبد الواحد بن محمد بن هلال، وعبد الخالق بن أسد بن ثابت المقرئ، وذلك في الرابع من شهر ربيع الأول سنة خمس وعشرين وخمسمئة في الجامع بدمشق."
+}

@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو علي إسماعيل بن محمد بن إسماعيل الصفار"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي علي إسماعيل الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 116"
+      ],
+      "classmark": [
+        "3761/2"
+      ],
+      "folio_number": [
+        "8r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "0bae6325-56e3-4b9c-a712-3c607e946f62",
+      "startIndex": 194,
+      "text": " أبو بكر عبد الرحمن بن سلطان القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "3745bb9a-7670-4737-b043-940adff649ce",
+      "startIndex": 50,
+      "text": "أبي الفتح [نصر الله] بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 295,
+      "guid": "5f0b5506-d36a-4ead-9540-037eedac70e6",
+      "startIndex": 282,
+      "text": "منزل [الفقيه؟]",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 342,
+      "guid": "99aba1cb-4bb4-4235-bac9-93f587b680f0",
+      "startIndex": 319,
+      "text": "سنقر بن عبد الله الأرمني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "a17a9bf0-f4e9-4ce1-9dc5-5b6951f2515f",
+      "startIndex": 105,
+      "text": "أبي محمد عبد الوهاب بن علي بن [الخضر]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "a1ba8940-c8fa-4a71-9a4d-d24aaec5d1eb",
+      "startIndex": 143,
+      "text": "علي بن محمد بن يحيى بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "542"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "bad23370-3486-40e5-8153-3c416a3ab0d2",
+      "startIndex": 249,
+      "text": "صفر سنة اثنتين وأربعين وخمسماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "e7ec3c61-30c7-4627-942d-50e1bce08e33",
+      "startIndex": 175,
+      "text": " أبو علي الحسن ",
+      "type": "person"
+    }
+  ],
+  "text": "[سمع] جميع هذا الجزء على الشيخ الإمام شيخ الإسلام أبي الفتح [نصر الله] بن محمد رضي الله عنه بقراءة الشيخ أبي محمد عبد الوهاب بن علي بن [الخضر] علي بن محمد بن يحيى بن علي وابنه أبو علي الحسن وعمه أبو بكر عبد الرحمن بن سلطان القرشيون في آخرين وذلك في صفر سنة اثنتين وأربعين وخمسماية بمنزل [الفقيه؟] وسمع جميعه مع الجماعة سنقر بن عبد الله الأرمني فتى أبي علي الحسن"
+}

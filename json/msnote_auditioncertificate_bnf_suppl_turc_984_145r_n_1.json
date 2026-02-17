@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "زكي الدين عبد العظيم بن عبد القوي المنذري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من أمالي عبد العظيم بن عبد القوي المنذري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "145r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f148.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f148.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "09d7e26f-219a-42c0-b79c-deb5929b4718",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 111,
+      "text": "علي بن عمر بن أبي بكر الواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1- 9"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "651"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "4137406f-f3fa-411e-b960-28dee3e6aa03",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 140,
+      "text": "في العشر الأول من ذي الحجة سنة إحدى وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "798c81bc-db47-43ab-a143-6f3e19190258",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 81,
+      "text": "الضياء محمد بن عثمان الدرزاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "dar_al-hadith_al-kamiliya"
+          ]
+        ]
+      },
+      "endIndex": 210,
+      "guid": "b1e4535b-7f5b-4aac-a1a8-4ee2bf42d979",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 192,
+      "text": "دار الحديث الكاملية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "cd78a906-7ca7-4353-a31d-ed4e4c0185f4",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 32,
+      "text": "زكي الدين عبد العظيم بن عبد القوي المنذري",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه على مُخَرِّجِه الحافظ زكي الدين عبد العظيم بن عبد القوي المنذري بقراءة الضياء محمد بن عثمان الدرزاري علي بن عمر بن أبي بكر الواني في العشر الأول من ذي الحجة سنة إحدى وخمسين وستمائة بدار الحديث الكاملية"
+}

@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسماعيل البخاري"
+      ],
+      "work_title": [
+        "ثلاثيات البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 17"
+      ],
+      "classmark": [
+        "3739/2"
+      ],
+      "folio_number": [
+        "23r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "4e296342-20bb-4371-b81a-f194428b099a",
+      "index": 142,
+      "isZeroPoint": false,
+      "startIndex": 118,
+      "text": "يوسف بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "a85e652f-61b5-4363-ac08-4842028543e6",
+      "index": 141,
+      "isZeroPoint": false,
+      "startIndex": 106,
+      "text": "الحجار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 27,
+      "guid": "d8d473e6-3175-4fd3-8589-5c1508e31f87",
+      "index": 139,
+      "isZeroPoint": false,
+      "startIndex": 20,
+      "text": "ابن إسحق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "e3cb2f28-b07f-427e-b46a-73db5e8dd255",
+      "index": 140,
+      "isZeroPoint": false,
+      "startIndex": 60,
+      "text": "ابن الزعبوب ",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت الثلاثيات على ابن إسحق وغيره بسماعهم لجميع الجامع على ابن الزعبوب بسماعه لها ولجميع الجامع أيضا على الحجار وكتب يوسف بن عبد الهادي"
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "127v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "0799f043-c135-45d2-b912-ce284db75229",
+      "startIndex": 113,
+      "text": "عبد الله بن عمر بن علي بن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "375b63dd-da8b-46fd-bab9-3796f39e0cc4",
+      "startIndex": 77,
+      "text": "أبو بكر بن محمد بن بركة الحلاج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "4983e47b-a839-4a51-a062-e2bd9c138170",
+      "startIndex": 9,
+      "text": "أبي القاسم سعيد بن أحمد بن الحسن بن البناء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "61aff03a-0b1e-464f-9750-8e43a89c978d",
+      "startIndex": 241,
+      "text": "علي بن بلبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "6"
+        ],
+        "year": [
+          "549"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "74f631c1-24b5-440a-bca6-767cd296691f",
+      "startIndex": 180,
+      "text": "جمادى الآخرة سنة تسع وأربعين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "861dbe54-fbca-45cf-ac10-d07eff8b03d4",
+      "startIndex": 62,
+      "text": "الزينبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "a5a99af2-75de-4de7-ac1b-a0ec8d40c94c",
+      "startIndex": 156,
+      "text": "محمد بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 278,
+      "guid": "b2129d56-529c-4f9c-b47a-9cbec660ac38",
+      "startIndex": 267,
+      "text": "الحسن بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "d61daa42-da4d-4bfd-9c48-e968dd3a03a2",
+      "startIndex": 229,
+      "text": "ابن الجوهري",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من أبي القاسم سعيد بن أحمد بن الحسن بن البناء بسماعه من الزينبي جماعة وأبو بكر بن محمد بن بركة الحلاج وحضر عبد الله بن عمر بن علي بن اللتي بقراءة عمه محمد بن علي وكتب ذلك في جمادى الآخرة سنة تسع وأربعين وخمسمائة نقله من خط ابن الجوهري علي بن بلبان ونقله من خطه الحسن بن علي"
+}

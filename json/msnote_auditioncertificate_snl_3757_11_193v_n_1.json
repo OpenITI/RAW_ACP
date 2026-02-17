@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن جعفر بن حبان"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حكايات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/11"
+      ],
+      "folio_number": [
+        "193v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "0ea1edba-8d91-4d11-becb-95482b73182d",
+      "startIndex": 177,
+      "text": "أبي محمد عبد الله بن محمد أبي الشيخ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "0f7807cb-cb87-4450-a09d-da96ae8a6f32",
+      "startIndex": 67,
+      "text": "أبي المحاسن عمر بن علي بن محمد بن أحمد التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "172de4a0-35f5-4a2e-860d-58176a252d8e",
+      "startIndex": 146,
+      "text": "أبي طاهر بن عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "390b4c14-c35a-40be-918a-66b1c57b6ba0",
+      "startIndex": 233,
+      "text": "صائن الدين أبي رشيد محمد بن أبي بكر بن أبي القاسم الغزال ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "609a681c-855d-492f-b1f0-d83d07d5304e",
+      "startIndex": 125,
+      "text": "أبي بكر بن أبي ذر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "persia",
+            "isfahan"
+          ]
+        ]
+      },
+      "endIndex": 397,
+      "guid": "ad277257-061a-4437-a0b6-bee6a377791a",
+      "startIndex": 392,
+      "text": "أصبهان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 323,
+      "guid": "c17270e0-b241-489e-a312-db2eebd6f65c",
+      "startIndex": 290,
+      "text": "محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "579"
+        ]
+      },
+      "endIndex": 389,
+      "guid": "f3816d72-7053-479c-8197-6eed9e9b287d",
+      "startIndex": 333,
+      "text": "يوم الخميس السابع عشر من شعبان من سنة تسع وسبعين وخمسماية",
+      "type": "date"
+    }
+  ],
+  "text": "على أصله بخط عمي ضياء الدين رحمه الله سمع جميع هذا الجزء على الشيخ أبي المحاسن عمر بن علي بن محمد بن أحمد التميمي بإجازته عن أبي بكر بن أبي ذر عن أبي طاهر بن عبد الرحيم إذنا عن أبي محمد عبد الله بن محمد أبي الشيخ كتابة بقراءة الإمام صائن الدين أبي رشيد محمد بن أبي بكر بن أبي القاسم الغزال محمد بن عبد الواحد بن أحمد المقدسي وذلك في يوم الخميس السابع عشر من شعبان من سنة تسع وسبعين وخمسماية بأصبهان"
+}

@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عطاء الروذباري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الروذباري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 134"
+      ],
+      "classmark": [
+        "3763/18"
+      ],
+      "folio_number": [
+        "208r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "defaultLabel": "Place1",
+      "guid": "08bfa392-4b7a-44c0-bf2c-6ab650f5c6f1",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "279256fb-0089-49d1-bb12-ba504d94e627",
+      "startIndex": 58,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 44,
+      "guid": "28f2f139-7cc3-405b-9bec-57c17da6054e",
+      "startIndex": 11,
+      "text": " أبو عبد الله محمد بن خليل الحريري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "779"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "b9412b8f-748b-43f0-9e7a-df63819c5184",
+      "startIndex": 106,
+      "text": "جمادى الآخرة سنة تسع وسبعين [وسبعمية]",
+      "type": "date"
+    }
+  ],
+  "text": "سمعه الإمام أبو عبد الله محمد بن خليل الحريري بقراءته على محمد بن عبد الله بن أحمد بن المحب عن الشيخين في جمادى الآخرة سنة تسع وسبعين [وسبعمية]"
+}

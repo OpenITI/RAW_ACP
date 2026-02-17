@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عمر بن محمد بن سلم بن البراء التميمي الجعابي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ذكر من حدث عن النبي هو وأبوه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Aydogan kars"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "33v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f36.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f36.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 539,
+      "guid": "1ad9d18c-4365-4bde-bf61-9a0ee5b1a682",
+      "startIndex": 493,
+      "text": "محمد بن عمر بن عبيد الله بن أحمد بن عمر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "3eddf540-0e9f-4938-b82c-a88980c0000f",
+      "startIndex": 364,
+      "text": "محمد بن محمد بن شيخنا داود بن حمزة بن أحمد بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "705"
+        ]
+      },
+      "endIndex": 646,
+      "guid": "4683fc1b-bdcb-4258-96d3-af42eaaa56fa",
+      "startIndex": 591,
+      "text": " يوم السبت الثامن والعشرين من ذي القعدة سنة خمس وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "57996372-f61c-49bc-8733-1681b4303bfc",
+      "startIndex": 125,
+      "text": "ضياء الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 490,
+      "guid": "7279cc83-9e9d-4472-a030-ac2411b8dae7",
+      "startIndex": 454,
+      "text": "عمر بن أحمد بن عبد الله بن عمر بن عوض",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 677,
+      "guid": "80fac6ae-31b5-43e0-9e7d-fe07d9ab3e9e",
+      "startIndex": 649,
+      "text": "المسجد العتيق بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "a4c1d726-00a8-447d-bcd8-715e15715452",
+      "startIndex": 221,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "b2e2644c-c645-4ed0-841b-456f987024ce",
+      "startIndex": 54,
+      "text": "فخر الدين أبي عمرو عثمان بن إبراهيم بن أبي علي الحمصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "ccdeb8b4-e8ba-46f4-b26b-1e760821997a",
+      "startIndex": 227,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 361,
+      "guid": "cdc606e1-be27-4a03-9cee-6d4b963a98ec",
+      "startIndex": 299,
+      "text": "عبد الرحمن بن محمد بن العز إبراهيم بن عبد الله بن الشيخ أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 451,
+      "guid": "d18a7ade-5c81-42c2-b418-6fea286e0f00",
+      "startIndex": 423,
+      "text": "علي بن محمد بن مغيث الجماعيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "df35b761-58e9-4320-864d-60649210ee14",
+      "startIndex": 155,
+      "text": "عبد الله بن أحمد بن عبد الله بن أحمد بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 579,
+      "guid": "f5d51e34-8ce5-4e57-9f96-0958046f59be",
+      "startIndex": 544,
+      "text": "الحسن بن أحمد بن هلال بن سعيد الدقاق",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء كله على الشيخ المسند الزاهد بقية الشيوخ فخر الدين أبي عمرو عثمان بن إبراهيم بن أبي علي الحمصي بسماعه من الحافظ ضياء الدين بسنده بقراءة كاتبه عبد الله بن أحمد بن عبد الله بن أحمد بن محمد المقدسي عفا الله عنه محمد وأحمد ابنا محمد بن شيخنا فخر الدين علي بن أحمد بن عبد الواحد وابن خالهما عبد الرحمن بن محمد بن العز إبراهيم بن عبد الله بن الشيخ أبي عمر ومحمد بن محمد بن شيخنا داود بن حمزة بن أحمد بن عمر حضر ومعه علي بن محمد بن مغيث الجماعيلي وعمر بن أحمد بن عبد الله بن عمر بن عوض ومحمد بن عمر بن عبيد الله بن أحمد بن عمر المقدسيون والحسن بن أحمد بن هلال بن سعيد الدقاق وصح ذلك في يوم السبت الثامن والعشرين من ذي القعدة سنة خمس وسبعمائة بالمسجد العتيق بسفح جبل قاسيون وأجازهم الشيخ رواية ما يرويه الحمد لله وصلى الله على سيدنا محمد وآله"
+}

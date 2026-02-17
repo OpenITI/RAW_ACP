@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبدالله بن إبراهيم الشافعي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي بكر الشافعي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 165"
+      ],
+      "classmark": [
+        "3768/13"
+      ],
+      "folio_number": [
+        "193r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "02a53837-44c0-4d88-aeec-b855794b2455",
+      "startIndex": 192,
+      "text": "علي بن مسعود بن نفيس بن عبد الله الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 267,
+      "guid": "0baff9cc-2e7c-4852-ad35-bb60e05e2395",
+      "startIndex": 255,
+      "text": " أبو بكر أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 349,
+      "guid": "3069c8a6-3031-4cd0-acca-ff1e726496c2",
+      "startIndex": 281,
+      "text": "أحمد ابن الشهاب عبد الحليم بن عبد السلام بن عبد الله بن تيمية الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "45038573-66b3-45b9-95fe-b3c8116f97e1",
+      "startIndex": 162,
+      "text": "موفق الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 494,
+      "guid": "49b195ab-08b2-4de1-be3c-7a349530a0e9",
+      "startIndex": 477,
+      "text": "غشم بن محمد بن غشم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 599,
+      "guid": "547b9f42-9851-4ba2-86f6-e65cfec24207",
+      "startIndex": 573,
+      "text": "لمدرسة الضيائية بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "a72f96fd-cabb-470a-ade3-bd9bcf15af60",
+      "startIndex": 82,
+      "text": "شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 465,
+      "guid": "cd19b000-3d4a-445f-905d-91949b8acbf1",
+      "startIndex": 431,
+      "text": "خديجة بنت عبد الحميد بن غشم بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 422,
+      "guid": "f3f4ff93-a16c-4848-b60b-4a1fc1fbfa53",
+      "startIndex": 352,
+      "text": "الجمال أيدغدي بن عبد الله عتيق الأمير ناصر الدين محمد بن افتخار الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "675"
+        ]
+      },
+      "endIndex": 569,
+      "guid": "f5f1a237-fa47-404a-a28b-5656403b4615",
+      "startIndex": 516,
+      "text": "الاثنين الخامس والعشرين من شعبان سنة خمس وسبعين وستمئة",
+      "type": "date"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء من حديث الشافعي وموعظة الأوزاعي على الشيخ الإمام العالم الزاهد شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد المقدسي بسماعه من الشيخ موفق الدين بسنده بقراءة كاتبه علي بن مسعود بن نفيس بن عبد الله الموصلي ثم الحلبي عفا الله عنه أبو بكر أحمد ابن المسمع وأحمد ابن الشهاب عبد الحليم بن عبد السلام بن عبد الله بن تيمية الحراني والجمال أيدغدي بن عبد الله عتيق الأمير ناصر الدين محمد بن افتخار الحراني وأحضرت خديجة بنت عبد الحميد بن غشم بن محمد وابن عمها غشم بن محمد بن غشم وصح ذلك وثبت في يوم الاثنين الخامس والعشرين من شعبان سنة خمس وسبعين وستمئة بالمدرسة الضيائية بسفح قاسيون والسماع على الشيخ شمس الدين وحده والمضروب عليه كتب على سهو فسبحان من لا يسهو"
+}

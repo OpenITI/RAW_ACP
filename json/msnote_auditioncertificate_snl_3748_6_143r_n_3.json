@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أيوب بن يحيى بن ضريس الرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث ابن ضريس وغيره"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 55 "
+      ],
+      "classmark": [
+        "3748/6"
+      ],
+      "folio_number": [
+        "143r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "centralasia",
+            "herat"
+          ]
+        ]
+      },
+      "endIndex": 158,
+      "guid": "1f133aa2-4184-44c4-9ea6-7ba7567189ab",
+      "startIndex": 155,
+      "text": "هراة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "2c23f30d-8560-47eb-ade3-32535ceb1105",
+      "startIndex": 88,
+      "text": "عبد المعز بن محمد البزاز الهروي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "99952cb6-6b0b-452b-a815-1f00226cb932",
+      "startIndex": 39,
+      "text": "أبي القاسم زاهر بن طاهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "b3df14eb-f637-4ae7-875f-a47799d40728",
+      "startIndex": 70,
+      "text": "عبد الرحمن الفامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "527"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "c49c6fb6-6526-4a40-b439-2633ad0521ee",
+      "startIndex": 123,
+      "text": "ذي قعدة سنة سبع وعشرين وخمسمية",
+      "type": "date"
+    }
+  ],
+  "text": " سمع هذا الجزء سوى أحاديث بن خزيمة على أبي القاسم زاهر بن طاهر بقراءة عبد الرحمن الفامي عبد المعز بن محمد البزاز الهروي في ذي قعدة سنة سبع وعشرين وخمسمية بهراة"
+}

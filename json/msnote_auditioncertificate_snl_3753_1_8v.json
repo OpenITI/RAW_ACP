@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ضياء الدين محمد بن عبد الواحد بن أحمد المقدسي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من عوالي حديث الحافظ ضياء الدين المقدسي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 69"
+      ],
+      "classmark": [
+        "3753/1"
+      ],
+      "folio_number": [
+        "8v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "144ca618-c7f1-4079-b172-42161bfc3df0",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 227,
+      "text": "يوم الجمعة سابع جمادى الأولى سنة تسع وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "6992e918-4728-4cbe-a843-150a5eed8813",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 50,
+      "text": "أبي الفخر أسعد بن سعيد بن روح ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "81c96f79-76cb-4634-aa38-1e904879a951",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 190,
+      "text": "إسماعيل ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 287,
+      "guid": "985bf25a-f1de-49f6-b010-c8d014f002a6",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 279,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "bdf8f347-be28-4f0a-82ea-da71685bdd59",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 199,
+      "text": "صفي الدين جوهر التفليسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "cf3b6ad9-c197-44b1-bdea-f1511dd03ffa",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 294,
+      "text": "القاسم بن محمد البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "e388fbf9-c938-43a5-aab8-7d293769f213",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 104,
+      "text": "برهان الدين أبي إسحق إبراهيم بن إسماعيل بن يحيى الدرجي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "e75f3976-4829-45d2-bec7-441b4175ea57",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 30,
+      "text": "أبي جعفر الصيدلاني",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع ما في هذا الجزء عن أبي جعفر الصيدلاني وأبي الفخر أسعد بن سعيد بن روح على الشيخ الإمام الزاهد برهان الدين أبي إسحق إبراهيم بن إسماعيل بن يحيى الدرجي الحنفي بإجازته منهما فسمعه أخي إسماعيل وصفي الدين جوهر التفليسي وصح يوم الجمعة سابع جمادى الأولى سنة تسع وسبعين وستمية بجامع دمشق كتبه القاسم بن محمد البرزالي عفا الله عنه"
+}

@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن بن شاذان السكري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 86"
+      ],
+      "classmark": [
+        "3755/12"
+      ],
+      "folio_number": [
+        "172r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "037a817a-4c96-4a06-9eb7-d4912351bdb5",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 210,
+      "text": "أبو محمد عبد العزيز ابن عبد الملك ابن تميم الشيباني الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "0a369f6b-efbf-4053-bf37-cc108f0a7c57",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "أبي حفص عمر بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "300d9bad-44e2-4730-a6c9-7ad9de2bc2ec",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 135,
+      "text": "إسماعيل بن ظفر بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "601"
+        ]
+      },
+      "endIndex": 387,
+      "guid": "36188c02-0788-4df5-bd7e-f75ebfda7de7",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 357,
+      "text": "سلخ ربيع الآخر سنة إحدى وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 302,
+      "guid": "3be826e3-e772-42e7-83ea-1fa8b384bb9e",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 271,
+      "text": "محمد بن عبد اللطيف بن حسن الشمعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "dar_al-qaz"
+          ]
+        ]
+      },
+      "endIndex": 418,
+      "guid": "4418c021-8fc2-43e2-96e7-a2ba598d537b",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 390,
+      "text": "جامع دار القز من مدينة السلام",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "955a99a6-39be-4cae-91c5-cf63d2561da0",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 94,
+      "text": "أبي عبد الله محمد بن عبد الواحد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 347,
+      "guid": "cf6dc460-07ae-4b72-8b36-288b371d52e5",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 305,
+      "text": "عبد السلام بن عبد [الحليم] بن تيمية الحراني",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ الصالح المؤدب أبي حفص عمر بن محمد بن طبرزد بقراءة الإمام العالم أبي عبد الله محمد بن عبد الواحد بن أحمد وإسماعيل بن ظفر بن أحمد والخط له المقدسيان وصاحب النسخة الشيخ الإمام المقرئ أبو محمد عبد العزيز ابن عبد الملك ابن تميم الشيباني الدمشقي ومحمد بن عبد اللطيف بن حسن الشمعي وعبد السلام بن عبد [الحليم] بن تيمية الحراني وذلك في سلخ ربيع الآخر سنة إحدى وستماية بجامع دار القز من مدينة السلام"
+}

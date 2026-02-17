@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الله الأزدي البصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مختصر فتوح الشام"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 1664"
+      ],
+      "folio_number": [
+        "82v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000905j/f88.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000905j/f88.image.r=%22Arabe%201664%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 420,
+      "guid": "10ec6483-2abf-4dda-9251-89fda172fd05",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 372,
+      "text": "أبي الحسن علي بن أحمد بن إسحق بن إبراهيم البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 481,
+      "guid": "6d80303a-1b45-4054-8026-5ac6001cac03",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 461,
+      "text": "الحسين بن زياد الرملي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "812"
+        ]
+      },
+      "endIndex": 683,
+      "guid": "6f899d85-4d22-4941-b27a-154b76806873",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 634,
+      "text": "الرابع والعشرين من صفر من سنة اثنتي عشر وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "jerusalem",
+            "al-aqsa_mosque"
+          ]
+        ]
+      },
+      "endIndex": 629,
+      "guid": "a57e0dbc-7a21-4eb4-932e-4f0ff2cca90e",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 603,
+      "text": "المسجد الأقصى بالقدس الشريف",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 256,
+      "guid": "a5c7d36c-13fa-44a2-8a36-c1082305f99b",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 205,
+      "text": "أبي إسحق إبراهيم بن سعيد ابن عبد الله التجيبي الحبال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 456,
+      "guid": "bf9d8dd4-3199-4ec5-9fd7-def9d29f6c14",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 425,
+      "text": "أبي العباس الوليد بن حماد الرملي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "c12755d1-9d17-4c97-9f9f-6b35449fb62a",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 143,
+      "text": "السلفي الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "d24f4662-b22f-437c-9e69-c53168a5bf52",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "أبي الحسين أحمد بن محمد بن مسيح المقري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 565,
+      "guid": "e00e9ea9-eb04-4449-a343-13393cb2271a",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 499,
+      "text": "محمد بن عبد الجليل بن عبد الكريم بن عثمان المقدسي المعروف بالموقاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "f643cc10-55b7-4d24-a59f-d0c0f9a2adf7",
+      "index": 2,
+      "isZeroPoint": false,
+      "startIndex": 93,
+      "text": "أبي علي الحسن بن أحمد بن يوسف الأوقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "f7662f7a-3ecc-4bcf-8840-f328fd9c0b67",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 314,
+      "text": "أبي العباس منير بن أحمد بن الحسن بن علي بن منير الخشاب",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الكتاب وهو فتوح الشام تصنيف أبي إسماعيل الأزدي البُصري على الشيخ الإمام الزاهد أبي علي الحسن بن أحمد بن يوسف الأوقي بحق سماعه من السلفي الأصبهاني عن أبي الحسين أحمد بن محمد بن مسيح المقري عن أبي إسحق إبراهيم بن سعيد ابن عبد الله التجيبي الحبال (في الأصل الىىحيني؟ والتصحيح من تذكرة الحفاظ للذهبي) عن أبي العباس منير بن أحمد بن الحسن بن علي بن منير الخشاب عن أبي الحسن علي بن أحمد بن إسحق بن إبراهيم البغدادي عن أبي العباس الوليد بن حماد الرملي عن الحسين بن زياد الرملي عن المصنف الشيخ محمد بن عبد الجليل بن عبد الكريم بن عثمان المقدسي المعروف بالموقاني وجماعة أثبتت أسماءهم في الأصل وذلك بالمسجد الأقصى بالقدس الشريف في الرابع والعشرين من صفر من سنة اثنتي عشر وثمان ماية والحمد لله وحده"
+}

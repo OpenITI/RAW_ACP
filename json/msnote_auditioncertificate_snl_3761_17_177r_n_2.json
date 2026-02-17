@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو نعيم أحمد بن عبد الله بن أحمد الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "تسمية ما انتهى إلينا من الرواة عن أبي نعيم الفضل بن دكين الطلحي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 122"
+      ],
+      "classmark": [
+        "3761/17"
+      ],
+      "folio_number": [
+        "177r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "08f6111a-6a94-4482-9cb3-5cc843c15640",
+      "startIndex": 262,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "0dc95765-f669-443f-8527-2f17a0229994",
+      "startIndex": 73,
+      "text": "محمد بن أبي النصر بن عثمان العنبتاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "62de3143-fef1-4bd5-bd7b-230628ebfb03",
+      "startIndex": 193,
+      "text": "وأحمد بن أحمد بن منصور العنبتاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "2"
+        ],
+        "year": [
+          "787"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "a26868d4-a43d-493e-84db-883e2728e5a0",
+      "startIndex": 228,
+      "text": " صفر سنة سبع وثمانين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "ffe3a2ca-39b7-4d7b-aff9-6ce94b1db7a2",
+      "startIndex": 138,
+      "text": " محمد بن عبد الله بن يوسف بن يحيى الحجاوي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع علي نصفه الأول إلى آخر حديث عيسى بن قرطاس آخر القائمة الخامسة الفقيه محمد بن أبي النصر بن عثمان العنبتاوي وسمع من ثم إلى آخره الفقيهان محمد بن عبد الله بن يوسف بن يحيى الحجاوي بقراءته أيضا وأحمد بن أحمد بن منصور العنبتاوي في صفر سنة سبع وثمانين وسبعمية كتبه محمد بن المحب"
+}

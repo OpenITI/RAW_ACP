@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المؤتنف تكملة المؤتلف والمختلف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 290"
+      ],
+      "folio_number": [
+        "58v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1663217491/1200/0/00000158.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011164"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "577"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "01c2f9ab-0111-4086-bd4c-db4abb4607df",
+      "startIndex": 255,
+      "text": " في رمضان من سنة سبع وسبعين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "0e189406-7993-4f56-a592-a19aac0cfe11",
+      "startIndex": 150,
+      "text": "أبي بكر محمد بن موسى بن عثمان بن موسى بن عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "3949171c-dbfe-48f5-b1e7-0d1a40e0c54e",
+      "startIndex": 199,
+      "text": "أحمد] بن محمد بن محمد بن محمد الفراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "bab_al-karkh"
+          ]
+        ]
+      },
+      "endIndex": 317,
+      "guid": "43a023e8-c9cc-4c4e-b215-a948cdfc557d",
+      "startIndex": 294,
+      "text": "باب [الكرخ؟] بمسجد الشيخ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "9603d945-fc0d-407d-8999-5220e323edb9",
+      "startIndex": 29,
+      "text": "أبي محمد عوض بن إبراهيم بن محمد بن خلف البرَدَاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "ac5dd5e0-0020-454a-8d7e-4f12add3046f",
+      "startIndex": 93,
+      "text": "أبي سعد بن الطيوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "c79eb2b4-7932-4d92-a18b-bbb264b6c453",
+      "startIndex": 115,
+      "text": "الخطيب",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ أبي محمد عوض بن إبراهيم بن محمد بن خلف البرَدَاني بحق إجازته من أبي سعد بن الطيوري عن الخطيب، بقراءة الشيخ الإمام العالم أبي بكر محمد بن موسى بن عثمان بن موسى بن عثمان، [أحمد] بن محمد بن محمد بن محمد الفراء، وعارض بكتابه، وذلك في رمضان من سنة سبع وسبعين وخمس مائة بباب [الكرخ؟] بمسجد الشيخ وصح وثبت الحمد لله حق حمده وصلواته على سيدنا محمد وسلم تسليماً."
+}

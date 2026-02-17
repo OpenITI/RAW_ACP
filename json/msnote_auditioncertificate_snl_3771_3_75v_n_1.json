@@ -1,0 +1,859 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الله بن إبراهيم الشافعي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "مسند موسى بن جعفر"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 178"
+      ],
+      "classmark": [
+        "3771/3"
+      ],
+      "folio_number": [
+        "75v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "612"
+        ]
+      },
+      "endIndex": 1405,
+      "guid": "0202aed8-605a-42db-addb-cb569142e7b9",
+      "startIndex": 1346,
+      "text": "الأحد الرابع والعشرين من جمادى الأولى سنة اثنتي عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1745,
+      "guid": "0d4410da-70c7-4f46-a972-717b9a8bdfb5",
+      "startIndex": 1716,
+      "text": "محمد بن عبد الملك بن عبد الملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 787,
+      "guid": "0e2f94c8-8f43-497d-b1f5-d3efc4520c51",
+      "startIndex": 760,
+      "text": "عبد الرحمن بن الإمام أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1299,
+      "guid": "106feb1d-5201-4638-90a5-748b975dbe1c",
+      "startIndex": 1270,
+      "text": "مظفر بن سليمان بن أحمد بن إسحق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 386,
+      "guid": "1578dbf0-a00d-4ba7-86fd-9af83509ced5",
+      "startIndex": 383,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1324,
+      "guid": "1a6f809d-87cc-452c-8184-941d7805fccd",
+      "startIndex": 1302,
+      "text": "حسين بن أبي بكر بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "1df7f7d1-b26c-4d7b-a910-77ebe9898266",
+      "startIndex": 208,
+      "text": "الحسن ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "20f880bf-7894-4e37-b443-30ef328f2ba8",
+      "startIndex": 141,
+      "text": "أبي موسى عبد الله بن الحافظ أبي محمد عبد الغني بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 924,
+      "guid": "246508a1-f08c-4a84-851d-f3a6cdb540c8",
+      "startIndex": 887,
+      "text": "إبراهيم بن أحمد بن شبل الخزاعي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 731,
+      "guid": "29e3e502-557f-4f1f-95c5-202d0896658c",
+      "startIndex": 684,
+      "text": "عبد الرحمن بن عبد الله بن عبد الحميد بن أبي عطاف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 392,
+      "guid": "379c589a-b993-4d71-af65-54aae556de4b",
+      "startIndex": 389,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1340,
+      "guid": "3dcc28c5-bdb0-4a3b-8080-58d67401b3cd",
+      "startIndex": 1332,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 823,
+      "guid": "3fb71de4-dc1e-4ec8-88ca-2c3a5fc88086",
+      "startIndex": 817,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 504,
+      "guid": "40b36eaf-bc9b-49db-a01b-15f887276048",
+      "startIndex": 495,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 835,
+      "guid": "41951a10-15c2-44d2-b94d-f4f83782da04",
+      "startIndex": 826,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 658,
+      "guid": "43e0da33-d027-417b-96a1-f0744afb5043",
+      "startIndex": 649,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1211,
+      "guid": "45587169-828f-4191-913f-6ce08e35d838",
+      "startIndex": 1175,
+      "text": "إبراهيم بن محاسن بن عبد الملك التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 284,
+      "guid": "46f00452-a2f8-41ba-b00a-e9a86e77e9ab",
+      "startIndex": 254,
+      "text": "أبو سليمان عبد الرحمن بن الحافظ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "4a2d3a84-5d93-4617-b560-c00443c3fcfe",
+      "startIndex": 347,
+      "text": "علي بن أحمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1013,
+      "guid": "5061d6e4-8a83-40ca-ac64-16250bc50423",
+      "startIndex": 995,
+      "text": "عبد الرحمن بن السيد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 646,
+      "guid": "521d3109-dcc8-4034-bba1-55c50bc2c6f1",
+      "startIndex": 643,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1173,
+      "guid": "52dd994e-4ad7-4836-8369-ffd967641ca1",
+      "startIndex": 1168,
+      "text": "بلبان ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 814,
+      "guid": "53372aab-93dc-4cf8-8ce4-bcbfadf249a1",
+      "startIndex": 790,
+      "text": "أبو بكر بن عمر بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1241,
+      "guid": "5d1e39e1-7541-4ffe-9d10-d95c069bb87b",
+      "startIndex": 1214,
+      "text": "محمد بن علي بن عسكر الدنيسري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "5d2c702c-0552-425f-8688-9fa969077099",
+      "startIndex": 292,
+      "text": "سليمان ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1092,
+      "guid": "65667cc6-9900-4b56-897f-3fd8ad89f2bd",
+      "startIndex": 1035,
+      "text": "أبو الفتح نصر الله بن أبي العز بن أبي طالب الشيباني الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 492,
+      "guid": "69e3dd4a-a66f-4f14-80b9-466719eb4a41",
+      "startIndex": 489,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "7392cd6d-7982-4ad6-8c0c-66d55c923fe2",
+      "startIndex": 300,
+      "text": "أحمد بن المجد عيسى بن الإمام عبد الله بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 625,
+      "guid": "7d045bf9-7d55-48d0-8951-138363a619ac",
+      "startIndex": 622,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "95a48055-7b28-4957-9049-7dc36c60b2d1",
+      "startIndex": 215,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1032,
+      "guid": "96d85482-f7b4-4c1b-a700-eb493f2bee22",
+      "startIndex": 1016,
+      "text": "عبد الرحمن القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 757,
+      "guid": "9961e0cd-3d60-4c05-b809-e876c93d70af",
+      "startIndex": 734,
+      "text": "محمد بن مسعود بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "9d7a6163-fbf7-4f25-a04a-f4bcac9d4811",
+      "startIndex": 43,
+      "text": "أبي بكر عبد الله بن القاضي أبي المحاسن عمر بن علي بن الخضر القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 619,
+      "guid": "a4fe0c31-aace-4972-bcc8-814ca2af3fd8",
+      "startIndex": 615,
+      "text": " أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "a80bdd55-4614-4ec5-a6ec-227744cd78cd",
+      "startIndex": 421,
+      "text": "محمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 608,
+      "guid": "b880f82d-e4eb-43eb-b9e5-72e03749b10f",
+      "startIndex": 568,
+      "text": "أبو محمد عبد الرحمن بن محمد بن عبد الجبار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 565,
+      "guid": "ba6cb12e-1ada-403e-913f-be0b0169ccb0",
+      "startIndex": 531,
+      "text": "إبراهيم بن عبد الله بن محمد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1267,
+      "guid": "c24eb4b9-d134-49a8-8523-b7b15e248eb0",
+      "startIndex": 1244,
+      "text": "عبد الله بن محمد بن عياش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1126,
+      "guid": "c8cb32e6-e744-4e87-b71e-d559c14e3d54",
+      "startIndex": 1095,
+      "text": "محمد بن عبد الله عتيق صاحب سنجار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 640,
+      "guid": "cda6eca9-48bf-45e5-8251-d26b15685f90",
+      "startIndex": 633,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 992,
+      "guid": "cec75c52-e85b-4303-acbe-fcb2f277e18a",
+      "startIndex": 988,
+      "text": " أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 981,
+      "guid": "daefac3f-d995-40d2-9e90-7e912fb3264f",
+      "startIndex": 929,
+      "text": "التقي أبو عبد الله محمد بن طرخان بن أبي الحسن الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1160,
+      "guid": "e4275912-f79a-43b9-9cdb-df53d745ebdc",
+      "startIndex": 1129,
+      "text": "أبو محمد بن فارس بن عناب المتطبب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 486,
+      "guid": "f104199e-6c14-41b7-8208-a424ce2ff6cf",
+      "startIndex": 454,
+      "text": "محمد بن أحمد بن عبيد الله بن أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام الجليل أبي بكر عبد الله بن القاضي أبي المحاسن عمر بن علي بن الخضر القرشي بسماعه فيه بقراءة الإمام الحافظ أبي موسى عبد الله بن الحافظ أبي محمد عبد الغني بن عبد الواحد ابناه الحسن ومحمد وهو في السنة الخامسة وأخوه الإمام أبو سليمان عبد الرحمن بن الحافظ وابنه سليمان وأحمد بن المجد عيسى بن الإمام عبد الله بن أحمد وعلي بن أحمد بن عبد الواحد وابنا عمه أحمد ومحمد حضر في السنة الخامسة وعمهم محمد بن عبد الواحد وكتب التسميع ومحمد بن أحمد بن عبيد الله بن أحمد وأحمد وعبد الرحمن ابنا أبي بكر بن إبراهيم وإبراهيم بن عبد الله بن محمد بن أحمد وأبو محمد عبد الرحمن بن محمد بن عبد الجبار وبنوه أحمد ومحمد وأحضر عبد الله ومحمد وعبد الرحمن ابنا أحمد بن عبد الملك وعبد الرحمن بن عبد الله بن عبد الحميد بن أبي عطاف ومحمد بن مسعود بن أبي بكر وعبد الرحمن بن الإمام أبي عمر وأبو بكر بن عمر بن أبي بكر وإبراهيم وعبد الرحمن ابنا الإمام عز الدين أبي الفتح محمد بن عبد الغني وإبراهيم بن أحمد بن شبل الخزاعي المقدسيون والتقي أبو عبد الله محمد بن طرخان بن أبي الحسن الدمشقي وابنه أحمد وعبد الرحمن بن السيد وعبد الرحمن القرشي وأبو الفتح نصر الله بن أبي العز بن أبي طالب الشيباني الصفار ومحمد بن عبد الله عتيق صاحب سنجار وأبو محمد بن فارس بن عناب المتطبب وفتاه بلبان وإبراهيم بن محاسن بن عبد الملك التنوخي ومحمد بن علي بن عسكر الدنيسري وعبد الله بن محمد بن عياش ومظفر بن سليمان بن أحمد بن إسحق وحسين بن أبي بكر بن محمد وذلك بجامع دمشق يوم الأحد الرابع والعشرين من جمادى الأولى سنة اثنتي عشرة وستمائة والحمد لله وحده وصلى الله على محمد وآله وسلم كثيرا وحسبنا الله ونعم الوكيل وسمع هاؤلاء الجماعة على هذا الشيخ بقراءة محمد بن عبد الواحد السادس من حديث بشر بن موسى عن أبي نعيم الفضل بن بكير بسماعه عن أبي يوسف عبد الباقي بن أبي العز الصوفي عن ابن الطيوري عن أبي بكر بن [...] عن ابن مالك القطيعي عن بشر وسمع معهم محمد بن عبد الملك بن عبد الملك"
+}

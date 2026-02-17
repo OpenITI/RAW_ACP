@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن إسحق بن زيد الحلبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد القاضي أبي الحسن علي بن محمد بن إسحق بن زيد الحلبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "126r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000263.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059149"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "07bb3a35-13cb-4e01-8b53-1518ead96cda",
+      "startIndex": 154,
+      "text": "يعقوب بن أحمد بن يعقوب بن عبد الله بن عبد الرحمن ابن المقرئ الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "'asruniya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 310,
+      "guid": "4051082f-31d4-4ca1-8b11-1a5aaadab9cc",
+      "startIndex": 288,
+      "text": "المدرسة العصرونية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "672"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "449a01af-1c5f-4e7a-9435-24192e213dec",
+      "startIndex": 236,
+      "text": " يوم الأحد ثالث عشر محرم سنة اثنتين وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "6ede576a-19d5-4e5e-813d-abf46635024a",
+      "startIndex": 9,
+      "text": "أبي المعالي أحمد بن عبد السلام بن المطهر بن عبد الله بن أبي عصرون التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "7bb4009e-6f33-43e5-912d-765e45d0b242",
+      "startIndex": 93,
+      "text": "ابن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "c575eded-38e1-4c2f-898c-753a0e095dfe",
+      "startIndex": 114,
+      "text": "أبي الحسن علي بن مسعود",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من أبي المعالي أحمد بن عبد السلام بن المطهر بن عبد الله بن أبي عصرون التميمي بسماعه من ابن الحرستاني بقراءة أبي الحسن علي بن مسعود أيضاً جماعة منهم يعقوب بن أحمد بن يعقوب بن عبد الله بن عبد الرحمن ابن المقرئ الحلبي وبخطه السماع في يوم الأحد ثالث عشر محرم سنة اثنتين وسبعين وستمائة بالمدرسة العصرونية بدمشق."
+}

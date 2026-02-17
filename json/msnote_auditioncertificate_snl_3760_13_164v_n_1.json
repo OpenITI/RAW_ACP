@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/13"
+      ],
+      "folio_number": [
+        "164v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "09039a48-4346-4773-ae2e-e6a70b8be307",
+      "startIndex": 100,
+      "text": " ابن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "0b9ffeed-f989-4121-bf66-a79b69f4bf40",
+      "startIndex": 220,
+      "text": "ابن مشرف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "565"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "32df8f90-ccea-46f5-ae05-cf55d4858ac8",
+      "startIndex": 174,
+      "text": "ربيع الأول سنة خمس وستين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "ac92c774-4761-4e28-97c1-df0302c7dc70",
+      "startIndex": 150,
+      "text": " أبو محمد عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "d3ca81bd-8793-4a12-85b6-a068dd449bce",
+      "startIndex": 43,
+      "text": "أبي المكارم المبارك بن محمد بن المعمر البادرائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "f059a44b-958f-4ca3-9786-3b5d230cc4e0",
+      "startIndex": 118,
+      "text": "عمر بن علي بن الخضر الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع هذا الجزء الثامن من حديث المحاملي على أبي المكارم المبارك بن محمد بن المعمر البادرائي بسماعه من ابن البطر بقراءة عمر بن علي بن الخضر الدمشقي ابنه أبو محمد عبد الرحمن في ربيع الأول سنة خمس وستين وخمسماية نقلته من خط ابن مشرف"
+}

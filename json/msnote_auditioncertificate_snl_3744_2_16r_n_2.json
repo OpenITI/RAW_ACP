@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسن بن هبة الله الشافعي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "التوبة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 33"
+      ],
+      "classmark": [
+        "3744/2"
+      ],
+      "folio_number": [
+        "16r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "0943f16f-f7ab-4162-9e7b-14ddaee77100",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "الشيرازي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "53468ebf-af72-48c5-a3c2-1471683b1138",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 209,
+      "text": "حسن بن علي بن عمر الأسعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "67c839cb-9616-4334-b111-cb647ae870b1",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 45,
+      "text": "شمس الدين أبي بكر محمد بن الإمام الحافظ محب الدين عبد الله [بن أحمد بن المحب]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "789"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "8a56c323-bf52-43ae-8fb4-12471805fd5e",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": " يوم الثلثا ثامن شهر المحرم سنة تسع وثمانين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "b32cc13b-8326-4f8d-bfad-bd5a33da9d6d",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 143,
+      "text": "المزي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على شيخنا الحافظ الكبير شمس الدين أبي بكر محمد بن الإمام الحافظ محب الدين عبد الله [بن أحمد بن المحب] بسماعه من الشيرازي والمزي في يوم الثلثا ثامن شهر المحرم سنة تسع وثمانين وسبعماية وكتب حسن بن علي بن عمر الأسعردي والحمد لله وحده "
+}

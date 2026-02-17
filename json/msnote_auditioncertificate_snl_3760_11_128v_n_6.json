@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N.6"
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/11"
+      ],
+      "folio_number": [
+        "128v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "7153f7c3-c777-4450-a0f6-19d3f2a1a8d1",
+      "startIndex": 76,
+      "text": "عبد العزيز بن الأخضر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "562"
+        ]
+      },
+      "endIndex": 215,
+      "guid": "8a9f6e1c-d4a8-4f30-9fc9-6589d84e0e2b",
+      "startIndex": 160,
+      "text": " الاثنين خامس عشر جمادى الأولى سنة اثنتين وستين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "a2170c78-909e-4d0f-a236-0b56ef687f23",
+      "startIndex": 97,
+      "text": "أبو محمد عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "c1889149-f36a-4103-927e-57cd57176f1c",
+      "startIndex": 116,
+      "text": "أبو الحسن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "c24b7802-26b9-4c68-9d2c-3af0e03a8849",
+      "startIndex": 10,
+      "text": "أبي المعالي أحمد بن عبد الغني بن حنيفة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "d0cc4c8f-0e0a-498b-9c06-8a882d21c4bf",
+      "startIndex": 59,
+      "text": "ابن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "dd411c12-19eb-4ff4-937d-7caafe9f078a",
+      "startIndex": 237,
+      "text": "ابن مشرف",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على أبي المعالي أحمد بن عبد الغني بن حنيفة بسماعه من ابن البطر بقراءة عبد العزيز بن الأخضر أبو محمد عبد الله وأبو الحسن علي ابنا أحمد بن علي بن المأمون في الاثنين خامس عشر جمادى الأولى سنة اثنتين وستين وخمسماية نقلت جميع ذلك من خط ابن مشرف"
+}

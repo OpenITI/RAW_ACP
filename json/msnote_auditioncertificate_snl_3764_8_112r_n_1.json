@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "منتخب من الفوائد الصحاح العوالي ج4"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 140"
+      ],
+      "classmark": [
+        "3764/8"
+      ],
+      "folio_number": [
+        "112r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "00c0655a-40b6-4db9-b3b3-06d9c8ebad9a",
+      "startIndex": 58,
+      "text": "ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "921b320f-e304-4073-8b2a-f984638fb5e9",
+      "startIndex": 37,
+      "text": "ابن جوارش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "be17113c-802d-462b-8855-6a97e68342f2",
+      "startIndex": 72,
+      "text": "يوسف بن حسن بن عبد الهادي ",
+      "type": "person"
+    }
+  ],
+  "text": "سمعت هذا الجزء وما قبله وما بعده على ابن جوارش بإجازته من ابن المحب كتب يوسف بن حسن بن عبد الهادي "
+}

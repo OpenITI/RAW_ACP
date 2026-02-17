@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مجهول المؤلف"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه فضل رجب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 65 "
+      ],
+      "classmark": [
+        "3750/11"
+      ],
+      "folio_number": [
+        "154v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "7056031d-f3af-481b-abe0-21ed4f4e6b45",
+      "startIndex": 195,
+      "text": "مسعود بن البادي؟",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "530"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "7d9e859b-0e9c-4f1b-bd62-2a031fb7def1",
+      "startIndex": 222,
+      "text": "يوم الأربعاء رابع عشر شهر رمضان المعظم من سنة ثلثين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "9963bce6-7d2f-4039-95d2-71bae7bf5d04"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "9433607e-e701-4258-bf35-5649d3a4c143",
+      "startIndex": 37,
+      "text": "تاج الدين أبي اليمن زيد بن الحسن بن زيد الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "b8e008dd-6396-4d38-8050-87f714090c56",
+      "startIndex": 94,
+      "text": "أبي عبد الله الحسين بن علي بن أحمد الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "e07c116e-1436-4484-95c4-fe957bb0cfd7",
+      "startIndex": 143,
+      "text": "أبي الحسن علي بن أبي طاهر بن هبة الله بن مسعود",
+      "type": "person"
+    }
+  ],
+  "text": " عارضته بالأصل وشاهدت فيه سماع شيخنا تاج الدين أبي اليمن زيد بن الحسن بن زيد الكندي على الشيخ أبي عبد الله الحسين بن علي بن أحمد الخياط بقراءة أبي الحسن علي بن أبي طاهر بن هبة الله بن مسعود ومعه مسعود بن البادي؟ وجماعة في يوم الأربعاء رابع عشر شهر رمضان المعظم من سنة ثلثين وخمس ماية"
+}

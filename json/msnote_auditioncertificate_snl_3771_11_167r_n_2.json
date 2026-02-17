@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي بن عاصم ابن المقرئ الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرخصة في تقبيل اليد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 181"
+      ],
+      "classmark": [
+        "3771/11"
+      ],
+      "folio_number": [
+        "167r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "16540b77-9ae4-43df-bde6-c93b10156131",
+      "startIndex": 89,
+      "text": "شهر رمضان سنة خمس وثلثين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "877a7ec3-bbdf-4600-b71d-674a25f73f64",
+      "startIndex": 63,
+      "text": "أبو محمد القاسم بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 44,
+      "guid": "af7ef22b-36ed-4c24-a2b0-231ec5a21b37",
+      "startIndex": 13,
+      "text": "علي بن الحسن بن هبة الله الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع من لفظي [علي بن الحسن بن هبة الله الشافعي] جميع الجزء ابني أبو محمد القاسم بن علي في شهر رمضان سنة خمس وثلثين وخمس ماية"
+}

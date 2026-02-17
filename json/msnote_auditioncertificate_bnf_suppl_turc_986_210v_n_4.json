@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمر عثمان بن محمد بن عبد الله المحمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء فيه من حديث أبي عمرو عثمان بن محمد بن عبد الله المحمي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "210v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f218.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f218.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27- 3"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "688"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "ce879161-ee77-4cbe-a8fc-62461044d4ee",
+      "index": 153,
+      "isZeroPoint": false,
+      "startIndex": 82,
+      "text": "يوم الأربعاء سلخ جمادى الآخرة سنة ثمان وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 140,
+      "guid": "d3481ae1-b4ce-4766-b7d8-06a3d1762341",
+      "index": 154,
+      "isZeroPoint": false,
+      "startIndex": 137,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "e859e62e-5b6d-4803-b811-10844a7e4e1f",
+      "index": 152,
+      "isZeroPoint": false,
+      "startIndex": 47,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 40,
+      "guid": "f50015f1-5ebf-4473-bdaa-afbd65ff47c0",
+      "index": 151,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "يوسف المزي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليها بقراءة كاتب السماع يوسف المزي ابنه عبد الرحمن حاضرًا في الأولى وآخرون يوم الأربعاء سلخ جمادى الآخرة سنة ثمان وثمانين وستمئة بدمشق حرسها الله."
+}

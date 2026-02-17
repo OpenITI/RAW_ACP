@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "128r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f132.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f132.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "15e8f15d-3de6-4713-a8e1-bcaa37faa83a",
+      "index": 235,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "عبد الله بن إبراهيم [بن] يوسف الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "4073d61e-196c-4127-9939-754a30871e62",
+      "index": 237,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "عبد الوهاب بن ظافر بن رواج الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "45abd345-5c6b-4795-84d4-589235184b8e",
+      "index": 239,
+      "isZeroPoint": false,
+      "startIndex": 177,
+      "text": "علي بن محمد السخاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "692cfe07-6bd3-47e0-8808-30399d1da02b",
+      "index": 238,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "أبو عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27- 30"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "572"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "81f5a3e7-5ac1-410d-a29c-fc8e98d4cec5",
+      "index": 241,
+      "isZeroPoint": false,
+      "startIndex": 253,
+      "text": "يوم الجمعة سلخ جمادى الأولى سنة اثنتين وسبعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "9feb24be-4738-4821-a3bd-6116f841e425",
+      "index": 236,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "أبو |محمد| عبد الله بن عبد الجبار بن عبد الله العثماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "b7d1ed55-6c7c-405f-9a94-5e8a1166d3c1",
+      "index": 240,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "إبراهيم بن عبد الله بن إبراهيم الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة عبد الله بن إبراهيم [بن] يوسف الأنصاري جماعة منهم أبو |محمد| عبد الله بن عبد الجبار بن عبد الله العثماني وعبد الوهاب بن ظافر بن رواج الأزدي وأخوه أبو عبد الله وعلي بن محمد السخاوي وإبراهيم بن عبد الله بن إبراهيم الأنصاري وكتب السماع في يوم الجمعة سلخ جمادى الأولى سنة اثنتين وسبعين وخمسماية."
+}

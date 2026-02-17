@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ثلاثة وثلاثون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1712"
+      ],
+      "folio_number": [
+        "116r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.refaiya.uni-leipzig.de/receive/DE1Book_manuscript_00066928"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 48,
+      "guid": "7343060b-c47a-422a-bdd0-5dacedb504bd",
+      "startIndex": 34,
+      "text": "المبارك بن كامل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 25,
+      "guid": "92e6b45c-4aab-4b3a-a572-d9c5327959a4",
+      "startIndex": 10,
+      "text": "أبي العز بن كادش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "519"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "b7896463-e98d-4b2e-9c4a-5f3d2ca1c17d",
+      "startIndex": 97,
+      "text": "ربيع الآخر سنة تسع عشرة [وخمسمائة].",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "bc604a62-ee43-438b-a72a-e6c6a7c8f13c",
+      "startIndex": 51,
+      "text": "أبو محمد عبد الخالق بن عبد الوهاب الصابوني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على أبي العز بن كادش بقراءة المبارك بن كامل، أبو محمد عبد الخالق بن عبد الوهاب الصابوني في ربيع الآخر سنة تسع عشرة [وخمسمائة]."
+}

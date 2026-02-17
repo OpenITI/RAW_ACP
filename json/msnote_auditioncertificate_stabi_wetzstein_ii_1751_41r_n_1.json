@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد المؤمن الحراني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث بن كرامة ومن حديث طاهر بن خالد الايلي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1751"
+      ],
+      "folio_number": [
+        "41r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00066939"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 544,
+      "guid": "2e797efa-3dbd-4501-82cf-50b0cc9defd3",
+      "startIndex": 514,
+      "text": "القاسم بن محمد بن يوسف البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 469,
+      "guid": "4ec89828-6a20-4f24-a818-35a537f632b0",
+      "startIndex": 440,
+      "text": "علي بن موسى بن غنائم التلتياثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "qariyat"
+          ]
+        ]
+      },
+      "endIndex": 653,
+      "guid": "877dd2ac-68f8-4b2a-97ef-c9bcfc7b58df",
+      "startIndex": 631,
+      "text": "قرية السعدية جوار حرستا",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "939eda3e-5508-4ebe-baad-5b33e139b5aa",
+      "startIndex": 232,
+      "text": "عبد الرحمن بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 401,
+      "guid": "94a59884-8f6b-4704-bdf0-0791c7403029",
+      "startIndex": 363,
+      "text": "أبو العباس أحمد بن محمد بن خليل الخلاطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 317,
+      "guid": "ad018421-488d-456d-995c-92232fe51a19",
+      "startIndex": 260,
+      "text": "شمس الدين أبو العلاء محمود بن أبي بكر بن أبي العلاء الفرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "b7053a9b-adaa-4b22-bd4c-7f64da4f45b5",
+      "startIndex": 173,
+      "text": "شمس الدين أبو عبد الله محمد بن عبد الرحمن بن سامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "b749fd4c-4bf3-43f6-9bfe-63c4bc2b3285",
+      "startIndex": 41,
+      "text": "شمس الدين أبي عبد الله محمد بن مؤمن بن أبي الفتح الصوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "df7936e2-8ada-467f-8075-24bb943a422c",
+      "startIndex": 119,
+      "text": "عمر بن كرم الدينوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 494,
+      "guid": "e7aac482-16d1-46b0-91cf-9f709bd4b05b",
+      "startIndex": 484,
+      "text": "محمد بن حسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 480,
+      "guid": "e95fe81f-13c1-4feb-a749-8cac9478f9fc",
+      "startIndex": 477,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "685"
+        ]
+      },
+      "endIndex": 628,
+      "guid": "e9609dbd-fddb-43fd-acc6-48478fda424e",
+      "startIndex": 568,
+      "text": "في يوم السبت العشرين من شهر ربيع الآخر سنة خمس وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 359,
+      "guid": "f1ff6bbf-1187-4dd4-9e9f-42a07aaae835",
+      "startIndex": 322,
+      "text": "لاء الدين علي بن موسى بن سليمان الكركي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء كله على الشيخ الأجل الإمين شمس الدين أبي عبد الله محمد بن مؤمن بن أبي الفتح الصوري، بسماعه فيه أصلاً. من عمر بن كرم الدينوري بسنده بقراءة المحدث الفاضل الفقيه شمس الدين أبو عبد الله محمد بن عبد الرحمن بن سامة، ابن عمه عبد الرحمن بن أحمد، والإمام شمس الدين أبو العلاء محمود بن أبي بكر بن أبي العلاء الفرضي، وعلاء الدين علي بن موسى بن سليمان الكركي، وأبو العباس أحمد بن محمد بن خليل الخلاطي خادم مشهد جعفر الصادق رضي الله عنه، وعلي بن موسى بن غنائم التلتياثي وابنه أحمد، ومحمد بن حسن من قرية السعدية، والقاسم بن محمد بن يوسف البرزالي وهذا خطه وصح ذلك وثبت في يوم السبت العشرين من شهر ربيع الآخر سنة خمس وثمانين وستمئة بقرية السعدية جوار حرستا"
+}

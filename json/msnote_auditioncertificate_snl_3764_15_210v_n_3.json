@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الخطيب البغدادي بجامع دمشق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 143"
+      ],
+      "classmark": [
+        "3764/15"
+      ],
+      "folio_number": [
+        "210v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 21,
+      "guid": "002631b6-ce7e-4d9c-a6af-63fc79f4eed0",
+      "startIndex": 9,
+      "text": "عمر ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 326,
+      "guid": "0c0f0f5a-6f1a-4199-8dfc-38970fd208ab",
+      "startIndex": 293,
+      "text": "أحمد بن عبد الملك بن عثمان المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 369,
+      "guid": "26de51ba-c032-4dd3-8192-d93d0aa0cdd7",
+      "startIndex": 348,
+      "text": "محمد بن جعوان الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "4a9a5750-47a0-4d0c-b878-d028c42ef233",
+      "startIndex": 213,
+      "text": "إسماعيل بن أبي عبد الله بن حماد العسقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "6c46cf92-cc41-415e-a46d-6dd6c2e3a902",
+      "startIndex": 190,
+      "text": "أحمد بن شيبان بن تغلب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "83930f61-a736-4d2a-8abe-aff43763ecb9",
+      "startIndex": 153,
+      "text": "زينب بنت مكي بن علي بن كامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 46,
+      "guid": "89baca57-9513-4ade-a867-98b09a2b5342",
+      "startIndex": 30,
+      "text": "محمد بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "a0885342-bd64-447f-b320-06314e3f917e",
+      "startIndex": 108,
+      "text": "عبد الرحيم بن عبد الملك بن عبد الملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "c45b743d-f88d-4ef6-aa99-5f46aa0edc3a",
+      "startIndex": 256,
+      "text": "عبد الرحيم بن يوسف بن يحيى بن العلم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 425,
+      "guid": "e106585b-773f-436b-9b50-447d7c28b422",
+      "startIndex": 411,
+      "text": "الجامع المظفري ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "e1f08011-266c-4090-9034-7e93851e6f1b",
+      "startIndex": 48,
+      "text": "عـبـد الـرحـمـن بن الشيخ أبي عمـر مـحـمـد بـن أحمد بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "603"
+        ]
+      },
+      "endIndex": 408,
+      "guid": "ea89cba2-1194-400b-be01-81b5dc6b86e3",
+      "startIndex": 376,
+      "text": "الأحد ثالث شعبان سنة ثلاث وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه من عمر ابن طبرزد بقراءة محمد بن عبد الغني عـبـد الـرحـمـن بن الشيخ أبي عمـر مـحـمـد بـن أحمد بن محمد وعبد الرحيم بن عبد الملك بن عبد الملك حاضراً وزينب بنت مكي بن علي بن كامل الحراني وأحمد بن شيبان بن تغلب وإسماعيل بن أبي عبد الله بن حماد العسقلاني وعبد الرحيم بن يوسف بن يحيى بن العلم وأحمد بن عبد الملك بن عثمان المقدسي ومن خطه نقل مختصراً محمد بن جعوان الأنصاري وذلك الأحد ثالث شعبان سنة ثلاث وستمائة بالجامع المظفري "
+}

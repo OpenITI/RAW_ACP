@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "نصر بن إبراهيم بن نصر بن داود المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلس من أمالي أبي الفتح المقدسي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 133"
+      ],
+      "classmark": [
+        "3763/15"
+      ],
+      "folio_number": [
+        "173r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "745"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "1c9b8bd9-f1e8-430f-9970-a0e7c7dfc2df",
+      "startIndex": 136,
+      "text": "الجمعة التاسع عشر من رجب سنة خمس وأربعين وسبعمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "3a466cd7-dc78-4aff-8165-6486f81faf1c",
+      "startIndex": 24,
+      "text": "محمد بن إسماعيل بن إبراهيم الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "becac71a-2099-4f75-bc99-e84f94bd702e",
+      "startIndex": 68,
+      "text": "عمر بن يعقوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 194,
+      "guid": "c985f28b-44f8-4c03-b44e-653f946df5d3",
+      "startIndex": 186,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "e8a05891-b36e-4e61-9504-44c99c168204",
+      "startIndex": 81,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ محمد بن إسماعيل بن إبراهيم الخباز بسماعه من عمر بن يعقوب محمد بن عبد الله بن أحمد بن المحب بقراءته وهذا خطه يوم الجمعة التاسع عشر من رجب سنة خمس وأربعين وسبعمية بجامع دمشق والحمد لله"
+}

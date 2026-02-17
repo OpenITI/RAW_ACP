@@ -1,0 +1,392 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبد الملك بن محمد بن عبد الله بن بشران الزاهد البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن بشران"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 154"
+      ],
+      "classmark": [
+        "3766"
+      ],
+      "folio_number": [
+        "76r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 773,
+      "guid": "121c46bc-a3ce-4771-9cdb-58697adf1cd0",
+      "startIndex": 769,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 446,
+      "guid": "22d10258-b59d-4027-9532-b6a7d2dfab2d",
+      "startIndex": 425,
+      "text": "بدر الدين أبو بكر أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 836,
+      "guid": "2425dc1b-7e46-4bbf-acc0-4ea11adabfad",
+      "startIndex": 781,
+      "text": "محب الدين محمد بن محمد بن محمد بن منيع الوراق ابن الملقن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "797"
+        ]
+      },
+      "endIndex": 885,
+      "guid": "2a5ba5f7-809d-46a2-939b-f3ac57b4138f",
+      "startIndex": 846,
+      "text": "الخميس ثالث شوال سنة سبع وتسعين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "302f37c6-8f67-4016-90bc-b783ebed6990",
+      "startIndex": 183,
+      "text": "تقي الدين سليمان بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 562,
+      "guid": "5c818ec5-aed0-496f-be89-7b96568b45f1",
+      "startIndex": 527,
+      "text": "بدر الدين حسن بن علي بن عمر الأسعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 707,
+      "guid": "76a9eb6b-3797-425a-b7e2-e289b0015273",
+      "startIndex": 669,
+      "text": "جمال الدين يوسف بن محمد بن محمد بن بحتر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 422,
+      "guid": "85281290-4844-4cfe-9f3e-dbddd8dd7bc5",
+      "startIndex": 399,
+      "text": "فتح الدين أبو الفتح محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "kafrbtna_mosque"
+          ]
+        ]
+      },
+      "endIndex": 912,
+      "guid": "893a9c2d-5218-491f-aa9d-c8862e6b9e56",
+      "startIndex": 888,
+      "text": "جامع كفربطنا من غوطة دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "8a6558fd-7a30-4b17-8b09-ac1e003b3804",
+      "startIndex": 218,
+      "text": "جعفر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 472,
+      "guid": "aaee197a-ec3c-4256-81a0-675b7e6021e9",
+      "startIndex": 449,
+      "text": "أبو الخير مجد الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 666,
+      "guid": "b8d6173c-7207-412a-9769-1b090d1c2c2d",
+      "startIndex": 633,
+      "text": "أحمد بن علي بن مسعود اليمني الضمدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 383,
+      "guid": "c26005b8-f119-4c34-b695-6d48e3bcd01e",
+      "startIndex": 330,
+      "text": "شمس الدين أبو عبد الله محمد بن محمد بن محمد بن الجزري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "c64cf9d0-93b7-4e7e-9dce-aa1da01aa61c",
+      "startIndex": 64,
+      "text": "بدر الدين أبي هريرة عبد الرحمن بن الحافظ أبي عبد الله محمد بن أحمد بن عثمان الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 524,
+      "guid": "cab9d27d-3ebb-42b0-940e-7a17253a9fb7",
+      "startIndex": 482,
+      "text": "أبو محمد عبد الله بن خليل بن إبراهيم البعلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 630,
+      "guid": "cba2ecdc-ec11-4ba6-8d67-f6d0f31bdf81",
+      "startIndex": 572,
+      "text": "محب الدين محمد بن العلامة شهاب الدين أحمد بن محمد بن الهائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 761,
+      "guid": "ceebc90d-024c-4b35-b8a6-4ca355cae225",
+      "startIndex": 724,
+      "text": "عبد القادر بن عبد الله بن علي النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 278,
+      "guid": "e1ed4909-14ac-4547-b484-e0efb441217e",
+      "startIndex": 236,
+      "text": "خليل بن محمد بن محمد بن عبد الرحيم الأقفهسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع الجزء الرابع والعشرين على شيخنا الصالح الفاضل المسند المعمر بدر الدين أبي هريرة عبد الرحمن بن الحافظ أبي عبد الله محمد بن أحمد بن عثمان الذهبي بسماعه تراه حاضرا وإجازته من القاضي تقي الدين سليمان بن حمزة بسماعه من جعفر بقراءة العبد خليل بن محمد بن محمد بن عبد الرحيم الأقفهسي وله الخط الجماعة الشيخ العلامة المتفنن شيخ القراء شمس الدين أبو عبد الله محمد بن محمد بن محمد بن الجزري وأولاده الإمام فتح الدين أبو الفتح محمد وبدر الدين أبو بكر أحمد وأبو الخير مجد الدين محمد والحافظ أبو محمد عبد الله بن خليل بن إبراهيم البعلي وبدر الدين حسن بن علي بن عمر الأسعردي والبارع محب الدين محمد بن العلامة شهاب الدين أحمد بن محمد بن الهائم وأحمد بن علي بن مسعود اليمني الضمدي وجمال الدين يوسف بن محمد بن محمد بن بحتر إمام الشركسية وعبد القادر بن عبد الله بن علي النابلسي وابنه محمد وشيخنا محب الدين محمد بن محمد بن محمد بن منيع الوراق ابن الملقن وصح يوم الخميس ثالث شوال سنة سبع وتسعين وسبعمائة بجامع كفربطنا من غوطة دمشق وأجاز لنا ما يجوز له وعنه روايته لافظا بذلك والحمد لله"
+}

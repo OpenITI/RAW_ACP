@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضل بن أحمد بن محمد الفراوي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "العوالي المائة من مسموعات الفراوي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 172"
+      ],
+      "classmark": [
+        "3770/1"
+      ],
+      "folio_number": [
+        "2v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "3ef032a0-5dfc-46ea-97b7-4911325060b3",
+      "startIndex": 82,
+      "text": "يحيى بن عبد العزيز بن عبد السلام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "al-'aqayba"
+          ]
+        ]
+      },
+      "endIndex": 203,
+      "guid": "40567435-6c69-468c-a8ed-74bb32da38c2",
+      "startIndex": 187,
+      "text": "العقبية ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "4c11fc2e-241f-4134-b83c-ab8f50022484",
+      "startIndex": 67,
+      "text": "الحراني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "653"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "536bc290-2229-46d9-a405-ba97a35ef52a",
+      "startIndex": 141,
+      "text": "الجمعة رابع عشري محرم سنة ثلاث وخمسين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "de255de3-2cc0-42b8-9e6a-2d1481e76643",
+      "startIndex": 9,
+      "text": " أبي الفضل محمد بن سليمان بن أبي الفضل الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "f4aa5841-0632-41cd-81fc-7e2ac7171293",
+      "startIndex": 121,
+      "text": "زينب ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على أبي الفضل محمد بن سليمان بن أبي الفضل الأنصاري بسماعه من الحراني بقراءة يحيى بن عبد العزيز بن عبد السلام ابنته زينب في الخامسة يوم الجمعة رابع عشري محرم سنة ثلاث وخمسين وستمئة بالعقبية ظاهر دمشق"
+}

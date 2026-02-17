@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي عاصم أحمد بن عمرو أبو بكر الشيباني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجهاد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 68 "
+      ],
+      "classmark": [
+        "3752/7"
+      ],
+      "folio_number": [
+        "102r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "003c0653-3e17-4615-9dba-fd0f01107f14",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 61,
+      "text": "أبو صابر أيوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "78c211c0-78e1-44a0-9a4a-7226af0d48f8",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": "علي بن أبي بكر بن إبراهيم ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "b2e9f382-d8e2-41fd-addd-074dd602b85a",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 78,
+      "text": "يوم الأحد الحادي عشر من جمادى الأولى سنة اثنتين وأربعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 144,
+      "guid": "ecbc3bf4-28b0-4b2a-b88d-0ab9386979c2",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 142,
+      "text": "حلب",
+      "type": "place"
+    }
+  ],
+  "text": " وسمعه عليه بقراءة علي بن أبي بكر بن إبراهيم ابن النحاس أخوه أبو صابر أيوب في يوم الأحد الحادي عشر من جمادى الأولى سنة اثنتين وأربعين وستمية بحلب"
+}

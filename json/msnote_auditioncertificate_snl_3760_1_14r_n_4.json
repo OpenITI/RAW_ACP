@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/1"
+      ],
+      "folio_number": [
+        "14r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "620"
+        ]
+      },
+      "endIndex": 652,
+      "guid": "3d5a97ac-3988-40a6-bd2b-97a79daec3da",
+      "startIndex": 618,
+      "text": " الأحد سلخ المحرم سنة عشرين وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "5bc05deb-0737-46e0-b384-dfdaf7bdaa9b",
+      "startIndex": 377,
+      "text": "أبو القاسم بن أبي منصور بن محمد الحفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 560,
+      "guid": "5f2093cc-774e-4ba4-9a9f-4e55555ffe61",
+      "startIndex": 517,
+      "text": " أبي الغنائم محمد بن علي بن أبي عثمان الدقاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 337,
+      "guid": "769acc2b-12e1-4255-86c7-83f5a0736324",
+      "startIndex": 292,
+      "text": "أبو الفتح أحمد بن علي بن أبي المكارم الإبريسمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 374,
+      "guid": "837bde33-6b8a-4f9f-bd4e-532e7a84f9c4",
+      "startIndex": 340,
+      "text": "أحمد بن محمد بن أحمد بن عمر القطيعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "darb_'ajam"
+          ]
+        ]
+      },
+      "endIndex": 704,
+      "guid": "86baf9e2-37a2-4ee8-a4a3-de79f11d1431",
+      "startIndex": 654,
+      "text": "منزل كاتب السماع بدرب العجم من باب الأزج شرقي بغداد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 267,
+      "guid": "8792b25f-edff-4ff8-8d8f-fd336b33039f",
+      "startIndex": 235,
+      "text": "محمد بن تميم بن أحمد بن البندنيجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 579,
+      "guid": "975d341c-7ab4-42cb-a2c0-f654681541f8",
+      "startIndex": 572,
+      "text": "ابن مهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 506,
+      "guid": "b9e45d60-d0e1-4756-be2e-021a16eaeac6",
+      "startIndex": 453,
+      "text": "أبي الحسن أحمد بن أبي محمد عبد الله بن علي بن الأبنوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "c0c10848-2a52-4352-a82a-b41c80b49a67",
+      "startIndex": 183,
+      "text": " نور الدين أبي محمد عبد اللطيف بن النفيس بن بورنداز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 599,
+      "guid": "cbb6236f-adab-4c40-b2cf-9a311b96b646",
+      "startIndex": 591,
+      "text": "المحاملي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "e592e7ab-814f-4a78-803e-edc8e5f786dc",
+      "startIndex": 34,
+      "text": " أبي منصور محمد بن أبي محمد عبد الله بن أبي البركات المبارك بن كرم بن غالب بن قتيل بن البندنيجي ويُعرف أبوه بعفيجة",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الأجل أبي منصور محمد بن أبي محمد عبد الله بن أبي البركات المبارك بن كرم بن غالب بن قتيل بن البندنيجي ويُعرف أبوه بعفيجة لقبٌ لُقِّب به بقراءة الشيخ العالم نور الدين أبي محمد عبد اللطيف بن النفيس بن بورنداز محمد بن تميم بن أحمد بن البندنيجي وبخطه السماع وابن أخته أبو الفتح أحمد بن علي بن أبي المكارم الإبريسمي وأحمد بن محمد بن أحمد بن عمر القطيعي وأبو القاسم بن أبي منصور بن محمد الحفار وذلك بحق إجازة الشيخ المقروء عليه من أبي الحسن أحمد بن أبي محمد عبد الله بن علي بن الأبنوسي بسماعه من أبي الغنائم محمد بن علي بن أبي عثمان الدقاق بسماعه من ابن مهدي بسماعه من المحاملي وصح لهم ذلك في يوم الأحد سلخ المحرم سنة عشرين وستمية بمنزل كاتب السماع بدرب العجم من باب الأزج شرقي بغداد وصلى الله على سيدنا محمد وآله وسلامه"
+}

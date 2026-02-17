@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن المفضل بن أحمد الثقفي الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/6"
+      ],
+      "folio_number": [
+        "63r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "90f831f6-476c-47aa-91e1-131245ef4d37",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 12,
+      "text": "أبي الفضل جعفر بن علي بن هبة الله الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "635"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "ae271e6a-fc41-4f6c-a852-e5621ecf5c12",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 149,
+      "text": "جمادى الأولى سنة خمس وثلاثين [وستمية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "b20f539f-470f-484c-88b2-f38401c5992a",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 65,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "c2f8f938-7b27-4c7e-b454-e03c916add10",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 79,
+      "text": "أبي الحسن البالسي أبو علي الحسن بن علي بن أبي بكر بن الخلال",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعها على أبي الفضل جعفر بن علي بن هبة الله الهمداني بسماعه من السلفي بقراءة أبي الحسن البالسي أبو علي الحسن بن علي بن أبي بكر بن الخلال وآخرون في جمادى الأولى سنة خمس وثلاثين [وستمية]"
+}

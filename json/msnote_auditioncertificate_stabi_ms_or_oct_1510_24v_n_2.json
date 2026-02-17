@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        null
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Oct 1510"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00017929"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "5b7bdd4a-3116-4d5c-a15d-c7ab86dd27bf",
+      "startIndex": 144,
+      "text": "محمد ابن محمد بن علي المقدسي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21- 30"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "841"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "65b2a50f-c0dc-4a9c-a046-c65c4cd16c46",
+      "startIndex": 51,
+      "text": " في العشر الثالث من شهر رمضان في سنة أحد وأربعين وثمان مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 27,
+      "guid": "d2d7d3ea-10dd-42ad-ae72-b0a49f091f4b",
+      "startIndex": 15,
+      "text": "يوسف الججيني ",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت قراءة على يوسف الججيني [في الأصل الحجيني] وذلك في العشر الثالث من شهر رمضان في سنة أحد وأربعين وثمان مائة وأجاز لي ما يجوز له روايته وكتبه محمد ابن محمد بن علي المقدسي الحنبلي."
+}

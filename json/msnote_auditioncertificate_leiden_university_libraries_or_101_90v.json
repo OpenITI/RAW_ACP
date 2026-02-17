@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الجامع الكبير"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 101 "
+      ],
+      "folio_number": [
+        "90v"
+      ],
+      "image_link": [
+        "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3362335%7EJP2%7Ef64b2611f2fbc0005086db262164b8577948cbf9356ae0d1a693edf71e1688b6%7Edigitalc/full/pct:20/0/default.jpg"
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/ud5et8/alma990027384910302711 "
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "84a94320-0679-49db-b6e2-9a43d2ac8e7e",
+      "startIndex": 157,
+      "text": "محمد بن الشريف القاضي الكامل أبي الرجاء بن أسعد بن علي الحسيني الجواني النسابة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 440,
+      "guid": "90276db4-7c3b-4f71-862c-88b3de75163b",
+      "startIndex": 349,
+      "text": "صح السماع المذكور وكتب إسماعيل بن علي بن عبد الله الموصلي في التاريخ وحسبنا الله ونعم الوكيل",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "565"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "caa96b45-41e1-4544-a6dd-2e9825977d59",
+      "startIndex": 239,
+      "text": "سلخ ربيع الآخر سنة خمس وستين وخمساية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "d1d791a7-9a14-40d3-8e04-0dd4608526f3",
+      "startIndex": 49,
+      "text": "جمال الدين أبي الفداء إسماعيل بن علي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "zuqaq_al-tabbakh"
+          ]
+        ]
+      },
+      "endIndex": 292,
+      "guid": "f426413a-6d2b-49fb-a2db-df173066a0ff",
+      "startIndex": 277,
+      "text": "زقاق الطباخ بمصر",
+      "type": "place"
+    }
+  ],
+  "text": "بلغت سماعا بقراءتي على الشيخ الأجل الفقيه الواعظ جمال الدين أبي الفداء إسماعيل بن علي الشافعي من أوله إلى آخره بالسند المذكور في أوله وكتب نقيب النقباء بمصر محمد بن الشريف القاضي الكامل أبي الرجاء بن أسعد بن علي الحسيني الجواني النسابة في سلخ ربيع الآخر سنة خمس وستين وخمساية بزقاق الطباخ بمصر حامدا الله تعالى ومصليا على سيدنا محمد وآله ومسـ[ـما]. صح السماع المذكور وكتب إسماعيل بن علي بن عبد الله الموصلي في التاريخ وحسبنا الله ونعم الوكيل"
+}

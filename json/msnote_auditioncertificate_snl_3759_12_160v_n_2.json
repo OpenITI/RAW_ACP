@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي وإسماعيل الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/12"
+      ],
+      "folio_number": [
+        "160v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "206273c7-fa37-424b-98eb-07b9b2b671e7",
+      "startIndex": 67,
+      "text": " أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "732"
+        ]
+      },
+      "endIndex": 866,
+      "guid": "336ebe2e-9959-481e-b464-f38dd59c6500",
+      "startIndex": 811,
+      "text": "الثلثا التاسع عشر من المحرم سنة اثنتين وثلثين وسبع وماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "38857d19-bd46-466c-a4ec-53c923ff25f7",
+      "startIndex": 153,
+      "text": "أبي العباس أحمد شيبان بن تغلب الشيباني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 604,
+      "guid": "41efdae9-9d2e-4840-a4bd-2fa720d4c664",
+      "startIndex": 600,
+      "text": "فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 536,
+      "guid": "44abd94d-0ddf-4e97-a5d7-7e1cba64b76c",
+      "startIndex": 492,
+      "text": "شمس الدين محمد بن عبد الرحمن بن مظفر الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 789,
+      "guid": "5d14175e-1394-46cd-9625-84f3b9270fa5",
+      "startIndex": 729,
+      "text": "محمد بن محمد بن أبي بكر بن أحمد بن عبد الدائم بن نعمة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 474,
+      "guid": "5d36fa4c-5031-44db-a5c7-54fb96e41baf",
+      "startIndex": 467,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "642e1016-785a-4d2f-966e-d70f9e824713",
+      "startIndex": 263,
+      "text": " أبي حفص عمر بن محمد بن معمر بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 597,
+      "guid": "6ef40545-40a8-4a72-a26c-8bd25ea9562f",
+      "startIndex": 594,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "95b447ab-7886-4fa8-9869-e14c56a77b83",
+      "startIndex": 193,
+      "text": "أم أحمد زينب بنت مكي بن علي بن كامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "a5dd20eb-17b4-4eaf-b0d7-a1bdd84d1c9b",
+      "startIndex": 310,
+      "text": " أبي غالب أحمد بن الحسن بن أحمد بن البناء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 893,
+      "guid": "b469d89f-5322-4526-98ad-13d16ea33152",
+      "startIndex": 869,
+      "text": "دار الحديث الأشرفية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 460,
+      "guid": "b4857220-8240-4e58-8c07-f16c6c6812dd",
+      "startIndex": 394,
+      "text": "تقي الدين أبي عبد الله محمد بن صدر الدين سليمان بن عبد الله الجعبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 714,
+      "guid": "d7983e16-d93a-428f-9b8d-0f5a474f6511",
+      "startIndex": 676,
+      "text": "عائشة بنت يحيى بن محمد بن حماد الصنهاجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 591,
+      "guid": "d9a1f7b0-e546-4b2c-979a-984278e2ef09",
+      "startIndex": 545,
+      "text": "أحمد بن علي بن عبد الرحيم المصري الصوفي الشاطبي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ الإمام العلامة الحافظ بقية السلف مسند الشام أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي أمد الله في عمره بسماعه من الشيخين أبي العباس أحمد شيبان بن تغلب الشيباني وأم أحمد زينب بنت مكي بن علي بن كامل الحراني بقراءته عليهما بسماعهما من أبي حفص عمر بن محمد بن معمر بن طبرزد بسماعه من أبي غالب أحمد بن الحسن بن أحمد بن البناء بسنده في أوله بقراءة الفقيه الجليل المحدث تقي الدين أبي عبد الله محمد بن صدر الدين سليمان بن عبد الله الجعبري ابنه عبد الله سبط ابن المسمع وشمس الدين محمد بن عبد الرحمن بن مظفر الهمداني والشيخ أحمد بن علي بن عبد الرحيم المصري الصوفي الشاطبي ومحمد وفاطمة حاضرة في الرابعة ابنا الحاج محمد بن محمد بن عبد الله الفوعي ووالدتهما عائشة بنت يحيى بن محمد بن حماد الصنهاجي وكاتب السماع محمد بن محمد بن أبي بكر بن أحمد بن عبد الدائم بن نعمة المقدسي وصح ذلك وثبت في يوم الثلثا التاسع عشر من المحرم سنة اثنتين وثلثين وسبع وماية بدار الحديث الأشرفية بدمشق المحروسة وأجاز لهم"
+}

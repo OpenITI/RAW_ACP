@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن أبي شريح الأنصاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المائة الشريحية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/8"
+      ],
+      "folio_number": [
+        "123v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "0b5d5739-0dcc-4a74-a74c-a4314990bd23",
+      "index": 201,
+      "isZeroPoint": false,
+      "startIndex": 101,
+      "text": "عبد الأول بن عيسى بن شعيب السجزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "4340ff81-c615-4c08-938d-6455d8a5d932",
+      "index": 202,
+      "isZeroPoint": false,
+      "startIndex": 135,
+      "text": "عبد السلام بن أحمد الاسكاف بكيرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 401,
+      "guid": "76b9c643-e26f-425a-9a8c-f9fa69ef92df",
+      "index": 207,
+      "isZeroPoint": false,
+      "startIndex": 378,
+      "text": "محمد بن الرحمن بن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "12"
+        ],
+        "year": [
+          "469"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "7f7ec126-e92c-4821-a290-be658393d06d",
+      "index": 204,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": " ذي الحجة سنة تسع وستين وأربع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "9ad69f74-60bc-43f6-94b4-bf324ddab394",
+      "index": 203,
+      "isZeroPoint": false,
+      "startIndex": 169,
+      "text": "عبد الرحن بن أبي سعد الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "b82b6810-cd1b-490c-95e0-7f6f271f614d",
+      "index": 205,
+      "isZeroPoint": false,
+      "startIndex": 246,
+      "text": "الزهري أحمد بن يحيى بن عبد الباقي بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 343,
+      "guid": "e810ff8f-530f-4672-abc2-7c9db4bf6500",
+      "index": 206,
+      "isZeroPoint": false,
+      "startIndex": 312,
+      "text": "يوسف بن خليل بن عبد الله الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "fa247cb8-9f04-401d-a90e-e4b782f9771d",
+      "index": 200,
+      "isZeroPoint": false,
+      "startIndex": 59,
+      "text": "أبي عاصم الفضيل بن يحيى بن الفضيل الفضيلي",
+      "type": "person"
+    }
+  ],
+  "text": " شاهدت بخط شيخنا شمس الدين ما مثاله سمع هذا الجزء من الشيخ أبي عاصم الفضيل بن يحيى بن الفضيل الفضيلي عبد الأول بن عيسى بن شعيب السجزي وعبد السلام بن أحمد الاسكاف بكيرة وعبد الرحن بن أبي سعد الخياط وغيرهم في ذي الحجة سنة تسع وستين وأربع ماية نقله الزهري أحمد بن يحيى بن عبد الباقي بن عبد الواحد نقلته من خط شيخنا يوسف بن خليل بن عبد الله الدمشقي في سنة اربعن ثلاثين وستماية كتبه محمد بن الرحمن بن العجمي"
+}

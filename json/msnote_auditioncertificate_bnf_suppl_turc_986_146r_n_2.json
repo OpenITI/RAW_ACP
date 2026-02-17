@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمرو أحمد بن محمد بن إبراهيم بن حكيم المديني "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حكايات أبي عمرو أحمد بن محمد بن إبراهيم بن حكيم المديني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "146r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f153.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f153.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 523,
+      "guid": "4389d068-f26e-4ef4-9479-dd8c19d62ea5",
+      "index": 192,
+      "isZeroPoint": false,
+      "startIndex": 492,
+      "text": "أحمد بن عيسى بن عبد الله بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 313,
+      "guid": "4f953e50-575d-4f42-818a-0a0d46d1d5d2",
+      "index": 186,
+      "isZeroPoint": false,
+      "startIndex": 244,
+      "text": "أم محمد زينب ابنة أبي أحمد عبد الواحد بن أحمد بن عبد الرحمن بن إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "7d49cb3f-b9c2-4b95-acec-0da95b6824f8",
+      "index": 187,
+      "isZeroPoint": false,
+      "startIndex": 327,
+      "text": "السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 378,
+      "guid": "818cf74f-4cd5-43e0-87c1-48070b7aa720",
+      "index": 188,
+      "isZeroPoint": false,
+      "startIndex": 375,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "640"
+        ]
+      },
+      "endIndex": 477,
+      "guid": "a5619c6a-c40a-4657-a794-3ee36933357d",
+      "index": 190,
+      "isZeroPoint": false,
+      "startIndex": 442,
+      "text": "في جمادى الأولى من سنة أربعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 485,
+      "guid": "b5558c2c-f51f-4dcc-8519-794c5634c60a",
+      "index": 191,
+      "isZeroPoint": false,
+      "startIndex": 480,
+      "text": "منزلها",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 390,
+      "guid": "fb35cda5-e24e-422d-8e59-1a92976d8816",
+      "index": 189,
+      "isZeroPoint": false,
+      "startIndex": 385,
+      "text": " خديجة",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت من هذا الجزء الأثر الأول من قول سعد الغاضري وقول إبراهيم احتج إلي بعد شعر بن أبي داود وما بعده إلى آخر شعر ابن كثير في ذم نفسه وقصة دنانير جعفر البرمكي وقول يونس بن عبيد في وصيته وقول معروف الكرخي في البيع والشراء على خالتي الصينة الجليلة أم محمد زينب ابنة أبي أحمد عبد الواحد بن أحمد بن عبد الرحمن بن إسماعيل بإجازتها من السلفي الحافظ فسمع شعر ابن كثير وما بعده سبطاها أحمد وأخته خديجة حاضرة ولدا عبد الرحمن بن محمد بن إبراهيم بن [...] في جمادى الأولى من سنة أربعين وستمئة بمنزلها كتبه أحمد بن عيسى بن عبد الله بن أحمد حامدًا الله ومصليًا ومسلمًا."
+}

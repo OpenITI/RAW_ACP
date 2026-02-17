@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "128v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "35dc4e83-d775-4f65-97bd-c7be8028e1c8",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 27,
+      "text": "أبو العباس أحمد بن سليمان بن مروان البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 25,
+      "guid": "7cad497a-bb29-40ff-8ad2-1a1752b0b529",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 18,
+      "text": "ابن شعيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "year": [
+          "643"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "98ffe838-782a-4942-b653-6adc344af5f7",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 75,
+      "text": "ثلاث وأربعين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة ابن شعيب أبو العباس أحمد بن سليمان بن مروان البعلبكي سنة ثلاث وأربعين وستمائة"
+}

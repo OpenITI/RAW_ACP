@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن عبد الله بن أبي سيف المدائني"
+      ],
+      "work_title": [
+        "كتاب التعازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 16"
+      ],
+      "classmark": [
+        "3738/3"
+      ],
+      "folio_number": [
+        "117v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 41,
+      "guid": "58e5b9e2-f21b-4411-a41d-6443064073f1",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 22,
+      "text": "أبي القاسم بن البسري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "bab_al-maratib"
+          ]
+        ]
+      },
+      "endIndex": 134,
+      "guid": "adf826a8-8aaf-4f67-bce8-24469f118b6e",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 117,
+      "text": "منزله بباب المراتب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "472"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "b5d81dc7-8717-4301-94e6-6b55d9830701",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 83,
+      "text": "رجب سنة اثنتين وسبعين وأربعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "bb1ed9af-1706-4b21-9161-3dcf85081640",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "أبو المعالي أحمد بن مرزوق الزعفراني",
+      "type": "person"
+    }
+  ],
+  "text": " سمعت جميعه على الشيخ أبي القاسم بن البسري وأبو المعالي أحمد بن مرزوق الزعفراني في رجب سنة اثنتين وسبعين وأربعمئة في منزله بباب المراتب"
+}

@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أحمد بن قدامه المقدسي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/261321728"
+      ],
+      "work_title": [
+        "كتاب التوابين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "wip"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 1384"
+      ],
+      "folio_number": [
+        "146v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000791q/f151.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000791q/f151.item.r=%22Arabe%201384%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "153adea6-3950-4bdb-96a2-b827ad655cc7",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 270,
+      "text": "محمد ابن محيي الدين محمد الحنبلي البعلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "858"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "6bb33228-ca92-4490-9b32-d67357e7f5ff",
+      "index": 1,
+      "isZeroPoint": false,
+      "startIndex": 153,
+      "text": "نهار الجمعة [...] من شهور سنة ثمان وخمسين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "f6d5130d-8c55-4a0a-8e42-dda20c52e9d9",
+      "index": 1,
+      "isZeroPoint": false,
+      "startIndex": 59,
+      "text": "يوسف ابن بدر الدين [حسن ابن شهاب] الدين أحمد ابن عبد الهادي",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله\nبلغ قراءة هذا الكتاب العبد الفقير إلى الله تعالى يوسف ابن بدر الدين [حسن ابن شهاب] الدين أحمد ابن عبد الهادي قراءة عليَّ في مجالس ثمانية آخرها نهار الجمعة [...] من شهور سنة ثمان وخمسين وثمان ماية وأجزت له رواية ما يجوز [لي] روايته المعتبرة عند أهل الحديث كتبه محمد ابن محيي الدين محمد الحنبلي البعلي بلدا والحمد لله وحده والمنة [وصلى] الله على سيدنا محمد وعلى آله وصحبه وسلم."
+}

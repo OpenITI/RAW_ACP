@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "127v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "7dbe0371-7c4c-4ddd-bdf4-ccbcf38c9e20",
+      "startIndex": 101,
+      "text": "علي بن بلبان المشرف الناصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "8e294e3d-ece6-4940-8cab-4ad7373eed91",
+      "startIndex": 50,
+      "text": " أبي عبد الله محمد بن أحمد بن المجير الكتبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 17,
+      "guid": "a8109782-c516-4765-b849-fb6db7c4da35",
+      "startIndex": 9,
+      "text": "ابن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "633"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "f59c6ac5-5fc2-493e-ac24-bfc8e0a184e4",
+      "startIndex": 136,
+      "text": "السبت عاشر رمضان سنة ثلاث وثلاثين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه من ابن اللتي بسماعه حضورا تراه منقولا بقراءة أبي عبد الله محمد بن أحمد بن المجير الكتبي جماعة وعلي بن بلبان المشرف الناصري في يوم السبت عاشر رمضان سنة ثلاث وثلاثين وستمائة"
+}

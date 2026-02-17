@@ -1,0 +1,354 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن سعد الزهري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الطبقات الكبير"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 1751"
+      ],
+      "folio_number": [
+        "128r"
+      ],
+      "image_link": [
+        "https://archive.thulb.uni-jena.de/ufb/rsc/viewer/ufb_derivate_00013768/Ms-orient-A-01751_000128.tif"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00003377"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 267,
+      "guid": "0caa36c7-dc77-4b07-ae76-5426690f21ea",
+      "startIndex": 256,
+      "text": "ذاكر بن كامل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "149bbb52-d0dc-4c45-8564-23486ed7c53d",
+      "startIndex": 91,
+      "text": "أبي حسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "567809c8-5217-487c-a92e-1aa94b7fc569",
+      "startIndex": 344,
+      "text": "يوسف بن خليل الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "58e5cf1d-3b66-4d3a-8714-c12b977b2331",
+      "startIndex": 136,
+      "text": "محمد بن عبد الباقي الدوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "5df0ef34-21d3-43a4-8024-4f12aa573838",
+      "startIndex": 58,
+      "text": "الحسن بن محمد الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "6ad944b5-f664-477e-af66-8c1696d5daba",
+      "startIndex": 196,
+      "text": "أحمد بن علي الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "447"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "71c035e2-7488-45ff-be62-590282299b5b",
+      "startIndex": 215,
+      "text": "في رجب سنة سبع وأربعين وأربعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "88f3f143-fe3f-4c48-a68b-bc814d29f950",
+      "startIndex": 163,
+      "text": "أحمد بن ثابت غلام السعيدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "8cca2d9e-a3fd-47c0-bf8b-2425725ae2a3",
+      "startIndex": 325,
+      "text": "الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 429,
+      "guid": "9735bdc1-d250-46cf-8aea-adc098f2bbc0",
+      "startIndex": 419,
+      "text": "ابن الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "a9c4d1b9-d715-42c5-a20d-708b23fa0d97",
+      "startIndex": 298,
+      "text": "الدوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "b5f23382-35bb-4df9-8588-b1ce57fc7efd",
+      "startIndex": 99,
+      "text": "أبو طالب عبد القادر بن محمد بن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 445,
+      "guid": "d58d1c6e-9951-4a4b-b3c7-de8c2394e3c3",
+      "startIndex": 431,
+      "text": "عبد [المؤمن...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "da02fd4b-51f9-4734-b6ff-e445f68863be",
+      "startIndex": 280,
+      "text": "أبي طالب بن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 318,
+      "guid": "ed016b0d-291c-41dd-b5c4-9ccc1fe72f29",
+      "startIndex": 312,
+      "text": "الحنيفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "589"
+        ]
+      },
+      "endIndex": 406,
+      "guid": "ed71d982-d825-4373-a2e5-85f5cfbec52d",
+      "startIndex": 365,
+      "text": "في شهر ربيع الآخر سنة تسع وثمانين وخمسمائة",
+      "type": "date"
+    }
+  ],
+  "text": "Gotha, MS. Orient 1751, 128r\nسمع الجزء الحادي والعشرين من الحسن بن محمد الجوهري بإجازته من أبي حسن\nأبو طالب عبد القادر بن محمد بن يوسف ومحمد بن عبد الباقي الدوري وأحمد بن ثابت غلام السعيدي بقراءة أحمد بن علي الخطيب في رجب سنة سبع وأربعين وأربعمئة\nوسمعه من ذاكر بن كامل بإجازته من أبي طالب بن يوسف والدوري بقراءة الحنيفي ولده الحسين وجماعة منهم يوسف بن خليل الدمشقي في شهر ربيع الآخر سنة تسع وثمانين وخمسمائة نقله من خط ابن الظاهري عبد [المؤمن...]"
+}

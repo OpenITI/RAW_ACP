@@ -1,0 +1,229 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن احمد الغطريفي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء من حديث ابي احمد محمد بن احمد بن الغطريف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 520"
+      ],
+      "folio_number": [
+        "1r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011396"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "2a0bc6da-c606-4760-a0e8-96e08fdf8fb8",
+      "startIndex": 160,
+      "text": "محمد بن محمد بن أبي الحرم القلانسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 333,
+      "guid": "6465e016-fefe-4957-bcb1-c97c6c24aada",
+      "startIndex": 323,
+      "text": "منزل المسمع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "78cff8ef-3928-4a6d-a1f8-38bdeb88b44d",
+      "startIndex": 109,
+      "text": "سعد الدين مسعود بن أحمد الحارثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "7ffb7c71-64c6-4eb6-84ca-5c9c3d0cf6d6",
+      "startIndex": 15,
+      "text": "أبي الفضل] عبد الرحيم بن يوسف بن يحيى ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "9a4ac351-e287-47fd-8eeb-0cfe0cd1ffbf",
+      "startIndex": 225,
+      "text": "أبا الحرم محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "a397a964-6c8e-42d8-a9c7-84dfbb59f4fd",
+      "startIndex": 349,
+      "text": "عبد الرحيم بن الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "b12c7311-c8c1-4bc8-9dfa-1aadfd53aae4",
+      "startIndex": 147,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "687"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "d3ce53e6-2e53-4d83-93ff-c1dc6039019f",
+      "startIndex": 264,
+      "text": "يوم الجمعة ثالث عشر شهر ربيع الأول سنة سبع وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "d506e41c-842e-4571-844d-a59b21a683b1",
+      "startIndex": 84,
+      "text": "ابن طبرزد",
+      "type": "person"
+    }
+  ],
+  "text": "[سمع على الشيخ أبي الفضل] عبد الرحيم بن يوسف بن يحيى [بسماعه حضوراً في] الخامسة على ابن طبرزد، بقراءة الحافظ سعد الدين مسعود بن أحمد الحارثي، ولده عبد الرحمن، ومحمد بن محمد بن أبي الحرم القلانسي، وله الخط في الأصل، وحضر ولده أبا الحرم محمداً، في الرابعة وآخرون في يوم الجمعة ثالث عشر شهر ربيع الأول سنة سبع وثمانين وستمئة بمنزل المسمع بالقاهرة لخصه عبد الرحيم بن الحسين من الأصل."
+}

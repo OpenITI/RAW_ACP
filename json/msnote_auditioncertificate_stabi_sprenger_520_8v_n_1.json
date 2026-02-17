@@ -1,0 +1,229 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن احمد الغطريفي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء من حديث ابي احمد محمد بن احمد بن الغطريف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 520"
+      ],
+      "folio_number": [
+        "8v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011396"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 290,
+      "guid": "1be0282d-e88d-4019-ba10-5d5faf61bf01",
+      "startIndex": 227,
+      "text": "ضياء الدين] أبي عبد الله محمد بن عثمان بن سليمان الكردي الزرزاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "3293b5fe-1656-4abb-9d0f-bec6af3d76c3",
+      "startIndex": 153,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 463,
+      "guid": "3939a9ce-480b-4cfa-a59a-007d9682f669",
+      "startIndex": 445,
+      "text": "إبراهيم بن أبي بكر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "57b71c4b-fb64-49af-b1f5-ad2ea3a9467c",
+      "startIndex": 57,
+      "text": "شمس الدين إبي إبراهيم إسحق بن محمود بن بلكوية بن أبي [الفياض البروجردي] الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 606,
+      "guid": "a47406c2-3826-45b1-9564-3299c9d4f07b",
+      "startIndex": 547,
+      "text": "إبراهيم بن عبد العزيز بن يحيى بن علي الرعيني الأندلسي اللوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 441,
+      "guid": "aa2d9e11-1c5b-45e7-b30f-81496ec97e90",
+      "startIndex": 394,
+      "text": "شرف الدين إبراهيم بن علي بن أحمد الأسواني الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "c43f8b86-067d-46fa-90a0-70dcf24af385",
+      "startIndex": 337,
+      "text": "صدر الدين أبو القاسم عبيد الله ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "662"
+        ]
+      },
+      "endIndex": 756,
+      "guid": "d955e811-f16f-4d70-84d3-dc4685fbcc6d",
+      "startIndex": 697,
+      "text": "يوم الأحد السادس عشر من شهر شوال من سنة اثنتين وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "ribat_said al-su'ada"
+          ]
+        ]
+      },
+      "endIndex": 684,
+      "guid": "ebb7b6f0-9d37-4132-983b-659c561afe41",
+      "startIndex": 658,
+      "text": "خانقة سعيد السعداء بالقاهرة",
+      "type": "place"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الصالح الإمام الفاضل العارف شمس الدين إبي إبراهيم إسحق بن محمود بن بلكوية بن أبي [الفياض البروجردي] الصوفي، بحق سماعه له من ابن طبرزد بسنده بقراءة المولى الأجل الإمام الفقيه المحدث الفاضل مفيد [... ضياء الدين] أبي عبد الله محمد بن عثمان بن سليمان الكردي الزرزاري، حفظه الله، ابنه الولد العزيز المبارك الصغير صدر الدين أبو القاسم عبيد الله أنبته الله نباتاً حسناً، وشرف الدين إبراهيم بن علي بن أحمد الأسواني الصوفي، وإبراهيم بن أبي بكر المؤذن بالحرم الشريف وآخرون لم تحضرني أسماؤهم، والعبد الفقير إلى الله تعالى الغني، إبراهيم بن عبد العزيز بن يحيى بن علي الرعيني الأندلسي اللوري، عفا الله عنه وهذا خطه وصح ذلك وثبت في مجلس واحد بخانقة سعيد السعداء بالقاهرة المعزية في يوم الأحد السادس عشر من شهر شوال من سنة اثنتين وستين وستمائة والحمدلله على ذلك كثيراً وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم تسليماً وحسبي الله ونعم الوكيل."
+}

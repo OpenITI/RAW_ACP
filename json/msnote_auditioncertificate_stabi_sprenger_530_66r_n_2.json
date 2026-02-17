@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن موسى الحازمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الاعتبار في الناسخ والمنسوخ في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 530"
+      ],
+      "folio_number": [
+        "66r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        "1b64cb20-5142-4c00-bd68-014c90adb3b2"
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011406"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "a87f7264-68fd-4f25-b913-7f1d3b75c82b",
+      "startIndex": 131,
+      "text": "لسبع عشرة ليلة مضت من محرم أول شهور سنة ثلاث وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "ce0a83f8-e797-4647-9292-c6702872d1ea",
+      "startIndex": 37,
+      "text": "جمال الدين أبي محمد عبد الله بن الحسن الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "ff16da18-a0a0-4757-aef3-6f4edfaeefeb",
+      "startIndex": 85,
+      "text": "أحمد بن عبد الناصر بن عبد الله بن عبد الناصر",
+      "type": "person"
+    }
+  ],
+  "text": "فرغه نسخاً وسماعاً على الفقيه الإمام جمال الدين أبي محمد عبد الله بن الحسن الدمياطي، أحمد بن عبد الناصر بن عبد الله بن عبد الناصر، لسبع عشرة ليلة مضت من محرم أول شهور سنة ثلاث وستين وستمائة."
+}

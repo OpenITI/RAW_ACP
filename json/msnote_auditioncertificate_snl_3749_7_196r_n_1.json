@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عشرة أحاديث عن عشرة مشايخ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 59"
+      ],
+      "classmark": [
+        "3749/7"
+      ],
+      "folio_number": [
+        "196r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "774"
+        ]
+      },
+      "endIndex": 406,
+      "guid": "23dace8c-c5c4-4fa6-b9ac-c2b388e927f4",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 359,
+      "text": "نهار الثلثا سادس عشر صفر سنة أربع وسبعين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "523af542-1d6c-4511-b4ce-4bd13b0308ef",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 237,
+      "text": "شمس الدين أبي إسحق إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "553a63fd-cc4e-4263-a73b-bc977f1dcbb2",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 205,
+      "text": "عماد الدين أبي طالب عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "al-sultaniya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 422,
+      "guid": "6a87598c-a2ac-42f5-82fa-091ef1861e9c",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 409,
+      "text": "السلطانية بحلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 329,
+      "guid": "6e1502cf-c807-4f7b-b1e1-230b5f021c88",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 322,
+      "text": "ابن خليل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "78e7f791-d325-4a2f-9dba-549d8b4a7793",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "شرف الدين الحسين بن عمر بن حسن بن عمر بن حسن بن حبيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "e7e374b1-5e37-4ad6-8d0b-a025bfb34ea5",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 50,
+      "text": " برهان الدين إبراهيم بن محمد بن خليل سبط بني العجمي الحلبي",
+      "type": "person"
+    }
+  ],
+  "text": " الحمد لله قرأه شيخنا الحافظ العلامة الأوحد القدوة برهان الدين إبراهيم بن محمد بن خليل سبط بني العجمي الحلبي ومن خطه نقلت على الإمام شرف الدين الحسين بن عمر بن حسن بن عمر بن حسن بن حبيب بسماعه على الأخوين عماد الدين أبي طالب عبد الرحيم وشمس الدين أبي إسحق إبراهيم ابني صالح بن هاشم بن العجمي فيه نقلا بسماعهما فيه نقلا من ابن خليل وصح ذلك في ثلثة مجالس آخرها نهار الثلثا سادس عشر صفر سنة أربع وسبعين وسبعمية بالسلطانية بحلب وأجاز"
+}

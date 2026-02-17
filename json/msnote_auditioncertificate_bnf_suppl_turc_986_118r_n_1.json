@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "118r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f122.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f122.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 358,
+      "guid": "15f7e1d4-db67-49f1-ac4c-4f218ad7b135",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 314,
+      "text": "محمد بن المجد بن محبوب سبط عبد الله بن الحافظ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 751,
+      "guid": "2058e357-a776-4ddb-bd13-22bc32fe0489",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 726,
+      "text": "حسن بن علي بن عمر الأسعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "333b131e-44a1-4604-97a2-ce8970319fc4",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 175,
+      "text": "أبي محمد عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "407e9609-bee5-4f2d-9976-177cadc3c85a",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 453,
+      "guid": "78888f7a-440c-430d-8d2b-35faecf9be96",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 400,
+      "text": "محمد بن محمد بن عبد الله بن عمر بن عوض المقدسي المحتسب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "988a9e88-66ae-4721-a05c-349756969acd",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 233,
+      "text": "محمد بن عبد الله بن أحمد بن عبد الله بن راجح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 397,
+      "guid": "b80fb23c-5519-45d5-9b26-29fb4022672b",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 361,
+      "text": "محمد بن محمد ابن داود بن حمزة بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "719"
+        ]
+      },
+      "endIndex": 719,
+      "guid": "bb6bab6c-d34a-477e-b271-b48f91ba4d24",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 679,
+      "text": "في العشرين من شعبان سنة تسع عشرة وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "e6869d14-5182-468c-ab2f-97458b31722d",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 102,
+      "text": "أبي الحسن علي بن محمد بن عبد الصمد السخاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "f0f01f8a-fa09-46bb-9840-c57d4cd8ca3e",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 215,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "fe253dac-6893-499d-86a2-8173d84a0569",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 52,
+      "text": "إبراهيم بن علي بن محمد بن غالب الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "fe7da8c4-6ab9-4485-9ff2-5cdaf0e8372d",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 279,
+      "text": "حسن ابن علي بن عمر بن مسلم اللبان",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو جزء سفيان بن عيينة على الشيخ إبراهيم بن علي بن محمد بن غالب الأنصاري بسماعه من أبي الحسن علي بن محمد بن عبد الصمد السخاوي بسماعه من السلفي بسنده بقراءة أبي محمد عبد الله بن أحمد بن المحب ابنه محمد ومن خطه نقلت محمد بن عبد الله بن أحمد بن عبد الله بن راجح وحسن ابن علي بن عمر بن مسلم اللبان ومحمد بن المجد بن محبوب سبط عبد الله بن الحافظ ومحمد بن محمد ابن داود بن حمزة بن أحمد ومحمد بن محمد بن عبد الله بن عمر بن عوض المقدسي المحتسب أبوه وغيرهم ونسخة قليج وحديث النقاش وجزءا من حديث إسماعيل الصفار وجزءا من حديث السلفي عن خالد التاجر وغيره ومجلس أبي الفرج القزويني بمكة وجزءا فيه ثلاث مجالس من أمالي ابن عبد كويه بسماعه للجميع من السخاوي عن السلفي بأسانيده في العشرين من شعبان سنة تسع عشرة وسبعماية وكتب حسن بن علي بن عمر الأسعردي والحمد لله وحده"
+}

@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "177r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f181.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f181.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 213,
+      "guid": "0b7df9af-73ca-4ccc-83a8-3a1b8f998722",
+      "startIndex": 204,
+      "text": "سفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "2c84b436-a783-4d84-acd8-fb6e08c19b8c",
+      "startIndex": 78,
+      "text": " القاسم بن محمد البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "413e538b-b8ef-471b-8279-704e33c6281c",
+      "startIndex": 142,
+      "text": "يوم الاثنين الرابع والعشرين من رمضان سنة ثلاث وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "62841fc8-1530-4f49-8d8c-46f7de920651",
+      "startIndex": 10,
+      "text": "أبي العباس أحمد بن شيبان بن تغلب الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "ddf83668-1ac6-4933-8e94-e84495729014",
+      "startIndex": 62,
+      "text": "ابن طبرزد ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على أبي العباس أحمد بن شيبان بن تغلب الشيباني بسماعه من ابن طبرزد بقراءة القاسم بن محمد البرزالي والسماع في الأصل بخطه غير واحد درجو[ا] يوم الاثنين الرابع والعشرين من رمضان سنة ثلاث وثمانين وستمئة بسفح قاسيون ظاهر دمشق"
+}

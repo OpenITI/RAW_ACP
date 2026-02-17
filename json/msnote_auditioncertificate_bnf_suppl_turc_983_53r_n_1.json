@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد حرب بن اسماعيل بن خلف الكرماني الحنبلي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/78553892"
+      ],
+      "work_title": [
+        "أحاديث أبي محمد حرب بن إسماعيل الكرماني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "53r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f56.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f56.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "11- 20"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "661"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "222239fd-149f-4b04-b29c-3f1a1d35332c",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 183,
+      "text": "العشر الأوسط من شهر ذي القعدة سنة إحدى وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 258,
+      "guid": "6373caac-8a28-4b2e-acc2-b3748a219927",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 237,
+      "text": "مدرسة الشيخ ضياء الدين",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "81e150de-5284-4f26-94c1-e35169f8ab01",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 146,
+      "text": "ضياء الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "b3601728-476c-4344-981e-dc1caf6de992",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 320,
+      "text": "عبد الرحمن بن سامة بن كوكب السّوادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "e35b096c-d0f7-41c1-867a-04c05cff50f3",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 51,
+      "text": "شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم الزاهد شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد بسماعه فيه من شيخه الشيخ الإمام الحافظ ضياء الدين رحمه الله بقراءته وذلك في العشر الأوسط من شهر ذي القعدة سنة إحدى وستين وستماية بمدرسة الشيخ ضياء الدين رحمه الله بسفح جبل قاسيون ظاهر دمشق حرسهما الله تعالى وكتبه عبد الرحمن بن سامة بن كوكب السّوادي عفا الله عنه"
+}

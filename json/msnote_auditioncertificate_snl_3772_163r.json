@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد الحسن بن علي بن محمد ابن علويه البغدادي القطان "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأول من المنتخب من فوائد الحسن بن علويه القطان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 187"
+      ],
+      "classmark": [
+        "3772"
+      ],
+      "folio_number": [
+        "163r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 639,
+      "guid": "1a8a0a85-092b-41d0-8a09-28d23774d192",
+      "startIndex": 626,
+      "text": "دار الشيخ بحلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 339,
+      "guid": "1fa700c2-ab82-4ea9-8e5f-46f55638b139",
+      "startIndex": 252,
+      "text": "جمال الدين أبو حامد محمد بن الإمام علم الدين أبي الحسن علي بن محمود المحمودي ثم الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "627"
+        ]
+      },
+      "endIndex": 623,
+      "guid": "461b0494-ce75-495f-be52-1f1204016c52",
+      "startIndex": 578,
+      "text": " الاثنين ثامن عشر شعبان سنة سبع وعشرين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 475,
+      "guid": "57a68ae6-7ae4-4565-a097-aa6e566dee26",
+      "startIndex": 471,
+      "text": "ياقوت",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 529,
+      "guid": "66502dae-8216-4a3c-a19a-7877ff489f18",
+      "startIndex": 478,
+      "text": "شهاب الدين عبد الرحمن بن محمد بن عبد الله ابن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 562,
+      "guid": "8a29447a-4a12-4abd-910a-c2bd552d40fb",
+      "startIndex": 532,
+      "text": "بدر الدين محمد بن مسلم بن ملاعب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 463,
+      "guid": "9cd8e814-aa9f-42a9-84a2-1bff5a7f7b84",
+      "startIndex": 421,
+      "text": "صدر الدين أبو الحسن قطز بن عبد الله الحسامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 401,
+      "guid": "bf7c6d78-dbd0-4da9-9834-f2551d129287",
+      "startIndex": 378,
+      "text": "شرف الدين أبو الفضل يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 706,
+      "guid": "c1a21283-8dc8-4566-9d83-09648b2c28f3",
+      "startIndex": 652,
+      "text": "عبيد الله بن بيرم بن يوسف بن خمردكين الصوري ثم الدمشقي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "e901b55a-a47d-483a-a5b6-23e0f7378b62",
+      "startIndex": 103,
+      "text": "محمد عبد اللطيف بن يوسف بن محمد بن علي البغدادي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 375,
+      "guid": "f7561257-3f7a-4ef0-a34b-e44db106c5bf",
+      "startIndex": 364,
+      "text": "مسعود الحبشي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء أجمع على شيخنا الإمام السيد الأجل الصدر الكبير العلامة الأمين موفق الدين أوحد العصر أبي محمد عبد اللطيف بن يوسف بن محمد بن علي البغدادي أيده الله تعالى بنقل سماعه فيه فسمعه الجماعة السادة صاحب هذه النسخة السيد الأجل العالم الأوحد الأمين جمال الدين أبو حامد محمد بن الإمام علم الدين أبي الحسن علي بن محمود المحمودي ثم الصابوني نفعه الله بالعلم وفتاه مسعود الحبشي وشرف الدين أبو الفضل يوسف ولد الشيخ المسمع وصدر الدين أبو الحسن قطز بن عبد الله الحسامي وفتاه ياقوت وشهاب الدين عبد الرحمن بن محمد بن عبد الله ابن العجمي وبدر الدين محمد بن مسلم بن ملاعب وصح ذلك في يوم الاثنين ثامن عشر شعبان سنة سبع وعشرين وستمائة بدار الشيخ بحلب كتبه العبد عبيد الله بن بيرم بن يوسف بن خمردكين الصوري ثم الدمشقي حامدا ومصليا ومسلما"
+}

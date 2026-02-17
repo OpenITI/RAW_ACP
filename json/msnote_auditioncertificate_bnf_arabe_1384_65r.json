@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أحمد بن قدامه المقدسي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/261321728"
+      ],
+      "work_title": [
+        "كتاب التوابين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 1384"
+      ],
+      "folio_number": [
+        "65r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000791q/f69.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000791q/f69.item.r=%22Arabe%201384%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "1c871820-9c6f-4774-acd9-9971aa5c85ec",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "حسين بن علي بن مفرج المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "5ba59ebe-dca1-45f1-b253-a0d8434ee106",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "شهاب الدين بن الشريفة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "870"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "b691beb9-5233-4a02-8f9e-e8e1c0705dff",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 79,
+      "text": "يوم الخميس ثالث عشر شهر الله المحرم سنة سبعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "dbb1b275-95e1-406f-bda8-8d041e0b0fab",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 189,
+      "text": "يوسف بن حسن بن عبد الهادي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت من أوله إلى هنا على الشيخ شهاب الدين بن الشريفة وذلك في أربعة مجالس آخرها يوم الخميس ثالث عشر شهر الله المحرم سنة سبعين وثمان ماية وسمع المجلس الأخير حسين بن علي بن مفرج المرداوي وكتب يوسف بن حسن بن عبد الهادي"
+}

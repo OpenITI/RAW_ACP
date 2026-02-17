@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن السني أحمد بن محمد بن إسحق بن إبراهيم الدينوري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "القناعة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 153"
+      ],
+      "classmark": [
+        "3765/22"
+      ],
+      "folio_number": [
+        "233r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 280,
+      "guid": "12557633-f6c0-444f-b126-81e9d6752bc1",
+      "startIndex": 257,
+      "text": "منزل المسمع ظاهر القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "221124ec-b319-4039-b219-e0416d09e896",
+      "startIndex": 141,
+      "text": "أبي القاسم ابن رواحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "7c9d5c5a-75fb-49ef-8691-fbcda1e5ebab",
+      "startIndex": 287,
+      "text": "عبد الكريم بن عبد النور بن منير الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "684"
+        ]
+      },
+      "endIndex": 254,
+      "guid": "c1166a45-93f6-4233-bbde-6354c98254e6",
+      "startIndex": 199,
+      "text": " الخميس الحادي والعشرين من شوال سنة أربع وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "cea8efaf-4f0b-4870-834e-09052f17a5ec",
+      "startIndex": 65,
+      "text": "جمال الدين أبي العباس أحمد بن محمد بن عبد الله الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "f5e8c45d-732f-4438-afe5-14479150b528",
+      "startIndex": 172,
+      "text": "السلفي ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على شيخنا الإمام الحافظ العلامة الورع الزاهد جمال الدين أبي العباس أحمد بن محمد بن عبد الله الظاهري بسماعه فيه منقولا من أبي القاسم ابن رواحة بسماعه من السلفي بسنده وصح ذلك في يوم الخميس الحادي والعشرين من شوال سنة أربع وثمانين وستمائة بمنزل المسمع ظاهر القاهرة وكتب عبد الكريم بن عبد النور بن منير الحلبي"
+}

@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "آدم بن أبي إياس العسقلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث آدم بن أبي إياس العسقلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/10"
+      ],
+      "folio_number": [
+        "183r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "1e2d5b89-63e6-4672-9c85-1a0338cfa5f6",
+      "startIndex": 57,
+      "text": "العلوي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "210b9945-ee2b-4ace-ac63-ee9dd5b49c31",
+      "startIndex": 89,
+      "text": "شمس الدين محمد بن عبد الرحمن بن محمد بن عبد الرحمن المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "535026c2-4dcb-426d-8c8f-8e6bf514f649",
+      "startIndex": 34,
+      "text": "الكفرطابي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "6e807c21-0709-4af1-806d-f8731d171f4a",
+      "startIndex": 47,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "861295de-c940-4edf-b052-5a9b8c188ff2",
+      "startIndex": 269,
+      "text": "أحمد بن المحب عبد الله بن أحمد بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 243,
+      "guid": "861ca9fc-175e-40e3-970c-b14a8810636a",
+      "startIndex": 230,
+      "text": "سفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "726"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "f88ae1ee-c3d4-4355-ace8-2867b7185f48",
+      "startIndex": 174,
+      "text": "يوم الاثنين ثاني عشر ربيع الآخر سنة ست وعشرين وسبعماية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء بروايتي له عن الكفرطابي عن الثقفي عن العلوي بسنده فسمعه الولد النجيب شمس الدين محمد بن عبد الرحمن بن محمد بن عبد الرحمن المقدسي وجماعة سمعوا بعضه وذلك في يوم الاثنين ثاني عشر ربيع الآخر سنة ست وعشرين وسبعماية بسفح جبل قاسيون ظاهر دمشق المحروسة كتبه أحمد بن المحب عبد الله بن أحمد بن محمد المقدسي عفا الله عنه "
+}

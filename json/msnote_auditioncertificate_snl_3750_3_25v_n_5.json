@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي المقري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند نافع بن أبي نعيم المقري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 61- 62 "
+      ],
+      "classmark": [
+        "3750/3"
+      ],
+      "folio_number": [
+        "25v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "9bd62ddf-041c-4d2c-9246-93825266b3ef",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 47,
+      "text": "ثاني أيام التشريق",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "b6aa3509-c365-42dd-8ce7-b0dd45794b39",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 38,
+      "text": "ابن سامة",
+      "type": "person"
+    }
+  ],
+  "text": " ثم قرأته مع حديث ابن أويس عليه فسمعه ابن سامة ثاني أيام التشريق منها"
+}

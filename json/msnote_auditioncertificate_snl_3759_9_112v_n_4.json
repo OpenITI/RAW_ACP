@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "سريج بن يونس بن إبراهيم بن شعيب البلخي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب القضاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/9"
+      ],
+      "folio_number": [
+        "112v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "10b53d67-de69-4ee8-8ce3-028edbdb3fb4",
+      "startIndex": 36,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد ابن البخاري المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "1bf3c1f4-d8ff-42ad-b51f-843ea2b949f8",
+      "startIndex": 153,
+      "text": "بن أح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "690"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "20822e09-f181-4d1c-80c0-7397bba406cd",
+      "startIndex": 248,
+      "text": "يوم السبت الرابع عشر من ربيع الأول سنة تسعين وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "31760eed-6739-43d9-b5c0-e3a7882b633b",
+      "startIndex": 129,
+      "text": "كمال الدين أحمد بن محمد بن أحمد ابن الشريشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "439d7484-f084-46fc-81b5-6a22897d8e9a",
+      "startIndex": 112,
+      "text": "ابن طبرزد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "6312f5de-c410-4436-b1d7-6c5eafc6c917",
+      "startIndex": 117,
+      "text": "برزد بقراءة كمال الدين أحمد بن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 223,
+      "guid": "8d2e596c-54d2-4a60-97d7-5e4abb3ef908",
+      "startIndex": 215,
+      "text": "ائم ابن ا",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "933b3f34-6e69-4273-825c-3410e32d6ace",
+      "startIndex": 88,
+      "text": "بخاري الم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "b83d3c72-eeb5-47cd-b47c-1824a98ed0d1",
+      "startIndex": 33,
+      "text": "يخ فخر الدين أبي الحسن علي بن أحمد بن عبد ا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "c4aa703b-cdc2-43d9-9f06-4dd39294534d",
+      "startIndex": 237,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "cef9e968-874e-4e6d-a818-fcbe788cbd9f",
+      "startIndex": 194,
+      "text": "محمد بن إبراهيم بن غنائم ابن المهندس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "680"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "fbd4cf26-e28c-4047-bbd5-b9335cc4a6ab",
+      "startIndex": 158,
+      "text": "مد ابن الشريشي كاتب السماع في الأصل محمد بن إبراهيم بن ",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه على الشيخ الإمام بقية المشايخ فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد ابن البخاري المقدسي بسماعه من ابن طبرزد بقراءة كمال الدين أحمد بن محمد بن أحمد ابن الشريشي كاتب السماع في الأصل محمد بن إبراهيم بن غنائم ابن المهندس وابنه عبد الرحمن يوم السبت الرابع عشر من ربيع الأول سنة تسعين وستمية "
+}

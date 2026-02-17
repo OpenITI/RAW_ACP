@@ -1,0 +1,541 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96b"
+      ],
+      "folio_number": [
+        "231r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1769442294/1200/0/00000468.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00010967"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "0a1b9c6a-7215-4680-9170-cb0b53b06f30",
+      "startIndex": 291,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "0d8fc3da-b0fe-444c-8cec-7bac9197544c",
+      "startIndex": 194,
+      "text": " البرقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 738,
+      "guid": "14e72e45-1271-4b06-b064-b7e7c59a894b",
+      "startIndex": 712,
+      "text": "أبو الفتوح ابن ظافر العقيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "14e97384-3e0e-45c7-8fb8-130569920240",
+      "startIndex": 168,
+      "text": "ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 461,
+      "guid": "168b9319-332a-4b99-be47-0148a3c7fcec",
+      "startIndex": 439,
+      "text": "محمد بن عبد الله التعزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "191f5a9f-b436-4014-86b3-6487de4e398e",
+      "startIndex": 158,
+      "text": "الخلعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "1aecf67b-1ffc-4f4e-b6ca-96397e35b6df",
+      "startIndex": 242,
+      "text": "أبو طالب محمد بن محمد بن الفضل العباسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "25f7502c-0990-4ae8-95c0-8239fe2a9bbe",
+      "startIndex": 303,
+      "text": "عبد الملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 819,
+      "guid": "35b1d086-32e0-4955-b324-f72986ae0a4f",
+      "startIndex": 766,
+      "text": "أبو عبد الله بن عبد الرحمن ابن محمد بن عماد العسقلاني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 623,
+      "guid": "404d780e-f9d0-430a-a14f-eea9fa871a1f",
+      "startIndex": 606,
+      "text": "أبو الطاهر إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "4524aaa3-e462-4743-bb10-2a48dc417b64",
+      "startIndex": 182,
+      "text": "ابن الورد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 980,
+      "guid": "66bfc074-c94d-424f-ae53-96ff90f3eafa",
+      "startIndex": 953,
+      "text": "أبو القاسم هبة الله بن وردان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 763,
+      "guid": "66dcd07a-0d53-4ec7-bcbd-35a0576f2dc1",
+      "startIndex": 741,
+      "text": "أحمد بن ظافر ابن السامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "78f796e5-74a2-42dd-953d-a4afc77ceca3",
+      "startIndex": 205,
+      "text": "ابن هشام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "597"
+        ]
+      },
+      "endIndex": 1041,
+      "guid": "8eeefb4c-d779-42e4-b686-beaeff87d6da",
+      "startIndex": 995,
+      "text": "يوم السبت النصف من رجب سنة سبع وتسعين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 486,
+      "guid": "9f089a02-ac87-4030-a879-f5c1574e3326",
+      "startIndex": 464,
+      "text": "إبراهيم بن حامد بن فارس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 436,
+      "guid": "aeceef13-44f7-47c6-9347-dcaea0c54a0c",
+      "startIndex": 417,
+      "text": "عمر بن ناصر السنهوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "af5cb640-543c-49f8-9560-320927633145",
+      "startIndex": 380,
+      "text": "عبد المنعم بن محمود بن عياش التونسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 598,
+      "guid": "b0b208e4-40d0-4cb9-9c03-1e0af127aa7f",
+      "startIndex": 550,
+      "text": "أبو التقى صالح بن إبراهيم بن إسماعيل الصبان [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 355,
+      "guid": "d3cee171-3acb-4bb0-a0ed-4a71922382ba",
+      "startIndex": 346,
+      "text": "عبد الجبار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          "7cb6292e-342a-46ce-a66e-b2662d28dac8"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 898,
+      "guid": "d7fb82ff-bece-4697-a9c5-fbb657a4ff11",
+      "startIndex": 852,
+      "text": "عبد الوهاب بن عتيق بن هبة الله ابن وردان المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "d817f38f-aa36-4862-a971-a35185933d5e",
+      "startIndex": 145,
+      "text": "ابن رفاعة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 709,
+      "guid": "e105abf9-f668-4b69-8c0b-aae2e56dedb3",
+      "startIndex": 670,
+      "text": "أبو زكريا بن يحيى بن صبح بن عنان الدلاصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 667,
+      "guid": "e61ca6f4-e474-431f-8f3a-b1912dc9faed",
+      "startIndex": 626,
+      "text": "أبو القاسم هبة الله بن أبي [علي] العسقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 534,
+      "guid": "e892b644-dad7-47d7-8476-535ceb97e688",
+      "startIndex": 489,
+      "text": "مرتضى بن عبد الغني بن شريف بن رفاعة [السعدي؟] ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "f8063a03-3084-4d2f-a66a-a721858aa5c4",
+      "startIndex": 63,
+      "text": "أبي محمد هبة الله بن القاضي أمين الدولة أبي الحسين يحيى بن علي بن حيدرة",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على القاضي الفقيه الأديب العالم صنيعة الملك أبي محمد هبة الله بن القاضي أمين الدولة أبي الحسين يحيى بن علي بن حيدرة بسماعه من ابن رفاعة عن الخلعي عن ابن النحاس عن ابن الورد عن البرقي عن ابن هشام رضي الله عنهم أجمعين الشريف أبو طالب محمد بن محمد بن الفضل العباسي والفقيهان عبد الرحمن وعبد الملك ابني إبراهيم بن محمد المكناسيان وعبد الجبار ولد عبد الملك المذكور وعبد المنعم بن محمود بن عياش التونسي وعمر بن ناصر السنهوري ومحمد بن عبد الله التعزي وإبراهيم بن حامد بن فارس ومرتضى بن عبد الغني بن شريف بن رفاعة [السعدي؟]  والشيخ الصالح أبو التقى صالح بن إبراهيم بن إسماعيل الصبان [...] وولده أبو الطاهر إسماعيل وأبو القاسم هبة الله بن أبي [علي] العسقلاني وأبو زكريا بن يحيى بن صبح بن عنان الدلاصي وأبو الفتوح ابن ظافر العقيلي وأحمد بن ظافر ابن السامي وأبو عبد الله بن عبد الرحمن ابن محمد بن عماد العسقلاني وصح وثبت لهم بقراءة كاتب السماع عبد الوهاب بن عتيق بن هبة الله ابن وردان المقرئ [...] واحد وسمع جميع هذا الجزء [...] من الأجزاء ولده أبو القاسم هبة الله بن وردان المذكور وذلك يوم السبت النصف من رجب سنة سبع وتسعين وخمس مائة والحمد لله وحده وصلى الله على سيدنا محمد."
+}

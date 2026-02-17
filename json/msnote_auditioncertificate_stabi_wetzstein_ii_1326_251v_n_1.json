@@ -1,0 +1,591 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسماعيل البخاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1326"
+      ],
+      "folio_number": [
+        "251v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN769639313/1200/0/00000506.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00023752"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 704,
+      "guid": "05e5ce07-3c9a-4c3a-a2b9-7b034b2afa1f",
+      "startIndex": 701,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "18966942-6f27-4c59-8ff6-29423a276542",
+      "startIndex": 94,
+      "text": "عز الدين أبي الفداء إسماعيل بن عبد الرحمن بن عمرو الفراء الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "2564cbb4-8547-4940-9f0f-dac0527d4b7b",
+      "startIndex": 324,
+      "text": "خديجة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "2d8eecce-336c-4dad-8473-fe5a41ee9c45",
+      "startIndex": 246,
+      "text": " ابن الزبيدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 840,
+      "guid": "2e4c1860-7230-458f-a5f7-2ace172985f6",
+      "startIndex": 816,
+      "text": "عروس خاتون بنت شهاب محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "2eba5996-d1ab-48dd-9fac-1aa06f3c23a3",
+      "startIndex": 300,
+      "text": "وأم الخير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 637,
+      "guid": "3c3c09b5-0f2f-4ab8-a7e7-a9727a0c8a0a",
+      "startIndex": 620,
+      "text": "معاني بنت عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 465,
+      "guid": "3c60668f-8fff-4198-88a0-e8fdda8baf73",
+      "startIndex": 461,
+      "text": "عائشة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 869,
+      "guid": "4110c546-5401-495a-bba7-c788f6239c81",
+      "startIndex": 843,
+      "text": "عائشة بنت إسماعيل بن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 321,
+      "guid": "41e4f668-e869-4a42-8a15-2ba97b5a5bb6",
+      "startIndex": 317,
+      "text": "سعدية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 472,
+      "guid": "43bb9689-fa34-4139-b2ef-eb7b34c4b6c8",
+      "startIndex": 468,
+      "text": "فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 912,
+      "guid": "4c477b94-1639-483d-acd9-86ea862c0977",
+      "startIndex": 904,
+      "text": "زين العرب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 791,
+      "guid": "5564308b-840d-4367-9228-36ae5352550f",
+      "startIndex": 765,
+      "text": "فرحة بنت عبد الرحيم الرقوقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 297,
+      "guid": "5777d31a-a1ce-4f3f-9cd2-79b852f7dc87",
+      "startIndex": 265,
+      "text": "ست الشام بنت الملك الصالح إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "6875b8ce-b128-484a-93e8-19122de267c1",
+      "startIndex": 311,
+      "text": "زينب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 902,
+      "guid": "788fe257-4d79-4a94-8aa4-be05ae80c3a6",
+      "startIndex": 898,
+      "text": "آمنة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 698,
+      "guid": "820fd221-b45e-43f2-bc72-af8e7287e901",
+      "startIndex": 695,
+      "text": "زينب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 691,
+      "guid": "a1220971-92a0-4d59-b19e-693b274fdaeb",
+      "startIndex": 673,
+      "text": "هاجر بنت عبد الوهاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "b197f671-8fac-4972-9fb4-4afa5d2a1780",
+      "startIndex": 176,
+      "text": "أم عبد الحميد هدية بنت عبد الحميد بن محمد بن سعد البنا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 591,
+      "guid": "b65388cc-851e-4fdf-a731-05c15fa0f941",
+      "startIndex": 572,
+      "text": "نفيسة بنت عبد الحميد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 568,
+      "guid": "b8242ad5-cae6-43d5-b997-20a746317c8c",
+      "startIndex": 549,
+      "text": "صالحة بنت عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 664,
+      "guid": "bcd5fb51-7c76-4cd7-8319-a3dcc9f4b97c",
+      "startIndex": 641,
+      "text": "إبراهيم بن علي بن الشريف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 398,
+      "guid": "bfd89552-1e74-40d5-ad46-6f82d370caff",
+      "startIndex": 394,
+      "text": "فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 508,
+      "guid": "d6f1585f-954c-427f-81df-0ce2ade313ce",
+      "startIndex": 500,
+      "text": "لطيـ[ـفة]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "696"
+        ]
+      },
+      "endIndex": 1017,
+      "guid": "ddd830db-326b-47e0-bf48-1d27acc67346",
+      "startIndex": 963,
+      "text": "يوم الأحد سادس وعشرون رجب المبارك سنة ست وتسعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 1075,
+      "guid": "e1449660-4dc4-4ad2-af05-e6d722d000ad",
+      "startIndex": 1048,
+      "text": "يمن بن مسعود المقدسي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 497,
+      "guid": "f5e1a04a-993e-4b71-94f2-af68ca0c932a",
+      "startIndex": 494,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 404,
+      "guid": "f9867633-cafe-41aa-93eb-b009c40fce27",
+      "startIndex": 401,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 761,
+      "guid": "fa6d09db-e3cc-417b-8d7b-b66a57dd8526",
+      "startIndex": 737,
+      "text": "فاطمة بنت سعيد بن أبي بكر",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء وهو الخامس من صحيح البخاري رضي الله عنه على الشيخين الأجلين العدلين الشيخ عز الدين أبي الفداء إسماعيل بن عبد الرحمن بن عمرو الفراء الحنبلي، والشيخة الصالحة أم عبد الحميد هدية بنت عبد الحميد بن محمد بن سعد البنا بسماعهما فيه من ابن الزبيدي فسمعه ست الشام بنت الملك الصالح إسماعيل، وأم الخير وزينب وسعدية وخديجة بنات شمس الدين أبي عبد الله محمد بن عبد القوي المقدسي الحنبلي، وفاطمة ومحمد حضور في الثانية له ابنا يمن بن مسعود [يمان بن مسعود]، وعائشة وفاطمة ابنتا الفقيه أحمد، ومحمد ولطيـ[ـفة] حضورٌ لها ابنا هارون بن راجح المقدسي، وصالحة بنت عبد الرحمن، ونفيسة بنت عبد الحميد ابني الفقيه أحمد المقدسي، ومعاني بنت عبد الله، وإبراهيم بن علي بن الشريف حضور، وهاجر بنت عبد الوهاب، وزينب ومحمد حضور له بنو علي بن عبد الملك، وفاطمة بنت سعيد بن أبي بكر، وفرحة بنت عبد الرحيم الرقوقي أبوه حضرت في الثالثة، وعروس خاتون بنت شهاب محمود وعائشة بنت إسماعيل بن الخباز أبوه خلا ميعادين من أوله، وآمنة وزين العرب ابنتا المسمع بفوت، وصح ذلك وثبت في مجالس [آخرها] يوم الأحد سادس وعشرون رجب المبارك سنة ست وتسعين وستمائة بقراءة الفقير إلى الله تعالى يمن بن مسعود المقدسي الحنبلي، [يمان] والحمدلله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلم."
+}

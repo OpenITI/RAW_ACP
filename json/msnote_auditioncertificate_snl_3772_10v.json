@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن أحمد الدارقطني البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الكتاب الثاني من أفراد الدار قطني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 184"
+      ],
+      "classmark": [
+        "3772"
+      ],
+      "folio_number": [
+        "10v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "2b8fe480-0245-44d8-8560-a1ae8d16cade",
+      "startIndex": 164,
+      "text": "أبو اليمن زيد بن الحسن بن زيد الكندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 241,
+      "guid": "7ce7da38-8f72-4251-ad55-07daafac6506",
+      "startIndex": 237,
+      "text": "مسجده",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "532"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "8974db0f-69e9-43c8-9c7f-bd2240358cf4",
+      "startIndex": 204,
+      "text": "رجب سنة اثنتين وثلاثين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "9a0997e4-c673-4e1a-b8e1-5b07929190c0",
+      "startIndex": 99,
+      "text": "مسعود بن علي بن النادر الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "ce4e0b60-c73f-44fa-a084-df8ccc1a71e3",
+      "startIndex": 22,
+      "text": "أبي عبد الله الحسين بن علي بن أحمد الخياط سبط الإمام أبي منصور الخياط",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على الشيخ الإمام أبي عبد الله الحسين بن علي بن أحمد الخياط سبط الإمام أبي منصور الخياط بقراءة مسعود بن علي بن النادر الصفار  والسماع في الأصل بخطه  جماعة منهم أبو اليمن زيد بن الحسن بن زيد الكندي في رجب سنة اثنتين وثلاثين وخمسمائة بمسجده"
+}

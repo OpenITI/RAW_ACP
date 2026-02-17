@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "53r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "06249581-ee19-4563-a405-a7827a984fe5",
+      "startIndex": 66,
+      "text": "ابن أخي ميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "12672f2b-35d7-45db-8f78-7b5384d1ffba",
+      "startIndex": 82,
+      "text": "البغوي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "5911cff2-e364-4065-b5e4-4e497f8a5cfd",
+      "startIndex": 10,
+      "text": "أبي الحسين المبارك بن عبد الجبار من أبي طالب العشاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "450"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "c111cdd4-95b4-4d2f-96ee-b5c424ee9b0b",
+      "startIndex": 104,
+      "text": "شعبان سنة خمسين [وأربعماية]",
+      "type": "date"
+    }
+  ],
+  "text": "وفيه سماع أبي الحسين المبارك بن عبد الجبار من أبي طالب العشاري عن ابن أخي ميمي عن البغوي بسماع جماعة في شعبان سنة خمسين [وأربعماية]"
+}

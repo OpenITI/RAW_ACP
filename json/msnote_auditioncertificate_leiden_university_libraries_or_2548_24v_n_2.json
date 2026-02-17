@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن عمر بن أحمد بن منصور بن عبدوس ابن الصفار النيسابوري"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "كتاب الأربعين من مسانيد المشايخ العشرين عن الأصحاب الأربعين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 2548"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281370502711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "1b4b0ebf-8487-4d48-b259-1f894d529aa4",
+      "startIndex": 27,
+      "text": "محمد بن سليمان بن داود الجزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "58625186-0b96-40b7-b3ad-4c5911180b0b",
+      "startIndex": 233,
+      "text": "البرزالي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 226,
+      "guid": "6be36b81-a5b7-463f-a431-5e89229ca0dd",
+      "startIndex": 217,
+      "text": "سفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "689"
+        ]
+      },
+      "endIndex": 214,
+      "guid": "6fc9bc99-52d9-4b19-9c24-5400fc689f7c",
+      "startIndex": 163,
+      "text": "الأربعاء ثامن عشر جمادى الآخر سنة تسع وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "ace6e95d-707d-4921-bbe5-5cf2182f5b1a",
+      "startIndex": 113,
+      "text": "علي بن محمد بن عبد الله [الحسني / الجيتي؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "cf47ab0e-b6d9-4ea6-85fa-bc6ded443765",
+      "startIndex": 107,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "d1d567f9-d825-4dd4-827b-8627c461d1e8",
+      "startIndex": 58,
+      "text": "الصلاح محمد بن أحمد بن بدر بن تبع البعلبكي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها عليه بالقراءة الشيخ محمد بن سليمان بن داود الجزري والصلاح محمد بن أحمد بن بدر بن تبع البعلبكي وابنه أحمد وعلي بن محمد بن عبد الله [الحسني / الجيتي؟] في يوم الأربعاء ثامن عشر جمادى الآخر سنة تسع وثمانين وستمية بسفح قاسيون نقله البرزالي من خط القارئ"
+}

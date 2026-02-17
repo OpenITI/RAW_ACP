@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "112v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f116.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f116.item.r=%22arabe%20708%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "1736724a-5110-424b-ab74-5e6a0e0888c7",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 190,
+      "text": "الحسين بن علي عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "2a00717b-d4a6-4c11-ba5e-5c7aa4f4588e",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 22,
+      "text": "أبي محمد عبد العظيم [المنذري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "653"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "ceeb7ec0-fa7e-4814-8b53-61c22a128cf0",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 126,
+      "text": "في التاسع والعشرين [من] ذي القعدة سنة ثلاث وخمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "d543c114-f77a-4fae-9305-71b14ac28bc2",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 82,
+      "text": "شهاب الدين [بن الشيخ] عبد العظيم الخيمي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت سماعا على الحافظ أبي محمد عبد العظيم [المنذري] وعرضا بأصل سماعه بقراءة العبد شهاب الدين [بن الشيخ] عبد العظيم الخيمي وصح في التاسع والعشرين [من] ذي القعدة سنة ثلاث وخمسين وستماية كتبه [الحسين بن علي عرف بابن الصيرفي]"
+}

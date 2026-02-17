@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج2"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/2"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 35,
+      "guid": "17ab1d0e-46e2-40cc-a58e-a3e3eade2432",
+      "startIndex": 16,
+      "text": "أبي عبد الله بن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "65fc82e0-7b73-44cd-b5da-978b7c48847b",
+      "startIndex": 49,
+      "text": " أبو محمد عبد الله ابن منصور بن هبة الله بن الموصلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "b8c33e4d-5a1c-42fc-923f-1f01cec7aafc",
+      "startIndex": 72,
+      "text": "منصور بن هبة الله بن الموصلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "year": [
+          "492"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "e38de547-641a-49ac-b742-ab5c0e9d8781",
+      "startIndex": 101,
+      "text": "سنة اثنتين وتسعين وأربعماية ",
+      "type": "date"
+    }
+  ],
+  "text": "وسمع الثاني على أبي عبد الله بن طلحة بقراءة والده أبو محمد عبد الله ابن منصور بن هبة الله بن الموصلي سنة اثنتين وتسعين وأربعماية "
+}

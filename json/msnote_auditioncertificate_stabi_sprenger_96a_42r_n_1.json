@@ -1,0 +1,583 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96a"
+      ],
+      "folio_number": [
+        "42r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00062119"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 762,
+      "guid": "09f6823e-37f0-4fb9-a256-8412f6aee001",
+      "startIndex": 745,
+      "text": "ناصر بن نجم المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 792,
+      "guid": "0ba66ee4-be6a-4509-9c3f-63256029a49c",
+      "startIndex": 765,
+      "text": "حامد بن جميل بن علي الأرسوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 742,
+      "guid": "0d6f3084-d3e3-431f-abaa-a0601d54208e",
+      "startIndex": 713,
+      "text": "الفضل بن عيسى بن محمد الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 892,
+      "guid": "0e6b1fed-0633-45e0-8062-62f6925c8913",
+      "startIndex": 852,
+      "text": "أبو الأمانة جبريل بن أسد بن هجَّام الشماع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "582"
+        ]
+      },
+      "endIndex": 1131,
+      "guid": "12a2db7c-ad0b-427e-9758-51b606aa32f1",
+      "startIndex": 1084,
+      "text": "في شهر ربيع الأول من سنة اثنتين وثمانين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          "7cb6292e-342a-46ce-a66e-b2662d28dac8"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1082,
+      "guid": "1e04eafb-fba0-44d3-901d-81c5f77412b5",
+      "startIndex": 1056,
+      "text": "عبد الوهاب بن عتيق بن وردان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 591,
+      "guid": "21242c30-e26b-47c0-82b1-99465b502289",
+      "startIndex": 565,
+      "text": "عبد الغني بن سليم ابن بكين ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "22eca8bd-9763-403d-9bd4-d05ab149061e",
+      "startIndex": 155,
+      "text": "أبي الحسن علي بن الحسين ابن عمر الفراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "misr"
+          ]
+        ]
+      },
+      "endIndex": 664,
+      "guid": "4635f9a7-5812-4d29-ad06-337c622fa22c",
+      "startIndex": 662,
+      "text": "مصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1040,
+      "guid": "50a96300-cd2c-4a0f-8614-52db8ddcdd31",
+      "startIndex": 1001,
+      "text": " أبو الثناء أحمد ابن ميسر بن حمد الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 456,
+      "guid": "59d014b7-a776-497b-ac37-13faa9ee0069",
+      "startIndex": 447,
+      "text": "عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 355,
+      "guid": "6340dd7d-7c75-4c67-b6a3-c0772636795e",
+      "startIndex": 295,
+      "text": "مهذب الدين أبي محمد عبد الله بن علي بن سلطان الواعظ الكفرسابي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "6e259e60-1625-4449-8810-016b46fe6f7e",
+      "startIndex": 63,
+      "text": "أبي عبد الله محمد بن حمد ابن حامد بن مفرج بن غياث الأرتاحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 642,
+      "guid": "72cef788-9b05-46ff-8f68-f473fa0bb664",
+      "startIndex": 593,
+      "text": "عبد الوهاب بن عتيق بن هبة الله بن المحمود بن وردان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 536,
+      "guid": "7a0bdc09-b80c-460a-8ee1-c5a1bc3cbef5",
+      "startIndex": 497,
+      "text": "أبو عبد الله محمد بن بكين بن خلف الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 439,
+      "guid": "8168c2c5-8dd1-4cc0-a668-e2e786cd220b",
+      "startIndex": 388,
+      "text": "أبو محمد عبد المجيد بن سلطان بن أحمد ابن صبيح المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 553,
+      "guid": "8d753f43-c11e-427a-97aa-5b00640e0a59",
+      "startIndex": 544,
+      "text": "عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "931290e9-c66e-41c2-b09b-656f7cc81daf",
+      "startIndex": 197,
+      "text": "أبي إسحق الحبال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 920,
+      "guid": "9d9e4ba2-8cd0-4f83-a588-0f381079a0f7",
+      "startIndex": 895,
+      "text": "طلائع بن علي بن خلف الحطاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 1276,
+      "guid": "9e612eaf-f5d8-4b10-a6b8-06088cdf7a8d",
+      "startIndex": 1191,
+      "text": "هذا صحيح وكتب محمد بن حمد بن حامد في تاريخه حامداً الله ومصلياً على محمد وآله ومسلماً.",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "ac77c103-68de-4012-91cf-863a9fc3755d",
+      "startIndex": 216,
+      "text": "ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 954,
+      "guid": "c04a3727-3bdf-43d2-972d-126b68189656",
+      "startIndex": 923,
+      "text": "هجَّام بن [فراغ في الأصل] الضرير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 372,
+      "guid": "c05dd1b4-1259-44ba-8f23-e1626ff22958",
+      "startIndex": 363,
+      "text": "عبد المنعم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "d0e2ca07-961b-4c78-9a57-f0bbfcc68d04",
+      "startIndex": 229,
+      "text": " ابن الورد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 701,
+      "guid": "d60e836d-19bf-448d-8865-a2f57ee867a6",
+      "startIndex": 680,
+      "text": " سالم بن المهذب الوراق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 495,
+      "guid": "f32aefe9-99d2-4354-afe6-ffd706b7c0d2",
+      "startIndex": 459,
+      "text": "أبو الحسن علي بن رزق بن منصور النحاس ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 835,
+      "guid": "f41f4a65-f774-4237-bbdc-6de415d4b059",
+      "startIndex": 805,
+      "text": "عدلان بن ضياء العسقلاني الكناني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "f9c9395b-03bb-4cbe-8120-338080154a51",
+      "startIndex": 243,
+      "text": "ابن البراقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "fc17f029-3924-4e5c-8b13-e8509a1c7925",
+      "startIndex": 258,
+      "text": "ابن هشام",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وما قبله من الأجزاء على الشيخ الصالح المحدث أبي عبد الله محمد بن حمد ابن حامد بن مفرج بن غياث الأرتاحي رضي الله عنه بحق إجازته من الشيخ أبي الحسن علي بن الحسين ابن عمر الفراء عن أبي إسحق الحبال عن ابن النحاس عن ابن الورد عن ابن البراقي عن ابن هشام بقراءة الفقيه العالم الأديب مهذب الدين أبي محمد عبد الله بن علي بن سلطان الواعظ الكفرسابي، ولده عبد المنعم والشيخ الفقيه أبو محمد عبد المجيد بن سلطان بن أحمد ابن صبيح المقرئ وولده عبد العزيز وأبو الحسن علي بن رزق بن منصور النحاس وأبو عبد الله محمد بن بكين بن خلف الشافعي وولده عبد الرحيم وابن أخيه عبد الغني بن سليم ابن بكين وعبد الوهاب بن عتيق بن هبة الله بن المحمود بن وردان وصح وثبت لهم ذلك بمصر وسمع هذا الجزؤ سالم بن المهذب الوراق وأبو [ذر] الفضل بن عيسى بن محمد الأنصاري وناصر بن نجم المؤذن وحامد بن جميل بن علي الأرسوفي وسمع أكثره عدلان بن ضياء العسقلاني الكناني وسمع هذا الجزء أبو الأمانة جبريل بن أسد بن هجَّام الشماع وطلائع بن علي بن خلف الحطاب وهجَّام بن [فراغ في الأصل] الضرير وسمع جميع الأجزاء المتقدمة مع هذا الجزء الشيخ أبو الثناء أحمد ابن ميسر بن حمد الحنبلي وصح وثبت وكتب عبد الوهاب بن عتيق بن وردان في شهر ربيع الأول من سنة اثنتين وثمانين وخمسمائة والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلم.\nهذا صحيح وكتب محمد بن حمد بن حامد في تاريخه حامداً الله ومصلياً على محمد وآله ومسلماً."
+}

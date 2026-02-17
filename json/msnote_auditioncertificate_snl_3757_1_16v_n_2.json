@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن جعفر بن محمد بن سهل السامري الخرائطي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مساوئ الأخلاق ومذمومها ومكروه طرائقها"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 94"
+      ],
+      "classmark": [
+        "3757/1"
+      ],
+      "folio_number": [
+        "16v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 223,
+      "guid": "0dd07fc4-e971-4160-b69c-502e90986e74",
+      "startIndex": 209,
+      "text": "شمالي جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "654"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "2857d3aa-098a-4bd9-89b0-f66e22908a9a",
+      "startIndex": 160,
+      "text": "يوم الأربعاء رابع شوال من سنة أربع وخمسين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 435,
+      "guid": "687214f3-b20d-4ccb-b129-2ab0779e7bf5",
+      "startIndex": 387,
+      "text": "صحيح ذلك كتبه إبراهيم بن خليل بن عبد الله الدمشقي",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "9c527145-0280-43cc-b0c2-b68c12037a45",
+      "startIndex": 102,
+      "text": "أبي الفضل إسماعيل بن علي بن إبراهيم الجنزوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "b3b6d2a7-7f6b-456d-9e0d-59266bbc0493",
+      "startIndex": 44,
+      "text": "أبي إسحق إبراهيم بن خليل ابن عبد الله الأدمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "b446f0e7-eb51-44ce-81e4-75945f719044",
+      "startIndex": 267,
+      "text": "محمد بن محمد بن زكريا بن رحمة بن أبي الغيث الشافعي الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على الشيخ الصالح الثقة أبي إسحق إبراهيم بن خليل ابن عبد الله الأدمي بحق سماعه من أبي الفضل إسماعيل بن علي بن إبراهيم الجنزوي بسنده وذلك في يوم الأربعاء رابع شوال من سنة أربع وخمسين وستمية شمالي جامع دمشق حرسها الله تعالى وكتب الفقير إلى رحمة ربه محمد بن محمد بن زكريا بن رحمة بن أبي الغيث الشافعي الدمشقي والحمد لله وحده وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم صحيح ذلك كتبه إبراهيم بن خليل بن عبد الله الدمشقي"
+}

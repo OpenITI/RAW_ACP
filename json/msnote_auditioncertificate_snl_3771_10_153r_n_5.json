@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن الفضل التيمي الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "جزء فيه أحاديث مسلسلات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 180"
+      ],
+      "classmark": [
+        "3771/10"
+      ],
+      "folio_number": [
+        "153r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 318,
+      "guid": "1859bc18-f471-4ba8-a881-af8db6fb0ce5",
+      "startIndex": 293,
+      "text": "عبد المؤمن بن خلف الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "583"
+        ]
+      },
+      "endIndex": 286,
+      "guid": "3a01f5fa-36eb-4bcd-a144-745e11e8209c",
+      "startIndex": 246,
+      "text": "ثاني ربيع الآخر سنة ثلاث وثمانين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          "030bbaa9-1b34-4394-b30d-4603d8e86cb2"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "760ec40f-6525-4a1c-a893-cd7f6dfc198c",
+      "startIndex": 177,
+      "text": "عمر بن سعيد بن عبد الواحد بن بخمش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "ba06a418-2268-4d8d-820c-6e49005f3948",
+      "startIndex": 126,
+      "text": "يحيى الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "caf4913e-3c02-49c5-8c99-65c90f205d27",
+      "startIndex": 171,
+      "text": "هدية ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "f0187d7b-5f42-41f9-a74f-abf7b8e4b932",
+      "startIndex": 212,
+      "text": "عبد الرحمن بن الأستاذ بن علوان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "f02b5135-5a92-4fe2-9375-fb22f865fbba",
+      "startIndex": 145,
+      "text": "محمد بن أحمد بن خميس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "ff0e0edb-1c69-40c9-9789-c1a2c4827c91",
+      "startIndex": 36,
+      "text": "شمس الدين أبي بكر عبد الله بن محمد بن أحمد التاذفي",
+      "type": "person"
+    }
+  ],
+  "text": "نقلت من خط المولى العدل الثقة العلم شمس الدين أبي بكر عبد الله بن محمد بن أحمد التاذفي ما صورته مختصرا سمع جميع هذا الجزء على يحيى الثقفي بقراءة محمد بن أحمد بن خميس بنته هدية وعمر بن سعيد بن عبد الواحد بن بخمش وعبد الرحمن بن الأستاذ بن علوان في ثاني ربيع الآخر سنة ثلاث وثمانين وخمسمائة كتبه عبد المؤمن بن خلف الدمياطي"
+}

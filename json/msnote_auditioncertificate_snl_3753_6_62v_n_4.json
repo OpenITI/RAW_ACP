@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن المفضل بن أحمد الثقفي الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/6"
+      ],
+      "folio_number": [
+        "62v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 27,
+      "guid": "b546859a-e8a7-4b9a-9329-017b06bf6f10",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 20,
+      "text": "ابن هامل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "b8cf3c48-4811-4dd7-ae0e-d215ec6df989",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 63,
+      "text": "أم الخير زينب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "da742414-e203-4acf-bf3d-9488c8015964",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 29,
+      "text": "يحيى بن محمد بن علي القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 158,
+      "guid": "e3ae116f-4282-4cbb-8219-1c492adfd3ea",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "634"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "e5d29499-a255-42fb-ae23-e2312f0b5be7",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 87,
+      "text": "ليلة الأحد ويوم الأحد الثامن من ربيع الأول سنة أربع وثلاثين وستمية ",
+      "type": "date"
+    }
+  ],
+  "text": " وسمعها عليه بقراءة ابن هامل يحيى بن محمد بن علي القرشي وابنته أم الخير زينب وآخرون في ليلة الأحد ويوم الأحد الثامن من ربيع الأول سنة أربع وثلاثين وستمية بدمشق"
+}

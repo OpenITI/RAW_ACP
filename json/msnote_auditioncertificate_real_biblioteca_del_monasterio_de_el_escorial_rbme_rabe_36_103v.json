@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عمر بن محمد بن عمر الأزدي الشلوبيني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "شرح المقدمة الجزولية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        " RBME Árabe 36"
+      ],
+      "folio_number": [
+        "103v"
+      ],
+      "image_link": [
+        "https://imagenes.patrimonionacional.es/iiif/2/Arabe36%2FArabe36_0212.jpg/full/1654,/0/default.jpg"
+      ],
+      "library": [
+        "Real Biblioteca del Monasterio de El Escorial"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://rbmecat.patrimonionacional.es/cgi-bin/koha/opac-detail.pl?biblionumber=61988"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "andalus",
+            "sevilla"
+          ]
+        ]
+      },
+      "endIndex": 255,
+      "guid": "9432c38b-f7e5-485d-9fa3-7b507c2d5fc1",
+      "startIndex": 249,
+      "text": "إشبيلية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "622"
+        ]
+      },
+      "endIndex": 309,
+      "guid": "95387c5f-81e8-48bd-a74a-89909efeb660",
+      "startIndex": 275,
+      "text": "ذي القعدة سنة اثنتين وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "cdaa06f4-6805-4d6d-99a1-9e62e5af672f",
+      "startIndex": 80,
+      "text": "أبي علي عمر بن محمد بن عمر بن عبد الله الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 429,
+      "guid": "fbc85a29-4f88-466d-b78a-169e10e0dccd",
+      "startIndex": 330,
+      "text": "المكتوب فوق هذا صحيح وكتب عمر بن محمد بن عمر بن عبد الله الأزدي في ذي قعدة سنة اثنتين وعشرين وستماية",
+      "type": "signature_of_musmi"
+    }
+  ],
+  "text": "سمع كاتبه من أول هذا الشرح من لفظ جامعه الشيخ الأستاذ الحافظ الأجل العلم الأوحد أبي علي عمر بن محمد بن عمر بن عبد الله الأزدي أدام الله كرامته [قشط اسم السامع] وفقه الله وناوله سائره وأباح له التحديث عنه به وسائر مجموعاته ومروياته على شرط ذلك وكتب بإشبيلية حرسها الله في شهر ذي القعدة سنة اثنتين وعشرين وستماية والحمد لله حق حمده المكتوب فوق هذا صحيح وكتب عمر بن محمد بن عمر بن عبد الله الأزدي في ذي قعدة سنة اثنتين وعشرين وستماية"
+}

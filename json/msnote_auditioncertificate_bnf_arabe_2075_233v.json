@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "شمس الدين الذهبي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90043051"
+      ],
+      "work_title": [
+        "المشتبه في اسماء الرجـال وانسابهم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "wip"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 2075"
+      ],
+      "folio_number": [
+        "233v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110022563/f237.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110022563/f237.item.r=%22Arabe%202075%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "musmi"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "60b614ea-acd4-4203-a8ce-f1bf333382e0",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 246,
+      "text": "محمد بن أحمد بن عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "737"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "7a0170ef-5361-4b94-860b-e55cfb3739e5",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 203,
+      "text": "سادس ذي الجحة سنة سبع وثلاثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "9deabe76-4966-4cd4-9ece-c5b0db894d4a",
+      "index": 2,
+      "isZeroPoint": false,
+      "startIndex": 54,
+      "text": "برهان الدين أبو إسحق إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "adb5d725-074e-4214-b592-a392a4a2e73a",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 104,
+      "text": "شمس الدين أبو عبد الله محمد ابنا محمد بن إبراهيم السفاقسي",
+      "type": "person"
+    }
+  ],
+  "text": "في الأصل ما نصه\nسمعه عليّ الإمامان العالمان المتفننان برهان الدين أبو إسحق إبراهيم بقراءته وعارض نسخته وشمس الدين أبو عبد الله محمد ابنا محمد بن إبراهيم السفاقسي متعهما الله بالطاعة وتمَّ في مجالس آخرها سادس ذي الجحة سنة سبع وثلاثين وسبعمية كتبه محمد بن أحمد بن عثمان عفا الله عنه ومن خطه نقلت"
+}

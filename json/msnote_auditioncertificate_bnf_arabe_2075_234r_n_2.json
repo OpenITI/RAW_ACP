@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "شمس الدين الذهبي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90043051"
+      ],
+      "work_title": [
+        "المشتبه في اسماء الرجـال وانسابهم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "tagged"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 2075"
+      ],
+      "folio_number": [
+        "234r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110022563/f237.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110022563/f237.item.r=%22Arabe%202075%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-sadriya"
+          ]
+        ]
+      },
+      "endIndex": 311,
+      "guid": "735bf70c-f496-4084-86da-faee26787ccf",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 279,
+      "text": "منزل المسمع من دار الحديث الصدرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "741"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "aa5d1f01-90e4-4085-b73e-1ed7262308c4",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 217,
+      "text": "يوم الجمعة التاسع والعشرين من صفر سنة إحدى وأربعين وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "b4241920-56ac-47de-83cc-ff22f52d4c55",
+      "index": 2,
+      "isZeroPoint": false,
+      "startIndex": 25,
+      "text": "شمس الدين أبي زرعة محمد بن يونس بن فتيان القدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "bb5c861e-fbf9-44b1-867b-c6b9be66103d",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 134,
+      "text": "شهاب الدين أبو محمود أحمد بن محمد بن إبراهيم بن هلال المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة الإمام شمس الدين أبي زرعة محمد بن يونس بن فتيان القدسي وكتب السماع في الأصل ومن خطه نقلت مخرجه ومخرجي الإمام الحافظ شهاب الدين أبو محمود أحمد بن محمد بن إبراهيم بن هلال المقدسي وصح في مجالس آخرها في يوم الجمعة التاسع والعشرين من صفر سنة إحدى وأربعين وسبع ماية بمنزل المسمع من دار الحديث الصدرية بدمشق وأجاز لهما المسمع المؤلف كاتب التصحيح أعلاه روايته رواية مؤلفاته كلها"
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن العزيز البغوي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حكايات أبي بسطام"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/2"
+      ],
+      "folio_number": [
+        "22r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "719"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "3583934e-3169-4b15-aa99-f1fe48c3896b",
+      "startIndex": 45,
+      "text": "تاسع عشر شوال سنة تسع عشرة وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 23,
+      "guid": "a7b35f6b-5b40-4bd3-b00d-b575522a6559",
+      "startIndex": 20,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 95,
+      "guid": "f2f38d61-b236-4f94-b895-0ce788561ca9",
+      "startIndex": 82,
+      "text": "المكان المذكور",
+      "type": "place"
+    }
+  ],
+  "text": "وسمعه عليه بالقراءة محمد بن القارئ وآخرون في تاسع عشر شوال سنة تسع عشرة وسبعماية بالمكان المذكور أعلاه"
+}

@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إبراهيم المعدل الرازي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "مشيخة أبي عبد الله الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 173"
+      ],
+      "classmark": [
+        "3770/10"
+      ],
+      "folio_number": [
+        "137v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "02f99769-41dd-46bf-bf35-81557b0f4e5f",
+      "startIndex": 183,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "1f1fee5b-b171-40eb-8917-326abe45f83e",
+      "startIndex": 217,
+      "text": "ذي القعدة سنة ثلث وستين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "3d9be69e-b0fa-4b6c-921f-c81bc3771017",
+      "startIndex": 133,
+      "text": "شهاب الدين أحمد بن أبي بكر بن حامد الأرموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "79a825f6-14b4-4129-8807-71dc64daf9c7",
+      "startIndex": 91,
+      "text": "ابن ياسين ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-azhar_mosque"
+          ]
+        ]
+      },
+      "endIndex": 273,
+      "guid": "9b1d4a6b-915c-4ad8-b3d1-7f66cd8f4f5f",
+      "startIndex": 249,
+      "text": "الجامع الأزهر من القاهرة ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "e4b57f9f-6d7f-4951-81e3-1981b78690e7",
+      "startIndex": 17,
+      "text": "زين الدين أبي الطاهر إسماعيل بن عبد القوي بن أبي العز بن عزون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "f24dc852-df11-4b8a-a01b-233702c64628",
+      "startIndex": 177,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "f4aaf365-dfc7-4d19-bdfe-5dde5f84516b",
+      "startIndex": 108,
+      "text": "الحسن بن علي ابن الصيرفي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها عليه وعلى زين الدين أبي الطاهر إسماعيل بن عبد القوي بن أبي العز بن عزون بسماعهما من ابن ياسين بقراءة الحسن بن علي ابن الصيرفي شهاب الدين أحمد بن أبي بكر بن حامد الأرموي وأحمد ومحمد ابنا المسمع الثاني وآخرون في ذي القعدة سنة ثلث وستين وستمية بالجامع الأزهر من القاهرة "
+}

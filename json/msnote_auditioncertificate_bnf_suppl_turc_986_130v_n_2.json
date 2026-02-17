@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "130v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f135.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f135.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "3a7ffe8f-4e69-4bbe-9f55-801b4893a126",
+      "index": 164,
+      "isZeroPoint": false,
+      "startIndex": 23,
+      "text": "نجم الدين أبي محمد عبد الرحيم بن الشيخ بن المحدث محيي الدين يحيى بن عبد الرحيم بن المفرج بن علي بن مسلم الأموي الدمشقي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "4d1596c6-7cf0-466c-8b01-fda4978fb555",
+      "index": 166,
+      "isZeroPoint": false,
+      "startIndex": 196,
+      "text": "القاسم بن محمد بن يوسف ابن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 420,
+      "guid": "9049977d-0937-4ff6-b8b3-4fec05f9126e",
+      "index": 171,
+      "isZeroPoint": false,
+      "startIndex": 412,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "705"
+        ]
+      },
+      "endIndex": 409,
+      "guid": "a77ed941-b070-41f3-8984-304f376061db",
+      "index": 170,
+      "isZeroPoint": false,
+      "startIndex": 356,
+      "text": "يوم الجمعة الخامس والعشرين من ذي الحجة سنة خمس وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "cc55f98e-0591-4703-91fe-08229e78237a",
+      "index": 168,
+      "isZeroPoint": false,
+      "startIndex": 263,
+      "text": "فخر الدين عبد الرحمن بن محمد بن عبد الرحمن بن البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "ced73026-744a-4af8-a257-79e9eea25642",
+      "index": 167,
+      "isZeroPoint": false,
+      "startIndex": 246,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "e33810d9-5f25-4d6f-8897-9524eac570c0",
+      "index": 169,
+      "isZeroPoint": false,
+      "startIndex": 319,
+      "text": "شمس الدين محمود بن خليفة المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "e4a5193f-0ad1-4257-983c-007f70fc5cac",
+      "index": 165,
+      "isZeroPoint": false,
+      "startIndex": 153,
+      "text": "السخاوي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الشيخ الأصيل نجم الدين أبي محمد عبد الرحيم بن الشيخ بن المحدث محيي الدين يحيى بن عبد الرحيم بن المفرج بن علي بن مسلم الأموي الدمشقي بحضوره على السخاوي وهو في السنة الأولى من عمره بقراءة القاسم بن محمد بن يوسف ابن البرزالي وهذا خطه ابنه أحمد وصاحب الجزء فخر الدين عبد الرحمن بن محمد بن عبد الرحمن بن البعلبكي وشمس الدين محمود بن خليفة المنبجي وصح يوم الجمعة الخامس والعشرين من ذي الحجة سنة خمس وسبعمئة بجامع دمشق وأجاز لهم جميع ما يرويه والحمد لله وصلى الله على محمد وآله وصحبه وحسبنا الله ونعم الوكيل"
+}

@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "14v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 987,
+      "guid": "0d0f218d-b60c-499b-81e6-16cff5551f17",
+      "startIndex": 934,
+      "text": "أحمد بن عثمان بن محمد بن عبد الله ابن الكلوتاتي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 769,
+      "guid": "1430b7ab-30fa-46ae-b7b0-0cf4635dbb90",
+      "startIndex": 746,
+      "text": " نجم الدين حمزة الهربيطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 910,
+      "guid": "27e4852f-b7b0-4733-8a3f-dca87b8c5b26",
+      "startIndex": 876,
+      "text": "منزل المسمع بحارة برجوان من القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "51eabe8b-7d45-4d21-abce-a7b736b1e791",
+      "startIndex": 227,
+      "text": "إسماعيل ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "6c6d577d-fa4c-4581-aea2-77ae38afca6a",
+      "startIndex": 106,
+      "text": "شرف الدين محمد بن شيخنا القاضي عز الدين محمد بن الكويك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 422,
+      "guid": "77875f4c-3a4e-4934-9187-2c21fe5dfd9b",
+      "startIndex": 374,
+      "text": "كمال الدين محمد بن محمد بن حسن ابن الشهني المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "815"
+        ]
+      },
+      "endIndex": 873,
+      "guid": "80a44ce0-5127-4c41-9d0a-bfc97761b642",
+      "startIndex": 815,
+      "text": "الجمعة خامس عشر ذي القعدة الحرام من سنة خمس عشرة وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 304,
+      "guid": "868ba6d3-c886-4c37-8767-52a5a9d3b706",
+      "startIndex": 297,
+      "text": "الكتاني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 525,
+      "guid": "8933fd46-4290-4530-9761-8da58712c2c1",
+      "startIndex": 504,
+      "text": "زين الدين رضوان العقبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "91d4d58a-a472-4443-9db9-15e2b6b96f29",
+      "startIndex": 172,
+      "text": "عبد الرحيم بن إبراهيم بن إسماعيل التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "94284017-61c6-49c4-b039-403af648d399",
+      "startIndex": 315,
+      "text": "تمام ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 286,
+      "guid": "ba43a14a-a293-4736-bd94-34f5de681699",
+      "startIndex": 280,
+      "text": "السلمي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 474,
+      "guid": "ce6bb5ea-d47d-420d-ac0b-eaf668f17cf3",
+      "startIndex": 445,
+      "text": "مجد الدين صالح الزواوي المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "d0c2e509-21f0-4912-8750-ae830ae2d0dc",
+      "startIndex": 253,
+      "text": "أبي طاهر الخشوعي",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله قرأت هذا الجزء وهو الأول من فوائد تمام [في الأصل أبي تمام] على راويه شيخنا الإمام الأوحد القاضي شرف الدين محمد بن شيخنا القاضي عز الدين محمد بن الكويك بإجازته من عبد الرحيم بن إبراهيم بن إسماعيل التنوخي بسماعه من جده إسماعيل المذكور بسماعه من أبي طاهر الخشوعي بسماعه من السلمي بسماعه من الكتاني بسماعه من تمام [في الأصل أبي تمام] فسمعه الجماعة الشيخ الإمام العالم كمال الدين محمد بن محمد بن حسن ابن الشهني المالكي والشيخ الإمام الصالح مجد الدين صالح الزواوي المالكي والشيخ الإمام المحدث المقرئ زين الدين رضوان العقبي وسمع من قوله في الجزء المذكور [15r] تتمة الطبقة على شرف الدين ابن الكويك حديث أبان عن أنس عن النبي صلى الله عليه وسلم قال ما طلعت الشمس في يوم قط أفضل من يوم الجمعة ولا أحب إلى الله عز وجل منه إلى آخر الجزء الشيخ الصالح نجم الدين حمزة الهربيطي المقيم بتربة يلبغا بالصحراء وصح وثبت في يوم الجمعة خامس عشر ذي القعدة الحرام من سنة خمس عشرة وثمان ماية بمنزل المسمع بحارة برجوان من القاهرة بقراءة الفقير إلى ربه أحمد بن عثمان بن محمد بن عبد الله ابن الكلوتاتي الحنفي وأجاز المسمع الرواية عنه وجميع الكتاب وجميع ما يرويه وتلفظ بذلك والحمد لله وحده وصلى الله على أشرف خلقه محمد وآله وصحبه وسلم"
+}

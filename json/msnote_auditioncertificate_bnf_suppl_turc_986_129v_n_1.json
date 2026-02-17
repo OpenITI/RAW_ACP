@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "129v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f134.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f134.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27- 30"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "648"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "240bbe57-af57-43ae-8a04-0dba351526ce",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 103,
+      "text": "يوم الخميس سلخ ذي القعدة سنة ثمان وأربعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 17,
+      "guid": "6d302c11-f34a-463a-82f4-a5eddb631e8b",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 8,
+      "text": "ابن الحيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "f60ee3d1-5a24-4ecb-93c8-5d287078df78",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 58,
+      "text": "صالح بن خضر بن حاتم الضرير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 33,
+      "guid": "fbcf0e2c-8422-4494-98f3-0cc3d6695398",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 26,
+      "text": "الميدومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 44,
+      "guid": "fdd20124-dcf4-46d6-82a6-7af397f6b55c",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 37,
+      "text": "الأسعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "ff1ab823-ebac-4cb6-9fc0-ff6336d40cae",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 91,
+      "text": "عبد الله",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من ابن الحيري بقراءة الميدومي |والأسعردي| جماعة منهم صالح بن خضر بن حاتم الضرير وفتاه عبد الله في يوم الخميس سلخ ذي القعدة سنة ثمان وأربعين وستمائة"
+}

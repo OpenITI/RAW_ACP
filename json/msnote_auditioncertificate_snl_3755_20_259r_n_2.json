@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن أحمد بن جعفر بن حمدان الحنفي القدوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء من حديث القدوري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/20"
+      ],
+      "folio_number": [
+        "259r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "05e2c468-1a60-41a4-9479-fe81f08b3436",
+      "index": 214,
+      "isZeroPoint": false,
+      "startIndex": 58,
+      "text": "مسعود بن أحمد الحارثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-salihyia_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 216,
+      "guid": "856f2f8a-3e1a-4be3-94ad-1f1e4802daa2",
+      "index": 217,
+      "isZeroPoint": false,
+      "startIndex": 191,
+      "text": "المدرسة الصالحية من القاهر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "86f508ec-7071-4565-ac34-29d8b383ecfe",
+      "index": 215,
+      "isZeroPoint": false,
+      "startIndex": 105,
+      "text": " يوسف بن محمد بن نصر بن قاسم المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "669"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "9354dc61-1680-42c2-b97e-24b81064b0bf",
+      "index": 216,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": " تاسع ربيع الأول سنة تسع وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "d0c3efa8-3b8f-4010-b990-24b267a6c2d0",
+      "index": 213,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "أبي عيسى عبد الله بن عبد الواحد بن علاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "dc7c58b4-f07b-456c-b121-776ea658a6e5",
+      "index": 218,
+      "isZeroPoint": false,
+      "startIndex": 242,
+      "text": "أحمد بن أيبك بن عبد الله الحسامي الدمياطي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على أبي عيسى عبد الله بن عبد الواحد بن علاق بقراءة مسعود بن أحمد الحارثي وبخطه السماع ومن خطه نقلت يوسف بن محمد بن نصر بن قاسم المقدسي وآخرون في تاسع ربيع الأول سنة تسع وستين وستماية بالمدرسة الصالحية من القاهر المعزية وأجاز لهم نقلها أحمد بن أيبك بن عبد الله الحسامي الدمياطي"
+}

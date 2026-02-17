@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الله الأنصاري وأبي محمد بن ماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتقا من الأحاديث "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "137r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f140.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f140.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "3751eb27-42ab-402a-807e-0a0e5798e768",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "في ثامن عشر صفر سنة اثنتين وأربعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "399cb35c-7389-496b-9d77-db009ad0bf66",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "أبي العباس أحمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 248,
+      "guid": "c7cddee4-e2da-4700-9cae-14be59ff5d27",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 229,
+      "text": " أحمد بن محمد النجدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 223,
+      "guid": "f0165188-54f2-40ff-9005-1ce2d4372122",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 209,
+      "text": "جامع جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "f8346fd0-9d93-40c1-b154-8eac7067ec8f",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 121,
+      "text": "أبو العباس أحمد بن محمد بن أمية العبدري",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذه الأحاديث على الشيخ العالم أبي العباس أحمد بن عبد الرحيم بن عبد الواحد المقدسي بسماعه فيه نقلًا فسمعه الشيخ أبو العباس أحمد بن محمد بن أمية العبدري وصح في ثامن عشر صفر سنة اثنتين وأربعين وستمائة بجامع جبل قاسيون كتبه أحمد بن محمد النجدي بخطه"
+}

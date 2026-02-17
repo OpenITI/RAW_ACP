@@ -1,0 +1,297 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن موسى الأشيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أبي علي الأشيب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        " FMMU 95"
+      ],
+      "classmark": [
+        "3757/6"
+      ],
+      "folio_number": [
+        "101r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 547,
+      "guid": "0f13de4a-7484-489b-8649-4ab60a3f732f",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 511,
+      "text": "إبراهيم بن أحمد بن سعد بن نصر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 508,
+      "guid": "15c9483d-5787-466e-a942-189958501d36",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 477,
+      "text": "عبد الملك بن موسى ابن عبد الكريم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "1866e2c5-58a3-4793-9d31-ceea7a53fb0b",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 83,
+      "text": " فخر الدين أبي الحسن علي بن الإمام شمس الدين أبي العباس أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 474,
+      "guid": "21204354-3cd5-4d16-b304-db7c9e0de899",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 436,
+      "text": "أحمد بن عبد الرحمن بن محمد بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 433,
+      "guid": "28ffe675-4056-48a1-81d1-9e7dbfe40582",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 384,
+      "text": "شمس الدين أبي عبد الله بن محمد بن أحمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "3a93fb69-7a65-4b62-9697-97206af0808a",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 233,
+      "text": "أبي علي الحداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 880,
+      "guid": "3b6f47c5-48e2-4e6a-8cf1-c0c037eaff80",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 867,
+      "text": "سفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "3fb084ad-7a43-4e30-be6f-92c55936d76d",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 294,
+      "text": "أبي علي محمد بن أحمد الصواف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 626,
+      "guid": "42b45941-1307-410a-bb53-6d480a10cde9",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 565,
+      "text": "شرف الدين أبو عبد الله محمد بن أبي القاسم بن أبي طالب الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 729,
+      "guid": "57c60412-471f-41ea-934a-d3905435df06",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 682,
+      "text": "عثمان بن جبريل بن مروان الأنصاري المعروف بالمبيض",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 778,
+      "guid": "78b3c7fb-c98a-4c84-b189-eeeaca8d6138",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 732,
+      "text": "عبد الحافظ بن عبد المنعم بن غازي بن عمر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "658"
+        ]
+      },
+      "endIndex": 864,
+      "guid": "7c418523-7e7c-454f-a08c-149fcc81882d",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 814,
+      "text": "يوم الثلثا خامس جمادى الآخرة سنة ثمان وخمسين وسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "9c024980-5cd2-49dc-82a9-87d7d5075dab",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 326,
+      "text": "بي علي بشر بن موسى بن شيخ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "c4b55d4e-b342-4679-bcde-9e1d44ffc855",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 191,
+      "text": "أبي جعفر محمد بن أحمد الصيدلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "debce6a4-9e18-423f-8a21-2ac1c806b3de",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 258,
+      "text": "أبي نعيم أحمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 672,
+      "guid": "f8f9d4b3-4f32-41d9-9c7f-37fc3cb8657e",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 635,
+      "text": "إبراهيم بن بشارة بن عبد الله التركماني",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء وهو أحاديث الحسن بن موسى الأشيب على الشيخ الإمام العالم العلامة فخر الدين أبي الحسن علي بن الإمام شمس الدين أبي العباس أحمد بن عبد الواحد المقدسي أثابه الله بحق إجازته من أبي جعفر محمد بن أحمد الصيدلاني بسماعه من أبي علي الحداد عن الحافظ أبي نعيم أحمد بن عبد الله بسماعه من أبي علي محمد بن أحمد الصواف عن أبي علي بشر بن موسى بن شيخ عنه بقراءة الفقيه الإمام العالم شمس الدين أبي عبد الله بن محمد بن أحمد بن عبد الله وأحمد بن عبد الرحمن بن محمد بن عبد الغني وعبد الملك بن موسى ابن عبد الكريم وإبراهيم بن أحمد بن سعد بن نصر المقدسيون والمولى السيد شرف الدين أبو عبد الله محمد بن أبي القاسم بن أبي طالب الأنصاري والشيخ إبراهيم بن بشارة بن عبد الله التركماني والقاضي عثمان بن جبريل بن مروان الأنصاري المعروف بالمبيض وعبد الحافظ بن عبد المنعم بن غازي بن عمر المقدسي عفا الله عنه وهذا خطه وصح وثبت في يوم الثلثا خامس جمادى الآخرة سنة ثمان وخمسين وسماية بسفح جبل قاسيون وصح وثبت"
+}

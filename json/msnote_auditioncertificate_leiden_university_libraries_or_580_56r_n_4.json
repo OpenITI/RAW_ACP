@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "56r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 361,
+      "guid": "39fc90c9-b186-49e4-81a9-177d5b55e94d",
+      "startIndex": 334,
+      "text": "علو دار الحديث النورية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 408,
+      "guid": "5b79d617-f3a0-495a-bc69-0eefce8d0b6c",
+      "startIndex": 368,
+      "text": "يعقوب بن أحمد بن يعقوب بن عبد الله الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "5c17bb94-7de4-4efd-ba11-a7ddf06da5ad",
+      "startIndex": 219,
+      "text": "عائشة ابنه عبد الله بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "673"
+        ]
+      },
+      "endIndex": 331,
+      "guid": "70f8af15-6b1b-425c-aa5e-275728165c0b",
+      "startIndex": 284,
+      "text": "الأحد مستهل جمادى الآخرة سنة ثلاث وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "7950a136-2b25-4d75-9d1b-c5ba599607f0",
+      "startIndex": 71,
+      "text": "جمال الدين أبي حامد محمد بن علي بن محمود بن المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "ad22a925-9309-4ca4-b6f4-d55b4fd20201",
+      "startIndex": 170,
+      "text": "أبي القاسم عبد الصمد الحرستاني",
+      "type": "person"
+    }
+  ],
+  "text": "ثم قرأته على شيخنا الإمام العالم الحافظ المسند محدث الشام بقية المشايخ جمال الدين أبي حامد محمد بن علي بن محمود بن المحمودي الصابوني أثابه الله الجنة بحق سماعه من القاضي أبي القاسم عبد الصمد الحرستاني بسنده فسمعه زوجتي عائشة ابنه عبد الله بن عبد الله وصح ذلك وثبت في ليلة تسفر عن يوم الأحد مستهل جمادى الآخرة سنة ثلاث وسبعين وستماية بعلو دار الحديث النورية بدمشق كتبه يعقوب بن أحمد بن يعقوب بن عبد الله الحلبي عفا الله عنه وصح والحمد لله وحده وصلوته على سيدنا محمد نبيه وآله وسلم تسليما"
+}

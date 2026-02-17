@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "50r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "09e86b80-6cef-4a53-9d80-b4bf4255219d",
+      "index": 188,
+      "isZeroPoint": false,
+      "startIndex": 234,
+      "text": "أبي البدر إبراهيم بن محمد بن منصور بن عمر الكرخي السني الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "414e89c0-93c9-44ea-8bde-3441a302e17a",
+      "index": 189,
+      "isZeroPoint": false,
+      "startIndex": 306,
+      "text": "أبو حفص عمر بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 423,
+      "guid": "5e2f0752-cff0-4f5a-989e-519140110ff4",
+      "index": 191,
+      "isZeroPoint": false,
+      "startIndex": 362,
+      "text": " يوم الجمعة رابع عشرين جمادى الآخر من سنة خمس وثلثين وخمسماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 358,
+      "guid": "7936823e-03e9-4aa6-b115-991b8ed66cea",
+      "index": 190,
+      "isZeroPoint": false,
+      "startIndex": 338,
+      "text": "محمد بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "b0a9aaea-6027-4e48-ac32-4358e43faaaa",
+      "index": 187,
+      "isZeroPoint": false,
+      "startIndex": 187,
+      "text": "ابن سمعون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "e917a89f-01a0-428f-b652-22d0928e94b7",
+      "index": 186,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "خديجة الشاهجانية",
+      "type": "person"
+    }
+  ],
+  "text": " شاهدت على جزء |آخر الجزء الثاني من أصل ابن طبرزد| بخط أبي البقاء بن طبرزد في أصله وفيه ست مجالس من أمالي بن سمعون من أول الرابع عشر إلى آخر التاسع عشر وهو آخر ما عند خديجة الشاهجانية عن ابن سمعون وقرأت هذا الجزء والذي قبله على الشيخ أبي البدر إبراهيم بن محمد بن منصور بن عمر الكرخي السني الشافعي وسمع أخي أبو حفص عمر بن محمد وجماعة وكتب محمد بن محمد بن طبرزد في يوم الجمعة رابع عشرين جمادى الآخر من سنة خمس وثلثين وخمسماية "
+}

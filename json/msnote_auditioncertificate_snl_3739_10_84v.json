@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الرحمن أبو طاهر المخلص"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتقى من الجزء الرابع من حديث أبي طاهر المخلص"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 19/20"
+      ],
+      "classmark": [
+        "3739/10"
+      ],
+      "folio_number": [
+        "84v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "busra"
+          ]
+        ]
+      },
+      "endIndex": 310,
+      "guid": "3b8bc7ce-9b3e-4abd-ab37-c85bc481aa2e",
+      "startIndex": 302,
+      "text": "جامع بصرى",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "619"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "43e7a36f-d66a-408e-af9d-5ae1c3ef10c1",
+      "startIndex": 254,
+      "text": "الخميس خامس عشرين شوال من سنة تسع عشرة وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "5f99792b-6504-4859-b18a-747f2130f7ed",
+      "startIndex": 37,
+      "text": "أبي سليمان عبد الرحمن بن الحافظ عبد الغني بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "94f43165-eae2-461f-9054-55010aba1567",
+      "startIndex": 128,
+      "text": "محمد بن عبد الواحد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "9cd73135-a97c-413f-98a5-fa1f0750e3fe",
+      "startIndex": 169,
+      "text": "شمس الدين أبو محمد عبد الرحمن  بن الشيخ أبي عمر محمد بن أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الفقيه الإمام أبي سليمان عبد الرحمن بن الحافظ عبد الغني بن عبد الواحد المقدسي بسماعه عن ابن [...] بقراءة محمد بن عبد الواحد بن أحمد الفقيه الإمام شمس الدين أبو محمد عبد الرحمن  بن الشيخ أبي عمر محمد بن أحمد [ ومحمد بن...] وذلك يوم الخميس خامس عشرين شوال من سنة تسع عشرة وستماية بجامع بصرى [...]"
+}

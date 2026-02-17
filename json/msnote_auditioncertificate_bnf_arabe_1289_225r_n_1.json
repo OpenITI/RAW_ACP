@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الفرج طاهر بن محمد بن عبد الرحيم بن نباتة"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "خطبة النكاح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 1289"
+      ],
+      "folio_number": [
+        "225r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000775p/f232.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000775p/f232.item.r=%22Arabe%201289%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 360,
+      "guid": "0681f85f-299e-43da-a7ca-abbac8b7eb0d",
+      "startIndex": 341,
+      "text": "سفح قاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "23aea18d-3148-4a1b-8c27-dc646190237c",
+      "startIndex": 134,
+      "text": "أبي عمر محمد بن أحمد بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "5a77ca64-322e-4ca6-b0f5-19643b962045",
+      "startIndex": 175,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "603"
+        ]
+      },
+      "endIndex": 338,
+      "guid": "6721b6f4-aa73-4313-9818-2bc985ed194c",
+      "startIndex": 298,
+      "text": "يوم السبت سادس عشري محرم سنة ثلاث وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "8083588d-0816-469f-bb07-4b046436bbfa",
+      "startIndex": 169,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "8248f311-fc9e-4e53-a513-d742ce5a4143",
+      "startIndex": 194,
+      "text": "ضياء الدين محمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "97ea1aba-90b9-4a16-84bf-7ba215d83d6e",
+      "startIndex": 247,
+      "text": "أحمد بن عبد الملك بن عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "d3a2260b-fd6b-4736-bf1b-3eb348117f08",
+      "startIndex": 23,
+      "text": "أبي اليمن زيد بن الحسن بن زيد الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "d56c4530-5dbb-46e2-8c6c-11f8d74e9a36",
+      "startIndex": 71,
+      "text": "نبهان الغنوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "dadadedc-931f-4330-a9dd-971a40e152f7",
+      "startIndex": 234,
+      "text": "علي بن أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع جميع هذه الخطب من أبي اليمن زيد بن الحسن بن زيد الكندي بروايته عن نبهان الغنوي سماعًا وإجازة على ما هو مبين أول هذه الخطب بقراءة أبي عمر محمد بن أحمد بن محمد ولداه أحمد وعبد الرحمن والحافظ ضياء الدين محمد بن عبد الواحد وابن أخيه علي بن أحمد وأحمد بن عبد الملك بن عثمان والخط له في مجالس آخرها يوم السبت سادس عشري محرم سنة ثلاث وستمائة بسفح قاسيون ظاهر دمشق والحمد لله."
+}

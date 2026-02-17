@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "سريج بن يونس بن إبراهيم بن شعيب البلخي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب القضاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/9"
+      ],
+      "folio_number": [
+        "123v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 502,
+      "guid": "1f84f164-2b65-4b6d-9f57-8e8fcbf531db",
+      "startIndex": 467,
+      "text": "أبو العلاء محمود بن أبي بكر البخاري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "harat_al-batiliya"
+          ]
+        ]
+      },
+      "endIndex": 450,
+      "guid": "20e7d88c-76a2-4baa-a8c4-c47688db50be",
+      "startIndex": 443,
+      "text": "الباطلية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "3dd1c22e-0f4d-4127-a6f0-85fb46669401",
+      "startIndex": 306,
+      "text": "حبيبة بنت إسحق بن إبراهيم المعروفة ببنت عم المجد بن الخشاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "3e3db2eb-883e-4174-ae02-30a570bb1489",
+      "startIndex": 58,
+      "text": "شهاب الدين أبي الفضل عبد الرحيم بن يوسف بن يحيى بن العلم الشافعي عرف بابن خطيب المزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "79869dcb-c0ff-4b48-bca2-f1fb1e86a74a",
+      "startIndex": 186,
+      "text": "قطب الدين أبو محمد عبد الكريم بن عبد النور بن منير الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "687"
+        ]
+      },
+      "endIndex": 440,
+      "guid": "8f38f1fa-cfa5-46ee-99bf-d612b15a0809",
+      "startIndex": 381,
+      "text": "الثلثا التاسع والعشرين من ربيع الآخر سنة سبع وثمانين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "b0e289a0-22fb-42c3-a7ec-a3517371bba5",
+      "startIndex": 164,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "bcb7ca8a-91ff-4bfb-81a1-f598470d147a",
+      "startIndex": 251,
+      "text": "خديجة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "d160e300-dedd-4f5e-bc99-d3c2fed1f98a",
+      "startIndex": 284,
+      "text": "صفاء العيش التكرورية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "de4b2084-d05a-4bf3-9ff7-37ab4463c2c7",
+      "startIndex": 258,
+      "text": "فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 248,
+      "guid": "e23976d0-b50f-45d2-932e-9e024597bded",
+      "startIndex": 245,
+      "text": "أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم الفاضل المسند شهاب الدين أبي الفضل عبد الرحيم بن يوسف بن يحيى بن العلم الشافعي عرف بابن خطيب المزة حضورا في الخامسة على ابن طبرزد بسنده فسمعه قطب الدين أبو محمد عبد الكريم بن عبد النور بن منير الحلبي وأحمد وخديجة وفاطمة أولاد المسمع وفتاته صفاء العيش التكرورية وحبيبة بنت إسحق بن إبراهيم المعروفة ببنت عم المجد بن الخشاب وصح وثبت في يوم الثلثا التاسع والعشرين من ربيع الآخر سنة سبع وثمانين وستماية بالباطلية وأجاز لنا كتبه أبو العلاء محمود بن أبي بكر البخاري "
+}

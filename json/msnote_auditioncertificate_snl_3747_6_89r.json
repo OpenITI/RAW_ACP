@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/6"
+      ],
+      "folio_number": [
+        "89r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 29,
+      "guid": "93f94f45-bce1-4f81-82a9-7e82b1884662",
+      "index": 208,
+      "isZeroPoint": false,
+      "startIndex": 9,
+      "text": " أبي القاسم السمرقندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "a3ba9b7c-097b-4b99-9d8a-299a625caa8d",
+      "index": 214,
+      "isZeroPoint": false,
+      "startIndex": 202,
+      "text": "إبراهيم بن شادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "ae535fa6-95d6-4986-ace9-bb42c79aa0b6",
+      "index": 209,
+      "isZeroPoint": false,
+      "startIndex": 38,
+      "text": "أبي الحسن علي بن هبة الله البزاز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "528"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "ba440bdb-1c4d-4b31-8a08-ed1883b73815",
+      "index": 212,
+      "isZeroPoint": false,
+      "startIndex": 118,
+      "text": "يوم الجمعة سابع عشر محرم سنة ثمان وعشرين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 290,
+      "guid": "c0d76f7e-5517-481d-a85d-d97bdc549e37",
+      "index": 215,
+      "isZeroPoint": false,
+      "startIndex": 261,
+      "text": "بد الرحمن بن [عبد القادر ...؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "f0dd7094-1ec9-492a-80f3-e9ef18175989",
+      "index": 210,
+      "isZeroPoint": false,
+      "startIndex": 71,
+      "text": "عمر بن أبي الحسن بن عبد السيد الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "mansur_mosque"
+          ]
+        ]
+      },
+      "endIndex": 181,
+      "guid": "f4c73b94-4fed-4cfd-8e6e-3d2c8a463de5",
+      "index": 213,
+      "isZeroPoint": false,
+      "startIndex": 170,
+      "text": "جامع المنصور",
+      "type": "place"
+    }
+  ],
+  "text": " وسمعه من أبي القاسم السمرقندي بقراءة أبي الحسن علي بن هبة الله البزاز عمر بن أبي الحسن بن عبد السيد الصفار وجماعة في يوم الجمعة سابع عشر محرم سنة ثمان وعشرين وخمس ماية بجامع المنصور نقلته مختصرا من خط إبراهيم بن شادي في سلخ محرم سنة أربع وتسعين وخمسماية كتبه عبد الرحمن بن [عبد القادر ...؟]"
+}

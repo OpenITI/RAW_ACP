@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن عرفة بن يزيد العبدي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الحسن بن عرفة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/8"
+      ],
+      "folio_number": [
+        "109v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "1455d5e8-e48c-4abe-9b3f-8904e79363ed",
+      "startIndex": 95,
+      "text": "أبو بكر عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "2d6bbf50-98ec-4c7d-8154-16cdc8094ad3",
+      "startIndex": 34,
+      "text": "شمس الدين محمد بن علي بن محمد ابن طولون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "8772e502-6bf0-4995-a3d2-20840c66ab6d",
+      "startIndex": 188,
+      "text": "عبد الهادي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 388,
+      "guid": "b5500322-e49c-491c-b2dd-04ae1eaf8265",
+      "startIndex": 367,
+      "text": "كتب يوسف بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "salihiya_quarter"
+          ]
+        ]
+      },
+      "endIndex": 311,
+      "guid": "b5b54806-c386-445b-bf42-cdf973a69bda",
+      "startIndex": 273,
+      "text": "مسجد [...] بالسهم الأعلى من صالحية دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "bfb0368e-664e-4f10-ae02-36a028a1ed64",
+      "startIndex": 142,
+      "text": "شمس الدين محمد ابن علي بن محمد الشعراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "897"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "c0eb4157-9e6f-4b3c-8284-8e1aed395ace",
+      "startIndex": 207,
+      "text": "يوم الخميس ثاني عشرين شهر جمادى الآخرة سنة سبع وتسعين وثمان ماية",
+      "type": "date"
+    }
+  ],
+  "text": "الحمد لله أنهاه قراءة عليَّ الولد شمس الدين محمد بن علي بن محمد ابن طولون فسمع نصفه الأول ولدي أبو بكر عبد الله وقريبا من ثلثيه الأخيرة الشيخ شمس الدين محمد ابن علي بن محمد الشعراني وولدي عبد الهادي وصح ذلك يوم الخميس ثاني عشرين شهر جمادى الآخرة سنة سبع وتسعين وثمان ماية بمسجد [...] بالسهم الأعلى من صالحية دمشق وأجزت لهم أن يرووه عني وجميع ما لي وعني روايته بشرطه وكتب يوسف بن عبد الهادي"
+}

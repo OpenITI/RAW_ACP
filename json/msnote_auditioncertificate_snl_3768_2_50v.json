@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عبدالله الحسين بن إسماعيل المحاملي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 160"
+      ],
+      "classmark": [
+        "3768/2"
+      ],
+      "folio_number": [
+        "50v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "1225a71f-3c40-4e1a-a2c0-ffd29b0c1098",
+      "startIndex": 43,
+      "text": "موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "2a997668-bcf5-4fbb-8d90-ddd03a7c5150",
+      "startIndex": 122,
+      "text": "أبو بكر بن يوسف بن علي بن زويزان الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 321,
+      "guid": "3e6018d1-33dc-4405-80f8-020c3c3d95ef",
+      "startIndex": 282,
+      "text": "عمر بن أحمد بن محمد العدوي اللخمي السبتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "616"
+        ]
+      },
+      "endIndex": 390,
+      "guid": "53be88df-2468-4acb-8a0d-03b96228008d",
+      "startIndex": 355,
+      "text": "شهر جمادى الأولى سنة ست عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 350,
+      "guid": "94baadec-dd8d-43f5-bab5-6c3e390741cd",
+      "startIndex": 342,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "d00c33e2-ee73-44ca-b004-e548964becf7",
+      "startIndex": 185,
+      "text": "سالم بن ثمال بن عنان العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "edee6995-4f77-446b-b3d4-2cd56a7257f2",
+      "startIndex": 221,
+      "text": "أبو الفتح بن حامد بن أبي الفتح العراقي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي بسماعه فيه الشيخ أبو بكر بن يوسف بن علي بن زويزان الأنصاري والشيخ الفقيه المحدث سالم بن ثمال بن عنان العرضي والفقيه أبو الفتح بن حامد بن أبي الفتح العراقي ومثبت بخط يده الفانية عمر بن أحمد بن محمد العدوي اللخمي السبتي وكان بقراءته وذلك بجامع دمشق في شهر جمادى الأولى سنة ست عشرة وستمائة"
+}

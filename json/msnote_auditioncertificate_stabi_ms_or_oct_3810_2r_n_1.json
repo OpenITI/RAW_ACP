@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عبد الله ابن الخطاب الرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سداسيات في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. or. oct 3810"
+      ],
+      "folio_number": [
+        "2r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00020229"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "82877703-87b8-4959-b857-e201195c2afc",
+      "startIndex": 200,
+      "text": "أحمد بن سليمان بن [القرط]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "a67099bf-f76d-49e5-93c8-5261a57f4663",
+      "startIndex": 60,
+      "text": " بن موقا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "be4665f6-8cce-4e75-b93a-90aef8fb6358",
+      "startIndex": 76,
+      "text": "عبد الكريم بن عبد الباري الصعيدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "e92cf4f3-2f29-45b8-ac30-7380813f458c",
+      "startIndex": 227,
+      "text": "محمد بن سيد الأهل بن عبد الله الغزولي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "f26d4ba5-e714-4d22-ac2e-9db29017c5f7",
+      "startIndex": 121,
+      "text": "في يوم الجمعة الرابع والعشرين من ذي الحجة سنة خمس وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 41,
+      "guid": "f87f1603-4f45-4456-8aa2-9813fe36f513",
+      "startIndex": 16,
+      "text": "أبي البركات أحمد بن النحاس",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه جميعه علي أبي البركات أحمد بن النحاس المذكور بسماعه من بن موقا بقراءة عبد الكريم بن عبد الباري الصعيدي وكتب السماع في يوم الجمعة الرابع والعشرين من ذي الحجة سنة خمس وستين وستمائة ومن خطه اختصرت أحمد بن سليمان بن [القرط] ومحمد بن سيد الأهل بن عبد الله الغزولي وآخرون وأجاز"
+}

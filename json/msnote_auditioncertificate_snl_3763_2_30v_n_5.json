@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عمرو بن البختري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي البختري عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 127"
+      ],
+      "classmark": [
+        "3763/2"
+      ],
+      "folio_number": [
+        "30v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 22,
+      "guid": "02032fa2-19b8-4e99-a95e-e6143166c558",
+      "startIndex": 17,
+      "text": "هزارسب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 26,
+      "guid": "607b7e44-e3dd-404e-a68e-e7b1f3d0979d",
+      "startIndex": 24,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "496"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "83331d3b-f0ab-4422-9bdc-a476d46e43e8",
+      "startIndex": 97,
+      "text": "ربيع الآخر سنة ست وتسعين [وأربعماية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "c2cb2e60-1930-4ddf-9f72-710d14648e5c",
+      "startIndex": 63,
+      "text": "أحمد بن الحسين بن الحسن الفقيه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 32,
+      "guid": "fc80f4af-83ea-4579-8007-ebd6d6a7da26",
+      "startIndex": 29,
+      "text": "أحمد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة هزارسب عمر وأحمد ابنا بنيمان بن عمر المستعمل وأحمد بن الحسين بن الحسن الفقيه في ربيع الآخر سنة ست وتسعين [وأربعماية]"
+}

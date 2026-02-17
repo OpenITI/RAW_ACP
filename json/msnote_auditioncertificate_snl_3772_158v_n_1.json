@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبد الله بن محمد بن عبيد ابن أبي الدنيا القرشي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب التوكل على الله"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 187"
+      ],
+      "classmark": [
+        "3772"
+      ],
+      "folio_number": [
+        "158v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "0b8d71db-dd84-449c-bb6d-fb5cb504f975",
+      "startIndex": 110,
+      "text": "أحمد بن جميل بن حمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "10c643d5-f771-4f63-893d-bab6db5e2ac4",
+      "startIndex": 141,
+      "text": " محمد بن سعد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "600"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "6c322b0f-d610-423c-8b31-85f87c290c92",
+      "startIndex": 173,
+      "text": " الأحد الرابع من ذي القعدة سنة ستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 48,
+      "guid": "818a8f67-68bd-4695-82f5-2e5a157fc815",
+      "startIndex": 44,
+      "text": "شهدة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "8a9b6608-2854-4044-8c97-506b918e4712",
+      "startIndex": 56,
+      "text": "عبد العزيز بن عبد الملك الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 32,
+      "guid": "9b50fadf-c85d-4522-8650-a99a2b61da6b",
+      "startIndex": 16,
+      "text": "البهاء عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "bc2fb379-fcfd-44bd-baa7-19af08ed8599",
+      "startIndex": 89,
+      "text": "خالد بن يوسف بن سعد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع التوكل على البهاء عبد الرحمن بسماعه من شهدة بقراءة عبد العزيز بن عبد الملك الشيباني خالد بن يوسف بن سعد وأحمد بن جميل بن حمد والسماع بخط محمد بن سعد المقدسي وذلك في يوم الأحد الرابع من ذي القعدة سنة ستمائة"
+}

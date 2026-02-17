@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عثمان بن أحمد بن عبد الله بن يزيد الدقاق المعروف بابن السماك "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد أبي عمرو عثمان الدقاق أو حديث حنبل بن إسحق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 182"
+      ],
+      "classmark": [
+        "3771/17"
+      ],
+      "folio_number": [
+        "216r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 468,
+      "guid": "0b8362f9-2107-4ba6-90da-38484fcd6efd",
+      "startIndex": 425,
+      "text": " إبراهيم بن محمد بن إبراهيم المالكي السفاقسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "10474268-ca0a-415b-ba85-707e226b9286",
+      "startIndex": 158,
+      "text": "يحيى ابن القميرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 412,
+      "guid": "1cebc46b-1c37-470c-89e6-72ef7daab641",
+      "startIndex": 389,
+      "text": "منزل المسمعة بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "756bb9a3-e7cd-4194-b74c-b83128fc5437",
+      "startIndex": 187,
+      "text": "شهدة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "785bc0a3-c916-4d82-9028-168ec8c685e8",
+      "startIndex": 47,
+      "text": "أم عبد الله زينب بنت كمال الدين أحمد بن كمال الدين عبد الرحيم المقدسية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "737"
+        ]
+      },
+      "endIndex": 386,
+      "guid": "b96dd5e5-0a8c-46a9-91b0-c946909c01d3",
+      "startIndex": 320,
+      "text": "الأربعاء الحادي وعشرين من شهر رمضان المعظم سنة سبع وثلاثين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "d1ead75a-a16d-4e7a-891c-6d45351c0b7b",
+      "startIndex": 130,
+      "text": "إبراهيم بن محمود ابن الخير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "f65a2f1f-883b-4d5e-bd5e-39dbae242fb7",
+      "startIndex": 211,
+      "text": "شمس الدين أبو عبد الله محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "f690616a-78fe-44cc-9533-b87a176f2f21",
+      "startIndex": 240,
+      "text": "شمس الدين أبو عبد الله محمد بن محمد الأزدي القابسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جزء حنبل بن إسحق جميعه على الشيخة الصالحة أم عبد الله زينب بنت كمال الدين أحمد بن كمال الدين عبد الرحيم المقدسية بإجازتها من إبراهيم بن محمود ابن الخير ويحيى ابن القميرة بسماعهما من شهدة بسندها فسمعه شقيقي شمس الدين أبو عبد الله محمد وشمس الدين أبو عبد الله محمد بن محمد الأزدي القابسي وآخرون لا أسميهم وصح ذلك يوم الأربعاء الحادي وعشرين من شهر رمضان المعظم سنة سبع وثلاثين وسبعمائة بمنزل المسمعة بسفح قاسيون وأجازت كتبه إبراهيم بن محمد بن إبراهيم المالكي السفاقسي حامدا ومصليا"
+}

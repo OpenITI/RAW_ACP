@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن يحيى بن عياش القطان الأعور "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء من حديث أبي عبد الله الحسين بن يحيى القطان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 164"
+      ],
+      "classmark": [
+        "3768/11"
+      ],
+      "folio_number": [
+        "182v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "612"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "837f0745-49db-460e-b175-ccfe9314c420",
+      "startIndex": 57,
+      "text": "الاثنين تاسع ذي القعدة سنة اثنتي عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "df42a122-8e73-4d44-ac52-8e0ef61ffb8c",
+      "startIndex": 108,
+      "text": "مفضل بن علي بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 33,
+      "guid": "f185c97c-9c2e-402c-86ca-5c03b16a6f2f",
+      "startIndex": 24,
+      "text": "موفق الدين",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على موفق الدين بسماعه من الثلاثة يوم الاثنين تاسع ذي القعدة سنة اثنتي عشرة وستمائة كتبه مفضل بن علي بن عبد الواحد"
+}

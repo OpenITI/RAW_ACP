@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "جمال الدين المزي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/16163574"
+      ],
+      "work_title": [
+        "تهذيب الكمال في اسمــاء الرجــال "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 2091"
+      ],
+      "folio_number": [
+        "126r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110026394/f128.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110026394/f128.item.r=%22Arabe%202091%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "714"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "20fadf65-eb04-45fd-9816-d4c1929e2971",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": " يوم الخميس ثاني عشر ربيع الأول سنة أربع عشرة وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "3381d78b-fcf6-4530-8a2c-14eb71264853",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 97,
+      "text": "محمد بن المهندس",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته عليه أبقاه الله في يوم الخميس ثاني عشر ربيع الأول سنة أربع عشرة وسبعماية وعارضت نسختي وكتب محمد بن المهندس"
+}

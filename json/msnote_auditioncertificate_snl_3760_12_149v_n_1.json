@@ -1,0 +1,608 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/12"
+      ],
+      "folio_number": [
+        "149v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "00789539-2811-44d6-88f7-dbc640d31794",
+      "startIndex": 354,
+      "text": "أبو الحسن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 787,
+      "guid": "01d63229-58e7-4514-b33d-1bfa36d49cf5",
+      "startIndex": 743,
+      "text": "عبد العزيز بن عبد الرحمن بن أبي الفتح المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "0847fe5e-eaa4-41a6-93bc-182ce060f617",
+      "startIndex": 158,
+      "text": "أبي المعالي أحمد بن عبد الغني بن حنيفة الباجسرائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1194,
+      "guid": "0af1e623-3cf9-44a5-a8d6-d50e49b84ce0",
+      "startIndex": 1181,
+      "text": "محمد الإبريسمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 522,
+      "guid": "0b6206e8-9a85-4e2d-8490-2e33ed14be3e",
+      "startIndex": 475,
+      "text": "أبو الفرج أيوب بن محمود ابن نصر الله بن البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 440,
+      "guid": "12e57099-086e-42ae-bf54-f5f592bcbe79",
+      "startIndex": 422,
+      "text": "علي بن معلى بن صالح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "633"
+        ]
+      },
+      "endIndex": 1333,
+      "guid": "1434269a-51fc-4be0-99f0-d67add2f24e1",
+      "startIndex": 1288,
+      "text": "يوم الخميس سابع عشر صفر سنة ثلث وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1003,
+      "guid": "16e68fe2-c042-400f-a642-612cef65e433",
+      "startIndex": 977,
+      "text": "محمد بن موسى بن نفيس الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1082,
+      "guid": "1d5ed8ea-1426-4609-b4fe-4ccaea919762",
+      "startIndex": 1042,
+      "text": "أحمد بن عبد السلام بن أبي الفرج السهروردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 626,
+      "guid": "1e0a390b-fb84-408a-942e-3da4984ccfb3",
+      "startIndex": 617,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1274,
+      "guid": "21a2f39f-c696-4f33-9291-bd0a21f0c5f8",
+      "startIndex": 1243,
+      "text": "أحمد بن محمود بن إبراهيم التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "227e3761-ae88-4d78-966b-6ab355d4753b",
+      "startIndex": 218,
+      "text": "أبي الخطاب نصر بن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 644,
+      "guid": "3db081a6-5a2e-476e-a912-d9db12615b45",
+      "startIndex": 641,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 472,
+      "guid": "4da7c6c4-9692-4966-aff6-d9bbe6971b19",
+      "startIndex": 443,
+      "text": "أبو الفتح بن محمد بن أبي الفتح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 883,
+      "guid": "4dce674e-2e3e-4e2b-a27f-2528d26453e0",
+      "startIndex": 850,
+      "text": "النفيس بن أبي بكر بن النفيس الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 542,
+      "guid": "7103f72b-3ae4-4d86-a921-eb216a926ba8",
+      "startIndex": 533,
+      "text": "عبد الساتر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 554,
+      "guid": "780ab883-3af2-4f14-9b62-299e71015151",
+      "startIndex": 545,
+      "text": "عبد الخالق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1235,
+      "guid": "840101f7-e670-4062-8779-9ddd3a8ac166",
+      "startIndex": 1203,
+      "text": " محمد بن مودود بن جامع البندنيجي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1116,
+      "guid": "8cbb5d18-992f-46c1-a9af-ffefbb069138",
+      "startIndex": 1085,
+      "text": "عبد المجيد بن عبد العزيز المزيدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 566,
+      "guid": "8e9bb5a7-dc89-4e30-9563-e9de23d0d0ab",
+      "startIndex": 563,
+      "text": "عيسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "96ebac02-f5c6-487c-96f6-57b72310d9ab",
+      "startIndex": 84,
+      "text": "نجم الدين أبي طالب عبد اللطيف بن محمد بن علي بن القبيطي الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 839,
+      "guid": "98ad8875-8adf-4148-afaa-3ef9f3e7d738",
+      "startIndex": 805,
+      "text": "محمد بن عبد القادر بن عثمان التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 638,
+      "guid": "c1abf83b-a80d-407e-b8e8-86bdd9bd7015",
+      "startIndex": 629,
+      "text": "عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1039,
+      "guid": "c6ed552a-45df-4109-9d85-88fb227651f2",
+      "startIndex": 1006,
+      "text": "أبو الحسن بن محفوظ بن محمد البرزبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 740,
+      "guid": "c6fcfd23-7a97-4bfe-80b0-6b12fd537805",
+      "startIndex": 715,
+      "text": "رشيد بن محمد بن علي الكنجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 839,
+      "guid": "cd15eaca-49a1-4319-91ec-9bc25d9c16b5",
+      "startIndex": 790,
+      "text": "عبد القادر ابن محمد بن عبد القادر بن عثمان التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 560,
+      "guid": "cf03b401-d946-484c-b36f-407dd5285214",
+      "startIndex": 557,
+      "text": "يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 967,
+      "guid": "d0bf32da-68d0-4ebb-bff7-9fc3974e4dd0",
+      "startIndex": 929,
+      "text": "أبو البدر محمد بن غزال بن محمود الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1173,
+      "guid": "d414d1ab-53bf-4af0-9490-3ad9b8ea50d2",
+      "startIndex": 1140,
+      "text": "قيماز بن عبد الله فتا عثمان النحوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 650,
+      "guid": "d5a3454c-aa78-42da-8c93-12d1ffdb7871",
+      "startIndex": 647,
+      "text": "يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 926,
+      "guid": "d65c2fe8-bd74-4e00-81fe-3dd76c05bd4b",
+      "startIndex": 886,
+      "text": "أبو محمد عبد الله بن محمد بن عمر ابن النن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "dada805d-272b-43fa-bc9f-a724990ec57e",
+      "startIndex": 264,
+      "text": "شرف الدين أبو القاسم تميم بن العدل الرضا عز الدين أبي بكر محمد بن تميم بن البندنيجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "e0ab3951-e1bf-46bc-8258-acee7079d449",
+      "startIndex": 245,
+      "text": "أبي محمد البيع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "mustansiriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 1356,
+      "guid": "ea152431-53f1-41b6-8019-48a7bae55648",
+      "startIndex": 1336,
+      "text": "دار الحديث المستنصرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 614,
+      "guid": "f1c07996-7937-4722-a327-eba1d1d4fe0d",
+      "startIndex": 609,
+      "text": "الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 606,
+      "guid": "feeeb06d-bc2e-4cd7-95a3-6305187c1bfc",
+      "startIndex": 602,
+      "text": "الحسن",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع الجزء السابع والثامن بعده من أمالي المحاملي على الشيخ الإمام الأوحد المسند نجم الدين أبي طالب عبد اللطيف بن محمد بن علي بن القبيطي الحراني بسماعه من أبي المعالي أحمد بن عبد الغني بن حنيفة الباجسرائي بسماعه من أبي الخطاب نصر بن البطر عن أبي محمد البيع عنه شرف الدين أبو القاسم تميم بن العدل الرضا عز الدين أبي بكر محمد بن تميم بن البندنيجي وأخوه أبو الحسن علي في أواخر الرابعة من سنته أبقاهما الله تعالى وخادماهما علي بن معلى بن صالح وأبو الفتح بن محمد بن أبي الفتح وأبو الفرج أيوب بن محمود ابن نصر الله بن البعلبكي والفقهاء عبد الساتر وعبد الخالق ويحيى وعيسى بنو عبد الحميد بن محمد المقدسيون والحسن والحسين وعبد الرحمن وعبد الرحيم وأحمد ويحيى بنو عماد الدين محمد بن شيخنا شيخ الإسلام شهاب الدين السهروردي ورشيد بن محمد بن علي الكنجي وعبد العزيز بن عبد الرحمن بن أبي الفتح المقدسي وعبد القادر ابن محمد بن عبد القادر بن عثمان التميمي مع أبيه والنفيس بن أبي بكر بن النفيس الخياط وأبو محمد عبد الله بن محمد بن عمر ابن النن وأبو البدر محمد بن غزال بن محمود الواسطي الفقيه ومحمد بن موسى بن نفيس الخياط وأبو الحسن بن محفوظ بن محمد البرزبي وأحمد بن عبد السلام بن أبي الفرج السهروردي وعبد المجيد بن عبد العزيز المزيدي وسمع الجزء الثامن حسب قيماز بن عبد الله فتا عثمان النحوي وابنه محمد الإبريسمي والفقيه محمد بن مودود بن جامع البندنيجي بقراءة أحمد بن محمود بن إبراهيم التنوخي وهذا خطه في يوم الخميس سابع عشر صفر سنة ثلث وثلثين وستماية بدار الحديث المستنصرية عمرها الله تعالى ببقاء منشئها والحمد لله رب العالمين "
+}

@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن عبد العزيز بن جريج المكي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث ابن جريج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 120"
+      ],
+      "classmark": [
+        "3761/13"
+      ],
+      "folio_number": [
+        "129r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 765,
+      "guid": "0454a173-747d-4870-a1b4-c64fa19ee0f9",
+      "startIndex": 762,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 584,
+      "guid": "2efbe645-6ed3-4a6b-aab0-fa896cacebac",
+      "startIndex": 555,
+      "text": "أبو الحسن علي بن المسلم السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 522,
+      "guid": "487da286-cee9-49f1-8277-c9dde747ac33",
+      "startIndex": 453,
+      "text": " بهاء الدين أبو محمد القاسم بن الحافظ أبي القاسم علي بن الحسن بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 653,
+      "guid": "504a261e-f015-4f3c-876c-509927b8877f",
+      "startIndex": 616,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "687"
+        ]
+      },
+      "endIndex": 759,
+      "guid": "6e69f852-e4be-4cf1-830b-230f1512360c",
+      "startIndex": 717,
+      "text": "الجمعة يوم عيد الفطر سنة سبع وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 325,
+      "guid": "7f4ead5e-f274-4616-86cd-c6dce6e1accc",
+      "startIndex": 282,
+      "text": "أبو القاسم علي بن الحسن بن هبة الله بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "911a7483-550c-46a4-a55f-dc0feb97c76a",
+      "startIndex": 44,
+      "text": "شرف الدين أبي الفضل أحمد بن هبة الله بن أحمد بن محمد بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "93b7b71a-af3d-44b7-bb53-37fe39f51861",
+      "startIndex": 239,
+      "text": " أبو طاهر بركات بن إبراهيم الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 434,
+      "guid": "9495d907-cb77-4534-b7de-26f86c321099",
+      "startIndex": 389,
+      "text": "أبو الحسن محمد بن أبي جعفر أحمد بن علي القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 704,
+      "guid": "a44de8c9-ad75-48ba-8da7-83d12cf5b500",
+      "startIndex": 655,
+      "text": "محمد بن الفارس جمال الدين آقوش بن عبد الله الفارقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "bd0498ba-279e-4e4c-804f-4c89bf5bee28",
+      "startIndex": 162,
+      "text": "أبي إسحق إبراهيم بن بركات بن إبراهيم الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "e4ee5774-b802-4c0b-8f14-826c87facdc6",
+      "startIndex": 107,
+      "text": "أبي الحسن علي بن عثمان بن يحيى اللمتوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "ec505510-a84b-4614-b873-5f30834ba357",
+      "startIndex": 328,
+      "text": "أبو الثناء محمود بن غازي بن محمد البزاز",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخين الجليلين المسندين شرف الدين أبي الفضل أحمد بن هبة الله بن أحمد بن محمد بن عساكر وأبي الحسن علي بن عثمان بن يحيى اللمتوني بسماع الأول من أبي إسحق إبراهيم بن بركات بن إبراهيم الخشوعي قال اخبرنا المشايخ الثلاثة والدي أبو طاهر بركات بن إبراهيم الخشوعي والحافظ أبو القاسم علي بن الحسن بن هبة الله بن عساكر وأبو الثناء محمود بن غازي بن محمد البزاز وقال اللمتوني أخبرنا أبو الحسن محمد بن أبي جعفر أحمد بن علي القرطبي قال أخبرنا الحافظ بهاء الدين أبو محمد القاسم بن الحافظ أبي القاسم علي بن الحسن بن عساكر قالوا كلهم أخبرنا جمال الإسلام أبو الحسن علي بن المسلم السلمي بسنده أوله بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي محمد بن الفارس جمال الدين آقوش بن عبد الله الفارقي وآخرون يوم الجمعة يوم عيد الفطر سنة سبع وثمانين وستمية بدمشق حرسها الله"
+}

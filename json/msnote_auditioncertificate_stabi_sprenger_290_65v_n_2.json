@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المؤتنف تكملة المؤتلف والمختلف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 290"
+      ],
+      "folio_number": [
+        "65v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1663217491/1200/0/00000174.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011164"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "2dbb564e-c244-4bf8-83c1-1e6d025e647c",
+      "startIndex": 65,
+      "text": "أبي القاسم هبة الله بن عبد الله بن أحمد الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "karkh"
+          ]
+        ]
+      },
+      "endIndex": 314,
+      "guid": "4bb88628-3d1a-47bf-a534-bc2d93b7dadc",
+      "startIndex": 303,
+      "text": "الكرخ ببغداد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "98d58f83-26be-4260-9129-d959851bd491",
+      "startIndex": 121,
+      "text": "هبة الله بن يوسف بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "527"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "a920f660-a3ca-4c66-beb5-57dc4d219bff",
+      "startIndex": 271,
+      "text": "شوال سنة سبع وعشرين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "ba9bf9a2-eb3d-4b66-8bb8-50076e44200f",
+      "startIndex": 153,
+      "text": "يوسف بن محمد بن مقلد الدمشقي التنوخي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه وهو الجزء السادس عشر من المؤتنف [تصنيف أبي بكر الخطيب] أبي القاسم هبة الله بن عبد الله بن أحمد الواسطي، الفقيه هبة الله بن يوسف بن عمر، بقراءة يوسف بن محمد بن مقلد الدمشقي التنوخي\nStabi, Sprenger 290, 65r\nبقراءة يوسف بن محمد بن مقلد التنوخي الدمشقي وصح وثبت في شوال سنة سبع وعشرين وخمسمائة في الكرخ ببغداد."
+}

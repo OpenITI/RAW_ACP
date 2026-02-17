@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأسماء المبهمة في الأنباء المحكمة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Oct 3574"
+      ],
+      "folio_number": [
+        "57v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00019993"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "misr"
+          ]
+        ]
+      },
+      "endIndex": 680,
+      "guid": "081db296-3a27-44de-a09c-4f96818db123",
+      "startIndex": 678,
+      "text": "مصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 401,
+      "guid": "1c338289-824c-42a7-85e4-986270f3e52c",
+      "startIndex": 357,
+      "text": "أبو الحسن علي بن محمد بن علي المعافري المالقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "272ab0ab-7fbd-4a7c-bf4e-42a14e5f6384",
+      "startIndex": 300,
+      "text": "أبو علي حسن بن عبد الباقي بن أبي القاسم الصقلي المديني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 451,
+      "guid": "2f82cce3-d2fd-452b-8f9a-f2b30b640d5b",
+      "startIndex": 405,
+      "text": "أبو القاسم عبد الغني بن بقاء بن عبد الله العلاف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 611,
+      "guid": "3b932232-3be3-47a5-92e7-c3c9db6ae8b2",
+      "startIndex": 556,
+      "text": "أبو الحسين يحيى بن عقيل ابن شريف بن رفاعة بن غدير السعدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "6b158636-7c9f-464f-8b36-0c8f34247da5",
+      "startIndex": 150,
+      "text": "أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "71cb13ac-cd77-42c5-b3a3-cbecb6cbc4f2",
+      "startIndex": 24,
+      "text": "أبي القاسم عبد الرحمن بن محمد بن حسين السبيي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "578"
+        ]
+      },
+      "endIndex": 720,
+      "guid": "8a5bf355-1e83-45a0-a6f3-b211f95c560b",
+      "startIndex": 685,
+      "text": "ذي الحجة من سنة ثمان وسبعين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 675,
+      "guid": "9876b396-dc12-4eda-b10f-8e78677a972f",
+      "startIndex": 633,
+      "text": "عبد الخالق بن صالح بن علي بن رَيدَان المسكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "b224e089-8795-46de-b7f4-0975da479bd9",
+      "startIndex": 210,
+      "text": "تاج الدين أبو عبد الله محمد بن هبة الله بن مكي الحموي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 503,
+      "guid": "b3e1ae0d-5eb3-40da-9061-eda0ce86ad4a",
+      "startIndex": 455,
+      "text": "أبو محمد عبد الصمد بن داود بن محمد بن سيف الغضاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "d0efafeb-41c8-40b1-a41e-4246fc028589",
+      "startIndex": 84,
+      "text": "أبي الفتح محمد بن عبد الله المعروف بابن النخاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 552,
+      "guid": "fa6d31d9-09e6-483d-bec4-f3b5bcb9109e",
+      "startIndex": 507,
+      "text": "أبو الطاهر إسماعيل بن أبي القاسم بن درع العلاف",
+      "type": "person"
+    }
+  ],
+  "text": "سمع الجزء كله على الشيخ أبي القاسم عبد الرحمن بن محمد بن حسين السبيي بحق الإجازة من أبي الفتح محمد بن عبد الله المعروف بابن النخاس بحق سماعه من مصنفه أبي بكر رحمه الله. صاحبه القاضي الفقيه الإمام العالم الأمين تاج الدين أبو عبد الله محمد بن هبة الله بن مكي الحموي الشافعي أسعده الله، والشيوخ الفقهاء أبو علي حسن بن عبد الباقي بن أبي القاسم الصقلي المديني، وأبو الحسن علي بن محمد بن علي المعافري المالقي، وأبو القاسم عبد الغني بن بقاء بن عبد الله العلاف، وأبو محمد عبد الصمد بن داود بن محمد بن سيف الغضاري، وأبو الطاهر إسماعيل بن أبي القاسم بن درع العلاف، وأبو الحسين يحيى بن عقيل ابن شريف بن رفاعة بن غدير السعدي، وصح لهم ذلك بقراءة عبد الخالق بن صالح بن علي بن رَيدَان المسكي بمصر في ذي الحجة من سنة ثمان وسبعين وخمسمائة والحمد لله وحده وصلواته على سيدنا محمد نبيه وآله."
+}

@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن سنان القزاز البصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه حديث محمد بن سنان القزاز البصري عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 164"
+      ],
+      "classmark": [
+        "3768/10"
+      ],
+      "folio_number": [
+        "163r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "09830e3b-5ef6-40fc-9917-28bb35b1e77c",
+      "startIndex": 67,
+      "text": "موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "616"
+        ]
+      },
+      "endIndex": 386,
+      "guid": "6cb255ee-ec59-4d7c-8b1d-1aa8c5160113",
+      "startIndex": 362,
+      "text": "شعبان سنة ست عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "a97bb1a4-e2d3-4949-be6b-c9c85886670b",
+      "startIndex": 201,
+      "text": "أبو محمد عبد الرحمن بن عبد المنعم بن نعمة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "b274d04b-8b02-487b-b2ea-31f711afd7c1",
+      "startIndex": 261,
+      "text": "أبو القسم عبد الله بن الإمام أبي الحجاج يوسف بن عبد المنعم بن نعمة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "d9087320-b449-4c3c-957c-1b5f757907ff",
+      "startIndex": 136,
+      "text": "محمد بن الحسين بن أبي شجاع الشريف الحسيني البصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 428,
+      "guid": "f69675ed-04da-4b8f-878f-642206538e42",
+      "startIndex": 403,
+      "text": "جبل قاسيون بالجامع المظفري",
+      "type": "place"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم شيخ الإسلام مفتي الأنام موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي بقراءة محمد بن الحسين بن أبي شجاع الشريف الحسيني البصري وهذا خطه الإمام أبو محمد عبد الرحمن بن عبد المنعم بن نعمة المقدسي وابن أخيه أبو القسم عبد الله بن الإمام أبي الحجاج يوسف بن عبد المنعم بن نعمة المقدسي وذلك في آخرين وصح وثبت في شعبان سنة ست عشرة وستمائة وكانت القراءة بجبل قاسيون بالجامع المظفري منه والحمد لله رب العالمين وصلى الله على سيدنا محمد وآله أجمعين"
+}

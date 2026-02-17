@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمرو محمد بن أحمد بن حمدان الحيري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سؤالات أبي عمرو محمد بن أحمد بن حمدان الحيري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "155v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f163.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f163.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "0a2b09de-1ca3-4837-86a5-b4013b9a0a0c",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 92,
+      "text": "زاهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "6"
+        ],
+        "year": [
+          "690"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "135764f0-dbfb-4e28-bb66-df2bc75d183c",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 257,
+      "text": "جمادى الآخرة سنة تسعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "1beac87a-8b32-424d-b35a-bd109d3f2e7b",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 81,
+      "text": "أبي روح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "56dbba12-cd86-4ffb-bc87-09b219689d01",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 16,
+      "text": "شرف الدين أبي الفضل أحمد بن هبة الله بن أحمد بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "584b3f64-4a61-433b-bc97-bf7f4fa12fc6",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 116,
+      "text": "يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "ace1bea6-2602-4912-bb51-fddff446078b",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 162,
+      "text": "أبو الفتح محمد بن محمد بن محمد بن سيد الناس اليعمري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "c720f461-40e0-4903-9774-969f08515df1",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": "عبد الرحمن ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "fb5f9cb2-11e4-4782-a08a-8298c5eddabb",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 215,
+      "text": "أحمد بن سالم بن أبي الهيجا خضر الأذرعي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الشيخ شرف الدين أبي الفضل أحمد بن هبة الله بن أحمد بن عساكر بإجازته من أبي روح عن زاهر بقراءة كاتب السماع يوسف المزي ابنه عبد الرحمن حاضرًا في الثالثة وأبو الفتح محمد بن محمد بن محمد بن سيد الناس اليعمري وأحمد بن سالم بن أبي الهيجا خضر الأذرعي في جمادى الآخرة سنة تسعين وستمئة"
+}

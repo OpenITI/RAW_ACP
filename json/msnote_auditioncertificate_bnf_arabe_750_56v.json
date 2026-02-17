@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن عبد الله الظاهري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مشيخة ابن البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 750"
+      ],
+      "folio_number": [
+        "56v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f59.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f59.image.r=%22Arabe%20750%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+      },
+      "endIndex": 227,
+      "guid": "424a4142-7764-4e2c-acbe-184fb34b711f",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 187,
+      "text": "محمود بن علي بن عبد العزيز بن محمد الهندي",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "429e0e79-0d9b-432b-a382-d5cf1f23bbee",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 55,
+      "text": "محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "837"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "6a2f3f2a-7158-436e-b930-16451288bb00",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 64,
+      "text": "رابع عشر جماد[ى] آخر سنة سبعة وثلاثين وثمانماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "ec1a0370-6270-4fa5-a74f-2e7ad391429e",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 18,
+      "text": "علي بن محمود بن علي الهندي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ مقابلة وقراءة علي بن محمود بن علي الهندي على والده محمود في رابع عشر جماد[ى] آخر سنة سبعة وثلاثين وثمانماية وأجزت له أن يروي عني ما يجوز لي وعني روايته بشرطه عند أهله في تاريخه وكتبه محمود بن علي بن عبد العزيز بن محمد الهندي"
+}

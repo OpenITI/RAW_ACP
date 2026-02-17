@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مسلم بن الحجاج القشيري النيسابوري"
+      ],
+      "work_title": [
+        "حديث من صحيح مسلم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 19"
+      ],
+      "classmark": [
+        "3739/8"
+      ],
+      "folio_number": [
+        "77r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "4f74b1d0-b142-4bf0-8dbc-1a6675d5b6ec",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 42,
+      "text": "زين الدين بن الحبال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "f41105e1-e31e-4dcb-98ba-c98506dc8dbc",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 65,
+      "text": "ابن ناصر الدين",
+      "type": "person"
+    }
+  ],
+  "text": " وقرأته أيضا في صحيح مسلم على شيخنا الشيخ زين الدين بن الحبال عن ابن ناصر الدين وغيره"
+}

@@ -1,0 +1,391 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبد الملك بن محمد بن عبد الله بن بشران الزاهد البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن بشران"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 154"
+      ],
+      "classmark": [
+        "3766"
+      ],
+      "folio_number": [
+        "49v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 448,
+      "guid": "0459a076-1156-4627-b0c3-86a39319938e",
+      "startIndex": 397,
+      "text": " شمس الدين أبي عبد الله محمد بن خليل بن محمد المنصفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 800,
+      "guid": "0f3b0d4e-f88d-4634-88dd-404afeec7fbd",
+      "startIndex": 775,
+      "text": "حسن بن علي بن عمر الأسعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 641,
+      "guid": "12f55784-e88b-418a-ace4-348f45fed480",
+      "startIndex": 604,
+      "text": "شمس الدين محمد بن أحمد بن بلال المفعلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "izz_mosque"
+          ]
+        ]
+      },
+      "endIndex": 906,
+      "guid": "138e6f50-5390-4909-b082-dafdc7e48d5e",
+      "startIndex": 876,
+      "text": "مسجد عز الدين بقاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 703,
+      "guid": "166bf5df-d323-4a93-a9d8-66e6f9af309d",
+      "startIndex": 674,
+      "text": "عمر بن إبراهيم بن سلامة الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 294,
+      "guid": "1e0e9788-6ef0-42ec-83c8-d8a3ab12b355",
+      "startIndex": 271,
+      "text": "تقي الدين سليمان بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "2520fa5d-c53c-4d75-a5f8-b9652e9d247f",
+      "startIndex": 83,
+      "text": "ناصر الدين أبي عبد الله محمد بن عز الدين محمد بن داود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 671,
+      "guid": "4b5341c3-07de-40e9-9f80-95be5f52c139",
+      "startIndex": 644,
+      "text": "محمد بن محمد بن يوسف الحجيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 549,
+      "guid": "5f68e7ea-5a54-4936-ac82-d9d763950466",
+      "startIndex": 505,
+      "text": "محمد بن السيف أحمد بن محمد بن أحمد بن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 492,
+      "guid": "65563035-4bde-4ede-8ff4-6682e409e55d",
+      "startIndex": 460,
+      "text": " محمد بن خليل بن أحمد الطحان أبوه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 503,
+      "guid": "79604dc5-eae4-4d74-ab5d-690bcc852c32",
+      "startIndex": 500,
+      "text": "عمر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 601,
+      "guid": "7acd09a6-35c4-43e3-81d4-06eef5885223",
+      "startIndex": 588,
+      "text": "شمس الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "791"
+        ]
+      },
+      "endIndex": 873,
+      "guid": "ab088c0a-4f84-45e3-a8e8-a6841a8c203a",
+      "startIndex": 825,
+      "text": "الاثنين تاسع عشرين رمضان سنة إحدى وتسعين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 333,
+      "guid": "b7b6a670-f983-4979-be85-3b0e9163851f",
+      "startIndex": 297,
+      "text": "أبي زكريا يحيى بن محمد بن سعد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "d544e4ea-a475-43c5-a155-14dc882fb866",
+      "startIndex": 138,
+      "text": "شمس الدين أبي عبد الله محمد بن الرشيد عبد الرحمن بن [بن سيف الدين محمد بن أحمد بن عمر] المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 370,
+      "guid": "d61700f4-7c02-4dc5-8e3f-601e8399e468",
+      "startIndex": 366,
+      "text": "جعفر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 580,
+      "guid": "e917b5ea-d58e-461f-8409-a0769f444250",
+      "startIndex": 552,
+      "text": "زيد بن غيث بن سليمان العجلوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 772,
+      "guid": "f7649dbe-951b-4322-a9cd-64faa70bbff9",
+      "startIndex": 706,
+      "text": "محمد بن الخطيب عز الدين محمد بن الخطيب شمس الدين عبد الرحمن المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو الحادي والعشرين من البشرانيات على الشيخين المسندين المعمرين ناصر الدين أبي عبد الله محمد بن عز الدين محمد بن داود وشمس الدين أبي عبد الله محمد بن الرشيد عبد الرحمن بن [بن سيف الدين محمد بن أحمد بن عمر] المقدسيين بإجازتهما إن لم يكن سماعا من القاضي تقي الدين سليمان بن حمزة وأبي زكريا يحيى بن محمد بن سعد المقدسيين بسماع الأول وإجازة الثاني من جعفر بسنده بقراءة الإمام العالم شمس الدين أبي عبد الله محمد بن خليل بن محمد المنصفي جماعة منهم محمد بن خليل بن أحمد الطحان أبوه وأخوه عمر ومحمد بن السيف أحمد بن محمد بن أحمد بن أبي عمر وزيد بن غيث بن سليمان العجلوني وأخوه شمس الدين محمد وشمس الدين محمد بن أحمد بن بلال المفعلي ومحمد بن محمد بن يوسف الحجيني وعمر بن إبراهيم بن سلامة الخياط ومحمد بن الخطيب عز الدين محمد بن الخطيب شمس الدين عبد الرحمن المقدسي وحسن بن علي بن عمر الأسعردي وذا خطه وصح ذلك في يوم الاثنين تاسع عشرين رمضان سنة إحدى وتسعين وسبعمائة بمسجد عز الدين بقاسيون ظاهر دمشق وأجاز ولله الحمد"
+}

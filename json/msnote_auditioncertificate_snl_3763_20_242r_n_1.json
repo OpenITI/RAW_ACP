@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يحيى بن إبراهيم بن أحمد بن محمد السلماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر السلماسي عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 134"
+      ],
+      "classmark": [
+        "3763/20"
+      ],
+      "folio_number": [
+        "242r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "0d69d7bb-8e4d-480e-9051-f1839ee29149",
+      "startIndex": 68,
+      "text": "أبي عبد الله محمود بن مقاتل بن عبد المحسن بن مكي الحمصي الأصل ثم الحموي النساج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "1bd0cbae-ec30-4107-8637-22a705c1ca8b",
+      "startIndex": 156,
+      "text": " ابن الزين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 442,
+      "guid": "218eefb1-3add-48d7-9388-5779ca1b04f7",
+      "startIndex": 411,
+      "text": "باب منزل المسمع بالعقيبة من دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "4953fbbb-574e-4224-9c82-1dfdb6fdb49d",
+      "startIndex": 238,
+      "text": "جلال الدين محمد بن يعقوب بن علي [التروخالي]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "723"
+        ]
+      },
+      "endIndex": 405,
+      "guid": "780df922-eefe-46e5-9050-e2acba8ad7f7",
+      "startIndex": 338,
+      "text": " الجمعة السادس والعشرين من شهر جمادى الآخرة سنة ثلاث وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 317,
+      "guid": "8ae14a42-683e-49e2-9b21-3d4379d6a70e",
+      "startIndex": 283,
+      "text": "محمد بن يحيى بن محمد بن سعد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "a22eded4-0666-4204-a4e3-d647723737ce",
+      "startIndex": 188,
+      "text": "ناصر الدين أبي عبد الله محمد بن طغريل ابن الصيرفي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع من هذا الجزء من أوله إلى قوله قرين العدم على الشيخ الأجل المعمر أبي عبد الله محمود بن مقاتل بن عبد المحسن بن مكي الحمصي الأصل ثم الحموي النساج بسماعه من ابن الزين بقراءة المحدث المفيد ناصر الدين أبي عبد الله محمد بن طغريل ابن الصيرفي جلال الدين محمد بن يعقوب بن علي [التروخالي] ومحمد بن يحيى بن محمد بن سعد المقدسي وهذا خطه وصح في يوم الجمعة السادس والعشرين من شهر جمادى الآخرة سنة ثلاث وعشرين وسبعماية على باب منزل المسمع بالعقيبة من دمشق وأجاز لنا ما يجوز له روايته "
+}

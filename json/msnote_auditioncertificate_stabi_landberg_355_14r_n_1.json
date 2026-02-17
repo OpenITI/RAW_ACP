@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الكفاية في معرفة اصول علم الرواية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 355"
+      ],
+      "folio_number": [
+        "14r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007012"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "4552f8c3-1fc9-44c6-8a74-6bb7e805a8ce",
+      "startIndex": 98,
+      "text": "الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "6b754695-72df-4082-ae7a-607a5b2f2196",
+      "startIndex": 244,
+      "text": "علي بن يحيى بن الطراح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 337,
+      "guid": "b71da396-7f9d-441b-9ed2-bb7ad164567f",
+      "startIndex": 277,
+      "text": "صحيح وكتب يحيى بن علي بن محمد بن الطراح في التاريخ والمنة لله",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "b8655d7c-cdc5-489b-99c2-92a0739b3a2e",
+      "startIndex": 128,
+      "text": "ست الكتبة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "530"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "cc7b7730-a5f3-4548-852d-f3c59de350f1",
+      "startIndex": 209,
+      "text": "رمضان من سنة ثلاثين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "d6c62993-2aa1-4ff3-bed6-d023c451c68f",
+      "startIndex": 121,
+      "text": "عزيزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "d71b5496-adf7-45eb-a351-0f57bd4b8d6f",
+      "startIndex": 162,
+      "text": "صلف بنت أبي نصر محمد بن علي بن الطراح ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "f0ac3018-c83c-4411-a954-a3c3a79a0e9c",
+      "startIndex": 53,
+      "text": "أبي محمد يحيى بن علي بن الطراح",
+      "type": "person"
+    }
+  ],
+  "text": "في الأصل: قرأت جميع هذا الجزء على والدي الشيخ الجليل أبي محمد يحيى بن علي بن الطراح بحق إجازته من الخطيب فسمع ذلك ابنتاي عزيزة وست الكتبة وأمهما المباركة المدعوة صلف بنت أبي نصر محمد بن علي بن الطراح وذلك شهر رمضان من سنة ثلاثين وخمس مائة وكتب علي بن يحيى بن الطراح. وتحته هذا صحيح وكتب يحيى بن علي بن محمد بن الطراح في التاريخ والمنة لله."
+}

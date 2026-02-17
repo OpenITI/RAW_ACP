@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن المفرج بن عبد الرحمن الصقلي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حكايات وأخبار حسان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 150"
+      ],
+      "classmark": [
+        "3765/16"
+      ],
+      "folio_number": [
+        "163r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "22178e16-b7d2-4a9e-aa1c-46d31060470e",
+      "startIndex": 19,
+      "text": "أبي حفص عمر بن محمد بن معمر بن طبرزد البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "cabfb059-94f2-4a85-964f-b2b42e7d0823"
+        ],
+        "role": [
+          "owner",
+          "sami"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "3a9c4802-3cce-4018-837a-2e8c22c4e0aa",
+      "startIndex": 165,
+      "text": " شمس الدين أبو القاسم الخضر بن الحسين بن الخضر بن عبدان الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 532,
+      "guid": "40c5faf3-31fc-451f-9a95-b24d95ccfaab",
+      "startIndex": 501,
+      "text": "يحيى بن محمد بن إبراهيم البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "51a89d02-05b0-4784-bb27-5f31e7a762a7",
+      "startIndex": 93,
+      "text": "أبي بكر الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 596,
+      "guid": "5dd392a1-0d5b-4cd4-b674-5f815948990e",
+      "startIndex": 593,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 447,
+      "guid": "66152168-2516-4af1-b1ee-5ae1f1910d21",
+      "startIndex": 406,
+      "text": "أبو إسحق إبراهيم بن محمد بن أبي بكر القفصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "693fcb03-3920-4804-8770-e01f8c503ee9",
+      "startIndex": 120,
+      "text": "الصقلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 482,
+      "guid": "7a4f005c-98e2-448d-bd9e-ce6ce409afa3",
+      "startIndex": 450,
+      "text": "يوسف بن أبي الفرج بن مهذب الفامي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 498,
+      "guid": "7ce754d8-eab2-4b03-80e2-7b3f9bd63b89",
+      "startIndex": 488,
+      "text": " عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 321,
+      "guid": "c0fef50d-c1ed-4a3b-983a-cef38819c2ec",
+      "startIndex": 273,
+      "text": "علي بن القاسم بن علي بن الحسن بن هبة الله الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "604"
+        ]
+      },
+      "endIndex": 590,
+      "guid": "c6be6828-9326-4e79-ae77-8ae6cec5a36c",
+      "startIndex": 541,
+      "text": "الرابع والعشرين من شهر ربيع الأول سنة أربع وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "d6959672-3726-4aee-a82c-0f27db4bc025",
+      "startIndex": 355,
+      "text": "القاسم بن علي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه من الشيخ أبي حفص عمر بن محمد بن معمر بن طبرزد البغدادي أثابه الله بسماعه من القاضي أبي بكر الأنصاري بسماعه من الصقلي صاحبه الشيخ الإمام العالم الفاضل الثقة شمس الدين أبو القاسم الخضر بن الحسين بن الخضر بن عبدان الأزدي نفعه الله وإيانا بالعلم بقراءة راجي عفو الله علي بن القاسم بن علي بن الحسن بن هبة الله الدمشقي عفا الله عنه وهذا خطه وحضر ولده القاسم بن علي جبره الله وهو في الرابعة وسمع الفقيه أبو إسحق إبراهيم بن محمد بن أبي بكر القفصي ويوسف بن أبي الفرج بن مهذب الفامي وابنه عبد العزيز ويحيى بن محمد بن إبراهيم البغدادي وصح في الرابع والعشرين من شهر ربيع الأول سنة أربع وستمائة بدمشق المحروسة نقلت هذه الطبقة إلى هذه النسخة في سنة عشر وستمائة وصح ولله الحمد"
+}

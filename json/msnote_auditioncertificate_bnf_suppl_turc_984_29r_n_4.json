@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "29r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.item.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "149e57d4-bc8c-48d2-a5e2-23330ac11a59",
+      "index": 422,
+      "isZeroPoint": false,
+      "startIndex": 110,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "3e78931a-771d-45e5-8135-9d0132f2a61a",
+      "index": 420,
+      "isZeroPoint": false,
+      "startIndex": 25,
+      "text": "محمد بن جمال الدين أحمد بن محمود الهندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "671"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "86a25f94-7f4a-4ac4-971f-7b034c45db02",
+      "index": 423,
+      "isZeroPoint": false,
+      "startIndex": 129,
+      "text": "منتصف صفر سنة إحدى وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 23,
+      "guid": "bf23fa79-cf37-4913-b9a5-36564589599b",
+      "index": 419,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "ابن فرج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "f28dd1f0-d557-4a60-ba54-002e93f17de4",
+      "index": 421,
+      "isZeroPoint": false,
+      "startIndex": 66,
+      "text": "مكي بن محسن بن مكي بن أبي بكر الشاطبي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة ابن فرج محمد بن جمال الدين أحمد بن محمود الهندي ومكي بن محسن بن مكي بن أبي بكر الشاطبي وابنه محمد في الرابعة في منتصف صفر سنة إحدى وسبعين وستمائة بالكلاسة."
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "127v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "3431f125-b7cf-49eb-9115-f9f33b53dc3f",
+      "startIndex": 184,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "4b76cc6c-a050-43fc-983c-e4cb95d9907d",
+      "startIndex": 128,
+      "text": "أبي بكر محمد بن عمر الوراق الشريف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "4"
+        ],
+        "year": [
+          "594"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "5fa75823-5522-4fb1-8ad4-4574b65c0707",
+      "startIndex": 260,
+      "text": " ربيع الآخر سنة أربع وتسعين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "8a4bbe93-830c-43fd-99cd-bf57396dcd4a",
+      "startIndex": 162,
+      "text": "أبو تمام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "db03542a-fadd-4f28-89ce-1f09636bf796",
+      "startIndex": 190,
+      "text": "محمد",
+      "type": "person"
+    }
+  ],
+  "text": "شاهدت بخط شيخنا السيد الأجل علاء الدين شاهدت على كتاب البعث بخط ابن الجوهري رحمه الله ما صورته مختصرا بلغ من أول الجزء سماعا من أبي بكر محمد بن عمر الوراق الشريف أبو تمام وإخوته [كذا] محمد ومحمد ابنا نقيب النقباء أبي الحسن محمد بن علي الزينبي الهاشمي وجماعة في ربيع الآخر سنة أربع وتسعين وخمسمائة"
+}

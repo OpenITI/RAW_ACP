@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الحسن علي بن محمد بن أحمد بن ميلة"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء فيه أربعة مجالس من أمالي أبي الحسن علي بن محمد بن أحمد بن ميلة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "250r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f258.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f258.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27- 30"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "572"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "5a0d9def-9c58-4774-b591-557ddb07eebc",
+      "index": 84,
+      "isZeroPoint": false,
+      "startIndex": 249,
+      "text": " آخر رجب سنة اثنتين وسبعين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 326,
+      "guid": "7eb6dd65-5590-46ee-9675-d9bb88df8126",
+      "index": 85,
+      "isZeroPoint": false,
+      "startIndex": 290,
+      "text": "عبد الحق بن عبد العلي بن علي الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 496,
+      "guid": "8886d593-3ee4-461b-9e20-adfe7b826cf3",
+      "index": 86,
+      "isZeroPoint": false,
+      "startIndex": 388,
+      "text": "صحيح كتبه حماد بن هبة الله بن حماد الحراني بخطه في التاريخ المذكور والحمد لله وحده وصلواته على محمد وآله وسلم",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "c5717442-c8fc-42f5-9d18-68c866f259f5",
+      "index": 82,
+      "isZeroPoint": false,
+      "startIndex": 159,
+      "text": "أبي عبد الله محمد بن الفقيه أبي الحسن علي بن عثمان بن أحمد المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "cdc7d987-93b9-4499-a9d4-aca0bdfddcae",
+      "index": 81,
+      "isZeroPoint": false,
+      "startIndex": 58,
+      "text": "أبي الثناء حماد بن هبة الله بن حماد الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "alexandria"
+          ]
+        ]
+      },
+      "endIndex": 245,
+      "guid": "f05a8ca0-9304-45c0-b26c-e288e87a0db7",
+      "index": 83,
+      "isZeroPoint": false,
+      "startIndex": 236,
+      "text": "الإسكندرية",
+      "type": "place"
+    }
+  ],
+  "text": "قرأت على سيدنا الشيخ الفقيه الإمام رضي الدين ثقة المحدثين أبي الثناء حماد بن هبة الله بن حماد الحراني وفقه الله تعالى جميع هذا الجزؤ وسمع بقراءتي الفقيه الأجل أبي عبد الله محمد بن الفقيه أبي الحسن علي بن عثمان بن أحمد المالكي وصح وذلك بالإسكندرية في آخر رجب سنة اثنتين وسبعين وخمسمائة وكتب عبد الحق بن عبد العلي بن علي الأنصاري بخطه والحمد لله وحده وصلواته على سيدنا محمد وآله وصحبه\nيتبع صحيح كتبه حماد بن هبة الله بن حماد الحراني بخطه في التاريخ المذكور والحمد لله وحده وصلواته على محمد وآله وسلم."
+}

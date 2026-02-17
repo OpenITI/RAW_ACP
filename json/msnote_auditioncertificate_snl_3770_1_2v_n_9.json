@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضل بن أحمد بن محمد الفراوي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "العوالي المائة من مسموعات الفراوي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 9"
+      ],
+      "catalog": [
+        "FMMU 172"
+      ],
+      "classmark": [
+        "3770/1"
+      ],
+      "folio_number": [
+        "2v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 232,
+      "guid": "0cfd178e-dbd5-4aff-ab8a-89a5ca6b6b72",
+      "startIndex": 228,
+      "text": "الجبل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "0de72dac-f3da-4a4a-b56d-1f156d3b5e1e",
+      "startIndex": 49,
+      "text": "محمد بن إسماعيل بن محمد بن عبد الغني القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "135dd189-ade5-4deb-9d88-7e649685782d",
+      "startIndex": 183,
+      "text": "السبت مستهل ذي القعدة سنة ثلاث وستين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "3975c3d9-a8c3-48b4-a31b-49fb5fbf0b63",
+      "startIndex": 146,
+      "text": "سالم بن علي بن عبد الله الاعزاز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "427288b4-9ed5-4204-b519-f1f38a06291d",
+      "startIndex": 94,
+      "text": "صالح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "9b64c7fd-6bcb-4cc3-bba2-6e981ba6fd88",
+      "startIndex": 100,
+      "text": "داود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "f0cce0d8-91e5-438c-8bb7-f2fec909615a",
+      "startIndex": 19,
+      "text": "رشيد الدين رشيد بن كامل الرقي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها عليه بقراءة رشيد الدين رشيد بن كامل الرقي محمد بن إسماعيل بن محمد بن عبد الغني القرشي وصالح وداود ابنا محمد بن عربشاه بن أبي بكر الهمداني وسالم بن علي بن عبد الله الاعزازي يوم السبت مستهل ذي القعدة سنة ثلاث وستين وستمئة بالجبل"
+}

@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن عبد الباقي بن أبي القاسم بن الباجي الصقلي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي علي الصقلي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 116"
+      ],
+      "classmark": [
+        "3761/3"
+      ],
+      "folio_number": [
+        "18r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "02ce02e6-7efb-4f9e-ae97-21234d746d8c",
+      "startIndex": 95,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "065e8562-e0d0-4cda-a38a-b120f21e65fa",
+      "startIndex": 74,
+      "text": "عبد الرحمن بن مكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "0f1469f3-0bdb-4a96-9453-cb38e3913537",
+      "startIndex": 10,
+      "text": "أم عبد الله زينب ابنة أبي العباس أحمد بن عبد الرحيم الكمالية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20-30"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "733"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "71f95296-66e2-4a08-880a-18b649c2aa7e",
+      "startIndex": 121,
+      "text": "أواخر شوال سنة ثلاث وثلاثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "d9cb110d-a486-45d9-bb43-09c7733c60cb",
+      "startIndex": 162,
+      "text": "محمد بن المحب عبد الله المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته على أم عبد الله زينب ابنة أبي العباس أحمد بن عبد الرحيم الكمالية عن عبد الرحمن بن مكي عن السلفي إن لم يكن سماعا في أواخر شوال سنة ثلاث وثلاثين وسبعمية كتبه محمد بن المحب عبد الله المقدسي"
+}

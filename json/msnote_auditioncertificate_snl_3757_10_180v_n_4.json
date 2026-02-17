@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "آدم بن أبي إياس العسقلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث آدم بن أبي إياس العسقلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/10"
+      ],
+      "folio_number": [
+        "180v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 410,
+      "guid": "15da3137-8491-4b5c-9bcf-83383484d4b0",
+      "startIndex": 373,
+      "text": "عبد الرحمن بن بدران [بن؟] بدران الجيتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 475,
+      "guid": "35817e21-5213-44a9-bef2-9b8f5ab6353d",
+      "startIndex": 419,
+      "text": "أحمد بن عيسى بن عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "3794073e-7e59-4156-bf88-cd27cdf3a354",
+      "startIndex": 25,
+      "text": " أبي عبد الله محمد بن طرخان بن أبي الحسن الدمشقي الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 370,
+      "guid": "3aac508b-f04e-4233-8657-71ab269df480",
+      "startIndex": 340,
+      "text": "محمود بن موسى بن حسين التركماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "42d7781c-e4ed-4c3b-b012-f851aa036bfa",
+      "startIndex": 180,
+      "text": "يوسف ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "632"
+        ]
+      },
+      "endIndex": 526,
+      "guid": "6a0d1789-23c9-4df6-9ee1-99c1786fcf67",
+      "startIndex": 482,
+      "text": "تاسع عشر من شعبان من سنة اثنتي وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "920e6e51-0427-46c7-a187-776bcd490012",
+      "startIndex": 122,
+      "text": "أبي عبد الله محمد بن يوسف بن محمد البرزالي الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "b375aed3-5098-4adf-a066-aac0087fe7b2",
+      "startIndex": 261,
+      "text": "الحكيم أبو الحسن علي بن مهدي اللمطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "b5ed694e-0626-4cfa-9c33-78e2f526e98d",
+      "startIndex": 186,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "bccc2958-394d-4833-be46-ec766fd7fe0a",
+      "startIndex": 207,
+      "text": "أبو المظفر منصور بن سليم بن منصور الهمذاني الاسكندري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "c5565fdd-99b9-450d-9cc4-aebfcb0fb0c4",
+      "startIndex": 96,
+      "text": "يحيى الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 335,
+      "guid": "eb129cc6-ddd0-450f-a2e3-0626164a55d3",
+      "startIndex": 298,
+      "text": "محمد بن أحمد بن عيسى الأنصاري الميورقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 559,
+      "guid": "efea8819-8918-44c7-90e7-7554430e44aa",
+      "startIndex": 529,
+      "text": "المسجد العتيق من سفح جبل قاسيون",
+      "type": "place"
+    }
+  ],
+  "text": "سمع جميعه من الشيخ الإمام أبي عبد الله محمد بن طرخان بن أبي الحسن الدمشقي الصالحي بسماعه فيه من يحيى الثقفي بقراءة الحافظ أبي عبد الله محمد بن يوسف بن محمد البرزالي الإشبيلي ابناه يوسف وأحمد وهو في الخامسة وأبو المظفر منصور بن سليم بن منصور الهمذاني الاسكندري والحكيم أبو الحسن علي بن مهدي اللمطي ومحمد بن أحمد بن عيسى الأنصاري الميورقيان ومحمود بن موسى بن حسين التركماني وعبد الرحمن بن بدران [بن؟] بدران الجيتي ومثبته أحمد بن عيسى بن عبد الله بن أحمد بن محمد بن قدامة المقدسيان في تاسع عشر من شعبان من سنة اثنتي وثلثين وستماية بالمسجد العتيق من سفح جبل قاسيون بمنازل الصالحين والحمد لله حق حمده وصلواته على سيدنا محمد النبي المصطفى وآله وسلامه وحسبنا الله ونعم الوكيل "
+}

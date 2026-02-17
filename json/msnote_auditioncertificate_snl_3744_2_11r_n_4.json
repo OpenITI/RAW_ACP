@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسن بن هبة الله الشافعي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "التوبة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 33"
+      ],
+      "classmark": [
+        "3744/2"
+      ],
+      "folio_number": [
+        "11r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 21,
+      "guid": "2d16739f-f12b-4c8d-9df0-dd8f2b98d0d9",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 15,
+      "text": "أبي نصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "42b2efca-0758-4ac1-9ff9-c32933300899",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 125,
+      "text": "محمد بن عبد الله [بن أحمد بن] المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "89fef42b-47ec-4fce-94c4-f01879fee752",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 23,
+      "text": "شهاب الدين أحمد بن سليمان بن أحمد بن أبي سليمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "784"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "9a7eead4-b3b1-4ae0-95eb-cb9b50c6961a",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 74,
+      "text": "ثامن عشري ربيع الآخر سنة أربع وثمانين وسبعمية",
+      "type": "date"
+    }
+  ],
+  "text": " قرأه عليَّ عن أبي نصر شهاب الدين أحمد بن سليمان بن أحمد بن أبي سليمان في ثامن عشري ربيع الآخر سنة أربع وثمانين وسبعمية كتبه محمد بن عبد الله [بن أحمد بن] المحب والحمد لله"
+}

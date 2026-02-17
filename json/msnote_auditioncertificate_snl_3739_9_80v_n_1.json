@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد الأصبهاني السلفي"
+      ],
+      "work_title": [
+        "حديث المصافحة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 19"
+      ],
+      "classmark": [
+        "3739/9"
+      ],
+      "folio_number": [
+        "80v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "2e1e351f-3476-49d9-8924-1ea01025618f",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 197,
+      "text": "أبو الفضل عبد المحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "36bb36d3-4bb3-44b4-be4d-def7ecc9f74e",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 240,
+      "text": "علاء الدين أبو الحسن علي بن إبراهيم بن داود بن العطار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 399,
+      "guid": "535f728f-f300-4a45-b222-f205a47debad",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 373,
+      "text": "دار السنة النورية داخل دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "59296d50-fbd9-4ce0-af58-0056df6ec799",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 55,
+      "text": "شهاب الدين أبي العباس أحمد بن شيخنا الإمام العالم الحافظ جمال الدين أبي حامد محمد بن علي بن محمود الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "94cf98a8-2061-44b7-a781-3b4c323ddd88",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 178,
+      "text": "السخاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 454,
+      "guid": "afc76ce3-56dc-47fb-a791-bd6fc4b57523",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 417,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "677"
+        ]
+      },
+      "endIndex": 370,
+      "guid": "e1c14718-5b8c-4d1c-94c5-eab071205ab1",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 303,
+      "text": "الاثنين المسفر صباحها عن تاسع عشر جمادى الآخرة سنة سبع وسبعين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": " قرأت حديث المصافحة هذا على شيخنا الإمام الجليل الأصيل شهاب الدين أبي العباس أحمد بن شيخنا الإمام العالم الحافظ جمال الدين أبي حامد محمد بن علي بن محمود الصابوني بشرطه بسماعه من السخاوي فسمعه ابنه أبو الفضل عبد المحسن والإمام العالم الفاضل علاء الدين أبو الحسن علي بن إبراهيم بن داود بن العطار وصح ليلة الاثنين المسفر صباحها عن تاسع عشر جمادى الآخرة سنة سبع وسبعين وستمية بدار السنة النورية داخل دمشق حرسها الله وكتب يوسف بن الزكي عبد الرحمن بن يوسف المزي عفا الله عنه والحمد لله"
+}

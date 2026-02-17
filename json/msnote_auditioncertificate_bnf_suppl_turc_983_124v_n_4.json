@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "جزء من الموافقات في مشايخ أبي داود والترمذي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "124v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f128.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f128.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 248,
+      "guid": "339dcf64-91e8-4623-87f9-cbff447844c5",
+      "index": 185,
+      "isZeroPoint": false,
+      "startIndex": 232,
+      "text": "منزل الشيخ المسمع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "944c2efc-938d-4a06-a179-04423766f566",
+      "index": 183,
+      "isZeroPoint": false,
+      "startIndex": 144,
+      "text": "محمد بن عبد الرحمن بن سلمان البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "638"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "d300b2e1-b0ea-4ec8-b30a-0f0fa5ad18d5",
+      "index": 184,
+      "isZeroPoint": false,
+      "startIndex": 183,
+      "text": " يوم الأحد رابع عشر صفر سنة ثمان وثلاثين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "e71bd044-17f0-4ed4-893a-171ab5dae969",
+      "index": 182,
+      "isZeroPoint": false,
+      "startIndex": 51,
+      "text": "ضياء الدين بقية الأئمة أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم الحافظ ضياء الدين بقية الأئمة أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي أبقاه الله تعالى وكتب محمد بن عبد الرحمن بن سلمان البغدادي في يوم الأحد رابع عشر صفر سنة ثمان وثلاثين وستمية بمنزل الشيخ المسمع"
+}

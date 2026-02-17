@@ -1,0 +1,349 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر أحمد بن مروان الدينوري المالكي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب المجالسة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 3481"
+      ],
+      "folio_number": [
+        "262r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110029593/f263.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110029593/f263.item.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 467,
+      "guid": "133c7657-f130-4f97-a018-c35d71b2eb62",
+      "startIndex": 410,
+      "text": "أبو المكارم عبد الله بن أحمد بن عبد الرحمن بن سلمان القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 735,
+      "guid": "1a9cf75a-9660-4432-9b3a-4b8a7bfd3309",
+      "startIndex": 718,
+      "text": "علي بن عقيل بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 945,
+      "guid": "372950b2-4de6-4b0f-bd1a-c92230a715d2",
+      "startIndex": 876,
+      "text": "الأمر على ما ذكر وكتب عبد الله بن عبد الرحمن بن صابر السلمي في التاريخ",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 833,
+      "guid": "3a583133-cbc9-44be-b588-8b0eca8485cc",
+      "startIndex": 825,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "571"
+        ]
+      },
+      "endIndex": 822,
+      "guid": "48700afb-8ecd-4809-a735-c545bab3706c",
+      "startIndex": 766,
+      "text": " في يوم السبت رابع عشر شهر رمضان سنة إحدى وسبعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 400,
+      "guid": "60b80e73-2e8f-4cd2-8437-a58660f121b4",
+      "startIndex": 362,
+      "text": "أبي محمد عبد القادر بن عبد الله الرهاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 329,
+      "guid": "8049a444-9a5b-4760-b3f6-c431b0670bb3",
+      "startIndex": 324,
+      "text": "النسيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 697,
+      "guid": "8748c069-83c7-42c1-b18f-dc82e3d9eb0d",
+      "startIndex": 626,
+      "text": "أبو عبد الله الحسن بن علي بن عقيل بن علي بن هبة الله [الثعلبي/ التغلبي؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 511,
+      "guid": "89e4f159-cb5d-4d52-b091-a56cb12833f0",
+      "startIndex": 470,
+      "text": "أبو محمد عبد الكريم بن محمد بن مجلي الزراد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 761,
+      "guid": "8b0a0aa0-fa92-4ebb-88a7-a63e91884ade",
+      "startIndex": 744,
+      "text": "مسعود بن عبد الله ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 623,
+      "guid": "8c5ae684-17b6-4f62-b8e2-8cfdbefa3134",
+      "startIndex": 605,
+      "text": "أحمد بن عسكر الحموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 602,
+      "guid": "92784957-ecc6-45ab-bf6e-19be5fec792a",
+      "startIndex": 578,
+      "text": "عبد الخالق بن حسن بن هياج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 993,
+      "guid": "93ad916c-114c-46fb-b57d-27cd237c643e",
+      "startIndex": 964,
+      "text": "محمود بن أيوب بن سعد الشهرزوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 541,
+      "guid": "9d1fb3be-6fab-45c1-9cef-950b80767d33",
+      "startIndex": 514,
+      "text": "عبد الرحيم بن الحسين الخلاطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 575,
+      "guid": "b7bd6168-d34c-4ea7-82d4-91c1bbadfe89",
+      "startIndex": 544,
+      "text": "علي بن أحمد بن أبي القاسم الصقلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 290,
+      "guid": "bfeb1006-f8c1-4df5-bdc0-c77f0e208f88",
+      "startIndex": 233,
+      "text": " أبي المعالي عبد الله بن عبد الرحمن بن أحمد بن صابر السلمي",
+      "type": "person"
+    }
+  ],
+  "text": "شاهدت في أصل سماع شيخنا الإمام العالم الحافظ الأجل جمال الدين أبي محمد عبد القادر بن عبد الله الرهاوي الذي نقلت منه هذه النسخة وهذا الجزء النصف الثاني من الجزء الرابع والعشرين من الأصل ما صورته هذه سمع هذا الجزء من المجالسة على الشيخ أبي المعالي عبد الله بن عبد الرحمن بن أحمد بن صابر السلمي مع العرض على نسخة فيها سماعه من النسيب في شهور سنة ست وخمسماية بقراءة أبي محمد عبد القادر بن عبد الله الرهاوي الأشياخ أبو المكارم عبد الله بن أحمد بن عبد الرحمن بن سلمان القرشي وأبو محمد عبد الكريم بن محمد بن مجلي الزراد وعبد الرحيم بن الحسين الخلاطي وعلي بن أحمد بن أبي القاسم الصقلي وعبد الخالق بن حسن بن هياج وأحمد بن عسكر الحموي وأبو عبد الله الحسن بن علي بن عقيل بن علي بن هبة الله [الثعلبي/ التغلبي؟] وأبوه كاتب الأسماء علي بن عقيل بن علي ومولاه مسعود بن عبد الله وذلك في يوم السبت رابع عشر شهر رمضان سنة إحدى وسبعين وخمسماية بجامع دمشق والحمد لله وحده وصورة خط الشيخ على الأصل الأمر على ما ذكر وكتب عبد الله بن عبد الرحمن بن صابر السلمي في التاريخ وناقل هذه الطبقة محمود بن أيوب بن سعد الشهرزوري وذلك يوم الأحد سلخ جمادى الآخرة من سنة ست وتسعين وخمسماية بالموصل بدار الحديث والحمد لله رب العالمين وصلوته على محمد وآله وسلم تسليما."
+}

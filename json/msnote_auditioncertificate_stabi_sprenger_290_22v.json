@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المؤتنف تكملة المؤتلف والمختلف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 290"
+      ],
+      "folio_number": [
+        "22v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1663217491/1200/0/00000064.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011164"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "564"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "3c824c06-965c-4560-ac74-a644ba4696ae",
+      "startIndex": 110,
+      "text": "ثامن شوال سنة أربع وستين وخمسمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "47c54449-6c5e-476e-9200-4d678af2fcd0",
+      "startIndex": 148,
+      "text": "عمر بن علي القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "55faf41a-c2cf-4a34-8a86-92ef0543397d",
+      "startIndex": 78,
+      "text": " الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "cfbff057-b908-49d8-9249-d831fdbc4154",
+      "startIndex": 28,
+      "text": "أبي محمد المبارك بن علي بن الطباخ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميعه على الشيخ الإمام أبي محمد المبارك بن علي بن الطباخ بحق سماعه فيه من الواسطي وذلك في مجالس آخرها في ثامن شوال سنة أربع وستين وخمسمئة وكتب عمر بن علي القرشي."
+}

@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "منتخب من الفوائد الصحاح العوالي ج5"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 140"
+      ],
+      "classmark": [
+        "3764/8"
+      ],
+      "folio_number": [
+        "137r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "117852f5-6e54-4e1b-a656-ce2d6a86c87b",
+      "startIndex": 28,
+      "text": " بهاء الدين ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "19574278-98ff-4e85-bf2c-a9eb35c817e1",
+      "startIndex": 71,
+      "text": "ابن يعيش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "692"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "b16fef87-b2d3-4813-b13d-5ef7a4e03939",
+      "startIndex": 98,
+      "text": "الإثنين عاشر ذي القعدة سنة اثنتين وتسعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "d9ecb215-1e9c-4015-bd28-8ba5e47962ee",
+      "startIndex": 152,
+      "text": "علي بن العطار الشافعي ",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ السماع بقراءتي على الشيخ بهاء الدين ابن النحاس في الرابع بسماعه من ابن يعيش بسنده وذلك في يوم الإثنين عاشر ذي القعدة سنة اثنتين وتسعين وستمائة كتبه علي بن العطار الشافعي "
+}

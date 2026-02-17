@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/6"
+      ],
+      "folio_number": [
+        " 95v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "1a54f5c6-32a7-4d6f-8b65-b8a0658802bc",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 189,
+      "text": "أبو الحسن علي بن يوسف الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "1ecb2f03-a7f0-4667-9c09-e2d7e27ff0f9",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 255,
+      "text": "أبو العباس أحمد بن محمد بن علي الآمدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 430,
+      "guid": "2bebcd30-6fb0-4731-a861-06d9c9072454",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 384,
+      "text": "أبو الفداء إسماعيل بن ساعد بن علي الخالدي الرقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "633"
+        ]
+      },
+      "endIndex": 556,
+      "guid": "45c051f7-4ae3-404b-843c-e82b7ebc6981",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 509,
+      "text": "يوم السبت تاسع عشر صفر من سنة ثلث وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 381,
+      "guid": "67513313-7fb9-4fd4-b8dc-e54c08f47ac3",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 340,
+      "text": "أبو يوسف يعقوب بن إلياس بن عبد الله اللمطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 660,
+      "guid": "6ce5de8b-58bf-4cc8-a865-187f8dc3678b",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 653,
+      "text": "جامع حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 337,
+      "guid": "6e893999-01a4-42a6-93f7-3889dabf9047",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 294,
+      "text": "أبو عبد الله محمد بن راجح بن أبي بكر العبدري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 628,
+      "guid": "7e6f347a-ab64-444e-b309-0f17d05ceef2",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 592,
+      "text": "محمد بن صالح بن إبراهيم الآمدي الكاتب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "9370e6ca-441f-4a61-bc46-9c68dd5bbcfa",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 221,
+      "text": "قايماز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 480,
+      "guid": "da7d9afc-0ebf-4f8a-9953-77eb27621a0c",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 433,
+      "text": "أبو القاسم بن أبي الحسن بن محمد بن يحيى البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "def6218a-6a30-493c-b580-25150f9498da",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 88,
+      "text": "أبي الحجاج يوسف بن خليل بن عبد الله الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء أجمع على شيخنا الإمام العالم الثبت الصدوق المفيد شمس الدين جمال الإسلام أبي الحجاج يوسف بن خليل بن عبد الله الدمشقي أثابه الله الجنة وإيانا برحمته بحق سماعه فيه فسمع السادة أبو الحسن علي بن يوسف الأنصاري وقايماز فتاي وسمع ما قرب سنده فحسب أبو العباس أحمد بن محمد بن علي الآمدي وأبو عبد الله محمد بن راجح بن أبي بكر العبدري وأبو يوسف يعقوب بن إلياس بن عبد الله اللمطي وأبو الفداء إسماعيل بن ساعد بن علي الخالدي الرقي وأبو القاسم بن أبي الحسن بن محمد بن يحيى البغدادي أبوه وذلك في مجلسين آخرهما يوم السبت تاسع عشر صفر من سنة ثلث وثلثين وستماية وكتب العبد الفقير إلى الله الرحيم محمد بن صالح بن إبراهيم الآمدي الكاتب عفا الله عنه وصح وثبت بجامع حلب"
+}

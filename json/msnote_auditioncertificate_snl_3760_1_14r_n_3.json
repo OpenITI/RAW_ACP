@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/1"
+      ],
+      "folio_number": [
+        "14r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 323,
+      "guid": "176b417f-c091-4dff-871b-d9833b65fb0d",
+      "startIndex": 316,
+      "text": "المحاملي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "228d07c0-eb9b-444f-a62f-98060edee112",
+      "startIndex": 296,
+      "text": "عاصم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "234cef48-5af2-4e2f-b403-b2997fd54a14",
+      "startIndex": 95,
+      "text": "المباركة ست الأخوة بنت محمد بن منصور الكرخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "438c572f-9121-46f1-8255-9decefbb0918",
+      "startIndex": 304,
+      "text": "ابن مهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "607"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "717486fd-c4a0-4de5-a4f0-ee1d5a81bdc6",
+      "startIndex": 243,
+      "text": "السبت ثاني شوال من سنة سبع وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "d6684133-bc4f-462e-af10-bac1b91e8709",
+      "startIndex": 50,
+      "text": "أبي علي صدقة بن علي بن صدقة الكيال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "e69c5af5-b934-4ab6-b105-bf6b45c21b78",
+      "startIndex": 152,
+      "text": "أبو بكر محمد بن عبد الغني بن أبي بكر بن نقطة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "fce10edb-3257-4b4b-b0d8-c919feca4f20",
+      "startIndex": 205,
+      "text": "محمد بن تميم بن أحمد البندنيجي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ المجلسين الأول والثاني من هذا الجزء على الشيخ أبي علي صدقة بن علي بن صدقة الكيال بسماعه من المباركة ست الأخوة بنت محمد بن منصور الكرخي الشيخ العالم أبو بكر محمد بن عبد الغني بن أبي بكر بن نقطة فسمعهما محمد بن تميم بن أحمد البندنيجي في يوم السبت ثاني شوال من سنة سبع وستمية بسماع ست الأخوة من عاصم عن ابن مهدي عن المحاملي"
+}

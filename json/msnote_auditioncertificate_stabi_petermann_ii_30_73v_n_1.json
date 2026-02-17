@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن أبي الفوارس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الحافظ أبي الفتح محمد بن أحمد بن أبي الفوارس"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Petermann II 30"
+      ],
+      "folio_number": [
+        "73v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN884842371/1200/0/00000152.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059003"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "4ef9bb26-d7a3-401a-98e6-0d188faff340",
+      "startIndex": 37,
+      "text": "أبي البركات الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "80ac398f-aee1-46d8-aa8a-9267a6baf8f4",
+      "startIndex": 58,
+      "text": "أبو الفتوح بن سوار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "485"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "b75e937e-d030-4ecc-91ad-86db52e56186",
+      "startIndex": 80,
+      "text": "رمضان سنة خمس وثمانين وأربع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 28,
+      "guid": "ffdc1445-3b28-4336-8e60-9c3af75f89ff",
+      "startIndex": 9,
+      "text": "أبي القاسم بن العلاف",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على أبي القاسم بن العلاف بقراءة أبي البركات الأنماطي أبو الفتوح بن سوار في رمضان سنة خمس وثمانين وأربع مائة"
+}

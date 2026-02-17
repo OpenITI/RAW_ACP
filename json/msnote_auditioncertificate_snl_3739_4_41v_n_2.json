@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "داود بن أحمد بن محمد بن منصور بن ملاعب"
+      ],
+      "work_title": [
+        "السباعيات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 18"
+      ],
+      "classmark": [
+        "3739/4"
+      ],
+      "folio_number": [
+        "41v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "173301a2-901b-434a-8f69-d1b600e17619",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 381,
+      "text": "حسين بن شعبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "190fcad0-3b95-4591-8f0a-17c5989a8767",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 241,
+      "text": "علاء الدين علي بن محمد بن عثمان بن اللبودي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 372,
+      "guid": "1a8d8b63-2032-4171-b059-e1dd19621788",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 352,
+      "text": "محمد بن عبد الرحمن بن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "qalijiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 539,
+      "guid": "3dd6fac0-be7a-4c5c-aa79-8c677884c63c",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 510,
+      "text": "المدرسة القليجية الحنفية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "4a999f14-08cd-4c77-90d4-13f7b79f828c",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 213,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "720"
+        ]
+      },
+      "endIndex": 507,
+      "guid": "710cf1d3-b5df-4ce3-8b52-369cb07d0cf2",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 453,
+      "text": "يوم الاثنين السابع والعشرين من شوال سنة عشرين وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "762ecab7-de88-49dd-ab04-c75a54b5f343",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 205,
+      "text": "دا[ود]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "8077ce36-da0c-4711-8eac-28bd721807f0",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 142,
+      "text": "علي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 435,
+      "guid": "8473d771-530e-48eb-9a8e-1e30d63a08a0",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 408,
+      "text": "أحمد بن محمد بن غازي الزاهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "963a9335-516f-4221-a5f2-e086c4875189",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 327,
+      "text": "علي بن عبد الحميد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "ae0a45b1-16b3-4244-972b-4f6af2ff8a95",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 23,
+      "text": "أبي الحسن] علي بن إبراهيم بن داود الصائغ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "bbf13a78-16ef-4d45-87c5-5eebee88e046",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 100,
+      "text": "أبي العباس أحمد بن إبراهيم الإسكندري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 318,
+      "guid": "bd8079ff-3e48-4f35-8672-1562fc7195fb",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 291,
+      "text": "محمد بن عبد الله قيم الشامية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "e305c254-277f-4608-8dd4-0b692af67677",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 147,
+      "text": "شهاب الدين أحمد بن مظفر بن أبي محمد النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "ffc0e478-4c5f-4785-ad3a-a5ea3d459b50",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 219,
+      "text": "عيسى بن تركي السروجي",
+      "type": "person"
+    }
+  ],
+  "text": " [.................... أبي الحسن] علي بن إبراهيم بن داود الصائغ بسماعه فيه أصلا بقراءة الشيخ الإمام أبي العباس أحمد بن إبراهيم الإسكندري ابنه علي وشهاب الدين أحمد بن مظفر بن أبي محمد النابلسي وأخوا المسمع دا[ود] ومحمد وعيسى بن تركي السروجي وعلاء الدين علي بن محمد بن عثمان بن اللبودي و[...] محمد بن عبد الله قيم الشامية [...] وعلي بن عبد الحميد [...] ومحمد بن عبد الرحمن بن [...] وحسين بن شعبان [...] وكاتبه أحمد بن محمد بن غازي الزاهدي عفا الله عنه في يوم الاثنين السابع والعشرين من شوال سنة عشرين وسبع ماية بالمدرسة القليجية الحنفية بدمشق حرست والحمد لله وحده وصلى الله على [سيدنا محمد]"
+}

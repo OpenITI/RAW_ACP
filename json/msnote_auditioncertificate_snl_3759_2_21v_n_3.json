@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن العزيز البغوي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حكايات أبي بسطام"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/2"
+      ],
+      "folio_number": [
+        "21v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "634"
+        ]
+      },
+      "endIndex": 636,
+      "guid": "10fa9e2d-2e0a-41da-a54e-7c9bb9318850",
+      "startIndex": 575,
+      "text": "يوم الاثنين السابع والعشرين من شوال من سنة أربع وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 486,
+      "guid": "177c566f-653e-4a6f-b1fe-05a9307e5428",
+      "startIndex": 436,
+      "text": "شمس الدين أبو عبد الله محمد بن يوسف بن أحمد البجائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "1d022360-24d5-4c04-a89f-26ad4aed3bda",
+      "startIndex": 146,
+      "text": "زكي الدين أبي عبد الله محمد بن يوسف بن محمد البرزالي الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 433,
+      "guid": "375e2886-e720-40a9-a7bc-4fd6bc074506",
+      "startIndex": 381,
+      "text": "تقي الدين أبو عبد الله محمد بن أحمد بن محمد الأصفهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 378,
+      "guid": "4f71e5f2-0544-46f4-8fd6-82b671a3ab06",
+      "startIndex": 312,
+      "text": "جمال الدين أبو عبد الله محمد بن عبد الباقي بن إلياس الصفار السنجاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 516,
+      "guid": "6f358d92-a0ae-4a33-a8cc-a28e9962e00d",
+      "startIndex": 489,
+      "text": "عثمان بن محمد بن عمر الحجازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "khan_sarim"
+          ]
+        ]
+      },
+      "endIndex": 662,
+      "guid": "833aba4d-6857-4bc6-9990-33dd3bd0d3a0",
+      "startIndex": 639,
+      "text": "خان صارم الدين ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 309,
+      "guid": "9fda9374-b83f-48cf-a809-27ebaf65cab7",
+      "startIndex": 261,
+      "text": "علاء الدين أبو الحسن علي بن محمد بن عجلان البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "a4334169-5e82-4a85-a713-b43fcf2575ff",
+      "startIndex": 51,
+      "text": "أبي المنجا عبد الله بن عمر بن علي بن زيد اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 565,
+      "guid": "bd01f244-6663-4a7c-bbed-95732f0a285a",
+      "startIndex": 532,
+      "text": "علي بن محمد بن علي بن محمد البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "cd300816-a379-4abf-9eb9-57130fcf9851",
+      "startIndex": 220,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "ddaab8d8-bfb0-4647-b37d-814abc75266e",
+      "startIndex": 214,
+      "text": "يوسف ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ الجليل المسند بقية المشايخ أبي المنجا عبد الله بن عمر بن علي بن زيد اللتي بسماعه فيه نقلا تراه بقراءة صاحبه الفقيه الإمام زكي الدين أبي عبد الله محمد بن يوسف بن محمد البرزالي الإشبيلي ولداه يوسف وإبراهيم أحضر في الثانية من عمره والفقهاء علاء الدين أبو الحسن علي بن محمد بن عجلان البالسي وجمال الدين أبو عبد الله محمد بن عبد الباقي بن إلياس الصفار السنجاري وتقي الدين أبو عبد الله محمد بن أحمد بن محمد الأصفهاني وشمس الدين أبو عبد الله محمد بن يوسف بن أحمد البجائي وعثمان بن محمد بن عمر الحجازي وكاتب الأسماء علي بن محمد بن علي بن محمد البالسي وذلك في يوم الاثنين السابع والعشرين من شوال من سنة أربع وثلثين وستماية بخان صارم الدين ظاهر دمشق وصح وثبت"
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتخب من الزهد والرقائق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 151"
+      ],
+      "classmark": [
+        "3765/17"
+      ],
+      "folio_number": [
+        "181r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "3b14a243-22fb-4366-8774-ed2cdd89d3aa",
+      "startIndex": 118,
+      "text": "عزيز الدولة ريحان الشهابي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "4bed8815-bbca-4a02-b37b-5145f048f2ce",
+      "startIndex": 151,
+      "text": "مثقال بن عبد الله القليجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 327,
+      "guid": "7d09bbdb-db7d-4eeb-91c7-9630a486f1b2",
+      "startIndex": 298,
+      "text": "إبراهيم بن يحيى بن محمد الفاسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "8b9ec338-9312-4c9b-ab87-6327d609a10f",
+      "startIndex": 239,
+      "text": "الإثنين التاسع من شوال سنة خمس وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "hijaz",
+            "medina",
+            "prophet_mosque"
+          ]
+        ]
+      },
+      "endIndex": 233,
+      "guid": "962ca02b-4337-4348-8a8f-62b790c0e879",
+      "startIndex": 183,
+      "text": "مسجد رسول الله صلى الله عليه وسلم بين القبر والمنبر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "d053b0fd-14fb-432a-8160-999d3ac46730",
+      "startIndex": 112,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "d98829bd-d4eb-4082-9e30-3970fdf4a465",
+      "startIndex": 49,
+      "text": "مجد الدين أبي محمد عبد الله بن محمد بن محمد الطبري ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على مالكه الشيخ الفقيه الإمام مجد الدين أبي محمد عبد الله بن محمد بن محمد الطبري ابنه الفقيه محمد وعزيز الدولة ريحان الشهابي والشيخ مثقال بن عبد الله القليجي وذلك بمسجد رسول الله صلى الله عليه وسلم بين القبر والمنبر يوم الإثنين التاسع من شوال سنة خمس وستين وستمائة بقراءة كاتبها إبراهيم بن يحيى بن محمد الفاسي والحمد لله وصلى الله على محمد وآله وسلم"
+}

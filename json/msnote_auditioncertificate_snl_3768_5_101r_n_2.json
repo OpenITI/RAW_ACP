@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن أحمد بن إبراهيم بن شاذان "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء الثاني من الفوائد المنتقاة العوالي الحسان والغرائب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 161"
+      ],
+      "classmark": [
+        "3768/5"
+      ],
+      "folio_number": [
+        "101r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "1ddc7df4-9028-4817-9c83-142c3670fa49",
+      "startIndex": 41,
+      "text": " أبي الحسين بن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "563"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "2c39042d-c6d5-4634-a09f-8a12c6e8ba18",
+      "startIndex": 196,
+      "text": "الجمعة خامس عشر ذي الحجة سنة ثلاث وستين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "9873137d-91d9-41dc-a393-69b61ff6c9fe",
+      "startIndex": 162,
+      "text": "عبد العزيز بن الأخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "b3a798ec-5128-479c-bf8c-05af908b666d",
+      "startIndex": 94,
+      "text": "ابن شاذان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "bca319d2-f5ad-4c80-b041-2b45bf639226",
+      "startIndex": 115,
+      "text": "ابن النرسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "d603b2e1-de58-485a-8cd5-6fbbf1379a4c",
+      "startIndex": 137,
+      "text": "أبي القاسم الأزجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "fa5832cd-5da5-4640-b22a-6b796cb59ac7",
+      "startIndex": 72,
+      "text": "أبي غالب الباقلاني",
+      "type": "person"
+    }
+  ],
+  "text": "سمعت الجزء الأول من هذه الأجزاء على الشيخ أبي الحسين بن يوسف بروايته عن أبي غالب الباقلاني عن ابن شاذان وعلى الشيخ ابن النرسي بروايته عن أبي القاسم الأزجي بقراءة عبد العزيز بن الأخضر من نسخته يوم الجمعة خامس عشر ذي الحجة سنة ثلاث وستين وخمسمائة"
+}

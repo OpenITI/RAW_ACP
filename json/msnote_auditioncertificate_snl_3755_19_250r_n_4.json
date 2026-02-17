@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن بن شاذان السكري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي الحسن السكري وأماليه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/19"
+      ],
+      "folio_number": [
+        "250r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "10496944-6274-435a-b176-2b76baeaeca0",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 142,
+      "text": "وسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "2de4132b-e0ec-4963-904a-0bce81a32036",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 88,
+      "text": "عبد الله بن عبد الحليم بن تيمية الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 35,
+      "guid": "7044235c-6090-4941-9923-b2f382810265",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "بدر الدين ابن شيبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 293,
+      "guid": "a23c8b24-0f76-4dae-83b0-3e6c618d0712",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 269,
+      "text": "دار الحديث الأشرفية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "e500aee2-8ba0-401d-a6cc-062a4178879b",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 52,
+      "text": "أبي الثناء محمود بن أبي بكر الأرموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "684"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "feb34d42-6588-4286-906e-d0b8be00b82f",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 214,
+      "text": " يوم الأربعاء التاسع من شعبان سنة أربع وثمانين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": " وسمعه على الشيخ بدر الدين ابن شيبان المذكور بقراءة أبي الثناء محمود بن أبي بكر الأرموي عبد الله بن عبد الحليم بن تيمية الحراني وكاتب السماع يوسف بن الزكي عبد الرحمن المزي وآخرون ذكروا على نسخة ابن تيمية وصح ذلك في يوم الأربعاء التاسع من شعبان سنة أربع وثمانين وستمية بدار الحديث الأشرفية بدمشق"
+}

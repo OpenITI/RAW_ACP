@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "سعيد بن أبي سعيد بن أحمد الإشكبي العيار"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي عثمان العيار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 128"
+      ],
+      "classmark": [
+        "3763/8"
+      ],
+      "folio_number": [
+        "84v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "year": [
+          "453"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "2b096343-6a02-449f-a62b-0cadde72dda0",
+      "startIndex": 105,
+      "text": " ثلث وخمسين وأربعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "37fea82e-3112-499c-b9ce-849931097121",
+      "startIndex": 39,
+      "text": "أبي الفضل محمد بن أحمد بن الحسن البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "d1af519c-46d3-4d9e-8a15-b7c60e790042",
+      "startIndex": 28,
+      "text": " فاطمة بنت أبي الفضل محمد بن أحمد بن الحسن البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 14,
+      "guid": "db8a80b0-774e-4196-8ffd-79d1f8ff0e8e",
+      "startIndex": 8,
+      "text": "العيار ",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من العيار وكذلك ما قبله فاطمة بنت أبي الفضل محمد بن أحمد بن الحسن البغدادي بقراءة أبيها في تاريخ سنة ثلث وخمسين وأربعماية كذا شاهدته في أصل البكري"
+}

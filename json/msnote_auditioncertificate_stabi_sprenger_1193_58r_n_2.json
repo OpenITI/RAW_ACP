@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "خراش بن عبد الله"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "نسخة خراش عن أنس وهي 14 حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 1193"
+      ],
+      "folio_number": [
+        "58r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN186013274X/1200/0/00000119.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00013410"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "2023c60d-7d1d-4ab3-ac5d-9e2fd9ce9a47",
+      "startIndex": 46,
+      "text": "تقي الدين أبي القاسم عُبيد بن محمد بن عباس السعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "684"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "30d1f9f7-6221-4742-a839-1fc07138550a",
+      "startIndex": 131,
+      "text": "يوم الأربعاء العشرين من جمادى الأول سنة أربع وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "66776f54-d770-4d2e-8e2a-682670c9dfb3",
+      "startIndex": 117,
+      "text": "النجيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "94c6ef1c-f729-4219-a704-d0fa960d6958",
+      "startIndex": 196,
+      "text": "محمد بن محمد بن إبراهيم بن أبي القاسم الميدومي",
+      "type": "person"
+    }
+  ],
+  "text": "شاهدت على الأصل\nقرأت جميع هذا الجزء على الشيخ تقي الدين أبي القاسم عُبيد بن محمد بن عباس السعردي بسماعه فيه نقلاً من النجيب وصح في يوم الأربعاء العشرين من جمادى الأول سنة أربع وثمانين وستمئة كتبه محمد بن محمد بن إبراهيم بن أبي القاسم الميدومي ونقلته من خطه."
+}

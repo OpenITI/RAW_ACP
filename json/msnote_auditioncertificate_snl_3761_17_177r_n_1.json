@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو نعيم أحمد بن عبد الله بن أحمد الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "تسمية ما انتهى إلينا من الرواة عن أبي نعيم الفضل بن دكين الطلحي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 122"
+      ],
+      "classmark": [
+        "3761/17"
+      ],
+      "folio_number": [
+        "177r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 421,
+      "guid": "18083131-dba7-4157-9154-f075e195b751",
+      "startIndex": 393,
+      "text": "سليمان بن محمد بن مسلم البدوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "1dc3dfc6-62a8-48ba-a2b2-f0cfd5f0b342",
+      "startIndex": 145,
+      "text": " ابن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 501,
+      "guid": "383557a1-e1a9-48ad-bcd2-1d7664101f47",
+      "startIndex": 447,
+      "text": "[محمد] بن محمد بن أبي بكر بن أحمد بن عبد الدائم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 730,
+      "guid": "3907110f-bcc9-41b7-8188-7e13c9124ecd",
+      "startIndex": 696,
+      "text": "دار الحديث الضيائية بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "3af83b42-1f77-4966-8013-6146682d39c8",
+      "startIndex": 50,
+      "text": "عماد الدين أبي بكر بن محمد بن الرضي عبد الرحمن بن محمد بن عبد الجبار المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 550,
+      "guid": "62d60fd6-ed55-4843-82ec-8ca4b172868e",
+      "startIndex": 504,
+      "text": "[محمد] ابن محمد بن نصر الله بن أبي العز الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "95dc57a6-264a-4ecc-a7f4-c864b6e93003",
+      "startIndex": 192,
+      "text": "أبي محمد عبد الله بن أحمد بن المحب عبد الله بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 636,
+      "guid": "a03ae211-a97b-4f96-bfb5-7f5fd64cdff2",
+      "startIndex": 605,
+      "text": "إبراهيم بن عيسى بن حامد الراميني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 269,
+      "guid": "a2f81ff7-5b68-45ab-a0ae-57d8f1a67d0e",
+      "startIndex": 258,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "732"
+        ]
+      },
+      "endIndex": 693,
+      "guid": "ab8071cc-f58a-46f6-812b-59c8f087b435",
+      "startIndex": 650,
+      "text": " الخميس خامس صفر سنة اثنتين وثلاثين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "bfe929df-6a18-49c1-95da-4be9ce53a9c5",
+      "startIndex": 272,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 596,
+      "guid": "db8b09f9-c19b-435f-a2e1-7fa10c37c35f",
+      "startIndex": 559,
+      "text": "حسن بن إسماعيل بن محمد بن مكنا الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 385,
+      "guid": "f7a2a81a-3741-485f-bc17-39ae38c4da32",
+      "startIndex": 313,
+      "text": " شمس الدين أبو عبد الله محمد بن أحمد بن عبد الهادي بن عبد الحميد المقدسي ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الجليل المسند الأصيل عماد الدين أبي بكر بن محمد بن الرضي عبد الرحمن بن محمد بن عبد الجبار المقدسي بسماعه فيه أصلا من ابن عبد الدائم بسنده بقراءة سيدي ومولاي والدي أبي محمد عبد الله بن أحمد بن المحب عبد الله بن أحمد المقدسي ابناه أبو بكر محمد وأحمد وذا خطه والإمام العالم الفاضل المفنن شمس الدين أبو عبد الله محمد بن أحمد بن عبد الهادي بن عبد الحميد المقدسي والشيخ سليمان بن محمد بن مسلم البدوي وأبوا عبد الله المحمدان [محمد] بن محمد بن أبي بكر بن أحمد بن عبد الدائم المقدسي و[محمد] ابن محمد بن نصر الله بن أبي العز الصالحي والشيخ حسن بن إسماعيل بن محمد بن مكنا الصالحي والشيخ إبراهيم بن عيسى بن حامد الراميني وصح وثبت يوم الخميس خامس صفر سنة اثنتين وثلاثين وسبعماية بدار الحديث الضيائية بسفح جبل قاسيون جوار الجامع المظفري والحمد لله رب العالمين"
+}

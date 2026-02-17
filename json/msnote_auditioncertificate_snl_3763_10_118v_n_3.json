@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "118v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "4b76d00d-50f9-4019-8b5b-839ff686d843",
+      "startIndex": 9,
+      "text": "أبي بكر محمد بن إسماعيل بن الأنماطي الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 307,
+      "guid": "a560fc63-af56-4968-b267-0cabfebf8a72",
+      "startIndex": 301,
+      "text": "القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "ba63b617-dbec-4874-8c5b-0e394824fc55",
+      "startIndex": 201,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "c4c0c6dc-1cd2-4fe3-a4da-035b0ad7649d",
+      "startIndex": 135,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "cfb4cae4-ff5e-4310-be7b-da0fab0789dc",
+      "startIndex": 147,
+      "text": "قطب الدين عبد الكريم بن عبد النور الحلبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "d1d609c3-6fe3-4a3c-a116-bd9fac9a5fb0",
+      "startIndex": 80,
+      "text": "سعد الدين أبي محمد مسعود بن احمد بن مسعود الحارثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "e5a4c0d3-888e-405e-91ce-7a63596429a1",
+      "startIndex": 251,
+      "text": "يوم الجمعة التاسع من شوال سنة ثلث وثمانين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": "سمعه على أبي بكر محمد بن إسماعيل بن الأنماطي الأنصاري بسماعه تراه بقراءة الإمام سعد الدين أبي محمد مسعود بن احمد بن مسعود الحارثي ابنه عبد الرحمن وقطب الدين عبد الكريم بن عبد النور الحلبي وكاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي وصح ذلك في يوم الجمعة التاسع من شوال سنة ثلث وثمانين وستمية بالقاهرة"
+}

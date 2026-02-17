@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "28v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.item.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "595"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "3906283b-08db-4fb7-85b9-2af43b2724e4",
+      "index": 390,
+      "isZeroPoint": false,
+      "startIndex": 54,
+      "text": "تاسع عشرين ذي القعدة سنة خمس وتسعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "9de4bd68-0344-4eef-88cb-90c1bf757d3b",
+      "index": 389,
+      "isZeroPoint": false,
+      "startIndex": 43,
+      "text": "إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "bf3e9bed-80ca-48b0-9423-487496a3f4fc",
+      "index": 388,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "إبراهيم بن أبي اليسر",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة إبراهيم بن أبي اليسر ابنه إسماعيل في تاسع عشرين ذي القعدة سنة خمس وتسعين وخمسماية."
+}

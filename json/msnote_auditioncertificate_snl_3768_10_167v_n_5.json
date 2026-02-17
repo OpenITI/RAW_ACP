@@ -1,0 +1,229 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن سنان القزاز البصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه حديث محمد بن سنان القزاز البصري عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 164"
+      ],
+      "classmark": [
+        "3768/10"
+      ],
+      "folio_number": [
+        "167v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "sahibiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 447,
+      "guid": "17112b02-fb8f-49d6-a8d8-bea8b6b5fdf0",
+      "startIndex": 414,
+      "text": "المدرسة الصاحبية من سفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 538,
+      "guid": "2de667cb-59c3-4f3c-be43-a019cdc268ef",
+      "startIndex": 501,
+      "text": "محمد بن أحمد بن محمد بن النجيب الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 398,
+      "guid": "45b7dc4b-eff6-4f55-9f81-b309c378354d",
+      "startIndex": 357,
+      "text": " بدر الدين محمد بن الحسن بن المظفر الحسيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "8707de5b-bbf6-4ff2-83c6-a1aea49f2f9b",
+      "startIndex": 179,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "8cba768c-6830-45a4-b851-5acaf6576fa5",
+      "startIndex": 243,
+      "text": "موفق الدين ابن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 494,
+      "guid": "cb306bc9-e4f3-48c5-b6ca-3bb7f05c2ef6",
+      "startIndex": 453,
+      "text": "السبت تاسع عشري صفر سنة تسع وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "cc34e1d9-5a76-4a29-bcd4-a51b8ec41508",
+      "startIndex": 292,
+      "text": "أبي طالب عبد اللطيف ابن القبيطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "d924b321-273f-4d4f-8b34-c3af7e4087df",
+      "startIndex": 80,
+      "text": "شمس الدين أبي الفرج عبد الرحمن بن أحمد بن عبد الملك المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "fb2b30dc-993f-4556-bcb3-f7b56033893b",
+      "startIndex": 336,
+      "text": "ابن البطي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعت جميع هذا الجزء وهو حديث محمد بن سنان القزاز على الشيخ الإمام العالم المسند شمس الدين أبي الفرج عبد الرحمن بن أحمد بن عبد الملك المقدسي بسماعه تراه بقراءة الشيخ الإمام العالم نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي بسماع شيخنا من موفق الدين ابن قدامة وبإجازته إن لم يكن سماعا من أبي طالب عبد اللطيف ابن القبيطي بسماعهما من ابن البطي بسنده وسمعه بدر الدين محمد بن الحسن بن المظفر الحسيني وصح ذلك وثبت بالمدرسة الصاحبية من سفح جبل قاسيون يوم السبت تاسع عشري صفر سنة تسع وسبعين وستمائة كتبه محمد بن أحمد بن محمد بن النجيب الشافعي عفا الله عنه والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه أجمعين وسلم"
+}

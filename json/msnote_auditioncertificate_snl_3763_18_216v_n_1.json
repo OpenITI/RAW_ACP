@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عطاء الروذباري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الروذباري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 134"
+      ],
+      "classmark": [
+        "3763/18"
+      ],
+      "folio_number": [
+        "216v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "12f57578-3cfe-489a-82a0-45e295106f55",
+      "startIndex": 31,
+      "text": "سيف الدين أبي محمد عبد الرحمن بن محفوظ بن هلال الرسعني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 309,
+      "guid": "1f507883-b0ae-46ba-ab39-3a1eff501186",
+      "startIndex": 257,
+      "text": "الجمعة الحادي عشر من ربيع الآخر سنة تسع وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "2676a158-d13c-40d4-9b40-48f8858c4c7b",
+      "startIndex": 96,
+      "text": "فخر الدين ابن تيمية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "9c36184e-bc11-4f3a-a7c2-481680344474",
+      "startIndex": 187,
+      "text": "علم الدين القاسم بن محمد بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "defaultLabel": "Place1",
+      "guid": "b473ddce-d23e-4890-827f-4b6888b3ebf3",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "cc49e7db-56c8-4ae4-8588-b86c3542d6cd",
+      "startIndex": 148,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 320,
+      "guid": "e8220739-70d2-41ee-aca6-7fb881ba6ad1",
+      "startIndex": 312,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "fda17beb-bc2f-424b-95bd-05c9cbb9a278",
+      "startIndex": 118,
+      "text": " ابن البطي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ الإمام سيف الدين أبي محمد عبد الرحمن بن محفوظ بن هلال الرسعني بسماعه من فخر الدين ابن تيمية عن ابن البطي بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي علم الدين القاسم بن محمد بن البرزالي ومن ذكر على الأصل وصح ذلك في يوم الجمعة الحادي عشر من ربيع الآخر سنة تسع وسبعين وستمية بجامع دمشق المحروسة"
+}

@@ -1,0 +1,448 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن عبد الله أبو نعيم الإسفهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المجلس الفرد العالي من امالي أبي نعيم السفياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Petermann II 30"
+      ],
+      "folio_number": [
+        "55v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN884842371/1200/0/00000116.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059002"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 986,
+      "guid": "1fa706b0-6fd6-46de-b6c7-b0bacc011e67",
+      "startIndex": 944,
+      "text": "أبو محمد عبد العزيز بن أحمد بن محمد الكتاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "775"
+        ]
+      },
+      "endIndex": 431,
+      "guid": "208b4bf9-db93-426e-910c-91eb4dbe0e43",
+      "startIndex": 375,
+      "text": "يوم الخميس تاسع عشري جمادى الآخرة سنة خمس وسبعين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1377,
+      "guid": "270ff082-4f2c-485b-9ca4-e62167e3f158",
+      "startIndex": 1342,
+      "text": "أبي طاهر أحمد بن محمد بن أحمد السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "2daa876e-3ecd-480c-aa04-13ee994b94a6",
+      "startIndex": 66,
+      "text": "محمد بن محمد بن أبي بكر بن عبد العزيز القدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "2fbe2df9-32aa-4d30-ab91-1d0b4b5b12c7",
+      "startIndex": 199,
+      "text": "ست العرب فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1034,
+      "guid": "48046709-e63e-4c2b-8a2a-4370ea8c0695",
+      "startIndex": 993,
+      "text": "أبو القاسم تمام بن محمد بن عبد الله الرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 879,
+      "guid": "515a06b4-6d12-470b-8839-e09075a7f080",
+      "startIndex": 841,
+      "text": "أبي محمد القاسم بن علي بن الحسن الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "547319e4-846a-428a-9aa0-6304cffc4088",
+      "startIndex": 20,
+      "text": "أبي عبد الله محمد بن إبراهيم بن أحمد العاملي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1230,
+      "guid": "5a3e4ceb-e518-4529-8722-e73516ee3f7d",
+      "startIndex": 1201,
+      "text": "نور الدين أبي الحسن عبد الوافي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1084,
+      "guid": "5fef549e-bfd1-4f8d-9952-bd5d271b2515",
+      "startIndex": 1041,
+      "text": "أبو إسحق إبراهيم بن محمد بن صالح اثنا الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1431,
+      "guid": "64923fc1-9b3b-49c9-a1ff-98d29b807fba",
+      "startIndex": 1389,
+      "text": "أبي العلاء محمد بن عبد الجبار محمد الفرساني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-salihyia_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 476,
+      "guid": "6fe6c82f-8673-4f61-9042-53caa474ad03",
+      "startIndex": 452,
+      "text": " المدرسة الصالحية النجمية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "74293fa2-8bf3-4be4-8f20-27d8b408baa0",
+      "startIndex": 236,
+      "text": "شمس الدين محمد بن أحمد بن عمر السمساطي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1314,
+      "guid": "77b9d61c-2808-44f8-ae9f-fbbe41309ecb",
+      "startIndex": 1245,
+      "text": "أبي القاسم عبد الرحمن بن مكي بن عبد الرحمن بن الحاسب سبط الحافظ السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 937,
+      "guid": "7980407a-4dc4-4927-8f04-f9ba61b798e3",
+      "startIndex": 887,
+      "text": "أبو الحسن علي بن المسلم بن محمد بن ابي الفتح السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "7ce7425c-c7d9-4fd0-b022-0bd99865fdd7",
+      "startIndex": 299,
+      "text": "عمر بن يحيى بن أبي بكر النويري المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 813,
+      "guid": "85c85a1f-4589-4a3d-9f9f-fcb4807ad4d5",
+      "startIndex": 790,
+      "text": "كمال الدين أبي حامد محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "c725686b-081a-4183-9f50-3f2662a6b33d",
+      "startIndex": 292,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 765,
+      "guid": "c761ebea-e807-4ce8-b00c-aba2a937adf1",
+      "startIndex": 663,
+      "text": "فخر الدين أبي عمرو عثمان ابن الإمام أبي حامد محمد بن أبي القاسم بن عبد الملك ابن عيسى بن درباس الماراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "e93a153c-3758-452b-8a5d-164396ee8816",
+      "startIndex": 158,
+      "text": "أبو المحامد عبد الله ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "ee9b7a96-25e3-4b4a-b291-c3dd4fd2d17a",
+      "startIndex": 136,
+      "text": "أبو هريرة عبد الرحمن",
+      "type": "person"
+    }
+  ],
+  "text": "ثم سمعه عليه بقراءة أبي عبد الله محمد بن إبراهيم بن أحمد العاملي، محمد بن محمد بن أبي بكر بن عبد العزيز القدسي، وذا خطه وأولاده الثلاثة أبو هريرة عبد الرحمن وأبو المحامد عبد الله في الثانية من عمره وست العرب فاطمة في الخامسة من عمرها، وشمس الدين محمد بن أحمد بن عمر السمساطي الشافعيون، وابنه محمد، وعمر بن يحيى بن أبي بكر النويري المالكي، وصح ذلك وثبت في ليلة يسفر صباحها عن يوم الخميس تاسع عشري جمادى الآخرة سنة خمس وسبعين وسبعمائة بأبواب؟ المالكية من المدرسة الصالحية النجمية بين القصرين بالقاهرة وأجاز لمن ذكر رواية جميع ما يجوز له روايته وتلفظ بذلك بسؤالي. وسمعوا كلهم عليه بقراءتي في التاريخ والمكان جزءاً فيه من حديث عفان بن مسلم الصفار بسماعه له على الشيخ فخر الدين أبي عمرو عثمان ابن الإمام أبي حامد محمد بن أبي القاسم بن عبد الملك ابن عيسى بن درباس الماراني بسماعه من والده القاضي كمال الدين أبي حامد محمد المذكور، بسماعه من الحافظ أبي محمد القاسم بن علي بن الحسن الشافعي، اثنا أبو الحسن علي بن المسلم بن محمد بن ابي الفتح السلمي اثنا أبو محمد عبد العزيز بن أحمد بن محمد الكتاني اثنا أبو القاسم تمام بن محمد بن عبد الله الرازي اثنا أبو إسحق إبراهيم بن محمد بن صالح اثنا الصفار. وجزءاً فيه أحاديث منصور بن عمار ومن كلامه جمع أبي بكر محمد بن أحمد بن أبي علي الهمذاني الحافظ بسماعه له على الشيخ نور الدين أبي الحسن عبد الوافي بحق سماعه من أبي القاسم عبد الرحمن بن مكي بن عبد الرحمن بن الحاسب سبط الحافظ السلفي بسماعه من جده لأمه الحافظ أبي طاهر أحمد بن محمد بن أحمد السلفي بسماعه من أبي العلاء محمد بن عبد الجبار محمد الفرساني."
+}

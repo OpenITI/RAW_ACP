@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن أبي شريح الأنصاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المائة الشريحية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/8"
+      ],
+      "folio_number": [
+        "123v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "137ce512-580d-4d3f-b586-46346b0c77b0",
+      "index": 235,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "الفضيلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "31302406-afd8-40f4-b9fb-6aad4b62bc3d",
+      "index": 236,
+      "isZeroPoint": false,
+      "startIndex": 191,
+      "text": "ابن أبي شريح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "57cbf72c-7ed7-4077-90c5-4e2d4eb49944",
+      "index": 232,
+      "isZeroPoint": false,
+      "startIndex": 42,
+      "text": "نور الدين أبو الحسن علي ابن مسعود بن نفيس الموصلي الحلبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 282,
+      "guid": "7a1fa9e1-b490-46fb-b71e-584f06ba65c6",
+      "index": 238,
+      "isZeroPoint": false,
+      "startIndex": 268,
+      "text": "القاهرة المعزية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "930444eb-44f1-4b41-aaa8-db859410d23f",
+      "index": 233,
+      "isZeroPoint": false,
+      "startIndex": 114,
+      "text": "أبي المنجا عبد الله بن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "a15586d9-ca1e-4811-a0e4-886f13d4dbea",
+      "index": 234,
+      "isZeroPoint": false,
+      "startIndex": 153,
+      "text": "أبي الوقت",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "662"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "fa7c868c-1355-4e7b-9e35-807875beec9c",
+      "index": 237,
+      "isZeroPoint": false,
+      "startIndex": 215,
+      "text": "يوم الجمعة تاسع عشر محرم من سنة اثنتين وستين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": " قرأ عليَّ هذه الماية الفقيه الأجل المحصل نور الدين أبو الحسن علي ابن مسعود بن نفيس الموصلي الحلبي وذلك بسماعي من أبي المنجا عبد الله بن اللتي بسماعه من أبي الوقت بسماعه من الفضيلي عن مؤلفها ابن أبي شريح وصح ذلك في يوم الجمعة تاسع عشر محرم من سنة اثنتين وستين وستمية بالقاهرة المعزية وصح"
+}

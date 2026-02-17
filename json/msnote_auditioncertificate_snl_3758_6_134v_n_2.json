@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن طلحة بن محمد البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي الحسن النعالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 102"
+      ],
+      "classmark": [
+        "3758/6"
+      ],
+      "folio_number": [
+        "134v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "561"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "32acfc06-79a8-4a6c-9bbb-b2320ea93f83",
+      "startIndex": 160,
+      "text": " يوم رابع عشري شوال من سنة إحدى وستين وخمسماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "56b986de-06ba-43d2-b1e7-fb31cedf9770",
+      "startIndex": 116,
+      "text": "أبو الفتوح نصر بن أبي الفرج بن علي الحصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "6ca61b9f-d99d-4342-af05-c012fce3ca8e",
+      "startIndex": 75,
+      "text": "ابن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "71f0e9ad-ead5-4212-980d-1bd2808729e5",
+      "startIndex": 16,
+      "text": "أبي بكر أحمد بن المقرب بن الحسين بن الحسن الفقيه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "bdc882d5-7f11-4158-9bec-bde1b9172e6b",
+      "startIndex": 91,
+      "text": "مكي بن أبي القاسم",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه جميعه على أبي بكر أحمد بن المقرب بن الحسين بن الحسن الفقيه بسماعه من ابن طلحة بقراءة مكي بن أبي القاسم الإمام أبو الفتوح نصر بن أبي الفرج بن علي الحصري في يوم رابع عشري شوال من سنة إحدى وستين وخمسماية وصح وثبت"
+}

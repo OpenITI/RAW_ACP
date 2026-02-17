@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 1781"
+      ],
+      "folio_number": [
+        "357v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 624,
+      "guid": "0cf20641-be07-4aa6-8b58-5847b740dbcd",
+      "startIndex": 617,
+      "text": "ابن إسحق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 530,
+      "guid": "10943f53-5758-45f9-b7e5-735dc5fafbda",
+      "startIndex": 505,
+      "text": "أبو محمد عبد الرحيم البرقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "1f384cbe-8c0e-4eeb-97f0-ae7a2efb64a8",
+      "startIndex": 299,
+      "text": "أبو القاسم عبد الرحمن بن قابل الأيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "2b380b56-1e6f-4db9-bbfe-46b9bfcbc9b0",
+      "startIndex": 233,
+      "text": "أبي] طاهر أحمد بن محمد السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "607"
+        ]
+      },
+      "endIndex": 859,
+      "guid": "36914004-5472-488d-b72f-8412b0e848d7",
+      "startIndex": 822,
+      "text": "[...] الجمعة [...] المحرم من سنة [...]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 447,
+      "guid": "5b26d2de-7d94-44b0-bb5a-fad62b665729",
+      "startIndex": 412,
+      "text": "أبو محمد عبد الله بن [محمد اللمائي] ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 966,
+      "guid": "778c78ec-c68a-4299-a069-09ee72053d81",
+      "startIndex": 958,
+      "text": "فخر الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 568,
+      "guid": "832c71dc-ad6c-4ed7-876a-b416fe57f3a0",
+      "startIndex": 543,
+      "text": "عبد الملك [بن هشام] النحوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "899faebe-9766-4161-9672-a80e9323977c",
+      "startIndex": 145,
+      "text": "أبو المكارم المفضل بن علي بن مفرج بن حاتم القدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "98b9735f-ecd9-465c-beeb-41923f139703",
+      "startIndex": 264,
+      "text": "بدر بن عبد الله الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 923,
+      "guid": "99ec6597-6dd2-45a1-9e95-05ad7a30ebbc",
+      "startIndex": 918,
+      "text": "الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 908,
+      "guid": "9c59ed53-4328-4a36-9054-e2c9366ea0c8",
+      "startIndex": 861,
+      "text": "مرتضى بن [العفيف] حاتم بن مسلم [المقدسي] الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 805,
+      "guid": "cf01f5ad-b7aa-4e6d-9c5a-c849ba53a8a2",
+      "startIndex": 774,
+      "text": "علم] الدين أبو القاسم عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 399,
+      "guid": "df4dc31b-d3e0-4211-a350-0c95d396179b",
+      "startIndex": 347,
+      "text": "أبو محمد عبد الله بن الوليد بن [سعيد بن بكر الأنصاري]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 492,
+      "guid": "e2d1e6df-ea93-4828-97a1-0c582613e255",
+      "startIndex": 459,
+      "text": "أبو محمد عبد الله بن جعفر بن الورد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 765,
+      "guid": "f212ff11-83e3-4082-ac32-4b8ce8b5774f",
+      "startIndex": 677,
+      "text": "أبو الفضائل مقدام بن الوزير الصاحب [...] القاضي الأجل جمال الدين [أبو العباس] أحمد بن شكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 604,
+      "guid": "ff2832e9-36ec-4095-9fc2-9b8f870c11cb",
+      "startIndex": 581,
+      "text": "زياد بن عبد الله البكائي",
+      "type": "person"
+    }
+  ],
+  "text": "[.............................................................................................................]\n[................] الوجيه الأنجب أبو المكارم المفضل بن علي بن مفرج بن حاتم القدسي أيده الله [بحق سماعه من الشيخين الحافظ أبي] طاهر أحمد بن محمد السلفي وبدر بن عبد الله الحبشي قالا أنبأنا أبو القاسم عبد الرحمن بن قابل الأيلي قال أنبأنا أبو محمد عبد الله بن الوليد بن [سعيد بن بكر الأنصاري] قال أنبأنا أبو محمد عبد الله بن [محمد اللمائي] قال أنبأنا أبو محمد عبد الله بن جعفر بن الورد قال أنبأنا أبو محمد عبد الرحيم البرقي قال أنبأنا عبد الملك [بن هشام] النحوي قال أنبأنا زياد بن عبد الله البكائي قال أنبأنا ابن إسحق فسمع صاحبه المولا القاضي الأجل الفقيه العالم الأعز أبو الفضائل مقدام بن الوزير الصاحب [...] القاضي الأجل جمال الدين [أبو العباس] أحمد بن شكر [وولده علم] الدين أبو القاسم عبد الرحمن في مجالس آخرها [...] الجمعة [...] المحرم من سنة [...] مرتضى بن [العفيف] حاتم بن مسلم [المقدسي] الشافعي [وولده] الحسين [...] سمع السيرة من أولها الصاحب فخر الدين بعض السيرة وأجازه ما فاته [...] لأبي الطاهر [...] فاتهما وكتب [مرتضى] بن العفيف المقدسي."
+}

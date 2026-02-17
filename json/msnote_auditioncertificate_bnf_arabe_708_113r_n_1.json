@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "113r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f116.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f116.item.r=%22arabe%20708%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 827,
+      "guid": "0641858e-2c5d-4dd4-9740-ce44b7a1e6cd",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 786,
+      "text": "الشرف عثمان بن أبي الفتح بن إسماعيل الخويي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 784,
+      "guid": "109590aa-dcdc-41ca-8997-6170198c8653",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 764,
+      "text": "علي ابن عمر السمناني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "127a4840-d30a-49ec-9ed2-736d44fb5f4c",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 226,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 1005,
+      "guid": "44440d3b-6b31-42be-8b7b-167e6b1742fc",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 958,
+      "text": "في التاسع من جمادى الآخرة سنة خمس وخمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 887,
+      "guid": "49ab5df9-141c-427f-8ada-16232fad6e3f",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 862,
+      "text": "فرج بن عبد الله التركستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1131,
+      "guid": "4ef3651a-1ccc-4c12-8b95-5a8a7d8cc00c",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 1062,
+      "text": "عبد الله الحسن بن علي بن عيسى بن الحسن اللخمي الشافعي عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 557,
+      "guid": "5a3d46c0-ef86-4394-8dc1-70b60ff22ed9",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 487,
+      "text": "نور الدين أبو الحسن علي بن الجلال أبي العزائم همام بن راجي الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 724,
+      "guid": "6483aba9-ef92-4487-b453-594844e18356",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 700,
+      "text": "ريحان بن عبد الله الجساسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 415,
+      "guid": "6dd7ee06-8d46-44ea-9b4a-2068fc36524d",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 372,
+      "text": "عبد الرحمن بن محمد بن محمد بن أبي بكر الطبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "dar_al-hadith_al-kamiliya"
+          ]
+        ]
+      },
+      "endIndex": 1026,
+      "guid": "8a01be5b-8bd9-48f6-9102-52b97568a346",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 1008,
+      "text": "دار الحديث الكاملية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 480,
+      "guid": "8e2e7b2c-d076-45bf-8520-bfa9785161bb",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 447,
+      "text": "ناصر الدين نصر بن عبد الله الرؤادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 369,
+      "guid": "952937db-6b64-4894-b3ef-a2859199b3cf",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 318,
+      "text": "زين الدين أبو المظفر غازي بن يوسف بن عبد الله القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "b2756c79-27d1-42d3-a6cf-3b03621367eb",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 311,
+      "text": "بيليك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 444,
+      "guid": "bf501cb0-d9f7-4235-bf43-c41b6dd52233",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 418,
+      "text": "حسن بن غازي بن مرهف السمسار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "c8c04e97-d53e-4b0e-b1c7-6bfb810a2914",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": " زكي الدين أبي محمد عبد العظيم بن عبد القوي بن عبد الله المنذري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "e4b40624-a261-4802-aafa-cf193c4bde2b",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 269,
+      "text": "سابق الدين أزدمر بن عبد الله المعزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 1232,
+      "guid": "eb63afa7-76d9-47a6-b72f-16584fc6bdd3",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 1150,
+      "text": "صحيح ذلك كتبه عبد العظيم بن عبد القوي بن عبد الله المنذري غفر الله تعالى له ولطف به",
+      "type": "signature_of_musmi"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء التاسع من كتاب السنن لأبي داود رحمه الله على الشيخ الفقيه الإمام العالم الحافظ العلامة الحبر القدوة عمدة المحدثين زكي الدين أبي محمد عبد العظيم بن عبد القوي بن عبد الله المنذري أيده الله تعالى بسماعه له من ابن طبرزد فسمع السادة الأجلاء الأمير الأجل سابق الدين أزدمر بن عبد الله المعزي وفتاه بيليك وزين الدين أبو المظفر غازي بن يوسف بن عبد الله القرشي وعبد الرحمن بن محمد بن محمد بن أبي بكر الطبري وحسن بن غازي بن مرهف السمسار وناصر الدين نصر بن عبد الله الرؤادي وسمع نور الدين أبو الحسن علي بن الجلال أبي العزائم همام بن راجي الله الشافعي من أوله إلى آخر كتاب الصلاة ومن قوله في باب زكاة السائمة قال مالك وقول عمر بن الخطاب لا يجمع بين متفرق ولا يفرق بين مجتمع إلى آخر الجزء وسمع ريحان بن عبد الله الجساسي من أول الجزء إلى آخر كتاب الصلاة وسمع علي ابن عمر السمناني والشرف عثمان بن أبي الفتح بن إسماعيل الخويي من أول كتاب الزكاة إلى آخره وسمع فرج بن عبد الله التركستاني من قوله باب ما تجب فيه الزكاة إلى آخره وصح ذلك وثبت في مجلسين آخرهما في التاسع من جمادى الآخرة سنة خمس وخمسين وستماية بدار الحديث الكاملية عمرها الله تعالى بذكره قاله وكتبه عبد الله الحسن بن علي بن عيسى بن الحسن اللخمي الشافعي عرف بابن الصيرفي والحمد لله وحده.\nصحيح ذلك كتبه عبد العظيم بن عبد القوي بن عبد الله المنذري غفر الله تعالى له ولطف به."
+}

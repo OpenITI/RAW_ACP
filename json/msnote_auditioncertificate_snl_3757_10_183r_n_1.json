@@ -1,0 +1,625 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "آدم بن أبي إياس العسقلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث آدم بن أبي إياس العسقلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/10"
+      ],
+      "folio_number": [
+        "183r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "hama",
+            "suq_al-'ala_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1513,
+      "guid": "00829c37-0eb6-40ca-9bd0-c246fe741f44",
+      "startIndex": 1476,
+      "text": "جامع سوق الأعلى من مدينة حماة المحروسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 991,
+      "guid": "07b1f0ab-ed69-4f59-9676-68ebb16e56c1",
+      "startIndex": 964,
+      "text": "علي بن عبد الله المنادي أبوه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 592,
+      "guid": "0b4cd7a1-4667-41f8-b9c3-9d82db9097da",
+      "startIndex": 528,
+      "text": "شمس الدين محمد بن أبي القاسم بن عباس البغدادي المعروف بابن الحداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 468,
+      "guid": "1390e5fd-6b04-4e57-80e5-7615cadbeb50",
+      "startIndex": 431,
+      "text": "بدر الدين محمد بن خليل بن مسلم الكوافي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "f1a94553-4a0f-41ef-b338-fe8efebcae6e"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "1863c178-685e-421d-bfe3-e9af22a619ce",
+      "startIndex": 331,
+      "text": "مبارك بن عبد الله اللبناني الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 693,
+      "guid": "21395b41-cb54-44d7-aef6-bf397cbc9c99",
+      "startIndex": 689,
+      "text": "محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1082,
+      "guid": "4059f0fa-523c-4282-9202-3e3ce57ce27e",
+      "startIndex": 1040,
+      "text": "محمد بن الزين محمود بن الجمال عرف بابن بركة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 824,
+      "guid": "47ae8e17-37fc-443e-8637-434eee9f2909",
+      "startIndex": 792,
+      "text": "أبو بكر بن قاسم بن أبي بكر الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 789,
+      "guid": "49e6e55d-a0b7-4833-8ce0-a2ff6e3cd589",
+      "startIndex": 758,
+      "text": "أحمد بن عبد الرحمن بن عبد المنعم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1260,
+      "guid": "4b24c990-a6ec-49d8-8233-f08268f44187",
+      "startIndex": 1243,
+      "text": "عماد الدين إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "724"
+        ]
+      },
+      "endIndex": 1473,
+      "guid": "4faa3a86-2962-41b3-abfb-36cbaae0675c",
+      "startIndex": 1423,
+      "text": "يوم الاثنين مستهل ذي الحجة سنة أربع وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "5353e334-83d6-49fb-86dd-d4839d4f5097",
+      "startIndex": 153,
+      "text": "أبي عبد الله محمد بن عبد الهادي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 920,
+      "guid": "57cd0628-f209-4197-adc4-bf045c5c8e82",
+      "startIndex": 891,
+      "text": "علي بن موسى بن علي الطبيب أبوه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 604,
+      "guid": "61bd448e-7276-418f-8efe-b6e84a76f3f1",
+      "startIndex": 600,
+      "text": "قاسم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 841,
+      "guid": "736dd586-a494-4c75-941b-4a277a23eb6f",
+      "startIndex": 839,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1397,
+      "guid": "75600031-a8b0-43ec-8275-4149db81e666",
+      "startIndex": 1342,
+      "text": "عبد الله بن أحمد بن نصر الله بن إبراهيم بن جماعة الكناني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 687,
+      "guid": "8ae072c5-162d-4f45-84db-708b3ec7facc",
+      "startIndex": 683,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 837,
+      "guid": "8f82d6db-6a50-494f-8456-5756f6b526fe",
+      "startIndex": 833,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1125,
+      "guid": "91c954a4-ba78-4711-8127-7ddae04ba7e7",
+      "startIndex": 1085,
+      "text": "حسن بن الحاج محمد الخلعي أبوه عرف بالحلاج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 674,
+      "guid": "9609bd86-3d7e-4300-92fb-49c9daa4c8fd",
+      "startIndex": 606,
+      "text": "عثمان بن علي بن علاء الدين علي بن بهاء الدين محمود بن نصر الله الجندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "978bbf6e-655c-495f-af94-7889839b5fd4",
+      "startIndex": 295,
+      "text": "بدر الدين حسن بن علي بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 755,
+      "guid": "a0baa698-13b5-4a81-865f-946a26677c45",
+      "startIndex": 730,
+      "text": "موسى بن علي بن موسى البزار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1218,
+      "guid": "a3a86437-9c6d-40ad-989b-20f43fb7d4e7",
+      "startIndex": 1172,
+      "text": "أبو بكر بن عبد الخالق بن أبي بكر عرف بابن النشو",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1028,
+      "guid": "a9b0936c-15ed-4480-b98e-8e3c8bc928e1",
+      "startIndex": 994,
+      "text": "محمود بن علي بن محمد عرف بابن الأعز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 525,
+      "guid": "b2089752-7953-441c-8869-cbca3d4dc3b7",
+      "startIndex": 471,
+      "text": "بدر الدين محمد بن شهاب الدين أحمد بن العلم سلمان الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "b9242b99-e8e3-49bb-9ef9-43d998804b8a",
+      "startIndex": 61,
+      "text": "شهاب الدين أبي العباس أحمد بن علي بن حسن بن داود الجزري الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1163,
+      "guid": "c37a9f64-dce8-4093-af6e-53358f6bdd69",
+      "startIndex": 1134,
+      "text": "محمد بن إبراهيم بن عيسى الضرير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 961,
+      "guid": "c50fc332-4e58-4e80-8912-8c0a665a6a1c",
+      "startIndex": 923,
+      "text": "محمد بن إبراهيم بن نصر الله القطان أبوه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "d8234144-bf2a-4425-b0fc-6815685a560e",
+      "startIndex": 219,
+      "text": "ناصر الدين محمد بن طغريل بن عبد الله عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 428,
+      "guid": "db8deac2-943c-4366-b35b-fccbb9389f60",
+      "startIndex": 368,
+      "text": "نجم الدين مظفر بن شهاب الدين أحمد بن نجم الدين المظفر بن مقلد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1240,
+      "guid": "fb71f0cf-49bd-4ed7-8477-4a0fc28de338",
+      "startIndex": 1221,
+      "text": "زين الدين عبد الرحمن",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو حديث آدم بن أبي إياس على الشيخ الإمام شهاب الدين أبي العباس أحمد بن علي بن حسن بن داود الجزري الحنبلي بحضوره |أصلا| في الثالثة من أبي عبد الله محمد بن عبد الهادي بسنده بقراءة الفقيه الإمام المفيد ناصر الدين محمد بن طغريل بن عبد الله عرف بابن الصيرفي الجماعة الأجلاء الشيخ بدر الدين حسن بن علي بن محمد والشيخ مبارك بن عبد الله اللبناني الصوفيان ونجم الدين مظفر بن شهاب الدين أحمد بن نجم الدين المظفر بن مقلد وبدر الدين محمد بن خليل بن مسلم الكوافي وبدر الدين محمد بن شهاب الدين أحمد بن العلم سلمان الصفار وشمس الدين محمد بن أبي القاسم بن عباس البغدادي المعروف بابن الحداد وولده قاسم وعثمان بن علي بن علاء الدين علي بن بهاء الدين محمود بن نصر الله الجندي والده ومحمد ومحمود ابنا محمد بن إسماعيل القلعي والحاج موسى بن علي بن موسى البزار وأحمد بن عبد الرحمن بن عبد المنعم وأبو بكر بن قاسم بن أبي بكر الصفار والده ومحمد وعلي ابنا الحاج محمود بن محمد البياني الخلعي أبوهما وعلي بن موسى بن علي الطبيب أبوه ومحمد بن إبراهيم بن نصر الله القطان أبوه وعلي بن عبد الله المنادي أبوه ومحمود بن علي بن محمد عرف بابن الأعز وابن عمته محمد بن الزين محمود بن الجمال عرف بابن بركة وحسن بن الحاج محمد الخلعي أبوه عرف بالحلاج والشيخ محمد بن إبراهيم بن عيسى الضرير والشيخ أبو بكر بن عبد الخالق بن أبي بكر عرف بابن النشو وزين الدين عبد الرحمن وعماد الدين إسماعيل ابنا الشيخ الإمام القدوة برهان الدين إبراهيم بن عبد الرحمن بن إبراهيم بن جماعة وعبد الله بن أحمد بن نصر الله بن إبراهيم بن جماعة الكناني وذا خطه وصح ذلك وثبت في يوم الاثنين مستهل ذي الحجة سنة أربع وعشرين وسبعماية بجامع سوق الأعلى من مدينة حماة المحروسة وأجاز الجماعة ما يجوز له روايته بشرطه وصلى الله على سيدنا محمد وآله وصحبه وسلم "
+}

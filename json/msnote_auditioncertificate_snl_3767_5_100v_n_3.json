@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر محمد بن عبد الغني بن أبي بكر ابن نقطة البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة من حديث مالك بن أنس "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 157"
+      ],
+      "classmark": [
+        "3767/5"
+      ],
+      "folio_number": [
+        "100v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 220,
+      "guid": "09d762cd-62e9-4db3-89d0-69936603f234",
+      "startIndex": 214,
+      "text": "القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "0efeccef-99da-4cb9-acf3-7ed25887ef84",
+      "startIndex": 116,
+      "text": "يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "689ca1c8-e040-45e6-b9b4-a736a41878dc",
+      "startIndex": 162,
+      "text": "الخميس التاسع من ذي الحجة سنة ثلاث وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "9a7813bf-e810-4e3b-9af1-85745d4249db",
+      "startIndex": 88,
+      "text": "الكندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "bc8db188-4a33-4320-ae78-38608e07b2b4",
+      "startIndex": 22,
+      "text": " أبي بكر محمد بن إسماعيل بن عبد الله ابن الأنماطي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على أبي بكر محمد بن إسماعيل بن عبد الله ابن الأنماطي بسماعه حضورا من الكندي كاتب السماع في الأصل يوسف بن الزكي عبد الرحمن المزي بقراءته في يوم الخميس التاسع من ذي الحجة سنة ثلاث وثمانين وستمائة بالقاهرة"
+}

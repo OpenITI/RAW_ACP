@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "28v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.item.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "4e9c9675-d9c0-4421-88de-70b888982ace",
+      "index": 383,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "590"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "7362f8f2-4d8b-4d84-9f99-8fa559243630",
+      "index": 384,
+      "isZeroPoint": false,
+      "startIndex": 77,
+      "text": "يوم السبت العشرين من شوال سنة تسعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 25,
+      "guid": "c0d83b68-420d-4471-9dd3-5daf5ab4c724",
+      "index": 381,
+      "isZeroPoint": false,
+      "startIndex": 10,
+      "text": "أبي طاهر الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "f3f00a1a-81ba-4d11-9bf8-d31e31bfd780",
+      "index": 382,
+      "isZeroPoint": false,
+      "startIndex": 27,
+      "text": "أحمد بن عبد الدائم بن نعمة",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على أبي طاهر الخشوعي أحمد بن عبد الدائم بن نعمة بحضور الحافظ عبد الغني يوم السبت العشرين من شوال سنة تسعين وخمسماية."
+}

@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن طلحة بن محمد البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي الحسن النعالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 102"
+      ],
+      "classmark": [
+        "3758/6"
+      ],
+      "folio_number": [
+        "134v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "2556aaad-d82b-428c-bef0-dc4332b19705",
+      "startIndex": 18,
+      "text": " أبي عبد الله الحسين بن أحمد بن محمد بن طلحة النعالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "2fa4b345-feb8-400a-940f-24d637a47340",
+      "startIndex": 124,
+      "text": "المقرب ابن الحسين بن الحسن النساج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "49940b74-356a-4e00-a6d8-160106b6fee2",
+      "startIndex": 164,
+      "text": "أبو بكر أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "490"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "5e213981-98e5-4427-b340-c8b24975b21a",
+      "startIndex": 187,
+      "text": "يوم الأربعاء تاسع شهر ربيع الأول من سنة تسعين وأربعماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "728b2ab1-2492-441c-ab2c-ece0a7dee029",
+      "startIndex": 78,
+      "text": "أبي القاسم عبد الله بن محمد بن أحمد الرويدشتي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع الجزء على أبي عبد الله الحسين بن أحمد بن محمد بن طلحة النعالي بقراءة أبي القاسم عبد الله بن محمد بن أحمد الرويدشتي المقرب ابن الحسين بن الحسن النساج وولده أبو بكر أحمد وآخرون في يوم الأربعاء تاسع شهر ربيع الأول من سنة تسعين وأربعماية "
+}

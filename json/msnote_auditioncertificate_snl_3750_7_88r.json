@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        " عبد الله بن أحمد بن محمد بن حنبل"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند أنس بن مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 63 "
+      ],
+      "classmark": [
+        "3750/7"
+      ],
+      "folio_number": [
+        "88r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "897"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "396f1b58-0224-425a-ba40-2ed8aa5c8726",
+      "startIndex": 115,
+      "text": "يوم الخميس سابع عشرين شهر رجب سنة سبع وتسعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "81aad764-46dd-4ee7-86ce-318b220e8a23",
+      "startIndex": 71,
+      "text": "أحمد بن الفقيه علي بن محمد الشعراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "c98b1fdf-d84f-48c1-85f0-f06c34d82829",
+      "startIndex": 274,
+      "text": "يوسف بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 207,
+      "guid": "ebc6fea1-838b-44b4-a72d-9938cf01468b",
+      "startIndex": 171,
+      "text": "ببستاننا بالسهم الأعلى من صالحية دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "f36e0653-d804-4524-b004-bc53271c3917",
+      "startIndex": 34,
+      "text": "شمس الدين محمد بن علي بن طولون",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله أنهاه قراءة عليَّ الولد شمس الدين محمد بن علي بن طولون فسمعه أحمد بن الفقيه علي بن محمد الشعراني وصح ذلك يوم الخميس سابع عشرين شهر رجب سنة سبع وتسعين وثمان ماية ببستاننا بالسهم الأعلى من صالحية دمشق وأجزت لهما أن يروياه عني وجميع ما يجوز لي وعني روايته بشرطه وكتب يوسف بن عبد الهادي"
+}

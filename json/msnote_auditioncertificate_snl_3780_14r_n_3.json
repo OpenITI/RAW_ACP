@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "14r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 30,
+      "guid": "3cf188c6-ba25-46ac-8f74-693e247ced8e",
+      "startIndex": 18,
+      "text": "ابن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "8e2a16b8-2b05-47bf-88f2-60f499efe979",
+      "startIndex": 35,
+      "text": " أبي الحسن بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "528"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "e9a4a8ee-b971-4085-82e0-e12d67ec97df",
+      "startIndex": 83,
+      "text": "جمادى الآخرة سنة ثمان وعشرين وخمس مائة",
+      "type": "date"
+    }
+  ],
+  "text": "وشاهدت سماع شيخنا ابن الحرستاني على أبي الحسن بن قبيس بقراءة والده والسماع بخطه في جمادى الآخرة سنة ثمان وعشرين وخمس مائة"
+}

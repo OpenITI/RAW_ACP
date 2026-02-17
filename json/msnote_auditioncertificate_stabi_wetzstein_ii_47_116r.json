@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن يحيى ثعلب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " كتاب الفصيح في اللغة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 47"
+      ],
+      "folio_number": [
+        "116r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00063197"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "09c3a82e-25da-43c8-ae90-067313365ee2",
+      "startIndex": 139,
+      "text": "جمال الدين أبي بكر محمد بن أحمد بن محمد بن عبد الله البكري الشريشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "0d172910-0fc7-41c8-9c87-c67c205450b9",
+      "startIndex": 244,
+      "text": "ابن القُبيطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-salihiya"
+          ]
+        ]
+      },
+      "endIndex": 680,
+      "guid": "568525e9-aaae-418d-ad7e-2de3a5ed3669",
+      "startIndex": 661,
+      "text": "الدار الصالحية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 601,
+      "guid": "6511a137-9e87-4a36-a850-2221f13c1989",
+      "startIndex": 570,
+      "text": " القاسم بن محمد بن يوسف البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 453,
+      "guid": "6a22d6c2-eebb-4c6b-831c-c8960c62b0f6",
+      "startIndex": 382,
+      "text": "تقي الدين أبو العباس أحمد بن عبد الحليم بن عبد السلام بن تيمية الحرَّاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "787a37ad-eeca-466e-9ddd-92cd971df659",
+      "startIndex": 293,
+      "text": " جمال الدين أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1-3"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 658,
+      "guid": "86de7565-674d-498d-9d98-a568c496a69c",
+      "startIndex": 613,
+      "text": "يوم الأربعاء مستهل صفر سنة ثلاث وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 525,
+      "guid": "8a72c56d-2292-4aa0-863c-f7724f03e34a",
+      "startIndex": 522,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 512,
+      "guid": "9a248d0e-ad56-4f01-ab35-542196e64510",
+      "startIndex": 464,
+      "text": "بدر الدين أبو عبد الله محمد بن أحمد بن محمد السبط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 519,
+      "guid": "9ebd0367-f24b-4502-ba1a-190add748a7f",
+      "startIndex": 516,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 364,
+      "guid": "aa929781-6e03-4f7b-9611-40840a203167",
+      "startIndex": 361,
+      "text": "محمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الكتاب على صاحبه الشيخ الإمام العالم السيد الكبير الزاهد الورع شيخ العلماء فاضل الفضلاء فخر الإسلام قدوة الأنام مفتي المسلمين جمال الدين أبي بكر محمد بن أحمد بن محمد بن عبد الله البكري الشريشي، فسح الله في مدته بسماعه فيه أصلاً من ابن القُبيطي، بقراءة الفقيه العالم  الفاضل الأديب جمال الدين أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي، أخوه محمد، والإمام الأوحد تقي الدين أبو العباس أحمد بن عبد الحليم بن عبد السلام بن تيمية الحرَّاني، والمحدث بدر الدين أبو عبد الله محمد بن أحمد بن محمد السبط، ومحمد وأحمد ابنا شرف الدين يعقوب بن محمد الحلبي، وكاتبه القاسم بن محمد بن يوسف البرزالي. وصح وثبت يوم الأربعاء مستهل صفر سنة ثلاث وثمانين وستمئة بالدار الصالحية بدمشق وأجاز الشيخ للجماعة ما له تسميعه."
+}

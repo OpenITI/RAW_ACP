@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        null
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 43"
+      ],
+      "classmark": [
+        "3746/1"
+      ],
+      "folio_number": [
+        "75r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 406,
+      "guid": "1aa8c7e8-9477-4935-bf09-fdba7629e10b",
+      "startIndex": 401,
+      "text": "فاطمة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 365,
+      "guid": "27405035-af07-4c4c-a048-c017c7852b9a",
+      "startIndex": 361,
+      "text": "أسماء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "shubak"
+          ]
+        ]
+      },
+      "endIndex": 686,
+      "guid": "3368ba09-6d06-4073-86cc-f5b68e08f7e2",
+      "startIndex": 681,
+      "text": "الشوبك",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "3f2d8850-6c18-4abf-acc9-97af4e3e7bab",
+      "startIndex": 368,
+      "text": "رقية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "74ef2f30-64af-4046-ad45-9f4ed713c16d",
+      "startIndex": 275,
+      "text": "زينب [بنت] موسى بن أبي العلاء المعروف والدها بابن حراش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "692"
+        ]
+      },
+      "endIndex": 757,
+      "guid": "915f2e52-0278-4b27-a6b2-2c196828855b",
+      "startIndex": 714,
+      "text": " ثاني عشري شهر صفر سنة اثنتين وتسعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 381,
+      "guid": "b75ab6bd-f463-4488-a840-445cd65f99ca",
+      "startIndex": 374,
+      "text": "ست الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 679,
+      "guid": "e1ba9465-74e0-4bb6-b280-861d0691ca71",
+      "startIndex": 632,
+      "text": "محمد بن عيسى بن محمد الشافعي المعروف بالبانياسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "68900104-2353-4ce5-a2dc-043da5d35229"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "e74731a6-d917-4678-86ea-3d8e336896f1",
+      "startIndex": 192,
+      "text": "ضياء الدين دانيال بن منكلي بن صرفا الكركي التركماني الشافعي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 587,
+      "guid": "f219f7c7-091e-4077-84d6-508733e0223e",
+      "startIndex": 540,
+      "text": "شهاب [الدين] أحمد بن نور الدين علي بن مكي النوري",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذه المشيخة التي خرجها الإمام الحافظ علاء الدين علي بن بلبان الناصري رحمه الله وعدتها ثمانية أجزاء من أولها إلى آخرها على المخرجة له القاضي الأجل الإمام العالم العامل الفاضل قاضي القضاة ضياء الدين دانيال بن منكلي بن صرفا الكركي التركماني الشافعي فسمعها معي زوجة المسمع زينب [بنت] موسى بن أبي العلاء المعروف والدها بابن حراش وبناتها الثلثة من المسمع وهنَّ أسماء ورقية وست الحسن بنات المسمع وسمعت فاطمة بنتها أيضا من المسمع جميع الجزء الثامن الذي هو آخر المشيخة وبعض السادس والسابع وسمع من أول الخامس إلى آخر المشيخة الفقيه الأجل العدل شهاب [الدين] أحمد بن نور الدين علي بن مكي النوري وصح ذلك وثبت بقراءة كاتب هذه الطبقة الفقير محمد بن عيسى بن محمد الشافعي المعروف بالبانياسي بالشوبك المحروس بدار المسمع بها في ثاني عشري شهر صفر سنة اثنتين وتسعين وستماية وصلى الله على سيدنا محمد وآله وصحبه وسلم |وأجاز لي المسمع ولمن ذُكر جميع ما يجوز له روايته بشره عند أهله كتبه محمد المذكور آخر هذه الورقة  ورضي الله عن المحسنين|"
+}

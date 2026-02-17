@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "69r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "05d0b9ec-0564-4c9d-a835-24c2915bfbdf",
+      "startIndex": 110,
+      "text": "كمال الدين عبد الرحيم بن عبد الملك بن عبد الملك المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "670"
+        ]
+      },
+      "endIndex": 446,
+      "guid": "07ad6d9a-d55e-423e-af1d-44a51ffdf88a",
+      "startIndex": 402,
+      "text": "يوم الثلثا سادس عشري رمضان سنة سبعين وستماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "184fb753-e850-4d48-aac5-0e0a48e4a99b",
+      "startIndex": 61,
+      "text": " شمس الدين عبد الرحمن بن الشيخ أبي عمر بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "28a62e2b-4b91-4fdc-a184-1ad4dcac76f5",
+      "startIndex": 343,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "451d09ae-0c17-422f-bee3-3a18b293c83c",
+      "startIndex": 233,
+      "text": "الكندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "6a777489-d40b-4e94-8ba8-3af222a79c89",
+      "startIndex": 180,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 340,
+      "guid": "6f0cc013-a51d-443d-ac2e-61d50d6b516b",
+      "startIndex": 336,
+      "text": " محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "85c5d161-fcfa-4dd1-a7b0-652a8f4a930e",
+      "startIndex": 255,
+      "text": "وجيه الدين عبد الرحمن بن حسن السبتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 461,
+      "guid": "93ce7003-2361-4ea9-a382-4564894d6172",
+      "startIndex": 448,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "dd876b9b-e065-4286-aca0-2b13dff49427",
+      "startIndex": 297,
+      "text": "تقي الدين سليمان بن حمزة بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 390,
+      "guid": "ee81bdbc-932c-4e94-bd13-6b242537083c",
+      "startIndex": 349,
+      "text": "محمد بن زيد الدين أبي بكر بن محمد بن طرخان",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع أمالي ابن سمعون وهي عشرون مجلسا على الشيخين العلامة شمس الدين عبد الرحمن بن الشيخ أبي عمر بن قدامة وكمال الدين عبد الرحيم بن عبد الملك بن عبد الملك المقدسيين بسماعهما من ابن طبرزد خلا المجلس العشرين وبسماع الأول لجميعها من الكندي بسندهما بقراءة وجيه الدين عبد الرحمن بن حسن السبتي الشيخ تقي الدين سليمان بن حمزة بن أحمد وابناه محمد وأحمد ومحمد بن زيد الدين أبي بكر بن محمد بن طرخان وآخرون في يوم الثلثا سادس عشري رمضان سنة سبعين وستماية بالجامع المظفري وأجازا لهم "
+}

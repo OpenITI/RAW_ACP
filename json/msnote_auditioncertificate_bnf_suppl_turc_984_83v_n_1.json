@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبوعبد الرحمن أحمد بن شعيب بن علي بن سنان بن بحر بن دينار النَّسائي "
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90044822"
+      ],
+      "work_title": [
+        "جزء من كتاب الطهارة/ سنن النسائي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "83v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f87.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f87.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "8bd57c5c-dbc1-42a2-ae5e-b9c9809f160d",
+      "index": 569,
+      "isZeroPoint": false,
+      "startIndex": 9,
+      "text": "أبي صادق مرشد بن يحيى بن القاسم المديني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "9470b70a-99ce-4ac8-90fd-bf7e98b0cf20",
+      "index": 571,
+      "isZeroPoint": false,
+      "startIndex": 108,
+      "text": "هبة الله بن علي بن سعود الأنصاري البوصيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "be0e0910-3516-4f85-bcb5-f48f6c15a77b",
+      "index": 570,
+      "isZeroPoint": false,
+      "startIndex": 56,
+      "text": "أبي الحسين يحيى بن إبراهيم بن زهر الصواف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 251,
+      "guid": "c56023f9-92b3-487c-9f8c-80fac9240e3f",
+      "index": 573,
+      "isZeroPoint": false,
+      "startIndex": 185,
+      "text": "هذا السماع صحيح وكتب مرشد بن يحيى بن القاسم بخطه في التاريخ المذكور",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "year": [
+          "517"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "cb61cb17-1dc4-47e1-81ff-94b8728f6fd9",
+      "index": 572,
+      "isZeroPoint": false,
+      "startIndex": 154,
+      "text": "سبع عشرة وخمس مائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه من أبي صادق مرشد بن يحيى بن القاسم المديني بقراءة أبي الحسين يحيى بن إبراهيم بن زهر الصواف جماعة منهم هبة الله بن علي بن سعود الأنصاري البوصيري سنة سبع عشرة وخمس مائة وتحت الطبقة هذا السماع صحيح وكتب مرشد بن يحيى بن القاسم بخطه في التاريخ المذكور."
+}

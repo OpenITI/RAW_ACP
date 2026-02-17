@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسن بن هبة الله الشافعي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "التوبة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 33"
+      ],
+      "classmark": [
+        "3744/2"
+      ],
+      "folio_number": [
+        "11r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer",
+          "copyist"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "1ce085a1-3cff-44af-93ab-0c9030d0cfff",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 215,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 208,
+      "guid": "3d6b402d-e0ef-4b8d-b92a-9d054ff88c62",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 190,
+      "text": "دار الحديث الأشرفية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "43816791-066c-4e41-9c65-9ca2d046156d",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 70,
+      "text": "محمد بن علي بن محمود أبي حامد بن الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "485524e7-0306-449b-ac22-3b9ebbbc0e88",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": "أبي الحجاج يوسف بن عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "733"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "8eaffee6-2c30-41e6-bd6f-09e3e38cf257",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 134,
+      "text": " يوم الأحد تاسع عشر ذي القعدة سنة ثلاث وثلاثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "fdcc9218-0832-4e0d-9d36-6bbc088a4125",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 115,
+      "text": "أبي الغنائم المازني",
+      "type": "person"
+    }
+  ],
+  "text": " قرأته على شيخنا الحافظ أبي الحجاج يوسف بن عبد الرحمن المزي بسماعه من محمد بن علي بن محمود أبي حامد بن الصابوني عن أبي الغنائم المازني يوم الأحد تاسع عشر ذي القعدة سنة ثلاث وثلاثين وسبعمية بدار الحديث الأشرفية كتبه محمد بن المحب نقله من الثبت"
+}

@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد محمد بن أحمد بن عبد الله ابن النقور البزاز "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "جزء فيه حديث نيل مصر وغير ذلك وشيء من حديث الصيدلاني رضوان بن أحمد رواية المخلص وشيء من حديث عيسى بن علي الوزير وشيء من حديث أبي القاسم الصيدلاني المقرئ "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 178"
+      ],
+      "classmark": [
+        "3771/4"
+      ],
+      "folio_number": [
+        "77r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "bustan_zayn"
+          ]
+        ]
+      },
+      "endIndex": 209,
+      "guid": "0da084cf-db13-4b82-b66f-14d604d05a53",
+      "startIndex": 193,
+      "text": "بستان زين الأمناء",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "5c37d21f-efb9-4093-92b9-ee16d8cfe09d",
+      "startIndex": 28,
+      "text": " أبي حفص عمر بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "5d6deda2-4041-4850-84a6-36cb04143ffe",
+      "startIndex": 112,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "a200e3be-63f8-4b6e-acf8-3f4d055ef175",
+      "startIndex": 126,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "d87d6ab4-26ba-4346-b771-3def5395198a",
+      "startIndex": 237,
+      "text": "صحيح ذلك وكتب عمر بن طبرزد البغدادي بقاسيون",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "e6a8cd0d-e1b8-4a75-96f1-5b54f7b7cb19",
+      "startIndex": 65,
+      "text": "أبي الحسن علي بن المظفر بن القاسم النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "603"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "e9023b04-eab5-4021-a42e-c9cfcdfe103d",
+      "startIndex": 158,
+      "text": "الثلثاء سلخ شوال سنة ثلاث وستمائة ",
+      "type": "date"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ أبي حفص عمر بن محمد بن طبرزد بقراءة أبي الحسن علي بن المظفر بن القاسم النشبي ولداه أبو بكر محمد وعمر حاضر في الرابعة وذلك في يوم الثلثاء سلخ شوال سنة ثلاث وستمائة ببستان زين الأمناء مع جماعة نقل من خط القارئ صحيح ذلك وكتب عمر بن طبرزد البغدادي بقاسيون"
+}

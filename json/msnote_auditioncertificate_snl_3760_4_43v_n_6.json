@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج4"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 112"
+      ],
+      "classmark": [
+        "3760/4"
+      ],
+      "folio_number": [
+        "43v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 475,
+      "guid": "1c283b30-7915-43bf-b412-d00eed527f57",
+      "startIndex": 471,
+      "text": "عنبر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "305c707f-e2ed-4d36-99b7-e5cf74c66468",
+      "startIndex": 56,
+      "text": "أبي عبد الله محمد بن علي بن خطلج الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 729,
+      "guid": "45e3265d-c48f-4b7e-9fa3-15694515c6d1",
+      "startIndex": 682,
+      "text": "أبو القاسم بن أبي الحسن بن علي الباذسي الإجازاتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "479a1297-68a3-4af9-a205-83d320f47ba7",
+      "startIndex": 251,
+      "text": " شرف الدين أبو القاسم تميم بن السيد الكبير الصدر العدل الرضا عز الدين أبي بكر محمد بن تميم بن البندنيجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 767,
+      "guid": "519fd8d5-2176-4063-bb30-0a65be89bce1",
+      "startIndex": 732,
+      "text": "محمد بن أبي الفتح بن علي خادم العدل ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 597,
+      "guid": "5fed19e5-b15c-43c5-b866-a667e7430fcd",
+      "startIndex": 568,
+      "text": "حماد بن ثمال بن حماد السويداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 559,
+      "guid": "70b3faba-a371-4df0-b8dc-b30e13149e3b",
+      "startIndex": 539,
+      "text": "أبو القاسم عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "al-ma'muniya"
+          ]
+        ]
+      },
+      "endIndex": 998,
+      "guid": "841b9731-4344-412f-aa72-a440ae10aeab",
+      "startIndex": 974,
+      "text": "مسجد نور الدين بالمأمونية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "88e9e013-c893-419b-8bcb-9d9a0ef71d2c",
+      "startIndex": 146,
+      "text": "ابن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 679,
+      "guid": "a00a21cc-20ad-4c29-982c-ac722eb6f728",
+      "startIndex": 667,
+      "text": "أبو الحسن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "631"
+        ]
+      },
+      "endIndex": 971,
+      "guid": "a42ca49c-33d4-41cb-907e-ed523fa57782",
+      "startIndex": 917,
+      "text": " يوم الأحد ثالث جمادى الأولى من سنة إحدى وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 897,
+      "guid": "a6b970bf-2da4-49df-85ac-1aac70bd5da2",
+      "startIndex": 821,
+      "text": "أحمد بن أبي الثناء محمود بن إبراهيم بن نبهان التنوخي عرف بابن الجوهري الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 463,
+      "guid": "a77e05e9-a41e-48eb-90cc-b30994742f10",
+      "startIndex": 389,
+      "text": "بدر الدين أبي محمد عبد اللطيف بن أبي الحسن علي بن النفيس بن بورنداز السلامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 659,
+      "guid": "acff3dd9-8ab9-4a70-acc1-e8df52c3eaad",
+      "startIndex": 600,
+      "text": "العز أبو منصور الحسين بن عبد الرحمن بن مسعود يعرف بابن الحلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 818,
+      "guid": "bc5a0ad5-c120-41a7-a9e9-d7471b42d372",
+      "startIndex": 769,
+      "text": "أبو العباس أحمد بن علي بن أبي محمد بن نفادة السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "c89784b4-8904-4be5-bf67-31ac9286a580",
+      "startIndex": 158,
+      "text": "ابن مهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 531,
+      "guid": "df8ff8b3-7650-42ae-93b6-f1c7750964de",
+      "startIndex": 490,
+      "text": "أبو منصور محمد ابن علي بن عبد الصمد المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "e79f3320-dd1c-43f5-b020-c1d18c0d191e",
+      "startIndex": 198,
+      "text": "شمس الدين أبي جعفر محمد بن الحسين بن أبي البدر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "f57b075e-e7d0-45e0-ba59-2d1b8f52bccf",
+      "startIndex": 106,
+      "text": "تجني ابنة عبد الله الوهبانية",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع صح هذا الجزء الرابع من حديث المحاملي على الشيخ أبي عبد الله محمد بن علي بن خطلج الصوفي بسماعه من تجني ابنة عبد الله الوهبانية بسماعها من ابن طلحة عن ابن مهدي عنه بقراءة الشيخ العالم المفيد شمس الدين أبي جعفر محمد بن الحسين بن أبي البدر الكاتب شرف الدين أبو القاسم تميم بن السيد الكبير الصدر العدل الرضا عز الدين أبي بكر محمد بن تميم بن البندنيجي أبقاهما الله تعالى والإمام العالم بدر الدين أبي محمد عبد اللطيف بن أبي الحسن علي بن النفيس بن بورنداز السلامي وفتاه عنبر [...] والعفيف أبو منصور محمد ابن علي بن عبد الصمد المقرئ وولده أبو القاسم عبد الرحمن والشيخ حماد بن ثمال بن حماد السويداوي والعز أبو منصور الحسين بن عبد الرحمن بن مسعود يعرف بابن الحلي وولده أبو الحسن علي وأبو القاسم بن أبي الحسن بن علي الباذسي الإجازاتي ومحمد بن أبي الفتح بن علي خادم العدل وأبو العباس أحمد بن علي بن أبي محمد بن نفادة السلمي وأحمد بن أبي الثناء محمود بن إبراهيم بن نبهان التنوخي عرف بابن الجوهري الدمشقيان وهذا خطه وذلك في يوم الأحد ثالث جمادى الأولى من سنة إحدى وثلثين وستماية بمسجد نور الدين بالمأمونية وصلى الله على محمد وآله فيه بعد سمع جميع صح وهو صحيح"
+}

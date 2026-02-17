@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمرو محمد بن أحمد بن حمدان الحيري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سؤالات أبي عمرو محمد بن أحمد بن حمدان الحيري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "155v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f163.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f163.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 40,
+      "guid": "8b8c262a-0d61-473d-b792-59a659474cf5",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "bf49ed67-29f4-4eb5-a874-273bb711d945",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 47,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "693"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "dc4df865-221a-4389-ab8f-98850de4674a",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 65,
+      "text": "يوم الجمعة الثاني عشر من رمضان سنة ثلاث وتسعين وستمئة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه عليه بهذا الإسناد بقراءة يوسف المزي ابنه عبد الرحمن وآخرون يوم الجمعة الثاني عشر من رمضان سنة ثلاث وتسعين وستمئة"
+}

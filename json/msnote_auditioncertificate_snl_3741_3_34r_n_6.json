@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "34r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "664"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "13330428-0bed-4c1e-9672-85add0145104",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 156,
+      "text": "سلخ ربيع الأول سنة أربع وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 213,
+      "guid": "3388f0c0-e020-4552-9bf4-ac86258bed56",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 195,
+      "text": "منزل المسمع بقاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "3aa39e86-01c4-461c-b6b8-7bf2968b2dcb",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 141,
+      "text": "زينب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "3b7b8dc1-b90d-461c-92d0-dd43996c2ceb",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 105,
+      "text": "إسماعيل بن إبراهيم بن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "5b8d6cb7-5626-40ed-9aae-19d2183c7470",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 37,
+      "text": "عبد الله بن محمد بن أحمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "9d054d8f-aef5-46ab-bebb-f49fb65f3832",
+      "index": 106,
+      "isZeroPoint": false,
+      "startIndex": 285,
+      "text": "ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 28,
+      "guid": "9d4abbca-7c51-4322-b12f-57a9f046f5c4",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "أحمد بن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "e204e45c-b7c3-4967-819d-fbda1543c981",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 74,
+      "text": "أبو بكر بن أحمد بن عبد الحميد",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على أحمد بن عبد الدائم بقراءة عبد الله بن محمد بن أحمد بن عبد الله أبو بكر بن أحمد بن عبد الحميد وإسماعيل بن إبراهيم بن الخباز وابنته زينب وآخرون في سلخ ربيع الأول سنة أربع وستين وستماية بمنزل المسمع بقاسيون لم يسمعها عليه إلا الأحاديث الثمانية المعلم عليها بالحمرة فليعلم كتبه ابن المحب"
+}

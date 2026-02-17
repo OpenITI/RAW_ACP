@@ -1,0 +1,380 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يحيى بن منصور الشافعي النيسابوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعين المخرجة من مسموعات النيسابوري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/4"
+      ],
+      "folio_number": [
+        "55r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "00e8476f-ebfa-4b34-b538-f636462b026a",
+      "startIndex": 317,
+      "text": "عزيز الدولة ريحان بن عبد الله الأمجدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 928,
+      "guid": "02dea315-b23e-4bf4-8e31-45b5a2e31b51",
+      "startIndex": 897,
+      "text": "محمد بن إبراهيم بن عيسى الإربلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "ribad_nasiri"
+          ]
+        ]
+      },
+      "endIndex": 1112,
+      "guid": "09fc30c3-f6d8-4107-920a-4a8f4bb9f410",
+      "startIndex": 1098,
+      "text": "الرباط الناصري ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "146eea79-8ef2-4deb-b68a-7b29748776e2",
+      "startIndex": 272,
+      "text": "رمضان بن يوسف بن عبد الله الآمدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 827,
+      "guid": "19d5da90-0337-455e-a841-f6dd81b74654",
+      "startIndex": 800,
+      "text": "سعيد بن وحيش بن شبيب السوادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 846,
+      "guid": "280aa692-05ca-4ca9-bac5-fdb50a4e76dc",
+      "startIndex": 842,
+      "text": "عائشة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 791,
+      "guid": "28c28be1-dd2d-4004-b500-0fb20619da12",
+      "startIndex": 764,
+      "text": "محمد بن محمود بن سيف المغربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 682,
+      "guid": "2b548419-4bf0-4722-8d51-76dd9e79d34e",
+      "startIndex": 650,
+      "text": "عماد الدين بن رجب بن أحمد الفارقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 429,
+      "guid": "33834554-5d58-4112-a160-93f626fa2743",
+      "startIndex": 356,
+      "text": "محمد بن الملك الظاهر شادي ابن الملك الناصر داود بن عيسى بن أبي بكر بن أيوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 1095,
+      "guid": "415a2096-9633-41b6-b091-5836c77ed288",
+      "startIndex": 1045,
+      "text": " يوم السبت سابع عشر ذي القعدة سنة تسع وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1195,
+      "guid": "42057d5e-2af4-40ae-bd77-cb5be41213d6",
+      "startIndex": 1158,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+},
+      "endIndex": 1438,
+      "guid": "524003f9-0439-4b79-a0de-180af467e278",
+      "startIndex": 1339,
+      "text": "صحيح ذلك كتبه أحمد بن الشيخ أبي الخير سلامة بن إبراهيم المعروف والده بالحداد الحنبلي رحمه الله تعالى",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 647,
+      "guid": "5f5c77f6-0c82-4b70-93fd-62b78e078406",
+      "startIndex": 605,
+      "text": "عبد الرحمن بن سليمان بن عبد الرحمن التكريتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 755,
+      "guid": "759ac4cd-72c6-44ba-af20-09d0d94e79d6",
+      "startIndex": 729,
+      "text": "ندى بن محمود بن ندى الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 554,
+      "guid": "7a44e6a2-99f7-4474-95d7-168253161e69",
+      "startIndex": 511,
+      "text": "عبد المحمود بن أحمد بن أبي العلاء المارداني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "9dfab4f1-455c-4575-8516-21e97767dfa5",
+      "startIndex": 311,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 508,
+      "guid": "ab8201d8-7782-4fcf-9903-e986420e39b9",
+      "startIndex": 447,
+      "text": "محمد بن ضياء الدين أحمد بن عبد اللطيف بن رضوان الخطيب التكريتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "af833738-8d3e-476e-a498-380b8177ec71",
+      "startIndex": 182,
+      "text": "أبي جعفر أحمد بن علي القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "d1ab2ba3-d5a5-4878-9f0b-91dc1e1629d6",
+      "startIndex": 79,
+      "text": "زين الدين أبي العباس أحمد بن الشيخ أبي الخير سلامة بن إبراهيم بن سلامة الحداد الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1036,
+      "guid": "d41455ed-3ce8-47a8-8cd7-073e13379684",
+      "startIndex": 969,
+      "text": "عز الدين أبي العباس أحمد بن أبي إسحق إبراهيم بن عمر بن الفرج الفارثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 894,
+      "guid": "d4246dbe-bdea-4458-88c7-26d1d570b03d",
+      "startIndex": 866,
+      "text": "محمد بن يعقوب بن سعيد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "d620ae6f-88ee-45ef-84cb-5a99e7c7b520",
+      "startIndex": 228,
+      "text": " أبو الفتح ابن داود بن هارون المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 696,
+      "guid": "e2751d33-66d7-4353-b23e-94457f54d060",
+      "startIndex": 694,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 840,
+      "guid": "e6a75561-e412-4844-a0c9-16662def23cf",
+      "startIndex": 836,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 691,
+      "guid": "fc8c78f5-cfe7-4ba5-b13b-b629eaf5e216",
+      "startIndex": 685,
+      "text": "أبو بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 596,
+      "guid": "fd609805-802b-4585-8aba-0a967b00d6db",
+      "startIndex": 556,
+      "text": "عبد الله بن عبد الله بن عبد الله التفليسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذه الأربعين لمحمد بن يحيى النيسابوري على الشيخ الإمام الزاهد المسند زين الدين أبي العباس أحمد بن الشيخ أبي الخير سلامة بن إبراهيم بن سلامة الحداد الحنبلي بإجازته من الشيخ أبي جعفر أحمد بن علي القرطبي فسمع السادة الشيخ أبو الفتح ابن داود بن هارون المنبجي والشيخ رمضان بن يوسف بن عبد الله الآمدي وولده محمد وعزيز الدولة ريحان بن عبد الله الأمجدي ومحمد بن الملك الظاهر شادي ابن الملك الناصر داود بن عيسى بن أبي بكر بن أيوب حضر في الثالثة ومحمد بن ضياء الدين أحمد بن عبد اللطيف بن رضوان الخطيب التكريتي وعبد المحمود بن أحمد بن أبي العلاء المارداني وعبد الله بن عبد الله بن عبد الله التفليسي والشيخ عبد الرحمن بن سليمان بن عبد الرحمن التكريتي وعماد الدين بن رجب بن أحمد الفارقي وأبو بكر وعمر ابنا إبراهيم بن عنبر وعمر حضر وندى بن محمود بن ندى الواسطي والشيخ محمد بن محمود بن سيف المغربي والشيخ سعيد بن وحيش بن شبيب السوادي وولداه أحمد وعائشة حاضرة في الثالثة ومحمد بن يعقوب بن سعيد المقدسي ومحمد بن إبراهيم بن عيسى الإربلي وصح ذلك وثبت بحضور شيخنا الإمام العلامة عز الدين أبي العباس أحمد بن أبي إسحق إبراهيم بن عمر بن الفرج الفارثي في بكرة يوم السبت سابع عشر ذي القعدة سنة تسع وستين وستماية بالرباط الناصري بسفح جبل قاسيون ظاهر دمشق وكتب فقير رحمة ربه علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه ورفق به حامدا الله ومصليا على نبيه محمد وآله وصحبه ومسلما فيه مصلح على سبط إسحق إبراهيم وذلك صحيح كتبه علي بن مسعود عفا الله عنه صحيح ذلك كتبه أحمد بن الشيخ أبي الخير سلامة بن إبراهيم المعروف والده بالحداد الحنبلي رحمه الله تعالى"
+}

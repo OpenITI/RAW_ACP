@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن سعيد بن عبد الرحمن القشيري الحراني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "تاريخ الرقة ومن نزلها من أصحاب رسول الله صلى الله عليه وسلم والتابعين والفقهاء والمحدثين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 173"
+      ],
+      "classmark": [
+        "3771/1"
+      ],
+      "folio_number": [
+        "14v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "4890eaf5-ec14-4137-a881-c96007f4c110",
+      "startIndex": 150,
+      "text": "أبي القاسم ابن الطفيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "35a9c08a-a130-4ed3-aa1a-5a289a3fabc5"
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "6d36a066-5b90-4baa-81ce-4fa573c67f78",
+      "startIndex": 190,
+      "text": "ناصر الدين محمد بن طغريل بن عبد الله الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 379,
+      "guid": "93e8dd21-5501-45a1-a2ec-b36ea7317c35",
+      "startIndex": 363,
+      "text": "منزله بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "98f314ce-ea03-4e22-822b-a984d39af811",
+      "startIndex": 241,
+      "text": "أحمد بن محمد بن غازي بن عبد الله الزاهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "ac6c59ad-f114-41ab-bbe6-4b8bee6a0394",
+      "startIndex": 176,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "af9d5649-ec7d-4483-8ff9-184bde41a8d5",
+      "startIndex": 64,
+      "text": "سعد الدين أبي المفضل يحيى بن محمد بن سعد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "719"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "e3ab3376-f195-4d55-b20d-41e058b85777",
+      "startIndex": 309,
+      "text": "الثلاثاء رابع عشر جمادى الأولى سنة تسع عشرة وسبعمائة",
+      "type": "date"
+    }
+  ],
+  "text": "سمع جميع كتاب تاريخ الرقة على الشيخ الجليل المسند المعمر الصالح سعد الدين أبي المفضل يحيى بن محمد بن سعد بن عبد الله المقدسي صان الله قدره بإجازته من أبي القاسم ابن الطفيل أنا السلفي بقراءة ناصر الدين محمد بن طغريل بن عبد الله الصيرفي كاتبه أحمد بن محمد بن غازي بن عبد الله الزاهدي وآخرون وصح ذلك وثبت في يوم الثلاثاء رابع عشر جمادى الأولى سنة تسع عشرة وسبعمائة بمنزله بسفح قاسيون وأجاز لنا مروياته"
+}

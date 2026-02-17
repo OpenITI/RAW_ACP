@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمرو محمد بن أحمد بن حمدان الحيري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سؤالات أبي عمرو محمد بن أحمد بن حمدان الحيري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "164v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f172.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f172.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 185,
+      "guid": "25430165-ea67-41fd-a534-1617498a3afe",
+      "index": 80,
+      "isZeroPoint": false,
+      "startIndex": 172,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "46bc2902-bdf5-42e1-a959-5bfee0e961bb",
+      "index": 78,
+      "isZeroPoint": false,
+      "startIndex": 86,
+      "text": "عمر بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "e272a8ea-559f-46a9-bee7-4e97f8f3918f",
+      "index": 77,
+      "isZeroPoint": false,
+      "startIndex": 30,
+      "text": "محمد بن يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "714"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "f2b87d75-97e9-43ab-bc9d-6f80abf3bdd3",
+      "index": 79,
+      "isZeroPoint": false,
+      "startIndex": 115,
+      "text": "يوم السبت التاسع من جمادى الآخرة سنة أربع عشرة وسبعمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة كاتب السماع محمد بن يوسف بن الزكي عبد الرحمن بن يوسف المزي ابن أخيه عمر بن عبد الرحمن وصح ذلك في يوم السبت التاسع من جمادى الآخرة سنة أربع عشرة وسبعمائة بالجامع المظفري بسفح جبل قاسيون والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلم"
+}

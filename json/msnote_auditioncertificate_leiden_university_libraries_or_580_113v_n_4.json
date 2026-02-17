@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "113v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "14be356c-9dad-4ceb-adc6-69cbd152f6f9",
+      "startIndex": 17,
+      "text": "طاهر بن عمر بن طاهر المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 339,
+      "guid": "659509f6-0f79-475e-9e59-ec7594ec4f9d",
+      "startIndex": 323,
+      "text": "دار السنة النورية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "675"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "72c2e59d-ff02-4483-9c4a-4dd07d7689da",
+      "startIndex": 348,
+      "text": "الأربعاء سادس عشر ذي قعدة سنة خمس وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "7aee38da-8304-47c4-972b-3071fc108833",
+      "startIndex": 285,
+      "text": "عبد الله بن يحيى بن أبي بكر الجزائري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "f9fb378a-0ad5-42be-a79a-1cfc13df7037",
+      "startIndex": 203,
+      "text": "أبي القاسم عبد الصمد الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "fbafd41e-808f-47ff-9454-831c443b3bc7",
+      "startIndex": 102,
+      "text": "أبي حامد محمد بن الشيخ أبي الحسن علي بن محمود المحمودي الصابوني",
+      "type": "person"
+    }
+  ],
+  "text": "سمع الشيخ الصالح طاهر بن عمر بن طاهر المصري جميع هذا الجزء وهو الثامن المذكور على الشيخ الإمام الحافظ أبي حامد محمد بن الشيخ أبي الحسن علي بن محمود المحمودي الصابوني وفقه الله بحق إجازته من الشيخ القاضي أبي القاسم عبد الصمد الحرستاني رحمه الله وصح ذلك بقراءة العبد الفقير إلى رحمة ربه عبد الله بن يحيى بن أبي بكر الجزائري بدار السنة النورية في يوم الأربعاء سادس عشر ذي قعدة سنة خمس وسبعين وستماية والحمد لله وحده وصلواته على سيدنا محمد وآله وصحبه وسلم"
+}

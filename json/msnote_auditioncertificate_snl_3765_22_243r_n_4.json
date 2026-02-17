@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن السني أحمد بن محمد بن إسحق بن إبراهيم الدينوري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "القناعة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 153"
+      ],
+      "classmark": [
+        "3765/22"
+      ],
+      "folio_number": [
+        "243r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 46,
+      "guid": "6e54041c-674f-4a24-8038-08c9de6c63a7",
+      "startIndex": 8,
+      "text": " أبي القاسم عبد الله بن الحسين بن رواحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "91bcac29-2f0d-4887-863c-c2c1136d364b",
+      "startIndex": 197,
+      "text": "عبد الله الحلبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "a974471f-7e12-45ae-a7bf-ba6a421a7ae7",
+      "startIndex": 71,
+      "text": " أحمد بن محمد بن عبد الله الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "b64f2496-53a0-4747-bc23-138fce0b7272",
+      "startIndex": 58,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "644"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "cdcf76c1-ede5-4b0b-a48b-6317b626c3eb",
+      "startIndex": 130,
+      "text": "الإثنين ثامن عشر المحرم سنة أربع وأربعين وستـ[ـمئة]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 190,
+      "guid": "e4bd813d-26c4-493d-9882-4c7562c927bb",
+      "startIndex": 183,
+      "text": "جامع حلب",
+      "type": "place"
+    }
+  ],
+  "text": "وسمعه من أبي القاسم عبد الله بن الحسين بن رواحة بسماعه من السلفي بقراءة أحمد بن محمد بن عبد الله الظاهري ومن خطه نقلت وصح ذلك يوم الإثنين ثامن عشر المحرم سنة أربع وأربعين وستـ[ـمئة] بجامع حلب وكتب عبد الله الحلبي "
+}

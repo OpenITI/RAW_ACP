@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء حديثي لابن عساكر"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 830"
+      ],
+      "folio_number": [
+        "10r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1831174081/1200/0/00000025.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007489"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "695"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "22053367-076a-483b-b336-561458859cec",
+      "startIndex": 145,
+      "text": "جمادى الآخر سنة خمس وتسعين [وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "4aaba352-5169-429e-9555-3e87788d75e2",
+      "startIndex": 46,
+      "text": "شرف الدين أحمد بن هبة الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "5a6f641d-fa58-4160-9ce7-58f4e7609936",
+      "startIndex": 122,
+      "text": "محمد بن أحمد الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "6015587d-bda9-4c50-946f-6863efc72248",
+      "startIndex": 99,
+      "text": "المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "d7726ccd-9c8a-465b-b0ac-ad289375f3d7",
+      "startIndex": 110,
+      "text": "عبد الرحمن",
+      "type": "person"
+    }
+  ],
+  "text": "سمع الجزء من نسخة البرزالي وهذا منه على الشيخ شرف الدين أحمد بن هبة الله بإجازته من الشيوخ. بقراءة المزي ابنه عبد الرحمن ومحمد بن أحمد الذهبي في جمادى الآخر سنة خمس وتسعين [وستمائة]. [في الأصل خمس وأربعين وهو خطأ]"
+}

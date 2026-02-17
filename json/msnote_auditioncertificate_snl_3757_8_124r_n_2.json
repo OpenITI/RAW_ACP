@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن أبي شريح الأنصاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المائة الشريحية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        " FMMU 96"
+      ],
+      "classmark": [
+        "3757/8"
+      ],
+      "folio_number": [
+        "124r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 510,
+      "guid": "0547d294-8a26-4f80-9dc7-3b3857ae45b8",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 465,
+      "text": "يوم الاثنين سابع عشر صفر سنة ثلث وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 418,
+      "guid": "0d328669-418a-4a47-96d5-067a970a3c40",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 391,
+      "text": "علي بن أبي الهيجاء بن الرقيق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 286,
+      "guid": "10fb2069-cdaf-42dd-a848-a329f055fe84",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "برهان الدين أبو إسحق إبراهيم بن الشيخ القدوة أبي عبد الله محمد بن عبد الله الظاهري الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 707,
+      "guid": "1b293062-0be8-4894-a592-4663b78f6f79",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 658,
+      "text": "علي بن مسعود بن نفيس بن عبد الله الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "24b7a538-f273-4517-9840-f0b5974ec34c",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 341,
+      "text": "غازي بن أزبك المظفري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "2728695c-0acc-4a17-a875-e590f13ed0e2",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "ابن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 451,
+      "guid": "428c00ac-3115-49e4-acde-152d38641a38",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 421,
+      "text": "شعبان بن أبي بكر بن عمر الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "7f8c1ef2-4305-4c30-bb2e-5566e29a037b",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 302,
+      "text": "محمد بن سنقر البسري العزيزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 807,
+      "guid": "ccbe2bb7-f4e2-46bd-ad9a-5d10b87d33dc",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 758,
+      "text": "صحيح ذلك وكتب محمد بن موهوب بن سلامة عفا الله عنه ",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-zawiyat_al-jamaliya"
+          ]
+        ]
+      },
+      "endIndex": 550,
+      "guid": "ce4f92f5-2844-4360-a27e-ef783628acf5",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 513,
+      "text": "ظاهر القاهرة بالمقسم بالزاوية الجمالية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "e755eadd-1d7c-4dae-8748-7a75359a1d77",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 77,
+      "text": "شمس الدين أبي عبد الله محمد بن موهوب بن سلامة الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 388,
+      "guid": "ff6589b4-6b93-49af-b510-e7c60430fcdf",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 363,
+      "text": "موسى بن [أيدتكين؟] العزيزي",
+      "type": "person"
+    }
+  ],
+  "text": " بلغت بقراءتي سماعا لجميع هذه الماية الشريحية على الشيخ الإمام العالم الفاضل شمس الدين أبي عبد الله محمد بن موهوب بن سلامة الحراني أيده الله بحق سماعه فيه نقلا من ابن اللتي بسنده أعلاه فسمعه السادة برهان الدين أبو إسحق إبراهيم بن الشيخ القدوة أبي عبد الله محمد بن عبد الله الظاهري الحلبي وأولاد أخواته محمد بن سنقر البسري العزيزي وأخوه لأمه غازي بن أزبك المظفري وموسى بن [أيدتكين؟] العزيزي وعلي بن أبي الهيجاء بن الرقيق وشعبان بن أبي بكر بن عمر الإربلي وصح وثبت في يوم الاثنين سابع عشر صفر سنة ثلث وستين وستماية بظاهر القاهرة بالمقسم بالزاوية الجمالية وأجاز المسمع لي ولهم جميع ما يجوز عنه وله روايته بشرطه ولفظ به حين سألته قاله وكتبه الفقير إلى الله تعالى علي بن مسعود بن نفيس بن عبد الله الموصلي ثم الحلبي حامدا الله ومصليا ومسلما وحسبنا الله ونعم الوكيل صحيح ذلك وكتب محمد بن موهوب بن سلامة عفا الله عنه "
+}

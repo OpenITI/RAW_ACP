@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الحسين بن عبد الله الآجري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الغرباء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 139"
+      ],
+      "classmark": [
+        "3764/5"
+      ],
+      "folio_number": [
+        "63v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "defaultLabel": "Place1",
+      "guid": "17f77d5d-8b36-4fad-8c6e-030a6fc0e846",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "1e1de36c-cf6f-40f2-83e2-b573115116ba",
+      "startIndex": 98,
+      "text": "البادرائي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "23607e6f-9bd3-4530-9d7a-3103ee709216",
+      "startIndex": 147,
+      "text": "محمد بن حمزة بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 306,
+      "guid": "4773e67a-fa3d-482f-a9a8-d0493ee10094",
+      "startIndex": 301,
+      "text": "الجبل ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "992cdc93-3b44-41f8-8f90-7cd0b4e72861",
+      "startIndex": 16,
+      "text": "شمس الدين محمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "a2d0734d-50ed-4ea6-8eab-acee2b38e8ee",
+      "startIndex": 229,
+      "text": "علي بن عمر بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "a8ee25ce-8d32-417a-bd6e-676e173f5720",
+      "startIndex": 77,
+      "text": "موفق الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "ae486bc5-d8b8-459f-93af-1b02014b4bc0",
+      "startIndex": 118,
+      "text": "أبي غالب بن الباقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "c82331b5-1689-47c6-8de9-0fe2a97c7acf",
+      "startIndex": 189,
+      "text": "محمد بن إبراهيم بن عبد الله بن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "eb24e732-e7b7-4361-9492-0147a045771f",
+      "startIndex": 259,
+      "text": "الإثنين ثالث محرم سنة ثمان وستين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه على الشيخ شمس الدين محمد بن عبد الرحيم بن عبد الواحد المقدسي بسماعه من موفق الدين بسماعه من البادرائي بسماعه من أبي غالب بن الباقلاني بقراءة محمد بن حمزة بن أحمد المقدسي والسماع بخطه محمد بن إبراهيم بن عبد الله بن أبي عمر وعلي بن عمر بن أحمد وآخرون يوم الإثنين ثالث محرم سنة ثمان وستين وستمائة بالجبل "
+}

@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "192v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f197.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f197.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "09671606-252d-4691-91ba-772b16fcef5b",
+      "index": 189,
+      "isZeroPoint": false,
+      "startIndex": 209,
+      "text": "شمس الدين أبو عبد الله محمد بن يوسف بن عبد القادر الخليلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 636,
+      "guid": "1a787a59-41ae-42e6-b9e3-e2819f2624e5",
+      "index": 197,
+      "isZeroPoint": false,
+      "startIndex": 596,
+      "text": "عبد الرحمن بن علي بن مظفر بن أحمد الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 540,
+      "guid": "24e9d704-7408-4b0d-ac81-014014780e95",
+      "index": 195,
+      "isZeroPoint": false,
+      "startIndex": 502,
+      "text": "علي بن أحمد بن علي بن أبي العلاء الحسني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 290,
+      "guid": "33605cc3-e706-4051-b495-2e16fbb17e06",
+      "index": 190,
+      "isZeroPoint": false,
+      "startIndex": 273,
+      "text": "عماد الدين أبو بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 468,
+      "guid": "451fcdf0-866a-4ff6-9e9d-f0c8e53a3171",
+      "index": 193,
+      "isZeroPoint": false,
+      "startIndex": 418,
+      "text": "شهاب الدين أحمد بن أبي بكر بن الملك أبو المعز يعقوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "7336f615-0ab5-45cc-a165-526e4fe60ec7",
+      "index": 188,
+      "isZeroPoint": false,
+      "startIndex": 177,
+      "text": "ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 499,
+      "guid": "949bab4e-18b5-4716-b3aa-b5a01dd10fb2",
+      "index": 194,
+      "isZeroPoint": false,
+      "startIndex": 471,
+      "text": "بدر الدين حسن بن محمد بن منعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 727,
+      "guid": "96cdea0e-328c-4e85-8a83-50511d6e1310",
+      "index": 199,
+      "isZeroPoint": false,
+      "startIndex": 714,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 408,
+      "guid": "b7c75c56-260f-40b0-b3a2-99d8903dc4be",
+      "index": 192,
+      "isZeroPoint": false,
+      "startIndex": 355,
+      "text": "شمس الدين محمد بن أحمد بن أبي بكر بن عبد الصمد الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "ccfba5fc-9b25-4a8f-badd-ffcd5feb4009",
+      "index": 187,
+      "isZeroPoint": false,
+      "startIndex": 114,
+      "text": "أبي عبد الله محمد بن المسلم بن ملك الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 352,
+      "guid": "d4290e8e-d237-4600-9e91-2849d3314923",
+      "index": 191,
+      "isZeroPoint": false,
+      "startIndex": 293,
+      "text": "شهاب الدين أحمد بن محمد بن علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 593,
+      "guid": "f57afb12-efca-46db-a2de-270305fed308",
+      "index": 196,
+      "isZeroPoint": false,
+      "startIndex": 543,
+      "text": "شرف الدين موسى بن محمد بن محمد بن عبد المنعم الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "726"
+        ]
+      },
+      "endIndex": 711,
+      "guid": "fc808249-1363-499b-a99d-e513af58cd73",
+      "index": 198,
+      "isZeroPoint": false,
+      "startIndex": 659,
+      "text": "يوم الخميس ثاني رمضان المبارك سنة ست وعشرين وسبع مائة",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على سيدنا قاضي القضاة شمس الدين ضياء الإسلام شرف الأنام بقية السلف الكرام سيد العلماء والحكام أبي عبد الله محمد بن المسلم بن ملك الحنبلي أيده الله بسماعه من ابن البخاري بسنده فسمعه الجماعة شمس الدين أبو عبد الله محمد بن يوسف بن عبد القادر الخليلي وأخوه عماد الدين أبو بكر وشهاب الدين أحمد بن محمد بن علي بن أحمد بن عبد الواحد المقدسي وشمس الدين محمد بن أحمد بن أبي بكر بن عبد الصمد الحنبلي والمولى شهاب الدين أحمد بن أبي بكر بن الملك أبو المعز يعقوب وبدر الدين حسن بن محمد بن منعة وعلي بن أحمد بن علي بن أبي العلاء الحسني وشرف الدين موسى بن محمد بن محمد بن عبد المنعم الحنفي وعبد الرحمن بن علي بن مظفر بن أحمد الشافعي والخط له وصح وثبت في يوم الخميس ثاني رمضان المبارك سنة ست وعشرين وسبع مائة بالجامع المظفري بسفح قاسيون والحمد لله وحده وصلى الله على سيدنا محمد وآله وسلم"
+}

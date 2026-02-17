@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن العزيز البغوي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حكايات أبي بسطام"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/2"
+      ],
+      "folio_number": [
+        "22v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "221424a9-678e-46db-8758-3172d9a8ed1c",
+      "startIndex": 23,
+      "text": "أبي بكر محمد بن عبد الله بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 115,
+      "guid": "44f678a2-2784-4d31-a52b-ac6036c4daa4",
+      "startIndex": 108,
+      "text": "الضيائية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "4fca0606-4ebe-42b1-93ac-54f3532011c0",
+      "startIndex": 122,
+      "text": "محمد بن خليل المنصفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "784"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "aae17f8d-f347-43e3-b4b4-d7290e295534",
+      "startIndex": 61,
+      "text": "الأحد ثاني شهر رمضان سنة أربع وثمانين وسبعمية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأته على حافظ الإسلام أبي بكر محمد بن عبد الله بن المحب يوم الأحد ثاني شهر رمضان سنة أربع وثمانين وسبعمية بالضيائية كتبه محمد بن خليل المنصفي"
+}

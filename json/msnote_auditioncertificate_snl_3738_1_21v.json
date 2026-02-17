@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يحيى بن معين"
+      ],
+      "work_title": [
+        "معرفة الرجال"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 15/16"
+      ],
+      "classmark": [
+        "3738/1"
+      ],
+      "folio_number": [
+        "21v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 35,
+      "guid": "2c1b1c6b-0447-4981-8cf6-4cce8dfac10e",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 7,
+      "text": "أبو عبد الله أحمد بن الأبنوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "4"
+        ],
+        "year": [
+          "375"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "338b56de-ee25-4243-9132-587534f8402d",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 83,
+      "text": "ربيع الآخر من سنة خمس وسبعين وثلثماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "89d89333-0ae7-477b-9420-423c0ada65b7",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 46,
+      "text": "محمد بن علي بن زاذان المالكي",
+      "type": "person"
+    }
+  ],
+  "text": " سمعت وأبو عبد الله أحمد بن الأبنوسي بقراءته ومحمد بن علي بن زاذان المالكي وذلك في ربيع الآخر من سنة خمس وسبعين وثلثماية"
+}

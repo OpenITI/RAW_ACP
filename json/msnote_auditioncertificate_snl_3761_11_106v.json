@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن حبان بن عبد العزيز الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من حديث أبي بكر الأزدي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 119"
+      ],
+      "classmark": [
+        "3761/11"
+      ],
+      "folio_number": [
+        "106v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "1dbabb06-645d-4f65-b7c9-43efead8ed61",
+      "startIndex": 21,
+      "text": "النفيس أبي القاسم الحسين بن الحسن الأسدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 215,
+      "guid": "5cc038db-58f2-4e7d-96f1-caf0318ee102",
+      "startIndex": 188,
+      "text": "ناصر بن محمد بن منصور الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "548"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "868e57e5-8954-4048-8a3f-e1f795fa3072",
+      "startIndex": 271,
+      "text": "خامس عشر شهر رمضان سنة ثمان وأربعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "98b857d9-278d-42a7-b085-263abb14d392",
+      "startIndex": 236,
+      "text": "عمر بن علي بن الخضر القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "9acc5ce1-b16e-48f7-b862-acfe4f7882ef",
+      "startIndex": 128,
+      "text": "أبو عبد الله محمد بن حمدان العراقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "a76c8119-dcf1-4350-9049-331f3d651483",
+      "startIndex": 164,
+      "text": "علي بن أبي نصر الفارقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "e48474f2-b99e-4920-89af-87506557c08f",
+      "startIndex": 95,
+      "text": "أبو القاسم علي بن الحسن الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 325,
+      "guid": "f17e19a0-e784-4e7e-b842-e2a600b82a35",
+      "startIndex": 317,
+      "text": "جامع دمشق",
+      "type": "place"
+    }
+  ],
+  "text": "سمع جميعه على القاضي النفيس أبي القاسم الحسين بن الحسن الأسدي صاحبه الإمام العالم الحافظ الثقة أبو القاسم علي بن الحسن الشافعي وأبو عبد الله محمد بن حمدان العراقي وعلي بن أبي نصر الفارقي وناصر بن محمد بن منصور الخباز بقراءة كاتب البلاغ عمر بن علي بن الخضر القرشي وذلك في خامس عشر شهر رمضان سنة ثمان وأربعين وخمسماية بجامع دمشق"
+}

@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 1781"
+      ],
+      "folio_number": [
+        "23r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 697,
+      "guid": "07237e74-6f59-40ab-8700-5b50fc071083",
+      "startIndex": 686,
+      "text": "محمد بن إسحق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 614,
+      "guid": "1b79596a-0071-41dd-b38e-d13e38f7ccd0",
+      "startIndex": 562,
+      "text": " أبي سعيد عبد الرحيم بن عبد الله بن عبد الرحيم البرقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "24f6571b-23c0-4520-8012-5e4412a46dc0",
+      "startIndex": 146,
+      "text": "شرف الدين أبي الحسن علي بن الوجيه النجيب أبي المكارم [المفضل بن علي بن مفرج المقدسي]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 452,
+      "guid": "255b83a4-c816-4c57-a852-d62b02114d95",
+      "startIndex": 400,
+      "text": "أبي محمد عبد الله بن الوليد [بن] سعيد بن بكر الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 941,
+      "guid": "27c77598-efc7-4f11-b922-0cb407545359",
+      "startIndex": 872,
+      "text": " جلال الدين أبي الوفا خليل بن إسماعيل بن خلف [...] عبد العزيز بن [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "28073cab-152d-45a5-89af-d3365a64889b",
+      "startIndex": 352,
+      "text": "أبي القاسم عبد الرحمن بن محمد بن قابل الأيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 499,
+      "guid": "47efe670-9fa5-4f15-ad50-407636285565",
+      "startIndex": 457,
+      "text": "أبي محمد عبد الله بن محمد اللمائي القيرواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "5f5f120f-cc8f-4778-825c-cf63d2b59172",
+      "startIndex": 252,
+      "text": "الحافظ أبي طاهر أحمد بن محمد بن إبراهيم بن سلفة الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 681,
+      "guid": "6b0c44e3-2323-4965-a8a2-6a238eca3e5f",
+      "startIndex": 658,
+      "text": "زياد بن عبد الله البكائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1027,
+      "guid": "754bfbad-4e52-47c7-9abf-5f636d8a4946",
+      "startIndex": 972,
+      "text": "مرتضى بن العفيف أبي الجود حاتم بن مسلم [المقدسي الشافعي]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 347,
+      "guid": "89771ae5-a2f0-4c31-a5e4-b3eeb770e498",
+      "startIndex": 311,
+      "text": "الضياء بدر بن عبد الله الحُذَادَاذِيّ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 653,
+      "guid": "9d2e1bf7-68f9-4d8e-8093-4a02ef42477b",
+      "startIndex": 619,
+      "text": "أبي محمد [عبد الملك بن] هشام النحوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 862,
+      "guid": "9feadbe0-3fec-4ec0-bcd6-f6edd037eadd",
+      "startIndex": 756,
+      "text": "علم الدين بن مولانا القاضي الأجل الفقيه الإمام المفتي [...] الصاحب المولا القاضي الأجل المخلص أبي الحسن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 558,
+      "guid": "a0ed15ac-adb5-45da-9201-7e848da536a8",
+      "startIndex": 503,
+      "text": " أبي محمد [عبد الله بن] جعفر بن الورد بن زنجويه البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 1126,
+      "guid": "d529080c-63b3-4bb1-9a84-9c8fa47c0585",
+      "startIndex": 1094,
+      "text": "دار المولا العلم المجاورة للمدرسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "607"
+        ]
+      },
+      "endIndex": 1091,
+      "guid": "e027d786-be45-4ebb-bfb1-db30b8c9991b",
+      "startIndex": 1041,
+      "text": "يوم الخميس الحادي والعشرين من شعبان سنة سبع وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 958,
+      "guid": "e83d13ab-309a-4884-8871-26fce1226963",
+      "startIndex": 944,
+      "text": "أبو الطاهر محمد",
+      "type": "person"
+    }
+  ],
+  "text": "[.......................................................................................................] الفقيه الإمام العالم شيخ الإسلام النبيه شرف الدين أبي الحسن علي بن الوجيه النجيب أبي المكارم [المفضل بن علي بن مفرج المقدسي] بحق سماعه من الشيخين الحافظ أبي طاهر أحمد بن محمد بن إبراهيم بن سلفة الأصبهاني والضياء بدر بن عبد الله الحُذَادَاذِيّ عن أبي القاسم عبد الرحمن بن محمد بن قابل الأيلي عن أبي محمد عبد الله بن الوليد [بن] سعيد بن بكر الأنصاري عن أبي محمد عبد الله بن محمد اللمائي القيرواني عن أبي محمد [عبد الله بن] جعفر بن الورد بن زنجويه البغدادي عن أبي سعيد عبد الرحيم بن عبد الله بن عبد الرحيم البرقي عن أبي محمد [عبد الملك بن] هشام النحوي عن زياد بن عبد الله البكائي عن محمد بن إسحق لصاحبه المولا القاضي [...................] الوزير الصاحب علم الدين بن مولانا القاضي الأجل الفقيه الإمام المفتي [...] الصاحب المولا القاضي الأجل المخلص أبي الحسن علي والعدلان جلال الدين أبي الوفا خليل بن إسماعيل بن خلف [...] عبد العزيز بن [...] وأبو الطاهر محمد بقراءة أبيه مرتضى بن العفيف أبي الجود حاتم بن مسلم [المقدسي الشافعي] وهذا خطه في يوم الخميس الحادي والعشرين من شعبان سنة سبع وستمائة بدار المولا العلم المجاورة للمدرسة [........]."
+}

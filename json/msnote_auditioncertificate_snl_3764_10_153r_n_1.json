@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 141"
+      ],
+      "classmark": [
+        "3764/10"
+      ],
+      "folio_number": [
+        "153r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 285,
+      "guid": "761f0157-4b7f-404d-927f-2bf9c9dc3bdb",
+      "startIndex": 247,
+      "text": "القاهرة المعزية بمنزله بحارة بهاء الدين",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "79eedd7b-2521-4167-bc1a-93ae833eeca8",
+      "startIndex": 71,
+      "text": "ضياء الدين أبي الهدى عيسى بن يحيى بن أحمد الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 384,
+      "guid": "8e6773e1-9f47-4d5e-b711-78a6f0714414",
+      "startIndex": 342,
+      "text": "أحمد بن عبد الرحيم بن أبي عبد الله الشافعي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "b1afb4c3-9a64-4881-8234-73304638eafa",
+      "startIndex": 144,
+      "text": "مجد الدين أبو الخطاب محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "682"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "da64830f-b5ec-4bff-82c6-01558851e546",
+      "startIndex": 205,
+      "text": "رابع عشر شوال سنة اثنتين وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "f80bd7b4-41d4-4a8a-a6de-958e0b5d8869",
+      "startIndex": 188,
+      "text": "هاجر ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الفقيه الإمام الحافظ القدوة بقية المشايخ ضياء الدين أبي الهدى عيسى بن يحيى بن أحمد الأنصاري بسماعه فيه فسمعه ولده مجد الدين أبو الخطاب محمد وزوجه فتاة المسمع هاجر وصح وثبت في رابع عشر شوال سنة اثنتين وثمانين وستمائة بالقاهرة المعزية بمنزله بحارة بهاء الدين وأجاز لي ولهما جميع ما يجوز له روايته قاله وكتبه العبد أحمد بن عبد الرحيم بن أبي عبد الله الشافعي "
+}

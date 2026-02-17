@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "192v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f197.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f197.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "789"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "79f80ef9-3ce9-4f14-8860-4a5334c7d588",
+      "index": 204,
+      "isZeroPoint": false,
+      "startIndex": 162,
+      "text": "سادس عشر شوال سنة تسع وثمانين وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "7c917610-eb46-481b-9a2c-1a743ebdebb1",
+      "index": 202,
+      "isZeroPoint": false,
+      "startIndex": 76,
+      "text": "علي بن يحيى بن [...] الحجازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 21,
+      "guid": "911ad4f1-5e6c-449a-ac51-0211006af382",
+      "index": 200,
+      "isZeroPoint": false,
+      "startIndex": 14,
+      "text": "البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "9882be15-8ea9-4dda-8c40-f301ee66af49",
+      "index": 201,
+      "isZeroPoint": false,
+      "startIndex": 30,
+      "text": "أبي عبد الله محمد بن يوسف بن أسد الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "9d0fc641-c17d-4bfb-b44c-2421774c3597",
+      "index": 205,
+      "isZeroPoint": false,
+      "startIndex": 205,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "fe729cd1-a255-446b-8f4b-f7aaf1920193",
+      "index": 203,
+      "isZeroPoint": false,
+      "startIndex": 112,
+      "text": "أبو بكر بن إبراهيم بن سعيد القرعوني",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه عليَّ عن البرزالي بقراءة أبي عبد الله محمد بن يوسف بن أسد الحلبي الشيخ علي بن يحيى بن [...] الحجازي والشيخ أبو بكر بن إبراهيم بن سعيد القرعوني نزيل القدس في سادس عشر شوال سنة تسع وثمانين وسبعمئة كتبه محمد بن عبد الله بن أحمد بن المحب والحمد لله"
+}

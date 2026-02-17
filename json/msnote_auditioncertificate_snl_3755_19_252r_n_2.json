@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن بن شاذان السكري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي الحسن السكري وأماليه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/19"
+      ],
+      "folio_number": [
+        "252r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "0a00eae2-6664-4a46-bc4a-5ca0a831afae",
+      "index": 197,
+      "isZeroPoint": false,
+      "startIndex": 209,
+      "text": "جمال الدين يوسف بن صالح ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 409,
+      "guid": "17aab78f-a930-4d9a-bc88-bd20c238b37f",
+      "index": 199,
+      "isZeroPoint": false,
+      "startIndex": 384,
+      "text": "أحمد بن الشيخ محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 787,
+      "guid": "22c846e0-c343-4006-aba2-f8b9b4da4b24",
+      "index": 204,
+      "isZeroPoint": false,
+      "startIndex": 760,
+      "text": " محمد بن يحيى بن محمد بن سعد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "3af8ac57-8cef-4595-8dd8-0439deab4bd4",
+      "index": 198,
+      "isZeroPoint": false,
+      "startIndex": 280,
+      "text": " شهاب الدين أحمد بن أبي بكر ابن أيوب الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "4f94ebdc-6b17-4089-831b-98e95968e85e",
+      "index": 195,
+      "isZeroPoint": false,
+      "startIndex": 105,
+      "text": "أسد الدين محمد بن محمد ابن المغربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 578,
+      "guid": "52cf13a0-85de-4e9e-a794-6c36a2a3b46a",
+      "index": 201,
+      "isZeroPoint": false,
+      "startIndex": 555,
+      "text": "شمس الدين محمد بن المسمع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 529,
+      "guid": "695316fb-4bb1-4c66-ba11-4a45bf3ff8f1",
+      "index": 200,
+      "isZeroPoint": false,
+      "startIndex": 466,
+      "text": "الشريف زين الدين حسين ابن شمس الدين أحمد بن حسين بن حمزة الحسيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "92585d48-1c2a-4638-8433-5967d69f0151",
+      "index": 196,
+      "isZeroPoint": false,
+      "startIndex": 147,
+      "text": "محمد بن عبد الرحمن المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 664,
+      "guid": "aaea62b0-0249-487b-a4ff-463c08206f85",
+      "index": 202,
+      "isZeroPoint": false,
+      "startIndex": 604,
+      "text": "شمس الدين محمد بن عثمان بن عمر بن مسلم بن عمر الكناني الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "744"
+        ]
+      },
+      "endIndex": 744,
+      "guid": "ca9bd5b8-baca-4002-b8a4-a2e33b6e0e14",
+      "index": 203,
+      "isZeroPoint": false,
+      "startIndex": 694,
+      "text": "يوم الخميس مستهل ذي الحجة سنة أربع وأربعين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "kamiliya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 63,
+      "guid": "ef31d4fb-5960-4082-b546-ffde2f4c84ad",
+      "index": 194,
+      "isZeroPoint": false,
+      "startIndex": 41,
+      "text": "التربة الكاملية بقاسيون",
+      "type": "place"
+    }
+  ],
+  "text": " ثم قراته عليه مرة أخرى بالمكان المذكور [التربة الكاملية بقاسيون] عن شيوخه الثلاثة المذكورين أعلاه فسمعه أسد الدين محمد بن محمد ابن المغربي والشيخ محمد بن عبد الرحمن المقدسي المذكوران وسمعه سوى الميعاد الثالث جمال الدين يوسف بن صالح المذكور وسمعه سوى الميعاد الأول والثاني والخامس شهاب الدين أحمد بن أبي بكر ابن أيوب الحنفي إمام جامع الأفرم وسمع الميعاد الأول والثاني والخامس والسابع أحمد بن الشيخ محمد المقدسي المذكور وسمع الميعاد السادس والسابع والتاسع وهو الأخير الشريف زين الدين حسين ابن شمس الدين أحمد بن حسين بن حمزة الحسيني وسمع الميعاد الخامس فقط شمس الدين محمد بن المسمع وسمع الميعاد الثامن فقط شمس الدين محمد بن عثمان بن عمر بن مسلم بن عمر الكناني الصالحي وصح ذلك في تسعة مجالس آخرها يوم الخميس مستهل ذي الحجة سنة أربع وأربعين وسبعماية وأجاز لهم وكتب محمد بن يحيى بن محمد بن سعد"
+}

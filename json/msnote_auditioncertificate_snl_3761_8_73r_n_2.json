@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد بشر بن الحسين الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الزبير بن عدي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/8"
+      ],
+      "folio_number": [
+        "73r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "04d2b0ab-94c4-424c-a4f1-539e350f7c58",
+      "startIndex": 143,
+      "text": "المزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "3e0e5669-0a90-42f9-a0c7-602818ae346a",
+      "startIndex": 97,
+      "text": "ابن البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "67adb8dc-2e00-4a05-9d26-4f4bdc9ca313",
+      "startIndex": 110,
+      "text": "علي بن أحمد المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "7fd76a4e-2d21-4c76-83fc-bec3d975f534",
+      "startIndex": 183,
+      "text": "ابن المحب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 308,
+      "guid": "912e6504-71c1-4dd6-9a58-9a84b751cf66",
+      "startIndex": 271,
+      "text": "منزلها تجاه جامع الحنابلة بصالحية دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "870"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "a81b69e3-703f-4a76-9712-d4793b04f50b",
+      "startIndex": 209,
+      "text": "يوم الأحد ثاني المحرم سنة سبعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "acb33729-abae-40d9-a19c-12a7b3c2d190",
+      "startIndex": 82,
+      "text": "ابن الحرستاني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "b43b5d54-ef4e-43ce-be3f-5193322770d8",
+      "startIndex": 34,
+      "text": "فاطمة بنت الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 356,
+      "guid": "ea1fbe6d-95cf-4d66-b173-f4d67792f71b",
+      "startIndex": 331,
+      "text": "يوسف بن حسن بن عبد الهادي ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء على الشيخة الأصيلة فاطمة بنت الحرستاني بإجازتها من المشايخ الثلاثة ابن الحرستاني وابن البالسي وعلي بن أحمد المرداوي بإجازتهم من المزي بسنده آخره وبإجازة ابن البالسي من ابن المحب وصح ذلك وثبت في يوم الأحد ثاني المحرم سنة سبعين وثمان ماية أحسن الله تقضيتها بمنزلها تجاه جامع الحنابلة بصالحية دمشق المحروسة وأجازت وكتب يوسف بن حسن بن عبد الهادي "
+}

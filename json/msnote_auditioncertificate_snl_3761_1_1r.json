@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر محمد بن محمد بن جعفر الأنباري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر الأنباري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 116"
+      ],
+      "classmark": [
+        "3761/1"
+      ],
+      "folio_number": [
+        "1r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "0238e545-0401-4e1c-9a8b-546d906a69cb",
+      "startIndex": 133,
+      "text": "ابن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "482ab8da-a19d-4e1a-89ae-d6c93a8f659e",
+      "startIndex": 176,
+      "text": "أبو طاهر أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "55e14cf0-a041-42f3-86fe-0ef106c3ea60",
+      "startIndex": 43,
+      "text": "زين الدين محاسن بن محمد بن مسلم ابن سلمان الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 415,
+      "guid": "ae8e8789-90d9-4f06-a997-de1a8c99e45b",
+      "startIndex": 371,
+      "text": "محمد بن أحمد بن إبراهيم بن علي بن محمد القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "e65583c1-8487-4406-a345-376d63082a7a",
+      "startIndex": 201,
+      "text": "التاج علي بن عبد الملك الرفاء الشاغوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "651"
+        ]
+      },
+      "endIndex": 302,
+      "guid": "f1320267-4507-413a-9c7a-174b4d4cf176",
+      "startIndex": 248,
+      "text": "يوم السبت ثاني عشر جمادى الآخرة سنة إحدى وخمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "suq_labadin"
+          ]
+        ]
+      },
+      "endIndex": 320,
+      "guid": "f82c8b36-64d7-466a-945b-001081fef7f4",
+      "startIndex": 305,
+      "text": "اللبادين من دمشق",
+      "type": "place"
+    }
+  ],
+  "text": "قرأ علي هذا الجزء أجمع الفقيه الأجل المحدث زين الدين محاسن بن محمد بن مسلم ابن سلمان الحراني وفقه الله تعالى بحق سماعي فيه منقولا من ابن اللتي بسنده فيه وسمعه معه بقراءته ولدي أبو طاهر أحمد وفقه الله والتاج علي بن عبد الملك الرفاء الشاغوري وذلك في يوم السبت ثاني عشر جمادى الآخرة سنة إحدى وخمسين وستماية باللبادين من دمشق المحروسة وصلاته على محمد [...] سلامه [و...] وكتب محمد بن أحمد بن إبراهيم بن علي بن محمد القرشي عفا الله عنه و[...]"
+}

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مجهول المؤلف"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه فضل رجب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 65 "
+      ],
+      "classmark": [
+        "3750/11"
+      ],
+      "folio_number": [
+        "155r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "2627f894-3a2d-4beb-bbf8-fa5dfb598853",
+      "index": 172,
+      "isZeroPoint": false,
+      "startIndex": 269,
+      "text": "أحمد بن يونس بن أحمد بن بركة الإربلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 391,
+      "guid": "3a1ace78-7aa4-4502-aea5-938da4c91fe7",
+      "index": 173,
+      "isZeroPoint": false,
+      "startIndex": 342,
+      "text": "يوم الأحد ثاني جمادى الآخرة سنة ثمان وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "51d98f7c-5127-4316-aad2-6a6c5846e6ed",
+      "index": 170,
+      "isZeroPoint": false,
+      "startIndex": 181,
+      "text": "أبي الحسن علي بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 402,
+      "guid": "88f3c640-31af-4966-a571-f7193b4181e5",
+      "index": 174,
+      "isZeroPoint": false,
+      "startIndex": 394,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "a94356fc-3427-42e4-8d9b-36e43101e370",
+      "index": 171,
+      "isZeroPoint": false,
+      "startIndex": 220,
+      "text": "أبو عبد الله محمد بن محمد بن حسين الكنجي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "c53b4819-db7c-425d-ac34-fc4529f68d12",
+      "index": 169,
+      "isZeroPoint": false,
+      "startIndex": 51,
+      "text": "تقي الدين أبي محمد إسماعيل بن إبراهيم بن أبي اليسر شاكر بن عبد الله بن سليمان التنوخي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع هذا الجزء على الشيخ الإمام العلامة مسند الشام تقي الدين أبي محمد إسماعيل بن إبراهيم بن أبي اليسر شاكر بن عبد الله بن سليمان التنوخي بسماعه فيه بقراءة صاحبه الشيخ المحدث المفيد أبي الحسن علي بن مسعود بن نفيس الموصلي أبو عبد الله محمد بن محمد بن حسين الكنجي الصوفي وأحمد بن يونس بن أحمد بن بركة الإربلي وهذا خطه غفر الله له ولطف به وصح في يوم الأحد ثاني جمادى الآخرة سنة ثمان وستين وستماية بجامع دمشق عمره الله بذكره والحمد لله على إحسانه وصلى الله وسلم على سيدنا محمد خاتم أنبيائه"
+}

@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عثمان بن أحمد بن عبد الله بن يزيد الدقاق المعروف بابن السماك "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد أبي عمرو عثمان الدقاق أو حديث حنبل بن إسحق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 182"
+      ],
+      "classmark": [
+        "3771/17"
+      ],
+      "folio_number": [
+        "212r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "35ce64fd-832b-4790-b6eb-9f90d9a9d77c",
+      "startIndex": 137,
+      "text": "عمر بن علي القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "44555dd7-c3aa-41ec-a4a8-d31a1eaa503d",
+      "startIndex": 171,
+      "text": "عبد السلام بن يوسف بن محمد الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "463a370e-996e-4c78-83c4-dd792b3856e4",
+      "startIndex": 80,
+      "text": " ابن الطيوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "4be768cf-8d64-4dfc-a350-432953f94a1e",
+      "startIndex": 93,
+      "text": "أبو الفتوح محمد بن علي بن الجلاجلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "564"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "a2955063-2928-4b0e-a5f4-861c3462859b",
+      "startIndex": 222,
+      "text": "رابع ذي الحجة سنة أربع وستين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "c6eaef6b-8557-4cb9-92ad-f80d91a2c8d6",
+      "startIndex": 161,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "ebf15544-bfb7-4cf5-898b-038641497e6c",
+      "startIndex": 8,
+      "text": " أبي محمد عبد الله بن أحمد بن هبة الله بن محمد بن حسنون النرسي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من أبي محمد عبد الله بن أحمد بن هبة الله بن محمد بن حسنون النرسي بسماعه من ابن الطيوري أبو الفتوح محمد بن علي بن الجلاجلي بقراءته وعمر بن علي القرشي وابنه عبد الله وعبد السلام بن يوسف بن محمد الدمشقي وبخطه السماع في رابع ذي الحجة سنة أربع وستين وخمسمائة"
+}

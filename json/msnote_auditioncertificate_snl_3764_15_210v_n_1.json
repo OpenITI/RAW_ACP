@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الخطيب البغدادي بجامع دمشق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 143"
+      ],
+      "classmark": [
+        "3764/15"
+      ],
+      "folio_number": [
+        "210v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "2a3d7a66-7d0f-4780-924e-fb55e9908774",
+      "startIndex": 143,
+      "text": "أحمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "41beb4aa-26b0-4017-b52a-b18ba660cdbe",
+      "startIndex": 45,
+      "text": "أبي الفتح محمد بن الحافظ أبي محمد عبد الغني بن عبد الواحد بن علي بن سرور المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "603"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "8fd941dc-debb-4a5f-a4d0-630b3f35e0ad",
+      "startIndex": 204,
+      "text": "الأحد الثالث من شعبان سنة ثلاث وستمائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "92e24ce6-5c6a-4b4e-adbd-f847b930ef94",
+      "startIndex": 126,
+      "text": "أبو الحسن علي بن أحمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "da4b52cb-91a8-4ff6-9c66-61216cd37547",
+      "startIndex": 9,
+      "text": "أبي حفص عمر بن محمد بن طبرزد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من أبي حفص عمر بن محمد بن طبرزد بقراءة أبي الفتح محمد بن الحافظ أبي محمد عبد الغني بن عبد الواحد بن علي بن سرور المقدسي أبو الحسن علي بن أحمد بن عبد الواحد والسماع بخط أبيه ومنه اختصرته وتاريخه يوم الأحد الثالث من شعبان سنة ثلاث وستمائة "
+}

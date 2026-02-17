@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "وكيع بن جراح بن مليح الرواسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث وكيع بن الجراح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 24/25"
+      ],
+      "classmark": [
+        "3740/12"
+      ],
+      "folio_number": [
+        "135v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "05c61647-e48f-43c1-a7b6-0a02b9a9ef0f",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 172,
+      "text": "بهاء الدين أبو إسحق إبراهيم بن شاكر بن عبد الله التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "26632aff-34eb-412f-994a-451b87920506",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 42,
+      "text": "أبي طاهر بركات بن إبراهيم بن طاهر الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 448,
+      "guid": "3f4431e4-adaa-4427-a2fe-2a78eb3bb356",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 439,
+      "text": "عبد الحافظ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "3f84afc1-8adb-4681-aae8-7cbb31fa9a57",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 243,
+      "text": "عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "4d66fa17-7a66-4bc6-912b-436d2b92e83f",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 119,
+      "text": "تاج الدين أبي الفرج إبراهيم بن يوسف بن محمد المعافري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "595"
+        ]
+      },
+      "endIndex": 423,
+      "guid": "781ce285-5b51-42dd-b900-a26d02653238",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 373,
+      "text": " يوم الاثنين رابع ذي الحجة سنة خمس وتسعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "97f8860f-995a-45b6-92b6-7f7883641966",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 94,
+      "text": "عبد الكريم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "9dc08d36-8fdb-4b24-8466-08c60282a4ae",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 255,
+      "text": "عبد العزيز ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "mahalat_hajar_al-dhahab"
+          ]
+        ]
+      },
+      "endIndex": 369,
+      "guid": "c58791ac-2f3b-4941-9cf4-0631261ffde8",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 343,
+      "text": "منزل المسمع بمحلة حجر الذهب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "d47c2607-6cbb-4f54-b2d2-1570df4df965",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 234,
+      "text": "إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "other"
+        ]
+      },
+      "endIndex": 492,
+      "guid": "e26459db-0c9d-4b80-94a5-f6a9086e161f",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 459,
+      "text": "ناصر الدين محمد بن عربشاه الهمداني",
+      "type": "person"
+    }
+  ],
+  "text": " وعليها أيضا سمع جميع هذا الجزء على الشيخ أبي طاهر بركات بن إبراهيم بن طاهر الخشوعي بسماعه من عبد الكريم بقراءة الإمام تاج الدين أبي الفرج إبراهيم بن يوسف بن محمد المعافري بهاء الدين أبو إسحق إبراهيم بن شاكر بن عبد الله التنوخي وولده إسماعيل وعبد الرحيم وعبد العزيز ابنا الإمام أبي محمد عبد المنعم بن الخضر بن شبل الحارثي عرف بابن عبد وذلك في منزل المسمع بمحلة حجر الذهب في يوم الاثنين رابع ذي الحجة سنة خمس وتسعين وخمس ماية نقل ذلك جميعه عبد الحافظ من نسخة لناصر الدين محمد بن عربشاه الهمداني مختصرا والحمد لله وحده وصلى الله على سيدنا محمد وآله"
+}

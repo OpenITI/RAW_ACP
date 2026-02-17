@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسن بن هبة الله الشافعي ابن عساكر"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعون الأبدال العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 80"
+      ],
+      "classmark": [
+        "3754/19"
+      ],
+      "folio_number": [
+        "217v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 269,
+      "guid": "3ce18f62-4903-4a8b-9bb7-9db4862f78bf",
+      "index": 204,
+      "isZeroPoint": false,
+      "startIndex": 223,
+      "text": "أبو بكر بن الحاج مسعود بن محمد الأصبهاني الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 570,
+      "guid": "5f354565-8d2d-4d0a-83e9-90f91565ecd7",
+      "index": 208,
+      "isZeroPoint": false,
+      "startIndex": 507,
+      "text": "صحيح ذلك وكتب محمد بن نصر بن عبد الرحمن بن محمد القرشي في تاريخه",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 452,
+      "guid": "6f381938-6fee-43e1-93d7-354ff4b21e0c",
+      "index": 207,
+      "isZeroPoint": false,
+      "startIndex": 423,
+      "text": "محمد بن أحمد بن محمد الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "7a67e433-b9ee-4c73-9e51-4d8b01a58a5f",
+      "index": 202,
+      "isZeroPoint": false,
+      "startIndex": 53,
+      "text": "شرف الدين أبي عبد الله محمد بن نصر الله بن عبد الرحمن بن محمد بن محفوظ القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "630"
+        ]
+      },
+      "endIndex": 355,
+      "guid": "80703f95-eb86-43fd-93d6-6c9782fc6a53",
+      "index": 205,
+      "isZeroPoint": false,
+      "startIndex": 305,
+      "text": "يوم الأربعاء سابع وعشرين شعبان من سنة ثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "8938afa9-4556-4686-b019-87854994e272",
+      "index": 203,
+      "isZeroPoint": false,
+      "startIndex": 161,
+      "text": " أبي القاسم علي بن الحسن بن هبة الله بن عبد الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "ribat_al-bayan"
+          ]
+        ]
+      },
+      "endIndex": 378,
+      "guid": "ddfda601-578b-4059-b43e-ac75a6d6f356",
+      "index": 206,
+      "isZeroPoint": false,
+      "startIndex": 358,
+      "text": "رباط الشيخ أبي البيان",
+      "type": "place"
+    }
+  ],
+  "text": " قرأت هذا الجزء جميعه على الشيخ الفقيه الإمام الأديب شرف الدين أبي عبد الله محمد بن نصر الله بن عبد الرحمن بن محمد بن محفوظ القرشي بسماعه من مؤلفها الإمام الحافظ أبي القاسم علي بن الحسن بن هبة الله بن عبد الله الشافعي فسمع أبو بكر بن الحاج مسعود بن محمد الأصبهاني الذهبي وآخرون لم يكمل لهم السماع وذلك في يوم الأربعاء سابع وعشرين شعبان من سنة ثلثين وستماية برباط الشيخ أبي البيان رحمه الله وكتب أفقر عباد الله إلى عفو الله محمد بن أحمد بن محمد الأصبهاني نفعه الله به وبسائر وجوه الخير والمسلمين أجمعين آمين صحيح ذلك وكتب محمد بن نصر بن عبد الرحمن بن محمد القرشي في تاريخه"
+}

@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن محمد بن عمرو بن شاكر، ابن القطان"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد ابن القطان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 82"
+      ],
+      "classmark": [
+        "3755/3"
+      ],
+      "folio_number": [
+        "23r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 159,
+      "guid": "b5cc4695-e2d1-437d-af8b-04729d96a9cb",
+      "index": 788,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "مصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "cc2a3bb4-7996-4f55-8b4e-23c1906c1379",
+      "index": 786,
+      "isZeroPoint": false,
+      "startIndex": 69,
+      "text": "أحمد بن محمد بن أحمد السلفي الأصبهاني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "d0593e19-c6a3-4b40-91a5-ec35f2655d17",
+      "index": 785,
+      "isZeroPoint": false,
+      "startIndex": 41,
+      "text": "أبي الحسن الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "4"
+        ],
+        "year": [
+          "517"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "d7d43a76-68d7-4a7f-af91-2b7f326418aa",
+      "index": 787,
+      "isZeroPoint": false,
+      "startIndex": 118,
+      "text": "شهر ربيع الأول سنة سبع عشرة وخمس ماية",
+      "type": "date"
+    }
+  ],
+  "text": " قرأ ما فيه بعلامة سلفي على الشيخ الجليل أبي الحسن الموصلي حاطه الله أحمد بن محمد بن أحمد السلفي الأصبهاني هذا خطه في شهر ربيع الأول سنة سبع عشرة وخمس ماية بمصر"
+}

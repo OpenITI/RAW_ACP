@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الباقي بن محمد البزاز"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المنتخب من حديث الأنصاري وفوائد ابن ماسي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 66- 67 "
+      ],
+      "classmark": [
+        "3752/2"
+      ],
+      "folio_number": [
+        "13r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "0bb3059e-5391-419e-bcce-73229aa921d4",
+      "index": 214,
+      "isZeroPoint": false,
+      "startIndex": 263,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 551,
+      "guid": "2fbb2d2f-c742-4731-b96a-dd5feb774c99",
+      "index": 218,
+      "isZeroPoint": false,
+      "startIndex": 535,
+      "text": "أبو عبد الله محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 1039,
+      "guid": "3c6bd9cb-173f-48bf-9330-629c912018cf",
+      "index": 223,
+      "isZeroPoint": false,
+      "startIndex": 970,
+      "text": "هذا السماع والإجازة صحيحان كتبه محمد بن إبراهيم بن عبد الواحد المقدسي ",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "495b7364-1494-40f8-bccf-1398a049b9f8",
+      "index": 215,
+      "isZeroPoint": false,
+      "startIndex": 321,
+      "text": "التاج الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 451,
+      "guid": "65728c90-bf83-48fe-9408-35330c85e042",
+      "index": 216,
+      "isZeroPoint": false,
+      "startIndex": 374,
+      "text": "شهاب الدين أبو صالح عبيد الله بن أبي القاسم عمر بن عبد الرحيم بن العجمي الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 685,
+      "guid": "75a956a6-c930-43a8-b531-d52ef78a226d",
+      "index": 220,
+      "isZeroPoint": false,
+      "startIndex": 648,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-salihyia_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 826,
+      "guid": "7b938287-2f7f-468c-9f9a-7224eae236f9",
+      "index": 222,
+      "isZeroPoint": false,
+      "startIndex": 764,
+      "text": "المدرسة الصالحية بخطة بين القصرين بالقاهرة المعزية بمنزل المسمع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 611,
+      "guid": "9af16fbf-31f7-42fa-be8f-3ed15e2b1da8",
+      "index": 219,
+      "isZeroPoint": false,
+      "startIndex": 554,
+      "text": "مجد الدين أبو المجد عبد المجيد بن محمد بن التابلان المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 527,
+      "guid": "dae2cd6b-5f73-4198-932e-cd9d3289349c",
+      "index": 217,
+      "isZeroPoint": false,
+      "startIndex": 454,
+      "text": "شرف الدين أبو محمد عبد الملك بن عبد الكريم بن عبد الرحمن بن الطوسي الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "662"
+        ]
+      },
+      "endIndex": 761,
+      "guid": "e89fa755-8cba-4e3b-a896-26794b346a32",
+      "index": 221,
+      "isZeroPoint": false,
+      "startIndex": 723,
+      "text": "غرة ربيع الأول سنة اثنتين وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "f0e995bb-5892-484c-9fdc-d9f14d52cafe",
+      "index": 213,
+      "isZeroPoint": false,
+      "startIndex": 91,
+      "text": "شمس الدين أبي عبد الله محمد بن الشيخ الإمام العالم أبي إسحق إبراهيم بن عبد الواحد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " بلغ السماع لجميعه على شيخنا الشيخ الإمام العالم العامل الكامل الزاهد العابد مفتي الفريقين شمس الدين أبي عبد الله محمد بن الشيخ الإمام العالم أبي إسحق إبراهيم بن عبد الواحد المقدسي أبقاه الله تعالى وجزاه خيرا في الدنيا والآخرة بحق سماعه لجميع الغيلانيات حضورا عن ابن طبرزد وبحق سماعه لجميع جزء الأنصاري وفوائد بن ماسي عن التاج الكندي بالسند المذكور فيه فسمعه السادة الأجلاء شهاب الدين أبو صالح عبيد الله بن أبي القاسم عمر بن عبد الرحيم بن العجمي الحلبي وشرف الدين أبو محمد عبد الملك بن عبد الكريم بن عبد الرحمن بن الطوسي الموصلي وولده أبو عبد الله محمد ومجد الدين أبو المجد عبد المجيد بن محمد بن التابلان المنبجي وكاتب الأحرف الفقير إلى الله تعالى علي بن مسعود بن نفيس الموصلي ثم الحلبي سامحه الله تعالى وهو القارئ وذلك في غرة ربيع الأول سنة اثنتين وستين وستماية بالمدرسة الصالحية بخطة بين القصرين بالقاهرة المعزية بمنزل المسمع أبقاه الله تعالى وأجاز لمن ذكر فيه بسؤالي له ما يجوز له روايته وكتبه علي بن مسعود بن نفيس الموصلي حامدا ومصليا ومسلما وحسبنا الله ونعم الوكيل هذا السماع والإجازة صحيحان كتبه محمد بن إبراهيم بن عبد الواحد المقدسي "
+}

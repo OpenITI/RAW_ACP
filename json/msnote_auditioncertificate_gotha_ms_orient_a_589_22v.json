@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن حنبل"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند أحمد بن حنبل"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 589"
+      ],
+      "folio_number": [
+        "22v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000595"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 38,
+      "guid": "32dedbbe-010f-4e64-a83e-5d8a5d92f477",
+      "startIndex": 23,
+      "text": "تقي الدين الدجوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "3c0787f1-6c43-426d-9099-fa6ed2d87e21",
+      "startIndex": 98,
+      "text": "شهاب الدين الأذرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "585b5445-3471-489d-9ded-981fa4ec1e06",
+      "startIndex": 196,
+      "text": "أحمد بن إبراهيم بن الخشاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "82b5ea4c-c4f2-4a20-b974-4a39a2c83c2f",
+      "startIndex": 41,
+      "text": "جمال الدين الحلاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "782"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "f0e883ae-30d4-481b-872f-d9f27622ff5d",
+      "startIndex": 133,
+      "text": "يوم الثلاثاء الخامس والعشرين من ذي قعدة (كذا) الحرام 782",
+      "type": "date"
+    }
+  ],
+  "text": "بلغ السماع على الشيخين تقي الدين الدجوي وجمال الدين الحلاوي برواية جد المسمع الثاني بقراءة القاضي شهاب الدين الأذرعي في المجلس 28 في يوم الثلاثاء الخامس والعشرين من ذي قعدة (كذا) الحرام 782. كتبه أحمد بن إبراهيم بن الخشاب."
+}

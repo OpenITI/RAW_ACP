@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "داود بن يزيد الأودي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند داود بن يزيد الأودي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "39r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f40.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f40.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "1842c579-0539-43a7-a4bf-4b7f19a42455",
+      "index": 497,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "أبو الحسن بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "4a6dff7a-9b86-41ee-aa44-65fcca27dc0b",
+      "index": 496,
+      "isZeroPoint": false,
+      "startIndex": 96,
+      "text": "أبي غانم ابن حمزة القزويني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "472"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "a30b06bb-31c5-4c65-bf0a-cb40c16cc549",
+      "index": 499,
+      "isZeroPoint": false,
+      "startIndex": 172,
+      "text": "رجب سنة اثنتين وسبعين وأربع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "c096843e-67aa-4b1d-b944-65a85f67a006",
+      "index": 498,
+      "isZeroPoint": false,
+      "startIndex": 147,
+      "text": "إسماعيل بن حمد الحداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "dfca86fe-35c1-47d7-8eae-96ef99456f8e",
+      "index": 495,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "أبي الفتح المطهر بن محمد بن جعفر البيع",
+      "type": "person"
+    }
+  ],
+  "text": "سمع الجزء كله على الوجه من الشيخ الحافظ أبي الفتح المطهر بن محمد بن جعفر البيع حرسه الله بقراءة أبي غانم ابن حمزة القزويني أبو الحسن بن حمزة أخوه وإسماعيل بن حمد الحداد في رجب سنة اثنتين وسبعين وأربع ماية"
+}

@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ثلاثة وثلاثون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1712"
+      ],
+      "folio_number": [
+        "117r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.refaiya.uni-leipzig.de/receive/DE1Book_manuscript_00066928"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 550,
+      "guid": "0fc6b552-0d76-463c-8f23-4df6f90d2904",
+      "startIndex": 537,
+      "text": "إسماعيل الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "2f5c58be-bbea-4190-9dd3-31ee9026bc1e",
+      "startIndex": 313,
+      "text": "عبد الله بن محمد بن عطاء الأذرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 501,
+      "guid": "3c996f09-8970-4417-b7b7-348c0c68b726",
+      "startIndex": 488,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 377,
+      "guid": "4819f9a7-7a1a-41ba-8c1f-a269fa63f9ca",
+      "startIndex": 348,
+      "text": "أحمد بن شيبان بن تغلب الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "4ccf3bb8-1305-4980-b83f-209e5cdcaea2",
+      "startIndex": 25,
+      "text": "أبي الفتح محمد بن عبد الغني بن عبد الواحد بن علي بن سرور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "6664c703-fc2b-48c0-9ae7-bb853c5ad496",
+      "startIndex": 120,
+      "text": "علي بن أحمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 608,
+      "guid": "7942202c-99d1-4a83-9f33-7e0acff6e502",
+      "startIndex": 581,
+      "text": "محمد بن علي بن أيبك السروجي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "9283f5ec-c27a-4f14-bd32-61e897c6d0ae",
+      "startIndex": 189,
+      "text": "أحمد بن عبد الدائم بن نعمة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "603"
+        ]
+      },
+      "endIndex": 486,
+      "guid": "98f721f5-992e-4925-a6b8-fcc8bc95cff5",
+      "startIndex": 445,
+      "text": "يوم الأحد سابع عشر شعبان سنة ثلاث وستمائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "9c5850e6-5b53-4b7f-826d-8e6b28a89279",
+      "startIndex": 228,
+      "text": "أبو عبد الله بن حماد العسقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 309,
+      "guid": "a5249fcc-f6cb-4e55-bdde-0d571e063faf",
+      "startIndex": 275,
+      "text": "زينب بنت مكي بن علي بن كامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "b3e2c243-7c96-4bd0-a110-6d035709d893",
+      "startIndex": 83,
+      "text": "عبد الرحمن بن أبي عمر محمد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "ca5feb87-3092-461a-b5bc-9e1d1d4cf679",
+      "startIndex": 266,
+      "text": "إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 529,
+      "guid": "d01c3c58-ea1f-4194-b390-2b7a046a7042",
+      "startIndex": 508,
+      "text": "محمد بن أحمد بن النجيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 440,
+      "guid": "d9d786ba-6460-4977-b1b5-f145c72c7c28",
+      "startIndex": 401,
+      "text": "عبد الرحيم بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "f2e64c58-8f0d-4b65-a6b2-f6ef72234dcb",
+      "startIndex": 149,
+      "text": "عبد الرحيم بن عبد الملك بن عبد الملك",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة الإمام أبي الفتح محمد بن عبد الغني بن عبد الواحد بن علي بن سرور. عبد الرحمن بن أبي عمر محمد بن أحمد، وعلي بن أحمد بن عبد الواحد ، وعبد الرحيم بن عبد الملك بن عبد الملك ، وأحمد بن عبد الدائم بن نعمة المقدسيون، وأبو عبد الله بن حماد العسقلاني، وولده إسماعيل وزينب بنت مكي بن علي بن كامل الحراني، وعبد الله بن محمد بن عطاء الأذرعي، وأحمد بن شيبان بن تغلب الشيباني وآخرون، ومثبت الأسماء عبد الرحيم بن عبد الواحد بن أحمد المقدسي في يوم الأحد سابع عشر شعبان سنة ثلاث وستمائة بالجامع المظفري نقله محمد بن أحمد بن النجيب من خط إسماعيل الخباز وغيره ومن خط ابن النجيب نقله محمد بن علي بن أيبك السروجي عفا الله عنه."
+}

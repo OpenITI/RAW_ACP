@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن سلام الهروي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الطهارة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 54"
+      ],
+      "classmark": [
+        "3748/3"
+      ],
+      "folio_number": [
+        "38r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "369b080f-6019-4694-9195-21d6107884bc",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 20,
+      "text": "أبو ياسر محمد بن عبد العزيز بن عبد الله الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "65f93d72-3444-449d-9d03-e007a1898e4f",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 74,
+      "text": "محمد بن أحمد بن محمد بن عبد الرحمن الصواف المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "d16fd3e8-2709-4ce1-a081-71d0e55202bd",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 184,
+      "text": " أبي عبد الله العسكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "427"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "ede0905c-5871-465d-ae90-ce14025bee80",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 214,
+      "text": "بكرة الاثنين السابع والعشرين من جمادى الأولى سنة سبع وعشرين وأربعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "f8104ab8-6382-4a1b-95a9-2ffc637a54a8",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "أبي الفرج الحسين بن علي الطناجيري",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء أبو ياسر محمد بن عبد العزيز بن عبد الله الخياط بقراءة محمد بن أحمد بن محمد بن عبد الرحمن الصواف المصري على الشيخ أبي الفرج الحسين بن علي الطناجيري حفظه الله عن شيخه أبي عبد الله العسكري وذلك في بكرة الاثنين السابع والعشرين من جمادى الأولى سنة سبع وعشرين وأربعماية"
+}

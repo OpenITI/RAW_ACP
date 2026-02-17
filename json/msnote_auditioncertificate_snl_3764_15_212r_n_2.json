@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الخطيب البغدادي بجامع دمشق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 143"
+      ],
+      "classmark": [
+        "3764/15"
+      ],
+      "folio_number": [
+        "212r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "744"
+        ]
+      },
+      "endIndex": 326,
+      "guid": "19dd5eb7-0ebb-4df4-91b3-1caa2828974c",
+      "startIndex": 284,
+      "text": "الثلاثاء سلخ شوال سنة أربع وأربعين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "riwahiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 336,
+      "guid": "1d4210ea-77c9-4159-b530-93155f08b421",
+      "startIndex": 329,
+      "text": "الرواحية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "21f72a17-7f80-4c13-a436-e06b9418b1ff",
+      "startIndex": 24,
+      "text": "أبي العباس أحمد بن محمد بن أحمد بن بدر بن تبع البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "39d75051-fec6-4d00-a099-6537b64d923e",
+      "startIndex": 98,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "6bfed80e-cbd5-4272-877e-c9bf35226a93",
+      "startIndex": 245,
+      "text": "أحمد بن حسن بن عبد الله البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "771bf1db-63a0-431c-9c75-fab5d67dfea2",
+      "startIndex": 215,
+      "text": "محمد بن الشرف بن علي الطاوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "c0d23862-ca1c-4a0c-84e3-849a97a2211a",
+      "startIndex": 140,
+      "text": " أبو بكر بن أحمد بن عبد الله بن عبد الغني الدريبي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ أبي العباس أحمد بن محمد بن أحمد بن بدر بن تبع البعلبكي بسماعه تراه بقراءة محمد بن عبد الله بن أحمد بن المحب وهذا خطه أبو بكر بن أحمد بن عبد الله بن عبد الغني الدريبي وسمع سوى قائمتين من أوله محمد بن الشرف بن علي الطاوسي وأحمد بن حسن بن عبد الله البعلبكيان يوم الثلاثاء سلخ شوال سنة أربع وأربعين وسبعمائة بالرواحية كتبه محمد بن عبد الله بن أحمد بن المحب"
+}

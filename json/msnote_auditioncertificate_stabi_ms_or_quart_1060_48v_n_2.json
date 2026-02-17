@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب شرف أصحاب الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. or. Quart 1060"
+      ],
+      "folio_number": [
+        "48v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN655627685/1200/0/00000102.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00021324"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "5a78644c-7041-4109-9b92-21667159c12d",
+      "startIndex": 187,
+      "text": "أبو الحجاج يوسف بن خليل بن عبد الله الآدمي الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "98534fa7-3f24-4f5e-8a19-2a177a593953",
+      "startIndex": 100,
+      "text": "الإسفراييني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "a09e95bb-b0bf-4965-ad7e-62e0272b81ae",
+      "startIndex": 240,
+      "text": "حامد بن أبي القاسم الأهوازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 404,
+      "guid": "c62f32ff-38b6-49b5-9cba-79e3b747926d",
+      "startIndex": 361,
+      "text": "صحيح ذلك كتبه محمد بن الحسين بن عبدان الأزدي",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "d7309cd6-c163-4139-94c5-5a0cc640b66b",
+      "startIndex": 126,
+      "text": "أبي محمد عبد القوي بن عبد الخالق بن وحشي المسكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "586"
+        ]
+      },
+      "endIndex": 341,
+      "guid": "de9dc184-a1d8-4bcd-985a-cd7da65307f2",
+      "startIndex": 304,
+      "text": "في ربيع الآخر سنة ست وثمانين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "df67e78c-178f-4d38-add1-bbf01d069a98",
+      "startIndex": 45,
+      "text": "أبي طالب محمد بن الحسين بن الخضر بن عبدان ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الكتاب وهو شرف أصحاب الحديث على أبي طالب محمد بن الحسين بن الخضر بن عبدان بحق سماعه من الإسفراييني بقراءة الفقيه أبي محمد عبد القوي بن عبد الخالق بن وحشي المسكي صاحبه الفقيه أبو الحجاج يوسف بن خليل بن عبد الله الآدمي الدمشقي، وحامد بن أبي القاسم الأهوازي وكان السماع بخطه وذلك في ميعاد واحد في ربيع الآخر سنة ست وثمانين وخمس مائة، وتحته بخط المسمع صحيح ذلك كتبه محمد بن الحسين بن عبدان الأزدي نقلته ملخصا."
+}

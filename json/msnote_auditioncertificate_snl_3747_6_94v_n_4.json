@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/6"
+      ],
+      "folio_number": [
+        "94v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "2ab935ff-50a3-42aa-8246-49aa054530e0",
+      "index": 304,
+      "isZeroPoint": false,
+      "startIndex": 195,
+      "text": "فاطمة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 337,
+      "guid": "3fd686f5-bbc7-41a0-8cf9-ff82a838e1e1",
+      "index": 307,
+      "isZeroPoint": false,
+      "startIndex": 318,
+      "text": "منزل المسمع بالقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "91c3acc7-c798-4c1b-bc25-6c39533788aa",
+      "index": 302,
+      "isZeroPoint": false,
+      "startIndex": 104,
+      "text": "نور الدين علي بن محمد بن الجميل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "94937e98-4e9a-49e8-a02b-56d584ed93f5",
+      "index": 306,
+      "isZeroPoint": false,
+      "startIndex": 263,
+      "text": " يوم الأربعاء خامس جمادى الأولى سنة خمس وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "cdc1fcff-9076-47d8-baed-742f6732911b",
+      "index": 305,
+      "isZeroPoint": false,
+      "startIndex": 202,
+      "text": "عبد الله ابن علي بن عمر بن شبل الحميري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 422,
+      "guid": "d0ec5333-f2e1-47c4-9891-df55be9d6e4c",
+      "index": 308,
+      "isZeroPoint": false,
+      "startIndex": 396,
+      "text": "محمد بن علي بن أيبك السروجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "d4c96a3f-aa13-47a5-958b-2ec5d41bc785",
+      "index": 301,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": "نجيب الدين أبي الفرج عبد اللطيف بن عبد المنعم الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "ead37e9c-5e19-4bee-8b2e-a9fd6d3d05f9",
+      "index": 303,
+      "isZeroPoint": false,
+      "startIndex": 136,
+      "text": "شمس الدين أبو الوليد محمد بن محمد بن جبريل الدربندي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على الشيخ المسند نجيب الدين أبي الفرج عبد اللطيف بن عبد المنعم الحراني بسماعه تراه بقراءة الفقيه نور الدين علي بن محمد بن الجميل شمس الدين أبو الوليد محمد بن محمد بن جبريل الدربندي وابنته فاطمة وعبد الله ابن علي بن عمر بن شبل الحميري وبخطه السماع وآخرون في يوم الأربعاء خامس جمادى الأولى سنة خمس وستين وستماية بمنزل المسمع بالقاهرة وأجاز لهم المسمع جميع مروياته نقله من الأصل بعد المعارضة محمد بن علي بن أيبك السروجي عفا الله تعالى عنه"
+}

@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي بن عاصم ابن المقرئ الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرخصة في تقبيل اليد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 181"
+      ],
+      "classmark": [
+        "3771/11"
+      ],
+      "folio_number": [
+        "168r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "14487d11-2316-49a0-a636-139bda59d0ba",
+      "startIndex": 68,
+      "text": " شمس الدين أبي عبد الله محمد بن عمر بن محمد بن عبد الواسع الهروي ويعرف بمحمود الأعسر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "3a534323-ef80-4684-9ac4-2a50cc6a604b",
+      "startIndex": 379,
+      "text": "خليل بن كيكلدي بن عبد الله العلائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "711"
+        ]
+      },
+      "endIndex": 304,
+      "guid": "6190667f-fa8c-4b02-ae6d-dae73a97513e",
+      "startIndex": 266,
+      "text": "الخميس سادس رجب سنة إحدى عشرة وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "9aa6067e-1a0e-4b01-a206-3ca89f44e9f1",
+      "startIndex": 179,
+      "text": "ضياء الدين ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 316,
+      "guid": "ba32c720-4a35-4771-bb36-caadc4d1d828",
+      "startIndex": 307,
+      "text": "سفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "fab4b084-eb8e-4a63-8f40-c60d6839bd23",
+      "startIndex": 211,
+      "text": "علي بن محمد بن إبراهيم بن عبد الكريم الذهبي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء وهو الرخصة في تقبيل اليد لابن المقرئ على الشيخ الصالح شمس الدين أبي عبد الله محمد بن عمر بن محمد بن عبد الواسع الهروي ويعرف بمحمود الأعسر بسماعه فيه نقلا من الحافظ ضياء الدين بسنده فسمعه ابن خالي علي بن محمد بن إبراهيم بن عبد الكريم الذهبي وصح في يوم الخميس سادس رجب سنة إحدى عشرة وسبع ماية بسفح قاسيون والقراءة من أصل المسمع بوقف الضيائية وأجاز لنا ما يرويه وكتب خليل بن كيكلدي بن عبد الله العلائي"
+}

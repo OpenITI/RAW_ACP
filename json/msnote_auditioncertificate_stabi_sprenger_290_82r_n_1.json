@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المؤتنف تكملة المؤتلف والمختلف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 290"
+      ],
+      "folio_number": [
+        "82r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1663217491/1200/0/00000219.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011164"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "0fd02d50-22bc-4809-b688-c0da31c0269f",
+      "startIndex": 26,
+      "text": "أبي القاسم هبة الله بن عبد الله بن أحمد الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "526"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "28238bc0-887f-4281-a64f-c3040f40e894",
+      "startIndex": 151,
+      "text": "يوم الثاني عشر من رجب من سنة ست وعشرين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "373e4799-7bab-4c8f-81ee-e7606df0e0cf",
+      "startIndex": 110,
+      "text": "عبد الله بن أحمد بن أحمد بن أحمد الخشاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "karkh"
+          ]
+        ]
+      },
+      "endIndex": 235,
+      "guid": "c6962456-5f13-4e4b-81ea-eaf87c649ff3",
+      "startIndex": 202,
+      "text": "منزل الشيخ بدرب السلولي بربع الكرخ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "ef7a5ecd-1d18-4bb1-b3f3-5b2d10da82be",
+      "startIndex": 87,
+      "text": " أبي بكر الخطيب ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأه كله على الشيخ الإمام أبي القاسم هبة الله بن عبد الله بن أحمد الواسطي، بحق سماعه من أبي بكر الخطيب مصنفه. عبد الله بن أحمد بن أحمد بن أحمد الخشاب. يوم الثاني عشر من رجب من سنة ست وعشرين وخمسمائة في منزل الشيخ بدرب السلولي بربع الكرخ وثبت بحمد الله."
+}

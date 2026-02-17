@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن تيمية؟ [أخذ من طبقة السماع في الورقة التالية]"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من حديث المقري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 61"
+      ],
+      "classmark": [
+        "3750/2 غير مفهرسة "
+      ],
+      "folio_number": [
+        "21v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "3686110d-0e6a-4960-b46c-ef487bbe0cab",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 46,
+      "text": "ابن البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "89be2e5d-a965-4224-846b-f236516d7679",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 69,
+      "text": "ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "ad004fb6-ebee-467f-a028-5e707b747ebe",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 83,
+      "text": "يوسف ابن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 33,
+      "guid": "c3fe95e0-20c8-4f8c-9e5e-d9ee03a05eca",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 23,
+      "text": "ابن الشريفة",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذه الأحاديث على ابن الشريفة بإجازته من ابن البالسي بإجازته من ابن المحب كتب يوسف ابن عبد الهادي"
+}

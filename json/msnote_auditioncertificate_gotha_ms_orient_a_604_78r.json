@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 604"
+      ],
+      "folio_number": [
+        "78r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        "e7ea4d6b-994e-4080-abbc-026b2de32f82"
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000610"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "06a8a28b-616a-44e7-ae8b-9901176eef96",
+      "startIndex": 105,
+      "text": "عمر بن علي التتائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 29,
+      "guid": "11da69fe-0423-4754-be45-e585f6f80946",
+      "startIndex": 10,
+      "text": "شهاب الدين المنزلاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "db5e0752-739a-4d87-8917-50820b679c7d",
+      "startIndex": 47,
+      "text": "شمس الدين محمد بن عمر بن حصن الملتوتي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ الشيخ شهاب الدين المنزلاوي قراءة على الشيخ شمس الدين محمد بن عمر بن حصن الملتوتي والجماعة سماعا كتبه عمر بن علي التتائي."
+}

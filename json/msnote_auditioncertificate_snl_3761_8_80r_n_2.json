@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد بشر بن الحسين الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الزبير بن عدي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/8"
+      ],
+      "folio_number": [
+        "80r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 631,
+      "guid": "1ba3bcc9-3548-46d7-a30f-d57a1b880723",
+      "startIndex": 612,
+      "text": "الكلاسة من جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 483,
+      "guid": "6692b737-6cf7-4baa-b3da-fe8621323ca1",
+      "startIndex": 445,
+      "text": "عبد العزيز بن عثمان بن أبي طاهر الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "600"
+        ]
+      },
+      "endIndex": 609,
+      "guid": "67ba545a-84f8-4e09-bc28-9cf9b09e81df",
+      "startIndex": 577,
+      "text": "الخميس رابع عشر رجب من سنة ستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 273,
+      "guid": "712f4ad8-53b4-4593-bb85-9aa5e336dd7a",
+      "startIndex": 236,
+      "text": " أبو عبد الله الحسين بن الحسين الأزبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "7d6d2428-16cd-4909-82d3-c52a0ce63e8b",
+      "startIndex": 165,
+      "text": "عز الدين أبي الفتح محمد بن الحافظ عبد الغني بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "86e2fb29-66cd-4f5b-966e-4e2a6358d386",
+      "startIndex": 49,
+      "text": "تاج الدين أبي اليمن زيد بن الحسن بن زيد الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 442,
+      "guid": "94c8427c-7ae7-4608-a243-5b463be4780f",
+      "startIndex": 415,
+      "text": "يوسف بن مكتوم بن أحمد القيسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "a0b2e0b3-494a-488b-8676-8badba681a61",
+      "startIndex": 276,
+      "text": "أبو العباس أحمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "bc740b62-3414-4fcb-a518-a5f361479d4e",
+      "startIndex": 333,
+      "text": "أبو محمد إسماعيل بن القاضي شهاب الدين أبي إسحق إبراهيم بن شاكر بن سليمان التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "bd5ba780-18a8-420c-a650-44991a1f3640",
+      "startIndex": 115,
+      "text": "أبي منصور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "ceca7c27-f155-4a93-bc3e-69dc96bf1497",
+      "startIndex": 128,
+      "text": "ابن زينة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 331,
+      "guid": "e469686a-3e9c-487e-9e38-8a05cde8567e",
+      "startIndex": 328,
+      "text": "علي ",
+      "type": "person"
+    }
+  ],
+  "text": "وعليه أيضا سمع جميع هذا على شيخنا الإمام العلامة تاج الدين أبي اليمن زيد بن الحسن بن زيد الكندي بحق سماعه من الشيخ أبي منصور عن ابن زينة بقراءة الإمام العالم الحافظ عز الدين أبي الفتح محمد بن الحافظ عبد الغني بن عبد الواحد المقدسي صاحبه أبو عبد الله الحسين بن الحسين الأزبكي وأبو العباس أحمد بن عبد الواحد بن أحمد المقدسي وابنه علي وأبو محمد إسماعيل بن القاضي شهاب الدين أبي إسحق إبراهيم بن شاكر بن سليمان التنوخي ويوسف بن مكتوم بن أحمد القيسي وعبد العزيز بن عثمان بن أبي طاهر الإربلي عفا الله عنه وهذا خطه وآخرون أسماءهم على نسخة عبد العزيز الشيباني وغيرها وصح لهم ذلك في يوم الخميس رابع عشر رجب من سنة ستماية بالكلاسة من جامع دمشق"
+}

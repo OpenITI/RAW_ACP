@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "140v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "609"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "1e638e7e-16ef-435f-b52a-097397e8a730",
+      "startIndex": 213,
+      "text": "ربيع الأول سنة تسع وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "26791202-f044-40f4-920b-d484b38f0662",
+      "startIndex": 128,
+      "text": "إبراهيم بن أبي المحاسن بن رسلان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "32f24cfb-e214-4dcf-ae92-bb5faf197b2e",
+      "startIndex": 69,
+      "text": "عز الدين أبو محمد عبد العزيز بن عثمان بن أبي طاهر الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "78ae98d5-9016-42c4-a914-d56773360012",
+      "startIndex": 58,
+      "text": "عبد الكريم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "8486d99b-1fec-4949-853c-9dadfa521854",
+      "startIndex": 166,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 46,
+      "guid": "9c7d9af7-38b1-49b3-99dd-7c45c7294453",
+      "startIndex": 23,
+      "text": "أبي القاسم ابن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "a7ed8af8-355b-41a2-a92a-9f4176d97491",
+      "startIndex": 172,
+      "text": "عبد الجليل بن عبد الجبار الأبهري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 278,
+      "guid": "d47c8376-7876-496c-bdc0-008692aa4408",
+      "startIndex": 259,
+      "text": "أحمد بن محمد الظاهري",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على أبي القاسم ابن الحرستاني بسماعه من عبد الكريم عز الدين أبو محمد عبد العزيز بن عثمان بن أبي طاهر الإربلي وإبراهيم بن أبي المحاسن بن رسلان وابنه محمد وعبد الجليل بن عبد الجبار الأبهري وذلك في ربيع الأول سنة تسع وستماية نقله من خط الأبهري أحمد بن محمد الظاهري ومن خطه نقلت"
+}

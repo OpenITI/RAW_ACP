@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الترمذي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أربعون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 613"
+      ],
+      "folio_number": [
+        "23r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000619"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "65166659-bb40-4f80-8912-a4f9fab67aeb",
+      "startIndex": 54,
+      "text": "ا]بن سامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "966c986e-cd3b-4dd1-b833-049974e0419e",
+      "startIndex": 64,
+      "text": "محمد بن أبي القاسم بن إسماعيل الفارقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27-30"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "693"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "aa2e5768-3e76-4988-9fca-ee30f402db49",
+      "startIndex": 111,
+      "text": "سلخ جمادى الثاني سنة 693",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 25,
+      "guid": "bc88a0a9-0240-4297-99fb-e149ce6f051d",
+      "startIndex": 10,
+      "text": " الحافظ الدمياطي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها على الحافظ الدمياطي بقراءة [في الأصل بقراءته] [ا]بن سامة محمد بن أبي القاسم بن إسماعيل الفارقي وغيره في سلخ جمادى الثاني سنة 693."
+}

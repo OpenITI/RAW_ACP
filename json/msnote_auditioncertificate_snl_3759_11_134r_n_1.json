@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن هارون الضبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الضبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/11"
+      ],
+      "folio_number": [
+        "134r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "745"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "11071d46-153c-4343-8605-6ec914b2d68b",
+      "startIndex": 372,
+      "text": "يوم الثلثا تاسع رجب سنة خمس وأربعين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "122bfa04-5df4-4c62-b036-689f06d19a6f",
+      "startIndex": 82,
+      "text": "ابن البخاري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "461bc7eb-479f-42d1-a48a-a4d7c2e62bf0",
+      "startIndex": 246,
+      "text": "شهاب الدين أحمد بن علي بن أحمد الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "586e7495-2638-4808-86f8-7a5118d15364",
+      "startIndex": 94,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 441,
+      "guid": "74db0c5f-3db2-470d-a895-208ab838d2ca",
+      "startIndex": 431,
+      "text": "تحت الساعات",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "778c7f03-1b9e-4a5d-82f4-b05279c9a0cb",
+      "startIndex": 134,
+      "text": "شرف الدين محمود بن محمد بن إبراهيم بن عبد الغني الأنصاري البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "9179f915-8421-4928-8b48-b81a00d855dd",
+      "startIndex": 24,
+      "text": "ناصر الدين محمد بن أحمد بن أحمد بن نعمة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "d754dd0c-c15f-4ae5-8469-87bb5127586f",
+      "startIndex": 201,
+      "text": "زين الدين عبد الرحمن بن عمر بن خليل الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "ee0a4f47-afe3-429c-b7c2-7641bb00a067",
+      "startIndex": 317,
+      "text": "شمس الدين محمد بن سليمان بن عبد الحافظ المقدسي الشافعي ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ هذا الجزء على الشيخ ناصر الدين محمد بن أحمد بن أحمد بن نعمة المقدسي بسماعه من ابن البخاري محمد بن عبد الله بن أحمد بن المحب فسمعه شرف الدين محمود بن محمد بن إبراهيم بن عبد الغني الأنصاري البعلبكي وزين الدين عبد الرحمن بن عمر بن خليل الحنبلي وشهاب الدين أحمد بن علي بن أحمد الدمشقي الشهود وسمع من آخره قائمة ووجهة شمس الدين محمد بن سليمان بن عبد الحافظ المقدسي الشافعي يوم الثلثا تاسع رجب سنة خمس وأربعين وسبعمية وأجاز لنا وذلك تحت الساعات والحمد لله"
+}

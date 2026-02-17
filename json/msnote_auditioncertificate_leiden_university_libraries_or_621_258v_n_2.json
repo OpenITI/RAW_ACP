@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن أحمد الواحدي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "أسباب النزول"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 621"
+      ],
+      "folio_number": [
+        "258v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "587"
+        ]
+      },
+      "endIndex": 641,
+      "guid": "08b78af5-23be-4fe1-8a61-e38a28147420",
+      "startIndex": 602,
+      "text": "العشرون من رجب سنة سبع وثمانين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 358,
+      "guid": "16c4d614-5e88-4d78-a512-c6bebc77facb",
+      "startIndex": 350,
+      "text": " أبو غانم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 444,
+      "guid": "29f8687b-38bc-4b43-b8e3-8902718e5b90",
+      "startIndex": 401,
+      "text": "بهاء الدين أبو غانم هبة بن محمد بن [الحسين؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 512,
+      "guid": "30f814ee-989f-4d5c-a71b-edd87ac23639",
+      "startIndex": 447,
+      "text": "أبو بكر بن الخطيب الإمام زين الدين عبد الواحد بن عبد المنعم بن حرب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 748,
+      "guid": "37668e06-7e26-4273-9e5a-3319d5f39504",
+      "startIndex": 643,
+      "text": "وصح السماع للجماعة وكتب عبد الرحمن بن عبد الله بن علوان حامدا الله ومصليا على نبيه محمد صلى الله عليه وسلم",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "42f73b30-28ed-4a31-9253-3c76144cfe1f",
+      "startIndex": 188,
+      "text": "علي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "637c548b-4c54-4610-bc53-25a00d462fa0",
+      "startIndex": 226,
+      "text": "ضياء الدين أبو المعالي بن أسعد بن عبد الرحمن المعروف بابن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "6a15ec83-9de5-421c-b309-3a4217906c38",
+      "startIndex": 145,
+      "text": "أبو النجم بن أبي بكر بن رشيد الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 585,
+      "guid": "7c8913d6-6ab6-42da-9ce7-35bf9f340100",
+      "startIndex": 539,
+      "text": "صقر بن يحيى بن أبي منصور بن يحيى بن عيسى بن صقر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "91df22e5-6573-4de4-8d79-8ea6f4ee8c6c",
+      "startIndex": 46,
+      "text": "أبي محمد عبد الرحمن بن عبد الله بن علوان ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "9c117a6e-93d3-427c-ae57-e987761d71ed",
+      "startIndex": 332,
+      "text": "محمد بن مسلم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "adac16e5-559a-4acb-ace3-27f246bca85f",
+      "startIndex": 110,
+      "text": "يعقوب بن إسحق بن أبي العباس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 323,
+      "guid": "bc7a6c01-3184-411e-97de-0ece63de0733",
+      "startIndex": 292,
+      "text": "عبد المحسن بن حمود بن عبد المحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 398,
+      "guid": "eff7e1b1-51ee-47b6-b939-5aee9689fb6e",
+      "startIndex": 367,
+      "text": "أبو العلاء سلامة بن أيوب المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "f24aee25-9821-44ed-9fac-d4f5f57689f8",
+      "startIndex": 193,
+      "text": "أبو غانم بن إبراهيم بن أبي طالب",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع أسباب النزول على الشيخ الإمام الفقيه أبي محمد عبد الرحمن بن عبد الله بن علوان [...] جماعة منهم الشيخ يعقوب بن إسحق بن أبي العباس والشيخ أبو النجم بن أبي بكر بن رشيد الواسطي وولده علي وأبو غانم بن إبراهيم بن أبي طالب وضياء الدين أبو المعالي بن أسعد بن عبد الرحمن المعروف بابن العجمي وعبد المحسن بن حمود بن عبد المحسن والشيخ محمد بن مسلم وولده أبو غانم والشيخ أبو العلاء سلامة بن أيوب المنبجي وبهاء الدين أبو غانم هبة بن محمد بن [الحسين؟] وأبو بكر بن الخطيب الإمام زين الدين عبد الواحد بن عبد المنعم بن حرب وكاتب الأسماء وهو القارئ صقر بن يحيى بن أبي منصور بن يحيى بن عيسى بن صقر في مجالس آخرها العشرون من رجب سنة سبع وثمانين وخمس ماية وصح السماع للجماعة وكتب عبد الرحمن بن عبد الله بن علوان حامدا الله ومصليا على نبيه محمد صلى الله عليه وسلم"
+}

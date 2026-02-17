@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن إسحق بن زيد الحلبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد القاضي أبي الحسن علي بن محمد بن إسحق بن زيد الحلبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 11"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "125r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000263.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059149"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "1369fe55-0fbd-4366-81e9-9a7ab5d72bf9",
+      "startIndex": 10,
+      "text": "أبي الحسن علي بن محمد بن أحمد بن حمزة ابن الحبوبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "151e1aea-5910-43ea-a6ef-4f8607677cee",
+      "startIndex": 133,
+      "text": "أبو العباس أحمد بن محمد الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "686"
+        ]
+      },
+      "endIndex": 296,
+      "guid": "238dae7d-3ee4-4c2d-93f9-5652a6e70ecc",
+      "startIndex": 250,
+      "text": "في يوم الجمعة تاسع شعبان سنة ست وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "538c2d68-8d8d-46ae-a783-31d7fc26b387",
+      "startIndex": 172,
+      "text": "فخر الدين عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 357,
+      "guid": "cfd9dc7b-258f-4417-a386-4756277b8af1",
+      "startIndex": 347,
+      "text": "علي بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "e20ebb14-c1d2-4452-9275-a6e83aa7d5e5",
+      "startIndex": 193,
+      "text": "القاسم بن محمد بن يوسف ابن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "e388566b-13ef-444f-8884-f31c89d4e62c",
+      "startIndex": 75,
+      "text": "أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 314,
+      "guid": "efea1237-8c2d-4a2d-adc0-c9e7f2acef94",
+      "startIndex": 300,
+      "text": "لمقصورة الحنفية",
+      "type": "place"
+    }
+  ],
+  "text": "وسمعه على أبي الحسن علي بن محمد بن أحمد بن حمزة ابن الحبوبي المذكور بقراءة أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي، الحافظ أبو العباس أحمد بن محمد الظاهري، وولده فخر الدين عثمان ... والقاسم بن محمد بن يوسف ابن البرزالي وبخطه السماع، وآخرون في يوم الجمعة تاسع شعبان سنة ست وثمانين وستمائة بالمقصورة الحنفية بدمشق وأجاز لهم. لخصه من الأصل علي بن محمد حامداً ومصلياً ومسلماً."
+}

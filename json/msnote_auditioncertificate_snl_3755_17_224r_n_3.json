@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يزداد بن عبد الرحمن بن محمد بن يزداد "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي سعيد الأشج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 87"
+      ],
+      "classmark": [
+        "3755/17"
+      ],
+      "folio_number": [
+        "224r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "harran"
+          ]
+        ]
+      },
+      "endIndex": 112,
+      "guid": "346129a1-1274-4875-bdbb-5ddb12acca6b",
+      "index": 379,
+      "isZeroPoint": false,
+      "startIndex": 109,
+      "text": "حران",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "4a726389-3c20-46b9-abb3-db2469ccc940",
+      "index": 377,
+      "isZeroPoint": false,
+      "startIndex": 12,
+      "text": "إسماعيل بن ظفر بن أحمد النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "596"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "f4cc846d-721f-4688-92cd-93c46dcc452e",
+      "index": 378,
+      "isZeroPoint": false,
+      "startIndex": 57,
+      "text": "يوم الاثنين الخامس من رمضان سنة ست وتسعين وخمسماية",
+      "type": "date"
+    }
+  ],
+  "text": " وسمعه عليه إسماعيل بن ظفر بن أحمد النابلسي بقراءته عليه يوم الاثنين الخامس من رمضان سنة ست وتسعين وخمسماية بحران"
+}

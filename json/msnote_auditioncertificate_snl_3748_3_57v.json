@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن سلام الهروي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الطهارة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 54"
+      ],
+      "classmark": [
+        "3748/3"
+      ],
+      "folio_number": [
+        "57v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "04038b94-c5ba-4441-b513-dcaec1392a44",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 6,
+      "text": "أم الكرم رقية بنت أحمد بن الحسن بن هلال الورداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "1a23eb4c-3e38-4cc5-af4b-31a561c31e8a",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 137,
+      "text": "أبي محمد الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "32c27fe7-a4e6-48a3-a2d2-60fa765225d5",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "العسكري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "38199759-c535-497c-8b35-4d6028562dec",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 168,
+      "text": "المروزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "64dab66c-4532-43a3-b42a-61a0f65e53f5",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": "أحمد بن الحسن بن هلال الورداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "4"
+        ],
+        "year": [
+          "507"
+        ]
+      },
+      "endIndex": 256,
+      "guid": "d1872d14-233c-4cb9-ab61-5c3a1d692c40",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 225,
+      "text": "ربيع الآخر سنة سبعة وخمـ[ـسماية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 290,
+      "guid": "ded06671-2169-4048-a149-8a94cabc6fe0",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 263,
+      "text": "محمد بن يحيى بن محمد بن بذال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "f1e3d392-e1ba-4904-9a6d-cba5eed07f62",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 100,
+      "text": "أبي غالب شجاع بن فارس الذهلي",
+      "type": "person"
+    }
+  ],
+  "text": " سمعت أم الكرم رقية بنت أحمد بن الحسن بن هلال الورداني [في الأصل الورادني] مع أبيها من الشيخ الحافظ أبي غالب شجاع بن فارس الذهلي عن شيخه أبي محمد الجوهري عن العسكري عن المروزي عن أبي [...] وأجاز لهما الشيخ جميع هذا الكتاب في ربيع الآخر سنة سبعة وخمـ[ـسماية] وكتب محمد بن يحيى بن محمد بن بذال يقول الشيخ وأجاز لهم بقية الكتاب"
+}

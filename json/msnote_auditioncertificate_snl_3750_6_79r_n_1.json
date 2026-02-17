@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إبراهيم بن حرب السمسار العسكري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند أبي هريرة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 63 "
+      ],
+      "classmark": [
+        "3750/6"
+      ],
+      "folio_number": [
+        "79r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 403,
+      "guid": "1b7b07b1-c42c-4e7e-b4d9-2ca644bd1e0a",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 370,
+      "text": "جنينة المسمع بسفح قاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "672"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "378aacef-057b-4d1b-b1f3-d71f44712c68",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 326,
+      "text": "ثالث عشر شوال من سنة اثنتين وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "538c5b5d-4496-43cf-b6b6-aaa5d807ca7e",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 130,
+      "text": "أبي الطاهر إسماعيل بن ظفر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 445,
+      "guid": "5c2ebbcd-a82d-4e57-b3ba-3abcda6dd1d8",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 410,
+      "text": "أحمد بن مظفر بن أبي محمد بن النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 277,
+      "guid": "7de3cdfa-0db7-463e-914a-90bbc1a068d5",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 261,
+      "text": "أبو محمد عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "9bee67c1-ab88-4ec2-82fc-439c9dbec382",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 50,
+      "text": "عز الدين أبي العباس أحمد بن عبد الحميد بن عبد الهادي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "e71f5559-71dc-4030-bee3-b57d6fb86a93",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "علي بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "ef84c5f7-47ac-4968-b12b-3474a26401a0",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "فاطمة بنت عبد الله بن أحمد بن محمد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميعه على الشيخ الإمام العالم الزاهد العابد عز الدين أبي العباس أحمد بن عبد الحميد بن عبد الهادي المقدسي بسماعه فيه أصلا من أبي الطاهر إسماعيل بن ظفر فسمعه سبطه علي بن عبد الله بن المسمع وأمه فاطمة بنت عبد الله بن أحمد بن محمد المقدسي كنة الشيخ وشرح ابنه أبو محمد عبد الله من موضع اسمه في الجزء إلى آخره وصح ذلك وثبت في ثالث عشر شوال من سنة اثنتين وسبعين وستماية بجنينة المسمع بسفح قاسيون ظاهر دمشق وكتب أحمد بن مظفر بن أبي محمد بن النابلسي "
+}

@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " الجزء فيه من حديث عفان بن مسلم الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "43r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000087.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059153"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "03d847ed-d60b-414c-bf6c-5dd6626b76c5",
+      "startIndex": 141,
+      "text": "أبو البركات أحمد ابن الإمام نظام الدين محمد بن محمد بن محمد بن جماعة بن عساكر القرشي الزهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "26359b83-3a2e-45f4-9e08-2a398049845d",
+      "startIndex": 32,
+      "text": "شهاب الدين أحمد بن يعقوب بن أحمد بن يعقوب ابن المقرئ عرف بابن الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-azhar_mosque"
+          ]
+        ]
+      },
+      "endIndex": 318,
+      "guid": "6eb4872a-cf72-4d68-9ff2-601e0401709f",
+      "startIndex": 302,
+      "text": "باب الجامع الأزهر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "723"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "7b7fb00e-0c0f-4316-b519-50f2d378caaf",
+      "startIndex": 241,
+      "text": "يوم الاثنين التاسع عشر من ذي الحجة سنة ثلاث وعشرين وسبعمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة الإمام المحدث شهاب الدين أحمد بن يعقوب بن أحمد بن يعقوب ابن المقرئ عرف بابن الصابوني، وكتب السماع ومن خطه لخصت، جماعة منهم أبو البركات أحمد ابن الإمام نظام الدين محمد بن محمد بن محمد بن جماعة بن عساكر القرشي الزهري. وصح في يوم الاثنين التاسع عشر من ذي الحجة سنة ثلاث وعشرين وسبعمائة بباب الجامع الأزهر في القاهرة وأجاز له جميع مروياته."
+}

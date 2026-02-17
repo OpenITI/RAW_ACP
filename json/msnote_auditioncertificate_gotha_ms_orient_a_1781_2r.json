@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 1781"
+      ],
+      "folio_number": [
+        "2r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 326,
+      "guid": "0f49ed58-26c0-421d-b577-56d4cf1ac75f",
+      "startIndex": 317,
+      "text": "ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "12cc6d30-de91-4855-9ddb-d4fa886f1ae1",
+      "startIndex": 82,
+      "text": "عبد القادر بن المولا الملك [عبد العزيز بن عيسى بن الملك] العادل سيف الدين أبي بكر بن أيوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "13374fb7-97c5-425b-88d8-1a5bd6875ace",
+      "startIndex": 277,
+      "text": "ابن حيدرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 339,
+      "guid": "18c8620c-e51c-4b44-ac3f-4d380eebf7cc",
+      "startIndex": 331,
+      "text": "ابن الورد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 559,
+      "guid": "1bb193e3-fd8d-451a-9f5e-63a37f43faf1",
+      "startIndex": 533,
+      "text": "محمد بن علي بن كوما المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "26d2702f-0b8d-4169-9df9-e6c9305d85ce",
+      "startIndex": 360,
+      "text": "ابن هشام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 493,
+      "guid": "2b36d3da-4763-4178-ada6-7f68a2e5e2cc",
+      "startIndex": 447,
+      "text": "علاء الدين علي بن سلمان بن إبراهيم بن أبي [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 437,
+      "guid": "34506dfe-d77b-4385-b2b1-d3524062849f",
+      "startIndex": 397,
+      "text": "جمال الدين داود بن مكارم بن بدران المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "jerusalem",
+            "al-aqsa_mosque"
+          ]
+        ]
+      },
+      "endIndex": 583,
+      "guid": "34901f7e-b009-4aad-81c1-7e37fb46a761",
+      "startIndex": 568,
+      "text": "حرم القدس الشريف",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 710,
+      "guid": "3c4067b2-01a8-47c1-af33-f26a823563d4",
+      "startIndex": 641,
+      "text": "صحيح وكتب عبد القادر بن عبد [العزيز] بن عيسى بن أبي بكر محمد [بن] أيوب",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          ""
+        ]
+      },
+      "endIndex": 632,
+      "guid": "7127bd09-c24e-4911-a952-1d017850be48",
+      "startIndex": 590,
+      "text": "نهار الخميس سابع عشر جمادى الأولى سنة [...]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 355,
+      "guid": "932883c9-d7d1-49b8-ae52-58a28ec55503",
+      "startIndex": 344,
+      "text": "ابن [البرقي]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "a5db5269-0928-4eae-84b6-57ee5f275e3e",
+      "startIndex": 303,
+      "text": "ابن الخلعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "f39ed17b-3a2c-4f21-bead-eb7109277ae9",
+      "startIndex": 290,
+      "text": "ابن رفاعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "fcd1f27d-1b1d-4498-8a87-096e9ca1a7f7",
+      "startIndex": 215,
+      "text": "أبي] عبد الله محمد بن إسماعيل بن أحمد بن أبي الفتح المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "[...............................................................................] عبد القادر بن المولا الملك [عبد العزيز بن عيسى بن الملك] العادل سيف الدين أبي بكر بن أيوب أدام الله شرفه ورحم سلفه وأبقى خلفه [...عن أبي] عبد الله محمد بن إسماعيل بن أحمد بن أبي الفتح المقدسي عن ابن حيدرة عن ابن رفاعة عن ابن الخلعي عن ابن النحاس عن ابن الورد عن ابن [البرقي] عن ابن هشام رضي الله عنهم المولا الفقيه جمال الدين داود بن مكارم بن بدران المقدسي والمولا علاء الدين علي بن سلمان بن إبراهيم بن أبي [...] بقراءة كاتب [هذه] الأحرف العبد الفقير محمد بن علي بن كوما المنبجي والده بحرم القدس الشريف بكرة نهار الخميس سابع عشر جمادى الأولى سنة [...] السماع صحيح وكتب عبد القادر بن عبد [العزيز] بن عيسى بن أبي بكر محمد [بن] أيوب."
+}

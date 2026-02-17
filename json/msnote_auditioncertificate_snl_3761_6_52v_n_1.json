@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "52v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "11"
+        ],
+        "note": [
+          null
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "0f9407f0-5139-4e51-85fe-4468a7ba372b",
+      "startIndex": 208,
+      "text": "الخميس ثاني عشر ذي القعدة من سنة خمس وثلثين وخمساية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "33ffc279-63b0-4689-877c-1d5e346088e9",
+      "startIndex": 131,
+      "text": "عمر بن أحمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "nahr_al-qala'in"
+          ]
+        ]
+      },
+      "endIndex": 272,
+      "guid": "73ed5acb-818c-48f6-9e39-6d85747bb3a7",
+      "startIndex": 261,
+      "text": "نهر القلائين",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "89c04e24-58d6-4487-a5ea-1e431d400273",
+      "startIndex": 158,
+      "text": "محمد بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "b9448932-946e-4ac5-8209-19ddd315bfbf",
+      "startIndex": 58,
+      "text": "أبي البركات عبد الوهاب بن المبارك بن أحمد الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "cacd0dfa-f606-49ea-9d4c-fed57750c614",
+      "startIndex": 120,
+      "text": "ابن النقور",
+      "type": "person"
+    }
+  ],
+  "text": "سمع حديث خالد بن مداس على الشيخ الإمام الحافظ شيخ الإسلام أبي البركات عبد الوهاب بن المبارك بن أحمد الأنماطي بروايته عن ابن النقور عمر بن أحمد بن طبرزد وأخوه محمد بن محمد بقراءته وبخطه السماع في آخرين في يوم الخميس ثاني عشر ذي القعدة من سنة خمس وثلثين وخمساية بنهر القلائين"
+}

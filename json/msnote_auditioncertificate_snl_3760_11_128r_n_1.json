@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/11"
+      ],
+      "folio_number": [
+        "128r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "559"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "03c9aedb-9f33-48a7-a9f2-5563e5395231",
+      "startIndex": 226,
+      "text": "جمادى الأولى من سنة تسع وخمسين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "115d4a9d-7b08-4dc5-8df8-bab42f279654",
+      "startIndex": 182,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 214,
+      "guid": "2aafd70e-d26c-49dc-a761-86322ffb9ffa",
+      "startIndex": 205,
+      "text": "عبد اللطيف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "5d8bd282-aab7-4df5-b403-73f2afd89677",
+      "startIndex": 152,
+      "text": "حمزة بن علي بن القبيطاي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "61c6f084-b908-4f4b-9ee6-08820bae7579",
+      "startIndex": 104,
+      "text": "البيع ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "89815fe7-a9e2-4288-832a-24e6d2d3229c",
+      "startIndex": 91,
+      "text": "ابن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "b8061264-03cd-4dfb-9c2d-c81ef2d78cf5",
+      "startIndex": 30,
+      "text": " أبي المعالي أحمد بن عبد الغني بن حنيفة الباجسرائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "ca4f9b8e-fa7d-4d43-ba28-f69b23741c6e",
+      "startIndex": 117,
+      "text": "علي بن أحمد بن [البريدي/ اليزيدي؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "df8a7e49-a5c0-4235-a5b5-d6803d2e87b7",
+      "startIndex": 278,
+      "text": "ابن مشرف",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء واللذين بعده على أبي المعالي أحمد بن عبد الغني بن حنيفة الباجسرائي بسماعه من ابن البطر عن البيع بقراءة علي بن أحمد بن [البريدي/ اليزيدي؟] حمزة بن علي بن القبيطاي وأخوه محمد وابنه أبو [محمد؟] عبد اللطيف وآخرون في جمادى الأولى من سنة تسع وخمسين وخمسماية نقلته من خط ابن مشرف"
+}

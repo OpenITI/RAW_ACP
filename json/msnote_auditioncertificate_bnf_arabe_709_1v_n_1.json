@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/76600419"
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 709"
+      ],
+      "folio_number": [
+        "1v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.item.r=%22arabe%20709%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "2d6fdc69-32c6-4d15-87e8-2c54db766c36",
+      "index": 83,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "أبو محمد عبد الله بن محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "675749c3-41e2-4960-a46b-0e95b6d24acf",
+      "index": 85,
+      "isZeroPoint": false,
+      "startIndex": 139,
+      "text": "بو علي حسن بن محمد المعافري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "93bd7969-09c1-403f-8c7a-fca4aa86d6f9",
+      "index": 84,
+      "isZeroPoint": false,
+      "startIndex": 92,
+      "text": "أبو جعفر أحمد بن محمد [الفهري؟",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 447,
+      "guid": "9e59c9b9-27d3-4dc8-9fe2-e4defe0f26e3",
+      "index": 88,
+      "isZeroPoint": false,
+      "startIndex": 412,
+      "text": "علي بن أحمد بن محمد بن كوثر المحاربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "b0c54fe0-f67d-4bd5-b820-6e12bddd521c",
+      "index": 86,
+      "isZeroPoint": false,
+      "startIndex": 269,
+      "text": "أبو زيد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "2"
+        ],
+        "year": [
+          "580"
+        ]
+      },
+      "endIndex": 539,
+      "guid": "b469f26f-abd8-445b-8270-49d2c0d33240",
+      "index": 89,
+      "isZeroPoint": false,
+      "startIndex": 517,
+      "text": "في صفر ثمانين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "b9bdca8a-6eff-4a57-9504-11edb04d06af",
+      "index": 87,
+      "isZeroPoint": false,
+      "startIndex": 289,
+      "text": "علي",
+      "type": "person"
+    }
+  ],
+  "text": "[قرأ] عليَّ جميع هذا الكتاب الفقيه أبو محمد عبد الله بن محمد [... ....] فسمع بقراءته الفقيه أبو جعفر أحمد بن محمد [الفهري؟] والفقيه [...] أبو علي حسن بن محمد المعافري نفعهم الله به وأجزت لمن قرأه وسمعه منهم أن يرويه عني بالسند المذكور أوله وكذلك سمع أكثره الولد النجيب أبو زيد [...] وأخوه علي [...] أحمد بن شمعون [...] وسعيد بن محمد الحفارون وأجزت لهم أن يروه عني سماعا بعضه وإجازة بعضه نفعهم الله جميعهم [وكتب] علي بن أحمد بن محمد بن كوثر المحاربي بخط يده الفانية حامدا الله تعالى ومصليا على نبيه محمد وعلى آله وذلك في صفر ثمانين وخمس ماية"
+}

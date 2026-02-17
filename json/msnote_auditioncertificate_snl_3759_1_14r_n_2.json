@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن القزويني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي القزويني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 104"
+      ],
+      "classmark": [
+        "3759/1"
+      ],
+      "folio_number": [
+        "14r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "15945931-4a78-49c3-b9c8-fa0a0a17c7ce",
+      "startIndex": 92,
+      "text": " برهان الدين إبراهيم بن إسماعيل بن علي الزرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "704"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "1914825a-97de-4bbd-9564-fd3947372a90",
+      "startIndex": 278,
+      "text": "يوم الجمعة ثالث محرم سنة أربع وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "6b452170-3894-46d7-8fad-df20ca9f8b4f",
+      "startIndex": 239,
+      "text": "أبو بكر بن أحمد بن محمد الصائغ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "86d38144-f7ca-4e0d-a270-16ea13e5853f",
+      "startIndex": 25,
+      "text": "عبد الله بن أحمد بن عبد الله بن أحمد بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "6561b274-b94b-4452-9f6b-dbcb9c1e7702"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "9708c3fa-4afd-43f9-a498-62bc6d1ff417",
+      "startIndex": 188,
+      "text": "أبو طاهر بن أحمد بن عبد الله بن عبد الغني الدريبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "b6ba46e5-3360-46be-a59c-db9ca9cd5bdc",
+      "startIndex": 139,
+      "text": "شمس الدين عبد الله بن عبد السيد بن إسحق المتطبب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 327,
+      "guid": "c3f121e6-21d6-4752-b1ae-dca32f603ea8",
+      "startIndex": 319,
+      "text": "جامع دمشق",
+      "type": "place"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة الفقيه عبد الله بن أحمد بن عبد الله بن أحمد بن محمد المقدسي وهذا خطه الشيخ برهان الدين إبراهيم بن إسماعيل بن علي الزرعي وشمس الدين عبد الله بن عبد السيد بن إسحق المتطبب وأبو طاهر بن أحمد بن عبد الله بن عبد الغني الدريبي وأبو بكر بن أحمد بن محمد الصائغ وصح ذلك يوم الجمعة ثالث محرم سنة أربع وسبع ماية بجامع دمشق المحروسة الحمد لله وحده"
+}

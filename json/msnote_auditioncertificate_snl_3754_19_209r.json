@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسن بن هبة الله الشافعي ابن عساكر"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعون الأبدال العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 80"
+      ],
+      "classmark": [
+        "3754/19"
+      ],
+      "folio_number": [
+        "209r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "0fdc7b0b-c9a0-4360-92fb-f2afa27e759a",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "ابن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "1ef86e31-a09c-43f3-a692-b3cd3070005e",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 69,
+      "text": "أبي عبد الله محمد بن نصر بن عبد الرحمن بن محمد بن محفوظ القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 426,
+      "guid": "21331d51-2ebd-42ff-aab5-6ee4d9c68644",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 397,
+      "text": "محمد بن أحمد بن محمد الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "602"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "30d29366-09b6-4916-bbf1-afdcec9f5c79",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 310,
+      "text": "يوم الأربعاء سابع وعشرين من شعبان من سنة ثنتين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "ribat_al-bayan"
+          ]
+        ]
+      },
+      "endIndex": 308,
+      "guid": "4b4eadd4-1ace-4857-bfa8-742d1b58d6f6",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 294,
+      "text": "رباط أبي البيان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "cc12fef9-11d4-43e1-8d01-f53b1f297525",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 211,
+      "text": "أبو بكر بن الحاج مسعود بن محمد الأصبهاني",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء جميعه على الشيخ الإمام الأديب شرف الدين جمال الطائفة أبي عبد الله محمد بن نصر بن عبد الرحمن بن محمد بن محفوظ القرشي بسماعه من المخرج وهو الحافظ الكبير ابن عساكر رحمه [الله] فسمع معي الشاب الصالح أبو بكر بن الحاج مسعود بن محمد الأصبهاني وآخرون بفوات لم يكمل لهم السماع وصح وثبت برباط أبي البيان يوم الأربعاء سابع وعشرين من شعبان من سنة ثنتين وستماية [كذا] وكتب مثبته فقير رحمة الله محمد بن أحمد بن محمد الأصبهاني نفعه الله به [...] الخير آمين"
+}

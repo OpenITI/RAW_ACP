@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن القزويني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي القزويني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 104"
+      ],
+      "classmark": [
+        "3759/1"
+      ],
+      "folio_number": [
+        "14v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "12f0605c-5377-4031-90ad-cefda328bd84",
+      "startIndex": 11,
+      "text": "أبو العباس أحمد بن محمد بن عل يبن أحمد البعلبكي ابن اليونانية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "443b8d56-0f86-41f2-8368-f592626a556b",
+      "startIndex": 179,
+      "text": "محمد بن عبد الله بن أحمد بن المحب عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "94057e96-d8b2-4a5c-b8e3-3c11d4fc793e",
+      "startIndex": 79,
+      "text": "أبو محمد عبد الله بن إبراهيم بن خليل البعلبكي الشرائحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "779"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "de76a67f-1c18-4d35-9874-90960494894a",
+      "startIndex": 137,
+      "text": "ثامن عشر محرم سنة تسع وسبعين وسبعمية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأه عليَّ أبو العباس أحمد بن محمد بن عل يبن أحمد البعلبكي ابن اليونانية فسمعه أبو محمد عبد الله بن إبراهيم بن خليل البعلبكي الشرائحي في ثامن عشر محرم سنة تسع وسبعين وسبعمية كتبه محمد بن عبد الله بن أحمد بن المحب عبد الله والحمد لله والمن بسماعي من الجد"
+}

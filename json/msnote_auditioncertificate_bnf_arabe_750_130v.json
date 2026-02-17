@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن عبد الله الظاهري"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "مشيخة ابن البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 750"
+      ],
+      "folio_number": [
+        "130v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f133.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046586/f133.image.r=%22Arabe%20750%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "131b3842-ee07-4a71-8b31-b9db32ad2b7c",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 18,
+      "text": "علي بن محمود بن علي بن عبد العزيز بن محمد الشهير بابن الهندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "5ad797b0-f1b5-4f93-8320-59b0a4644d56",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 105,
+      "text": "محمود بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 208,
+      "guid": "bf71c7a1-8f6e-41ae-8363-9449376f0a4e",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 190,
+      "text": "محمود بن علي الهندي",
+      "type": "signature_of_musmi"
+    }
+  ],
+  "text": "بلغ مقابلة بقراءة علي بن محمود بن علي بن عبد العزيز بن محمد الشهير بابن الهندي على والده كاتب هذه الأحرف محمود بن علي وأجزت له أن يروي عني جميع ما يجوز لي وعني روايته بشرطه قال ذلك وتلفظ به محمود بن علي الهندي"
+}

@@ -1,0 +1,427 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب شرف أصحاب الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. or. Quart 1060"
+      ],
+      "folio_number": [
+        "49v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN655627685/1200/0/00000104.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00021324"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 895,
+      "guid": "0acd3466-76ff-40b2-a8ad-8d18ed734591",
+      "startIndex": 876,
+      "text": "أحمد بن يونس الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "218f8f40-ab0e-4ac4-a510-c48eb5a7c2bd",
+      "startIndex": 193,
+      "text": "أبي محمد هبة الله بن أحمد بن محمد الأكفاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "2a5c8abb-fd1b-4a4b-97fa-ae434bf9d4df",
+      "startIndex": 272,
+      "text": " أبي محمد عبد الكريم حمزة بن الخضر السُّلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 647,
+      "guid": "36fdf000-5017-4cd0-abc1-787ad92fb715",
+      "startIndex": 644,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 636,
+      "guid": "47b61988-fca0-4ca4-b9b4-e2ccab0acf69",
+      "startIndex": 564,
+      "text": "أمين الدين سالم بن شيخنا عماد الدين محمد بن سالم بن الحسن بن صصرى التغلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "669"
+        ]
+      },
+      "endIndex": 957,
+      "guid": "5a7ba625-eb42-4a02-8706-e5c60dcc2602",
+      "startIndex": 901,
+      "text": "في ليلة السبت سادس عشري جمادى الأولى سنة تسع وستين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 745,
+      "guid": "5ceaddfc-8b33-4fa9-9758-1c624a0e4dfc",
+      "startIndex": 725,
+      "text": "عبد الرحيم بن إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 399,
+      "guid": "5f336bfd-ff58-4bcf-adf5-698d10115031",
+      "startIndex": 360,
+      "text": " أبي محمد طاهر بن سهل بن بشر الإسفراييني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 695,
+      "guid": "7dc51af9-8122-4c28-b42f-ecade14da1ea",
+      "startIndex": 651,
+      "text": "كمال الدين إسحق بن يحيى بن إسحق الآمدي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 560,
+      "guid": "9312d49b-0c57-41a6-9ca9-9f9db196f00e",
+      "startIndex": 492,
+      "text": "أبو إسحق إبراهيم بن الشيخ الإمام المفتي تاج الدين أبي محمد عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 1039,
+      "guid": "9b2a3de1-f27a-4b74-a5e9-e83d518bcae7",
+      "startIndex": 1028,
+      "text": "ابن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 480,
+      "guid": "ae1695c2-6cfc-4dd1-9e69-2cb844c67af4",
+      "startIndex": 440,
+      "text": "شرف الدين أحمد بن إبراهيم بن سباع الفزاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 820,
+      "guid": "c71114c4-fd98-4c1a-8262-8552f57cb523",
+      "startIndex": 801,
+      "text": "محمود بن يحيى بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 860,
+      "guid": "cc58e253-a6bb-4af7-8910-1948676cce3d",
+      "startIndex": 824,
+      "text": "عبد الغالب بن محمد بن ماهان الماكساني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "darb_al-labban"
+          ]
+        ]
+      },
+      "endIndex": 988,
+      "guid": "cdcaa799-83aa-4c73-9639-a31eb3d7e02b",
+      "startIndex": 960,
+      "text": "منزل المسمع بدرب اللبان بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 702,
+      "guid": "d21a8bb4-db1f-420b-b6db-efc8da678b36",
+      "startIndex": 699,
+      "text": "شاكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 417,
+      "guid": "d3be76ca-401d-46c2-ad87-92e7b3067ede",
+      "startIndex": 412,
+      "text": "الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "ec054b40-68f7-49e8-af93-4af592ef2634",
+      "startIndex": 66,
+      "text": "تقي الدين أبي محمد إسماعيل بن إبراهيم بن أبي اليُسر شاكر التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "f1f23853-4c54-41ea-b248-7958070c0260",
+      "startIndex": 141,
+      "text": "أبي طاهر بركات بن إبراهيم بن طاهر الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 789,
+      "guid": "f2ba944a-0644-46b5-b8c2-6a36e4775ec6",
+      "startIndex": 749,
+      "text": "محفوظ بن شهاب الدين علي بن عمر بن الموصلي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع كتاب شرف أصحاب الحديث للخطيب وهو ثلاثة أجزاء على الشيخ الإمام تقي الدين أبي محمد إسماعيل بن إبراهيم بن أبي اليُسر شاكر التنوخي بسماعه من أبي طاهر بركات بن إبراهيم بن طاهر الخشوعي بسماعه من أبي محمد هبة الله بن أحمد بن محمد الأكفاني، وبسماع الخشوعي للجزء الأول أيضاً من أبي محمد عبد الكريم حمزة بن الخضر السُّلمي وبسماع الخشوعي للجزء الثاني والثالث أيضاً من أبي محمد طاهر بن سهل بن بشر الإسفراييني بسماعهم من الخطيب بقراءة الإمام العالم شرف الدين أحمد بن إبراهيم بن سباع الفزاري، ابن أخيه أبو إسحق إبراهيم بن الشيخ الإمام المفتي تاج الدين أبي محمد عبد الرحمن، وأمين الدين سالم بن شيخنا عماد الدين محمد بن سالم بن الحسن بن صصرى التغلبي وأخوه أحمد، وكمال الدين إسحق بن يحيى بن إسحق الآمدي الحنفي، وشاكر بن المسمع، وابن أخيه عبد الرحيم بن إبراهيم، ومحفوظ بن شهاب الدين علي بن عمر بن الموصلي، وابن عمه محمود بن يحيى بن عمر، وعبد الغالب بن محمد بن ماهان الماكساني، وكاتب السماع أحمد بن يونس الإربلي وصح في ليلة السبت سادس عشري جمادى الأولى سنة تسع وستين وستمئة بمنزل المسمع بدرب اللبان بدمشق وأجاز لهم جميع ما يرويه نقله من الأصل ابن البرزالي والحمد لله رب العالمين وصلى الله على سيدنا محمد وعلى آله وسلم."
+}

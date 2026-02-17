@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن المفضل المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " كتاب فيه اربعون حديثا عن اربعين شيخا فى اربعين بابا لاربعين صحابيا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Petermann I 582"
+      ],
+      "folio_number": [
+        "3v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1665921749/1200/0/00000010.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00021114"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 432,
+      "guid": "03c415df-45de-43c9-b582-cbab303f04aa",
+      "startIndex": 409,
+      "text": "جمال الدين أبو صادق محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 856,
+      "guid": "26cab982-94d6-43c5-a833-09eb7f3c999b",
+      "startIndex": 812,
+      "text": "محي الدين محمد بن عبد الرحمن بن خليل الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 691,
+      "guid": "2d0d4f76-da01-47e8-a578-b7c067298947",
+      "startIndex": 584,
+      "text": "عماد الدين محمد ولد الشيخ الفقيه الإمام تاج الدين أبي الحسن علي بن الشيخ الزاهد أبي العباس أحمد بن القسطلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 924,
+      "guid": "3088d844-e487-4e5e-87e7-48012c8773f9",
+      "startIndex": 866,
+      "text": "جمال الدين محمد بن الفقيه الورع الزاهد عبد الوهاب بن الرشيق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 1339,
+      "guid": "3234de27-0377-4b4c-ab2a-6c85c47d1aa8",
+      "startIndex": 1290,
+      "text": " يوم الخميس ثاني ربيع الآخر سنة خمس وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 801,
+      "guid": "44b2a39d-3ad6-471d-ba10-26c0806492db",
+      "startIndex": 749,
+      "text": "نجم الدين محمد بن عبد الله بن عبد الكريم بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 573,
+      "guid": "8d9ef028-984c-4969-a0c4-3c138f451bdc",
+      "startIndex": 520,
+      "text": "جلال الدين أبو محمد عبد الوهاب بن طيء بن حاتم الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt / Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "fe2ad24f-a461-4406-9d79-439cb241220e"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 973,
+      "guid": "939f4e3d-55e1-4ec3-a9b8-f5dc328b1ec4",
+      "startIndex": 934,
+      "text": "فخر الدين عثمان بن عثمان التوزري المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-bahayiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 251,
+      "guid": "9dc0e884-6f59-4639-819e-f925e210b240",
+      "startIndex": 218,
+      "text": "المدرسة الصاحبية البهائية المحروسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1058,
+      "guid": "a8cc75f0-be24-4a97-b124-820162364d5f",
+      "startIndex": 1015,
+      "text": "أبو العباس أحمد بن عبد الخالق بن علي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 745,
+      "guid": "cb4ede44-e737-486b-bdef-8c0e02d0c876",
+      "startIndex": 700,
+      "text": " ضياء الدين هارون بن أبي القاسم القرشي المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1011,
+      "guid": "cbdd20ee-c723-4a17-87ef-72df5c74bb56",
+      "startIndex": 977,
+      "text": "نجم الدين محمد بن عبد الكريم العطار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1403,
+      "guid": "d85150c0-eb34-4096-8058-3addd9e9bdb3",
+      "startIndex": 1372,
+      "text": "محمد بن عبد الحكم السعدي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "dfbff93b-e2b5-474f-a8ef-3905c51f3475",
+      "startIndex": 314,
+      "text": "شرف الدين أبي الحسن علي بن المفضل بن علي بن المفرج المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 458,
+      "guid": "f1783aeb-ae24-465c-bce2-dee54053e5a1",
+      "startIndex": 436,
+      "text": "تاج الدين أبو طاهر أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "f3454ed5-66af-41cc-9796-f9b72446a40f",
+      "startIndex": 115,
+      "text": "رشيد الدين أبي الحسين يحيى بن الشيخ الإمام أبي الحسن علي بن عبد الله القرشي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذه الأربعين من أولها إلى آخرها على الشيخ الحافظ الفقيه الإمام العالم العامل الورع بقية السلف وعمدة الخلف رشيد الدين أبي الحسين يحيى بن الشيخ الإمام أبي الحسن علي بن عبد الله القرشي أمتع الله المسلمين ببقائه بالمدرسة الصاحبية البهائية المحروسة بحق استملائه لها من ممليها الشيخ الحافظ الفقيه الإمام العالم شرف الدين أبي الحسن علي بن المفضل بن علي بن المفرج المقدسي رضي الله عنه السادة الفقهاء الأجلاء جمال الدين أبو صادق محمد، وتاج الدين أبو طاهر أحمد ولدا الشيخ المُسمِع وفقهم الله، والقاضي العدل الفقيه الإمام جلال الدين أبو محمد عبد الوهاب بن طيء بن حاتم الأنصاري، والفقيه عماد الدين محمد ولد الشيخ الفقيه الإمام تاج الدين أبي الحسن علي بن الشيخ الزاهد أبي العباس أحمد بن القسطلاني والفقيه ضياء الدين هارون بن أبي القاسم القرشي المالكي، ونجم الدين محمد بن عبد الله بن عبد الكريم بن عبد الغني، والفقيه محي الدين محمد بن عبد الرحمن بن خليل الأنصاري والفقيه جمال الدين محمد بن الفقيه الورع الزاهد عبد الوهاب بن الرشيق والفقيه فخر الدين عثمان بن عثمان التوزري المالكي، ونجم الدين محمد بن عبد الكريم العطار، وأبو العباس أحمد بن عبد الخالق بن علي الشافعي. وفات ولد الشيخ أبو طاهر أحمد المُقدَّم ذكره من أول الباب الخامس والعشرين إلى آخرها وأذن لنا الشيخ المذكور وفقه الله أن نرويها عنه وأن نروي عنه جميع ما يجوز له روايته بالشرط المعتبر عند أهل العلم والأثر وصح ذلك وثبت في مجالس آخرها يوم الخميس ثاني ربيع الآخر سنة خمس وخمسين وستمائة كتبه العبد الفقير إلى رحمة ربه محمد بن عبد الحكم السعدي الشافعي وهو قارئها غفر الله له والحمد لله وصلى الله على سيدنا محمد وآله وصحبه."
+}

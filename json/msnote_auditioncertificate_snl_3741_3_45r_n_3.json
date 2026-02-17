@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "45r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 301,
+      "guid": "95a3faed-e222-480c-bc1e-72e09d7c24b2",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 295,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 552,
+      "guid": "963006be-da8e-4cb8-ab5c-a894a71c395b",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 490,
+      "text": "عبد الله بن أحمد بن عبد الله بن أحمد بن محمد بن إبراهيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "706"
+        ]
+      },
+      "endIndex": 460,
+      "guid": "ba411478-9e8e-4011-86a9-89852971ee31",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 430,
+      "text": "السبت ثامن صفر سنة ست وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 382,
+      "guid": "c1cbf80c-d7f2-45f9-ac2c-65a94a7504d2",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 314,
+      "text": "عز الدين محمد بن شيخنا ناصر الدين داود بن حمزة بن أحمد بن عمر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "d8e5e694-8673-4a25-84d4-46977298e4e0",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 41,
+      "text": "شرف الدين أبي بكر عبد الله بن الشيخ الإمام العلامة شيخ الإسلام شمس الدين أبي الفرج عبد الرحمن بن شيخ الإسلام أبي عمر محمد بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 254,
+      "guid": "e415b539-3689-435c-bb61-06f466475601",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 230,
+      "text": "أبي العباس بن عبد الدائم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 483,
+      "guid": "ec4b0e81-7e71-4312-a358-88764945da3d",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 463,
+      "text": "المسجد العتيق بقاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "ecada5ea-f52f-453e-8885-5284f0d8f711",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 273,
+      "text": "ضياء الدين ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "f6a8fcf3-fe87-486e-b8c5-d1da9866cc23",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": "أبي عبد الله خطيب مردا ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 394,
+      "guid": "ff86f919-f073-4363-8ce1-5e9c86d2e5b9",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 390,
+      "text": "محمد ",
+      "type": "person"
+    }
+  ],
+  "text": " ثم قرأته على الشيخ الصالح الأصيل المسند شرف الدين أبي بكر عبد الله بن الشيخ الإمام العلامة شيخ الإسلام شمس الدين أبي الفرج عبد الرحمن بن شيخ الإسلام أبي عمر محمد بن أحمد بن محمد بن قدامة المقدسي بسماعه من أبي عبد الله خطيب مردا وأبي العباس بن عبد الدائم وحضوره على الحافظ ضياء الدين بسماعهم من الثقفي بسنده فسمعه عز الدين محمد بن شيخنا ناصر الدين داود بن حمزة بن أحمد بن عمر المقدسي وابنه محمد في الثالثة أسعده الله وذلك في ليلة السبت ثامن صفر سنة ست وسبع ماية بالمسجد العتيق بقاسيون وكتب عبد الله بن أحمد بن عبد الله بن أحمد بن محمد بن إبراهيم المقدسي لطف الله به"
+}

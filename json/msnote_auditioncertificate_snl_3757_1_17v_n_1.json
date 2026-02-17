@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن جعفر بن محمد بن سهل السامري الخرائطي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مساوئ الأخلاق ومذمومها ومكروه طرائقها"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 94"
+      ],
+      "classmark": [
+        "3757/1"
+      ],
+      "folio_number": [
+        "17v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "01f5edde-c105-49cf-9490-2a8d08e1653c",
+      "index": 168,
+      "isZeroPoint": false,
+      "startIndex": 68,
+      "text": "علاء الدين أبي الحسن علي بن المظفر بن إبراهيم الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "21eabeda-25b9-4b9a-b896-590952686482",
+      "index": 170,
+      "isZeroPoint": false,
+      "startIndex": 181,
+      "text": "إبراهيم بن خليل الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "3b661c9f-474d-44eb-8acd-9c7f3595dea5",
+      "index": 173,
+      "isZeroPoint": false,
+      "startIndex": 326,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "48e06d1f-c718-4012-8bd0-a7c234e054e3",
+      "index": 171,
+      "isZeroPoint": false,
+      "startIndex": 250,
+      "text": "الجنزوي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 469,
+      "guid": "6ab51c38-ecd7-4a11-8345-0ea296eb530a",
+      "index": 176,
+      "isZeroPoint": false,
+      "startIndex": 424,
+      "text": "ناصر الدين محمد بن عبد الله بن عبد الله الناسخ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "7d9aae4e-7630-4100-9ef3-f3a618354db4",
+      "index": 172,
+      "isZeroPoint": false,
+      "startIndex": 271,
+      "text": "أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "bustan_al-kindi"
+          ]
+        ]
+      },
+      "endIndex": 594,
+      "guid": "c2bde3d0-74f2-480f-9d0c-4f305a17dfc9",
+      "index": 180,
+      "isZeroPoint": false,
+      "startIndex": 536,
+      "text": "بستان المسمع الأول تجاه قبة المسجف من أعمال المزة ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "d45f62e4-7f40-4627-b025-b7273a498dac",
+      "index": 175,
+      "isZeroPoint": false,
+      "startIndex": 369,
+      "text": "شرف الدين أبو المعالي محمد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "da4fc046-e998-4e6a-bb8f-b2ea4759bddf",
+      "index": 174,
+      "isZeroPoint": false,
+      "startIndex": 350,
+      "text": "عمر بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "e53f5900-4f12-4634-b235-764b5574b08d",
+      "index": 169,
+      "isZeroPoint": false,
+      "startIndex": 122,
+      "text": "زين الدين أبي بكر ابن يوسف بن أبي بكر المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "716"
+        ]
+      },
+      "endIndex": 534,
+      "guid": "f06c3d9f-21a6-4734-9061-07174a8ab0d8",
+      "index": 178,
+      "isZeroPoint": false,
+      "startIndex": 479,
+      "text": "يوم السبت الثالث عشر من ربيع الأول سنة ست عشرة وسبعماية ",
+      "type": "date"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخين الإمامين العالمين الفاضلين الأوحدين علاء الدين أبي الحسن علي بن المظفر بن إبراهيم الكندي وزين الدين أبي بكر ابن يوسف بن أبي بكر المزي بسماع الأول من إبراهيم بن خليل الدمشقي وبإجازة الثاني منه إن لم يكن سماعا بسماعه من الجنزوي بسنده بقراءة أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي ابنه محمد وهذا خطه وابن أخيه عمر بن عبد الرحمن وشرف الدين أبو المعالي محمد بن أحمد بن المسمع |الثاني| وناصر الدين محمد بن عبد الله بن عبد الله الناسخ وصح ذلك يوم السبت الثالث عشر من ربيع الأول سنة ست عشرة وسبعماية ببستان المسمع الأول تجاه قبة المسجف من أعمال المزة ظاهر دمشق المحروسة وأجازا للسامعين ما يرويانه والحمد لله وحده وصلى الله على محمد وآله"
+}

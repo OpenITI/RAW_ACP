@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن المظفر بن محمد بن موسى بن عيسى البزاز "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 50/51"
+      ],
+      "classmark": [
+        "3747/10"
+      ],
+      "folio_number": [
+        "142v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ]
+      },
+      "endIndex": 798,
+      "guid": "29895f9e-dfe3-439a-9a1b-5f3018493f11",
+      "startIndex": 689,
+      "text": "صحيح ذلك كتب العبد الفقير إلى الله تعالى عبد الرحيم بن عبد الملك بن عبد الملك بن يوسف بن محمد بن قدامة المقدسي",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "3c10d869-3a31-493c-8757-ec82e5c71137",
+      "startIndex": 37,
+      "text": "كمال الدين أبي محمد عبد الرحيم بن عبد الملك بن يوسف المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "673"
+        ]
+      },
+      "endIndex": 499,
+      "guid": "3e5e7121-a192-45e1-822a-c5a1b393225e",
+      "startIndex": 460,
+      "text": "ثاني جمادى الأولى سنة ثلث وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 391,
+      "guid": "7da63749-fff6-4258-81db-cc67ae3a2359",
+      "startIndex": 359,
+      "text": "محمد بن الشهاب إبراهيم بن إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "91b14894-5d83-408a-83da-05e99ec36d51",
+      "startIndex": 181,
+      "text": "نور الدين أبي الحسن علي بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 309,
+      "guid": "924b278f-358c-43da-96e8-c9a2ce2aeee9",
+      "startIndex": 264,
+      "text": "أحمد بن عبد الرحمن بن محمد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "02d6a851-d759-4db1-b53d-186bdab1a65c"
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 433,
+      "guid": "92ab485e-2f73-440d-8c47-4e306a61df38",
+      "startIndex": 394,
+      "text": "عبد الحافظ بن عبد المنعم بن غازي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "d92c74b7-adf0-4960-9417-d796526c7465",
+      "startIndex": 125,
+      "text": "أبي حفص عمر بن محمد طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 529,
+      "guid": "e8fa0c91-ca81-4646-9ea1-35d3531e9ca6",
+      "startIndex": 502,
+      "text": "جامع المظفري بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "f7d66037-89f7-4b46-8ab5-56078b99b08f",
+      "startIndex": 312,
+      "text": "محمد بن عبد الرحمن بن إسحق بن الخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "fb12474a-171e-47c7-8a64-9aac5de7e4b6",
+      "startIndex": 237,
+      "text": "سمنديار بن خضر بن سمنديار",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ الفقيه كمال الدين أبي محمد عبد الرحيم بن عبد الملك بن يوسف المقدسي أثابه الله بحق سماعه فيه من أبي حفص عمر بن محمد طبرزد بسنده فيه بقراءة الشيخ الإمام نور الدين أبي الحسن علي بن نفيس الموصلي ثم الحلبي الشيخ سمنديار بن خضر بن سمنديار وأحمد بن عبد الرحمن بن محمد بن عبد الله المقدسي ومحمد بن عبد الرحمن بن إسحق بن الخضر وأخوه لأمه محمد بن الشهاب إبراهيم بن إسماعيل وعبد الحافظ بن عبد المنعم بن غازي المقدسي وهذا خطه وصح ذلك وثبت في ثاني جمادى الأولى سنة ثلث وسبعين وستماية بجامع المظفري بسفح جبل قاسيون حرسه الله تعالى والحمد لله حق حمده وصلوته على سيدنا محمد وآله وصحبه وسلامه ولله الحمد والمنة على نعمه ومصليا على نبيه وحسبنا الله ونعم الوكيل له الحمد والمنة صحيح ذلك كتب العبد الفقير إلى الله تعالى عبد الرحيم بن عبد الملك بن عبد الملك بن يوسف بن محمد بن قدامة المقدسي "
+}

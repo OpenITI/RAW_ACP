@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "28v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.item.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 29,
+      "guid": "74bac03b-ec05-4d29-95bf-84d3f0429d85",
+      "index": 385,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "محمد اليونيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "3"
+        ],
+        "year": [
+          "595"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "866c6846-70ee-4e84-ae47-6de9643696f3",
+      "index": 387,
+      "isZeroPoint": false,
+      "startIndex": 68,
+      "text": "ربيع الأول سنة خمس وتسعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "d0cd962d-9b92-4ea1-931d-d889b1fd8ad7",
+      "index": 386,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "عبد الوهاب بن محمد بن إبراهيم",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة محمد اليونيني عبد الوهاب بن محمد بن إبراهيم حضر في ربيع الأول سنة خمس وتسعين وخمس ماية."
+}

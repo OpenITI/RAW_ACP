@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "زاهر بن طاهر بن محمد الشحامي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأحاديث الألف السباعيات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 93"
+      ],
+      "classmark": [
+        "3756/8"
+      ],
+      "folio_number": [
+        "76v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "701"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "80554eac-36c0-4ae4-abc3-167623052f98",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 188,
+      "text": "سادس عشر ذي قعدة سنة إحدى وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "af368df3-3772-4a1b-884d-f725c0566320",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 117,
+      "text": "ضياء الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "b79e25f2-853d-4933-8b32-f4bce656d26b",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 144,
+      "text": "عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 232,
+      "guid": "d7f87b6f-7805-4b42-9c22-f13b3db13fc3",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 224,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "e0e12a32-d346-4709-8f2a-3633a6b7da53",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 48,
+      "text": "أحمد بن محمد بن أحمد بن عبد الله بن موسى المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمع الجزء الثامن من هذا الجزء عليه وعلى الشيخ أحمد بن محمد بن أحمد بن عبد الله بن موسى المقدسي بإجازتهما من الحافظ ضياء الدين إن لم تكن سماعا عبد الله بن أحمد بن المحب بقراءته وآخرون في سادس عشر ذي قعدة سنة إحدى وسبعماية بجامع دمشق يوم الجمعة وأجاز لنا "
+}

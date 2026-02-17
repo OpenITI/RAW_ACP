@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن حرب بن محمد الطائي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من حديث سفيان بن عيينة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/7"
+      ],
+      "folio_number": [
+        "83v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "103b002e-0c9d-4c10-8404-286a5e21b66d",
+      "startIndex": 151,
+      "text": "سعد الدين أبو محمد مسعود بن أحمد بن مسعود بن زيد الحارثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 462,
+      "guid": "34cf4c95-3742-4d29-a456-c9a251ced0e2",
+      "startIndex": 425,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "5c8cb1f7-44e5-4d9e-af54-a03b4f2c5abd",
+      "startIndex": 34,
+      "text": " أبي علي مهلهل بن ظافر بن موهوب بن ظافر الشقراوي الحنبلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "rukniya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 373,
+      "guid": "8c3b4cc7-bd17-48c5-bd84-ebd8ff83792e",
+      "startIndex": 351,
+      "text": "المدرسة الركنية الحنفية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "e8b42ee0-66ef-497c-8875-559a57597880",
+      "startIndex": 111,
+      "text": "موفق الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "eef4b7c7-9707-4f2e-87a2-64e6e9dcb083",
+      "startIndex": 209,
+      "text": "أبو الحسن علي بن عبد الله بن عبد الرحمن بن سلامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "673"
+        ]
+      },
+      "endIndex": 348,
+      "guid": "fe405fb2-a40b-45e5-94c7-80c9e79a7d9f",
+      "startIndex": 282,
+      "text": "يوم الأربعاء السادس والعشرين من جمادى الآخرة سنة ثلث وسبعين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت جميعه على الشيخ الصالح الزاهد أبي علي مهلهل بن ظافر بن موهوب بن ظافر الشقراوي الحنبلي بسماعه فيه من الشيخ موفق الدين بسنده فيه فسمع الفقيه الإمام سعد الدين أبو محمد مسعود بن أحمد بن مسعود بن زيد الحارثي وأبو الحسن علي بن عبد الله بن عبد الرحمن بن سلامة المقدسي وصح ذلك وثبت في يوم الأربعاء السادس والعشرين من جمادى الآخرة سنة ثلث وسبعين وستماية بالمدرسة الركنية الحنفية بسفح قاسيون ظاهر دمشق المحروسة كتبه فقير رحمة ربه علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه ورفق به حامدا الله تعالى ومصليا على نبيه محمد وآله وصحبه ومسلما"
+}

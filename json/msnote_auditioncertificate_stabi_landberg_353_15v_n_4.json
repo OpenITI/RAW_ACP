@@ -1,0 +1,463 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الكفاية في معرفة اصول علم الرواية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 353"
+      ],
+      "folio_number": [
+        "15v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007010"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "0386efcd-2c20-4f60-900f-f78b0fee1341",
+      "startIndex": 319,
+      "text": "أبو إسحق إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 676,
+      "guid": "0b4c324e-d8bc-4462-b899-175a75808236",
+      "startIndex": 596,
+      "text": "أبو الحسن عبد الوهاب بن زين الأمناء أبي البركات الحسن بن محمد بن هبة الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "24732321-1a69-4d03-90cb-191bf2eee84e",
+      "startIndex": 176,
+      "text": "يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 795,
+      "guid": "3801b38a-a97d-41de-a48c-749a6f5f028d",
+      "startIndex": 789,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 496,
+      "guid": "3fc788c3-cb9b-4e06-b498-ed75f5bd6c1e",
+      "startIndex": 473,
+      "text": "أبو المظفر يوسف بن يعقوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 832,
+      "guid": "493f78ff-6060-4465-9582-8dbd90b7f3cc",
+      "startIndex": 818,
+      "text": "أبو الحجاج يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "4d4435e9-1429-4ed4-bdf6-985d00469afd",
+      "startIndex": 114,
+      "text": "ست الكتبة نعمة بنت علي بن يحيى بن الطراح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "602"
+        ]
+      },
+      "endIndex": 1039,
+      "guid": "5e811bbe-6d27-4848-980f-3deae20f4a59",
+      "startIndex": 994,
+      "text": "يوم الثلاثاء ثامن شهر رمضان سنة اثنتين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 461,
+      "guid": "5f578416-3b2f-49cc-917e-c4020130082c",
+      "startIndex": 405,
+      "text": "عز الدين أبو محمد عبد العزيز بن عثمان بن أبي طاهر الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "aziziya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 1080,
+      "guid": "72b9908e-85d1-4b89-9316-59b8a2e4ae2f",
+      "startIndex": 1063,
+      "text": "مدرسة الملك العزيز",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 547,
+      "guid": "7f7b4b54-78f3-43e4-a3ac-6b6f29df0935",
+      "startIndex": 499,
+      "text": "زين الدين أبو الحسن علي بن يوسف بن محمد الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "96f58975-b4fa-419b-a8ba-5eeff4ed1feb",
+      "startIndex": 192,
+      "text": "الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 786,
+      "guid": "9897eccd-bcf7-40c7-b5af-995191f6e292",
+      "startIndex": 783,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 737,
+      "guid": "a00713b8-5108-4dcb-b26d-b72dc32dbcc5",
+      "startIndex": 679,
+      "text": "علاء الدين أبو المعالي محمد بن جامع بن باقي التميمي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 973,
+      "guid": "ac2db99a-9d62-4960-9e6e-aff77dc2d437",
+      "startIndex": 914,
+      "text": "عبد الجليل بن عبد الجبار بن عبد الواسع بن عبد الجليل الأبهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1212,
+      "guid": "bf200291-22bc-42e6-9635-890bcebd3c33",
+      "startIndex": 1190,
+      "text": "سنقر بن عبد الله التركي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 593,
+      "guid": "d4f56e63-cf52-4025-8284-de7eb2dccf79",
+      "startIndex": 550,
+      "text": "أبو عبد الله بن عبد الرحمن بن عماد العسقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "deedb50d-e30a-43b2-a313-fe48a32a1843",
+      "startIndex": 226,
+      "text": "عماد الدين أبي المجد إسماعيل بن هبة الله بن أبي الرضا بن باطيش الشافعي الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 911,
+      "guid": "df8d8354-4233-43b8-b915-41fccfd5e11d",
+      "startIndex": 875,
+      "text": "عبد الرحمن بن يونس بن إبراهيم التونسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "ebd35920-b5d8-42de-8301-273103fd8d50",
+      "startIndex": 337,
+      "text": "نور الدين أبو مطيع يحيى بن هبة الله بن أحمد بن سياه اليزدي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 844,
+      "guid": "f5083b0b-c3bf-4639-934d-a167e502b803",
+      "startIndex": 835,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 771,
+      "guid": "f5da7d4c-9adf-4ad1-8e48-fece8cc990e1",
+      "startIndex": 740,
+      "text": "الشريف علي بن محمد بن زيد الحسني",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء والذي قبله وهما الثامن والتاسع من الكفاية لأبي بكر الخطيب رحمه الله على الشيخة الأصيلة الصالحة ست الكتبة نعمة بنت علي بن يحيى بن الطراح بسماعها لهما من جدها يحيى بإجازته من الخطيب الشيخ الفقيه الأوحد العالم عماد الدين أبي المجد إسماعيل بن هبة الله بن أبي الرضا بن باطيش الشافعي الموصلي بقراءته وأخوه أبو إسحق إبراهيم ونور الدين أبو مطيع يحيى بن هبة الله بن أحمد بن سياه اليزدي الشافعي وعز الدين أبو محمد عبد العزيز بن عثمان بن أبي طاهر الإربلي وابن أخيه أبو المظفر يوسف بن يعقوب وزين الدين أبو الحسن علي بن يوسف بن محمد الأصبهاني وأبو عبد الله بن عبد الرحمن بن عماد العسقلاني وأبو الحسن عبد الوهاب بن زين الأمناء أبي البركات الحسن بن محمد بن هبة الله الشافعي وعلاء الدين أبو المعالي محمد بن جامع بن باقي التميمي الشافعي والشريف علي بن محمد بن زيد الحسني وابنا عمه محمد وإبراهيم ابنا إسماعيل بن زيد وأبو الحجاج يوسف وعبد الرحمن ابنا مكتوم بن أحمد القيسيان وعبد الرحمن بن يونس بن إبراهيم التونسي وعبد الجليل بن عبد الجبار بن عبد الواسع بن عبد الجليل الأبهري أصلحه الله وذلك في يوم الثلاثاء ثامن شهر رمضان سنة اثنتين وستمائة بدمشق حرسها الله في المدرسة الملك العزيز رحمه الله وصح وثبت والحمد لله رب العالمين وصلى الله على محمد وآله أجمعين.\nوسمع مع الجماعة بالقراءة والتاريخ سنقر بن عبد الله التركي فتا ابن جامع التميمي وصح سماعه."
+}

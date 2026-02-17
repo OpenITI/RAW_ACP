@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن إسحق بن زيد الحلبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد القاضي أبي الحسن علي بن محمد بن إسحق بن زيد الحلبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "126r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000263.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059149"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "671"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "29dedf13-2579-4c74-bd59-7c578d20a580",
+      "startIndex": 194,
+      "text": " في يوم الأحد سادس شعبان سنة إحدى وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "3c34120e-d0ac-4ac4-ac32-179bd632a050",
+      "startIndex": 18,
+      "text": "أبي زكريا يحيى بن أبي منصور بن أبي الفتح الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 252,
+      "guid": "60f66620-deb6-4b52-89d7-5dcd7ccc69df",
+      "startIndex": 244,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "82d4f869-8e1f-4101-815e-ac88cbad73e7",
+      "startIndex": 148,
+      "text": "يعقوب بن أحمد بن يعقوب ابن المقري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "99eb2b5e-73c1-4f1e-b019-2cba9a3cfa06",
+      "startIndex": 77,
+      "text": "ابن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "f55a912f-1337-453b-9aaf-d34a39f3f6fc",
+      "startIndex": 98,
+      "text": "أبي الحسن علي بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله سمعه من أبي زكريا يحيى بن أبي منصور بن أبي الفتح الحراني بسماعه من ابن الحرستاني بقراءة أبي الحسن علي بن مسعود بن نفيس الموصلي جماعة منهم يعقوب بن أحمد بن يعقوب ابن المقري وبخطه السماع في يوم الأحد سادس شعبان سنة إحدى وسبعين وستمائة بجامع دمشق المحروسة."
+}

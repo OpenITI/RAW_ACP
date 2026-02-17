@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الهيثم بن خلف بن محمد الدوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ذم اللواط "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 45"
+      ],
+      "classmark": [
+        "3746/7"
+      ],
+      "folio_number": [
+        "164v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 27,
+      "guid": "83c93858-08a8-4684-a68d-f466b86183e4",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": "ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "a66e9c8e-eac0-44db-a554-93b875903c4b",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 41,
+      "text": " محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "ba06b75d-814a-4906-ae94-d3821b5b58a6",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 80,
+      "text": "محمد بن إبراهيم الواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "718"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "dfcf004b-2619-4606-a1c4-7054b65847e9",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 129,
+      "text": "يوم الثلثا ثاني عشري شعبان سنة ثماني عشرة وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "e6098143-4fe7-41b1-a62a-e79e2ec06aaf",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 200,
+      "text": "حسن الأسعردي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه عليه بقراءة ابن المحب المذكور ابنه محمد وآخرون منهم كاتب السماع في الأصل محمد بن إبراهيم الواني ومن خطه اختصرت وصح ذلك في يوم الثلثا ثاني عشري شعبان سنة ثماني عشرة وسبعماية بمنزله بقاسيون وكتب حسن الأسعردي"
+}

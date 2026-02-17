@@ -1,0 +1,598 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن حرب بن محمد الطائي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من حديث سفيان بن عيينة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/7"
+      ],
+      "folio_number": [
+        "83r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 590,
+      "guid": "1967307f-50db-4bb7-a4bf-4413ee1e4a6a",
+      "startIndex": 573,
+      "text": "محمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 846,
+      "guid": "2042865e-09cc-4743-b80d-91e758d9c85c",
+      "startIndex": 811,
+      "text": "إسماعيل بن المحب محمد بن عمر الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 989,
+      "guid": "263b4f60-d373-4cdd-9f2d-2970a32edfbe",
+      "startIndex": 983,
+      "text": "أبو بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1571,
+      "guid": "2b54b7b7-506d-4bc2-af48-8371fc7568e2",
+      "startIndex": 1528,
+      "text": "أبو العباس أحمد بن أبي بكر بن أبي نصر البصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 808,
+      "guid": "2c0e1ad2-cf56-4ce3-a8f3-4c6da1c6baf6",
+      "startIndex": 785,
+      "text": "أبو العباس أحمد بن سلامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 975,
+      "guid": "2d47cf5f-8bc9-4111-b359-753c219e47fe",
+      "startIndex": 929,
+      "text": "أبو عبد الله محمد بن طرخان بن أبي الحسن الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1446,
+      "guid": "31b5ef2e-20b5-4cd1-8f83-4dff095f005e",
+      "startIndex": 1433,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1273,
+      "guid": "35a6112e-181e-40ca-8fb8-e65b50e09ff1",
+      "startIndex": 1242,
+      "text": "إسحق بن إبراهيم بن يحيى الشقراوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 423,
+      "guid": "3b0e9801-e7cf-41db-9829-6b9c1a94cd19",
+      "startIndex": 416,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "45050251-e3ba-46b9-bdb9-48731d4b5afc",
+      "startIndex": 247,
+      "text": "أبو الفرج عبد الرحمن بن عبد المنعم بن نعمة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "619"
+        ]
+      },
+      "endIndex": 1430,
+      "guid": "456505df-6808-4959-8532-3cd17c969e6b",
+      "startIndex": 1375,
+      "text": "يوم السبت خامس عشر جمادى الأولى من سنة تسع عشرة وست ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 404,
+      "guid": "473889f3-ba60-49c2-a7b7-186fd38d813a",
+      "startIndex": 401,
+      "text": "عيسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "4bf53e4e-5442-40ab-a4d3-0caffd6b459e",
+      "startIndex": 143,
+      "text": "أبي عبد الله أحمد بن عيسى بن سلامة الخياط الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 380,
+      "guid": "4de265df-201e-4609-b22d-14bfbff36818",
+      "startIndex": 371,
+      "text": "عبد الساتر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 531,
+      "guid": "5036f1e7-f437-4cf5-bc52-ef57ba726d5f",
+      "startIndex": 507,
+      "text": "عبد المنعم بن غازي بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 709,
+      "guid": "5f02bfb6-597d-4c02-a305-d8e52a246f98",
+      "startIndex": 658,
+      "text": "عبد العزيز بن العفيف عبد الرحمن بن أبي الفتح المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "61fe70a9-5751-4a51-bd12-8d7115277c9f",
+      "startIndex": 199,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1107,
+      "guid": "75e7f6b4-ed9b-46de-ae1b-b00aec32fc93",
+      "startIndex": 1079,
+      "text": "أحمد بن مبارك بن أحمد الأذرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "7fd00f51-6de0-49a8-a4d6-cdc3dd91328e",
+      "startIndex": 335,
+      "text": "عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "85029538-277f-4057-b267-95971210303e",
+      "startIndex": 124,
+      "text": "طراد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 428,
+      "guid": "86fc0a1e-a263-4ab4-a567-7a585302fcd7",
+      "startIndex": 426,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 776,
+      "guid": "8930e394-ff1d-434b-96cb-f6aa7f723116",
+      "startIndex": 720,
+      "text": " أبو عبد الله محمد بن أبي بكر بن إبراهيم يُعرف بابن بريمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 567,
+      "guid": "90d1a555-a8b6-4c7b-8215-9a4d0c7216f6",
+      "startIndex": 534,
+      "text": "محمد بن عبد الرحيم ابن عبد الواحد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1317,
+      "guid": "96f08ddc-ad68-42dc-b194-853e021a69a9",
+      "startIndex": 1313,
+      "text": "يحيى ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 919,
+      "guid": "98c09434-cd88-430b-9364-6948e5878fc0",
+      "startIndex": 886,
+      "text": "عمر بن محمد بن هارون الضرير البقعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 398,
+      "guid": "9d6c689f-8ed0-41a4-92ba-e2a09e187671",
+      "startIndex": 395,
+      "text": "يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1052,
+      "guid": "a9065d46-4849-4dda-9bc9-10324005ae5b",
+      "startIndex": 1016,
+      "text": "أحمد بن أبي محمد بن عبد الرزاق العطار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1013,
+      "guid": "acf9f5f5-846e-484a-ac51-db3cdc0d5cb1",
+      "startIndex": 992,
+      "text": "مهلهل بن ظافر بن موهوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 356,
+      "guid": "bff19028-3993-4f2a-b782-4dd36a9204dd",
+      "startIndex": 347,
+      "text": "عبد الحافظ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "c8cfa1ae-b790-49ac-8ad4-339ea0bb76b7",
+      "startIndex": 359,
+      "text": "عبد الخالق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 627,
+      "guid": "cb0dc148-c2bf-42bc-bfc3-405ce662e1b9",
+      "startIndex": 606,
+      "text": "عبد الله بن عمر بن عوض",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 883,
+      "guid": "d18285be-70c5-4a6b-8fb8-87f068a8d968",
+      "startIndex": 851,
+      "text": "عبد الله بن محمد بن سيدهم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1076,
+      "guid": "d40e98f3-a8a5-479c-b2b7-d4516bcb1322",
+      "startIndex": 1055,
+      "text": "فارس بن منصور بن عبدان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 413,
+      "guid": "d89143d2-1627-42e2-ae9d-c0ae2d3bec99",
+      "startIndex": 407,
+      "text": "أبو بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 656,
+      "guid": "e0863d00-5f6a-4c14-a600-6e18287437ea",
+      "startIndex": 637,
+      "text": "سعد بن منصور بن سعد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1179,
+      "guid": "e5859c4a-8878-4666-87c5-727ca6ecbf95",
+      "startIndex": 1110,
+      "text": "أحمد بن الإمام عماد الدين إبراهيم بن عبد الواحد بن علي بن سرور المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 504,
+      "guid": "ef677a8b-87e8-428d-8f1b-2dd86e4c8c4f",
+      "startIndex": 480,
+      "text": "علي بن عبد العزيز بن موسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 392,
+      "guid": "f38d55cf-d01d-434f-9139-59092ae69a72",
+      "startIndex": 383,
+      "text": "عبد القادر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "f4a567da-5bf0-49d2-a8aa-718e06dd1540",
+      "startIndex": 54,
+      "text": " أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "f4c80244-d90e-49ec-a58e-31c22d916a1c",
+      "startIndex": 298,
+      "text": "عبد الحميد بن محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "f553777f-486b-405d-9736-e2652a4bf92b",
+      "startIndex": 323,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "f66e7c2a-4808-4e49-95d3-8eca6f678c22",
+      "startIndex": 116,
+      "text": "شهدة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1209,
+      "guid": "f7c031f6-0d90-4f5e-85b9-34c3eeed8eec",
+      "startIndex": 1186,
+      "text": "عبد الرحيم بن عمر بن عوض",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "fa006305-711a-4489-bd86-a1522b5b4853",
+      "startIndex": 193,
+      "text": "محمد ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم شيخ الإسلام أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي بسماعه من شهدة عن طراد بقراءة الإمام أبي عبد الله أحمد بن عيسى بن سلامة الخياط الحراني محمد وعبد الرحمن ابنا المجد عيسى بن الشيخ موفق الدين وأبو الفرج عبد الرحمن بن عبد المنعم بن نعمة والفقيه عبد الحميد بن محمد وبنوه عبد الرحمن وعبد الرحيم وعبد الحافظ وعبد الخالق وعبد الساتر وعبد القادر ويحيى وعيسى وأبو بكر وعبد الله وعلي حضر ابناء الرضي عبد الرحمن بن محمد بن عبد الجبار وعلي بن عبد العزيز بن موسى وعبد المنعم بن غازي بن عمر ومحمد بن عبد الرحيم ابن عبد الواحد وعمه محمد بن عبد الواحد والسماع بخطه وعبد الله بن عمر بن عوض والفقيه سعد بن منصور بن سعد وعبد العزيز بن العفيف عبد الرحمن بن أبي الفتح المقدسيون والإمام أبو عبد الله محمد بن أبي بكر بن إبراهيم يُعرف بابن بريمة والشيخ أبو العباس أحمد بن سلامة وإسماعيل بن المحب محمد بن عمر الحرانيون وعبد الله بن محمد بن سيدهم المقدسي وعمر بن محمد بن هارون الضرير البقعي والإمام أبو عبد الله محمد بن طرخان بن أبي الحسن الدمشقي وابنه أبو بكر ومهلهل بن ظافر بن موهوب وأحمد بن أبي محمد بن عبد الرزاق العطار وفارس بن منصور بن عبدان وأحمد بن مبارك بن أحمد الأذرعي وأحمد بن الإمام عماد الدين إبراهيم بن عبد الواحد بن علي بن سرور المقدسي وسمع عبد الرحيم بن عمر بن عوض من حديث صب في أذنيه الأنك وسمع إسحق بن إبراهيم بن يحيى الشقراوي من حديث أن فأرة وقعت في سمن وسمع أخوه يحيى من حديث من حديث جابر بن عبد الله أقرأ خلف الإمام وصح ذلك يوم السبت خامس عشر جمادى الأولى من سنة تسع عشرة وست ماية بالجامع المظفري والحمد لله وحده وصلى الله على محمد وآله وسلم تسلما كثيرا وسمع مع الجماعة الفقيه أبو العباس أحمد بن أبي بكر بن أبي نصر البصري كتبه محمد بن عبد الواحد "
+}

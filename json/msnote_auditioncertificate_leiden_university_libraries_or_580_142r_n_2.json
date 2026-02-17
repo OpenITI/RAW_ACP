@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "142r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "0685d429-209d-4320-b576-f42029c61b59",
+      "startIndex": 115,
+      "text": "شهاب الدين أبو العباس أحمد بن فرج الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "1fb021a9-37c2-4725-98bc-3a03cd25da41",
+      "startIndex": 58,
+      "text": "جمال الدين أبي حامد محمد بن الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 175,
+      "guid": "a1da64b0-d3c5-4fa3-b5d7-fab0891c2edd",
+      "startIndex": 159,
+      "text": "دار السنة النورية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "cd72822a-5efe-49f2-bfec-0fe3002d2fdc",
+      "startIndex": 262,
+      "text": "عبد الله بن يحيى بن أبي بكر الجزائري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "675"
+        ]
+      },
+      "endIndex": 248,
+      "guid": "f7d62511-653b-4cc1-83ef-91c57647a8fb",
+      "startIndex": 205,
+      "text": "الأحد العشرين من شوال سنة خمس وسبعين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "وسمع بقراءتي جميع هذا الجزء على مالكه الشيخ الإمام الحافظ جمال الدين أبي حامد محمد بن الصابوني الشيخ الفقيه المحدث شهاب الدين أبو العباس أحمد بن فرج الإشبيلي بدار السنة النورية رحم الله واقفها وصح ذلك يوم الأحد العشرين من شوال سنة خمس وسبعين وستماية وكتب القارئ عبد الله بن يحيى بن أبي بكر الجزائري والحمد لله وحده "
+}

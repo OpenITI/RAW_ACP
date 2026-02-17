@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عمرو بن البختري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي البختري عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 9"
+      ],
+      "catalog": [
+        "FMMU 127"
+      ],
+      "classmark": [
+        "3763/2"
+      ],
+      "folio_number": [
+        "30v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "0e1e22d7-2f68-4252-bdd2-e2ae0549d2aa",
+      "startIndex": 109,
+      "text": "عبد المحسن بن أبي العميد بن خالد الخفيفي الأبهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "77b30fd7-7d86-48ff-bbc3-7e2f454d7e9a",
+      "startIndex": 70,
+      "text": "عسكر بن غنيمة بن أبي العز ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "581"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "ab79c403-5b2f-44e2-8c97-91a2c25919e7",
+      "startIndex": 161,
+      "text": "صفر سنة إحدى وثمانين وخمسماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "f7d7c58a-8640-4c46-a51e-9cbd38fba7e1",
+      "startIndex": 17,
+      "text": "فخر الدين محمد بن خالد بن عبد الغفار الخفيفي الأبهري",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة فخر الدين محمد بن خالد بن عبد الغفار الخفيفي الأبهري عسكر بن غنيمة بن أبي العز ومثبت السماع عبد المحسن بن أبي العميد بن خالد الخفيفي الأبهري في صفر سنة إحدى وثمانين وخمسماية "
+}

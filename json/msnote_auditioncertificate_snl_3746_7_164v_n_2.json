@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الهيثم بن خلف بن محمد الدوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ذم اللواط "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 45"
+      ],
+      "classmark": [
+        "3746/7"
+      ],
+      "folio_number": [
+        "164v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "02773536-478d-4b15-a330-2dd7bf3b2b79",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 130,
+      "text": "محمد بن محمد بن داود بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "711"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "0999af2a-21d5-4148-a620-dc5c22352ef9",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 182,
+      "text": "سابع عشر شعبان سنة إحدى عشرة وسبعماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 240,
+      "guid": "16264b18-ca99-4390-82bd-bba036305052",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 221,
+      "text": "سفح قاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "c0ede70b-6485-453c-a073-25fe914ecfbe",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 89,
+      "text": "عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "c7aa55ce-e915-41d7-9465-20ca98a87ce1",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "أبي بكر أحمد بن عبد الدائم ",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على الحاج أبي بكر أحمد بن عبد الدائم بحضوره تراه نقلا بقراءة كاتب السماع في الأصل عبد الله بن أحمد بن المحب ومن خطه اختصرت محمد بن محمد بن داود بن حمزة حضر وهو الثانيـ[ـة] في سابع عشر شعبان سنة إحدى عشرة وسبعماية بسفح قاسيون ظاهر دمشق"
+}

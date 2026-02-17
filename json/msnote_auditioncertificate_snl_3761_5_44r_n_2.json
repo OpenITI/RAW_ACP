@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن عساكر أبو القاسم علي بن الحسن بن هبة الله الشافعي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن عساكر"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 117"
+      ],
+      "classmark": [
+        "3761/5"
+      ],
+      "folio_number": [
+        "44r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "897"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "150d46bf-6b58-4c3a-b2e4-8c5b9291fd3f",
+      "startIndex": 54,
+      "text": "ثامن عشرين شهر رجب سنة سبع وتسعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "1a11a12c-0e71-4b38-92bd-523885e5e15d",
+      "startIndex": 25,
+      "text": "محمد بن علي بن محمد بن طولون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "a84e6fd7-826c-4ae7-bc4b-cfcee5580656",
+      "startIndex": 122,
+      "text": "كتب يوسف بن عبد الهادي",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله قرأه علي الولد محمد بن علي بن محمد بن طولون ثامن عشرين شهر رجب سنة سبع وتسعين وثمان ماية وأجزت له أن يرويه عني وكتب يوسف بن عبد الهادي"
+}

@@ -1,0 +1,464 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/6"
+      ],
+      "folio_number": [
+        " 95r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 609,
+      "guid": "005c2856-d553-412f-bce5-b7d1c0a2a2ec",
+      "startIndex": 534,
+      "text": "كمال الدين أبو يوسف أحمد بن عز الدين عبد العزيز محمد بن عبد الرحيم بن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "144c08ca-5a69-4ee1-a5a0-c1e3786bcf10",
+      "startIndex": 106,
+      "text": "جمال الدين أبو الفرج بن أبي الحسن بن علوان العزازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 786,
+      "guid": "18d95445-1c0e-4fa6-bb0d-925621cb4c7f",
+      "startIndex": 742,
+      "text": "أبو إسحق إبراهيم بن أبي القاسم بن عمر الحميدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 676,
+      "guid": "23e34252-cc1f-41ee-a923-dfdeae459d5e",
+      "startIndex": 612,
+      "text": "صفي الدين أبو عبد الله محمد بن أبي بكر بن داود بن أبي بكر العمادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "632"
+        ]
+      },
+      "endIndex": 993,
+      "guid": "25d71b90-6b45-4583-b357-04eb7756a317",
+      "startIndex": 941,
+      "text": "يوم الأحد سادس عشر شعبان من سنة اثنيتن وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 431,
+      "guid": "3bacb328-b95f-4b62-957d-476a85dd75cf",
+      "startIndex": 390,
+      "text": "أبو الفضل جعفر بن أبي حامد بن سلمان الخازن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1083,
+      "guid": "3bcd4e0e-e548-4205-96d7-06b5469151e9",
+      "startIndex": 1076,
+      "text": "جامع حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 854,
+      "guid": "3c0134e4-976f-4e89-bc89-c47dc16409c7",
+      "startIndex": 826,
+      "text": "محمد بن عمر بن إبراهيم السواق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1047,
+      "guid": "5e1ac33d-3592-4e2d-aa0d-f86785bbf3fe",
+      "startIndex": 1017,
+      "text": "عبد الغفار بن عبد الله السبيعي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 388,
+      "guid": "6857c356-7830-4ea8-8ec5-8e47f86add45",
+      "startIndex": 339,
+      "text": "أبو عبد الله محمد بن موسى بن سعيد الأندلسي المرسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "75a3f21e-6005-4d0c-b9aa-85dbda5d8a0a",
+      "startIndex": 178,
+      "text": "أبو إسحق إبراهيم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "76513094-3a5e-4e98-94ee-f63318727750",
+      "startIndex": 168,
+      "text": "أبو حامد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 1123,
+      "guid": "7d01ad2a-0650-4ce4-b908-26ef5fb34d34",
+      "startIndex": 1099,
+      "text": "يوسف بن خليل بن عبد الله ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "85175e01-0a65-40a2-b733-46983e1446b1",
+      "startIndex": 295,
+      "text": "عفيف الدين أبو بكر بن محمد بن عيسى الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 739,
+      "guid": "9e7b30c0-f81e-4668-b86b-0e12e468b7b1",
+      "startIndex": 679,
+      "text": "رفيع الدين أبو عبد الله محمد ابن [جاباده؟] بن عبد الله العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 931,
+      "guid": "a1095b89-4568-4dfd-be77-044b31c407e2",
+      "startIndex": 904,
+      "text": "معالي ابن عبد الله البهنساوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 823,
+      "guid": "ae08c720-add0-4b69-afe8-7b5a5faf698e",
+      "startIndex": 789,
+      "text": "محمود بن أبي القاسم بن بدران الدشتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 901,
+      "guid": "d0a451c7-0768-42f6-9172-ac77043a2bec",
+      "startIndex": 857,
+      "text": "أبو بكر بن محمد بن أبي بكر عرف والده بالمكشوف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1065,
+      "guid": "d6de2e33-42a7-4001-88e6-8e7d3c8a55ad",
+      "startIndex": 1054,
+      "text": "لؤلؤ الأرمني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "df5fd5d5-3b5d-453e-a699-ea8789a99ece",
+      "startIndex": 235,
+      "text": "شمس الدين أبو العباس أحمد بن محمد بن أمية العبدري الميورقي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "e37eb835-c21c-4af6-988e-e4bf5d6890b3",
+      "startIndex": 38,
+      "text": "شرف الدين أبي عبد الله محمد بن أحمد بن إبراهيم القرشي الكتبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 531,
+      "guid": "fdcd83d9-f290-48c8-a9fe-7743073fab49",
+      "startIndex": 434,
+      "text": "محي الدين أبو عبد الله محمد بن الإمام العالم شرف الدين أبي طالب عبد الرحمن بن عبد الرحيم بن العجمي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع عليَّ هذا الجزء بسماعي فيه بقراءة شرف الدين أبي عبد الله محمد بن أحمد بن إبراهيم القرشي الكتبي الأئمة جمال الدين أبو الفرج بن أبي الحسن بن علوان العزازي وابنا أخته أبو حامد وأبو إسحق إبراهيم ابنا عسكر بن أبي علي ابن عسكر الحلبيان وشمس الدين أبو العباس أحمد بن محمد بن أمية العبدري الميورقي وعفيف الدين أبو بكر بن محمد بن عيسى الشافعي وأبو عبد الله محمد بن موسى بن سعيد الأندلسي المرسي وأبو الفضل جعفر بن أبي حامد بن سلمان الخازن ومحي الدين أبو عبد الله محمد بن الإمام العالم شرف الدين أبي طالب عبد الرحمن بن عبد الرحيم بن العجمي وكمال الدين أبو يوسف أحمد بن عز الدين عبد العزيز محمد بن عبد الرحيم بن العجمي وصفي الدين أبو عبد الله محمد بن أبي بكر بن داود بن أبي بكر العمادي ورفيع الدين أبو عبد الله محمد ابن [جاباده؟] بن عبد الله العجمي وأبو إسحق إبراهيم بن أبي القاسم بن عمر الحميدي ومحمود بن أبي القاسم بن بدران الدشتي ومحمد بن عمر بن إبراهيم السواق وأبو بكر بن محمد بن أبي بكر عرف والده بالمكشوف ومعالي ابن عبد الله البهنساوي وذلك في يوم الأحد سادس عشر شعبان من سنة اثنيتن وثلثين وستماية وسمع مع الجماعة الحاج عبد الغفار بن عبد الله السبيعي وفتاه لؤلؤ الأرمني الجنس في جامع حلب المحروسة وكتب يوسف بن خليل بن عبد الله "
+}

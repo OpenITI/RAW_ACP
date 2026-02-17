@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "اسد بن موسى بن ابراهيم اسد السنة"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " كتاب الزهد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 495"
+      ],
+      "folio_number": [
+        "14r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN668554088/1200/0/00000029.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011371"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 907,
+      "guid": "163ed61e-bfb2-4de3-a4db-1496fe0acb2d",
+      "startIndex": 842,
+      "text": " يوم السبت لسبع بقين من شهر رمضان المعظم من سنة خمس وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 708,
+      "guid": "5c8c3478-0560-4a56-83b1-519b56b10331",
+      "startIndex": 672,
+      "text": "أبو القاسم بن المبارك بن جرير الرَّقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 668,
+      "guid": "6168a081-767c-48a4-afde-fea1f049251b",
+      "startIndex": 645,
+      "text": " بشير بن عبد الله الهندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 946,
+      "guid": "6921c901-7d4e-4ebb-b1a0-ad3540c7bc9b",
+      "startIndex": 910,
+      "text": "مقصورة الغزالي من المسجد الجامع بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 637,
+      "guid": "6e378270-e9e5-4f09-9d43-b200ed085339",
+      "startIndex": 603,
+      "text": "إبراهيم بن أبي زمام بن مسلمة القيسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 760,
+      "guid": "86a71311-824c-4599-8b75-1827b5f1fb5f",
+      "startIndex": 716,
+      "text": "إبراهيم بن أبي البركات ابن أبي الفضل البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 518,
+      "guid": "9023acf1-d0a7-4aa0-90d0-96da97194144",
+      "startIndex": 492,
+      "text": "أحمد بن حمود بن عمر الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "97419fd8-c101-4ea7-8db7-740f0cd094a4",
+      "startIndex": 60,
+      "text": " شمس الدين محمد بن عبد المنعم بن عمار الحراني ابن هامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 794,
+      "guid": "b760e427-1bd4-40c3-8d6f-c955af83033d",
+      "startIndex": 764,
+      "text": "محمد بن إبراهيم بن داود الأذرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "c1eea42d-9dee-42a1-8237-0a8e655f5e66",
+      "startIndex": 270,
+      "text": "أبو الحسن علي بن سالم ابن سلمان ابن العرباني الحصني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 425,
+      "guid": "cc380234-0d6e-4df1-9ded-22b04d1f45fe",
+      "startIndex": 382,
+      "text": "محيي الدين بن يحيى بن زكريا بن مسعود المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1067,
+      "guid": "e5891790-a2fd-4f5e-a9d1-60dc2c469e54",
+      "startIndex": 998,
+      "text": "محمد بن عبد الرحمن بن يوسف بن محمد بن نصر بن أبي القاسم البعلبكي الأصل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 458,
+      "guid": "ee734875-5ca3-407d-886b-638b08b87a6f",
+      "startIndex": 429,
+      "text": "يوسف ابن محمود بن أحمد المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 546,
+      "guid": "f79d85cb-34e5-4efc-bd08-b304fb123d4d",
+      "startIndex": 526,
+      "text": "أحمد بن إسحق ابن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 488,
+      "guid": "fbb66c2b-4b18-4334-bf14-00e15948e32e",
+      "startIndex": 462,
+      "text": "محمد بن إسحق بن يوسف المصري",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم العلَّامة المتقن شمس الدين محمد بن عبد المنعم بن عمار الحراني ابن هامل الحراني، أبقاه الله تعالى بحق سماعه على المشايخ الثلاثة فيه نقلاً بالسند المتصل. فسمعه صاحب هذا النسخة الأجل الكبير الغازي المجاهد علاء الدين الدين [مكرر] أبو الحسن علي بن سالم ابن سلمان ابن العرباني الحصني، والشيخ الزاهد العاربد [كذا في الأصل والصواب العابد] المقرئ محيي الدين بن يحيى بن زكريا بن مسعود المنبجي، ويوسف ابن محمود بن أحمد المنبجي، ومحمد بن إسحق بن يوسف المصري، وأحمد بن حمود بن عمر الحراني، وحضر أحمد بن إسحق ابن يوسف في الثالثة من أوله إلى باب ذكر الصراط، وسمع جميع الجزء إبراهيم بن أبي زمام بن مسلمة القيسي، وفتاه بشير بن عبد الله الهندي، وأبو القاسم بن المبارك بن جرير الرَّقي، وسمع إبراهيم بن أبي البركات ابن أبي الفضل البعلبكي، ومحمد بن إبراهيم بن داود الأذرعي، من باب ذكر الصراط إلى آخر الجزء. وصح ذلك وثبت يوم السبت لسبع بقين من شهر رمضان المعظم من سنة خمس وسبعين وستمائة بمقصورة الغزالي من المسجد الجامع بدمشق حرسها الله تعالى كتبه العبد الفقير إلى الله تعالى محمد بن عبد الرحمن بن يوسف بن محمد بن نصر بن أبي القاسم البعلبكي الأصل، غفر الله له ولوالديه ولجميع المسلمين وأجاز لهم الشيخ المذكور جميع ما يجوز له روايته بشرطه، وكانت القراءة من نسخة الأصل والحمدلله رب العالمين وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم تسليماً كثيراً."
+}

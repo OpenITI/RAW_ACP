@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "زكي الدين عبد العظيم بن عبد القوي المنذري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من أمالي عبد العظيم بن عبد القوي المنذري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "145r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f148.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f148.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "0aa7e398-a7c7-4e5c-bd44-07bafb0e71ac",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 301,
+      "text": "عائشة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 411,
+      "guid": "402b7be3-c177-45aa-b431-f29db437eda3",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 388,
+      "text": "محمد بن رافع بن أبي محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "723"
+        ]
+      },
+      "endIndex": 491,
+      "guid": "403e3d78-4fab-42a0-8fc4-b38b8fe15bee",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 429,
+      "text": "يوم الاحد الثالث والعشرين من شهر رمضان سنة ثلاث وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "48038aff-bcfc-4b47-9a52-b09328bf9602",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 308,
+      "text": "غازية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "49ec22f8-0d47-4000-a55e-97d74aaa270a",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 278,
+      "text": "زينب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-salihyia_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 524,
+      "guid": "60f466af-1ac7-46dd-ad21-861595969820",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 500,
+      "text": "مدرسة الصالحية من القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "6811f85d-4f8b-47ae-9547-141148424ec3",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 262,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "6a75fdaa-02ba-4ed7-aa85-39b849c8f798",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "عز الدين أبي عمر عبد العزيز ابن سيدنا قاضي القضاة بدر الدين أبي عبد الله محمد بن إبراهيم بن جماعة الكناني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "73088332-b7cd-4d04-9c0d-593688e5e67d",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "ور الدين أبي الحسن علي بن عمر بن أبي بكر الواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 385,
+      "guid": "a657485f-29ae-4e54-b285-2000d1be7610",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 349,
+      "text": "بدر الدين حسن بن علي بن محمد البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 287,
+      "guid": "b5080c0c-1ba4-4351-9b1c-2bd9dcda42e8",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 284,
+      "text": "سارة",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه على الشيخ الجليل المسند نور الدين أبي الحسن علي بن عمر بن أبي بكر الواني بسماعه تراه بقراءة الشيخ الإمام العلامة عز الدين أبي عمر عبد العزيز ابن سيدنا قاضي القضاة بدر الدين أبي عبد الله محمد بن إبراهيم بن جماعة الكناني\nBNF, Suppl Turc 984, 145v\nأولاده عمر في الرابعة وزينب وسارة وابنتا أخيه عائشة وغازية ابنتا القاضي زين الدين عبد الرحيم وبدر الدين حسن بن علي بن محمد البغدادي ومحمد بن رافع بن أبي محمد وهذا خطه وصح في يوم الاحد الثالث والعشرين من شهر رمضان سنة ثلاث وعشرين وسبعماية بعلو المدرسة الصالحية من القاهرة المعزية حماها الله تعالى وأجاز لنا ما يرويه وصلى الله على سيدنا محمد وآله"
+}

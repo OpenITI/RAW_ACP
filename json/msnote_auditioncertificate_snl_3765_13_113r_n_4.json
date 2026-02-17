@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        " ؟"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "رحلة الشافعي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "113r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "1decf5e7-71d5-4bfc-b8d4-a2e64f466ddf"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "14d88d51-2219-4144-bdb6-bc09283ce336",
+      "startIndex": 11,
+      "text": "أبي المناقب سرخاب بن رزيز بن سرخاب الحسيني الدينوري الحنبلي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "627"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "309d7302-252d-43a2-aa01-4ec3774870cd",
+      "startIndex": 163,
+      "text": "الأحد ثالث ربيع الأول من سنة سبع وعشرين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "bae31b9e-4528-4417-b36d-f452d0850d1b",
+      "startIndex": 88,
+      "text": "الشريف النسابة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 225,
+      "guid": "d8a88727-7f75-4f92-920c-f20e85bbbad5",
+      "startIndex": 212,
+      "text": "الحائط الشمالي",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "e160d07d-6cd8-4ac6-a379-944d88979d4b",
+      "startIndex": 110,
+      "text": "يوسف بن الحسن بن بدر بن النابلسي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها على أبي المناقب سرخاب بن رزيز بن سرخاب الحسيني الدينوري الحنبلي الصوفي بسماعه من الشريف النسابة بقراءة يوسف بن الحسن بن بدر بن النابلسي والسماع بخطه في يوم الأحد ثالث ربيع الأول من سنة سبع وعشرين وستمائة بالحائط الشمالي"
+}

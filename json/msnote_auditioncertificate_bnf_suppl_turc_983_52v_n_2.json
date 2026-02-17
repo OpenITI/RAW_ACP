@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد حرب بن اسماعيل بن خلف الكرماني الحنبلي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/78553892"
+      ],
+      "work_title": [
+        "أحاديث أبي محمد حرب بن إسماعيل الكرماني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "52v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f56.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f56.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "1fb4991c-539f-41ab-af3d-701c59638ec8",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "c21e08ea-969b-4223-83be-acb659e8ed46",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 145,
+      "text": "عبد الرحمن بن محمد بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "11"
+        ],
+        "year": [
+          "634"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "cb1e4bc8-c54e-4aab-9c75-128d920a2c1f",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 101,
+      "text": "شهر ذي القعدة سنة أربع وثلاثين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم ضياء الدين أبي عبد الله محمد بن عبد الواحد بسماعه فيه في شهر ذي القعدة سنة أربع وثلاثين وستماية كتبه عبد الرحمن بن محمد بن عبد الغني حامدًا ومصليًا على رسوله"
+}

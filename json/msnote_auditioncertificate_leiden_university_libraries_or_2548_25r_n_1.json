@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن عمر بن أحمد بن منصور بن عبدوس ابن الصفار النيسابوري"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "كتاب الأربعين من مسانيد المشايخ العشرين عن الأصحاب الأربعين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 2548"
+      ],
+      "folio_number": [
+        "25r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281370502711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "4083f433-3f99-4610-ae7c-845f80627ab5",
+      "startIndex": 190,
+      "text": "شمس الدين محمد بن محمد بن عباس بن جعوان الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "41c55242-0743-46c8-9e33-3afb7a42308a",
+      "startIndex": 164,
+      "text": " ابن الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 449,
+      "guid": "56d3f4e0-c81d-4bab-bfc7-2ec9531623ca",
+      "startIndex": 436,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "62fb7306-8fa0-4e42-a1b8-d68ed5e789fa",
+      "startIndex": 239,
+      "text": "علم الدين القاسم بن محمد بن يوسف البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 433,
+      "guid": "91a4b0c6-6d95-431c-953b-8d0e41d68b6b",
+      "startIndex": 383,
+      "text": "السبت رابع عشر جمادى الأولى سنة ثمان وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 359,
+      "guid": "ab9513c9-71d6-4ed9-b218-035750e5ba27",
+      "startIndex": 322,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "b2776167-4d1f-4c8a-b432-e0606662f039",
+      "startIndex": 94,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "ceaadb3d-62c4-4785-9d80-1d8c71003a81",
+      "startIndex": 46,
+      "text": "شمس الدين أبي محمد عبد الرحمن بن الشيخ أبي عمر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "f41be6bd-9cd1-4545-b587-d4ccb084216d",
+      "startIndex": 282,
+      "text": "عبد الله بن إبراهيم بن إسماعيل المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذه الأربعين على الشيخين شيخ الإسلام شمس الدين أبي محمد عبد الرحمن بن الشيخ أبي عمر وفخر الدين أبي الحسن علي بن أحمد بن عبد الواحد ابن البخاري بإجازتهما من ابن الصفار بقراءة الإمام شمس الدين محمد بن محمد بن عباس بن جعوان الأنصاري علم الدين القاسم بن محمد بن يوسف البرزالي وعبد الله بن إبراهيم بن إسماعيل المقدسي ويوسف بن الزكي عبد الرحمن بن يوسف المزي ومن خطه اختصرت في يوم السبت رابع عشر جمادى الأولى سنة ثمان وسبعين وستماية بالجامع المظفري وأجاز لهما"
+}

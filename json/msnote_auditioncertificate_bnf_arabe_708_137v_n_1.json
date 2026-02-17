@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "137v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f141.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f141.item.r=%22arabe%20708%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "02f5c20d-5943-47fc-8fbc-9a41c452a95a",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 260,
+      "text": "أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 387,
+      "guid": "0d1758d5-cd30-4c47-ba17-9a82296e27e5",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 326,
+      "text": "زكي الدين أبي محمد عبد العظيم بن عبد القوي بن عبد الله المنذري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 588,
+      "guid": "11f2df3b-887b-4515-bbf9-fad8cf8e7a27",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 575,
+      "text": "أبو الفضل محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "604"
+        ]
+      },
+      "endIndex": 659,
+      "guid": "2022cf29-0459-4648-b82a-9fa0779bd0cc",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 629,
+      "text": "في سادس المحرم سنة أربع وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 567,
+      "guid": "387a70ea-7b25-4ab6-85c1-676ddca41943",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 524,
+      "text": "الحسن بن محمد بن محمد بن محمد بن محمد البكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "40a86dd9-68b3-4e06-a110-6400c059fa86",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 240,
+      "text": "أبي الفتح الدومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 461,
+      "guid": "47c69d2f-c4a8-4649-8102-d7257594a671",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 402,
+      "text": "ضياء الدين أبو الحسين محمد بن إسماعيل ابن عبد الجبار المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 688,
+      "guid": "7149f34b-0338-402d-ae88-d5b6b60dc6f6",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 662,
+      "text": "جامع دمشق المحروسة بالكلاسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "a3a275ff-bf8f-4db6-a0b7-0773c6fce5b2",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 193,
+      "text": "أبي حفص عمر بن محمد بن معمر بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 783,
+      "guid": "cf4e07f3-3c54-46dd-8171-6c9159b0d3ea",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 768,
+      "text": "الحسن بن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 521,
+      "guid": "eaa2cecd-1407-49cf-b23a-75fea9f78969",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 464,
+      "text": "شرف الدين أبو عبد الله الحسين بن إبراهيم بن الحسين الإربلي",
+      "type": "person"
+    }
+  ],
+  "text": "نقلت جميع هذا الجزء العاشر من أصل شيخنا الحافظ العلامة أبي محمد المنذري حفظه الله تعالى وعارضته به وشاهدت في آخره ما مثاله سمع جميع هذا الجزء العاشر من كتاب السنن لأبي داود رحمه الله على الشيخ أبي حفص عمر بن محمد بن معمر بن طبرزد بسماعه من أبي الفتح الدومي عن أبي بكر بسنده بقراءة صاحب النسخة الشيخ الإمام العالم الحافظ الحجة زكي الدين أبي محمد عبد العظيم بن عبد القوي بن عبد الله المنذري القاضي الأجل ضياء الدين أبو الحسين محمد بن إسماعيل ابن عبد الجبار المقدسي وشرف الدين أبو عبد الله الحسين بن إبراهيم بن الحسين الإربلي والحسن بن محمد بن محمد بن محمد بن محمد البكري وأخوه أبو الفضل محمد وآخرون على الأصل بوقف البندهي وكان ذلك في سادس المحرم سنة أربع وستماية بجامع دمشق المحروسة بالكلاسة منه وصلى الله على محمد نقله إلى هنا كما شاهده في الأصل بعد المعارضة حرفا بحرف الحسن بن الصيرفي."
+}

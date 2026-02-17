@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن عبد الله بن بشران/ محمد بن أحمد بن أبي الفوارس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلسان عن ابن بشران وعن محمد بن أبي الفوارس"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 35"
+      ],
+      "classmark": [
+        "3744/9"
+      ],
+      "folio_number": [
+        "90r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "0ecf0297-260e-40d2-9c42-2f5e59b78cc9",
+      "startIndex": 99,
+      "text": "أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "309cba58-3cb6-47da-b17d-88338d48b022",
+      "startIndex": 219,
+      "text": "محمد بن جامع بن باقي التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 27,
+      "guid": "89b433b0-f2aa-4acb-928a-79227d6c2dc6",
+      "startIndex": 16,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 212,
+      "guid": "ac29c6a7-267c-43b6-bfbf-13a49b2fc47b",
+      "startIndex": 204,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "af90927a-9058-45c4-9af2-a32966559709",
+      "startIndex": 30,
+      "text": "سالم بن ثمال بن عنان العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "623"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "ea2d72ef-91c7-44ac-9a03-5d722044f992",
+      "startIndex": 158,
+      "text": "العشرين من جمادى الآخرة سنة ثلث وعشرة وستمية",
+      "type": "date"
+    }
+  ],
+  "text": " بلغت ومعي ابني أبو بكر محمد وسالم بن ثمال بن عنان العرضي على سيدنا الشيخ الإمام العالم بقية السلف أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي وذلك في العشرين من جمادى الآخرة سنة ثلث وعشرة وستمية بجامع دمشق وكتب محمد بن جامع بن باقي التميمي"
+}

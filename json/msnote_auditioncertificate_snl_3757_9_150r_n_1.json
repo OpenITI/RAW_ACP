@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "150r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "10d6baa4-75c2-4da1-a1c0-7d119230f7e0",
+      "index": 118,
+      "isZeroPoint": false,
+      "startIndex": 57,
+      "text": "أبي القاسم محمد بن أبي السعود بن القميرة ويدعا المؤتمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "644"
+        ]
+      },
+      "endIndex": 327,
+      "guid": "29c1483e-e2a8-4ad6-92d6-a4bfc5477331",
+      "index": 124,
+      "isZeroPoint": false,
+      "startIndex": 286,
+      "text": " ثامن وعشرين محرم سنة أربع وأربعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "31f2b21b-5fbd-4f8f-ae8e-b20c40c3536b",
+      "index": 122,
+      "isZeroPoint": false,
+      "startIndex": 202,
+      "text": "إسحق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "3fc7be25-98f2-490e-a8a1-3330b687fcf6",
+      "index": 123,
+      "isZeroPoint": false,
+      "startIndex": 242,
+      "text": "أحمد بن محمد الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "58d22c9b-dc4b-40ce-b3db-fb3de91df7ec",
+      "index": 119,
+      "isZeroPoint": false,
+      "startIndex": 122,
+      "text": "شهدة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "8edd9e30-bbde-4eea-be2d-27fcf9e23ca8",
+      "index": 121,
+      "isZeroPoint": false,
+      "startIndex": 195,
+      "text": " أيوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "c50347ab-e6cd-4cf5-80bc-998f3a0e07ae",
+      "index": 120,
+      "isZeroPoint": false,
+      "startIndex": 134,
+      "text": "مجد الدين الحسن بن أحمد بن هبة الله بن أمين الدولة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "khan_al-sultan"
+          ]
+        ]
+      },
+      "endIndex": 350,
+      "guid": "e80c8830-bb73-48f6-8ee3-1b938b833068",
+      "index": 125,
+      "isZeroPoint": false,
+      "startIndex": 330,
+      "text": "خان السلطان ظاهر حلب ",
+      "type": "place"
+    }
+  ],
+  "text": " سمع جميع كتاب الفرج بعد الشدة لابن أبي الدنيا على الشيخ أبي القاسم محمد بن أبي السعود بن القميرة ويدعا المؤتمن بسماعه من شهدة بقراءة مجد الدين الحسن بن أحمد بن هبة الله بن أمين الدولة جماعة منهم أيوب وإسحق ابنا أبي بكر بن إبراهيم بن النحاس وأحمد بن محمد الظاهري وكتب السماع في الأصل في ثامن وعشرين محرم سنة أربع وأربعين وستماية بخان السلطان ظاهر حلب "
+}

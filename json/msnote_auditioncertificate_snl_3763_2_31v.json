@@ -1,0 +1,514 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عمرو بن البختري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي البختري عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 127"
+      ],
+      "classmark": [
+        "3763/2"
+      ],
+      "folio_number": [
+        "31v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1005,
+      "guid": "01c003c1-09ab-4f56-a75c-5b2b166bd68d",
+      "startIndex": 951,
+      "text": " منصف الدين أبو عبد الله محمد بن محمد الشهرستاني الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 686,
+      "guid": "096c6255-8d86-44fd-aa8b-a63113247840",
+      "startIndex": 618,
+      "text": "نجيب الدين أبو الفتح نصر الله بن أبي العز بن أبي طالب الصفار الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "khanaqah_simisatiya"
+          ]
+        ]
+      },
+      "endIndex": 1566,
+      "guid": "0a544a3f-3894-4cc1-8a93-0d804aa34555",
+      "startIndex": 1532,
+      "text": "دويرة السميساطي المجاورة لجامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "623"
+        ]
+      },
+      "endIndex": 1529,
+      "guid": "0b2c5ed1-9aaa-4ffb-8c12-1d68c91d161d",
+      "startIndex": 1480,
+      "text": "الجمعة العشرين من شهر رجب لسنة ثلاث وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1060,
+      "guid": "0d024957-7d48-43c6-b20a-26bba4f637a1",
+      "startIndex": 1031,
+      "text": "أحمد بن مسعود بن أحمد الشرواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1391,
+      "guid": "13bfc6d3-6262-4893-ba3b-665c1105e751",
+      "startIndex": 1361,
+      "text": "حسن بن عمر بن حسن الفراء السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 398,
+      "guid": "307c320d-8345-45d7-b9df-444a2984c289",
+      "startIndex": 337,
+      "text": "تاج الدين أبو محمد عبد الجليل عبد الجبار بن عبد الواسع الأبهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "34cf0454-f7c4-4538-94ef-454b1f39e1b4",
+      "startIndex": 234,
+      "text": "زين الدين أبي البقاء خالد بن يوسف بن سعد النابلسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1358,
+      "guid": "3b82e36d-bfac-459b-aaa5-36a5c31b024c",
+      "startIndex": 1331,
+      "text": "نجيب بن حيدر بن نائل الأبهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1273,
+      "guid": "4a627e96-b4a5-4974-9135-e234f0cbe485",
+      "startIndex": 1247,
+      "text": "يوسف بن حسن بن بدر النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 741,
+      "guid": "5a35f23b-54da-4f51-9c27-98c56bf28d2b",
+      "startIndex": 689,
+      "text": "علم الدين أبو القاسم ابن أبي بكر بن إبراهيم بن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 859,
+      "guid": "5c71f176-d049-4c61-ab21-a80682020db2",
+      "startIndex": 852,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1461,
+      "guid": "5c7a5d2d-5e5a-4302-90c6-5422f000dff7",
+      "startIndex": 1425,
+      "text": "الشريف شرف شاه بن علي بن محمد الموسوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 457,
+      "guid": "702c802b-0e78-4e37-a84d-047e3f1b249a",
+      "startIndex": 411,
+      "text": "أبو إسحق إبراهيم ابن عبد الوهاب بن علي الهمذاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1165,
+      "guid": "93a65e65-ba9a-4f51-8e7e-89d20cca8311",
+      "startIndex": 1121,
+      "text": "عبد العزيز بن عبد الصمد ابن عبد الناصر المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 812,
+      "guid": "9b826df6-f4bf-4d9a-9a40-e54be773f813",
+      "startIndex": 744,
+      "text": "الشرف أبو عبد الله محمد بن الأمين العدل الحسن بن سالم بن علي ابن سلام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1028,
+      "guid": "9c6d6a73-8916-4f91-8753-7af0b26ec8e4",
+      "startIndex": 1008,
+      "text": "محمود بن محمد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1423,
+      "guid": "9c964c4c-8923-4ac9-a40b-fcff156a891f",
+      "startIndex": 1394,
+      "text": "علي بن يحيى بن خليل العسقلاني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1328,
+      "guid": "9fa67432-5889-4c0c-b8e1-d18e852144a3",
+      "startIndex": 1276,
+      "text": "الرشيد أبو عبد الله محمد بن الرشيد العطاري النيسابوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1645,
+      "guid": "a2229d6b-bcf4-40af-974c-1d3cca5dab5e",
+      "startIndex": 1590,
+      "text": "أحمد بن أبي الفضائل بن أبي المجد بن أبي المعالي الدخميسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1118,
+      "guid": "af44cb17-093e-4e37-bc4f-89c423f9d036",
+      "startIndex": 1092,
+      "text": "أبو القاسم بن يوسف بن موهوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1245,
+      "guid": "af684f31-74ff-4b1a-b559-043284ab09f9",
+      "startIndex": 1214,
+      "text": "علي بن يوسف بن عبد الله الإربلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 849,
+      "guid": "b247f548-1283-411b-be5d-6a6770079bec",
+      "startIndex": 824,
+      "text": "الافتخار ياقوت بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 546,
+      "guid": "d1be583f-8aeb-4608-9a15-10081a50f05d",
+      "startIndex": 486,
+      "text": "زكي الدين أبو عبد الله محمد بن يوسف ابن محمد البزالي الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 871,
+      "guid": "d5ffdffd-fdab-438e-b6d1-fa8b0a4fd00d",
+      "startIndex": 862,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1089,
+      "guid": "d60046c6-ebfe-4967-99d5-fe80c148f548",
+      "startIndex": 1065,
+      "text": "علي ابن محمد بن علي اللري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "d931a35b-144a-4f16-bb81-d3b531a9392f",
+      "startIndex": 120,
+      "text": " أبي القاسم هندولة بن خليفة بن هندولة الزنجاني الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1199,
+      "guid": "dda7f840-9e23-48ad-8eaa-86dcf2ccd8e7",
+      "startIndex": 1168,
+      "text": "أبو بكر بن عبد الخالق بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 608,
+      "guid": "f061a027-55df-466f-aff7-d67d91967082",
+      "startIndex": 556,
+      "text": "عز الدين أبو محمد عبد العزيز بن عثمان بن طاهر الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "fcf38fa4-60f9-4c53-85a4-a0f3c29ebe3b",
+      "startIndex": 193,
+      "text": "ابن شاتيل",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت سماعا لجميع هذا الجزء المشتمل على ثلاثة مجالس من أمالي أبي جعفر بن البختري على الشيخ الجليل جمال الطائفة بقية السلف أبي القاسم هندولة بن خليفة بن هندولة الزنجاني الصوفي بسماعه فيه نقلا من ابن شاتيل عن شيخيه بسندهما بقراءة الفقيه زين الدين أبي البقاء خالد بن يوسف بن سعد النابلسي صاحبه وكاتبه شيخنا الفقيه الإمام العالم بهاء الإسلام تاج الدين أبو محمد عبد الجليل عبد الجبار بن عبد الواسع الأبهري أيده الله وأبو إسحق إبراهيم ابن عبد الوهاب بن علي الهمذاني وشيخنا الشيخ الإمام الحافظ زكي الدين أبو عبد الله محمد بن يوسف ابن محمد البزالي الإشبيلي والإمام عز الدين أبو محمد عبد العزيز بن عثمان بن طاهر الإربلي والإمام نجيب الدين أبو الفتح نصر الله بن أبي العز بن أبي طالب الصفار الشيباني وعلم الدين أبو القاسم ابن أبي بكر بن إبراهيم بن النحاس والشرف أبو عبد الله محمد بن الأمين العدل الحسن بن سالم بن علي ابن سلام وعتيق عمه الافتخار ياقوت بن عبد الله وعبد الله وعبد الرحمن ابنا شيخنا الإمام أبي طالب محمد بن عبد الله بن صابر السلمي وشيخنا الشيخ الزاهد منصف الدين أبو عبد الله محمد بن محمد الشهرستاني الصوفي ومحمود بن محمد بن أحمد وأحمد بن مسعود بن أحمد الشروانيان وعلي ابن محمد بن علي اللري وأبو القاسم بن يوسف بن موهوب وعبد العزيز بن عبد الصمد ابن عبد الناصر المصري وأبو بكر بن عبد الخالق بن أبي بكر المؤذن أبوه وعلي بن يوسف بن عبد الله الإربلي ويوسف بن حسن بن بدر النابلسي والرشيد أبو عبد الله محمد بن الرشيد العطاري النيسابوري ونجيب بن حيدر بن نائل الأبهري وحسن بن عمر بن حسن الفراء السلمي وعلي بن يحيى بن خليل العسقلاني والشريف شرف شاه بن علي بن محمد الموسوي وصح ذلك وثبت يوم الجمعة العشرين من شهر رجب لسنة ثلاث وعشرين وستماية بدويرة السميساطي المجاورة لجامع دمشق حرسها الله قاله وكتبه أحمد بن أبي الفضائل بن أبي المجد بن أبي المعالي الدخميسي عفا الله عنه والحمد لله كفاء نعمه وصلاته وسلامه الأتمان على سيدنا محمد نبيه وآله وصحبه"
+}

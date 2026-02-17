@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الكفاية في معرفة اصول علم الرواية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 356"
+      ],
+      "folio_number": [
+        "15v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007013"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "10e8d2c6-86c6-41fd-96dc-7f978fde1161",
+      "startIndex": 225,
+      "text": "طاهر بن سهل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 340,
+      "guid": "1c4465cd-e81d-45d5-80d7-b8291ff92667",
+      "startIndex": 293,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27- 30"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "667"
+        ]
+      },
+      "endIndex": 578,
+      "guid": "4cdc95cc-deb0-4eb1-95f1-286797f5d311",
+      "startIndex": 529,
+      "text": "يوم الثلاثاء سلخ جمادى الآخرة سنة سبع وستين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "87deef1b-ece1-4ec4-99ea-3daeca173708",
+      "startIndex": 168,
+      "text": " ست الكتبة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 516,
+      "guid": "91bcf5af-094f-4875-a9da-74b8e92ab4ad",
+      "startIndex": 487,
+      "text": "صالح ابن سلمان بن جابر الهواري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "96a5379b-6b25-4cf3-9617-c59ad74c86d4",
+      "startIndex": 197,
+      "text": " القاسم بن علي بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 589,
+      "guid": "a315d944-8292-4cb7-9c51-10d4d54c5318",
+      "startIndex": 581,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 426,
+      "guid": "b2d3ebc9-2726-4be9-9ef5-03777ecc59d3",
+      "startIndex": 390,
+      "text": "علي بن عبد الكافي بن عبد الملك الربعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "c73342bc-f0f9-4850-a069-8ad5e9ac1851",
+      "startIndex": 246,
+      "text": "الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "cdb1df52-3033-4d53-8922-1c02048796f1",
+      "startIndex": 99,
+      "text": "نجم الدين أبي بكر محمد بن علي بن المظفر النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 387,
+      "guid": "d3e4b157-5bd0-4aa2-9b94-b25d29c75641",
+      "startIndex": 349,
+      "text": "أبو بكر بن محمد بن علي بن سلطان الرسعني",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو الثاني عشر من الكفاية وكذلك الحادي عشر قبله على الشيخ الفقير إلى الله تعالى نجم الدين أبي بكر محمد بن علي بن المظفر النشبي بسماعه لجميع الكتاب من ست الكتبة بسندها وبإجازته من القاسم بن علي بن عساكر أنا طاهر بن سهل إجازة عن الخطيب بقراءة مالكه الشيخ الإمام العالم المفيد نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي الفقيه أبو بكر بن محمد بن علي بن سلطان الرسعني وعلي بن عبد الكافي بن عبد الملك الربعي وهذا خطه وسمع من باب من نظم الإجازة شعراً إلى آخرهما الشيخ صالح ابن سلمان بن جابر الهواري وصح ذلك في يوم الثلاثاء سلخ جمادى الآخرة سنة سبع وستين وستمئة بجامع دمشق حرسه الله تعالى والحمد لله وحده"
+}

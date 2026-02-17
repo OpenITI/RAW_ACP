@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الفضل أحمد بن ملاعب البغدادي"
+      ],
+      "work_title": [
+        "حديث ابن ملاعب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 18"
+      ],
+      "classmark": [
+        "3739/5"
+      ],
+      "folio_number": [
+        "44v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 379,
+      "guid": "201bcc1f-efcf-444b-bd63-d82241fc1c09",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 349,
+      "text": "دار الحديث الأشرفية بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "719"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "25e57155-10ee-49d8-8dfc-0063748044db",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 282,
+      "text": " يوم الاثنين السابع والعشرين من جمادى الأولى سنة تسع عشرة وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "5088d477-fba3-4442-be22-8b538367cb46",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": "أبي محمد الأنجب بن أبي السعادات الحمامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "6f1da690-a00b-4ca1-a854-cbc675e36231",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 16,
+      "text": "سعد الدين يحيى بن محمد بن سعد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 269,
+      "guid": "9dafb9a6-b50f-46a8-aae2-acc83171abf2",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 266,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "a63e03e8-9ff7-4fb1-8669-a3f403d199bf",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 214,
+      "text": "عبد الله بن أحمد بن المحب المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "f09144f9-6b79-4e66-9f01-4f5538c7f3f5",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 126,
+      "text": "أبي إسحق إبراهيم بن عثمان الكاشغري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "f90222ee-d4b8-4ba5-b846-36e1c3523c8e",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "أبي الفتح محمد بن البطي",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه على الشيخ سعد الدين يحيى بن محمد بن سعد بن عبد الله المقدسي بإجازته من الشيخين أبي محمد الأنجب بن أبي السعادات الحمامي وأبي إسحق إبراهيم بن عثمان الكاشغري بسماعهما من أبي الفتح محمد بن البطي بسنده فيه بقراءة عبد الله بن أحمد بن المحب المقدسي ومن خطه لخصت ولده محمد وآخرون وذلك يوم الاثنين السابع والعشرين من جمادى الأولى سنة تسع عشرة وسبعمية بدار الحديث الأشرفية بسفح قاسيون"
+}

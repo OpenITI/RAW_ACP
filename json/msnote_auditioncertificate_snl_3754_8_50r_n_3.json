@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "50r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 225,
+      "guid": "304a2a86-d474-4c8f-8e43-546f418c7f67",
+      "index": 197,
+      "isZeroPoint": false,
+      "startIndex": 209,
+      "text": "منزل الشيخ بالكرخ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "37f3ca8b-cc8f-4dbe-ab1a-3418b6b72fc7",
+      "index": 192,
+      "isZeroPoint": false,
+      "startIndex": 51,
+      "text": "أبي البدر إبراهيم بن محمد الكرخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 284,
+      "guid": "9bc9c93f-7992-4660-ba34-2d17298154b9",
+      "index": 196,
+      "isZeroPoint": false,
+      "startIndex": 265,
+      "text": "الحسن بن محمد البكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "b3669a5b-e18b-4cd5-a22a-92bf385c23ed",
+      "index": 194,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "محمد بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "b4431014-8b2b-4da6-b440-72595a11eaf7",
+      "index": 193,
+      "isZeroPoint": false,
+      "startIndex": 93,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "b82f6873-d1b4-4158-8dc1-64ee352c111d",
+      "index": 195,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "يوم الجمعة سادس ذي القعدة من سنة خمس وثلثين وخمسماية",
+      "type": "date"
+    }
+  ],
+  "text": " وقرأت هذه الجزء وما قبله من أول الأجزاء على الشيخ أبي البدر إبراهيم بن محمد الكرخي فسمع أخي عمر جبره الله وذكر جماعة وكتب محمد بن محمد بن طبرزد في يوم الجمعة سادس ذي القعدة من سنة خمس وثلثين وخمسماية على باب منزل الشيخ بالكرخ نقلته مختصرا في سنة أربع وستماية كتبه الحسن بن محمد البكري "
+}

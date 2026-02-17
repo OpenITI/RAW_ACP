@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي المقري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند نافع بن أبي نعيم المقري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 61- 62 "
+      ],
+      "classmark": [
+        "3750/3"
+      ],
+      "folio_number": [
+        "26r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "jaharkasiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 177,
+      "guid": "133d265d-e5c7-43f9-9ed1-739d6fbffee9",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 170,
+      "text": "الشركسية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "276c59bb-9048-46ce-b0cc-8bfbaef9ff76",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 119,
+      "text": "برهان الدين إبراهيم بن محمد بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 247,
+      "guid": "9443b2f7-8ba0-4490-9c78-6720a36b5525",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 215,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "780"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "a127b8f5-a20e-4289-b62f-9ddefefb1b55",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 182,
+      "text": "سابع رجب سنة ثمانين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "a911eb8a-e38f-419b-875a-20ce8500a73a",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 252,
+      "text": "ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "e48281ed-ee64-4ef0-a6df-b85e17363f8f",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 60,
+      "text": "شمس الدين محمد بن الحسين بن أحمد بن الحسين الحسني الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمع من حديث نافع وآخره وركعتين بعدها عليَّ بقراءتي الشريف شمس الدين محمد بن الحسين بن أحمد بن الحسين الحسني الشافعي وبرهان الدين إبراهيم بن محمد بن محمد المؤذن الحنفي بالشركسية في سابع رجب سنة ثمانين وسبعمية كتبه محمد بن عبد الله بن أحمد بن المحب عن ابن النحاس رواية"
+}

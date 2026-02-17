@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "84r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "040aebb4-4517-4ad3-a21f-8e3024cf2188",
+      "startIndex": 82,
+      "text": "أبي الحسن بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "0dfdf420-7165-4841-9d49-7b56925803ff",
+      "startIndex": 21,
+      "text": "أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "187d34dd-51c3-4cef-ad58-1f6bd228c36e",
+      "startIndex": 357,
+      "text": "عبد العزيز بن عثمان بن أبي طاهر الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 640,
+      "guid": "3bcda19c-9bb1-44cd-8414-ddf157d43bcb",
+      "startIndex": 609,
+      "text": "صالح بن أبي الفضل بن زيد الدولعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "7a38a81e-b2b7-49c8-b43b-9167c1814ab6",
+      "startIndex": 169,
+      "text": " أبي العباس أحمد بن الملك الناصر صلاح الدين أبي المظفر يوسف بن أيوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "600"
+        ]
+      },
+      "endIndex": 754,
+      "guid": "85fbbde2-39c0-4f74-9f86-e64cc1c2cfd3",
+      "startIndex": 730,
+      "text": "شهر ربيع الأول سنة ستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "95a5cd96-01c7-4da8-be13-7c2cc9077c7e",
+      "startIndex": 299,
+      "text": "أبو محمد عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 296,
+      "guid": "a5dbdde5-6937-476b-b42c-82f71ac4a4e6",
+      "startIndex": 253,
+      "text": "أبو العباس أحمد بن الحسن بن كتائب بن القناري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 493,
+      "guid": "a6fcac93-9303-44a1-bcef-de4172cef197",
+      "startIndex": 484,
+      "text": "عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 327,
+      "guid": "ad82f127-cfbb-44a2-b868-858e4e6c4f0b",
+      "startIndex": 318,
+      "text": "عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 701,
+      "guid": "bacfa2ee-0308-4911-a16a-c475e0e6c9ff",
+      "startIndex": 643,
+      "text": "أسعد بن نصر الله بن عبد الكريم بن محمد بن أبي فضل الأنصاري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 481,
+      "guid": "d2f02418-3fe5-45bd-b318-49d5f013e66a",
+      "startIndex": 472,
+      "text": "عبد القادر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 431,
+      "guid": "dd246b2c-0f09-4ea5-b715-c84462b28aa2",
+      "startIndex": 398,
+      "text": "نصر الله بن علي بن الحسين بن عبدان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 533,
+      "guid": "f1e37759-64f9-4d8c-a4e3-c9051f4565d9",
+      "startIndex": 529,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 469,
+      "guid": "f5965a0f-281e-4ac4-a6d3-d33f9e89ee44",
+      "startIndex": 434,
+      "text": "أبو بكر محمد بن علي بن المظفر النشبي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه على القاضي أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري بسماعه من أبي الحسن بن قبيس عن أبيه بقرأة صاحبه الملك المحسن العالم العامل ملك العلماء يمين الدين أبي العباس أحمد بن الملك الناصر صلاح الدين أبي المظفر يوسف بن أيوب أدام الله أيامه أبو العباس أحمد بن الحسن بن كتائب بن القناري وأبو محمد عبد الله وعبد الرحيم ابنا المسلم بن حماد الأزدي وعبد العزيز بن عثمان بن أبي طاهر الإربلي ونصر الله بن علي بن الحسين بن عبدان وأبو بكر محمد بن علي بن المظفر النشبي وعبد القادر وعبد الرحيم ابنا حسان بن رافع العامري وأخوهما محمد وهذا خطه غفر الله له ولوالديه وللمسلمين آمين وسمع من أوله إلى كتاب الفرائض صالح بن أبي الفضل بن زيد الدولعي وأسعد بن نصر الله بن عبد الكريم بن محمد بن أبي فضل الأنصاري وصح ذلك في مجلسين آخرهما في شهر ربيع الأول سنة ستمائة"
+}

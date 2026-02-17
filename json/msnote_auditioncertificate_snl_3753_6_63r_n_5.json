@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن المفضل بن أحمد الثقفي الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/6"
+      ],
+      "folio_number": [
+        "63r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "14f508de-da28-43c9-9200-d495cb67be11",
+      "index": 78,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "بهاء الدين أبي الحسن علي بن هبة الله بن سلامة اللخمي المعروف بابن الجميزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "649"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "55598c61-7ba2-4454-88d9-97a9043ab0ce",
+      "index": 82,
+      "isZeroPoint": false,
+      "startIndex": 178,
+      "text": "رجب سنة تسع وأربعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "7e38e0ad-2be0-4e94-9339-460afb27536a",
+      "index": 81,
+      "isZeroPoint": false,
+      "startIndex": 130,
+      "text": " أحمد بن يونس بن أحمد بن بركة الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "cdab68ed-5a89-4dfc-910c-36d0027dfe51",
+      "index": 84,
+      "isZeroPoint": false,
+      "startIndex": 224,
+      "text": "يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "dbc6afde-9dcd-41b1-8d5c-69174f69f7e3",
+      "index": 79,
+      "isZeroPoint": false,
+      "startIndex": 95,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "dc509b89-1bb5-415e-92b5-a7bee45eed87",
+      "index": 80,
+      "isZeroPoint": false,
+      "startIndex": 109,
+      "text": "عباس بن بزوان الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 208,
+      "guid": "f35bad77-e223-4341-89f8-a6cabbac9fec",
+      "index": 83,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": "مصر",
+      "type": "place"
+    }
+  ],
+  "text": " سمعها على بهاء الدين أبي الحسن علي بن هبة الله بن سلامة اللخمي المعروف بابن الجميزي بسماعه من السلفي بقراءة عباس بن بزوان الموصلي أحمد بن يونس بن أحمد بن بركة الإربلي وآخرون في رجب سنة تسع وأربعين وستمية بمصر نقله وما قبله يوسف المزي"
+}

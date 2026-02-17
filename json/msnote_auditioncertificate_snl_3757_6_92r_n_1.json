@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن موسى الأشيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أبي علي الأشيب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 95"
+      ],
+      "classmark": [
+        "3757/6"
+      ],
+      "folio_number": [
+        "92r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "aa915120-99cc-4f11-aa7c-4297e067b204",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 86,
+      "text": "علي بن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "745"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "b2e083b5-c211-4c8b-aa43-c09ada0949ec",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 105,
+      "text": "السبت ثامن عشري جمادى الآخرة سنة خمس وأربعين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "bb755ca6-a4b3-44d1-9d6e-dfc40c649ae8",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "محمد بن عبد الله بن أحمد بن المحب المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 164,
+      "guid": "bc79b4a6-dae2-48d8-9fe7-3f0a7c4b2e77",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 159,
+      "text": "حانوته",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "c79b2d6e-c9ea-43b1-a519-bcb7e5c3ce3f",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 26,
+      "text": "عبد الله بن محمد بن إبراهيم بن نصر [الديرسطواني؟]",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخ عبد الله بن محمد بن إبراهيم بن نصر [الديرسطواني؟] بسماعه من علي بن البخاري يوم السبت ثامن عشري جمادى الآخرة سنة خمس وأربعين وسبعمية بحانوته كتبه محمد بن عبد الله بن أحمد بن المحب المقدسي "
+}

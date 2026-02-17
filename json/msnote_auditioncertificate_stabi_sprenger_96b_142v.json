@@ -1,0 +1,383 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96b"
+      ],
+      "folio_number": [
+        "142v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1769442294/1200/0/00000290.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00010967"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 379,
+      "guid": "01942bd4-c076-4517-8281-43bfb0e56b50",
+      "startIndex": 339,
+      "text": "أبو الطاهر إسماعيل بن علي الجيتي الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "19e329ec-071e-46c8-be87-f77ad8f80a44",
+      "startIndex": 275,
+      "text": "ابن هشام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 469,
+      "guid": "284c400c-82d4-414c-9790-c833ce3311cc",
+      "startIndex": 424,
+      "text": "أبو إسحق إبراهيم بن عبد الواحد بن محمد البوشي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "2ef4e3dd-8ed7-4097-ba0d-fb64baa29794",
+      "startIndex": 143,
+      "text": "أبي محمد عبد الله بن رفاعة السعدي الفرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "34bb19f5-816e-41c6-afe5-353f2bdde1a3",
+      "startIndex": 216,
+      "text": "ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "3c069780-5602-4e08-8ec4-a3dba2567977",
+      "startIndex": 74,
+      "text": "أبي محمد عبد الله بن محمد بن عبد الله بن المجلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "606"
+        ]
+      },
+      "endIndex": 786,
+      "guid": "486531c5-3ea5-413c-a72d-a137c88db029",
+      "startIndex": 751,
+      "text": "لثلاث خلون من شوال من سنة ست وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 572,
+      "guid": "91b4fc64-1ec5-4676-902a-96b87c2f9e66",
+      "startIndex": 523,
+      "text": "أبو محمد عبد المعطي بن علي بن محمد بن محارب القيسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 512,
+      "guid": "aa43b7f3-11eb-4f00-90a5-200ab96f3f8e",
+      "startIndex": 478,
+      "text": "أبو عبد الله محمد بن محمد بن محارب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "c8938b13-7444-49ee-8e1d-62582d3c2aa3",
+      "startIndex": 255,
+      "text": "ابن البرقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 598,
+      "guid": "d14f5cf6-3b97-4fb8-bce8-55a781980b51",
+      "startIndex": 577,
+      "text": "بدر بن عبد الله الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "da48c986-2d25-4acd-b838-7d5fe02c5ab0",
+      "startIndex": 200,
+      "text": "الخلعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "e05b46b0-ee63-47f6-a65f-1b5495532a3c",
+      "startIndex": 382,
+      "text": "أبو زكريا يحيى بن عبد الله الصعبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-a'tiq_mosque"
+          ]
+        ]
+      },
+      "endIndex": 749,
+      "guid": "ec0d1bdc-c833-43dc-a337-24879f84adad",
+      "startIndex": 742,
+      "text": "جامع مصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "f25a7fcd-db14-43db-9761-ea02703b3fd6",
+      "startIndex": 236,
+      "text": "ابن الورد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 952,
+      "guid": "f449c151-9cab-476c-b59b-8c8f08d00847",
+      "startIndex": 872,
+      "text": "لسماع صحيح وكتب عبد الله بن محمد بن عبد الله بن المجلي بن الحسين بن علي بن الحارث",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 721,
+      "guid": "f44deb6b-c3e2-4acd-ada2-29deedb18f5b",
+      "startIndex": 672,
+      "text": "عبد الصمد بن أبي علي الحسن بن يوسف بن أحمد الأصبحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "ffcf0839-e31d-4898-858d-ca3274ee1c19",
+      "startIndex": 298,
+      "text": "أبو محمد عبد الله بن أحمد بن علي القرشي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الفقيه الإمام القاضي الحاكم العالم ثقة الملك أبي محمد عبد الله بن محمد بن عبد الله بن المجلي وفيه سماعه من الفقيه أبي محمد عبد الله بن رفاعة السعدي الفرضي قال انبا القاضي الخلعي قال انبا ابن النحاس قال انبا ابن الورد قال انبا ابن البرقي قال انبا ابن هشام الجماعة الشيخ أبو محمد عبد الله بن أحمد بن علي القرشي وأبو الطاهر إسماعيل بن علي الجيتي الأنصاري وأبو زكريا يحيى بن عبد الله الصعبي والفقيه أبو إسحق إبراهيم بن عبد الواحد بن محمد البوشي والفقيه أبو عبد الله محمد بن محمد بن محارب وابن أخيه أبو محمد عبد المعطي بن علي بن محمد بن محارب القيسيان وبدر بن عبد الله الحبشي مملوك الفقيه أبي القاسم عبد الرحمن بن محمد بن محارب بقراءة مثبت أسمائهم عبد الصمد بن أبي علي الحسن بن يوسف بن أحمد الأصبحي وهذا خطه وصح وثبت بجامع مصر لثلاث خلون من شوال من سنة ست وستمائة والحمد لله وصلى الله على سيدنا محمد وآله وصحبه وسلم تسليما وحسبنا الله ونعم الوكيل\nالسماع صحيح وكتب عبد الله بن محمد بن عبد الله بن المجلي بن الحسين بن علي بن الحارث"
+}

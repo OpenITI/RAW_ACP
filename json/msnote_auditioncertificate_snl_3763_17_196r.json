@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عمر بن روح بن علي النهرواني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر النهرواني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 133"
+      ],
+      "classmark": [
+        "3763/17"
+      ],
+      "folio_number": [
+        "196r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "0a3c92d4-6655-4027-9240-0d245cede239",
+      "startIndex": 64,
+      "text": "زينب بنت عبد الرحمن الشغري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "4fb8d980-6ca2-4f98-90c5-e84bb18f1f02",
+      "startIndex": 110,
+      "text": "يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "6763a662-92e3-4f37-a07d-7b0f8d99f6b7",
+      "startIndex": 9,
+      "text": "أبي الفضل أحمد بن هبة الله بن أحمد بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "c5a0ec07-75ad-4321-a190-6306cb3c416a",
+      "startIndex": 146,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "694"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "d0ad21d6-1288-4591-9a9e-01a9702e866c",
+      "startIndex": 198,
+      "text": " الجمعة السادس والعشرين من جمادى الأولى سنة أربع وتسعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "f042ff4d-e778-408f-9572-22edc7141d37",
+      "startIndex": 158,
+      "text": "محمد بن أحمد بن عثمان الزينبي ",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على أبي الفضل أحمد بن هبة الله بن أحمد بن عساكر بإجازته من زينب بنت عبد الرحمن الشغري بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن المزي ابنه عبد الرحمن ومحمد بن أحمد بن عثمان الزينبي وآخرون يوم الجمعة السادس والعشرين من جمادى الأولى سنة أربع وتسعين وستمية"
+}

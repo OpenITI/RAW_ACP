@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "وكيع بن جراح بن مليح الرواسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث وكيع بن الجراح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 24/25"
+      ],
+      "classmark": [
+        "3740/12"
+      ],
+      "folio_number": [
+        "135v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "01de5126-f156-4eff-8a31-0c6f427ccadb",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 73,
+      "text": "أبي طاهر بركات بن إبراهيم بن طاهر القرشي الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1- 10"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "592"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "16167356-5464-4a76-a4fc-31b3f4dc37b9",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 309,
+      "text": "العشر الأول من جمادى الآخرة سنة اثنتين وتسعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "1c0865c1-fd96-444a-a171-d293c7b5f4a1",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 217,
+      "text": "أحمد بن محمد بن إبراهيم بن درمان الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 294,
+      "guid": "4ac3363a-31b1-4d43-bb25-d97aeaf7d58a",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 258,
+      "text": "أيوب بن أبي بكر بن عمر بن علي الفقاعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 374,
+      "guid": "5b7a1557-7602-453d-ad83-95ce74dc6367",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 366,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "624d29b0-2bcf-48a8-b8af-091b2760247b",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 169,
+      "text": "علي بن المظفر بن القاسم النشبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "6c680778-8ccd-43d1-a742-125be70bd605",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 131,
+      "text": " أبي محمد عبد الكريم",
+      "type": "person"
+    }
+  ],
+  "text": " شاهدت على أصله المنقول منه ما صورته سمع جميع هذا الجزء على الشيخ الأمين أبي طاهر بركات بن إبراهيم بن طاهر القرشي الخشوعي بسماعه من أبي محمد عبد الكريم بسنده فيه بقراءة علي بن المظفر بن القاسم النشبي جماعة كثيرة منهم أحمد بن محمد بن إبراهيم بن درمان الحنفي وأيوب بن أبي بكر بن عمر بن علي الفقاعي أبوه وذلك في العشر الأول من جمادى الآخرة سنة اثنتين وتسعين وخمس ماية بجامع دمشق حرسها الله تعالى"
+}

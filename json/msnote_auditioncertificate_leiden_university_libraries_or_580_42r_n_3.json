@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "42r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "0d212afe-d46c-4d7b-9ceb-3b9486d3acd7",
+      "startIndex": 39,
+      "text": " ابن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "607"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "2c189afe-a557-47c6-8388-382bc26adb83",
+      "startIndex": 178,
+      "text": " الجمعة سابع جمادى الأولى سنة تسع وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "328d444e-381b-41e5-89c4-c6bcd07de262",
+      "startIndex": 78,
+      "text": "محمد بن إبراهيم بن أبي المحاسن بن رسلان الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "46cbefa9-a4cb-4a8f-9f87-bce6e23fbbe7",
+      "startIndex": 127,
+      "text": "عبد الجليل بن عبد الجبار الأبهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "c762f9a2-d2cd-4fa5-8992-006594710249",
+      "startIndex": 61,
+      "text": "أبي محمد الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "fbbdc39b-2e1d-4ffe-85ef-d0b876413d9d",
+      "startIndex": 225,
+      "text": "أحمد بن محمد الظاهري",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع الجزء الثالث من فوائد تمام على ابن الحرستاني بقراءة أبي محمد الإربلي محمد بن إبراهيم بن أبي المحاسن بن رسلان الشافعي وعبد الجليل بن عبد الجبار الأبهري وكتب السماع في يوم الجمعة سابع جمادى الأولى سنة تسع وستماية نقله أحمد بن محمد الظاهري مختصرا من خط الأبهري"
+}

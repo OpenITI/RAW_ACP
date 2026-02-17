@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "226r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 39,
+      "guid": "049e28ad-eae4-4740-a38c-1d7c17d89c1e",
+      "startIndex": 22,
+      "text": " أبي الحسن بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "528"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "6fa989d4-ae46-4b21-bd82-14411226c344",
+      "startIndex": 60,
+      "text": " شعبان سنة ثمان وعشرين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 18,
+      "guid": "cb19d89f-0bbf-4c4a-81cb-a7ad6ebf7796",
+      "startIndex": 5,
+      "text": " ابن الحرستاني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه ابن الحرستاني من أبي الحسن بن قبيس مع والده بقراءته في شعبان سنة ثمان وعشرين وخمسمائة"
+}

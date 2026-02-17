@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/12"
+      ],
+      "folio_number": [
+        "154v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "000959b5-cb80-4a8b-8303-eb855ba4ce9d",
+      "startIndex": 223,
+      "text": "أحمد بن يحيى بن بركة الدبيقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "541"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "2b462dc0-799d-4e6c-8a7a-eaff8e279211",
+      "startIndex": 254,
+      "text": " الجمعة خامس عشر ربيع الآخر سنة إحدى وأربعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "2f88f153-dd67-4490-a885-85dd327420e1",
+      "startIndex": 320,
+      "text": "ابن مشرف ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "8632a132-3382-4016-8762-f9d5cded7755",
+      "startIndex": 218,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "948cb10e-9485-4698-a853-90bbbd552bb8",
+      "startIndex": 147,
+      "text": "محمد بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 215,
+      "guid": "a4709e05-416b-41d6-9c55-7580f3b36753",
+      "startIndex": 210,
+      "text": "سليمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "bb85b1ed-1256-476a-b878-98ef38c646a0",
+      "startIndex": 179,
+      "text": "يوسف بن محمد بن الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "cbf9436e-0a9e-4c55-8e3c-8a1ddec2098a",
+      "startIndex": 126,
+      "text": "ابن أبي عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "cfd78836-4021-4ab1-ba6b-ee23678aa1d2",
+      "startIndex": 174,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "f239bc2f-1028-4513-8d52-427a7ffa5bcc",
+      "startIndex": 76,
+      "text": "أبي محمد المبارك بن أحمد بن بركة الكندي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه وهو السابع وأنهى السادس قبله والثامن والتاسع بعده من حديث المحاملي على أبي محمد المبارك بن أحمد بن بركة الكندي بسماعه من ابن أبي عثمان بقراءة محمد بن محمد بن طبرزد أخوه عمر ويوسف بن محمد بن الموصلي وأخواه سليمان وعلي وأحمد بن يحيى بن بركة الدبيقي في الجمعة خامس عشر ربيع الآخر سنة إحدى وأربعين وخمسماية نقلته من خط ابن مشرف "
+}

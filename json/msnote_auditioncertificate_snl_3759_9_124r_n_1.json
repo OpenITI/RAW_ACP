@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "سريج بن يونس بن إبراهيم بن شعيب البلخي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب القضاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/9"
+      ],
+      "folio_number": [
+        "124r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "687"
+        ]
+      },
+      "endIndex": 296,
+      "guid": "0552e0e7-351e-4286-8d12-e721dc5be462",
+      "startIndex": 254,
+      "text": "يوم الجمعة سادس رجب سنة سبع وثمانين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "31564515-f671-4727-b50b-8e4f3c3b1784",
+      "startIndex": 202,
+      "text": "موفق الدين محمد بن أحمد بن إبراهيم التلمساني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "732003c0-fabc-4509-89f2-30517c67b9b3",
+      "startIndex": 312,
+      "text": "أحمد بن عبد الرحيم بن أبي عبد الله القرشي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 306,
+      "guid": "84c2d3ab-a3d3-4f5f-a404-be42d9d577fb",
+      "startIndex": 299,
+      "text": "القاهرة ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "9620eca6-f183-40a6-9d81-d3d2fdf80c7a",
+      "startIndex": 84,
+      "text": "شهاب الدين أبي الفضل عبد الرحيم بن الشيخ المحدث أبي الحجاج يوسف ابن يحيى الموصلي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على سيدي الشيخ الجليل الأصيل المحدث المسند بقية المشايخ الفضلاء شهاب الدين أبي الفضل عبد الرحيم بن الشيخ المحدث أبي الحجاج يوسف ابن يحيى الموصلي بسماعه فيه فسمعه شيخنا الإمام العازب موفق الدين محمد بن أحمد بن إبراهيم التلمساني وصح في يوم الجمعة سادس رجب سنة سبع وثمانين وستماية بالقاهرة كتبه أحمد بن عبد الرحيم بن أبي عبد الله القرشي الشافعي عفا الله عنه"
+}

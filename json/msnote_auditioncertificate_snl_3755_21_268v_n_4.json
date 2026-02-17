@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "زكريا بن يحيى بن أسد المروزي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث سفيان بن عيينة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/21"
+      ],
+      "folio_number": [
+        "268v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "0d735054-6c09-4597-a60c-45682636f590",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 112,
+      "text": "شمس الدين أبي عبد الله محمد بن حمزة بن أحمد بن عمر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "0f33f4aa-7be3-407f-a374-80306f96d077",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 51,
+      "text": "فخر الدين أبي الحسن علي بن عبد الرحمن بن عبد المنعم بن نعمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 378,
+      "guid": "20df0356-067b-44b6-8848-dd11b19ebc8c",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 337,
+      "text": "عبد الرحمن بن إبراهيم بن عبد الرحمن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "23cd7be7-414e-4b2e-bfb6-6d6228499a9a",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 216,
+      "text": "السخاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "687"
+        ]
+      },
+      "endIndex": 440,
+      "guid": "282ab52f-621a-43d2-b1de-550e1055a614",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 388,
+      "text": "يوم الثلثا تاسع شهر ربيع الأول سنة سبع وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 512,
+      "guid": "3e6760ad-c623-4edf-a5c4-1900c8b605a5",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 493,
+      "text": "محمد بن مسلم بن مالك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "532b4114-3ab9-4011-b311-a030e4b0a3e4",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 298,
+      "text": "عبد الله بن أبي المجد بن زعيم الحجاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "5865392d-2ac8-4e94-b561-971d785ef255",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 188,
+      "text": "سبط السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "a2ac5ae9-bb6f-4a25-976f-639e009f469f",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 260,
+      "text": "شهاب الدين أحمد بن ياقوت بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "nablus",
+            "madrasat-bin_ni'ma"
+          ]
+        ]
+      },
+      "endIndex": 475,
+      "guid": "e4284306-eddb-4095-93ad-d8be2aeeb2fb",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 443,
+      "text": "مدرسة المسمع الأول من مدينة نابلس",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "f72189d7-c796-4007-ab0f-42380e00ddbe",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 230,
+      "text": "محمد بن أحمد بن سالم بن علوي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على الشيخين الإمامين العالمين فخر الدين أبي الحسن علي بن عبد الرحمن بن عبد المنعم بن نعمة وشمس الدين أبي عبد الله محمد بن حمزة بن أحمد بن عمر المقدسيين بسماع الأول من سبط السلفي وإجازة الثاني من السخاوي فسمعه محمد بن أحمد بن سالم بن علوي وشهاب الدين أحمد بن ياقوت بن عبد الله وعبد الله بن أبي المجد بن زعيم الحجاوي وعبد الرحمن بن إبراهيم بن عبد الرحمن العجمي وصح ذلك يوم الثلثا تاسع شهر ربيع الأول سنة سبع وثمانين وستمية بمدرسة المسمع الأول من مدينة نابلس وأجازا لنا وكتب محمد بن مسلم بن مالك والحمد لله وحده وصلى الله على محمد وآله وصحبه"
+}

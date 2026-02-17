@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي وإسماعيل الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/12"
+      ],
+      "folio_number": [
+        "159r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 16,
+      "guid": "0e1f78bc-5313-4195-8cde-793ae105ba43",
+      "startIndex": 9,
+      "text": "أبي غالب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "10"
+        ],
+        "year": [
+          "526"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "1ce74d94-8316-4b54-9c4f-5311d5e3d11b",
+      "startIndex": 71,
+      "text": " شوال سنة ست وعشرين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "77d992c9-d1fe-4d9b-b4bd-0cfd65b40337",
+      "startIndex": 36,
+      "text": "بقاء بن عمر بن عبد الباقي بن حند",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 34,
+      "guid": "89c69367-3df4-422c-8bcf-351c293f8f2f",
+      "startIndex": 25,
+      "text": "ابن الطباخ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من أبي غالب بقراءة ابن الطباخ بقاء بن عمر بن عبد الباقي بن حند في شوال سنة ست وعشرين وخمسماية"
+}

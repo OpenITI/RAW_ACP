@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الباقي بن محمد البزاز"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المنتخب من حديث الأنصاري وفوائد ابن ماسي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 66- 67 "
+      ],
+      "classmark": [
+        "3752/2"
+      ],
+      "folio_number": [
+        "10r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 31,
+      "guid": "039be1e3-7038-4fea-aca4-fe37dbc69e40",
+      "index": 201,
+      "isZeroPoint": false,
+      "startIndex": 26,
+      "text": "الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "5fc63475-a5d9-4a1c-ae2c-e23fb1841882",
+      "index": 202,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "محمد بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "629ddd5d-892f-409e-a550-ae2edd4497f7",
+      "index": 205,
+      "isZeroPoint": false,
+      "startIndex": 162,
+      "text": "سليمان الأسعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "6cf89eeb-3a50-4963-b2c0-b81757ce3715",
+      "index": 208,
+      "isZeroPoint": false,
+      "startIndex": 256,
+      "text": "علي بن مسعود الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "841cd84b-e1ae-4199-8166-12c54d8cd512",
+      "index": 204,
+      "isZeroPoint": false,
+      "startIndex": 109,
+      "text": "محمد بن العماد إبراهيم بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "8ab76078-98ab-498b-85a0-7e922a36a817",
+      "index": 207,
+      "isZeroPoint": false,
+      "startIndex": 223,
+      "text": "عبد المؤمن الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "608"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "a01ad87e-c036-4e10-8c40-2525969143e3",
+      "index": 203,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "الاثنين سادس جمادى الآخرة سنة ثمان وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 216,
+      "guid": "fbb88f38-e346-46ee-a251-e6aa74ba16be",
+      "index": 206,
+      "isZeroPoint": false,
+      "startIndex": 200,
+      "text": "منزل المسمع بدمشق",
+      "type": "place"
+    }
+  ],
+  "text": " سمع جميع جزء الأنصاري من الكندي بقراءة محمد بن عبد الغني عليه يوم الاثنين سادس جمادى الآخرة سنة ثمان وستمية محمد بن العماد إبراهيم بن عبد الواحد المقدسي وآخرون وسليمان الأسعردي وكتب السماع في الأصل بمنزل المسمع بدمشق لخصه عبد المؤمن الدمياطي وكتبه من خطه علي بن مسعود الموصلي ثم الحلبي "
+}

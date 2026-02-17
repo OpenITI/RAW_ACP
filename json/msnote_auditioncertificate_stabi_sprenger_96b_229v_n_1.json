@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96b"
+      ],
+      "folio_number": [
+        "229v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1769442294/1200/0/00000464.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00010967"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 373,
+      "guid": "6078d729-4b03-4fab-9f6e-1f59b4758f32",
+      "startIndex": 332,
+      "text": "أحمد بن عبد الرحيم بن أبي عبد الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "mashhad_al-husayn"
+          ]
+        ]
+      },
+      "endIndex": 306,
+      "guid": "c114aca1-d21d-433e-a212-02935a708dbc",
+      "startIndex": 278,
+      "text": "مشهد الإمام الحسين من القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "cd3aa745-5462-491b-a2e1-0c30cea2b0f6",
+      "startIndex": 196,
+      "text": "ابن المجلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "682"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "d91e200b-f910-471a-b72a-04af3bf7fb16",
+      "startIndex": 222,
+      "text": "في الخامس من شهر ربيع الآخر سنة لثنتين وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "f0af0843-6f05-4c7e-88fe-11ebd6345a2e",
+      "startIndex": 75,
+      "text": "شهاب الدين أبي عبد الله محمد بن الشيخ الإمام أبي محمد عبد المنعم [بن محمد ...] الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ [..........................................] شهاب الدين أبي عبد الله محمد بن الشيخ الإمام أبي محمد عبد المنعم [بن محمد ...] الشافعي فسح الله في مدته بسماعه من القاضي ابن المجلي بسنده وصح وثبت في الخامس من شهر ربيع الآخر سنة لثنتين وثمانين وستمائة بمشهد الإمام الحسين من القاهرة قاله وكتبه العبد الفقير أحمد بن عبد الرحيم بن أبي عبد الله الشافعي عفا الله عنه وهذا خطه والحمد لله وحده وصلوته على محمد نبيه وآله وصحبه وسل تسليما كثرا آمين."
+}

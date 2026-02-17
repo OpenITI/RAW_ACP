@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الفضل أحمد بن محمد الميداني"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "نزهة الطرف في علم الصرف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 5938"
+      ],
+      "folio_number": [
+        "67r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100309502/f68.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100309502/f68.item.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "month": [
+          "6"
+        ],
+        "year": [
+          "515"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "4831197e-a92c-4ec5-9587-198d903783c9",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 179,
+      "text": "جمادى الآخرة سنة خمس عشرة وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "6457a08f-8517-4994-9b77-75e6bc39ccf0",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 154,
+      "text": "أحمد بن محمد الميداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "d99c1afa-d0a4-4f01-80e4-a78c2d24b4b9",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": "أبو الفتوح أحمد بن الحسن بن سعد الرازي",
+      "type": "person"
+    }
+  ],
+  "text": "انتسخ هذا الكتاب من نسخة كان مكتوبا في أولها قرأ عليَّ هذا الكتاب صاحبه الشيخ الرئيس أبو الفتوح أحمد بن الحسن بن سعد الرازي أيده الله وعارضه بنسختي وكتبه أحمد بن محمد الميداني في جمادى الآخرة سنة خمس عشرة وخمس ماية صح."
+}

@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمرو محمد بن أحمد بن حمدان الحيري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سؤالات أبي عمرو محمد بن أحمد بن حمدان الحيري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "164r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f171.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f171.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 292,
+      "guid": "043a08ba-9369-48ab-9d18-b32a6641a64b",
+      "startIndex": 284,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "1fec0b7e-2446-42b5-b650-06aa42889293",
+      "startIndex": 365,
+      "text": "هذا صحيح وكتب يحيى بن الصيرفي",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "7254e871-19b8-4100-a289-94cd90578360"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "34b0f5c3-6061-4077-b7ca-f0de229b2cb0",
+      "startIndex": 58,
+      "text": "جمال الدين أبي زكريا يحيى بن أبي منصور بن أبي الفتح بن الصيرفي الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "4b64b7f2-ded6-4bd0-8214-b5990e799974",
+      "startIndex": 313,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "645947c1-a846-4251-b2fa-871e968fba1c",
+      "startIndex": 180,
+      "text": "أبي روح عبد المعز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "7aeab406-432e-4d83-817b-c6e3bb854d44",
+      "startIndex": 199,
+      "text": "أم المؤيد زينب الشعرية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21- 30"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "d1ac11f8-7ad7-4b19-8d52-95a074f58ee6",
+      "startIndex": 230,
+      "text": "في العشر الأخير من ربيع الأول سنة ثمان وستين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على شيخنا الإمام العالم الزاهد المفتي جمال الدين أبي زكريا يحيى بن أبي منصور بن أبي الفتح بن الصيرفي الحراني |أعاد| الله من بركته بحق إجازته المطلقة الصحيحة من أبي روح عبد المعز وأم المؤيد زينب الشعرية وصح ذلك في العشر الأخير من ربيع الأول سنة ثمان وستين وستمائة بجامع دمشق وكتب فقير رحمة ربه علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه\nهذا صحيح وكتب يحيى بن الصيرفي"
+}

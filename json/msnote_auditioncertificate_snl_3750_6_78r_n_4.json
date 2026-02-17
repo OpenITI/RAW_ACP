@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إبراهيم بن حرب السمسار العسكري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند أبي هريرة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 63 "
+      ],
+      "classmark": [
+        "3750/6"
+      ],
+      "folio_number": [
+        "78r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "3d09ac95-df59-4136-a83e-9aea6cb156bd",
+      "startIndex": 130,
+      "text": "أبي بكر عبد الرشيد ابن محمد المبيدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "5438958b-b192-475f-88d1-86afbbfee17c",
+      "startIndex": 101,
+      "text": "أبي علي الحداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "6078954e-a861-491e-8348-1dfb8c0ff99f",
+      "startIndex": 42,
+      "text": "أبي جعفر محمد بن أحمد بن نصر الصيدلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "12"
+        ],
+        "note": [
+          "حول السماع إلى هذه النسخة سنة 638"
+        ],
+        "year": [
+          "572"
+        ]
+      },
+      "endIndex": 333,
+      "guid": "626d9edd-818f-43da-8642-1fd627eebea2",
+      "startIndex": 292,
+      "text": "في آخر ذي الحجة سنة اثنتين وسبعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 269,
+      "guid": "c1ed55ff-b0c6-4f2a-b779-0f2b39361640",
+      "startIndex": 233,
+      "text": "محمد بن أبي بكر ابن أبي القاسم الغزال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 396,
+      "guid": "d943f5f1-cd14-45b7-9e7e-8901f2916682",
+      "startIndex": 376,
+      "text": "يوسف بن سلامة الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "f8b3995b-ae64-4b41-9e0f-6a1ee8d17374",
+      "startIndex": 172,
+      "text": "شمس الدين أبي الحجاج يوسف بن خليل بن عبد الله الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمع جميع هذا الجزء والذي قبله على الشيخ أبي جعفر محمد بن أحمد بن نصر الصيدلاني بسماعه فيه حضورا من أبي علي الحداد بقراءة الإمام أبي بكر عبد الرشيد ابن محمد المبيدي صاحبه شمس الدين أبي الحجاج يوسف بن خليل بن عبد الله الدمشقي ثم قال محمد بن أبي بكر ابن أبي القاسم الغزال والخط له وصح لهم ذلك في آخر ذي الحجة سنة اثنتين وسبعين وخمسماية نقلت الجميع من نسخة شيخنا شمس الدين كتبه يوسف بن سلامة الحراني بتاريخ سابع عشري صفر سنة ثمان وثلثين وستمية بحلب"
+}

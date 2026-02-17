@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبوعبد الرحمن أحمد بن شعيب بن علي بن سنان بن بحر بن دينار النَّسائي "
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90044822"
+      ],
+      "work_title": [
+        "جزء من كتاب الطهارة/ سنن النسائي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "83v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f87.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f87.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "0577c910-17cc-41ba-b10b-6c44f60b32e5",
+      "startIndex": 44,
+      "text": " أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "595"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "5ece39a6-441d-4c61-b059-7b17bc7ca3e7",
+      "startIndex": 146,
+      "text": "سنة خمس وتسعين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "a4d969b5-8391-48c0-b629-0c0c5b000f70",
+      "startIndex": 93,
+      "text": "أبو الحجاج يوسف بن خليل بن عبد الله الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "d3d0a1e6-51b9-4980-a061-91dcae738886",
+      "startIndex": 9,
+      "text": "أبي القاسم هبة الله البوصيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "misr"
+          ]
+        ]
+      },
+      "endIndex": 174,
+      "guid": "e69345ec-a6e7-4c1f-9a4a-5e7b87e66edd",
+      "startIndex": 172,
+      "text": "مصر",
+      "type": "place"
+    }
+  ],
+  "text": "وسمعه من أبي القاسم هبة الله البوصيري بقراءة أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي أبو الحجاج يوسف بن خليل بن عبد الله الدمشقي في آخرين سنة خمس وتسعين وخمس مائة بمصر"
+}

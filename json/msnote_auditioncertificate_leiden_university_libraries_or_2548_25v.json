@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن عمر بن أحمد بن منصور بن عبدوس ابن الصفار النيسابوري"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "كتاب الأربعين من مسانيد المشايخ العشرين عن الأصحاب الأربعين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 2548"
+      ],
+      "folio_number": [
+        "25v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281370502711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "0eef32cf-0164-4e6b-a6d8-98da2fb45898",
+      "startIndex": 409,
+      "text": "حسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "24ab4cbb-6956-458e-a6ef-370e0ca84d26",
+      "startIndex": 219,
+      "text": "ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "25ae5305-3dae-47d2-ad6a-e1df57f49402",
+      "startIndex": 311,
+      "text": "شمس الدين أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 574,
+      "guid": "2d5186f7-448e-4452-b5b4-12869a20050e",
+      "startIndex": 554,
+      "text": "الكهف بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 627,
+      "guid": "3b7898af-f8ea-4d90-8d88-41328405c31d",
+      "startIndex": 581,
+      "text": "محمد بن يحيى بن محمد بن سعد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "726"
+        ]
+      },
+      "endIndex": 551,
+      "guid": "7ea8fbac-6cc0-46b3-918b-9babd64ba2cf",
+      "startIndex": 490,
+      "text": "الأحد السادس والعشرين من شهر ربيع الأول سنة ست وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "8c6bb221-b745-44af-a025-fe31f25ac7bf",
+      "startIndex": 70,
+      "text": "محب الدين أبي محمد عبد الله بن الشيخ شهاب الدين أحمد بن الإمام الحافظ محب الدين عبد الله بن أحمد بن محمد بن إبراهيم المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 447,
+      "guid": "d5b87ba9-6aaf-4e75-a5be-574e1d06f985",
+      "startIndex": 420,
+      "text": " أحمد بن معتوق بن علي الفامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 348,
+      "guid": "fa246a8d-e834-4885-a464-a14e34016f16",
+      "startIndex": 335,
+      "text": "أبو الفتح أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "fe247787-0cad-4b85-8e45-583cbcc17250",
+      "startIndex": 244,
+      "text": "بدر الدين الحسن بن علي بن محمد البغدادي الصوفي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذه الأربعين على صاحبها الشيخ الإمام العالم البارع الحافظ الأوحد محب الدين أبي محمد عبد الله بن الشيخ شهاب الدين أحمد بن الإمام الحافظ محب الدين عبد الله بن أحمد بن محمد بن إبراهيم المقدسي بسماعه فيه نقلا حضورا من ابن البخاري فسمعها الشيخ بدر الدين الحسن بن علي بن محمد البغدادي الصوفي وكاتب النسخة الفقيه شمس الدين أبو بكر محمد وأبو الفتح أحمد ولدا المسمع والحاج محمد بن حسين بن عبد الكافي القصاب وابنه حسين والحاج أحمد بن معتوق بن علي الفامي ابن أخت الحاج ناهض الفامي وصح ذلك في يوم الأحد السادس والعشرين من شهر ربيع الأول سنة ست وعشرين وسبعماية بالكهف بسفح جبل قاسيون وكتب محمد بن يحيى بن محمد بن سعد بن عبد الله المقدسي عفا الله عنه ولله الحمد"
+}

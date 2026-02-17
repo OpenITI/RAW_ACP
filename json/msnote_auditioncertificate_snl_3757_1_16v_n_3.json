@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن جعفر بن محمد بن سهل السامري الخرائطي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مساوئ الأخلاق ومذمومها ومكروه طرائقها"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 94"
+      ],
+      "classmark": [
+        "3757/1"
+      ],
+      "folio_number": [
+        "16v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 212,
+      "guid": "01c1c9c3-135b-47fb-9cbe-52a881e72cca",
+      "startIndex": 204,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "727"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "108aac81-c552-493b-b834-3adbff273f1b",
+      "startIndex": 148,
+      "text": "يوم الخميس العشرين من شهر رجب سنة سبع وعشرين وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "b3652b1f-98ed-4876-9f2b-503753922725",
+      "startIndex": 47,
+      "text": "شرف الدين أبي محمد عبد الله بن الحسن بن عبد الله بن الحافظ عبد الغني المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "8ce398d7-6ce5-429b-be83-3e21647ad351"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "d42e5e2e-bdd3-4aaf-b6de-518c4357a20e",
+      "startIndex": 219,
+      "text": "خليل بن كيكلدي بن عبد الله العلائي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأته على الشيخ الإمام أقضى القضاة بقية السلف شرف الدين أبي محمد عبد الله بن الحسن بن عبد الله بن الحافظ عبد الغني المقدسي بسماعه تراه أصلا وصح في يوم الخميس العشرين من شهر رجب سنة سبع وعشرين وسبع ماية بجامع دمشق وكتب خليل بن كيكلدي بن عبد الله العلائي"
+}

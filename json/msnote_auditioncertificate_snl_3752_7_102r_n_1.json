@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي عاصم أحمد بن عمرو أبو بكر الشيباني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجهاد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 68 "
+      ],
+      "classmark": [
+        "3752/7"
+      ],
+      "folio_number": [
+        "102r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "month": [
+          "12"
+        ],
+        "year": [
+          "512"
+        ]
+      },
+      "endIndex": 361,
+      "guid": "2eb2f0b5-adc4-46f1-a424-064f5487e42a",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 332,
+      "text": "[ذي الحجة] اثنتي عشرة وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "3579bc4a-7083-4b00-80e0-de5dc342cb69",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 164,
+      "text": "أبي بكر محمد بن أبي نصر اللفتواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "4179244a-f377-4dbd-a2d8-a2c0060f6eb2",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 209,
+      "text": "أبو عبد الله محمد بن أبي زيد بن حمد بن أبي نصر الكراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "4787bc8f-b320-46fc-ae07-d98238f78613",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 127,
+      "text": "ابن شاذان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 408,
+      "guid": "4d8a97c4-392a-49b3-aff0-dbe6a8d38da4",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 386,
+      "text": "أبي الحجاج يوسف الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 327,
+      "guid": "58f4b4ea-b7c9-4831-bb37-8a194f5fd08e",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 278,
+      "text": "محمد بن حمزة بن إسماعيل بن الحسين بن علي بن الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "dd029db0-f9bf-493c-95eb-c6f00663062a",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 140,
+      "text": "القباب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "ec3ccc2a-3a3b-4bdb-a1e3-142bf85e6a31",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 50,
+      "text": "أبي منصور محمود بن إسماعيل بن محمد بن محمد الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 374,
+      "guid": "ec77448a-a744-49c1-904f-cde4a3067fa0",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 368,
+      "text": "أبو بكر",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع كتاب الجهاد سوى ما لم يكن عند الأعرج من أبي منصور محمود بن إسماعيل بن محمد بن محمد الصيرفي بعد أن قوبل بأصل سماعه عن ابن شاذان عن القباب عن المصنف بقراءة أبي بكر محمد بن أبي نصر اللفتواني جماعة منهم أبو عبد الله محمد بن أبي زيد بن حمد بن أبي نصر الكراني وكاتب الأسماء محمد بن حمزة بن إسماعيل بن الحسين بن علي بن الحسين في [ذي الحجة] اثنتي عشرة وخمسماية نقله أبو بكر من الحافظ أبي الحجاج يوسف الدمشقي"
+}

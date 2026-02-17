@@ -1,0 +1,438 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "48r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 477,
+      "guid": "07448bcc-8d30-402b-b9bd-1ec7a70e4698",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 461,
+      "text": " أبي الفرج الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "16a15a90-8d4a-4007-8cac-514a217cd007",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 285,
+      "text": "أبي عبد الله محمد بن إسماعيل خطيب مردا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "27ff7a99-48db-4c41-9faa-f28c3b34a9f1",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 43,
+      "text": "شهاب الدين أبي العباس أحمد بن الشجاع عبد الرحمن بن إبراهيم بن علي الهكاري الصرخدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 811,
+      "guid": "29c292c5-9441-4c11-b7c5-aa4c79f4ba1f",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 749,
+      "text": "شمس الدين محمد بن شيخنا شمس الدين محمد بن أبي بكر بن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 670,
+      "guid": "332be20f-27f5-4356-94c2-810b8ed498c0",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 657,
+      "text": "أبي علي الحداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 856,
+      "guid": "3d6fd23e-79ee-4cb4-a333-dfb7714b6def",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 814,
+      "text": "شمس الدين محمد بن الحاج عمر بن محمد الزرندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 682,
+      "guid": "3de2f8b9-7618-45b0-be83-bc2f500cdb24",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 675,
+      "text": "أبي نعيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1458,
+      "guid": "4bcaa10a-7fac-4569-80db-390b31ab4816",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 1422,
+      "text": "الحسين بن عمر بن الحين بن عمر بن حبيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 963,
+      "guid": "56e6445e-aea6-46ef-8c4e-0c8e9410b6cf",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 927,
+      "text": "محمود بن الجمال ضحاك بن جعفر الهريري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1056,
+      "guid": "590f3bb8-4a31-436b-bb3f-a346a2440b43",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 1018,
+      "text": "أحمد بن سعيد بن أبي الحرم البرزي الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 924,
+      "guid": "69b8d4c1-a5a4-450c-9da4-26525dae9d27",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 897,
+      "text": "محمد بن محمد بن عمران الخببي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "70671f77-6160-4be8-a0c7-9a09ac1a57af",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 178,
+      "text": "شمس الدين أبي عبد الله محمد بن أحمد بن الناصح عبد الرحمن ابن محمد بن عياش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 722,
+      "guid": "7255e166-421f-4eb0-b654-696f6e1591fd",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 708,
+      "text": "شهاب الدين أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 888,
+      "guid": "7f8ddec1-f94b-4675-9caa-e9e1e46819d2",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 859,
+      "text": "أحمد بن عمران بن سفيان المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 426,
+      "guid": "87acbcd1-fe03-4010-b229-afcfd2e55386",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 392,
+      "text": "فخر الدين أبي الحسن علي بن البخاري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "912b3345-5098-48ca-8c95-9187c802c8bc",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 126,
+      "text": "شمس الدين محمد بن أبي بكر بن محمد بن طرخان الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1094,
+      "guid": "91c15d78-b76b-45f2-b990-4dfa4562a706",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 1085,
+      "text": "عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "734"
+        ]
+      },
+      "endIndex": 1291,
+      "guid": "9f73eacb-c435-4055-8537-28e03d7951fc",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 1237,
+      "text": " يوم الأربعاء ثاني عشرين شعبان سنة أربع وثلثين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1184,
+      "guid": "c54aedc9-1355-44db-8b95-2943039639d1",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 1146,
+      "text": "عبد الرحمن بن عمر بن عبد الرحمن بن عياش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1335,
+      "guid": "c56f1df1-2c2c-47f9-b1ed-bbd3ccae6d1e",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 1294,
+      "text": "الجامع المظفري بسفح قاسيون ظاهر مدينة دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 538,
+      "guid": "c5a00418-b88c-4874-9691-f3bd147bf2e8",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 521,
+      "text": "أبي المكارم اللبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 362,
+      "guid": "d440b19d-96df-4f58-9ada-425701793e26",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 348,
+      "text": " ابن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1083,
+      "guid": "eaf1a032-4b1c-46be-a848-3c5ef717b464",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 1079,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1224,
+      "guid": "eff2c72a-287d-492b-9aaa-daed508b2d77",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 1193,
+      "text": "محمد بن عبد الله بن أحمد الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 559,
+      "guid": "f09d297c-7152-49d7-ae78-6ef6b5266ad7",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 541,
+      "text": "أبي جعفر الصيدلاني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 581,
+      "guid": "f667f7b6-9c61-4994-875a-3be5927ea847",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 561,
+      "text": "أبي عبد الله الكرّاني",
+      "type": "person"
+    }
+  ],
+  "text": " ثم قرأته أجمع على المشايخ الثلثة المسندين شهاب الدين أبي العباس أحمد بن الشجاع عبد الرحمن بن إبراهيم بن علي الهكاري الصرخدي وشمس الدين محمد بن أبي بكر بن محمد بن طرخان الصالحي وشمس الدين أبي عبد الله محمد بن أحمد بن الناصح عبد الرحمن ابن محمد بن عياش أثابهم الله تعالى بسماع الأول من أبي عبد الله محمد بن إسماعيل خطيب مردا وبسماع الثاني والثالث من ابن عبد الدائم وبسماع الثاني أيضا من الشيخ فخر الدين أبي الحسن علي بن البخاري بسماع ابن عبد الدائم وخطيب مردا من أبي الفرج الثقفي وبإجازة الفخر بن البخاري من مشايخه الثلثة أبي المكارم اللبان وأبي جعفر الصيدلاني وأبي عبد الله الكرّاني بسماع الثقفي واللبان وحضور الصيدلاني وإجازة الكراني له إن لم يكن سماعا من أبي علي الحداد عن أبي نعيم بسنده فيه فسمعه الجماعة شهاب الدين أحمد بن المسمع الثاني والفقيه شمس الدين محمد بن شيخنا شمس الدين محمد بن أبي بكر بن عبد الدائم وشمس الدين محمد بن الحاج عمر بن محمد الزرندي وأحمد بن عمران بن سفيان المقدسي والحاج محمد بن محمد بن عمران الخببي ومحمود بن الجمال ضحاك بن جعفر الهريري ومن يأتي بمقلوبها SNL, 3741/3, 48v تتمة الطبقة والحاج أحمد بن سعيد بن أبي الحرم البرزي الخباز وحفيدا المسمع الثالث محمد وعبد العزيز في الثالثة ابنا أبي بكر وابن بن أخي المسمع الثالث عبد الرحمن بن عمر بن عبد الرحمن بن عياش والشيخ محمد بن عبد الله بن أحمد الدمشقي وصح وثبت في يوم الأربعاء ثاني عشرين شعبان سنة أربع وثلثين وسبعماية بالجامع المظفري بسفح قاسيون ظاهر مدينة دمشق حرسها الله تعالى وأجازوا لهم ما يجوز لهم روايته وتلفظوا بذلك بسؤالي إياهم قاله وكتبه الحسين بن عمر بن الحين بن عمر بن حبيب أصلحه الله تعالى ورفق به الحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلم"
+}

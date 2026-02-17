@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "118r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "117f05c2-d228-497c-8219-d050f6214f4b",
+      "startIndex": 74,
+      "text": "أبي محمد الحسن بن علي بن الحسين بن الحسن بن محمد الأسدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "1b24b50d-a3a4-4f74-9f39-32e874d45576",
+      "startIndex": 179,
+      "text": "أبي بكر النصيبي العدني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 766,
+      "guid": "24c0adc3-e7a4-4b5f-a1b4-99b2783d8f2d",
+      "startIndex": 712,
+      "text": "إسماعيل بن عبد الله بن عبد المحسن ابن الأنماطي الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "613"
+        ]
+      },
+      "endIndex": 1226,
+      "guid": "26ab3537-6e2b-4be1-8ddc-8def53fd7fb4",
+      "startIndex": 1178,
+      "text": "الخميس ثالث عشر شعبان المكرم سنة ثلث عشرة وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "3281f030-3733-4b16-9f71-08ffcba2f7c3",
+      "startIndex": 295,
+      "text": " ابن أبي نصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 766,
+      "guid": "36f0966d-89c2-42b6-923e-313ad553e9d8",
+      "startIndex": 696,
+      "text": "أبو بكر محمد بن إسماعيل بن عبد الله بن عبد المحسن ابن الأنماطي الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 881,
+      "guid": "465695b1-d152-4bd3-8af7-b92fc7100585",
+      "startIndex": 828,
+      "text": "أبو طالب محمد بن عبد الله بن عبد الرحمن بن صابر السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "5f68d9c0-cd30-42be-885f-2ff5252783dc",
+      "startIndex": 160,
+      "text": " ابن أبي العلاء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 908,
+      "guid": "7c5ad2c5-6e7f-405c-ab08-733ddc2d9e10",
+      "startIndex": 889,
+      "text": "أبو المعالي عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 688,
+      "guid": "7d25ac18-a064-4c1c-8da5-fde08a612e8f",
+      "startIndex": 680,
+      "text": " ابن حذلم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1110,
+      "guid": "8bbb4bab-308e-46a8-91e8-161fb47c6ed9",
+      "startIndex": 1065,
+      "text": "أبو المجد بن منصور بن أبي القاسم الزجاج الآمدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "b8775a2a-3b46-41d6-b1cb-c8f064d0e114"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1062,
+      "guid": "9da5f0dd-9686-44cf-a8a6-8e124f72ee6a",
+      "startIndex": 1025,
+      "text": "أبو المرجا سالم بن ثمال بن عنان العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1006,
+      "guid": "d9605145-c649-4fff-b610-066b3a424cc4",
+      "startIndex": 991,
+      "text": " أبو حامد الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 984,
+      "guid": "d9d2d16b-56b7-431d-96ef-dd9064e4580a",
+      "startIndex": 911,
+      "text": "أبو محمد القاسم بن الحافظ أبي القاسم علي بن القاسم بن علي بن الحسن الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "ustadar_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 1169,
+      "guid": "f3219dce-6ea2-4582-9959-8ce27ce7ae9c",
+      "startIndex": 1138,
+      "text": "مدرسة أستاذ الدار بالكشك من دمشق",
+      "type": "place"
+    }
+  ],
+  "text": "سمع هذا الجزء وهو الثاني من حديث أبي بكر بن خلاد النصيبي على الشيخ الأصيل أبي محمد الحسن بن علي بن الحسين بن الحسن بن محمد الأسدي بسماعه المنقول |فيه| من جده عن ابن أبي العلاء عن أبي بكر النصيبي العدني عنه والجزء السادس عشر من فوائد حديث خثيمة بن سليمان القرشي بسماعه من جده عن ابن أبي العلاء عن ابن أبي نصر عنه وجزءا فيه صفة النبي صلى الله [مكررفي الأصل] عليه وسلم وحديث أم معبد وذلك من رواية أبي علي محمد بن هارون بن شعيب الأنصاري بسماعه من جده عن ابن أبي العلاء عن ابن أبي نصر عن أبي علي وجزءا فيه أحد وخمسون حديثا منتقا من جزء من حديث أبي الحسن بن حذلم الأسدي عن سعد بن محمد البيروتي ويزيد بن محمد بن عبد العزيز بن خالد بن روح بسماعه من جده عن ابن أبي العلاء عن ابن أبي نصر عن ابن حذلم صاحبه أبو بكر محمد بن إسماعيل بن عبد الله بن عبد المحسن ابن الأنماطي الأنصاري في السنة الخامسة بقراءة أبيه رفق الله بهما وهذا خطه والشيوخ أبو طالب محمد بن عبد الله بن عبد الرحمن بن صابر السلمي وابنه أبو المعالي عبد الله وأبو محمد القاسم بن الحافظ أبي القاسم علي بن القاسم بن علي بن الحسن الشافعي وأخوه أبو حامد الحسين حاضر في الرابعة وأبو المرجا سالم بن ثمال بن عنان العرضي وأبو المجد بن منصور بن أبي القاسم الزجاج الآمدي وصح ذلك لهم في مجلس واحد بمدرسة أستاذ الدار بالكشك من دمشق في يوم الخميس ثالث عشر شعبان المكرم سنة ثلث عشرة وستماية الحمد لله وصلواته على سيدنا محمد وآله وصحبه وسلامه"
+}

@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي بن عاصم ابن المقرئ الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرخصة في تقبيل اليد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 181"
+      ],
+      "classmark": [
+        "3771/11"
+      ],
+      "folio_number": [
+        "167r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "532"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "102606d0-4868-4e26-b632-797a990bb2ef",
+      "startIndex": 60,
+      "text": "صفر سنة اثنتين وثلثين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "359cbb59-b052-4ecd-b04f-5e75ca0482cf",
+      "startIndex": 14,
+      "text": "علي بن الحسن بن هبة الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "persia",
+            "isfahan"
+          ]
+        ]
+      },
+      "endIndex": 97,
+      "guid": "cdffeee2-4df5-412e-b91e-ac0872763165",
+      "startIndex": 92,
+      "text": "أصبهان",
+      "type": "place"
+    }
+  ],
+  "text": "بغلت بقراءتي [علي بن الحسن بن هبة الله الشافعي] في التاريخ [صفر سنة اثنتين وثلثين وخمسماية بأصبهان] وصح وثبت وحضر جماعة ينصتوا للقراءة"
+}

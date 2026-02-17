@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إبراهيم المعدل الرازي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "مشيخة أبي عبد الله الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 173"
+      ],
+      "classmark": [
+        "3770/10"
+      ],
+      "folio_number": [
+        "137v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "37156e00-8980-4460-bdf5-a10518c151ed",
+      "startIndex": 154,
+      "text": "شمس الدين أبو عبد الله محمد بن جمال الدين أبي بكر عبد الله بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "662"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "37c76434-d1d0-466e-9f73-5edf87397759",
+      "startIndex": 223,
+      "text": "الحادي والعشرين من رجب سنة اثنتين وستين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "5c002504-6ff9-454e-9247-32af1b79b6cc",
+      "startIndex": 102,
+      "text": " ابن ياسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "71ba4557-3cd8-4b1b-8116-1cb91c757191",
+      "startIndex": 17,
+      "text": "معين الدين أبي العباس أحمد بن القاضي زين الدين علي بن يوسف بن بندار الدمشقي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "9300c255-7381-4b00-98d0-159fd61b5ca4",
+      "startIndex": 120,
+      "text": "أحمد بن فرج اللخمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 277,
+      "guid": "c2bfa8c5-2699-4091-a5bd-b83bde154a94",
+      "startIndex": 271,
+      "text": "القاهرة",
+      "type": "place"
+    }
+  ],
+  "text": "وسمعها على الشيخ معين الدين أبي العباس أحمد بن القاضي زين الدين علي بن يوسف بن بندار الدمشقي بسماعه من ابن ياسين بقراءة أحمد بن فرج اللخمي ابن أخي المسمع شمس الدين أبو عبد الله محمد بن جمال الدين أبي بكر عبد الله بن علي في الحادي والعشرين من رجب سنة اثنتين وستين وستمية بالقاهرة"
+}

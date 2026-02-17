@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن محمد بن إبراهيم الحنائي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي القاسم الحنائي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 70"
+      ],
+      "classmark": [
+        "3753/2"
+      ],
+      "folio_number": [
+        "35v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "bb9c48b7-8e98-4845-b555-51ec819e733b"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "4d8301e1-5cde-4de5-b86d-18bf21124cd8",
+      "startIndex": 43,
+      "text": " ضياء الدين أبي عبد الله محمد بن عبد الواحد ابن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "99231eba-b66c-42d2-8124-4acc3240ffe8"
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "910fc242-8b4d-4b75-94fd-0518c46ff35f",
+      "startIndex": 164,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "634"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "be8c8fd7-c502-4cac-b297-0653e30294c3",
+      "startIndex": 189,
+      "text": "الثلثا سادس عشري شهر محرم من سنة أربع وثلاثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 268,
+      "guid": "c055f440-badd-4e96-b5bc-420b93d45875",
+      "startIndex": 244,
+      "text": "سفح جبل قاسيون ظاهر د[مشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "0ae468ae-3ea4-4eb7-9586-2f497e756c3f"
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "cfba2a5a-770d-483e-89d5-1923ae5d17d6",
+      "startIndex": 122,
+      "text": "عبد الرحمن بن سلمان بن سعيد البغدادي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ الإمام الحافظ ضياء الدين أبي عبد الله محمد بن عبد الواحد ابن أحمد المقدسي بسماعه فيه بقراءة عبد الرحمن بن سلمان بن سعيد البغدادي ولده محمد وهـ[ـذا] خطه في يوم الثلثا سادس عشري شهر محرم من سنة أربع وثلاثين وستماية بسفح جبل قاسيون ظاهر د[مشق]"
+}

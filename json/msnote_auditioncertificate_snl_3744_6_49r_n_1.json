@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الآدمي الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عوالي الإمام أبي حنيفة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 34"
+      ],
+      "classmark": [
+        "3744/6"
+      ],
+      "folio_number": [
+        "49r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "707"
+        ]
+      },
+      "endIndex": 452,
+      "guid": "4bb62a32-485e-4df0-8db0-de0ac76f795c",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 409,
+      "text": " يوم الخميس سادس ربيع الآخر سنة سبع وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "5b7e24c1-8cfe-4465-9bc8-a3438a811ac4",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 51,
+      "text": "كمال الدين أبي الفضل إسحق بن أبي بكر بن إبراهيم بن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "qalijiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 486,
+      "guid": "7432e0c5-42a7-402f-82b1-713f209da5e4",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 455,
+      "text": "المدرسة القليجية الحنيفية بدمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 382,
+      "guid": "81940ec7-1e95-4334-ab1c-b6f95d003887",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 338,
+      "text": "عبد الله بن يعقوب بن سيدهم بن إدريس الاسكندري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 335,
+      "guid": "a0760f19-47cf-4aba-a9b1-5a8a193a30aa",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 286,
+      "text": "أبو عبد الله محمد بن إبراهيم بن علي بن بقاء الملقن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "d0b05a9f-6245-4a1f-b51e-c8eb99b241ab",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 175,
+      "text": "شمس الدين أبي عبد الله محمد بن إبراهيم بن غنائم بن المهندس ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 273,
+      "guid": "f574fe90-b225-4f58-9e15-d8b228533e80",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 251,
+      "text": "صلاح الدين أبو عبد الله",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ الجليل الفقيه المسند كمال الدين أبي الفضل إسحق بن أبي بكر بن إبراهيم بن النحاس بسماعه فيه نقلا من مخرجه بقراءة كاتبه الحافظ المخرج المحدث المفيد شمس الدين أبي عبد الله محمد بن إبراهيم بن غنائم بن المهندس وسمعه ولد القارئ صلاح الدين أبو عبد الله حفظه الله وأبو عبد الله محمد بن إبراهيم بن علي بن بقاء الملقن وعبد الله بن يعقوب بن سيدهم بن إدريس الاسكندري عفا الله عنه وصح ذلك وثبت يوم الخميس سادس ربيع الآخر سنة سبع وسبعماية بالمدرسة القليجية الحنيفية بدمشق المحروسة وأجاز لهم الشيخ جميع ما يرويه والحمد لله وحده وصلى الله على سيدنا محمد وآله وسلم "
+}

@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الله الأنصاري وأبي محمد بن ماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتقا من الأحاديث "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "135r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f138.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f138.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "month": [
+          "2"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "07e8ac87-d956-4a08-826a-de9e6edd61b1",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 138,
+      "text": "شهر صفر سنة اثنتين وأربعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "1f9b8991-0071-4d9a-babf-2ad4800ce69e",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 80,
+      "text": "الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "b71c24a7-11c4-435b-beda-07c7b7b7fdd1",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 106,
+      "text": "أحمد بن محمد بن أمية العبدري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "e076b201-c016-4abc-9688-727ab88c4d64",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 28,
+      "text": "العالم علم الدين القاسم بن أحمد بن الموفق",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذه الأحاديث على الشيخ العالم علم الدين القاسم بن أحمد بن الموفق بسماعه من الكندي لجزء الأنصاري وكتب أحمد بن محمد بن أمية العبدري في شهر صفر سنة اثنتين وأربعين وستمائة"
+}

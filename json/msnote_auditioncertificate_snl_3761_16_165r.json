@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو نعيم أحمد بن عبد الله بن أحمد الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "تسمية ما انتهى إلينا من الرواة عن أبي نعيم الفضل بن دكين الطلحي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 122"
+      ],
+      "classmark": [
+        "3761/17"
+      ],
+      "folio_number": [
+        "176v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "1146ff42-ed9f-4033-8db1-a1c8a03bc6b1",
+      "startIndex": 268,
+      "text": "حمزة بن أبي الفتح بن عبد الله عتيق مسافر الطبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "2c3b8826-27b8-4a3c-80f3-42b7eec8966b",
+      "startIndex": 345,
+      "text": "أحمد بن أبي نعيم [...] ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 342,
+      "guid": "3f9079e6-9a90-4bf3-9260-8b32425b1f41",
+      "startIndex": 317,
+      "text": "[... بن علي بن ...] الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "771dd21f-d9b4-411e-9548-f98021e7f003",
+      "startIndex": 234,
+      "text": " محمد بن أبي نصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "2"
+        ],
+        "year": [
+          "514"
+        ]
+      },
+      "endIndex": 404,
+      "guid": "772ceaf0-72c4-4bce-94ad-e87c38b81968",
+      "startIndex": 380,
+      "text": "صفر سنة أربع عشرة وخمسمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "9a56e5c2-ad52-46e5-a734-7dd21a169cf0",
+      "startIndex": 143,
+      "text": "أبي موسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "a9b4a6ab-d6da-46f9-8eeb-697af986de40",
+      "startIndex": 213,
+      "text": " أبي علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "bfcd0606-11af-4e95-807d-76c8785e4ac7",
+      "startIndex": 35,
+      "text": "أبي محمد عبد الغني بن عبد الواحد بن سرور المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "رأيت بخط شيخنا الحافظ الإمام الثبت أبي محمد عبد الغني بن عبد الواحد بن سرور المقدسي في الأصل ما صورته رأيت بخط شيخنا الإمام الناقد قدوة الحفاظ أبي موسى أثابه الله [في الأصل أثباه الله] على الأصل سمع الجزء من الشيخ أبي علي بقراءة الشيخ محمد بن أبي نصر قل هو الله [...] حمزة بن أبي الفتح بن عبد الله عتيق مسافر الطبري و[... بن علي بن ...] الصوفي وأحمد بن أبي نعيم [...] والجماعة في صفر سنة أربع عشرة وخمسمية نقلا عن نسخة قارئه نقله أبو موسى"
+}

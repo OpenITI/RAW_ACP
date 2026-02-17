@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "65v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f68.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f68.item.r=%22arabe%20708%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 712,
+      "guid": "16cb2e2b-de1e-4d10-9668-f2a5a8262e22",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 695,
+      "text": "جامع دمشق بالكلاسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "604"
+        ]
+      },
+      "endIndex": 692,
+      "guid": "22c490bc-05e7-4377-addf-91014df8deb0",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 665,
+      "text": "رابع المحرم سنة أربع وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 904,
+      "guid": "290c1b12-937b-4ff1-bb45-62f32d1b4add",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 831,
+      "text": "الحسن بن علي بن عيسى بن الحسن ويدعا بن علي اللخمي الشافعي عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 544,
+      "guid": "3db5ff68-d102-46f6-a932-a9d1e29ae64e",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 487,
+      "text": "شرف الدين أبو عبد الله الحسين بن إبراهيم بن الحسين الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 610,
+      "guid": "3f25edb4-e5f3-41de-b380-de52a034464f",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 597,
+      "text": "أبو الفضل محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 484,
+      "guid": "4a0159ec-3121-436f-8b5a-f895cbd1eac5",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 426,
+      "text": "ضياء الدين أبو الحسين محمد بن إسماعيل بن عبد الجبار المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 589,
+      "guid": "95be2890-f827-4648-a7ea-91109b8f45c6",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 547,
+      "text": "الحسن بن محمد بن محمد بن محمد البكري التيمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "b566083d-d908-40a0-850c-3df6b4bddda3",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 244,
+      "text": "أبي بكر الخطيب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "bf83948a-d061-4e66-a8e8-fad76e178ddb",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 170,
+      "text": "أبي حفص عمر بن محمد بن معمر البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 404,
+      "guid": "d9db36b3-7e68-4f04-900b-68257f9918cf",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 324,
+      "text": "زكي الدين بقية السلف أبي محمد عبد العظيم بن عبد القوي بن عبد الله المنذري الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "feeb6513-88f4-4058-bcb9-1adaff22939b",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 217,
+      "text": "أبي البدر الكرخي",
+      "type": "person"
+    }
+  ],
+  "text": "نقلت جميع هذا الجزء من أصل شيخنا الحافظ العلامة أبي محمد المنذري حفظه الله وعارضت به وشاهدت في آخره ما مثاله سمع الجزء الخامس من كتاب السنن لأبي داود رحمه الله على الشيخ أبي حفص عمر بن محمد بن معمر البغدادي بسماعه من أبي البدر الكرخي بسماعه من أبي بكر الخطيب بسنده بقراءة صاحب النسخة الشيخ الفقيه الإمام العالم الحافظ الحجة زكي الدين بقية السلف أبي محمد عبد العظيم بن عبد القوي بن عبد الله المنذري الشافعي القاضي الأجل العالم ضياء الدين أبو الحسين محمد بن إسماعيل بن عبد الجبار المقدسي وشرف الدين أبو عبد الله الحسين بن إبراهيم بن الحسين الإربلي والحسن بن محمد بن محمد بن محمد البكري التيمي وأخوه أبو الفضل محمد وجماعة في الأصل المقروء منه بوقف البندهي وكان ذلك في رابع المحرم سنة أربع وستمائة بجامع دمشق بالكلاسة منه وصلى الله على محمد وآله وهذا آخر المجلس الأول نقله إلى ها هنا كما شاهده في الأصل بعد المعارضة حرفا بحرف عبد الله الحسن بن علي بن عيسى بن الحسن ويدعا بن علي اللخمي الشافعي عرف بابن الصيرفي عفا الله عنه والحمد لله وحده وصلواته على سيدنا محمد وآله وصحبه وسلامه."
+}

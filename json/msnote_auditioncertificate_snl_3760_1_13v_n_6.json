@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/1"
+      ],
+      "folio_number": [
+        "13v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "0d490858-9590-48ad-afa6-36100a05abac",
+      "startIndex": 52,
+      "text": "أبو الحسن محمد بن هبة الله بن عبد العزيز القصار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 152,
+      "guid": "1e602861-23ec-4280-9eda-58a45791c850",
+      "startIndex": 141,
+      "text": "جامع المدينة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "475"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "36fa6bf7-ed57-44a3-b7ab-09dd05dd1ba3",
+      "startIndex": 103,
+      "text": "مستهل شوال سنة خمس وسبعين وأربع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "79e3be78-d2a6-458d-a28f-6457624bb175",
+      "startIndex": 169,
+      "text": "نجم الدين محمد بن الزراد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "8a1e43d9-5245-4987-a919-6208c392b8f8",
+      "startIndex": 40,
+      "text": "فارس الذهلي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع المجلسين المذكورين أيضا منه بقراءة فارس الذهلي أبو الحسن محمد بن هبة الله بن عبد العزيز القصار في مستهل شوال سنة خمس وسبعين وأربع ماية بجامع المدينة نقلت ذلك من خط نجم الدين محمد بن الزراد"
+}

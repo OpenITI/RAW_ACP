@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "جزء من الموافقات في مشايخ أبي داود والترمذي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl turc 983"
+      ],
+      "folio_number": [
+        "122r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f125.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f125.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 211,
+      "guid": "21f9a2cf-9914-46ca-9dfb-6fcfe1737016",
+      "index": 166,
+      "isZeroPoint": false,
+      "startIndex": 201,
+      "text": "منزل المسمع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "35c03f72-19a5-4ab7-aa32-4fe359da5b81",
+      "index": 167,
+      "isZeroPoint": false,
+      "startIndex": 247,
+      "text": "محمد المدعو عمر ابن محمد بن فهد الهاشمي المكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "837"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "e3fbfd38-fad1-47b2-9e62-75bef110f203",
+      "index": 165,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "في يوم الخميس سادس شعبان سنة ۸٣٧",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "e53691ec-f086-452d-8477-2e4996653184",
+      "index": 164,
+      "isZeroPoint": false,
+      "startIndex": 46,
+      "text": "زين الدين أبي الفرج عبد الرحمن بن القاضي عماد الدين أبي بكر بن زريق القرشي العمري",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله وقرأت هذا الجزء على أيضا على الأصيل زين الدين أبي الفرج عبد الرحمن بن القاضي عماد الدين أبي بكر بن زريق القرشي العمري بسماعه كما تراه بورقة قبل هذه وصح وثبت في يوم الخميس سادس شعبان سنة ۸٣٧ بمنزل المسمع بسفح قاسيون وأجاز لي غير مرة وكتب محمد المدعو عمر ابن محمد بن فهد الهاشمي المكي عفا الله عنه حامدا مصليا مسلما محسبلا"
+}

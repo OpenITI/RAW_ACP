@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن عثمان الذهبي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "معجم الذهبي الصغير"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 60"
+      ],
+      "classmark": [
+        "3749/9"
+      ],
+      "folio_number": [
+        "217v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "5c7b6ef6-65bc-4960-9cbb-dadf27472832",
+      "index": 74,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "برهان الدين إبراهيم بن محمد بن خليل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "780"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "8a9f28bb-061f-490b-815d-58ec38665e85",
+      "index": 75,
+      "isZeroPoint": false,
+      "startIndex": 243,
+      "text": "يوم الثلثا رابع صفر سنة ثمانين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "e3a31fac-a57d-4a45-a6e8-9b816c29a2c3",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": "فخر الدين محمد بن التقي عبد الله بن إبراهيم بن القاضي نجم الدين أحمد بن الشهاب محمد بن خلف المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 308,
+      "guid": "e3c172c0-4d96-459e-aa0b-f5281feb8387",
+      "index": 76,
+      "isZeroPoint": false,
+      "startIndex": 283,
+      "text": "مسجد الحنابلة بصالحية دمشق",
+      "type": "place"
+    }
+  ],
+  "text": " وسمعه على الشيخ العالم فخر الدين محمد بن التقي عبد الله بن إبراهيم بن القاضي نجم الدين أحمد بن الشهاب محمد بن خلف المقدسي بسماعه باطنها ملحقا بقراءة شيخنا الحافظ برهان الدين إبراهيم بن محمد بن خليل المذكور أعلاه جماعة ماتوا رحمهم الله وصح في يوم الثلثا رابع صفر سنة ثمانين وسبعمية بمسجد الحنابلة بصالحية دمشق وأجاز نقلته من خط القارئ"
+}

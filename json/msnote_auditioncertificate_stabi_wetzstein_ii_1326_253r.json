@@ -1,0 +1,356 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسماعيل البخاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1326"
+      ],
+      "folio_number": [
+        "253r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN769639313/1200/0/00000509.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00023752"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "727"
+        ]
+      },
+      "endIndex": 959,
+      "guid": "12ee4498-79ea-4fd8-9f47-95d0bd2a4ab3",
+      "startIndex": 915,
+      "text": "يوم الأربعاء سابع شوال سنة سبع وعشرين وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 453,
+      "guid": "165afd1a-f140-4c6c-a70d-1d17e9784b3e",
+      "startIndex": 436,
+      "text": "فاطمة بنت البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "176c21a4-4b3a-4ba7-9ed8-d0b10df28a9c",
+      "startIndex": 289,
+      "text": "ابن روزبة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 988,
+      "guid": "27853aba-83a0-4e6c-a4cf-df15da32ac4f",
+      "startIndex": 962,
+      "text": "منزل المسمع بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "47a3c5ef-4a2a-437e-9e5b-4fb23bb2a252",
+      "startIndex": 107,
+      "text": "شهاب الدين أبي العباس أحمد بن أبي طالب بن أبي النِعم نعمة بن حسن بن علي بن بيان الدير مقرني الصالحي الحجَّار المعروف بابن الشحنة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 545,
+      "guid": "566f12c1-6739-4d1f-9de6-68a9f1f5edcd",
+      "startIndex": 539,
+      "text": "الفربري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "6fa51fda-9f7e-49c4-b82b-270c49765fd4",
+      "startIndex": 275,
+      "text": "ابن القطيعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 432,
+      "guid": "79c63f80-5926-4841-85ae-20bd500f12bd",
+      "startIndex": 413,
+      "text": "غانم بن أحمد الجلودي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 376,
+      "guid": "9fd36345-0bab-4919-bc12-98c2cfe30c69",
+      "startIndex": 367,
+      "text": "أبي الوقت ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "b3eabc71-f985-4a92-8c9d-10133384be6d",
+      "startIndex": 329,
+      "text": "أبي الفتوح داود بن الفاخر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "b537966c-3a9e-4c13-9f35-62ec2658d543",
+      "startIndex": 247,
+      "text": "ابن الزبيدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "b9859d30-6096-47da-836e-a05076aaee10",
+      "startIndex": 300,
+      "text": "ابن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 531,
+      "guid": "cbd2399b-6219-4dda-8058-2faa75efe0bf",
+      "startIndex": 511,
+      "text": "محمد بن عمر الشَّبَوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 616,
+      "guid": "da1012cd-9861-45dc-9a70-0cf5be6bfbea",
+      "startIndex": 571,
+      "text": "محمد بن طغريل بن عبد الله المعروف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 869,
+      "guid": "dba21b67-2aba-44d0-820a-6d06936fd35e",
+      "startIndex": 639,
+      "text": "بهاء الدين أبو المجد محمد بن الشيخ صدر الدين أبي الفتح مسعود بن الشيخ جلال الدين مظفر بن الشيخ عز الدين محمد بن الشيخ مجد الدين عبد المجيد بن الشيخ عز الدين مظفر بن الشيخ عز الدين أبي محمد منصور بن مظفر المشهور بزين الكتاب التبريزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 501,
+      "guid": "f9b18cb7-2857-4d0d-950c-47b3a2ffe61a",
+      "startIndex": 466,
+      "text": "سعيد بن أبي سعيد بن أبي سعيد العيّار",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذه المجلدة الخامسة من صحيح البخاري على الشيخ الجليل المسند المعمر الرحلة مسند [...] بقية المشايخ شهاب الدين أبي العباس أحمد بن أبي طالب بن أبي النِعم نعمة بن حسن بن علي بن بيان الدير مقرني الصالحي الحجَّار المعروف بابن الشحنة، بسماعه من ابن الزبيدي (ح) وبإجازته من ابن القطيعي، وابن روزبة وابن اللتي وبإجازته العامة من أبي الفتوح داود بن الفاخر، بسماعهم من أبي الوقت بسنده المشهور، وبسماع ابن الفاخر من غانم بن أحمد الجلودي، وفاطمة بنت البغدادي، قالا أنبأ سعيد بن أبي سعيد بن أبي سعيد العيّار، أنبأنا محمد بن عمر الشَّبَوي، أنبأ الفربري عنه، بقراءة كاتب السماع محمد بن طغريل بن عبد الله المعروف بابن الصيرفي عفا الله عنه، الفقيه بهاء الدين أبو المجد محمد بن الشيخ صدر الدين أبي الفتح مسعود بن الشيخ جلال الدين مظفر بن الشيخ عز الدين محمد بن الشيخ مجد الدين عبد المجيد بن الشيخ عز الدين مظفر بن الشيخ عز الدين أبي محمد منصور بن مظفر المشهور بزين الكتاب التبريزي نفعه الله ونفع به وصح ذلك في مجلسين ثانيهما يوم الأربعاء سابع شوال سنة سبع وعشرين وسبعمئة بمنزل المسمع بسفح جبل قاسيون ظاهر دمشق المحروسة وأجاز لنا الحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه أجمعين وحسبنا الله ونعم الوكيل."
+}

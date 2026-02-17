@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/13"
+      ],
+      "folio_number": [
+        "163r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "25ad1d1f-fc23-4c98-b84b-3333b66433de",
+      "startIndex": 44,
+      "text": "أبي الحسن علي بن أبي نصر بن الصابي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "277bbbd6-0e1a-45fd-a01d-f302ab7d1e2b",
+      "startIndex": 127,
+      "text": "إسماعيل بن يحيى الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "49fc1095-8082-4be1-8a40-b082e9e4dfa3",
+      "startIndex": 155,
+      "text": "أبو القاسم تميم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "6442a176-f64c-48ae-8f57-f8489777b2b4",
+      "startIndex": 98,
+      "text": "المبارك ابن سعد الله الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "6dc91037-bea0-4065-b789-c1a14993e86b",
+      "startIndex": 82,
+      "text": "ابن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "559"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "e13f627b-3df4-49bd-82e4-bca46ffad1e0",
+      "startIndex": 189,
+      "text": "يوم الخميس حادي عشر رجب من السنة [559]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "bab_al-maratib"
+          ]
+        ]
+      },
+      "endIndex": 187,
+      "guid": "f2efbc26-bb19-4b5e-8051-d88c15ad0fd9",
+      "startIndex": 177,
+      "text": "باب المراتب",
+      "type": "place"
+    }
+  ],
+  "text": "وبلغت أيضا سماعا بالقراءة المقدمة على الشيخ أبي الحسن علي بن أبي نصر بن الصابي عن ابن البطر أيضا والمبارك ابن سعد الله الخباز وإسماعيل بن يحيى الخياط وأخي أبو القاسم تميم وذلك بباب المراتب يوم الخميس حادي عشر رجب من السنة [559]"
+}

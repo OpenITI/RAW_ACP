@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن عبد الله الهروي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء أبي سعد الهروي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 132"
+      ],
+      "classmark": [
+        "3763/14"
+      ],
+      "folio_number": [
+        "154r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "03408a4c-9a7b-4114-92e7-9bf1eb44869c",
+      "startIndex": 34,
+      "text": "أبي رشيد محمد بن محمود بن كربربج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "06ca7e36-7173-4f60-915d-036f76c52e87",
+      "startIndex": 117,
+      "text": "أبو الحسين [عبيد الله] بن محمد بن أبي الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "persia",
+            "isfahan",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 191,
+      "guid": "64b47597-3d19-4bab-94fd-7269d649be87",
+      "startIndex": 174,
+      "text": "منزل الشيخ بأصبهان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "576"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "a96b623e-8c51-4aae-b578-3734ba7516d5",
+      "startIndex": 238,
+      "text": "ربيع الآخر] من سنة ست وسبعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "d34e12dd-29dc-4599-ad70-b37f69c6008b",
+      "startIndex": 91,
+      "text": "أبي عبد الله الخلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "e7a908b4-4176-4ebf-933d-f823e759401f",
+      "startIndex": 198,
+      "text": "عبد الغني بن عبد الواحد بن علي المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت الجزء جميعه على الشيخ الجليل أبي رشيد محمد بن محمود بن كربربج بسماعه على [...] الأديب أبي عبد الله الخلال فسمعه أبو الحسين [عبيد الله] بن محمد بن أبي الحسين [...] وذلك بمنزل الشيخ بأصبهان كتبه عبد الغني بن عبد الواحد بن علي المقدسي [ربيع الآخر] من سنة ست وسبعين وخمسماية فصح والحمد لله وحده وصلى الله على رسوله سيدنا محمد النبي وآله وسلم تسليما وحسبنا الله ونعم الوكيل"
+}

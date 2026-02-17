@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد الخازن"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/96958106"
+      ],
+      "work_title": [
+        "لباب التأويل في معاني التنزيل"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 640"
+      ],
+      "folio_number": [
+        "469v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003431/f477.image.r=.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003431/f477.image.r=%22%20Arabe%20640%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "945"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "5446713e-d62e-418e-979b-559f740c9c53",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 135,
+      "text": "في تاسع عشر جمادى الأول سنة خمسة وأربعين وتسعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "78ba39dd-2e70-45a6-8561-020ee778e150",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "يوسف الأرميوني الأزهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "a7d73596-e477-41f5-bbe7-3bbe1a176b7f",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 190,
+      "text": "موسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-azhar_mosque"
+          ]
+        ]
+      },
+      "endIndex": 69,
+      "guid": "bb65f744-8813-46ad-85fa-e221e766fb3f",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 59,
+      "text": "جامع الأزهر",
+      "type": "place"
+    }
+  ],
+  "text": "أكمله قراءة على سيدنا الشيخ الشريف يوسف الأرميوني الأزهري بجامع الأزهر بجنب الرواق المسمى برواق [ا]بن معمر وأجازني بذلك مولانا المذكور في تاسع عشر جمادى الأول سنة خمسة وأربعين وتسعماية كتبه موسى [...]"
+}

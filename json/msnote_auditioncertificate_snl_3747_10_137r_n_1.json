@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن المظفر بن محمد بن موسى بن عيسى البزاز "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 50/51"
+      ],
+      "classmark": [
+        "3747/10"
+      ],
+      "folio_number": [
+        "137r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "603"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "3a895a44-35e9-4c54-a079-d76565da2aa7",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "جمادى سنة ثلث وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 20,
+      "guid": "ae83d621-d94d-4620-a59b-2003667b5670",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 13,
+      "text": "إبراهيم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "b4446d2f-a79a-4a74-acfe-6ac938aa45ef",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 68,
+      "text": "عبد الرحمن بن إبراهيم بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 35,
+      "guid": "da06c431-6f64-4a9a-ad78-a4c812b102a6",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 28,
+      "text": "عز الدين",
+      "type": "person"
+    }
+  ],
+  "text": " سمعته وابني إبراهيم بقراءة عز الدين في جمادى سنة ثلث وستماية وكتبه عبد الرحمن بن إبراهيم بن أحمد"
+}

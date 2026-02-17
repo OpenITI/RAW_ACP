@@ -1,0 +1,356 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " الجزء فيه من حديث عفان بن مسلم الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "43v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000088.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059153"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 399,
+      "guid": "106dee23-e015-4d9b-92e4-4bef193d66ec",
+      "startIndex": 346,
+      "text": "شرف الدين محمد بن محمد بن أبي بكر بن عبد العزيز القدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "775"
+        ]
+      },
+      "endIndex": 757,
+      "guid": "1e474749-e95d-41ef-b181-f0560135d3da",
+      "startIndex": 705,
+      "text": "يوم السبت سابع ذي [الـ]ـحجة عام خمسة وسبعين وسبع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "1f469694-b409-42e7-831c-978485729875",
+      "startIndex": 208,
+      "text": "كمال الدين أبي حامد بن درباس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "zawiyat_al-halawi"
+          ]
+        ]
+      },
+      "endIndex": 703,
+      "guid": "299a60c0-a563-4473-beef-837fe78696d5",
+      "startIndex": 679,
+      "text": "زاوية الشيخ مبارك الحلاوي",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 775,
+      "guid": "3e86bb8f-c591-40de-8ae0-dd86e2975da3",
+      "startIndex": 767,
+      "text": "ابن اللمط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 325,
+      "guid": "4add0ebc-0666-4b70-a869-8b7487f06fa6",
+      "startIndex": 322,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 654,
+      "guid": "4e94d406-933a-4d0e-88be-9de1b0879765",
+      "startIndex": 614,
+      "text": "شمس الدين محمد بن علي بن خالد ابن البيطار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 437,
+      "guid": "5d3a7906-e765-45b1-aaa4-dccf981c6baa",
+      "startIndex": 418,
+      "text": "أبو هريرة عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "5e16010c-8585-48c2-ad3d-ab210567906e",
+      "startIndex": 67,
+      "text": "فتح الدين أبي البركات أحمد بن محمد بن محمد بن محمد ابن النظام العدل القوصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 548,
+      "guid": "6146bade-6bfb-4ace-8a87-a33bded73532",
+      "startIndex": 498,
+      "text": "شمس الدين محمد بن عبد الرحمن بن عبد الخالق البرشنسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 610,
+      "guid": "65aaf19e-b47b-42cb-9a1b-2c2feee33755",
+      "startIndex": 558,
+      "text": "مجد الدين إسماعيل بن أبي الحسن بن علي البرماوي المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 297,
+      "guid": "7c0ce80c-a4cb-40b8-80c9-a850c2f62d5c",
+      "startIndex": 256,
+      "text": "محمد بن محمد بن عبد الرحمن بن حيدرة الدجوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 454,
+      "guid": "c301acca-8fc3-41ac-9fac-b0f99980438a",
+      "startIndex": 441,
+      "text": "ست العرب فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "cef5cec8-9a67-42b0-8964-8bc8966e43ef",
+      "startIndex": 151,
+      "text": "على أبي عمرو عثمان بن أبي حامد بن درباس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 477,
+      "guid": "cfc55276-003f-44d0-bfcb-423d7ea76be7",
+      "startIndex": 458,
+      "text": "أبو المحامد عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 793,
+      "guid": "d2377acc-edba-478e-87ec-87400a5bd8b4",
+      "startIndex": 781,
+      "text": "بي عمرو عثمان",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله وسلام على عباده الذين اصطفى. بلغ السماع لجميعه على الشيخ فتح الدين أبي البركات أحمد بن محمد بن محمد بن محمد ابن النظام العدل القوصي بسماعه، وعلى أبي عمرو عثمان بن أبي حامد بن درباس بسماعه على والده كمال الدين أبي حامد بن درباس بسنده أوله. بقراءة محمد بن محمد بن عبد الرحمن بن حيدرة الدجوي. وهذا خطه فسمع الأولاد محمد ولد القارئ، والشيخ شرف الدين محمد بن محمد بن أبي بكر بن عبد العزيز القدسي، وأولاده الثلاثة أبو هريرة عبد الرحمن، وست العرب فاطمة، وأبو المحامد عبد الله في الثانية، والشيخ شمس الدين محمد بن عبد الرحمن بن عبد الخالق البرشنسي، والشيخ مجد الدين إسماعيل بن أبي الحسن بن علي البرماوي المقرئ، وشمس الدين محمد بن علي بن خالد ابن البيطار، وصح ذلك في مجلس واحد بزاوية الشيخ مبارك الحلاوي يوم السبت سابع ذي [الـ]ـحجة عام خمسة وسبعين وسبع مائة ... على ابن اللمط من أبي عمرو عثمان ... بسنده أوله [ومضروب؟] على جمال الدين عبد الله بن عبد الله بن كثير العزي، وشمس الدين محمد بن خالد بن إسماعيل بن حسان الأنصاري. لم... قال ذلك محمد بن محمد بن عبد الرحمن بن حيدرة الدجوي... ذلك فسبحان من لا يسهو الحمد لله وحده وصلى الله على محمد وآله وصحبه وسلم وحسبنا الله ونعم الوكيل."
+}

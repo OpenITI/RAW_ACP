@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب شرف أصحاب الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. or. Quart 1060"
+      ],
+      "folio_number": [
+        "20r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN655627685/1200/0/00000045.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00021324"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "4d01ff06-e0b2-4b60-9efc-588e126c9cca",
+      "startIndex": 173,
+      "text": "أبي القاسم وهب بن سلمان بن أحمد السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "68d94e02-fe12-42d8-b8c3-9ca8bfe1c4cb",
+      "startIndex": 123,
+      "text": "أبو طاهر بركات بن إبراهيم الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "7bff9092-1566-481e-bfa2-05f9debffd6b",
+      "startIndex": 68,
+      "text": "أبو عبد الله محمد بن حمزة بن محمد بن أبي جميل القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "519"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "8d77e469-a93e-4697-9bfb-95be4320470b",
+      "startIndex": 211,
+      "text": " في شوال تسع عشرة وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "abfbff7f-1dae-4442-8b27-6d3caa5ff552",
+      "startIndex": 23,
+      "text": "أبي محمد عبد الكريم بن حمزة بن الخضر السلمي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على أبي محمد عبد الكريم بن حمزة بن الخضر السلمي، أبو عبد الله محمد بن حمزة بن محمد بن أبي جميل القرشي، وأبو طاهر بركات بن إبراهيم الخشوعي والجماعة بقراءة أبي القاسم وهب بن سلمان بن أحمد السلمي في شوال تسع عشرة وخمس مائة للهجرة النبوية."
+}

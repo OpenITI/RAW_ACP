@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "33r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "649"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "3a0765a3-cc46-4652-9bb6-3fe190c051c2",
+      "startIndex": 110,
+      "text": "رجب سنة تسع وأربعين وستماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "7182aa09-ecf6-4443-958c-c810fd58a150",
+      "startIndex": 11,
+      "text": "شمس الدين أبي عبد الله محمد بن سعيد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "b9ba46c1-14b8-486a-a575-126aa2f7877a",
+      "startIndex": 76,
+      "text": "سليمان بن حمزة بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "ba09bab0-ff34-4c87-b7cd-2513a63cf3ac",
+      "startIndex": 69,
+      "text": "الثقفي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على شمس الدين أبي عبد الله محمد بن سعيد بن عبد الله بسماعه من الثقفي سليمان بن حمزة بن أحمد بقراءته في رجب سنة تسع وأربعين وستماية "
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسماعيل البخاري"
+      ],
+      "work_title": [
+        "ثلاثيات البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 17"
+      ],
+      "classmark": [
+        "3739/2"
+      ],
+      "folio_number": [
+        "21r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "0a0e35f5-52fb-4002-83ce-f0779f9818b6",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 37,
+      "text": "غرس الدين أبي [...] خطلبا بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 411,
+      "guid": "3a382041-d8ad-4d1d-8643-6b94ffb16236",
+      "index": 108,
+      "isZeroPoint": false,
+      "startIndex": 405,
+      "text": "القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "64b337d0-ccc3-4f3f-8350-97ed81e01dcb",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "السديد أبو بكر عبد الله بن أحمد بن علي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "694c411c-90ea-4f0d-bb86-cf8bdac61cb1",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": "أبو الحسن علي بن محمد بن أحمد بن الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "6f9e579f-09fa-4211-9c4e-180db43912e4",
+      "index": 107,
+      "isZeroPoint": false,
+      "startIndex": 356,
+      "text": "يوم الاثنين عشرة ذي الحجة سنة ثلث وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "95ae8725-c139-40f7-80e7-212eec91d4c2",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 119,
+      "text": "أبي البركات أحمد بن نصير بن نبأ المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "d20f65eb-7e48-4cbd-b741-b2505a379456",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 248,
+      "text": "الشمس خليل بن بدران بن خليل الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 351,
+      "guid": "d570e1ad-07ad-41c2-8880-52ed0f7a1c68",
+      "index": 106,
+      "isZeroPoint": false,
+      "startIndex": 314,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    }
+  ],
+  "text": " بلغ السماع لهذه الثلاثيات على الأجل غرس الدين أبي [...] خطلبا بن عبد الله فتا القاضي زين الدين بسماعه فيه نقلا بقراءة أبي البركات أحمد بن نصير بن نبأ المقرئ السديد أبو بكر عبد الله بن أحمد بن علي المقدسي وأبو الحسن علي بن محمد بن أحمد بن الحنبلي والشمس خليل بن بدران بن خليل الصوفي وآخرون لم أتحققهم وكاتب السماع علي بن مسعود بن نفيس الموصلي ثم الحلبي في يوم الاثنين عشرة ذي الحجة سنة ثلث وستين وستمائة بالقاهرة وأجاز للجماعة جميع ما يجوز له روايته والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلامه"
+}

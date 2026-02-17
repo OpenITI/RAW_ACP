@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو نعيم أحمد بن عبد الله بن أحمد الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "تسمية ما انتهى إلينا من الرواة عن أبي نعيم الفضل بن دكين الطلحي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 122"
+      ],
+      "classmark": [
+        "3761/17"
+      ],
+      "folio_number": [
+        "176v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 544,
+      "guid": "00d4e2cc-70e7-4c1a-8c03-b97f062b11fa",
+      "startIndex": 512,
+      "text": "إسماعيل بن إبراهيم بن سالم الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "06a72612-ad7c-43b9-85a0-9a933f3d8c11",
+      "startIndex": 207,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "0cf307a8-c03c-45d3-8b22-5a1107f8e1e8",
+      "startIndex": 146,
+      "text": "محب الدين أبي محمد عبد الله بن أحمد بن محمد بن أبي بكر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 653,
+      "guid": "28c17bfd-e33d-4622-8f28-fc966a22d693",
+      "startIndex": 619,
+      "text": "دار الحديث الأشرفية بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "354922c2-4686-4cfb-a4e8-d74d99c5a99a",
+      "startIndex": 234,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "3582ccc3-1746-4c03-9a2c-62469aad5da5",
+      "startIndex": 297,
+      "text": "أبو بكر بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 337,
+      "guid": "5961d133-43d3-4161-bc85-fae2fd5bcafd",
+      "startIndex": 322,
+      "text": "محمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "657"
+        ]
+      },
+      "endIndex": 616,
+      "guid": "72508b03-3332-4556-97ca-c80b2c39c0ac",
+      "startIndex": 567,
+      "text": "الخميس ثالث عشر شهر شوال من سنة سبع وخمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 451,
+      "guid": "85396d4e-bd2a-40d4-b9ad-144dcf08f2f3",
+      "startIndex": 416,
+      "text": "أحمد ابن علي بن أحمد الحجاوي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 380,
+      "guid": "a6cb6e83-b164-4eee-a66e-0841854623a2",
+      "startIndex": 344,
+      "text": "زين الدين عبد الحليم بن سلمان بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 496,
+      "guid": "ae1021af-f081-4f56-9847-847f3732170a",
+      "startIndex": 456,
+      "text": "محمد بن سيف الدين بكتمر بن عبد الله العزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "b7f4f09b-31b6-40ea-9da2-e213bff9f867",
+      "startIndex": 57,
+      "text": "زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 413,
+      "guid": "c6f88fd6-4c2b-49fb-8644-5790a15322b5",
+      "startIndex": 396,
+      "text": "عبد القادر بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "d45a3381-26be-4073-9393-3cadddf59624",
+      "startIndex": 213,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 286,
+      "guid": "dd287447-bfb1-413f-9046-9cb489fed75f",
+      "startIndex": 255,
+      "text": "عبد الرحمن بن أحمد بن عبد الرحمن",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم الحافظ المسند زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة المقدسي بحق سماعه فيه تراه بقراءة الإمام محب الدين أبي محمد عبد الله بن أحمد بن محمد بن أبي بكر ابناه محمد وأحمد حضر في الخامسة وعلي بن الشيخ المسمع وعبد الرحمن بن أحمد بن عبد الرحمن وابن عمه أبو بكر بن محمد وابن عمه محمد بن عبد الله حضر وزين الدين عبد الحليم بن سلمان بن أحمد وحضر ابن أخيه عبد القادر بن أحمد وأحمد ابن علي بن أحمد الحجاوي المقدسيون ومحمد بن سيف الدين بكتمر بن عبد الله العزي ومثبت الأسماء إسماعيل بن إبراهيم بن سالم الخباز عفا الله عنه في عشية الخميس ثالث عشر شهر شوال من سنة سبع وخمسين وستماية بدار الحديث الأشرفية بسفح جبل قاسيون ظاهر دمشق والحمد لله وحده وصلى الله على محمد وآله وصحبه وسلم تسليما كثيرا دائما أبدا"
+}

@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن موسى الأشيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أبي علي الأشيب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 95"
+      ],
+      "classmark": [
+        "3757/6"
+      ],
+      "folio_number": [
+        "100r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "46f49192-1f02-4ca8-ace2-09defde58799",
+      "index": 87,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "أبي عبد الله محمد بن عبد الواحد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "6bb69e37-6df4-4f27-9177-bd30c1aa4145",
+      "index": 88,
+      "isZeroPoint": false,
+      "startIndex": 94,
+      "text": "زين الدين أبو القاسم عبد الرحمن بن هارون بن محمد الثعلبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "876a9c55-8552-4160-9e3b-1481683dbed2",
+      "index": 90,
+      "isZeroPoint": false,
+      "startIndex": 214,
+      "text": "محمود بن ناصر بن عبيد الله القروي الطائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "631"
+        ]
+      },
+      "endIndex": 362,
+      "guid": "8b74aef6-0db1-4d6f-ba14-56f9974225bf",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 312,
+      "text": "يوم السبت ثالث جمادى الأولى سنة إحدى وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umariya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 395,
+      "guid": "c27a32f3-dfea-43e7-9caf-1f87b81133fc",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 365,
+      "text": "سفح جبل قاسيون بالمدرسة العتيقة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "d4baaf6f-e271-4701-b4aa-5eba877a27bd",
+      "index": 89,
+      "isZeroPoint": false,
+      "startIndex": 159,
+      "text": "جلال الدين أبو الطاهر إسماعيل بن عوض بن حامد الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 289,
+      "guid": "e5248f02-51ce-446d-86c8-5c89b86488aa",
+      "index": 91,
+      "isZeroPoint": false,
+      "startIndex": 256,
+      "text": "علي بن محمد بن علي بن محمد البالسي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ الإمام الحافظ أبي عبد الله محمد بن عبد الواحد بسماعه فيه الفقيه زين الدين أبو القاسم عبد الرحمن بن هارون بن محمد الثعلبي والخطيب جلال الدين أبو الطاهر إسماعيل بن عوض بن حامد الأنصاري ومحمود بن ناصر بن عبيد الله القروي الطائي وعلي بن محمد بن علي بن محمد البالسي وبقراءته وخطه السماع يوم السبت ثالث جمادى الأولى سنة إحدى وثلثين وستماية بسفح جبل قاسيون بالمدرسة العتيقة وصح وثبت"
+}

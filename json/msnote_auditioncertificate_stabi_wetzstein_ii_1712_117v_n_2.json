@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ثلاثة وثلاثون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1712"
+      ],
+      "folio_number": [
+        "117v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.refaiya.uni-leipzig.de/receive/DE1Book_manuscript_00066928"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "682"
+        ]
+      },
+      "endIndex": 562,
+      "guid": "02b8eb6c-36b2-4085-a5a6-b542749d85dc",
+      "startIndex": 504,
+      "text": "عشية يوم الجمعة لتسع مضين من رجب سنة اثنتين وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "47e9313f-0d5b-4d68-a475-0d0063a533d3",
+      "startIndex": 148,
+      "text": "محمد بن إسماعيل بن عبد العزيز بن عيسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 483,
+      "guid": "55346265-0291-4c2c-9159-85f50425331c",
+      "startIndex": 463,
+      "text": "أحمد بن النصير بن نبأ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "8666f59e-bb57-40c6-a94b-50a3f08f1528",
+      "startIndex": 26,
+      "text": "سعد الدين مسعود بن أحمد بن مسعود الحارثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "914bbe68-49cd-4ce7-80ba-822c97386742",
+      "startIndex": 72,
+      "text": " أبو الفرج عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 571,
+      "guid": "9d3397a7-2d7c-49f1-b155-205572275940",
+      "startIndex": 565,
+      "text": "القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "9d605ddd-3932-4978-8d2e-e22094d7788c",
+      "startIndex": 187,
+      "text": "وشهاب الدين أحمد بن قاضي القضاة عز الدين أبي جعفر عمر بن عبد الله بن عمر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 653,
+      "guid": "caadd3f9-f8af-4444-b0b1-101339ff4637",
+      "startIndex": 627,
+      "text": "محمد بن علي بن أيبك السروجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 365,
+      "guid": "d180d123-5e09-4be9-82cb-28c6ec3b5e5c",
+      "startIndex": 270,
+      "text": "عبد الوهاب بن القاضي الأجل الفاضل جمال الدين أبي عمرو عثمان بن أحمد القيسي عُرف بابن أبي الحوافر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 451,
+      "guid": "db94f922-4900-4039-8f1d-e157b92397c9",
+      "startIndex": 369,
+      "text": "أبو المعالي أحمد بن الشيخ شرف الدين أبي محمد الحسن بن علي بن عيسى عُرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "dd6dd63d-b6ab-4c33-b809-08a0ab464c75",
+      "startIndex": 97,
+      "text": "بو أحمد عبد الولي بن بحتر بن حمادي البعلبكي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليها بقراءة الإمام سعد الدين مسعود بن أحمد بن مسعود الحارثي، ولده أبو الفرج عبد الرحمن، وأبو أحمد عبد الولي بن بحتر بن حمادي البعلبكي، وسبطه محمد بن إسماعيل بن عبد العزيز بن عيسى، وشهاب الدين أحمد بن قاضي القضاة عز الدين أبي جعفر عمر بن عبد الله بن عمر المقدسي، وعبد الوهاب بن القاضي الأجل الفاضل جمال الدين أبي عمرو عثمان بن أحمد القيسي عُرف بابن أبي الحوافر، وأبو المعالي أحمد بن الشيخ شرف الدين أبي محمد الحسن بن علي بن عيسى عُرف بابن الصيرفي، وآخرون، وأحمد بن النصير بن نبأ وكتب السماع وصح في عشية يوم الجمعة لتسع مضين من رجب سنة اثنتين وثمانين وستمائة بالقاهرة وأجازت لهم ما يجوز لها روايته.\nنقله وما قبله من الأصل محمد بن علي بن أيبك السروجي عفا الله عنه."
+}

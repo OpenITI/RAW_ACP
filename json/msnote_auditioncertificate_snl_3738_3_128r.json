@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن عبد الله بن أبي سيف المدائني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب التعازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 16"
+      ],
+      "classmark": [
+        "3738/3"
+      ],
+      "folio_number": [
+        "128r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "731"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "043246ee-5cb3-44d5-a18e-0532c9d5b52a",
+      "startIndex": 179,
+      "text": "محرم من سنة إحدى وثلاثين وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "5b1292ba-5682-41af-88cc-db77cc5dd788",
+      "startIndex": 23,
+      "text": "أم عبد الله زينب بنت أحمد بن عبد الرحيم بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 218,
+      "guid": "b1f90e9a-2af1-4f07-9061-96a52ea59f29",
+      "startIndex": 213,
+      "text": "قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "b6a3bb1f-e289-43c9-852e-c7b6babee980",
+      "startIndex": 225,
+      "text": "محمد بن عبد الله بن أحمد بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "c7000dec-4b62-480d-b538-93a118982bfd",
+      "startIndex": 89,
+      "text": "عجيبة ابنة أبي بكر الباقداري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "c8d5bfb8-915e-48f4-aaf9-d37e2a36d16d",
+      "startIndex": 163,
+      "text": "الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "d781ff4e-075f-465c-9237-ce1ebc6f4d10",
+      "startIndex": 130,
+      "text": "مسعود بن الحسن الثقفي",
+      "type": "person"
+    }
+  ],
+  "text": " بلغت قراءة على الشيخة أم عبد الله زينب بنت أحمد بن عبد الرحيم بن عبد الواحد بإجازتها من عجيبة ابنة أبي بكر الباقداري بإجازتها من مسعود بن الحسن الثقفي بإجازته من الخطيب بسنده في محرم من سنة إحدى وثلاثين وسبعمئة بقاسيون وكتب محمد بن عبد الله بن أحمد بن محمد المقدسي سامحه الله"
+}

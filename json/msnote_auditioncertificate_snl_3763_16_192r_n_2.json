@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن سليمان البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي سعد البغدادي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 133"
+      ],
+      "classmark": [
+        "3763/16"
+      ],
+      "folio_number": [
+        "192r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "190df945-4960-4252-a4f5-3efbfe2cf6ad",
+      "startIndex": 261,
+      "text": "يوسف ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "1ce365d7-4d48-4da2-9232-56eca43cf08a",
+      "startIndex": 76,
+      "text": "أبي الحسن محمد بن الإمام أبي جعفر أحمد بن علي القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          "e1bee2f7-d354-4a9d-b280-ea2ab37931d0"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 549,
+      "guid": "2c113be6-46d2-4848-a39d-9876dd31334e",
+      "startIndex": 483,
+      "text": "رشيد الدين أبو موسى عيسى بن سليمان بن عبد الله بن عبد الملك الرعيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 598,
+      "guid": "4ac49f92-64bc-438d-bc4f-440d8cc42a51",
+      "startIndex": 552,
+      "text": "عز الدين أبو الفتح عمر بن محمد بن منصور الأميني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 452,
+      "guid": "4ee0464a-7795-4a38-b5f2-80ff63e74828",
+      "startIndex": 416,
+      "text": "ست العلماء آمنة ابنة الحافظ زكي الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 659,
+      "guid": "5a3bfcd9-784f-4d43-a175-49ced25bb31f",
+      "startIndex": 614,
+      "text": "محمد بن علي بن محمود بن أحمد المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "qalus_mosque"
+          ]
+        ]
+      },
+      "endIndex": 751,
+      "guid": "6ed2f8f8-5ce6-4e21-aee8-c1bd20599a5a",
+      "startIndex": 727,
+      "text": "مسجد قلوس ظاهر مدينة دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 413,
+      "guid": "9c19329f-138c-4cf5-8a07-0ef72929d573",
+      "startIndex": 363,
+      "text": "علاء الدين أبو المعالي محمد بن جامع بن باقي التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "a5370d12-b4dd-46b5-994c-b7341f267696",
+      "startIndex": 292,
+      "text": "نجيب الدين أبو الفتح نصر الله بن أبي العز بن أبي طالب الشيباني الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "627"
+        ]
+      },
+      "endIndex": 724,
+      "guid": "b6a8596a-eb4c-4e63-8180-c280d955508c",
+      "startIndex": 677,
+      "text": "الجمعة ثالث عشر شهر رمضان سنة سبع وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "e34e84fb-1e54-4d95-946e-0cbfd6faedd8",
+      "startIndex": 213,
+      "text": "أبو عبد الله محمد بن يوسف بن محمد البزالي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء من لفظ الإمام العالم الزاهد الورع تاج الدين جمال الإسلام أبي الحسن محمد بن الإمام أبي جعفر أحمد بن علي القرطبي بسماعه فيه نقلا صاحبه الإمام العالم الحافظ البارع زكي الدين عمدة النقلة محدث الشام أبو عبد الله محمد بن يوسف بن محمد البزالي وولده يوسف جبره الله والأئمة العلماء نجيب الدين أبو الفتح نصر الله بن أبي العز بن أبي طالب الشيباني الصفار وعلاء الدين أبو المعالي محمد بن جامع بن باقي التميمي وست العلماء آمنة ابنة الحافظ زكي الدين صاحب الجزء حاضرة في الرابعة ورشيد الدين أبو موسى عيسى بن سليمان بن عبد الله بن عبد الملك الرعيني وعز الدين أبو الفتح عمر بن محمد بن منصور الأميني وكاتب الأسماء محمد بن علي بن محمود بن أحمد المحمودي الصابوني وصح وثبت في يوم الجمعة ثالث عشر شهر رمضان سنة سبع وعشرين وستماية بمسجد قلوس ظاهر مدينة دمشق والحمد لله وصلواته على سيدنا محمد وآله"
+}

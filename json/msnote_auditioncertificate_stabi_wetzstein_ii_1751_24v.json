@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهیم ابن جماعة"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأحاديث الأربعون التُساعيات الإسناد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1751"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00064313"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1140,
+      "guid": "0387c2bc-5a24-48df-abfb-633132f8035f",
+      "startIndex": 1137,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 370,
+      "guid": "05500d28-24ec-42ac-bc58-c6c8b1e241d5",
+      "startIndex": 343,
+      "text": "عز الدين أبي محمد عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-salihyia_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 1267,
+      "guid": "07a4a052-baa7-46c5-897d-3af3000c28d7",
+      "startIndex": 1235,
+      "text": "المدرسة الصالحية بالقاهرة المعزية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 636,
+      "guid": "2284e41a-d46b-4968-b2d1-3fb44f17ae64",
+      "startIndex": 585,
+      "text": " كمال الدين أبو العباس أحمد بن محمد بن محمد الشيرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 757,
+      "guid": "32544857-77e2-4bb4-88eb-314dcef0c453",
+      "startIndex": 715,
+      "text": "زين الدين أبو بكر بن قاسم بن أبي بكر الرحبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "6643617b-9842-48ee-b55b-10424bac8790",
+      "startIndex": 113,
+      "text": "بدر الدين أبي عبد الله محمد بن الإمام العلامة برهان الدين أبي إسحق إبراهيم بن سعد الله بن جماعة الكناني الحموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 711,
+      "guid": "7c7f922a-8d1e-4cfa-847c-36dde8b43279",
+      "startIndex": 647,
+      "text": "شمس الدين محمد بن أحمد بن عيسى بن محمود بن المجد الشافعي البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1129,
+      "guid": "93b9abad-2fcc-4cb4-a2e2-58d487df4192",
+      "startIndex": 1071,
+      "text": "عبد الرحمن بن [يوسف] ابن الزكي عبد الرحـ[ـمن] بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "719"
+        ]
+      },
+      "endIndex": 1232,
+      "guid": "a5135a10-670b-4513-8625-f44f811447d2",
+      "startIndex": 1191,
+      "text": "يوم الثلاثاء رابع صفر سنة تسع عشرة وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 545,
+      "guid": "c258a9a7-9a96-4448-a019-dbb0f064f40b",
+      "startIndex": 476,
+      "text": "شهاب الدين أبي العباس أحمد بن نصر الله بن إبراهيم بن سعد الله بن جماعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 546,
+      "guid": "e3c40e6a-31a1-43cd-abd2-1f4eb6c16bde",
+      "startIndex": 421,
+      "text": "شرف الدين أبو محمد عبد الله بن الشيخ الصالح بقية السلف شهاب الدين أبي العباس أحمد بن نصر الله بن إبراهيم بن سعد الله بن جماعة ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذه الأربعين على مخرجها العبد الفقير إلى الله تعالى سيدنا ومولانا قاضي القضاة سيد العلماء بركة المسلمين بدر الدين أبي عبد الله محمد بن الإمام العلامة برهان الدين أبي إسحق إبراهيم بن سعد الله بن جماعة الكناني الحموي أمتع الله المسلمين بطول بقائه بروايته عن شيوخه بقراءة ولده الإمام العالم زين المحدثين صدر المدرسين خطيب الخطباء القاضي عز الدين أبي محمد عبد العزيز. صاحبها وكاتبها الفقيه الإمام العالم سيد الأصحاب شرف الدين أبو محمد عبد الله بن الشيخ الصالح بقية السلف شهاب الدين أبي العباس أحمد بن نصر الله بن إبراهيم بن سعد الله بن جماعة ووالـ[ده]، أبقاهما الله تعالى والعلامة كمال الدين أبو العباس أحمد بن محمد بن محمد الشيرازي، والإمام شمس الدين محمد بن أحمد بن عيسى بن محمود بن المجد الشافعي البعلبكي، وزين الدين أبو بكر بن قاسم بن أبي بكر الرحبي، والإمام عماد [...] أبو عبد الله محمد [...] الدمياطي [...] بدر الدين حسن [...] محمد البغدادي ونور الدين ونور الدين علي [...] ابن أحمد الشا[...] محمد والشيخ أبو [...] عبد الرحيم بن [...] السمنودي [...] عمر بن إبراهيم بن محمد [...] وعلي بن محمد بن [...] ابن خباز [...] وعلاء الدين علي بن [...] ابن عبد الله [...]، عبد الرحمن بن [يوسف] ابن الزكي عبد الرحـ[ـمن] بن يوسف المزي وأخوه محمد وهذا خطه وآخرون بفوات لم يضبطوا [وصحَّ] ذلك وثبت يوم الثلاثاء رابع صفر سنة تسع عشرة وسبعمئة بالمدرسة الصالحية بالقاهرة المعزية وأجاز سيدنا قاضي القضاة حرسه [الله] تعالى للجماعة السامعين جميع ما تجوز له وعنه روايته بشرطه."
+}

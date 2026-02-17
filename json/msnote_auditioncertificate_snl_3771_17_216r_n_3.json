@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عثمان بن أحمد بن عبد الله بن يزيد الدقاق المعروف بابن السماك "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد أبي عمرو عثمان الدقاق أو حديث حنبل بن إسحق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 182"
+      ],
+      "classmark": [
+        "3771/17"
+      ],
+      "folio_number": [
+        "216r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "09f0444a-1d3c-4c26-bfcd-d862a4069ef9",
+      "startIndex": 82,
+      "text": "محمد بن منصور الحسيني الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "48b2fa07-c5b6-49bc-b22e-371c1cdaa177",
+      "startIndex": 26,
+      "text": "برهان الدين إبراهيم بن أحمد العجلوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "98609c05-366e-4884-a433-a7b24b500df7",
+      "startIndex": 129,
+      "text": "قاسم الرومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 197,
+      "guid": "b42d87b5-3d53-4901-8c7c-103f5900c296",
+      "startIndex": 194,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "886"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "da70b6ed-df3d-4b2e-9a8d-ca4921a7c1c7",
+      "startIndex": 149,
+      "text": "عاشر شهر ربيع الأول سنة ست وثمانين وثمانمئة",
+      "type": "date"
+    }
+  ],
+  "text": "الحمد لله قرأه على الإمام برهان الدين إبراهيم بن أحمد العجلوني بسماعه أعلاه العبد محمد بن منصور الحسيني الحلبي وذا خطه فسمع فتاه قاسم الرومي وذلك في عاشر شهر ربيع الأول سنة ست وثمانين وثمانمئة بدمشق"
+}

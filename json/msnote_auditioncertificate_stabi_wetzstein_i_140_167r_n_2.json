@@ -1,0 +1,516 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد ابن سعد الزهري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " المجلدة التاسعة من كتاب الطبقات الكبير من الاصل"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein I 140"
+      ],
+      "folio_number": [
+        "167r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        "6fa04dd0-83e8-4597-86cd-3367e6cdcb9a"
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00012025"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 998,
+      "guid": "2c9df6ee-b1ab-43ed-9a46-6232f288d535",
+      "startIndex": 960,
+      "text": "عبد اللطيف بن عمر بن أبي الحسن اللبَّان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 564,
+      "guid": "2dfcc1e9-3486-4671-8c38-709fdbe3f1a2",
+      "startIndex": 561,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 323,
+      "guid": "35caeb0d-0a3d-4a8f-bc5b-719bb8a8c41e",
+      "startIndex": 279,
+      "text": "أبو العباس سعيد بن هبة الله بن ريحان الإنباري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 956,
+      "guid": "38018579-b4fc-47c2-b924-ed8f9b220155",
+      "startIndex": 923,
+      "text": "أبو عبد الله الحسين بن محمد الشطوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 397,
+      "guid": "4252fa41-a143-41b2-b6d7-93ce67a306ee",
+      "startIndex": 367,
+      "text": "عثمان بن محمد بن مبارك الحَربوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 557,
+      "guid": "4c4e45d0-9961-42b6-af2d-1d1a3a404056",
+      "startIndex": 521,
+      "text": "أبو البركات هبة الله بن محمد بن مسافر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "545037be-2ba8-4544-9ac7-613e2ad9a81f",
+      "startIndex": 37,
+      "text": "أبي طاهر يحيى بن مقبل بن أحمد بن بركة بن الصدر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "7b6661f0-2518-4af7-bef8-941ba669dce1",
+      "startIndex": 182,
+      "text": "أبو علي حسن بن مسلم ابن أبي الحسن الفارسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "iraq",
+            "basra"
+          ]
+        ]
+      },
+      "endIndex": 1316,
+      "guid": "82ffb0ad-64ec-46ee-8dc2-f6a4e35bf0cd",
+      "startIndex": 1307,
+      "text": "باب البصرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 919,
+      "guid": "878ff757-32c6-45f0-a9ac-3bf7d0d75dc3",
+      "startIndex": 836,
+      "text": "تاج الدين أبو القاسم علي بن الوزير السعيد عون الدين أبي المظفر يحيى بن محمد بن هبيرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 517,
+      "guid": "88519607-e1c9-4977-acd8-a42ecceaff8c",
+      "startIndex": 474,
+      "text": "أبو الفتوح عبد الله بن الحسين بن محمد الشطوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 470,
+      "guid": "913ace24-7386-49bd-96b1-d5c0f9e6a9f8",
+      "startIndex": 430,
+      "text": "أبو المعالي محمد بن أحمد بن صالح بن [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 653,
+      "guid": "94b88f8d-2b35-4955-b6c9-f23a996aa4f1",
+      "startIndex": 614,
+      "text": "عفيفة بنت بن هبة بن الغانم بن [البندار؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "94c7e9d5-56ba-4766-b536-a7adc5dad632",
+      "startIndex": 226,
+      "text": "نجم الدين أبو المكارم يعيش بن مالك بن ريحان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1134,
+      "guid": "980ffe1b-c568-4913-a759-e20df0b56137",
+      "startIndex": 1048,
+      "text": "تاج الدين أبي القاسم علي بن الوزير السعيد عون الدين بن أبي المظفر يحيى بن محمد بن هبيرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 748,
+      "guid": "af956eaf-30d3-4a7e-8345-9a02427bd524",
+      "startIndex": 739,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "b7024b65-1561-4a9e-a0cc-067283da7372",
+      "startIndex": 108,
+      "text": "أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 610,
+      "guid": "be6af3d1-61af-431f-a011-786581efdfad",
+      "startIndex": 567,
+      "text": "أبو القاسم بن أبي الكرم بن أبي محمد بن كيلان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "c03904f8-dcfc-4fd9-be26-6188f968df1c",
+      "startIndex": 134,
+      "text": "محمد بن محمد بن مشق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 426,
+      "guid": "c6e3b770-e191-485e-b3cc-dfd294cc529d",
+      "startIndex": 401,
+      "text": "أبو يُعلى بن البدر بن صالح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 778,
+      "guid": "c99a1cc6-9702-46e2-8ee6-6b752727def0",
+      "startIndex": 751,
+      "text": "عبد الرحيم [الزكيان؟] الحران",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "586"
+        ]
+      },
+      "endIndex": 1304,
+      "guid": "d3fc083a-6528-4cfc-b6b2-17ae259bc90b",
+      "startIndex": 1259,
+      "text": "الخميس من جمادى الأول سنة ست وثمانين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 349,
+      "guid": "e37809b7-b1ee-4d6c-9efa-98d5f51167b9",
+      "startIndex": 332,
+      "text": "أبو عبد [...] محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 725,
+      "guid": "eb7b0898-3ec0-4949-ae1b-6008aa5157db",
+      "startIndex": 675,
+      "text": "الشريف الأجل بن علي بن عبد [...] بن أبي موسى الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "ed901e90-79f1-4c4b-9eb3-84f086180579",
+      "startIndex": 357,
+      "text": "إبراهيم",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا المجلد على الشيخ الإمام أبي طاهر يحيى بن مقبل بن أحمد بن بركة بن الصدر بحق سماعه فيه من القاضي أبي بكر رحمه الله. بقراءة محمد بن محمد بن مشق، الشيخ الإمام العالم الصالح أبو علي حسن بن مسلم ابن أبي الحسن الفارسي، ونجم الدين أبو المكارم يعيش بن مالك بن ريحان الفقيه، وأبو العباس سعيد بن هبة الله بن ريحان الإنباري، وولده أبو عبد [...] محمد، وعمه إبراهيم، وعثمان بن محمد بن مبارك الحَربوي، وأبو يُعلى بن البدر بن صالح، وأبو المعالي محمد بن أحمد بن صالح بن [...]، وأبو الفتوح عبد الله بن الحسين بن محمد الشطوي، وأبو البركات هبة الله بن محمد بن مسافر، ومحمد وأبو القاسم بن أبي الكرم بن أبي محمد بن كيلان، وعفيفة بنت بن هبة بن الغانم بن [البندار؟]، وسمع الأول والثالث الشريف الأجل بن علي بن عبد [...] بن أبي موسى الخطيب، وسمع جميعه عبد الرحمن وعبد الرحيم [الزكيان؟] الحران، وسمع المجلس الأول والثاني وآخر [...]مكتوم، الأجل السيد تاج الدين أبو القاسم علي بن الوزير السعيد عون الدين أبي المظفر يحيى بن محمد بن هبيرة، وأبو عبد الله الحسين بن محمد الشطوي، وعبد اللطيف بن عمر بن أبي الحسن اللبَّان، في آخرين، وناول الشيخ المسموع عليه الأجل السيد تاج الدين أبي القاسم علي بن الوزير السعيد عون الدين بن أبي المظفر يحيى بن محمد بن هبيرة هذا المجـ[ـلد] وأذن له في روايته عنه فكمل له بعضه من العلامة المذكورة سماع وباقيه مناولة فصح وكمل وذلك في ثلاث مجالس آخرها الخميس من جمادى الأول سنة ست وثمانين وخمس مائة بباب البصرة . وباقي الأسماء مثبته على الأصل المنقول منه ..."
+}

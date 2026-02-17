@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن محمد الأصبهاني الدقاق "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "معجم مشايخ الدقاق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 173"
+      ],
+      "classmark": [
+        "3770/7"
+      ],
+      "folio_number": [
+        "114r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "623"
+        ]
+      },
+      "endIndex": 392,
+      "guid": "0e5e301a-809a-4315-9a3a-0d46f7933083",
+      "startIndex": 363,
+      "text": "الجمعة سنة ثلاث وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "108fcd1d-f7c3-4ed9-ba98-758d99b22cac",
+      "startIndex": 172,
+      "text": "مسعود الجمال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 405,
+      "guid": "2cc006d4-5d0b-4f53-a66e-ca7714dfac5a",
+      "startIndex": 395,
+      "text": "مسجد المسمع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "2f781cd6-bcbe-4d18-9cd2-0114179762b7",
+      "startIndex": 66,
+      "text": "جمال الدين أبي موسى عبد الله ابن الحافظ أبي محمد عبد الغني بن عبد الواحد بن علي بن سرور المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 348,
+      "guid": "a2e1c939-5d67-473e-b18e-b53a1b91d7c9",
+      "startIndex": 311,
+      "text": "محمد بن يوسف بن محمد البرازلي الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 302,
+      "guid": "bac9e004-7b62-4810-8bec-ca31a1e02924",
+      "startIndex": 239,
+      "text": " كمال الدين أبو العباس أحمد بن أبي الفضائل بن أبي المجد الدخميسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء المعجم والإملاء الذي في آخره على الحافظ الإمام جمال الدين أبي موسى عبد الله ابن الحافظ أبي محمد عبد الغني بن عبد الواحد بن علي بن سرور المقدسي بسماعه من مسعود الجمال صاحبه السيد الفاضل العالم الرئيس المتقن المحدث النحرير كمال الدين أبو العباس أحمد بن أبي الفضائل بن أبي المجد الدخميسي بقراءة محمد بن يوسف بن محمد البرازلي الإشبيلي وهذا خطه يوم الجمعة سنة ثلاث وعشرين وستماية بمسجد المسمع سابع جمادى الآخرة وصح وثبت"
+}

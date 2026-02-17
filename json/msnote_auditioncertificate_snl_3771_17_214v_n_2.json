@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عثمان بن أحمد بن عبد الله بن يزيد الدقاق المعروف بابن السماك "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد أبي عمرو عثمان الدقاق أو حديث حنبل بن إسحق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 182"
+      ],
+      "classmark": [
+        "3771/17"
+      ],
+      "folio_number": [
+        "214v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "303180e1-c376-4453-b16b-f2fc2fdac8bf",
+      "startIndex": 63,
+      "text": "أبو نصر أحمد بن الفرج الإبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "497"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "4e4a3c55-177b-4853-a6e4-632ff9b88205",
+      "startIndex": 121,
+      "text": " الاثنين النصف من محرم سنة سبع وتسعين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "c503d58a-b4fb-463c-8cfe-75f52d7efa2a",
+      "startIndex": 99,
+      "text": "شهدة فخر النساء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "db371bfe-2b25-40dd-8e8b-d5f0de79c38c",
+      "startIndex": 18,
+      "text": "محمد بن عبد الله بن أحمد البغدادي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة محمد بن عبد الله بن أحمد البغدادي جماعة منهم أبو نصر أحمد بن الفرج الإبري وابنته شهدة فخر النساء في يوم الاثنين النصف من محرم سنة سبع وتسعين وأربعمائة"
+}

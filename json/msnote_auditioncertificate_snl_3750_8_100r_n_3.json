@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن علي بن عبد الله الطامذي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد الطامذي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 64 "
+      ],
+      "classmark": [
+        "3750/8"
+      ],
+      "folio_number": [
+        "100r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "02ca4db1-625b-48cf-8162-38fa14433cab",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 127,
+      "text": " العماد ابن عبد الهادي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "606daea7-fdad-44e4-b7b0-95af806039f8",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 95,
+      "text": "علي بن أحمد المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "68bf4a9f-1f58-45a7-9a8e-5600097112d6",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "فاطمة بنت الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "870"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "74251457-140c-4e33-90f3-2ae68c3bd55a",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "يوم السبت ثامن المحرم سنة سبعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "99693221-0977-40c1-9169-ad4733321000",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 218,
+      "text": "يوسف بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "ba0b6866-b3ff-49ba-a5f2-26ef577d5d55",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 82,
+      "text": "ابن البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "d357ae82-9b14-450d-b7bf-7fdb0044489a",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "ابن الحرستاني",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخة الأصيلة فاطمة بنت الحرستاني بإجازتها من ابن الحرستاني وابن البالسي وعلي بن أحمد المرداوي بإجازتهم من العماد ابن عبد الهادي وصح ذلك وثبت يوم السبت ثامن المحرم سنة سبعين وثمان ماية وأجازت وكتب يوسف بن عبد الهادي وأخبرني بن جماعة من شيوخنا إجازة بإجازتهم من ابن المحب "
+}

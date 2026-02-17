@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عثمان بن أحمد بن عبد الله بن يزيد الدقاق المعروف بابن السماك "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد أبي عمرو عثمان الدقاق أو حديث حنبل بن إسحق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 182"
+      ],
+      "classmark": [
+        "3771/17"
+      ],
+      "folio_number": [
+        "197v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "497"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "24d0057c-a03e-4142-9364-d2aa2841e593",
+      "startIndex": 41,
+      "text": "محرم سنة سبع وتسعين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 11,
+      "guid": "8801f10d-0809-4503-9532-44aaa885cb8a",
+      "startIndex": 7,
+      "text": "شهدة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "9cd84179-fb5f-42e4-aaac-338d1db6eb30",
+      "startIndex": 14,
+      "text": " أبي الحسين ابن الطيوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "f8791842-7e26-4149-9203-886e215617e0",
+      "startIndex": 102,
+      "text": "عبد الله بن محمد الأشتري",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعته شهدة من أبي الحسين ابن الطيوري في محرم سنة سبع وتسعين وأربعمائة نقلته كما شاهدته في الأصل وكتب عبد الله بن محمد الأشتري ومن خطه نقلته بنصه"
+}

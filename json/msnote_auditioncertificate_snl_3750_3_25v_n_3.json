@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي المقري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند نافع بن أبي نعيم المقري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 61- 62 "
+      ],
+      "classmark": [
+        "3750/3"
+      ],
+      "folio_number": [
+        "25v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 612,
+      "guid": "03f3658e-93e5-4036-b760-340dba8b894b",
+      "startIndex": 576,
+      "text": "عبد الله بن أبي القاسم بن علي المراغي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "0f521602-1a59-4b16-94a2-f3882ddbb2a9",
+      "startIndex": 90,
+      "text": "زين الدين أبي الحسن علي بن محمد بن علي بن جميل المعافري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "jerusalem",
+            "al-aqsa_mosque"
+          ]
+        ]
+      },
+      "endIndex": 707,
+      "guid": "2f39b2a4-01b2-4e67-8b9f-3d0c0f88ac05",
+      "startIndex": 695,
+      "text": "المسجد الأقصى",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 380,
+      "guid": "5df0dee2-2f43-4be6-bcd7-fa5bc3bf958f",
+      "startIndex": 336,
+      "text": "أبو الحسن علي بن أحمد بن محمد بن علي المعافري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "604"
+        ]
+      },
+      "endIndex": 757,
+      "guid": "6b80f795-66dc-49ac-a2da-6762a9fcbf13",
+      "startIndex": 711,
+      "text": " السادس عشر من شهور ربيع الاخر سنة أربع وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "755c1ba1-2c04-4f05-86f5-83bc12a22303",
+      "startIndex": 195,
+      "text": "أبي الفرج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 662,
+      "guid": "79fe4135-a612-40d2-9d58-f2f549aad151",
+      "startIndex": 638,
+      "text": "يوسف بن علي بن زيد الزهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 286,
+      "guid": "8d7e6316-afd3-4d83-b796-047fd0da29e6",
+      "startIndex": 225,
+      "text": "نجيب الدين أبو الثناء فارس بن إبراهيم بن محمد بن نافع الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 573,
+      "guid": "ac969409-570a-4ef2-ab98-cec5aceca0ea",
+      "startIndex": 544,
+      "text": "حسين بن سفيان بن محمد القزويني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 512,
+      "guid": "b5edaf5c-cfc3-45cd-b3fd-3496536a463e",
+      "startIndex": 470,
+      "text": "هبة الله بن أبي العساكر بن عبد الغني الضراب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 423,
+      "guid": "c7ac99b7-fead-4b49-8d34-5eb575ff1332",
+      "startIndex": 392,
+      "text": "ياقوت بن عنبر بن [عتبة؟] النجاشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 541,
+      "guid": "ecd0443b-d5ee-45d6-bd38-ab6f4bd9ca00",
+      "startIndex": 515,
+      "text": "كامل بن حسن بن محمد المغربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 333,
+      "guid": "f8b8b86d-d12a-41e2-af63-9a742f2607ec",
+      "startIndex": 289,
+      "text": "أبو محمد عبد الله بن حسن بن أبي السعود اليمني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 467,
+      "guid": "fc056397-3316-4b71-bfbd-077ad5c597cf",
+      "startIndex": 426,
+      "text": "أبو علي بن أبي طاهر بن أبي التائب البيروتي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء من حديث ابن المقري على الشيخ الأجل الإمام العالم الأوحد الورع المحترم زين الدين أبي الحسن علي بن محمد بن علي بن جميل المعافري خطيب المسجد الأقصى أثابه الله الجنة بحق سماعه من أبي الفرج الفقيه الأجل الأمجد نجيب الدين أبو الثناء فارس بن إبراهيم بن محمد بن نافع الأنصاري وأبو محمد عبد الله بن حسن بن أبي السعود اليمني وأبو الحسن علي بن أحمد بن محمد بن علي المعافري والافتخار ياقوت بن عنبر بن [عتبة؟] النجاشي وأبو علي بن أبي طاهر بن أبي التائب البيروتي وهبة الله بن أبي العساكر بن عبد الغني الضراب وكامل بن حسن بن محمد المغربي وحسين بن سفيان بن محمد القزويني وعبد الله بن أبي القاسم بن علي المراغي وسمع جماعة آخرون بقراءة يوسف بن علي بن زيد الزهري وهذا خطه عفا الله عنه وصح ذلك بالمسجد الأقصى في السادس عشر من شهور ربيع الاخر سنة أربع وستماية والحمد لله حق حمده وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم تسليما حسبنا الله ونعم الوكيل "
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "60v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "18469206-1f24-4bc1-bfc1-d4ee44504920",
+      "startIndex": 167,
+      "text": "ابن النقور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 403,
+      "guid": "46a20d07-8e26-42ba-9f9b-4eaf057c46ea",
+      "startIndex": 384,
+      "text": "جعفر بن محمد العباسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 301,
+      "guid": "6087bb57-fb2e-4880-ad9b-b8c6bc29ccd8",
+      "startIndex": 259,
+      "text": "عبد الرحمن ابن علي بن محمد بن علي بن الجوزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "60b1bca7-db1f-4c26-8a2e-88350e4c0ea4",
+      "startIndex": 178,
+      "text": "أبو الفتح بن أبي السعادات بن ملازق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "7e5ae83d-0b4b-48e3-ba66-ec8f0e6f56a7",
+      "startIndex": 107,
+      "text": "أبي الفتح عبد الله بن محمد بن محمد بن البيضاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "534"
+        ]
+      },
+      "endIndex": 377,
+      "guid": "908a03dc-96d3-4832-a2d0-fb565e244cc6",
+      "startIndex": 319,
+      "text": "يوم الخميس رابع عشر ربيع الأول من سنة أربع وثلثين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "edda5204-df78-43b2-ad1d-d69ebbf2876b",
+      "startIndex": 214,
+      "text": "أبو القاسم بن صدقة بن علي الكوثي",
+      "type": "person"
+    }
+  ],
+  "text": "صورة طبقة سماع أخرى على الوجه سمع جميع هذا الجزء على القاضي الأجل الأرشد معين الدين شمس الإسلام فخر القضاة أبي الفتح عبد الله بن محمد بن محمد بن البيضاوي بحق سماعه من ابن النقور أبو الفتح بن أبي السعادات بن ملازق وأبو القاسم بن صدقة بن علي الكوثي وذلك بقراءة عبد الرحمن ابن علي بن محمد بن علي بن الجوزي وعارض بنسخته في يوم الخميس رابع عشر ربيع الأول من سنة أربع وثلثين وخمس ماية نقله جعفر بن محمد العباسي عفا الله عنه من خط أبي الفرج بن الجوزي المذكور من الأصل"
+}

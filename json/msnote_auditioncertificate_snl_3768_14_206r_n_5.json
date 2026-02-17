@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد جعفر بن أحمد بن الحسين السراج القارئ "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتخبة الصحاح العوالي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 165"
+      ],
+      "classmark": [
+        "3768/14"
+      ],
+      "folio_number": [
+        "206r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "495"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "017f7f92-f2f9-4873-9dbf-fbed4852f461",
+      "startIndex": 66,
+      "text": "رجب سنة خمس وتسعين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "07220850-159f-4858-a65c-1b02082f4390",
+      "startIndex": 40,
+      "text": " أبي نصر الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 32,
+      "guid": "4b611099-fd90-4a9d-b647-8e7728810216",
+      "startIndex": 12,
+      "text": "ابن حنيفة أبي المعالي",
+      "type": "person"
+    }
+  ],
+  "text": "وسماع شيخنا ابن حنيفة أبي المعالي بقراءة أبي نصر الأصبهاني في شهر رجب سنة خمس وتسعين وأربعمائة"
+}

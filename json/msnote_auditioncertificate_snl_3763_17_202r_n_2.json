@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عمر بن روح بن علي النهرواني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر النهرواني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 133"
+      ],
+      "classmark": [
+        "3763/17"
+      ],
+      "folio_number": [
+        "202r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "0559a8cb-7700-4ba6-a704-93ddac979f45",
+      "startIndex": 116,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "72c17188-5b7b-4c4c-b02b-353fe635613b",
+      "startIndex": 9,
+      "text": "شهاب الدين أحمد بن سليمان بن أحمد بن سليمان المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "782"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "72e9d978-b643-4f0b-a13d-5daa8297de6e",
+      "startIndex": 65,
+      "text": "رمضان سنة اثنيتن وثمانين [وسبعمية]",
+      "type": "date"
+    }
+  ],
+  "text": "قرأه علي شهاب الدين أحمد بن سليمان بن أحمد بن سليمان المرداوي في رمضان سنة اثنيتن وثمانين [وسبعمية] عن الشيخين كتبه محمد بن المحب"
+}

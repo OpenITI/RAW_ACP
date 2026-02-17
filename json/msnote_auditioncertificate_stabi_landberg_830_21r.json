@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن احمد الذهبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " مجلسان من امالي حمزة بن حمزة "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 830"
+      ],
+      "folio_number": [
+        "21r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1831174081/1200/0/00000047.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007489"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "al-maytur"
+          ]
+        ]
+      },
+      "endIndex": 222,
+      "guid": "2e8a5508-a07a-4233-a87f-2676dced6d46",
+      "startIndex": 216,
+      "text": "الميطور",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "31d839d0-f3f0-4f7e-a9e9-43f895b47acf",
+      "startIndex": 69,
+      "text": "أبي البركات المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "640"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "3efa25a5-9cbe-4d57-9971-e6069f2dbb34",
+      "startIndex": 187,
+      "text": "في رمضان سنة أربعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "46f16a42-5a33-4b6e-b6bc-ad8ec221e2dc",
+      "startIndex": 130,
+      "text": "حسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "6aaafe6c-9c26-414e-879a-bab568682992",
+      "startIndex": 228,
+      "text": " الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "711a8ecd-ffcf-46d4-b5e1-23b089f8eed6",
+      "startIndex": 125,
+      "text": "حسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "994af06e-8050-486b-963c-b7c059de92a5",
+      "startIndex": 119,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "b535bd07-81d7-4b29-93b3-e47951b730af",
+      "startIndex": 171,
+      "text": "أحمد بن الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "bcb90f71-0638-430a-9489-b78278bf30b5",
+      "startIndex": 18,
+      "text": "أم الفضل كريمة ابنه عبد الوهاب القرشية",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على أم الفضل كريمة ابنه عبد الوهاب القرشية بإجازتها من أبي البركات المقدسي في سنة ثلاث وخمسين [وخمسمائة] محمد وحسن وحسين بنو علي بن أبي بكر بن الخلال بقراءة أحمد بن الجوهري في رمضان سنة أربعين وستمائة بالميطور نقله الذهبي من خط القارئ."
+}

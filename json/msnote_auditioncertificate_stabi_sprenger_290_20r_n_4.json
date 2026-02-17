@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المؤتنف تكملة المؤتلف والمختلف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 290"
+      ],
+      "folio_number": [
+        "20r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1663217491/1200/0/00000059.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011164"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "karkh"
+          ]
+        ]
+      },
+      "endIndex": 233,
+      "guid": "51985002-ecb3-44b5-9f63-8bc135cf0574",
+      "startIndex": 194,
+      "text": "بمنزل الشيخ] في ربع الكرخ غربيّ المدينة.",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "526"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "5dd432c5-6576-4d7d-aab4-918f3d5396f2",
+      "startIndex": 151,
+      "text": "جمادى] الآخرة من سنة ست وعشرين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "80230312-1d22-46dc-bee2-0fdfd7296cb7",
+      "startIndex": 29,
+      "text": "أبي القاسم هبة الله بن عبد الله بن أحمد الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "ec0269dc-cf56-4e99-aa1e-b90a0525b5d4",
+      "startIndex": 104,
+      "text": "عبد الله بن أحمد بن أحمد بن أحمد الخشَّاب ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ جميع هذا الجزء على الشيخ أبي القاسم هبة الله بن عبد الله بن أحمد الواسطي، بحق سماعه [له من المصنف]. عبد الله بن أحمد بن أحمد بن أحمد الخشَّاب [... جمادى] الآخرة من سنة ست وعشرين وخمس مائة. [بمنزل الشيخ] في ربع الكرخ غربيّ المدينة."
+}

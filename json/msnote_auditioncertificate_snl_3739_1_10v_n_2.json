@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن الحسن بن أحمد البناء"
+      ],
+      "work_title": [
+        "مشيخة أبي غالب ابن البناء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 17"
+      ],
+      "classmark": [
+        "3739/1"
+      ],
+      "folio_number": [
+        "10v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "209eef51-f0c1-4d44-94e8-dbba37d54cc9",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 449,
+      "guid": "3581cfc7-bb16-4b88-9d4e-1eab5a469b75",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 405,
+      "text": "الجامع المظفري بسفح قاسيون ظاهر دمشق المحروسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "672"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "832adeec-9454-490a-abc4-671a8e6110d6",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 347,
+      "text": "في يوم الأحد الثامن عشر من رجب سنة اثنتين وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 331,
+      "guid": "c2559dc4-fc7e-4f54-8545-07890987ed87",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 296,
+      "text": "الشمس محمد بن أحمد بن يمان بن الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "e45f47b1-d0b5-41ec-8018-fcf50ec31505",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "كمال الدين أبي محمد عبد الرحيم بن عبد الملك المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "f9d2684f-3f22-4a4b-9b10-01d5a73530dd",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 208,
+      "text": "شمس الدين محمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " [.........] الشيخ الإمام الزاهد المسند كمال الدين أبي محمد عبد الرحيم بن عبد الملك المقدسي بسماعه له حضورا [....] ابن البناء عن شيوخه بقراءة كاتبه علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه ورفق به شمس الدين محمد بن عبد الرحيم بن عبد الواحد المقدسي والفخر أحمد بن حسن بن [...] الفارقي والشمس محمد بن أحمد بن يمان بن الخياط وصح وذلك وثبت في يوم الأحد الثامن عشر من رجب سنة اثنتين وسبعين وستماية بالجامع المظفري بسفح قاسيون ظاهر دمشق المحروسة "
+}

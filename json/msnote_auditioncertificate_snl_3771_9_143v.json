@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن عبد الملك بن محمد يوسف"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "أمالي الحسن بن عبد الملك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 180"
+      ],
+      "classmark": [
+        "3771/9"
+      ],
+      "folio_number": [
+        "143v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 443,
+      "guid": "00e24d22-99a7-48c7-be2c-18b57c42708a",
+      "startIndex": 401,
+      "text": "أبي محمد الحسن بن عبد الملك بن محمد بن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "02f94852-32cb-4067-803d-87ad012cbd45",
+      "startIndex": 227,
+      "text": "أبو محمد إسماعيل بن إبراهيم بن محمد الشهرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 1019,
+      "guid": "083028be-9050-42f3-8a0e-236f99c4c5d1",
+      "startIndex": 962,
+      "text": "التسميع صحيح كتبه محمد بن علي ابن المحمودي حامدا لله تعالى",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-a'tiq_mosque"
+          ]
+        ]
+      },
+      "endIndex": 803,
+      "guid": "0ece7abd-8b18-48fa-8dfd-164f392a7f48",
+      "startIndex": 786,
+      "text": "جامع عمرو بن العاص",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 507,
+      "guid": "1d658e26-bc61-4d55-a54f-0d42dc0db41c",
+      "startIndex": 466,
+      "text": " مكين الدين أبو الحسن بن عبد العظيم الحصني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "3cff84d8-abdb-4357-bf14-4b53501ab20b",
+      "startIndex": 275,
+      "text": "أبو القاسم عبيد الله بن أبي محمد المبارك بن إبراهيم ابن السيبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "5dce3aee-3859-4716-8f57-838883b8b6c3",
+      "startIndex": 195,
+      "text": "أبو محمد عبد العزيز ابن الأخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 661,
+      "guid": "73c71e07-1db9-40a0-915a-6a84e0218d71",
+      "startIndex": 611,
+      "text": "نصير الدين إسماعيل بن سليمان بن بدر الأنصاري الجيتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "83245da4-b447-400d-9cc8-f0923f723ea0",
+      "startIndex": 51,
+      "text": "جمال الدين أبي حامد محمد بن الإمام علم الدين أبي الحسن علي بن أبي الفتح محمود بن أحمد المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 783,
+      "guid": "8a4dc84b-02fa-436d-9eef-ca5573c31dbe",
+      "startIndex": 735,
+      "text": "الجمعة التاسع عشر من شعبان سنة ثلاث وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 568,
+      "guid": "bc211ae8-f0b4-4101-887e-38abf69eb0c1",
+      "startIndex": 562,
+      "text": "أبو بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 922,
+      "guid": "c03940d8-10ce-41e8-a216-59b1a3bb0bf4",
+      "startIndex": 870,
+      "text": "الحسن بن علي بن عيسى بن الحسن اللخمي عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 608,
+      "guid": "c76d2d85-e75e-481f-8cfa-7734ebe84e50",
+      "startIndex": 571,
+      "text": "نجيب الدين محمد بن مزيد بن مبشر الخويي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 389,
+      "guid": "e81585a7-0352-40ec-bf7c-c81c7faa4a10",
+      "startIndex": 352,
+      "text": "أبي الفتح محمد بن عبد الباقي ابن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 554,
+      "guid": "eb1d0b66-fe8f-4d30-b4bf-f4fc34a1f370",
+      "startIndex": 510,
+      "text": "معين الدين عبد الرزاق بن عبد الكريم العسقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 718,
+      "guid": "eb416d27-7189-47b5-be21-3264dd82b72f",
+      "startIndex": 664,
+      "text": "كمال الدين أبو بكر بن عثمان بن إبراهيم بن عدلان الكناني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم الحافظ جمال الدين أبي حامد محمد بن الإمام علم الدين أبي الحسن علي بن أبي الفتح محمود بن أحمد المحمودي الصابوني بحق إجازته من الشيوخ الثلاثة وهم الحافظ أبو محمد عبد العزيز ابن الأخضر وأبو محمد إسماعيل بن إبراهيم بن محمد الشهرستاني وأبو القاسم عبيد الله بن أبي محمد المبارك بن إبراهيم ابن السيبي بحق سماعهم من أبي الفتح محمد بن عبد الباقي ابن البطي بسماعه من أبي محمد الحسن بن عبد الملك بن محمد بن يوسف فسمعه الجماعة الأجلاء مكين الدين أبو الحسن بن عبد العظيم الحصني ومعين الدين عبد الرزاق بن عبد الكريم العسقلاني وولده أبو بكر ونجيب الدين محمد بن مزيد بن مبشر الخويي ونصير الدين إسماعيل بن سليمان بن بدر الأنصاري الجيتي وكمال الدين أبو بكر بن عثمان بن إبراهيم بن عدلان الكناني وصح ذلك في يوم الجمعة التاسع عشر من شعبان سنة ثلاث وستين وستمائة بجامع عمرو بن العاص وأجاز المسمع لي وللمذكورين جميع ما يجوز له روايته وكتب عبد الله: الحسن بن علي بن عيسى بن الحسن اللخمي عرف بابن الصيرفي والحمد لله وحده وصلواته على محمد وآله التسميع صحيح كتبه محمد بن علي ابن المحمودي حامدا لله تعالى"
+}

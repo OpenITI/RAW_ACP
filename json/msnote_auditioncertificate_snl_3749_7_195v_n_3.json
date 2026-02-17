@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عشرة أحاديث عن عشرة مشايخ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 59 "
+      ],
+      "classmark": [
+        "3749/7"
+      ],
+      "folio_number": [
+        "195v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 29,
+      "guid": "259d622d-ebe8-4026-8fba-936629139b4b",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 26,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "26eb3955-77cb-4bdd-8a50-d958d96f0f0e",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "عمر بن إبراهيم بن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 34,
+      "guid": "7b45460a-2865-4ca0-ace2-56d06936ba89",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 32,
+      "text": "حسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "ca8c317d-9ada-40b2-be25-80dbcd2284ff",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 61,
+      "text": "عبد الله بن محمد بن أبي بكر بن حبيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "713"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "ffe88915-6b5d-4005-8f6e-f9bf3d73e72e",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 113,
+      "text": "رابع عشر رجب سنة ثلث عشر وسبعمية",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه على الشيخين الآخرين محمد وحسن ابنا عمر بن حسن بن حبيب وعبد الله بن محمد بن أبي بكر بن حبيب بقراءته في عشية رابع عشر رجب سنة ثلث عشر وسبعمية نقلته من خط عمر بن إبراهيم بن العجمي"
+}

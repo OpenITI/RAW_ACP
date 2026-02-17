@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن محمد بن إبراهيم الحنائي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي القاسم الحنائي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 70"
+      ],
+      "classmark": [
+        "3753/2"
+      ],
+      "folio_number": [
+        "36v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "10c775b0-5690-4b9f-bdb1-8c50ef21f257",
+      "index": 75,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "بدر الدين حسن بن عماد الدين أحمد بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "14121e3e-6a76-43db-b1ef-6d513513d319",
+      "index": 77,
+      "isZeroPoint": false,
+      "startIndex": 107,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "436f4e92-9bff-4c52-81cc-f58bb971640a",
+      "index": 76,
+      "isZeroPoint": false,
+      "startIndex": 101,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "780"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "9a53c92a-372c-491b-9dff-10a70656c58a",
+      "index": 79,
+      "isZeroPoint": false,
+      "startIndex": 211,
+      "text": " ثاني عشر جمادى الأولى سنة ثمانين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "c9c34502-fb5b-4964-831b-733af819884d",
+      "index": 78,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": "أحمد بن علاء الدين علي بن عبد الرحمن ابن التتري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 340,
+      "guid": "cf7e0a1b-da42-4b53-a6e5-a85120d2ebe4",
+      "index": 81,
+      "isZeroPoint": false,
+      "startIndex": 284,
+      "text": "محمد بن خليل بن محمد المنصفي [الجريدي/ الجزيري/ الحريري؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "salihiya_quarter"
+          ]
+        ]
+      },
+      "endIndex": 271,
+      "guid": "fd043e6e-7675-460b-afbf-d5a8c610551a",
+      "index": 80,
+      "isZeroPoint": false,
+      "startIndex": 254,
+      "text": "الصالحية ظاهر دمشق",
+      "type": "place"
+    }
+  ],
+  "text": " قرأته على الشيخ الجليل المسند بدر الدين حسن بن عماد الدين أحمد بن عبد الهادي بسماعه فيه فسمعه ولداه أحمد ومحمد وهو في الثانية وسمع أحمد بن علاء الدين علي بن عبد الرحمن ابن التتري من حديث هادم اللذات إلى آخره في ثاني عشر جمادى الأولى سنة ثمانين وسبعمية بالصالحية ظاهر دمشق وأجاز كتبه محمد بن خليل بن محمد المنصفي [الجريدي/ الجزيري/ الحريري؟]"
+}

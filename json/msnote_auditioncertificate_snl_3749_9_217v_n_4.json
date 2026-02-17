@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن عثمان الذهبي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "معجم الذهبي الصغير"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 60"
+      ],
+      "classmark": [
+        "3749/9"
+      ],
+      "folio_number": [
+        "217v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "149961be-e934-4f7b-9a34-fcc53eade02e",
+      "index": 80,
+      "isZeroPoint": false,
+      "startIndex": 172,
+      "text": "الذهبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "al-narinjiya_mosque"
+          ]
+        ]
+      },
+      "endIndex": 298,
+      "guid": "34fcf500-db6a-49d7-b0bd-32d8c9207215",
+      "index": 83,
+      "isZeroPoint": false,
+      "startIndex": 276,
+      "text": "مسجد النارنجية داخل حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "month": [
+          "11"
+        ],
+        "year": [
+          "830"
+        ]
+      },
+      "endIndex": 273,
+      "guid": "64fb5a8f-264e-4780-9d8b-f89ae93338db",
+      "index": 82,
+      "isZeroPoint": false,
+      "startIndex": 239,
+      "text": "ذي قعدة سنة سبع وثلاثين وثماني ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "7568779a-c4ef-4ae3-9602-bad5d050bec4",
+      "index": 84,
+      "isZeroPoint": false,
+      "startIndex": 320,
+      "text": "محمد بن ابي بكر بن عبد الرحمن بن أبي عمر بن زريق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "942df8ec-69cb-4f2c-889d-617acbf4c5ae",
+      "index": 81,
+      "isZeroPoint": false,
+      "startIndex": 189,
+      "text": "أبو بكر عبد الوهاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "cdbb1fa7-7d81-4ff4-9432-47f66bf0e907",
+      "index": 78,
+      "isZeroPoint": false,
+      "startIndex": 27,
+      "text": "شهاب الدين أبي العباس أحمد بن أبي بكر بن أحمد الرسام الحنبلي الحموي الأصل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "dcfc6e6e-b0a4-4fdf-b004-5bd25ee9a860",
+      "index": 79,
+      "isZeroPoint": false,
+      "startIndex": 142,
+      "text": "شهاب الدين المرداوي",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله قرأته على القاضي شهاب الدين أبي العباس أحمد بن أبي بكر بن أحمد الرسام الحنبلي الحموي الأصل الحاكم يومئذ بحلب بسماعه تراه على القاضي شهاب الدين المرداوي بسماعه من الذهبي فسمعه أخي أبو بكر عبد الوهاب وصح ذلك في يوم [فراغ في الأصل] ذي قعدة سنة سبع وثلاثين وثماني ماية بمسجد النارنجية داخل حلب المحروسة وأجاز وكتب محمد بن ابي بكر بن عبد الرحمن بن أبي عمر بن زريق"
+}

@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن يحيى ثعلب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " كتاب الفصيح في اللغة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 47"
+      ],
+      "folio_number": [
+        "115v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        "2d3aa922-3d2f-4f3a-b5d6-9b0af5c94ea0"
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00063197"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "83a28f97-610d-4f0b-8108-22f3b22ab51b"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "65a2f51b-a6e7-4e89-8891-c264910e3c31",
+      "startIndex": 65,
+      "text": "أبي بكر محمد بن أحمد بن محمد بن عبد الله الشريشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "8c5ef7dd-5986-4c82-bac5-8e3b59f6d479",
+      "startIndex": 125,
+      "text": "ابن القبيطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-salihiya"
+          ]
+        ]
+      },
+      "endIndex": 461,
+      "guid": "900f21bd-2ffb-4e58-9add-1a1a056dd733",
+      "startIndex": 436,
+      "text": "دار الحديث بالصالحية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "aa7036fe-3eea-4a85-933d-d23169e8462a",
+      "startIndex": 188,
+      "text": "سعد الدين بن سعد الله بن عبد الأحد بن سعد الله الحرَّاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 277,
+      "guid": "b5c4e041-9af7-42a7-a814-bcca172aa89f",
+      "startIndex": 247,
+      "text": "شمس الدين محمد بن [...] الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 338,
+      "guid": "c5e552d9-cec1-482d-92cf-0b115084b4a0",
+      "startIndex": 308,
+      "text": "القاسم بن محمد بن يوسف البرزالي",
+      "type": "person"
+    }
+  ],
+  "text": "[..............................................................]\nأبي بكر محمد بن أحمد بن محمد بن عبد الله الشريشي، بسماعه من ابن القبيطي، بقراءة الإمام الفاضل[...]\nمن حفظه الجماعة السادة: سعد الدين بن سعد الله بن عبد الأحد بن سعد الله الحرَّاني، وشمس الدين محمد بن [...] الصالحي، [............]\nوكاتب السماع القاسم بن محمد بن يوسف البرزالي، وكاتب هذه النسخة يتلو حالة القراءة وصح في يوم [الأحد؟] سابع [...] بدار الحديث الصالحية بدمشق.\nبدار الحديث بالصالحية بدمشق."
+}

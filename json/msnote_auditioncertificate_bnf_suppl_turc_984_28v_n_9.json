@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 9"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "28v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.item.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "139ae5ef-3dad-4204-abd7-5526d50daf44",
+      "index": 403,
+      "isZeroPoint": false,
+      "startIndex": 137,
+      "text": "محفوظ ابن شهاب الدين علي بن عمر بن عبد الله التميمي ابن الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 29,
+      "guid": "42e2d667-2efa-4235-b506-f70ebcdc2760",
+      "index": 400,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "الوجيه السبتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "darb_al-labban"
+          ]
+        ]
+      },
+      "endIndex": 370,
+      "guid": "4511da29-98d5-4a84-a3ed-67ea86554bcb",
+      "index": 407,
+      "isZeroPoint": false,
+      "startIndex": 355,
+      "text": "درب اللبان بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "9447f8b1-eb7c-4c44-a20d-8e556fbb6746",
+      "index": 404,
+      "isZeroPoint": false,
+      "startIndex": 210,
+      "text": "محمود بن محيي الدين يحيى ابن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "ac43bfde-d951-4fef-ab34-f012e6c5a0ba",
+      "index": 405,
+      "isZeroPoint": false,
+      "startIndex": 244,
+      "text": "علاء الدين علي بن محمد بن سلمان بن حمايل عُرف بابن غانم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 352,
+      "guid": "b88a2e5e-e519-45ea-8fc3-3daac5e1ef6f",
+      "index": 406,
+      "isZeroPoint": false,
+      "startIndex": 305,
+      "text": "السبت حادي عشر ربيع الآخر سنة ثمان وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "dcb32e9c-1c36-480a-a10b-6c6194f8998a",
+      "index": 401,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "عبد الرحيم بن إبراهيم",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة الوجيه السبتي عبد الرحيم بن إبراهيم بن المسمع \nBNF, Suppl Turc 984, 29r\nتتمة نقل السماع لجزء ابن جوصا على ابن أبي اليسر\nمحفوظ ابن شهاب الدين علي بن عمر بن عبد الله التميمي ابن الموصلي وابن عمه محمود بن محيي الدين يحيى ابن عمر وعلاء الدين علي بن محمد بن سلمان بن حمايل عُرف بابن غانم ليلة السبت حادي عشر ربيع الآخر سنة ثمان وستين وستماية بدرب اللبان بدمشق."
+}

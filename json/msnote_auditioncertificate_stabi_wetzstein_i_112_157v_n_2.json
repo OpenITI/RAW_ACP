@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "زاهر بن طاهر الشحامي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " كتاب الاحاديث الهيّات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein I 112"
+      ],
+      "folio_number": [
+        "157v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1011125382/1200/0/00000322.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011995"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "270f6ba9-7b41-4644-b472-bceb84d0b632",
+      "startIndex": 160,
+      "text": "جمال الدين بن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 579,
+      "guid": "31c3550e-f530-417d-b8d8-490d89bd32d4",
+      "startIndex": 573,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21- 25"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "657"
+        ]
+      },
+      "endIndex": 714,
+      "guid": "4c420e97-4eca-475e-80d4-f764c9ad1479",
+      "startIndex": 660,
+      "text": "في [...] والعشرين من جمادى الأولى سنة سبع وخمسين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 448,
+      "guid": "4e60a18f-a977-4eb6-a4a1-4d7e79fc2142",
+      "startIndex": 419,
+      "text": "محمود بن أحمد بن يوسف البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 888,
+      "guid": "76bda6b1-4c23-49d1-84b4-4acf25f6a304",
+      "startIndex": 848,
+      "text": "صحيح ذلك وكتب يحيى بن محمد بن علي القرشي.",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 498,
+      "guid": "848c6c4e-d55e-4114-98fc-65444b6e5168",
+      "startIndex": 452,
+      "text": "شمس الدين محمد بن محمد بن محمد بن العماد القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 535,
+      "guid": "96a9d647-70f3-4492-b002-7649d4cd65e7",
+      "startIndex": 502,
+      "text": "أحمد بن إسماعيل بن هبة الله الحموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "9fb49bc7-e2e5-4ed1-8cfb-095a9377fffe",
+      "startIndex": 232,
+      "text": "جمال الدين أحمد بن عبد الله بن سعيد التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 415,
+      "guid": "b5e39e9e-9224-4e43-9f67-24b222fba7a3",
+      "startIndex": 351,
+      "text": "عماد الدين محمد بن شيخ الطائفة محمد بن علي بن أحمد الحاتمي الطائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 553,
+      "guid": "bb34c973-66c5-4abd-85b3-cea8d4d8294c",
+      "startIndex": 539,
+      "text": "بهاء الدين يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 616,
+      "guid": "c9e39056-3966-4b96-bca4-38ec507dd062",
+      "startIndex": 613,
+      "text": "عيسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 591,
+      "guid": "ca035a13-f826-419f-bc98-8139d9ee517b",
+      "startIndex": 582,
+      "text": "عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "cb6f20c6-9c63-4417-9ac0-b4f5ec7a7a18",
+      "startIndex": 74,
+      "text": "محي الدين أبي المفضل يحيى بن قاضي القضاة محي أبي المعالي محمد بن علي القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 745,
+      "guid": "deda3519-ee0d-48f2-82fc-82953c06fc17",
+      "startIndex": 717,
+      "text": "منزل المسمع بباب البريد بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "df95c358-1797-42af-8487-02a3220a806c",
+      "startIndex": 198,
+      "text": "زاهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 570,
+      "guid": "e91c373b-e984-4dbd-955b-ca6ca9570f59",
+      "startIndex": 557,
+      "text": "زكي الدين حسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 340,
+      "guid": "e9ce4a7b-a062-4f03-aca6-53021a0c336b",
+      "startIndex": 298,
+      "text": "شهاب الدين إسماعيل بن أسعد بن حبش بن العجمي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو العاشر على سيدنا ومولانا الإمام العالم قاضي القضاة محي الدين أبي المفضل يحيى بن قاضي القضاة محي أبي المعالي محمد بن علي القرشي بسماعه من جمال الدين بن الحرستاني بإجازته به من زاهر، بقراءة الإمام العالم الحافظ جمال الدين أحمد بن عبد الله بن سعيد التميمي، القاضي الإمام العالم شهاب الدين إسماعيل بن أسعد بن حبش بن العجمي، والمولى عماد الدين محمد بن شيخ الطائفة محمد بن علي بن أحمد الحاتمي الطائي، ومحمود بن أحمد بن يوسف البعلبكي، وشمس الدين محمد بن محمد بن محمد بن العماد القرشي، وأحمد بن إسماعيل بن هبة الله الحموي، وبهاء الدين يوسف، وزكي الدين حسين وإبراهيم وعبد العزيز في الثالثة من عمره وعيسى كاتب الطبقة بنو المسمع، وذلك في مجلس واحد في [...] والعشرين من جمادى الأولى سنة سبع وخمسين وستمئة بمنزل المسمع بباب البريد بدمشق المحروسة. وأجاز الجماعة المذكورين رواية ما يجوز له روايته وتلفظ بذلك جواباً لسؤال القارئ، والحمدلله.\nصحيح ذلك وكتب يحيى بن محمد بن علي القرشي."
+}

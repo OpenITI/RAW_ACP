@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد المؤمن بن خلف الدمياطي؟"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث مسلسل"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "212r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f215.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f215.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 517,
+      "guid": "4b83aba1-4bc9-4a14-8a63-86e4f53486f7",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 477,
+      "text": "أحمد بن عبد الله بن أحمد بن المحب المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "740"
+        ]
+      },
+      "endIndex": 379,
+      "guid": "537a8515-cce7-4248-8ebf-03475f0e9fde",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 326,
+      "text": "يوم الأحد ثالث عشري شهر ذي القعدة سنة أربعين وسبعماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "68573a68-9766-41b2-a46d-638fb4856b20",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 154,
+      "text": "الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "6c2a25ee-89aa-4500-82f7-c060f0cc576f",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 80,
+      "text": "أبي عبد الله الزبير بن علي بن أبي صفرة المهلبي الأسواني الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "hijaz",
+            "medina"
+          ]
+        ]
+      },
+      "endIndex": 447,
+      "guid": "88e6da4e-16a4-43c8-adc3-372369897778",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 384,
+      "text": "باب منزله بالقرب من باب البقيع من مدينة رسول الله صلى الله عليه ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "f1ccef43-bc31-400a-9aca-45675b57890d",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 232,
+      "text": "شهاب الدين أحمد بن محمد بن غازي ابن عليشير بن حاتم التركماني عرف بابن الحجازي الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "f1f186d0-fa80-42ba-a234-7e074f3d2cd4",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 180,
+      "text": "عبد الله المؤذن ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الحديث المسلسل والحديثين باطن هذه الورقة أيضًا على الشيخ الفقيه الصالح أبي عبد الله الزبير بن علي بن أبي صفرة المهلبي الأسواني الشافعي بسماعه من الدمياطي بسنده فسمعه ابنه عبد الله المؤذن بمسجد رسول الله صلى الله عليه وسلم وشهاب الدين أحمد بن محمد بن غازي ابن عليشير بن حاتم التركماني عرف بابن الحجازي الصالحي وصح ذلك يوم الأحد ثالث عشري شهر ذي القعدة سنة أربعين وسبعماية على باب منزله بالقرب من باب البقيع من مدينة رسول الله صلى الله عليه وسلم وأجاز لنا ما يرويه وكتب أحمد بن عبد الله بن أحمد بن المحب المقدسي ولله الحمد\nوتسلسل لنا بشرطه"
+}

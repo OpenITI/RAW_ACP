@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن الحسن بن أحمد البناء"
+      ],
+      "work_title": [
+        "مشيخة أبي غالب ابن البناء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 17"
+      ],
+      "classmark": [
+        "3739/1"
+      ],
+      "folio_number": [
+        "1r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 35,
+      "guid": "9b1f210a-045f-4f2a-8ceb-62470b8907bf",
+      "index": 111,
+      "isZeroPoint": false,
+      "startIndex": 27,
+      "text": "ابن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "efe343d1-33a0-44c8-8aa6-f126bded9bf6",
+      "index": 112,
+      "isZeroPoint": false,
+      "startIndex": 42,
+      "text": "يوسف بن عبد الهادي",
+      "type": "person"
+    }
+  ],
+  "text": " أخبرنا جماعة من شيوخنا عن ابن المحب وكتب يوسف بن عبد الهادي"
+}

@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/76600419"
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 709"
+      ],
+      "folio_number": [
+        "268v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f271.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f271.item.r=%22Arabe%20709%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "09877297-804a-42d5-8634-49646e97a852",
+      "startIndex": 211,
+      "text": "أبو بكر بن حبون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "2ab40493-ef7e-483c-8a54-2cb716888164",
+      "startIndex": 77,
+      "text": "أبي الحسن علي بن أحمد بن محمد بن كوثر المحاربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "andalus",
+            "granada",
+            "medina_mosque"
+          ]
+        ]
+      },
+      "endIndex": 308,
+      "guid": "44edc1d5-1103-4eae-9135-00d6e1801e79",
+      "startIndex": 289,
+      "text": "مسجد المدينة بغرناطة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+},
+      "endIndex": 438,
+      "guid": "6b8f75a5-fbb5-4117-a4c7-b400836abfde",
+      "startIndex": 403,
+      "text": "علي بن أحمد بن محمد بن كوثر المحاربي",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "c7183d14-4803-42d1-867d-8648b2897fe0",
+      "startIndex": 137,
+      "text": "محمد بن رافع بن محمد بن حسن بن رفاعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "584"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "e4ee1774-6d23-4a1a-bb53-89e1a525a002",
+      "startIndex": 310,
+      "text": "في العشر [...] سنة أربع وثمانين وخمس ماية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأ بعض هذا الكتاب كتاب الترمذي على مالكه الشيخ الفقيه المحدث العلامة المسند أبي الحسن علي بن أحمد بن محمد بن كوثر المحاربي رضي الله عنه محمد بن رافع بن محمد بن حسن بن رفاعة وسمع ما قرئ منه صاحبنا الفقيه النبيه أبو بكر بن حبون وفقه الله وناولهما جميعه الشيخ الفقيه أبي الحسن المذكور وذلك بمسجد المدينة بغرناطة في العشر [...] سنة أربع وثمانين وخمس ماية والحمد لله رب العالمين وصلواته على محمد [...] وكتب علي بن أحمد بن محمد بن كوثر المحاربي."
+}

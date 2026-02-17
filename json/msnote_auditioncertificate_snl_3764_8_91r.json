@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "منتخب من الفوائد الصحاح العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 140"
+      ],
+      "classmark": [
+        "3764/8"
+      ],
+      "folio_number": [
+        "91r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 876,
+      "guid": "1198a527-7c94-4668-878c-57c9bece5d41",
+      "startIndex": 823,
+      "text": "عبد اللطيف بن عبد الكريم بن عبد اللطيف بن معمر المعري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 594,
+      "guid": "1a16694f-edfb-4ef4-8a00-2f8f0f4b9793",
+      "startIndex": 568,
+      "text": "محمد بن موسى بن عمر الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "223aa910-7e23-4539-bf20-26ba9b7eb5d7",
+      "startIndex": 187,
+      "text": "مجد الدين أبي الفضل عبد الله بن أحمد بن محمد بن عبد القاهر الطوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 449,
+      "guid": "3e537a02-cad7-4636-a3cb-dc52cab7028e",
+      "startIndex": 310,
+      "text": "أبي إسحق إبراهيم بن الشيخ الإمام العالم المفتي حجة الدين تاج الدين أمد الله في عمره عبد الرحمن بن إبراهيم بن إبراهيم بن سباع بن ضياء الفزاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "451c11b9-12af-46e0-9e5f-cc82f9b892aa",
+      "startIndex": 93,
+      "text": "زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 716,
+      "guid": "52265324-f016-4ac6-b4b0-3817d2ba1344",
+      "startIndex": 692,
+      "text": "عبد الحميد بن غشم بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 565,
+      "guid": "7300616b-d6f8-4c03-9d5e-4311667ce4ec",
+      "startIndex": 522,
+      "text": "محمد بن الشيخ حسين بن محمد بن مهران البيتوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 519,
+      "guid": "7c83e8a9-e4c3-4ebd-9517-7f9004629135",
+      "startIndex": 472,
+      "text": " عبد الرحمن بن حسن بن يحيى بن محمد القيسي السبتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "90764c62-81d1-4c7b-ac41-51bd3d7c1f68",
+      "startIndex": 263,
+      "text": "أبي محمد جعفر السراج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "666"
+        ]
+      },
+      "endIndex": 951,
+      "guid": "c499dd4d-6de0-4a2a-aa1c-94cdebad236f",
+      "startIndex": 894,
+      "text": "الخميس ثاني شهر الله الأصب رجب سنة سبع وستين وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 803,
+      "guid": "d9b0b8cb-bea3-4fd2-b7a6-e8b47ad827ed",
+      "startIndex": 752,
+      "text": "شرف الدين أبي العباس أحمد بن إبراهيم بن سباع الفزاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 689,
+      "guid": "ff3f5df4-805e-402b-86f4-82b83b723104",
+      "startIndex": 597,
+      "text": "أبو بكر أحمد بن شيخنا شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء والجزء الذي قبله والذي بعده إلى آخر الخامس على شيخنا الإمام العالم الحافظ زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة المقدسي أمد الله في عمره بحق إجازته من الخطيب مجد الدين أبي الفضل عبد الله بن أحمد بن محمد بن عبد القاهر الطوسي بسماعه من أبي محمد جعفر السراج فسمع الجميعَ الولد العزيز أبي إسحق إبراهيم بن الشيخ الإمام العالم المفتي حجة الدين تاج الدين أمد الله في عمره عبد الرحمن بن إبراهيم بن إبراهيم بن سباع بن ضياء الفزاري والفقيه الإمام المحدث عبد الرحمن بن حسن بن يحيى بن محمد القيسي السبتي ومحمد بن الشيخ حسين بن محمد بن مهران البيتوني ومحمد بن موسى بن عمر الحراني وأبو بكر أحمد بن شيخنا شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد بن أحمد المقدسي وعبد الحميد بن غشم بن محمد بقراءة الشيخ الإمام المتقن المحدث شرف الدين أبي العباس أحمد بن إبراهيم بن سباع الفزاري وكاتب هذه الأسماء عبد اللطيف بن عبد الكريم بن عبد اللطيف بن معمر المعري وصح و ثبت في يوم الخميس ثاني شهر الله الأصب رجب سنة سبع وستين وستين وستمائة و الحمد لله وحده "
+}

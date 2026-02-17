@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إبراهيم بن حرب السمسار العسكري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند أبي هريرة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 63"
+      ],
+      "classmark": [
+        "3750/6"
+      ],
+      "folio_number": [
+        "65r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "00833bf1-ca35-4fae-b8bd-b46ff8c5aa6d",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 410,
+      "text": "جدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "0566b989-d0d3-4c1e-b0dd-92ff85b8f427",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 209,
+      "text": "شهاب الدين أحمد بن قدامة المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "870"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "0bef6c36-269b-40c7-a2d6-b47f31b4679f",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 256,
+      "text": "يوم الاثنين ثالث شهر الله المحرم سنة سبعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "75e83c57-42fc-476c-8cfe-b2a95e7e8cfc",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "أبي بكر محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "7f9e5785-4afd-48f0-8f47-0af46de5b3f5",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 121,
+      "text": "أبي محمد عبد الله بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 345,
+      "guid": "9443b5a0-db6c-4c5d-bb79-992b453bd51e",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 321,
+      "text": "يوسف بن حسن بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 439,
+      "guid": "a8bf9225-19a9-46ff-9b56-55354ff02f59",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 423,
+      "text": "الصلاح بن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "be33c19b-d2be-4d22-acd6-48249d1c92af",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 88,
+      "text": "علي بن أحمد المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "c00112c3-721d-4eb6-8b90-70890ef3221b",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 60,
+      "text": "ابن البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "c30c8a5b-385e-4c16-984a-a1958e176f61",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 26,
+      "text": "شهاب الدين ابن الشريفة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 459,
+      "guid": "c395a4bf-4acf-49e7-8a5f-c6473937ed7a",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 444,
+      "text": "الفخر بن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "d584d34b-2380-4632-8d49-6b4657ea3293",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 73,
+      "text": "ابن الحرستاني",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخ شهاب الدين ابن الشريفة بإجازته من ابن البالسي وابن الحرستاني وعلي بن أحمد المرداوي بإجازتهم من أبي محمد عبد الله بن المحب وبإجازة ابن البالسي من أبي بكر محمد بن المحب وسمع أوله الشيخ شهاب الدين أحمد بن قدامة المرداوي وصح ذلك وثبت يوم الاثنين ثالث شهر الله المحرم سنة سبعين وثمان ماية وأجاز وكتب يوسف بن حسن بن عبد الهادي وأخبرنا به جماعة من شيوخنا إجازة بإجازتهم من ابن المحب وأخبرني جدي وغيره عن الصلاح بن أبي عمر عن الفخر بن البخاري وكتب يوسف"
+}

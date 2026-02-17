@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الفضل محمد بن احمد بن محمد الجارودي الهروي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من رواية ابن العالي وغيره بانتقاء ابي الفضل الجارودي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 516"
+      ],
+      "folio_number": [
+        "1r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011392"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "0b95473a-4017-4f19-bb7c-14706f6dce90",
+      "startIndex": 148,
+      "text": "محمد الأكمل بن إبراهيم بن مفلح الحنبلي الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "139e3784-6218-436d-9eb9-2e8fb716008d",
+      "startIndex": 80,
+      "text": " القرقشندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "23db9fab-c778-4662-9f3d-b76506115cf4",
+      "startIndex": 141,
+      "text": "الفقير محمد الأكمل بن إبراهيم بن مفلح الحنبلي الدمشقي [...] يروي هذا الجزء عن قاضي قضاة مصر أحمد بن النجار الفتوحي عن الجمال إبراهيم بن القرشي القلقشندي بالسند المتصل",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "949"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "393467cd-eadd-4401-b3d5-48fabf3a1f7e",
+      "startIndex": 137,
+      "text": "949",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 254,
+      "guid": "541f6ab5-d522-4dc5-83b9-33e585426a0b",
+      "startIndex": 232,
+      "text": " أحمد بن النجار الفتوحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner",
+          "writer"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "aed81b69-694f-4e01-9bc5-019920723207",
+      "startIndex": 40,
+      "text": " أحمد بن علي بن الفلوجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "bef7a128-cd79-41ce-bca7-a8c9bddaae1c",
+      "startIndex": 258,
+      "text": " الجمال إبراهيم بن القرشي القلقشندي",
+      "type": "person"
+    }
+  ],
+  "text": "ملكه وقرأه على شيخ الإسلام الحنبلي مالكه أحمد بن علي بن الفلوجي بحق سماعه له على القرقشندي [يقصد القلقشندي] الواضع خطه من أسفله في السنة 949 الفقير محمد الأكمل بن إبراهيم بن مفلح الحنبلي الدمشقي [...] يروي هذا الجزء عن قاضي قضاة مصر أحمد بن النجار الفتوحي عن الجمال إبراهيم بن القرشي القلقشندي بالسند المتصل"
+}

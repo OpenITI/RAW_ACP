@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن المفضل بن أحمد الثقفي الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/6"
+      ],
+      "folio_number": [
+        "78v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "070b1532-4e57-431b-b878-86ee92a00f96",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 211,
+      "text": "أبو العز المظفر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 429,
+      "guid": "3a2e7476-8c7c-4902-b7e8-ec64fdfd5178",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 427,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "467bc5a6-74dc-4c28-84f6-dc99bccede15",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 134,
+      "text": "السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 411,
+      "guid": "5b886620-94d8-459e-84fb-7762c4514e5d",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 357,
+      "text": "تقي الدين أبو محمد عبد الرحمن بن حمدان بن أحمد التكريتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 439,
+      "guid": "65a9609d-d99e-417b-8604-250c1b7d3a57",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 432,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 497,
+      "guid": "76d04865-89b2-41b2-bce0-8f6e3c516953",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 474,
+      "text": "جمال الدين أبو حامد محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 424,
+      "guid": "7a2f3b6b-306f-495e-815d-9b0e32e32190",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 420,
+      "text": " محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 649,
+      "guid": "7a75764d-de41-4482-b895-67b8b93344a5",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 625,
+      "text": "منزله بقصر الثقفيين بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "7e2fb897-0f3d-43fa-b1f4-50bb67ec10ce",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 318,
+      "text": "أبو طاهر إبراهيم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 465,
+      "guid": "97329f69-e880-45fd-84a8-40fa3a45d8f4",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 447,
+      "text": "أيدغدي بن عبد الله ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "627"
+        ]
+      },
+      "endIndex": 622,
+      "guid": "b18c1dd2-b8c0-4f2d-b8fa-00587f2a2e54",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 574,
+      "text": "يوم الثلثا سلخ جمادى الأول سنة سبع وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "cc25e068-4956-41d7-9bcf-ec8adb4b8755",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "شمس الدين أبي الحسن علي بن المظفر بن القاسم النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "d3f9b09e-ec69-469d-8309-4999207a54bc",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 55,
+      "text": "علم الدين أبي الحسن علي بن محمود بن أحمد بن علي بن المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 561,
+      "guid": "d92b741c-f7d9-4f08-adf9-3d5d2c245bbd",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 528,
+      "text": "علي بن محمد بن علي بن محمد البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 310,
+      "guid": "fb74f854-65dc-47b1-932b-5c73714bfa1c",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 253,
+      "text": "شرف الدين أبو عبد الله الحسين بن إبراهيم بن الحسين الإربلي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء والذي قبله على الشيخ الفقيه الإمام علم الدين أبي الحسن علي بن محمود بن أحمد بن علي بن المحمودي الصابوني بسماعه من السلفي بقراءة الإمام شمس الدين أبي الحسن علي بن المظفر بن القاسم النشبي ابنه أبو العز المظفر وصاحب الجزء الفقيه الإمام شرف الدين أبو عبد الله الحسين بن إبراهيم بن الحسين الإربلي وابنه أبو طاهر إبراهيم والقاضي الإمام العالم تقي الدين أبو محمد عبد الرحمن بن حمدان بن أحمد التكريتي وأولاده محمد وعلي وعبد الله وفتاه أيدغدي بن عبد الله والفقيه جمال الدين أبو حامد محمد بن الشيخ المسمع وكاتب السماع علي بن محمد بن علي بن محمد البالسي وصح ذلك في يوم الثلثا سلخ جمادى الأول سنة سبع وعشرين وستماية بمنزله بقصر الثقفيين بدمشق وثبت"
+}

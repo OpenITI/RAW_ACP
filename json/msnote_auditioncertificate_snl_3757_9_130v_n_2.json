@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "130v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "760"
+        ]
+      },
+      "endIndex": 470,
+      "guid": "11eb33d8-60b6-4f3c-a9f5-fbe4605e7610",
+      "startIndex": 451,
+      "text": "صفر سنة ستين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "1e7f52ec-5b1c-4ef4-aeed-7103cb7c6a0c",
+      "startIndex": 60,
+      "text": "موسى بن أحمد بن محمد بن سليمان بن حمزة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "27439fed-cde3-4f63-a721-1782a881e6b4",
+      "startIndex": 21,
+      "text": "شمس الدين محمد بن أحمد بن محمد الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "2ca1bb97-a644-4937-8ffb-c356eb3b112f",
+      "startIndex": 145,
+      "text": "محمد بن محمد بن إبراهيم بن العفيف القطان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 426,
+      "guid": "42bb930f-e422-43e5-baa2-a9b7b109feff",
+      "startIndex": 407,
+      "text": " أبي نصر بن الشيرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "503a97e1-9fa9-4df9-a3d4-2cc404f5c675",
+      "startIndex": 249,
+      "text": "محمد بن علي الرومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 394,
+      "guid": "6b2d0aa5-e84d-45df-837f-9673868ae70e",
+      "startIndex": 353,
+      "text": "زين الدين عبد الرحمن بن أحمد بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "9abe8005-dd3b-4a82-8c1c-b05fc3c1f337",
+      "startIndex": 187,
+      "text": "يوسف بن عبد العزيز بن أبي بكر بن الناصح ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "a9a8db5c-cf44-4f0b-8df1-46dacaf7a875",
+      "startIndex": 228,
+      "text": "محمد بن عبد الشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "d0612c03-b118-47d1-81c1-a9e1b3b9edaf",
+      "startIndex": 269,
+      "text": "ناصر الدين بن محمد بن طرنطية المنصوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "d1c0ab7e-151c-46a1-b37b-168099581477",
+      "startIndex": 314,
+      "text": "محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 481,
+      "guid": "d6ca6add-ddf7-488a-8f06-2e1cb6b7a361",
+      "startIndex": 473,
+      "text": "الضيائية ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 446,
+      "guid": "ebf8e35e-d4db-4de6-b0b4-d0614b6ed353",
+      "startIndex": 438,
+      "text": "ابن قميرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "fbbf52a3-b830-4050-8995-376e7e97835c",
+      "startIndex": 108,
+      "text": "عبد الله بن علي بن أبي بكر الاعزازي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع هذا الجزء الأول شمس الدين محمد بن أحمد بن محمد الحلبي وموسى بن أحمد بن محمد بن سليمان بن حمزة المقدسي وعبد الله بن علي بن أبي بكر الاعزازي ومحمد بن محمد بن إبراهيم بن العفيف القطان ويوسف بن عبد العزيز بن أبي بكر بن الناصح ومحمد بن عبد الشبيلي ومحمد بن علي الرومي وناصر الدين بن محمد بن طرنطية المنصوري من لفظ محمد بن عبد الله بن أحمد بن المحب وعلى زين الدين عبد الرحمن بن أحمد بن عبد الهادي بسماعهما من أبي نصر بن الشيرازي بسماعه من ابن قميرة في صفر سنة ستين وسبعمية بالضيائية "
+}

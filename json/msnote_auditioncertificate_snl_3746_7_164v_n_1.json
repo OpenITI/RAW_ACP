@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الهيثم بن خلف بن محمد الدوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ذم اللواط "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 45"
+      ],
+      "classmark": [
+        "3746/7"
+      ],
+      "folio_number": [
+        "164v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "4b2bb712-7b5c-417e-a91b-32a62f7765d3",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "أبو بكر بن أحمد بن عبد الدائم بن نعمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 274,
+      "guid": "705cd1af-da1c-47e6-b71b-0ed69b1aa9ed",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 249,
+      "text": "الجامع المظفري بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "8da35a58-a00d-4605-a54f-6a70786277be",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "أبي عبد الله محمد بن إبراهيم بن مسلم الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3-4"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "630"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "97401523-cd14-45b2-bb27-05adcedea9e0",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 193,
+      "text": "يوم الأحد ثالث أو رابع عشرين شهر صفر سنة ثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "9a211ed9-692a-4fd9-87d4-252d0ed6f763",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 91,
+      "text": "أبي العباس أحمد بن محمد بن الحافظ عبد [الغني]",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على الشيخ أبي عبد الله محمد بن إبراهيم بن مسلم الإربلي بسماعه في باطنها نقلا بقراءة أبي العباس أحمد بن محمد بن الحافظ عبد [الغني] جماعة منهم أبو بكر بن أحمد بن عبد الدائم بن نعمة حضر في يوم الأحد ثالث أو رابع عشرين شهر صفر سنة ثلثين وستماية بالجامع المظفري بسفح قاسيون"
+}

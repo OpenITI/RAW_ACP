@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "108r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "09038119-43a1-4b0c-88d3-510f341f1982",
+      "startIndex": 180,
+      "text": "شرف الدين محمد بن أحمد بن حمد الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "4ddb1b1e-b111-45a1-8b9b-ad34961871eb",
+      "startIndex": 98,
+      "text": "أبي محمد بن البن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "687"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "7b647a80-aa9c-4eb2-b17a-166a1398287f",
+      "startIndex": 222,
+      "text": "الأربعاء الخامس من صفر سنة سبع وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "8b8832c5-2e40-4847-9731-2186d9babf3e",
+      "startIndex": 141,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "a0d34ec3-df0a-4b3c-b416-dda173ddba7b",
+      "startIndex": 37,
+      "text": " أبي الفرج نصر بن أبي القاسم بن أبي الفرج النابلسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ الجليل المسند أبي الفرج نصر بن أبي القاسم بن أبي الفرج النابلسي بسماعه من أبي محمد بن البن عن جده بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي شرف الدين محمد بن أحمد بن حمد الحراني يوم الأربعاء الخامس من صفر سنة سبع وثمانين وستمية"
+}

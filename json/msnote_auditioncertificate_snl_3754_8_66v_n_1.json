@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "66v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ]
+      },
+      "endIndex": 1260,
+      "guid": "03eb6a51-956e-43f9-b2b8-b4844f58c66f",
+      "startIndex": 1233,
+      "text": "هذا صحيح وكتب أبو اليمن بيده",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1088,
+      "guid": "0ab741c6-ea43-43d1-895d-1cc538299bbd",
+      "startIndex": 1033,
+      "text": "أثير الدين أبو العباس أحمد بن إسحق بن هبة الله الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 248,
+      "guid": "0c9e87a0-7c03-4e9b-801a-c923180a4025",
+      "startIndex": 241,
+      "text": "العشاري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 512,
+      "guid": "0e5d06cf-abc4-4c02-800d-15b41236162b",
+      "startIndex": 468,
+      "text": "خطير الدين أبو نصر فتوح بن نوح بن عيسى الخويي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 697,
+      "guid": "2473f5d6-8122-4308-8f03-f3730031aa04",
+      "startIndex": 639,
+      "text": "زين الدين أبو الحسن علي بن يوسف بن محمد الأصفهاني [النفري؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "385ebae0-182b-41b2-8615-55dabc2749da",
+      "startIndex": 252,
+      "text": "ابن سمعون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "602"
+        ]
+      },
+      "endIndex": 1170,
+      "guid": "50af59bf-2529-4488-91db-845dc4621f08",
+      "startIndex": 1136,
+      "text": "تاسع عشرين شعبان سنة اثنتين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 592,
+      "guid": "74a19b5e-bf06-44e9-9686-e85e8aca65f7",
+      "startIndex": 528,
+      "text": "عز الدين أبو محمد عبد العزيز بن عثمان بن أبي طاهر الإربلي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 885,
+      "guid": "84262eae-2c36-48b4-85f9-a45958acde45",
+      "startIndex": 870,
+      "text": "أبو إسحق إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 851,
+      "guid": "8b483599-97ed-4721-b001-65c3557f6a35",
+      "startIndex": 775,
+      "text": "عماد الدين أبي المجد إسماعيل بن أبي البركات هبة الله بن باطيش الموصلي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 755,
+      "guid": "9180cc60-9b9d-4a9a-8bc8-4fbade6381a7",
+      "startIndex": 706,
+      "text": "أبو عبد الله محمد بن عبد الرحمن بن عماد العسقلاني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 384,
+      "guid": "b48ef453-053e-4f12-9a31-dee618fde4e6",
+      "startIndex": 289,
+      "text": " عزيز الدين أبو حامد محمد بن الشيخ عماد الدين أبو عبد الله محمد بن محمد بن حامد الأصبهاني الكاتب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 636,
+      "guid": "c80e0b4e-0b94-40bf-bd1f-1f53a92fb6a2",
+      "startIndex": 603,
+      "text": " أبو المظفر يوسف بن يعقوب بن عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 964,
+      "guid": "cab81431-8144-4502-b8c3-019714401532",
+      "startIndex": 922,
+      "text": "حسن بن محمد بن أبي الفتوح بن أبي سعد البكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 1122,
+      "guid": "cf3f42be-1464-4285-a962-68c04622ff4d",
+      "startIndex": 1096,
+      "text": "منزل الشيخ أبقاه الله بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "9963bce6-7d2f-4039-95d2-71bae7bf5d04"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "d69aa2b8-f852-4527-9de3-e712a41565fe",
+      "startIndex": 117,
+      "text": "تاج الدين حجة العرب أبي اليمن زيد بن الحسن بن زيد الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "d9f1f580-d80f-4d29-94d6-49b427e03bc8",
+      "startIndex": 210,
+      "text": "أبي القاسم بن الطبر الحريري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 465,
+      "guid": "ea993401-f2c8-417e-a294-a11313fef845",
+      "startIndex": 400,
+      "text": "نور الدين أبو مطيع يحيى بن هبة الله بن أحمد بن سياه اليزدي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 991,
+      "guid": "f7dbd8b5-fcdd-4127-ad68-25dc393b821f",
+      "startIndex": 978,
+      "text": "أبو الفضل محمد",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء وما قبله ويحتويان على عشرين مجلسا من أمالي ابن سمعون على سيدنا الشيخ الأجل الإمام الفاضل العلامة تاج الدين حجة العرب أبي اليمن زيد بن الحسن بن زيد الكندي أطال الله بقاءه بحق سماعه على الشيخ أبي القاسم بن الطبر الحريري عن العشاري عن ابن سمعون السادة الفقهاء الفقيه الأجل عزيز الدين أبو حامد محمد بن الشيخ عماد الدين أبو عبد الله محمد بن محمد بن حامد الأصبهاني الكاتب والفقيه الأجل نور الدين أبو مطيع يحيى بن هبة الله بن أحمد بن سياه اليزدي الشافعي وخطير الدين أبو نصر فتوح بن نوح بن عيسى الخويي والفقيه الأجل عز الدين أبو محمد عبد العزيز بن عثمان بن أبي طاهر الإربلي الشافعي وابن أخيه أبو المظفر يوسف بن يعقوب بن عثمان وزين الدين أبو الحسن علي بن يوسف بن محمد الأصفهاني [النفري؟] والشيخ أبو عبد الله محمد بن عبد الرحمن بن عماد العسقلاني وذلك بقراءة الفقيه عماد الدين أبي المجد إسماعيل بن أبي البركات هبة الله بن باطيش الموصلي الشافعي وسمع أخوه لأبويه أبو إسحق إبراهيم وكاتب السماع العبد الفقير إلى الله حسن بن محمد بن أبي الفتوح بن أبي سعد البكري وأخوه لأبيه أبو الفضل محمد وسمع هذا الجزء لا غير بالقراءة المذكورة أثير الدين أبو العباس أحمد بن إسحق بن هبة الله الأصبهاني وذلك بمنزل الشيخ أبقاه الله بدمشق المحروسة في تاسع عشرين شعبان سنة اثنتين وستماية وصح ذلك وثبت وصلى الله على سيدنا محمد وآله وسلم تسليما كثيرا هذا صحيح وكتب أبو اليمن بيده "
+}

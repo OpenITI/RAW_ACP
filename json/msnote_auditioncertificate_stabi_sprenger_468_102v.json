@@ -1,0 +1,966 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن إبراهيم بن أيوب ابن ماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الأنصاري ومعه فوائد ابن ماسي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 468"
+      ],
+      "folio_number": [
+        "102v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011344"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1149,
+      "guid": "05f634e2-b16e-44dd-96fa-4257a278c35b",
+      "startIndex": 1121,
+      "text": "أبي عبد الله محمد بن عبد الحق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2513,
+      "guid": "0bce1f1b-4039-4096-979e-4349b7d021ff",
+      "startIndex": 2413,
+      "text": "السيد الشريف بهاء الدين محمد بن السيد نظام الدين محمد بن السيد نظام الدين المؤيد الحسيني [...] الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 531,
+      "guid": "0c4720e3-a5fd-4976-b5a8-9ae4ce544202",
+      "startIndex": 433,
+      "text": "عماد الدين أبي بكر بن الشيخ محب الدين أبي عبد الله محمد بن عبد الرحمن بن محمد بن عبد الجبار المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2718,
+      "guid": "0d32ba28-56b2-4c43-b5b7-732612a6e29d",
+      "startIndex": 2644,
+      "text": "شمس الدين محمد بن شيخنا سعد الدين أبي زكريا يحيى سعد بن محمد بن سعد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2820,
+      "guid": "1159a6dc-8618-422c-8ace-8b207a47fee5",
+      "startIndex": 2815,
+      "text": " صُبيح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1047,
+      "guid": "1491671d-a043-48b9-af55-933f6ba16e85",
+      "startIndex": 1010,
+      "text": "أبي محمد يحيى بن أبي منصور ابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2968,
+      "guid": "15289a10-2c34-4bf2-9f70-292b4a555e0e",
+      "startIndex": 2940,
+      "text": "بهادر بن [عبد الله] الأقسراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 600,
+      "guid": "1931a569-5922-4f1b-8bd8-b77e47bc8bcb",
+      "startIndex": 550,
+      "text": "أبي عبد الله محمد بن إبراهيم بن مري بن ربيعة الجيتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1785,
+      "guid": "214860bd-7843-4124-a036-7bb56dcbe85f",
+      "startIndex": 1756,
+      "text": "أبي الفرج عبد الرحمن بن الجوزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 2272,
+      "guid": "2a0ebc42-bfec-4668-b7df-b4deeba0f6a5",
+      "startIndex": 2244,
+      "text": "عبد العزيز بن محمود بن الأخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1485,
+      "guid": "32b4d9ba-1256-43a5-acd9-44b2c57ca25e",
+      "startIndex": 1462,
+      "text": "أبي العباس أحمد بن شيبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 814,
+      "guid": "376486e4-f947-4eb4-969a-5c5024e5712c",
+      "startIndex": 748,
+      "text": "تقي الدين أبي عبد الله محمد بن أبي الحسين أحمد بن عبد الله اليونيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1589,
+      "guid": "4426bfd4-cc17-4777-86b4-68f3ec1a0a4f",
+      "startIndex": 1570,
+      "text": "زينب بنت مكي الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "4958e800-765e-4e6b-80a8-6b9c76fd36e8",
+      "startIndex": 228,
+      "text": "صائن الدين أبي عبد الله محمد بن دَمُور بن مصطفى الرومي المقرئ الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 3083,
+      "guid": "673e3353-c736-4020-83a9-3513716b8d52",
+      "startIndex": 3069,
+      "text": " فوائد ابن ماسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1431,
+      "guid": "6a80a67c-c244-46fa-9ee1-b1c83a7ea563",
+      "startIndex": 1373,
+      "text": "العماد أبي بكر من أبي عبد الله عبد المولى بن جبارة المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1858,
+      "guid": "6adf9b76-602e-4a97-9d4e-24b946903c28",
+      "startIndex": 1817,
+      "text": "أبي المظفر عبد الخالق بن أبي جعفر بن فيروز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2572,
+      "guid": "6dc17e40-b06f-47e4-8bf0-0a7153ca21a5",
+      "startIndex": 2523,
+      "text": "جمال الدين أحمد بن أبي الفضل بن محمد الرازي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 981,
+      "guid": "7a706d04-c51b-4c7e-8c69-2ea0a51811ad",
+      "startIndex": 955,
+      "text": "أبي طالب بن أبي بكر السروري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 3062,
+      "guid": "7da8f147-7bc7-456c-8aee-c2e7c3d0057d",
+      "startIndex": 2972,
+      "text": "ضياء الدين أبو فارس بن عبد العزيز بن عبد الرحمن بن عبد الواحد بن أبي زكنون [التونسي] المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 2380,
+      "guid": "7fed1abd-7580-494c-ba0e-3c7222550aa3",
+      "startIndex": 2335,
+      "text": "محمد بن طغريل بن عبد الله المعروف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1815,
+      "guid": "8381369b-d49a-4eff-adb2-3a3ce91d7e02",
+      "startIndex": 1788,
+      "text": "أبي محمد المكرم بن هبة الله ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2779,
+      "guid": "904de115-b699-471f-8bab-9f776c68b295",
+      "startIndex": 2776,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1007,
+      "guid": "98fb693b-c88e-476a-b17d-a7bef67a8d6e",
+      "startIndex": 984,
+      "text": "أبي الحجاج يوسف بن مكتوم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "a0f65765-6069-4544-a536-7164fe7da384",
+      "startIndex": 116,
+      "text": "شمس الدين أبي عبد الله محمد بن إبراهيم بن غنائم بن وافد ابن المهندس الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1118,
+      "guid": "a158f945-b00f-4dd0-beda-8b489d051d8b",
+      "startIndex": 1095,
+      "text": "المحب محمد بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 3147,
+      "guid": "a3712932-82b8-416d-aa52-51b3f6ccb8ca",
+      "startIndex": 3089,
+      "text": "أبو عبد الله محمد بن عبد الله بن عبد الرحمن بن ربيع القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 951,
+      "guid": "a9cbf30d-400c-4682-8224-7316022d9c7a",
+      "startIndex": 901,
+      "text": "زين الدين أبي محمد أبي بكر عبد الله بن أحمد بن طعان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "bintkhader_mosque"
+          ]
+        ]
+      },
+      "endIndex": 3344,
+      "guid": "ade3b565-6121-4d7a-9bc0-02d578c16282",
+      "startIndex": 3309,
+      "text": "مسجد المسمع الثاني ويعرف ببنت خضر بك",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1287,
+      "guid": "af8028c1-99e6-4e20-98ee-b60bb6f12def",
+      "startIndex": 1259,
+      "text": "أبي العباس أحمد بن عبد الدايم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 640,
+      "guid": "af964a2e-980d-48f5-9de2-97bd7d49f085",
+      "startIndex": 620,
+      "text": "شمس الدين ابن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 897,
+      "guid": "b10a271b-9b25-44be-b9fb-f758cb380d08",
+      "startIndex": 863,
+      "text": "أبي الفتوح طاهر بن أبي الفضل الكحال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "723"
+        ]
+      },
+      "endIndex": 3306,
+      "guid": "b3b96e5b-ee55-4243-8910-c2cf00ffcd0f",
+      "startIndex": 3254,
+      "text": "يوم السبت رابع شهر ربيع الأول سنة ثلاث وعشرين وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2766,
+      "guid": "b5db2d76-bd13-4c4c-82b4-000b6d69d30a",
+      "startIndex": 2722,
+      "text": "محمد بن [...] أيدمر بن عبد الله الحموي العطار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 3244,
+      "guid": "b8586243-c982-47de-bf58-de851875e287",
+      "startIndex": 3208,
+      "text": "أبو جعفر أحمد بن محمد بن مخلوف البستي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2907,
+      "guid": "bd64dafe-f61f-4fe4-a9f9-10c6324e8425",
+      "startIndex": 2824,
+      "text": "محمد بن [...] الدين محمد بن أبي بكر بن عبد المولى بن حسن الأنصاري الذهبي [الدُّهني؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1712,
+      "guid": "c40d3b3b-5961-44ce-ad05-fa0aeb00cc20",
+      "startIndex": 1681,
+      "text": "أبي القاسم أحمد بن برمس بن بكتمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1256,
+      "guid": "c58a63f8-f617-4a21-b823-26e1d6149a2e",
+      "startIndex": 1224,
+      "text": "أبي بكر بن محمد بن أبي بكر الهروي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1963,
+      "guid": "c9639320-3439-42ef-874c-7bb8bfa28cf6",
+      "startIndex": 1958,
+      "text": "الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1566,
+      "guid": "ccbb4785-232c-4881-a0fa-ff737000068e",
+      "startIndex": 1526,
+      "text": "شمس الدين عبد الرحمن بن أحمد بن عبد الملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 3204,
+      "guid": "cd2132fe-ce8e-454f-9bab-edeaac1551cb",
+      "startIndex": 3156,
+      "text": "أبو عبد الله محمد بن أحمد بن خلف المالكي الأندلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1364,
+      "guid": "cd9ef239-e117-4643-9b93-c99eadde0ba9",
+      "startIndex": 1328,
+      "text": "أبي العباس أحمد بن جميل بن حمد المطعم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 859,
+      "guid": "d5c8f5dc-d7b1-4397-9f03-f9acd78a915d",
+      "startIndex": 825,
+      "text": "علم الدين القاسم بن الموفق الأندلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2640,
+      "guid": "d6195ec9-68fe-416d-aa3c-58ec62af895e",
+      "startIndex": 2576,
+      "text": "تقي الدين محمد بن الشيخ جمال الدين رافع بن محمد [بن] هجرس السلامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 691,
+      "guid": "d95174a6-0dee-495b-832d-f17074f821f4",
+      "startIndex": 671,
+      "text": "فخر الدين ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 415,
+      "guid": "dde5a654-7b1f-4efb-91aa-05211577d67f",
+      "startIndex": 322,
+      "text": "محب الدين أبي عبد الله محمد بن الشيخ الإمام المحدث محب الدين أبي محمد عبد الله بن أحمد بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1221,
+      "guid": "e8a6df4c-e120-4c03-882c-4fd77b2f3256",
+      "startIndex": 1177,
+      "text": "عز الدين إبراهيم بن عبد الله بن الشيخ أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1955,
+      "guid": "fa4a4cd4-125f-4df2-85d7-b1e09ed1e6ac",
+      "startIndex": 1947,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1656,
+      "guid": "faa4d88f-b3b7-46af-b589-9ce4a53c297e",
+      "startIndex": 1611,
+      "text": "أبي الحسن عبد اللطيف بن إسماعيل بن محمد الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1522,
+      "guid": "fce64a55-02e6-4532-9c4b-24222fd5b897",
+      "startIndex": 1489,
+      "text": "كمال الدين عبد الرحيم بن عبد الملك",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو جزء الأنصاري على المشايخ الخمسة السادة: صاحبه الشيخ الإمام العالم المحدث الفاضل العدل الأمين شمس الدين أبي عبد الله محمد بن إبراهيم بن غنائم بن وافد ابن المهندس الصالحي، والإمام العالم الصالح الورع الزاهد صائن الدين أبي عبد الله محمد بن دَمُور بن مصطفى الرومي المقرئ الحنفيين، والصالح المسند الأصيل محب الدين أبي عبد الله محمد بن الشيخ الإمام المحدث محب الدين أبي محمد عبد الله بن أحمد بن محمد، والصالح المسند عماد الدين أبي بكر بن الشيخ محب الدين أبي عبد الله محمد بن عبد الرحمن بن محمد بن عبد الجبار المقدسيين والمسند الصالح أبي عبد الله محمد بن إبراهيم بن مري بن ربيعة الجيتي، بسماعهم من الشيخ شمس الدين ابن أبي عمر وبسماعهم سوى الثاني من الشيخ فخر الدين ابن البخاري وبسماع محمد بن المحب عبد الله من المشايخ السبعة الفقيه تقي الدين أبي عبد الله محمد بن أبي الحسين أحمد بن عبد الله اليونيني، والإمام علم الدين القاسم بن الموفق الأندلسي، وأبي الفتوح طاهر بن أبي الفضل الكحال، وزين الدين أبي محمد أبي بكر عبد الله بن أحمد بن طعان، وأبي طالب بن أبي بكر السروري وأبي الحجاج يوسف بن مكتوم وأبي محمد يحيى بن أبي منصور ابن الصيرفي وبحضوره وبسماع الأخيرين من والد المسمع الرابع المحب محمد بن عبد الرحمن وأبي عبد الله محمد بن عبد الحق وبسماعهم ثلاثتهم من الشيخ عز الدين إبراهيم بن عبد الله بن الشيخ أبي عمر وأبي بكر بن محمد بن أبي بكر الهروي وأبي العباس أحمد بن عبد الدايم وبسماع محمد بن المحب وابن مري أيضاً من أبي العباس أحمد بن جميل بن حمد المطعم وبسماع العماد أبي بكر من أبي عبد الله عبد المولى بن جبارة المرداوي، وبسماع ابن المهندس أيضاً من أبي العباس أحمد بن شيبان، وكمال الدين عبد الرحيم بن عبد الملك، وشمس الدين عبد الرحمن بن أحمد بن عبد الملك، وزينب بنت مكي الحراني، وبسماع ابن طعان من أبي الحسن عبد اللطيف بن إسماعيل بن محمد الصوفي، وبسماع ابن السروري من أبي القاسم أحمد بن برمس بن بكتمر، وبسماع ابن عبد الدايم من المشايخ الثلاثة أبي الفرج عبد الرحمن بن الجوزي وأبي محمد المكرم بن هبة الله وأبي المظفر عبد الخالق بن أبي جعفر بن فيروز وبسماع الشيخ شمس الدين وابن البخاري وابن جميل والكحال وابن شيبان والكمال عبد الرحيم من ابن طبرزد والكندي وبسماع ابن مكتوم وزينب بنت مكي والهروي في رواية محمد بن المحب وابن ربيعة من ابن طبرزد وسماع الباقين وهم الشيخ عز الدين والمحب محمد وابن عبد الحق والهروي وابن جبارة واليونيني، والأندلسي، وابن الصيرفي والشمس ابن الزين.\nStabi, Sprenger 468, 103r\n[...الكندي] وسماع الأندلسي أيضاً من عبد العزيز بن محمود بن الأخضر بسماعهم من القاضي أبي بكر الأنصاري بسنده. بقراءة كاتب السماع محمد بن طغريل بن عبد الله المعروف بابن الصيرفي عفا الله عنه الجماعة [السادة]: السيد الشريف بهاء الدين محمد بن السيد نظام الدين محمد بن السيد نظام الدين المؤيد الحسيني [...] الحنفي، والشيخ جمال الدين أحمد بن أبي الفضل بن محمد الرازي الحنفي، وتقي الدين محمد بن الشيخ جمال الدين رافع بن محمد [بن] هجرس السلامي، وشمس الدين محمد بن شيخنا سعد الدين أبي زكريا يحيى سعد بن محمد بن سعد المقدسي، ومحمد بن [...] أيدمر بن عبد الله الحموي العطار والده، وأحمد بن المسمع الأول ابن المهندس، وفتاه صُبيح، ومحمد بن [...] الدين محمد بن أبي بكر بن عبد المولى بن حسن الأنصاري الذهبي [الدُّهني؟] والده، ويُعرف بابن صاعن، وفتاه بهادر بن [عبد الله] الأقسراني، وضياء الدين أبو فارس بن عبد العزيز بن عبد الرحمن بن عبد الواحد بن أبي زكنون [التونسي] المقرئ، وسمع فوائد ابن ماسي فقط أبو عبد الله محمد بن عبد الله بن عبد الرحمن بن ربيع القرطبي، [...] أبو عبد الله محمد بن أحمد بن خلف المالكي الأندلسي، وأبو جعفر أحمد بن محمد بن مخلوف البستي وصح ذلك يوم السبت رابع شهر ربيع الأول سنة ثلاث وعشرين وسبعمئة بمسجد المسمع الثاني ويعرف ببنت خضر بك في جبل قاسيون غربي الجهاركسية وأجاز المشايخ المذكورون للسامعين جميع ما يجوز لهم روايته بشرطه وتلفظوا بسؤالي إياهم الحمدلله رب العالمين وصلى الله على سيدنا محمد وآله وصحبه وسلم وحسبنا الله ونعم الوكيل."
+}

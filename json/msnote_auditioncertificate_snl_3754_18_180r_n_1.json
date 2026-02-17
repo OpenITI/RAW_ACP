@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 80"
+      ],
+      "classmark": [
+        "3754/18"
+      ],
+      "folio_number": [
+        "180r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "044afc5e-12da-4a87-af3e-abc0ef2cf4b6",
+      "index": 111,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "خديجة بنت محمد الشاهجانية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 277,
+      "guid": "14d4765e-7303-415c-a99c-01102987bdc3",
+      "index": 120,
+      "isZeroPoint": false,
+      "startIndex": 271,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "324b3968-9762-45eb-b675-17dee3c9b078",
+      "index": 113,
+      "isZeroPoint": false,
+      "startIndex": 109,
+      "text": "أبو غالب شجاع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "459"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "32a8f01a-4381-4209-83c2-81ea4719da97",
+      "index": 121,
+      "isZeroPoint": false,
+      "startIndex": 281,
+      "text": " يوم الجمعة الحادي عشر من جمادى الأولى سنة تسع وخمسين وأربع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "ribat_al-shahjaniya"
+          ]
+        ]
+      },
+      "endIndex": 379,
+      "guid": "4ed842ec-47b7-477f-bf2c-4b787dd1b303",
+      "index": 122,
+      "isZeroPoint": false,
+      "startIndex": 349,
+      "text": "رباطها في [...] من قطيعة الربيع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 248,
+      "guid": "75cf24d7-31cc-4a1b-b44f-41ae133abad6",
+      "index": 118,
+      "isZeroPoint": false,
+      "startIndex": 214,
+      "text": "أبو بكر محمد بن منصور بن عمر الكرخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "797b0a62-27de-423b-84d5-6b4846fdac17",
+      "index": 116,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "أبو بكر محمد بن الحسن القصار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "9c69075e-7e37-4a9e-9569-cd48a50ebe78",
+      "index": 117,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": "الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "b77e588f-77cd-41ab-bd68-eb2393d1e84c",
+      "index": 115,
+      "isZeroPoint": false,
+      "startIndex": 147,
+      "text": "أم نسيم فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "d2e8582a-0ba5-47c5-b22c-93e4e179b114",
+      "index": 112,
+      "isZeroPoint": false,
+      "startIndex": 63,
+      "text": "أبو شجاع فارس بن الحسين الذهلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "ea2de723-4c25-48d1-b028-d0518d0cd5a4",
+      "index": 114,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": "أبو غانم حامد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "f0f74018-e171-42fb-8edf-e60bc04cdb18",
+      "index": 119,
+      "isZeroPoint": false,
+      "startIndex": 264,
+      "text": "منصور",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء من الواعظة خديجة بنت محمد الشاهجانية الشيخ أبو شجاع فارس بن الحسين الذهلي وأولاده الثلثة أبو غالب شجاع بقراءته وأبو غانم حامد وأم نسيم فاطمة ووالدتهم وأبو بكر محمد بن الحسن القصار وأخوه الحسين وأبو بكر محمد بن منصور بن عمر الكرخي الفقيه وابناه منصور وإبراهيم في يوم الجمعة الحادي عشر من جمادى الأولى سنة تسع وخمسين وأربع ماية في رباطها في [...] من قطيعة الربيع والحمد لله وحده وصلواته على محمد وآله"
+}

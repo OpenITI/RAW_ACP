@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "44v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "0393f1c6-a4fe-4667-8461-d9681562e5cf",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 32,
+      "text": "محمد بن إسماعيل بن إبراهيم بن سالم ابن الخباز ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "3"
+        ],
+        "year": [
+          "751"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "67cc56d9-c249-4685-8aab-12dd32948592",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 134,
+      "text": "ربيع الأول سنة إحدى وخمسين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "d3904187-402f-4828-9e5c-7c81990ae9e1",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 109,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "d6562fce-3afc-4570-8e66-606887cb5018",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 94,
+      "text": "ابن عبد الدائم",
+      "type": "person"
+    }
+  ],
+  "text": " سمع منه أول حديث فيه على الشيخ محمد بن إسماعيل بن إبراهيم بن سالم ابن الخباز بسماعه حضورا من ابن عبد الدائم محمد بن المحب بقراءته في ربيع الأول سنة إحدى وخمسين وسبعمية"
+}

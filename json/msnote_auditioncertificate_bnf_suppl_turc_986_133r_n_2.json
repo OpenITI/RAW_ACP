@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "133r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f137.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f137.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "713"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "1524e0b8-032f-4fa2-8143-965aa61e6201",
+      "startIndex": 11,
+      "text": "يوم الأربعاء بعد الظهر ثالث صفر سنة ثلاث عشرة وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "46ea7d03-6cc7-4216-9967-de446fb2f32f",
+      "startIndex": 229,
+      "text": "محيي الدين أحمد بن بدر الدين بن حسن بن حمزة الحسيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 527,
+      "guid": "522afca6-6e7e-48eb-9486-f190296ee368",
+      "startIndex": 489,
+      "text": "شهاب الدين أحمد بن محمد بن سالم الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 602,
+      "guid": "56a43556-bc4e-4153-85ce-e2561d0d583f",
+      "startIndex": 562,
+      "text": "عبد الله بن محمد بن أبي بكر بن خليل المكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 329,
+      "guid": "777cc74f-cacd-44a5-ae34-41f343cb7c37",
+      "startIndex": 288,
+      "text": "شهاب الدين محمد بن محمد بن محمود بن دمرداش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 420,
+      "guid": "7b2619d4-a232-4e67-a6c4-4bc0514cc029",
+      "startIndex": 384,
+      "text": "زين الدين حرمي بن مسلم بن محمد الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 452,
+      "guid": "80ffd429-21f1-4533-9328-35e25572b73e",
+      "startIndex": 439,
+      "text": "تقي الدين أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 436,
+      "guid": "9c192ff5-0177-485f-b1c9-75ecdeeacec0",
+      "startIndex": 423,
+      "text": "علاء الدين علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "a2800425-d0f6-4870-8501-9af3754695d9",
+      "startIndex": 119,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "aeaf4b9b-1c4d-4ec1-a275-466425defaba",
+      "startIndex": 164,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dikat al-shuhud"
+          ]
+        ]
+      },
+      "endIndex": 644,
+      "guid": "cabaa3be-4c57-489d-b972-c658ad593453",
+      "startIndex": 608,
+      "text": "دكة الشهود قريبًا من المدرسة الحنبلية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 381,
+      "guid": "f21351b9-e544-4c13-b103-be6d16089b95",
+      "startIndex": 332,
+      "text": "شمس الدين بن سالم بن عيسى بن محمد بن سالم النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "f91c74b8-5ba1-468c-b04f-3aa9e9c73d82",
+      "startIndex": 179,
+      "text": "عمر بن عبد الرحمن بن الحافظ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته عليه يوم الأربعاء بعد الظهر ثالث صفر سنة ثلاث عشرة وسبعمائة فسمع السيد الشيخ الإمام العلامة الحافظ الأوحد العمدة يوسف بن الزكي عبد الرحمن بن يوسف المزي وولده محمد وابن أبيه عمر بن عبد الرحمن بن الحافظ المذكور والسيد الشريف محيي الدين أحمد بن بدر الدين بن حسن بن حمزة الحسيني والشيخ شهاب الدين محمد بن محمد بن محمود بن دمرداش وشمس الدين بن سالم بن عيسى بن محمد بن سالم النابلسي وزين الدين حرمي بن مسلم بن محمد الحنفي وعلاء الدين علي وتقي الدين أحمد ابنا شمس الدين محمد بن علي الحنفي وشهاب الدين أحمد بن محمد بن سالم الشافعي وصح بقراءة الفقير إلى الله تعالى عبد الله بن محمد بن أبي بكر بن خليل المكي على دكة الشهود قريبًا من المدرسة الحنبلية والحمد لله تعالى وصلى الله على سيدنا محمد وآله وصحبه وسلم تسليمًا"
+}

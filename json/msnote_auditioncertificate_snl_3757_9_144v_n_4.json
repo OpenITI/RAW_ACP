@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "144v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "177e736c-a082-475b-958b-2c0c68dedc9c",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 204,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "18e47e29-414c-408a-b72e-671da74d14f3",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 79,
+      "text": "فخر الدين أبي محمد عبد الرحمن بن يوسف بن محمد البعلبكي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 435,
+      "guid": "344cb5ba-8688-4498-aca4-c98463a133e9",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 397,
+      "text": "محمد بن أحمد ابن محمد بن النجيب الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 337,
+      "guid": "4351ef4c-8bd7-4bd5-8032-0186696bdca9",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 329,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "92ff4a64-7298-4fe9-9dda-2c177c005ef6",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 152,
+      "text": "بهاء الدين المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 390,
+      "guid": "9fb5ea6c-28b4-4534-b706-a2fe8f2c4747",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 339,
+      "text": "يوم الجمعة ثاني عشر ذي القعدة سنة ثمان وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 313,
+      "guid": "b4a891d5-3968-4520-8399-e3c004365394",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 272,
+      "text": "بدر الدين محمد بن الحسن ابن المظفر الحسيني",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه أيضا وما بعده على الشيخ الإمام العالم العامل الفاضل الزاهد العابد الورع فخر الدين أبي محمد عبد الرحمن بن يوسف بن محمد البعلبكي الحنبلي بسماعه من بهاء الدين المقدسي بسنده بقراءة الشيخ الإمام العالم نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي وسمعه السيد الشريف بدر الدين محمد بن الحسن ابن المظفر الحسيني وصح ذلك وثبت بجامع دمشق يوم الجمعة ثاني عشر ذي القعدة سنة ثمان وسبعين وستمية كتبه محمد بن أحمد ابن محمد بن النجيب الشافعي عفا الله عنه والحمد لله وحده وصلى الله على محمد وآله وسلم"
+}

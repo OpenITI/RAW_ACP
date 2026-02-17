@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن أحمد السلفي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المشيخة البغدادية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 48"
+      ],
+      "classmark": [
+        "3747/4"
+      ],
+      "folio_number": [
+        "56r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 389,
+      "guid": "0dae18b7-4577-4404-aa17-a07d340081af",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 343,
+      "text": "أبو محمد عبد الله بن ظافر بن عبد الواحد الكناني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 477,
+      "guid": "2b5abc79-14cc-4322-b16d-ffe8584f8fec",
+      "index": 74,
+      "isZeroPoint": false,
+      "startIndex": 449,
+      "text": "أبو نصر فتوح بن خلوف الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "574"
+        ]
+      },
+      "endIndex": 586,
+      "guid": "31ad826e-7ae4-41ba-9396-02ff9a8f1425",
+      "index": 76,
+      "isZeroPoint": false,
+      "startIndex": 530,
+      "text": "يوم الجمعة الحادي عشر من المحرم سنة أربع وسبعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 446,
+      "guid": "5fb7f147-1af8-48b3-81d7-bbb72e424c36",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 423,
+      "text": "إبراهيم بن الحسن الأصبحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "74c9fa98-7fca-4a93-97ad-2dc74e893a2b",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 218,
+      "text": "أبي محمد عبد العزيز بن عيسى بن عبد الواحد اللخمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "alexandria"
+          ]
+        ]
+      },
+      "endIndex": 599,
+      "guid": "74e7e3cd-b7c6-4e7e-8efb-710f26d19f10",
+      "index": 77,
+      "isZeroPoint": false,
+      "startIndex": 589,
+      "text": "الإسكندرية ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 746,
+      "guid": "78da04da-dfe8-4222-911e-b4e4485b8475",
+      "index": 78,
+      "isZeroPoint": false,
+      "startIndex": 691,
+      "text": "أبو إسحق إبراهيم بن عبد الله بن إبراهيم الأنصاري البلنسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 340,
+      "guid": "82c85faf-62ae-47b7-be68-424f1c3d2fb6",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 284,
+      "text": "أبو الحسن علي بن القاضي أبي المكارم المفضل بن علي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 420,
+      "guid": "bd3655f5-b13a-4db0-9f74-9c75a3d1e4ca",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 392,
+      "text": "أبو الحسن بسام بن علي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 794,
+      "guid": "c712a1f2-c674-40ec-b694-ad211534bd7c",
+      "index": 79,
+      "isZeroPoint": false,
+      "startIndex": 757,
+      "text": "عبد الله [بن إبراهيم بن يوسف الأنصاري]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "c91d38e1-96bc-49ab-9b6b-ec9feec00c8f",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 117,
+      "text": "أبي طاهر أحمد ابن محمد بن أحمد بن محمد بن إبراهيم السلفي الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 508,
+      "guid": "d5b3c3db-c1aa-469f-904b-6df4aad2a097",
+      "index": 75,
+      "isZeroPoint": false,
+      "startIndex": 480,
+      "text": "أحمد ابن جعفر بن مخلوف الفهري",
+      "type": "person"
+    }
+  ],
+  "text": " بلغت سماعا لجميع الجزء الثاني عشر من المشيخة البغدادية على مخرجها الشيخ الإمام الأوحد الحافظ شيخ الإسلام محيي السنة أبي طاهر أحمد ابن محمد بن أحمد بن محمد بن إبراهيم السلفي الأصبهاني رضي الله عنه بقراءة القاضي الوجيه أبي محمد عبد العزيز بن عيسى بن عبد الواحد اللخمي والفقهاء الأجلاء أبو الحسن علي بن القاضي أبي المكارم المفضل بن علي المقدسي وأبو محمد عبد الله بن ظافر بن عبد الواحد الكناني وأبو الحسن بسام بن علي المقدسي وإبراهيم بن الحسن الأصبحي وأبو نصر فتوح بن خلوف الهمداني وأحمد ابن جعفر بن مخلوف الفهري وذلك في مجالس آخرها يوم الجمعة الحادي عشر من المحرم سنة أربع وسبعين وخمس ماية بالإسكندرية حرسها الله تعالى والحمد لله وحده وصلواته على سيدنا محمد النبي وعلى آله وسلم وسمع أيضا معهم أبو إسحق إبراهيم بن عبد الله بن إبراهيم الأنصاري البلنسي وصح كتبه عبد الله [بن إبراهيم بن يوسف الأنصاري]"
+}

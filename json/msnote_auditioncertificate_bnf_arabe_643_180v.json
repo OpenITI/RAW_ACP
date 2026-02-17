@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن الخشاب الجوزي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/71254648"
+      ],
+      "work_title": [
+        "الدرّ النظيم في فضائل القرآن العظيم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 643"
+      ],
+      "folio_number": [
+        "180v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000381s/f183.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000381s/f183.image.r=%22Arabe%20643%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "441bc057-5f8d-4870-8ce3-b87ef23c3a15",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 112,
+      "text": "عبد الحليم الحواوشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "1008"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "8d605301-9aa4-48b2-b879-a53af2f9e35a",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 135,
+      "text": "أوسط شهر صفر الخير سنة ثمان بعد ألف من الهجرة النبوية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "afc71c02-fef7-43f6-a343-aaffbf912d43",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 81,
+      "text": "عبد الفتاح الطريني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "baa51668-0ef7-4487-b516-a6c8437d6bb3",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 52,
+      "text": "سلامة الوهباني",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ العرض في مجالس معلومة بقراءة مالكه الشيخ الصالح سلامة الوهباني\nوبقراءة الشيخ عبد الفتاح الطريني بسماع الشيخ عبد الحليم الحواوشي في\nأوسط شهر صفر الخير سنة ثمان بعد ألف من الهجرة النبوية والحمد لله رب العالمين"
+}

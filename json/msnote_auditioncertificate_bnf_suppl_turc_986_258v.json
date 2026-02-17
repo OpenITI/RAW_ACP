@@ -1,0 +1,578 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلس من أمالي أبي القاسم إسماعيل بن أحمد بن عمر السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "258v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f267.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f267.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 385,
+      "guid": "04fce4f2-0c1e-4270-9f08-5bc720289341",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 346,
+      "text": "محمد بن عبد الدائم بن أحمد بن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 761,
+      "guid": "07af69ab-61bd-4ceb-a54f-f92dc724f330",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 758,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "0880b649-66a5-4e3b-ac42-90e6ff372923",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "يحيى بن ياقوت الفراش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "674"
+        ]
+      },
+      "endIndex": 1232,
+      "guid": "088acc95-f490-4faa-862b-1638d5fea9e4",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 1171,
+      "text": "يوم الأربعاء الثامن والعشرين من المحرم سنة أربع وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 721,
+      "guid": "0c735f5f-6b2a-48da-afa7-79faaa8442f2",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 702,
+      "text": "مري بن عثمان بن سالم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "0de27a9d-bf34-4a08-bff6-2b0596961c5f",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 243,
+      "text": "أبو بكر أحمد بن شيخنا شمس الدين بن محمد بن عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 597,
+      "guid": "1a6efce7-4dc2-454a-b2f2-5bf57fb1593e",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 571,
+      "text": " أحمد بن عبد الرحمن بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 424,
+      "guid": "21d79a1f-fd6e-4fda-a47e-4a27da941610",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 421,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "2272475e-7914-4ee3-b044-361cff08b303",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 388,
+      "text": "علي بن عمر بن أحمد بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "258567da-1567-48fa-9aac-799a0d2d1279",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 46,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 767,
+      "guid": "2e870266-f2c1-4ab5-a10d-219d92c2c252",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 764,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 903,
+      "guid": "3aa216a0-07e0-465f-bfdd-7915bb6d9b87",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 869,
+      "text": "محمد بن أحمد بن تمام بن حسان الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 646,
+      "guid": "40987943-65f1-4828-92bf-22c95b643284",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 628,
+      "text": "داود بن حسن بن حسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1121,
+      "guid": "444c9870-1d9d-4467-be2b-794907a90aa1",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 1118,
+      "text": "صالح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 343,
+      "guid": "4662a1f2-eea2-41c2-84d4-38b3f5f17522",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 298,
+      "text": "محمد بن عبد الرحمن بن محمد بن أحمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 430,
+      "guid": "532503de-6d99-4954-a22a-7e13afaff3ea",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 427,
+      "text": "حسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 935,
+      "guid": "6aad2731-8bdb-48dd-ba37-54794e40c44a",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 906,
+      "text": "محمد بن عبد الله بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 866,
+      "guid": "6fe5eb69-8d35-4324-bd1f-2ed2d7b34bef",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 806,
+      "text": "محمد بن الشيخ تقي الدين إبراهيم بن علي بن أحمد بن فضل الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 440,
+      "guid": "75c113ea-bcb9-4e49-b824-600703097bab",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 433,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1109,
+      "guid": "7727da66-c99f-451e-8ef5-ab59e9c42139",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 1103,
+      "text": "إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "77e9a7a7-6eed-4a51-ab15-ca33bfd1b095",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 180,
+      "text": "علي بن مسعود بن نفيس بن عبد الله الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 452,
+      "guid": "790c07e2-2380-4028-81ab-a410380061ce",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 443,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 699,
+      "guid": "8718aaf1-4c3d-4dd1-9dfb-53077959fa60",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 671,
+      "text": "محمد بن عبد العزيز بن إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 971,
+      "guid": "8eb4c8a6-1782-48b6-b67a-65ad993fc237",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 938,
+      "text": "محمد بن أحمد بن عبد الرحمن بن عياش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 668,
+      "guid": "9482f752-0f78-4561-aaae-855f6afd5305",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 649,
+      "text": "عامر بن أحمد بن معمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1066,
+      "guid": "9b74b0fa-12db-4469-9508-4cbca4ab2899",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 1017,
+      "text": "محمد بن نور الدين محمود بن أبي نصر بن منصور الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 625,
+      "guid": "a9efa6e3-8a45-473c-a140-06278fabb7ff",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 600,
+      "text": "محمد بن عبد الساتر بن نعمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 1251,
+      "guid": "ad47b340-4721-4a89-ab34-00ceeefeec92",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 1235,
+      "text": "المدرسة الضيائية ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1009,
+      "guid": "ae5c3ecf-993f-4841-bd68-db9bfea0abcb",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 974,
+      "text": "عبد الله بن الشيخ عباس بن عمر الملقن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 561,
+      "guid": "bad64fa1-c329-47f1-ac9e-d42185e35c67",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 538,
+      "text": "محمد بن عبد الله بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 504,
+      "guid": "d32297c0-8ca4-4bbd-ab32-18784b50ceee",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 495,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "dbc77afa-40d4-4da0-bcbd-47d4939a9bb7",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 110,
+      "text": " عبد العزيز بن الأخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 753,
+      "guid": "e03adffd-3f9b-4600-9284-f183f4371b4d",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 724,
+      "text": "سلطان بن عبيد بن سلطان المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1100,
+      "guid": "e2f37100-1db3-4835-b56f-217ae9f4d2f3",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 1074,
+      "text": "يوسف بن محمد بن عيسى المرجئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1115,
+      "guid": "ea7539c4-77c6-4bd9-bfbb-6e43246fe1e2",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 1112,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 492,
+      "guid": "fa375caf-1675-4e1b-920a-2958d44c8c1e",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 485,
+      "text": "عبد الله",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا المجلس على الشيخ الإمام العالم المسند فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي بإجازته من عبد العزيز بن الأخضر ويحيى بن ياقوت الفراش بسماعهما من المملي بقراءة علي بن مسعود بن نفيس بن عبد الله الموصلي عفا الله عنه وهذا خطه أبو بكر أحمد بن شيخنا شمس الدين بن محمد بن عبد الرحيم ومحمد بن عبد الرحمن بن محمد بن أحمد بن عبد الله ومحمد بن عبد الدائم بن أحمد بن عبد الدائم وعلي بن عمر بن أحمد بن عمر وأخواه محمد وحسين وعبد الله وعبد الرحمن ابنا أحمد بن عبد الله بن راجح وعبد الله وعبد الرحمن ابنا أحمد بن عبد الرحمن بن حسن ومحمد بن عبد الله بن محمد وابن عمه أحمد بن عبد الرحمن بن محمد ومحمد بن عبد الساتر بن نعمة وداود بن حسن بن حسين وعامر بن أحمد بن معمر ومحمد بن عبد العزيز بن إسماعيل ومري بن عثمان بن سالم وسلطان بن عبيد بن سلطان المقدسيون ومحمد وأحمد ابنا الزين أبي بكر بن محمد بن طرخان ومحمد بن الشيخ تقي الدين إبراهيم بن علي بن أحمد بن فضل الواسطي ومحمد بن أحمد بن تمام بن حسان الخياط ومحمد بن عبد الله بن عبد الرحمن ومحمد بن أحمد بن عبد الرحمن بن عياش وعبد الله بن الشيخ عباس بن عمر الملقن أبوه ومحمد بن نور الدين محمود بن أبي نصر بن منصور الحلبي أبوه ويوسف بن محمد بن عيسى المرجئ وإسماعيل ومحمد وصالح بنو إبراهيم بن أبي بكر الحوراني وصح ذلك وثبت في يوم الأربعاء الثامن والعشرين من المحرم سنة أربع وسبعين وستمائة بالمدرسة الضيائية بسفح قاسيون ظاهر دمشق كتبه علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه حامدًا الله ومصليًا على نبيه محمد وآله وصحبه ومسلمًا صح صح."
+}

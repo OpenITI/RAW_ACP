@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد القادر بن علي البعلبكي اليونيني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مشيخة اليونيني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 125"
+      ],
+      "classmark": [
+        "3762/5"
+      ],
+      "folio_number": [
+        "54v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "769"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "89488c4b-cc5a-4840-ac1f-956a02f0e213",
+      "startIndex": 177,
+      "text": "الجمعة رابع عشري ربيع الآخر سنة تسع وستين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "97376eab-528e-457c-bfc0-99818f687424",
+      "startIndex": 243,
+      "text": "عبد العزيز ابن محمد بن عبد العزيز بن المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 171,
+      "guid": "abea5a5f-fe0e-44fd-8f35-e3be7f3a66d5",
+      "startIndex": 161,
+      "text": "منزلي بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "baf5b9ed-38ef-4bb2-b3d7-11931901376d",
+      "startIndex": 115,
+      "text": "ملكة بنت أبي العلاء ابن إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "c0e155af-3909-4b40-9319-bd029f5203d7",
+      "startIndex": 105,
+      "text": "أحمد ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذه المشيخة علي بقراءتي سوى الوفيات والمواليد بسماعي على المخرجة له بقراءة مخرجها عن شيوخه ولدي أحمد وأمه ملكة بنت أبي العلاء ابن إبراهيم وصح ذلك وثبت بمنزلي بدمشق يوم الجمعة رابع عشري ربيع الآخر سنة تسع وستين وسبعمية وأجزت لهما وكتب عبد العزيز ابن محمد بن عبد العزيز بن المؤذن وصلى الله على محمد وآله وصحبه وسلم"
+}

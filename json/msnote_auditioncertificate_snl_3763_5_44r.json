@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاضي أبو يعلى محمد بن الحسين بن محمد الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي يعلى الفراء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 128"
+      ],
+      "classmark": [
+        "3763/5"
+      ],
+      "folio_number": [
+        "44r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "734"
+        ]
+      },
+      "endIndex": 650,
+      "guid": "03202589-2664-42e6-bbb0-a58021dcd817",
+      "startIndex": 595,
+      "text": "الأربعاء تاسع عشر جمادى الأولى سنة أربع وثلاثين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 678,
+      "guid": "060100bd-8fbf-487f-a7ac-bef6fab9f414",
+      "startIndex": 653,
+      "text": "منزله بالصالحية من القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 317,
+      "guid": "10323290-5e60-4f85-b64a-9b9fd52efae1",
+      "startIndex": 282,
+      "text": "محمد بن معتوق بن عمر بن منصور الرملي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 273,
+      "guid": "3fb72623-c957-4ba4-85b2-f750b44218da",
+      "startIndex": 270,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "3fc64d5b-65cc-4548-9581-bfcf8f9e4afe",
+      "startIndex": 149,
+      "text": "النجيب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "60c8c2f0-811a-47e7-bb6f-26b2ba3e6c44",
+      "startIndex": 213,
+      "text": "جمال الدين عبد الله بن مقبل بن إلياس البعلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 560,
+      "guid": "6992f225-b284-4e82-a4e0-56180b7268f4",
+      "startIndex": 508,
+      "text": "محمد بن بدر الدين حسن بن موسى بن عمر بن الخضر الهكاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "6e78dff8-e6cf-4104-8e2b-a21cbb8473d9",
+      "startIndex": 168,
+      "text": "سراج الدين عمر بن علي بن شعيب الطلحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 430,
+      "guid": "ab9f1d1a-8ce6-4812-a065-d9187c5e34e1",
+      "startIndex": 427,
+      "text": "طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "b03fdeb4-cd1a-439b-8b5b-54ef09b0ab23",
+      "startIndex": 264,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 381,
+      "guid": "b3e8a2a6-6be3-48eb-b53e-0a8b3c8d7be9",
+      "startIndex": 339,
+      "text": "ناصر الدين محمد بن بيبرس بن عبد الله الشمسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "c1add321-9d47-4c37-bea1-7f711f651c90",
+      "startIndex": 64,
+      "text": "شهاب الدين أبي العباس أحمد بن منصور بن إبراهيم الحلبي ابن الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 578,
+      "guid": "c8145665-25e2-4472-8df3-3c679515e1ed",
+      "startIndex": 573,
+      "text": "ريحان ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 419,
+      "guid": "d2fe3bdf-ccfe-4a7d-9618-aa2c3820fe23",
+      "startIndex": 390,
+      "text": "علاء الدين علي بن قيران السكزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 745,
+      "guid": "d613cede-7625-46ae-86b5-366e2091b0a1",
+      "startIndex": 719,
+      "text": "محمد بن علي بن أيبك السروجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 505,
+      "guid": "d9a04a9b-abdf-4945-8ddb-715c0b6aa5ac",
+      "startIndex": 474,
+      "text": "محمد بن محمود بن عبد الله الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 424,
+      "guid": "f6dc3b4c-d9a3-4947-9262-fa2521c0c3b2",
+      "startIndex": 422,
+      "text": "علي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته على الشيخ الجليل الصالح المسند المكثر الكبير الصدر الرئيس شهاب الدين أبي العباس أحمد بن منصور بن إبراهيم الحلبي ابن الجوهري بسماعه فيه أصلا من النجيب فسمعه الشيخ سراج الدين عمر بن علي بن شعيب الطلحي والخطيب جمال الدين عبد الله بن مقبل بن إلياس البعلي وولداه محمد وأحمد والشيخ محمد بن معتوق بن عمر بن منصور الرملي نزيل اطرابلس الشام وناصر الدين محمد بن بيبرس بن عبد الله الشمسي والشيخ علاء الدين علي بن قيران السكزي وعلي وطلحة ولدا أبي بكر بن علي بن معين الخياط ومعهما محمد بن محمود بن عبد الله الخياط ومحمد بن بدر الدين حسن بن موسى بن عمر بن الخضر الهكاري وفتا والده ريحان وصح وثبت في يوم الأربعاء تاسع عشر جمادى الأولى سنة أربع وثلاثين وسبعماية بمنزله بالصالحية من القاهرة وأجاز لنا ما يجوز له روايته قاله وكتبه محمد بن علي بن أيبك السروجي عفا الله تعالى عنه بمنه وكرمه وكذلك قرأت عليه الأحاديث الملحقة في الورقة في وسط الجزء من موضعها كتبه السروجي"
+}

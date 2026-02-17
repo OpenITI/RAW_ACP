@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        " يوسف بن محمد ابن قاضي شهبة"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " جزء الاحاديث المنتقاة من مغازى موسى بن عقبة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Petermann II 30"
+      ],
+      "folio_number": [
+        "77v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN884842371/1200/0/00000160.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00051132"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "3bcbe1c9-265a-4c27-87b7-b65f10c6445f",
+      "startIndex": 74,
+      "text": "ابن العماد الكاتب القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nayrab"
+          ]
+        ]
+      },
+      "endIndex": 406,
+      "guid": "4b827345-1fdc-493c-9108-899bb9eb731a",
+      "startIndex": 378,
+      "text": "بستان المسمع بالسهم في النيرب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "7df849a7-9784-46d3-8120-10a70d2f709e",
+      "startIndex": 119,
+      "text": "محمد بن محمد بن محمد بن محمود بن البخاري الحنفي ابن خطيب الزنجيلية ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 471,
+      "guid": "aecc0a4d-0f3f-411e-a09c-10b84d8c38a9",
+      "startIndex": 433,
+      "text": "أبو هريرة عبد الرحمن ابن محمد بن النقاش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "733"
+        ]
+      },
+      "endIndex": 375,
+      "guid": "c0d7d58e-0ec7-4d5d-80d5-b04f48c96114",
+      "startIndex": 328,
+      "text": " يوم السبت ثاني ذي حجة سنة ثلاث وثلاثين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "f05dc428-10f2-43bc-b471-0223c1afcec4",
+      "startIndex": 216,
+      "text": "جمال الدين يوسف بن الشيخ الإمام العالم شمس الدين محمد ابن عمر بن محمد بن عبد الوهاب بن قاضي شبهة",
+      "type": "person"
+    }
+  ],
+  "text": "سمع على الشيخ الإمام العالم [باقي السطر مخروم لتآكل حافة الورقة العلوية].\nابن العماد الكاتب القرشي، بقراءة كاتب الطبقة محمد بن محمد بن محمد بن محمود بن البخاري الحنفي ابن خطيب الزنجيلية جماعة منهم الإمام أقضى القضاة جمال الدين يوسف بن الشيخ الإمام العالم شمس الدين محمد ابن عمر بن محمد بن عبد الوهاب بن قاضي شبهة وصح السماع وثبت يوم السبت ثاني ذي حجة سنة ثلاث وثلاثين وسبعمائة ببستان المسمع بالسهم في النيرب في غوطة دمشق نقله من خطه أبو هريرة عبد الرحمن ابن محمد بن النقاش عامله الله بلطفه الخفي وأجاز المسمع للسامعين ما له روايته والحمدلله رب العالمين."
+}

@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج3"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/3"
+      ],
+      "folio_number": [
+        "40v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "0a08db6e-eb1e-412a-937b-8e0f2a5fe3b3",
+      "startIndex": 37,
+      "text": "أبو القاسم أحمد بن المبارك بن عبد الباقي بن قفرجل الدقاق ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "year": [
+          "581"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "7fe83b37-3f4f-4b3c-9042-a997733d1da7",
+      "startIndex": 104,
+      "text": "سنة إحدى وثمانين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 35,
+      "guid": "c408060a-b0e0-4dd6-968a-d54825d7726c",
+      "startIndex": 17,
+      "text": "محمد بن أحمد المرحب",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة محمد بن أحمد المرحب أبو القاسم أحمد بن المبارك بن عبد الباقي بن قفرجل الدقاق وآخرون في سنة إحدى وثمانين وخمسماية وصح وثبت"
+}

@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد جعفر بن أحمد بن الحسين السراج القارئ "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتخبة الصحاح العوالي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 8"
+      ],
+      "catalog": [
+        "FMMU 165"
+      ],
+      "classmark": [
+        "3768/14"
+      ],
+      "folio_number": [
+        "206r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 23,
+      "guid": "1c454d2c-901d-4e9c-be84-1435da327467",
+      "startIndex": 17,
+      "text": "الشريف ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "c4996cc8-3ba1-4672-af6d-d11b82bc4209",
+      "startIndex": 35,
+      "text": "فخر النساء شهدة بنت أبي نصر أحمد بن الفرج الإبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "d6484629-e825-4644-a387-3c74996e7ca9",
+      "startIndex": 91,
+      "text": "أبي نصر الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "491"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "da751f38-2357-4390-a676-a0c032800c03",
+      "startIndex": 112,
+      "text": "شعبان سنة إحدى وتسعين وأربعمائة",
+      "type": "date"
+    }
+  ],
+  "text": "ونقلت أيضا من خط الشريف وسمعه أيضا فخر النساء شهدة بنت أبي نصر أحمد بن الفرج الإبري بقراءة أبي نصر الأصبهاني في شعبان سنة إحدى وتسعين وأربعمائة"
+}

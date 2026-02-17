@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "29r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.item.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "36ed3ffd-7354-488d-aa32-eedbbcacb50d",
+      "index": 410,
+      "isZeroPoint": false,
+      "startIndex": 100,
+      "text": "المحب عبد الله بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 253,
+      "guid": "37e6196a-003a-427e-961e-ccd1da7dd363",
+      "index": 413,
+      "isZeroPoint": false,
+      "startIndex": 240,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21- 30"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "652"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "3b329665-2240-46e7-ad1b-2bc799f71ea0",
+      "index": 412,
+      "isZeroPoint": false,
+      "startIndex": 172,
+      "text": "الثلاثاء في العشر الأخير من جمادى الأولى سنة اثنتين وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "515959d8-140d-4e34-bf1e-24d45d403c8b",
+      "index": 409,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": "الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "62df02ff-4470-4c20-a092-e30510a902d2",
+      "index": 411,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "أحمد بن علي بن حسن بن داود الجزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "637bdb28-2224-4ab2-a13b-cf1d08c4989f",
+      "index": 408,
+      "isZeroPoint": false,
+      "startIndex": 27,
+      "text": "بدر الدين عبد الوهاب بن محمد بن إبراهيم المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جزء ابن جوصا على الشيخ بدر الدين عبد الوهاب بن محمد بن إبراهيم المقدسي بسماعه من الخشوعي بقراءة المحب عبد الله بن أحمد أحمد بن علي بن حسن بن داود الجزري في الرابعة يوم الثلاثاء في العشر الأخير من جمادى الأولى سنة اثنتين وخمسين وستمائة بالجامع المظفري."
+}

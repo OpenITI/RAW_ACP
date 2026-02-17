@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "128r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f132.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f132.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "573"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "636deb79-7a03-4cd9-9613-ef5305b0fbbb",
+      "index": 245,
+      "isZeroPoint": false,
+      "startIndex": 112,
+      "text": "يوم الجمعة الرابع من ربيع الأول سنة ثلاث وسبعين [وخمسمائة]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 38,
+      "guid": "784c12a2-5ed2-4df5-875d-456831a454cc",
+      "index": 242,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "بن عيسى يوسف بن الطفيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "cacf1d87-65f8-4d29-83c7-aedce558aa05",
+      "index": 244,
+      "isZeroPoint": false,
+      "startIndex": 68,
+      "text": "أبو الحسن علي بن أبي الفضائل الجميزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "d1d3b09c-acb2-41b3-a84f-338faef21900",
+      "index": 243,
+      "isZeroPoint": false,
+      "startIndex": 45,
+      "text": "أبو القاسم عبد الرحيم",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة بن عيسى يوسف بن الطفيل ولده أبو القاسم عبد الرحيم وأبو الحسن علي بن أبي الفضائل الجميزي بتاريخ يوم الجمعة الرابع من ربيع الأول سنة ثلاث وسبعين [وخمسمائة]"
+}

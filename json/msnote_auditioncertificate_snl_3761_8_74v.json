@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد بشر بن الحسين الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الزبير بن عدي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/8"
+      ],
+      "folio_number": [
+        "74v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 207,
+      "guid": "7aeac8e1-fab0-4d79-84cf-62339c03759b",
+      "startIndex": 194,
+      "text": "سفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "8546b675-b744-4320-924b-7c003a0ed799",
+      "startIndex": 132,
+      "text": "الكندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "677"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "995791e9-b4f6-4d3c-9069-7bc6670cdc0b",
+      "startIndex": 150,
+      "text": "الثلثا رابع ذي الحجة سنة سبع وسبعين وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "b8c9337f-1804-4939-ad7a-c9e1bc1ab8a0",
+      "startIndex": 213,
+      "text": " يوسف بن الزكي عبد الرحمن بن يوسف المزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "dfd2622f-0afa-4954-897f-11ee90388fdc",
+      "startIndex": 68,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم بقية المشايخ رحلة الوقت فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي بسماعه من الكندي وصح في يوم الثلثا رابع ذي الحجة سنة سبع وسبعين وستمية بسفح جبل قاسيون وكتب يوسف بن الزكي عبد الرحمن بن يوسف المزي عفا الله عنه والحمد لله وحده"
+}

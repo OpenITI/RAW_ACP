@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن موسى الأشيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أبي علي الأشيب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 95"
+      ],
+      "classmark": [
+        "3757/6"
+      ],
+      "folio_number": [
+        "92r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "04647c0a-409c-44b2-b9e8-73402a6ff5b8",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "11"
+        ],
+        "year": [
+          "747"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "07396ea0-7e9f-4679-b8c8-a8c3e46d8a95",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 126,
+      "text": "ذي القعدة سنة سبع وأربعين [وسبعمية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "a5de0bc4-c686-441e-80cf-355c3901d12a",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 61,
+      "text": "ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "a6bb2950-a0ce-401a-a0f6-1035c3d0c488",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 79,
+      "text": "علي بن أحمد بن عبد الله بن الناصح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "cb1d4c71-bbe3-4f47-babb-ea1115f0de26",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 18,
+      "text": "أحمد بن عبد الهادي بن عبد الحميد",
+      "type": "person"
+    }
+  ],
+  "text": " وقرأته على الشيخ أحمد بن عبد الهادي بن عبد الحميد بسماعه من ابن البخاري فسمعه علي بن أحمد بن عبد الله بن الناصح وغير واحد في ذي القعدة سنة سبع وأربعين [وسبعمية] كتبه محمد بن المحب"
+}

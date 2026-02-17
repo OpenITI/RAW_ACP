@@ -1,0 +1,356 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "118r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "18d065e6-fc5e-43e3-b4c2-14def8afc02e",
+      "startIndex": 327,
+      "text": "حسن بن إسماعيل بن علي الجندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "613"
+        ]
+      },
+      "endIndex": 715,
+      "guid": "194fe8ca-c92b-4266-86ce-1d0055b3789e",
+      "startIndex": 672,
+      "text": "الخميس ثالث عشر ذي حجة سنة ثلاث عشرة وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 646,
+      "guid": "1c9be1a5-854e-45c6-9341-52e3798311d5",
+      "startIndex": 597,
+      "text": "محمد بن يوسف بن محمد بن أبي يداس البرزالي الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "28a0ace0-de75-4078-b5b7-abba8e24683f",
+      "startIndex": 153,
+      "text": " ابن أبي العلاء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 520,
+      "guid": "34d45e1e-3765-4f94-843e-3777f2c482ff",
+      "startIndex": 505,
+      "text": "يعيش بن أبي طالب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "3e58925d-4956-4fff-ad32-81de27c38750",
+      "startIndex": 171,
+      "text": " أبي بكر محمد بن عمر العدني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 594,
+      "guid": "5b4b2a94-8b66-49d0-9c61-fc532d83af85",
+      "startIndex": 565,
+      "text": "عيسى بن موسى بن أبي بكر الصقلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "'azaba_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 744,
+      "guid": "68983285-fb41-4e30-a8d5-1c51e13ab597",
+      "startIndex": 718,
+      "text": "مدرسة العزبة بالكشك من دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 447,
+      "guid": "71b8fd71-ca39-42cd-8f0e-612f05f842f3",
+      "startIndex": 420,
+      "text": "خضر بن رمضان بن خضر اليلداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 498,
+      "guid": "832b4081-8f4d-4929-b820-e6c8e18a4a47",
+      "startIndex": 450,
+      "text": "أبو الفتح نصر الله بن أبي العز بن أبي طالب الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 562,
+      "guid": "a14b4f1f-6038-4222-8513-956a17b17628",
+      "startIndex": 523,
+      "text": "عبد العزيز بن عبد الوهاب بن فضائل السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "a6df851d-70f6-4a6f-8385-e4f5e89f1da8",
+      "startIndex": 269,
+      "text": "أبو الفتح نصر الله بن عين الدولة بن عيسى الفقيه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 417,
+      "guid": "b4be8066-0ae8-4687-acb2-54daf97932f0",
+      "startIndex": 409,
+      "text": "أبو الفهم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "3357b21f-b00e-4ae9-a0b7-02a1edd21dc7"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "ba82b79e-f787-4725-bf24-80db991d37de",
+      "startIndex": 211,
+      "text": "أبو غالب مظفر بن الحسين بن أبي محمد الفقيه الحنفي الزراد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 401,
+      "guid": "d5f8f746-5c6e-476c-894f-42e65507af2b",
+      "startIndex": 357,
+      "text": "عبد الرحمن بن أبي الفهم بن عبد الرحمن الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "f249c3e9-eb40-4361-af8b-9e2d02e0f923",
+      "startIndex": 78,
+      "text": "عز الدين أبي محمد الحسن بن علي بن الحسين بن محمد الأسدي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو الثاني من حديث أبي بكر بن خلاد النصيبي على الشيخ الأجل عز الدين أبي محمد الحسن بن علي بن الحسين بن محمد الأسدي بحق سماعه من جده عن ابن أبي العلاء عن أبي بكر محمد بن عمر العدني عنه الجماعة أبو غالب مظفر بن الحسين بن أبي محمد الفقيه الحنفي الزراد وأبو الفتح نصر الله بن عين الدولة بن عيسى الفقيه وابن أخته حسن بن إسماعيل بن علي الجندي وعبد الرحمن بن أبي الفهم بن عبد الرحمن الدمشقي وابنه أبو الفهم وخضر بن رمضان بن خضر اليلداني وأبو الفتح نصر الله بن أبي العز بن أبي طالب الصفار وعمه يعيش بن أبي طالب وعبد العزيز بن عبد الوهاب بن فضائل السلمي وعيسى بن موسى بن أبي بكر الصقلي ومحمد بن يوسف بن محمد بن أبي يداس البرزالي الإشبيلي بقراءته وهذا خطه في يوم الخميس ثالث عشر ذي حجة سنة ثلاث عشرة وستماية بمدرسة العزبة بالكشك من دمشق حرسها الله"
+}

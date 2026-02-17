@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن أبي شريح الأنصاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المائة الشريحية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/8"
+      ],
+      "folio_number": [
+        "129r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 584,
+      "guid": "1c40468e-17c8-4655-b373-d9812e48cf47",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 565,
+      "text": "سفح قاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "3355c237-831a-4db7-8644-3ca22c4bb4d6",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 65,
+      "text": "شرف الدين أبي إسحق إبراهيم بن براق بن ظاهر السوادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "528a5392-6374-46ae-897d-35716b743473",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 363,
+      "text": "عباس ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "601fb46b-79a1-4571-a005-110c4924f6f4",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 355,
+      "guid": "69d2bdc1-ef4a-42ac-8f93-3cb6c9ebd15d",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 302,
+      "text": "برهان الدين أبو إسحق إبراهيم بن عباس بن المهذب التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "676"
+        ]
+      },
+      "endIndex": 562,
+      "guid": "81be875b-a63d-44c0-8dc0-50a956ccff1f",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 515,
+      "text": "يوم الجمعة الرابع من شعبان سنة ست وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "8c5b28ab-0c79-4bf9-b793-635531d35362",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 251,
+      "text": "نور الدين أبو الحسن علي بن أبي بكر بن بحتر الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 426,
+      "guid": "a7c45ef6-0b87-4c70-87ab-a502f420e106",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 369,
+      "text": "شهاب الدين أبو العباس أحمد بن علي بن أحمد بن خليفة الحجاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 497,
+      "guid": "b312722e-64e9-4da1-973f-34fed5ad1d2b",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 464,
+      "text": "الشهاب أحمد بن حسن بن علي الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 461,
+      "guid": "d298e0ee-30f6-41de-8999-f33ec5bfe8f3",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 429,
+      "text": "الفخر أحمد بن حسن بن يوسف الفارقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "ed425a44-bddf-4ac4-80a5-fbc0c6fa6011",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 135,
+      "text": "ابن اللتي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء وفيه المائة الشريحية على الشيخ الصالح الزاهد شرف الدين أبي إسحق إبراهيم بن براق بن ظاهر السوادي بسماعه فيه نقلا من ابن اللتي بسنده فيه  بقراءة كاتبه أفقر عباد[ه] إلى عفوه ورحمته علي بن مسعود بن نفيس الموصلي ثم الحلبي السادة الفقيه نور الدين أبو الحسن علي بن أبي بكر بن بحتر الحنفي وبرهان الدين أبو إسحق إبراهيم بن عباس بن المهذب التنوخي وابنه عباس وشهاب الدين أبو العباس أحمد بن علي بن أحمد بن خليفة الحجاوي والفخر أحمد بن حسن بن يوسف الفارقي والشهاب أحمد بن حسن بن علي الأنصاري وصح ذلك وثبت في يوم الجمعة الرابع من شعبان سنة ست وسبعين وستماية بسفح قاسيون ظاهر دمشق المحروسة وأجاز المسمع لمن ذكر جميع مروياته بالشرط المعتبر ولفظ بذلك حين سألته والحمد لله وحده وصلى الله على نبيه محمد وآله وصحبه وسلم تسليما كثيرا كثيرا"
+}

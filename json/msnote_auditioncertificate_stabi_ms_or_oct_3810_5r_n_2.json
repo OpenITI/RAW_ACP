@@ -1,0 +1,679 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عبد الله ابن الخطاب الرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سداسيات في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. or. oct 3810"
+      ],
+      "folio_number": [
+        "5r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00020229"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 644,
+      "guid": "0199c7a6-3da1-41f6-b025-1a9c0b7c0a60",
+      "startIndex": 589,
+      "text": "صدر الدين أبي الفتح محمد بن محمد بن محمد الوراق البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1046,
+      "guid": "08055a60-8262-472a-948a-73976c5eb66f",
+      "startIndex": 992,
+      "text": "إبراهيم بن الإمام شمس الدين محمد بن عبد الرحيم الأميوطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1311,
+      "guid": "1016b531-34f7-4568-9c8b-af41ea6ed64c",
+      "startIndex": 1287,
+      "text": "عبد المحسن أحمد بن الرفعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "14512126-6c3a-42e7-abaf-4f494f60e4de",
+      "startIndex": 350,
+      "text": "أبي الطاهر ابن [ياسين]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 495,
+      "guid": "20c8cbbe-aed1-441d-9ea6-b2dda736e751",
+      "startIndex": 490,
+      "text": "الرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 431,
+      "guid": "29d85958-7e3f-4d42-9bed-3d123d1aafdc",
+      "startIndex": 424,
+      "text": "ابن موقا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1357,
+      "guid": "31b451a1-e083-45af-a62f-2189350a627d",
+      "startIndex": 1315,
+      "text": "ناصر الدين محمد بن علاء الدين طيبرس الشهابي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 478,
+      "guid": "457bbd97-89c4-4047-8c21-6d880d464ca2",
+      "startIndex": 458,
+      "text": " أبي الطاهر ابن ياسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "468ca91b-770c-4a77-8aff-363a2f208a43",
+      "startIndex": 325,
+      "text": "أبي البركات ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1178,
+      "guid": "4871d1de-4933-413f-b95d-cf1bef86acce",
+      "startIndex": 1147,
+      "text": "أيوب بن بكلك بن أبي بكر البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 933,
+      "guid": "52bfce23-a8e3-414c-bc80-bbcfe0b44f7f",
+      "startIndex": 923,
+      "text": "أبو ذر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "57cc327c-714b-4f62-a031-d3266805d342",
+      "startIndex": 146,
+      "text": "نجم الدين أبي بكر عبد الله بن علي بن عمر بن شبل الصنهاجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 381,
+      "guid": "78327818-4a60-420b-9d50-d09941a0573a",
+      "startIndex": 374,
+      "text": "ابن علاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 286,
+      "guid": "81b689e1-1142-40d3-9d3b-34ac3492f928",
+      "startIndex": 281,
+      "text": "الرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1372,
+      "guid": "840e6278-9792-4ddf-acde-52bcae8edca1",
+      "startIndex": 1369,
+      "text": "جوهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "8d8f46e7-5407-4220-9b88-140e181d6159",
+      "startIndex": 229,
+      "text": "ابن الفرات",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1232,
+      "guid": "929ac196-6f1b-4257-84a8-9e1d212aa00a",
+      "startIndex": 1213,
+      "text": "حسن بن علي بن محمد [",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1365,
+      "guid": "a42901bd-0d15-415d-a2e2-67b3581f5770",
+      "startIndex": 1361,
+      "text": "صُبيح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1108,
+      "guid": "a97342f9-b9d3-4ccb-9756-6f630158bc1d",
+      "startIndex": 1057,
+      "text": "فتح الدين محمد بن محمد بن محمد بن أبي الحرم القلانسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-salihyia_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 1557,
+      "guid": "b57f89fa-f9fd-4c26-9a65-a7da88c6b943",
+      "startIndex": 1542,
+      "text": "المدرسة الصالحية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "722"
+        ]
+      },
+      "endIndex": 1539,
+      "guid": "bc0ef622-7106-4a52-b5e4-696080660b53",
+      "startIndex": 1492,
+      "text": "يوم الثلاثاء خامس صفر سنة اثنتين وعشرين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 759,
+      "guid": "bfb0eb54-7430-463c-bcad-83b3fa99e940",
+      "startIndex": 681,
+      "text": "تقي الدين أبو عبد الله محمد بن الشيخ بهاء الدين أحمد بن أبي بكر بن عزام الشاذلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 914,
+      "guid": "cd44d334-79c7-47ad-be03-13996863c6a3",
+      "startIndex": 874,
+      "text": "فخر الدين أبو محمد عثمان بن يوسف النُويري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 855,
+      "guid": "d16b67c0-826e-4b9e-bf58-06a6e78d05ce",
+      "startIndex": 777,
+      "text": "صدر الدين أبو عبد الله محمد بن سيدنا قاضي القضاة أبي العباس أحمد بن عمر الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1120,
+      "guid": "d3c39b40-f429-44a4-91ca-e734bd86593b",
+      "startIndex": 1117,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 988,
+      "guid": "d4b7014a-337d-4b51-9084-ad89ac0b5c48",
+      "startIndex": 944,
+      "text": "شهاب الدين أحمد بن محمد بن عبد الرحمن العسجدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1468,
+      "guid": "d8b4eedb-ad4d-4957-ab95-a5451a0a53b3",
+      "startIndex": 1437,
+      "text": "محمد بن رافع بن أبي محمد السلامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "e01126c2-e296-4bac-b763-6721039ec12b",
+      "startIndex": 49,
+      "text": "شهاب الدين أبي العباس أحمد بن أبي بكر بن مكي بن حبيش بن حكم الزهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "e1af2c95-0dcd-407c-88ff-eb0792298d7a",
+      "startIndex": 385,
+      "text": "معين الدين الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1434,
+      "guid": "ea37f238-06a7-478a-a61e-d96f544b04c6",
+      "startIndex": 1405,
+      "text": "علاء الدين علي بن قيران السكزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1143,
+      "guid": "ec50162b-850c-40b2-8b59-aa2953e2ea3b",
+      "startIndex": 1140,
+      "text": "جوهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1283,
+      "guid": "ee46b271-9a86-43bc-9bda-e8d2244de850",
+      "startIndex": 1243,
+      "text": "جمال الدين محمود بن علم الدين سنجر البرلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1192,
+      "guid": "f077a094-5ce8-41bc-a787-a72785eec499",
+      "startIndex": 1188,
+      "text": "فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 269,
+      "guid": "f49bf041-831b-4407-8e8f-c010a390edd2",
+      "startIndex": 250,
+      "text": " أبي الطاهر بن ياسين",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذه السداسيات على الشيخين الإمام المحدث شهاب الدين أبي العباس أحمد بن أبي بكر بن مكي بن حبيش بن حكم الزهري، والمحدث الفاضل العالم المسند نجم الدين أبي بكر عبد الله بن علي بن عمر بن شبل الصنهاجي، بسماع الأول فيه أصلاً من ابن الفرات بإجازته من أبي الطاهر بن ياسين بسماعه من الرازي وبسماع الثاني فيه من المشايخ الأربعة أبي البركات ابن النحاس، وأبي الطاهر ابن [ياسين] وابن علاق، ومعين الدين الدمشقي بسماع ابن النحاس من ابن موقا وبسماع الثلاثة الباقين من أبي الطاهر ابن ياسين كلاهما عن الرازي سماعاً، وبإجازة المسمع الأول من المشايخ الأربعة المذكورين بقراءة القاضي العدل المحدث الفاضل صدر الدين أبي الفتح محمد بن محمد بن محمد الوراق البغدادي الجماعة صاحبه الفقيه المحدث المفتي تقي الدين أبو عبد الله محمد بن الشيخ بهاء الدين أحمد بن أبي بكر بن عزام الشاذلي، والقاضي المحدث صدر الدين أبو عبد الله محمد بن سيدنا قاضي القضاة أبي العباس أحمد بن عمر الحنبلي، والإمام العلامة فخر الدين أبو محمد عثمان بن يوسف النُويري، وابنه أبو ذر محمد، والإمام شهاب الدين أحمد بن محمد بن عبد الرحمن العسجدي، وإبراهيم بن الإمام شمس الدين محمد بن عبد الرحيم الأميوطي، والقاضي فتح الدين محمد بن محمد بن محمد بن أبي الحرم القلانسي، وابنه محمد في الخامسة، وفتاه جوهر، وأيوب بن بكلك بن أبي بكر البغدادي، وابنته فاطمة في الثالثة، والشيخ حسن بن علي بن محمد [الصوي؟]، وجمال الدين محمود بن علم الدين سنجر البرلي، وعبد المحسن أحمد بن الرفعة، وناصر الدين محمد بن علاء الدين طيبرس الشهابي، وصُبيح، وجوهر فتيا ابن قاضي القضاة الحنبلي، وعلاء الدين علي بن قيران السكزي ومحمد بن رافع بن أبي محمد السلامي، وهذا خطه وصح وثبت في يوم الثلاثاء خامس صفر سنة اثنتين وعشرين وسبعمائة بالمدرسة الصالحية وأجاز المذكورَين جميع ما يرويانه الحمد لله وحده وصلى الله على محمد."
+}

@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "150v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 1596,
+      "guid": "01f529b6-b187-481b-8d7e-8a5f84152f99",
+      "index": 156,
+      "isZeroPoint": false,
+      "startIndex": 1559,
+      "text": "محمد بن أحمد بن محمد بن النجيب الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "khatuniya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 958,
+      "guid": "15298f62-4b7d-4aab-8fc6-467a028c12cd",
+      "index": 150,
+      "isZeroPoint": false,
+      "startIndex": 936,
+      "text": "الخاتونية بمدينة السلام",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "3362b618-3206-43b6-8286-3adbcb6b42a3",
+      "index": 139,
+      "isZeroPoint": false,
+      "startIndex": 370,
+      "text": "أبي الحسن علي بن محمد بن محمد بن محمد الخطيب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "5043178e-d2d5-4e19-bf8e-99175fb46fa4",
+      "index": 137,
+      "isZeroPoint": false,
+      "startIndex": 298,
+      "text": "بن بطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 1121,
+      "guid": "6819808e-f47b-4054-bf54-ca23cf185e03",
+      "index": 152,
+      "isZeroPoint": false,
+      "startIndex": 1060,
+      "text": " يوم الأربعاء العشرين من ذي القعدة لسنة اثنتين وأربعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1392,
+      "guid": "6927db3e-ddb7-420a-adb6-0c31669f33e8",
+      "index": 155,
+      "isZeroPoint": false,
+      "startIndex": 1363,
+      "text": " أبي علي الحسن بن صفوان الزرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 777,
+      "guid": "6e759326-9265-4d07-aa34-37f06501cfd7",
+      "index": 147,
+      "isZeroPoint": false,
+      "startIndex": 758,
+      "text": "شرف الدين عبد الكريم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 651,
+      "guid": "8128814b-ee28-47f0-88d6-66d08d017487",
+      "index": 144,
+      "isZeroPoint": false,
+      "startIndex": 613,
+      "text": "أبي الحسن أحمد بن محمد بن موسى بن الصلت",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 499,
+      "guid": "8628d702-6957-44b3-9ebd-533fdc55edee",
+      "index": 141,
+      "isZeroPoint": false,
+      "startIndex": 468,
+      "text": "أبي جعفر محمد بن عمرو بن البحتري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 463,
+      "guid": "a31fd7e1-f242-456f-9437-3d917a2333fc",
+      "index": 140,
+      "isZeroPoint": false,
+      "startIndex": 418,
+      "text": "أبي عمر عبد الواحد بن محمد بن عبد الله بن مهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 608,
+      "guid": "aa6cdd32-713d-4420-abf7-e58bea254b3f",
+      "index": 143,
+      "isZeroPoint": false,
+      "startIndex": 554,
+      "text": " مالك أبي عبد الله ابن أحمد بن علي بن إبراهيم البانياسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "ab75216d-653c-402c-9560-e1fbfd3a1e25",
+      "index": 146,
+      "isZeroPoint": false,
+      "startIndex": 20,
+      "text": "بدر الدين أبي محمد عبد اللطيف الحموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1312,
+      "guid": "aeae56ba-9bf1-44e9-bad3-ef5c4f198247",
+      "index": 153,
+      "isZeroPoint": false,
+      "startIndex": 1283,
+      "text": "أبي القاسم يحيى بن أحمد السيبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 692,
+      "guid": "b40a983c-9c58-4b2e-b3e1-c414c03dcd26",
+      "index": 145,
+      "isZeroPoint": false,
+      "startIndex": 655,
+      "text": " إبراهيم بن عبد الصمد الهاشمي أبي إسحق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 933,
+      "guid": "b939bb58-3a40-42af-aa03-1e3a29aa4241",
+      "index": 149,
+      "isZeroPoint": false,
+      "startIndex": 883,
+      "text": "أبي علي الحسن بن يوسف بن عبد الله بن بختيار الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 512,
+      "guid": "c05ae58c-b75e-456b-a214-868c93df8b1b",
+      "index": 142,
+      "isZeroPoint": false,
+      "startIndex": 504,
+      "text": "ابن ملاعب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 345,
+      "guid": "cf5f6b7c-8976-4fd1-ac68-a00b9ade4ddc",
+      "index": 138,
+      "isZeroPoint": false,
+      "startIndex": 332,
+      "text": "ابن تاج القراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 855,
+      "guid": "e1ef4cd8-f9ff-43db-bb26-59e29d8cbbf2",
+      "index": 148,
+      "isZeroPoint": false,
+      "startIndex": 810,
+      "text": "عماد الدين أبو حفص عمر بن شعبان بن يوسف الحموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "edaa4d8d-cb64-47fd-bc67-02012d0f508d",
+      "index": 136,
+      "isZeroPoint": false,
+      "startIndex": 238,
+      "text": "أبي إسحق إبراهيم بن عثمان بن يوسف الكاشغري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1042,
+      "guid": "f1991a45-96fe-4148-8981-9a7de851fd4d",
+      "index": 151,
+      "isZeroPoint": false,
+      "startIndex": 989,
+      "text": "محمد بن أحمد بن عمر بن أحمد بن أبي شاكر الحنفي الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1360,
+      "guid": "fda8e420-ddeb-49e9-9a42-18a4fd655711",
+      "index": 154,
+      "isZeroPoint": false,
+      "startIndex": 1317,
+      "text": "أبي الحسين علي بن محمد بن عبد الله بن بشران ",
+      "type": "person"
+    }
+  ],
+  "text": " شاهدت في ثبت شيخنا بدر الدين أبي محمد عبد اللطيف الحموي ما مثاله سمع جميع الجزئين وهما جزء فيه حديث أبي الفضل أحمد بن ملاعب وجزء فيه حديث أبي إسحق إبراهيم بن عبد الصمد الهاشمي عن شيوخهما عرف الثاني بجزء البانياسي على الشيخ المعمر المسند أبي إسحق إبراهيم بن عثمان بن يوسف الكاشغري بسماعه للأول من ابن بطي وبسماعه للثاني من ابن بطي وابن تاج القراء بسماع ابن بطي للأول من أبي الحسن علي بن محمد بن محمد بن محمد الخطيب عن أبي عمر عبد الواحد بن محمد بن عبد الله بن مهدي عن أبي جعفر محمد بن عمرو بن البحتري عن ابن ملاعب وبسماع ابن بطي وابن تاج القراء للثاني عن مالك أبي عبد الله ابن أحمد بن علي بن إبراهيم البانياسي عن أبي الحسن أحمد بن محمد بن موسى بن الصلت عن إبراهيم بن عبد الصمد الهاشمي أبي إسحق السادة الفضلاء الأجل العالم العامل الكامل بدر الدين عبد اللطيف وشرف الدين عبد الكريم ابنا محمد بن محمد بن نصر الله وعماد الدين أبو حفص عمر بن شعبان بن يوسف الحمويون أدام الله أيامهم بقراءة أبي علي الحسن بن يوسف بن عبد الله بن بختيار الإربلي بالخاتونية بمدينة السلام حرسها الله تعالى وسمعها معهم محمد بن أحمد بن عمر بن أحمد بن أبي شاكر الحنفي الإربلي والخط له وذلك في يوم الأربعاء العشرين من ذي القعدة لسنة اثنتين وأربعين وستماية وسمعوا بها في التاريخ المذكور علي الشيخ المذكور جميع كتاب الفرج بعد الشدة تأليف أبي بكر عبد الله بن حمد بن أبي الدنيا القرشي برواية المسمع عن ابن تاج القراء عن أبي القاسم يحيى بن أحمد السيبي عن أبي الحسين علي بن محمد بن عبد الله بن بشران عن أبي علي الحسن بن صفوان الزرعي عنه بقراءة مثبته محمد بن أحمد المذكور عفا الله عنه الحمد لله رب العالمين وصلوته على سيدنا محمد النبي وآله وسلامه كتبه كما وجده حرفا بحرف العبد الفقير إلى الله تعالى محمد بن أحمد بن محمد بن النجيب الشافعي"
+}

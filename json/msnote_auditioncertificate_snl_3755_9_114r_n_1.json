@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن المبارك بن واضح المروزي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند عبد الله بن المبارك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 85"
+      ],
+      "classmark": [
+        "3755/9"
+      ],
+      "folio_number": [
+        "114r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "056a7561-8e9b-4972-8311-84d830c0ae9d",
+      "startIndex": 229,
+      "text": " محمد بن علي بن المسلم بن محمد بن الفتح السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "1ccfa251-1926-4fe3-8e9c-cefb70ce7192",
+      "startIndex": 121,
+      "text": "سهل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "549"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "42177b72-3740-4580-a3c0-e7ae200bee0d",
+      "startIndex": 314,
+      "text": "سادس عشري من ذي القعدة سنة تسع وأربعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "5032350a-3058-4ed8-adf3-d3714b293032",
+      "startIndex": 30,
+      "text": "أبي القاسم الحسين بن الحسن بن محمد الأسدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 374,
+      "guid": "83e60921-500b-4e7d-ad19-69b257dc9ae7",
+      "startIndex": 365,
+      "text": "منزل الشيخ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "c09b87a5-8dc1-4f14-850c-a3b00964d458",
+      "startIndex": 213,
+      "text": "أبو الحسن علي بن محمد بن علي بن المسلم بن محمد بن الفتح السلمي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "c0f0e175-f3bd-405b-b02b-f3f0e5b9f5cd",
+      "startIndex": 144,
+      "text": "أبو محمد القاسم بن علي بن الحسن بن هبة الله الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ أبي القاسم الحسين بن الحسن بن محمد الأسدي رضي الله عنه مع العرض بنسخته التي عليها سماعه من سهل صاحبه الشيخ الحافظ أبو محمد القاسم بن علي بن الحسن بن هبة الله الشافعي بقراءته وسمع معه أبو الحسن علي بن محمد بن علي بن المسلم بن محمد بن الفتح السلمي وأبوه محمد بن علي كاتب السماع وذلك في سادس عشري من ذي القعدة سنة تسع وأربعين وخمسماية في منزل الشيخ"
+}

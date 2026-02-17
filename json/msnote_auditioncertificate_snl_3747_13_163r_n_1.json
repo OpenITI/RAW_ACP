@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن عبيد الله بن عبد الله السمسار الحرفي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي القاسم الحرفي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 51 "
+      ],
+      "classmark": [
+        "3747/13"
+      ],
+      "folio_number": [
+        "163r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "12cdec88-d5c0-4002-b6e3-6efb02855cbf",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 160,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "1cdc2e04-9065-4ab9-b502-224ee32190b9",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 16,
+      "text": "أحمد بن أبي طالب بن أبي النعم الحجار ابن الشحنة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "5a2acca6-e375-42f9-afbc-3aa34d189f5a",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 106,
+      "text": "السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "9cfac4dd-a593-4819-adfe-ff4404cff36e",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 166,
+      "text": "أبو بكر بن يوسف بن عبد القادر الخليلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "727"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "a5e2e57c-ce07-4caf-83c4-a6bd15de3145",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 267,
+      "text": "سادس شعبان سنة سبع وعشرين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "e3b53234-e4af-4259-abdc-88cbe320782a",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 120,
+      "text": "أبي محمد عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "e64e2733-f03a-4047-b8b2-0569e5ca1a0c",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 205,
+      "text": "أمين الدين عبد الوهاب بن يوسف بن إبراهيم ابن السلار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "e8a3e5c9-424f-4761-9ff3-315984ae0e03",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 75,
+      "text": "جعفر بن علي الهمداني",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه على الشيخ أحمد بن أبي طالب بن أبي النعم الحجار ابن الشحنة بإجازته من جعفر بن علي الهمداني بسماعه من السلفي بقراءة أبي محمد عبد الله بن أحمد بن المحب ابنه محمد وأبو بكر بن يوسف بن عبد القادر الخليلي وأمين الدين عبد الوهاب بن يوسف بن إبراهيم ابن السلار وآخرون في سادس شعبان سنة سبع وعشرين وسبعمية"
+}

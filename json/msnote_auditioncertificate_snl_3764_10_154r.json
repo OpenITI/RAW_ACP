@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 141"
+      ],
+      "classmark": [
+        "3764/10"
+      ],
+      "folio_number": [
+        "154r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "686"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "1f901227-2c69-44d4-b7eb-fff6a42f4f09",
+      "startIndex": 250,
+      "text": "ثامن رجب [سنة ست؟] وثمانين وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 362,
+      "guid": "2181da5b-ab20-440b-88ce-057c2d587149",
+      "startIndex": 319,
+      "text": "أحمد [بن عبد الرحيم بن] أبي عبد الله [القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 295,
+      "guid": "31283719-600c-4199-a627-1596af0b04e8",
+      "startIndex": 287,
+      "text": "ـ[ـقاهرة]",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "d80d5d77-4de8-48b4-beca-3eb78e8e750e",
+      "startIndex": 31,
+      "text": "عبد اللطيف بن يوسف بن علي البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "f94a7f4e-62a8-42aa-b747-4befe01313b1",
+      "startIndex": 85,
+      "text": "شهاب الدين أحمد بن [أبي القاسم عبد ... ابن حمزة الصوفي ؟",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الكتاب على [...] عبد اللطيف بن يوسف بن علي البغدادي بسماعه [...] شيخنا شهاب الدين أحمد بن [أبي القاسم عبد ... ابن حمزة الصوفي ؟] شرف الدين محمد [...] الدين محمد بن عبد [...] ابن إسحق [...] والده [وشمس الدين] محمد بن [...] الصايغ  [...] ثامن رجب [سنة ست؟] وثمانين وستمية بالـ[ـقاهرة] المحروسـة [...] العبد أحمد [بن عبد الرحيم بن] أبي عبد الله [القرشي] عفا الـ[ـله عنه]"
+}

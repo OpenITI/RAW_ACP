@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن محمد الأصبهاني الدقاق "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "معجم مشايخ الدقاق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 173"
+      ],
+      "classmark": [
+        "3770/7"
+      ],
+      "folio_number": [
+        "114r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "42eff328-26f1-41fc-9e88-e37089d00903",
+      "startIndex": 179,
+      "text": "جمال الدين أبو عبد الله محمد بن إسرائيل بن أبي بكر الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "bakjuri_village"
+          ]
+        ]
+      },
+      "endIndex": 308,
+      "guid": "5d242e87-8ef8-4dc1-949a-d3c4928ead90",
+      "startIndex": 290,
+      "text": "مسجد القصر البكجوري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 356,
+      "guid": "74a975fc-b087-47ca-9cae-7af353c8d51a",
+      "startIndex": 315,
+      "text": "أحمد بن أبي الخير سلامة بن إبراهيم الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "ac34b58a-20b7-4655-b851-9de1a1181e84",
+      "startIndex": 101,
+      "text": "أبي الحسن مسعود بن أبي منصور بن محمد بن الحسن الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "b56a50ac-b6aa-4d39-b63c-dc55b552bdfd",
+      "startIndex": 37,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "667"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "dbb789ff-352b-458d-9467-707627b854a9",
+      "startIndex": 246,
+      "text": "تاسع شهر صفر من سنة سبع وستين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأ علي هذا الجزء جميعه الشيخ الإمام علي بن مسعود بن نفيس الموصلي ثم الحلبي وذلك بحق إجازتي من الشيخ أبي الحسن مسعود بن أبي منصور بن محمد بن الحسن الخياط بسنده وصح ذلك وثبت فسمعه جمال الدين أبو عبد الله محمد بن إسرائيل بن أبي بكر الدمشقي وذلك في تاسع شهر صفر من سنة سبع وستين وستماية وذلك بمسجد القصر البكجوري كتبه أحمد بن أبي الخير سلامة بن إبراهيم الحنبلي عفا الله عنه وعن جميع المسلمين"
+}

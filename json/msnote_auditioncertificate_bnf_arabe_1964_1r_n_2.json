@@ -1,0 +1,296 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسين بن عمر الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب المجالسة وجواهر العلم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 1964"
+      ],
+      "folio_number": [
+        "1r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11001549t/f4.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        "a3c8fd23-d66a-4a69-b992-2a97a8c60ae9"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11001549t/f4.item.r=%22Arabe%201964%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "039a30a7-aec0-411f-ab4e-d39081297df9",
+      "startIndex": 200,
+      "text": "الفراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 325,
+      "guid": "18c33650-6ebe-4e8a-b27a-4865ea242e75",
+      "startIndex": 290,
+      "text": "أبي عبد الله محمد بن محمود بن الملثم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 358,
+      "guid": "3800c7fa-95e8-4b39-8223-2763005bdd7b",
+      "startIndex": 352,
+      "text": "ابن حمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "736"
+        ]
+      },
+      "endIndex": 553,
+      "guid": "5bc04f19-9f26-433f-8dcf-491f166885ff",
+      "startIndex": 500,
+      "text": "يوم الثلاثاء السبع من صفر من عام ستة وثلاثين وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "5d27f864-574b-4895-a054-0bcdf249951e",
+      "startIndex": 65,
+      "text": "بدر الدين محمد بن أحمد بن خالد الفارقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "zawiyat_ibn-manzur"
+          ]
+        ]
+      },
+      "endIndex": 583,
+      "guid": "6216d1b5-ea79-46a1-bca8-f1f42b93ff42",
+      "startIndex": 556,
+      "text": "زاوية ابن منظور ظاهر القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "6cbf5200-3667-440e-9f2c-5b554e9e67fe",
+      "startIndex": 226,
+      "text": "أبي المحاسن يوسف بن أحمد اليغموري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 388,
+      "guid": "778d3582-1bcb-471d-bdc6-54c5ad7463b8",
+      "startIndex": 372,
+      "text": "إسماعيل بن الزيات",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "7b66e064-63db-4489-89aa-a79e12485900",
+      "startIndex": 180,
+      "text": "الأرتاحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "81e772b0-d047-4c0b-bc22-aa4c573e6114",
+      "startIndex": 342,
+      "text": "البوصيري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 689,
+      "guid": "acadcbf6-f857-48db-9443-537e8765b974",
+      "startIndex": 616,
+      "text": "أحمد بن عبد القادر بن أحمد بن مكتوم بن أحمد بن محمد بن سليم القيسي الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "f1bd5101-99c1-4076-b97e-0b43ec556abe",
+      "startIndex": 152,
+      "text": "الصفي ابن القزاز",
+      "type": "person"
+    }
+  ],
+  "text": "ثم قرأت الجزوين الخامس والسادس من كتاب المجالسة على الشيخ الصالح بدر الدين محمد بن أحمد بن خالد الفارقي أيده الله بسماعه لهما أصلا في المجلدة الأولى من الصفي ابن القزاز بإجازته من الأرتاحي بإجازته من الفراء وبإجازته من الحافظ أبي المحاسن يوسف بن أحمد اليغموري بقراءته وبسماعه لهما من الشيخ أبي عبد الله محمد بن محمود بن الملثم بسماعه لهما من البوصيري وابن حمد وبإجازته من إسماعيل بن الزيات وبسندهم المعين فيه فكمل لي السماع المذكور وبالقراءة المذكورة جميع كتاب المجالسة المذكور وصح في مجالس آخرها في يوم الثلاثاء السبع من صفر من عام ستة وثلاثين وسبع ماية بزاوية ابن منظور ظاهر القاهرة وأجاز لي قال هذا وكتبه بخط يده أحمد بن عبد القادر بن أحمد بن مكتوم بن أحمد بن محمد بن سليم القيسي الدمشقي"
+}

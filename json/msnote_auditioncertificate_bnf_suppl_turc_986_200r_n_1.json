@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد عبد الواحد بن أحمد المقدسي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "الجزء الخامس من الفوائد "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "200r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f207.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f207.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 433,
+      "guid": "137c0e91-dc75-46ce-9669-985bc8489a41",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 400,
+      "text": "القاسم بن محمد بن يوسف بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 386,
+      "guid": "3d4d2ad9-1da5-4702-89a2-2f0e1741a2e9",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 277,
+      "text": "تقي الدين أبي العباس أحمد بن شيخنا الإمام شهاب الدين أبي المحاسن عبد الحليم بن عبد السلام بن عبد الله بن تيمية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 544,
+      "guid": "4c6ae1fd-d0fd-4456-9361-278d58ec13d0",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 529,
+      "text": "المدرسة الضيائية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "63c9f252-7435-4327-a912-b2594e2501f7",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 211,
+      "text": "أبي بكر بن الشهرزوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "76881d46-d57b-421b-8bc1-1ef6b27160e0",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "أبي حفص عمر بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 609,
+      "guid": "a006c766-9ad2-4c6e-b999-3b498761c1d6",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 563,
+      "text": "صحيح ذلك كتبه علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "b68f45c1-37d9-4731-add4-06228447d1b6",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 92,
+      "text": " فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 247,
+      "guid": "b713ba52-8a3f-494d-bba7-b4f5d9e1e0e8",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 242,
+      "text": "المحمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "682"
+        ]
+      },
+      "endIndex": 514,
+      "guid": "cbebf9a3-8500-481d-aaea-778d8fdd0b08",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 464,
+      "text": "يوم الثلاثاء ثامن عشر رجب سنة اثنتين وثمانين وستمئة",
+      "type": "date"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم الزاهد الورع الصدر الكبير بقية المشايخ مسند الشام فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد بن أحمد المقدسي بسماعه من أبي حفص عمر بن محمد بن طبرزد بسماعه من القاضي أبي بكر بن الشهرزوري بسماعه من المحمي بقراءة الفقيه الإمام الفاضل تقي الدين أبي العباس أحمد بن شيخنا الإمام شهاب الدين أبي المحاسن عبد الحليم بن عبد السلام بن عبد الله بن تيمية كاتب السماع القاسم بن محمد بن يوسف بن البرزالي عفا الله عنه وصح ذلك وثبت في يوم الثلاثاء ثامن عشر رجب سنة اثنتين وثمانين وستمئة بمنزل الشيخ بالمدرسة الضيائية بسفح جبل قاسيون.\nصحيح ذلك كتبه علي بن أحمد بن عبد الواحد المقدسي عفا الله عنه."
+}

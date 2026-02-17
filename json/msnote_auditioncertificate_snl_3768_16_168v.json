@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن إسماعيل الصفار البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث إسماعيل الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 166"
+      ],
+      "classmark": [
+        "3768/16"
+      ],
+      "folio_number": [
+        "168v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 217,
+      "guid": "316a8044-4e01-4e06-a6ae-857598407d8e",
+      "startIndex": 198,
+      "text": " أبي الفتح ابن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "al-mizza"
+          ]
+        ]
+      },
+      "endIndex": 337,
+      "guid": "36308ddc-6779-4b07-8b62-ebac8fa5d728",
+      "startIndex": 333,
+      "text": "المزة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "718"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "3810b50d-1047-467a-8930-63d8132c162b",
+      "startIndex": 289,
+      "text": "الجمعة ثامن عشر رجب سنة ثمان عشرة وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "567da427-27fb-4d14-b58a-d32f52df24b9",
+      "startIndex": 226,
+      "text": "أبي محمد عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "6aa94146-88cb-4cbe-b62c-e4ebd106a91a",
+      "startIndex": 105,
+      "text": "الحسين بن علي بن الحسين بن أمين الرؤساء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "cf6b7011-0283-4c2e-98f1-617c484764e4",
+      "startIndex": 146,
+      "text": "أبي منصور سعيد بن محمد بن ياسين البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "d8a93cc5-af5c-4ad7-aab9-8858bd49f977",
+      "startIndex": 266,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "fd316b31-3660-433a-bc15-9c3ab8676e4c",
+      "startIndex": 40,
+      "text": "أبي نصر محمد بن محمد بن محمد بن هبة الله ابن الشيرازي ",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله سمع أحاديث إسماعيل الصفار على أبي نصر محمد بن محمد بن محمد بن هبة الله ابن الشيرازي بإجازته من الحسين بن علي بن الحسين بن أمين الرؤساء وأبي منصور سعيد بن محمد بن ياسين البغدادي بسماعهما من أبي الفتح ابن البطي بقراءة أبي محمد عبد الله بن أحمد بن المحب ابنه محمد وذا خطه وغيره يوم الجمعة ثامن عشر رجب سنة ثمان عشرة وسبعمائة بالمزة"
+}

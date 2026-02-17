@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد المؤمن الحراني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث بن كرامة ومن حديث طاهر بن خالد الايلي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1751"
+      ],
+      "folio_number": [
+        "38r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00066939"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "191518a2-f621-4c6a-aa38-0c23538647f7",
+      "startIndex": 160,
+      "text": "برهان الدين أبو عبد الله محمد بن علي بن سفيان الترمذي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 373,
+      "guid": "3d75fcc8-b04c-4e6e-809e-0f3140ad4e93",
+      "startIndex": 337,
+      "text": " شهاب الدين بن غازي بن إبراهيم العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "'aziya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 504,
+      "guid": "829e7076-dd37-4920-bf5a-efd4682cf622",
+      "startIndex": 481,
+      "text": "المدرسة العزية ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 267,
+      "guid": "8f97e09c-41f9-478c-9fc3-17d0f7bc0f38",
+      "startIndex": 223,
+      "text": "عفيف الدين أبو الفضل بن رضوان بن يوسف الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 544,
+      "guid": "a4608b2c-d701-4e42-b0a4-0a086f837161",
+      "startIndex": 522,
+      "text": "موسى بن إبراهيم بن يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 420,
+      "guid": "cce22778-f850-49ed-aaeb-f717435c9343",
+      "startIndex": 382,
+      "text": "عبد الله بن حسن بن عبد العزيز السُّلَمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21-30"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 602,
+      "guid": "cd9337b1-832d-42b9-8320-6da9a2806fbc",
+      "startIndex": 549,
+      "text": "العشر الأخير من جمادى الأخير من سنة ثلاث وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "d39e052f-6fe6-45d7-b234-fadfda13ff42",
+      "startIndex": 50,
+      "text": "شمس الدين أبي عبد الله محمد بن عبد المنعم بن عمار بن هامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 327,
+      "guid": "e23ca4be-e8f1-49d8-bb9b-4e2c8f4777c0",
+      "startIndex": 283,
+      "text": "معين الدين إبراهيم بن محمود بن يوسف البوازيجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 472,
+      "guid": "e8b69902-46e7-44bf-91b9-c1cf28764cc8",
+      "startIndex": 424,
+      "text": "إبراهيم بن التاج عبد الرحمن بن عبد السلام السامري",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على صاحبه الشيخ الإمام العالم شمس الدين أبي عبد الله محمد بن عبد المنعم بن عمار بن هامل الحراني أثابه الله فسمعه الشيخ الإمام العالم الأوحد برهان الدين أبو عبد الله محمد بن علي بن سفيان الترمذي، والفقيه عفيف الدين أبو الفضل بن رضوان بن يوسف الدمشقي والشيخ الفقيه معين الدين إبراهيم بن محمود بن يوسف البوازيجي، والفقيه شهاب الدين بن غازي بن إبراهيم العرضي والشيخ عبد الله بن حسن بن عبد العزيز السُّلَمي، وإبراهيم بن التاج عبد الرحمن بن عبد السلام السامري، وذلك بالمدرسة العزية ظاهر دمشق حرسها الله كتبه موسى بن إبراهيم بن يحيى في العشر الأخير من جمادى الأخير من سنة ثلاث وستين وستمائة والحمد لله وحده وصلى الله على محمد وآله وسلم."
+}

@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم علي بن الحسن بن هبة الله الشافعي ابن عساكر "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "حديث أهل حردان "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 182"
+      ],
+      "classmark": [
+        "3771/16"
+      ],
+      "folio_number": [
+        "187r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 28,
+      "guid": "08d21088-6004-4544-8321-24fc04c6b93b",
+      "startIndex": 17,
+      "text": "محمد بن رومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "2020fd19-41a5-4fdc-925e-3e7756dc8503",
+      "startIndex": 61,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "25fe1eb0-65bd-49d8-b461-6dd13bcd079f",
+      "startIndex": 106,
+      "text": "محمد بن أحمد بن إبراهيم الكتبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "4537ee57-1014-41bb-8dec-7f5c2f8f74ca",
+      "startIndex": 180,
+      "text": "محمد بن أبي جعفر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "hirdan_mosque"
+          ]
+        ]
+      },
+      "endIndex": 49,
+      "guid": "bbccb039-45c4-49e8-a5f2-e92bedaf740e",
+      "startIndex": 31,
+      "text": "قرية حردان بمحرابها",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "f65e71b0-a5e6-4fc8-8d5b-6bd1eb77f616",
+      "startIndex": 74,
+      "text": "عز الدين محمد بن القاضي الفاضل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "631"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "fa69b624-b70e-4d29-961b-23cf296864d3",
+      "startIndex": 140,
+      "text": "سادس محرم سنة إحدى وثلاثين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "إلى هنا قرأت على محمد بن رومي بقرية حردان بمحرابها وسمع ابني محمد والقاضي عز الدين محمد بن القاضي الفاضل ومحمد بن أحمد بن إبراهيم الكتبي في سادس محرم سنة إحدى وثلاثين وستمائة وكتب محمد بن أبي جعفر حامدا مصليا مسلما"
+}

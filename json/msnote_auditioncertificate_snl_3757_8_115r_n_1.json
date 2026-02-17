@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن أبي شريح الأنصاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المائة الشريحية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        " FMMU 96"
+      ],
+      "classmark": [
+        "3757/8"
+      ],
+      "folio_number": [
+        "115r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "634"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "1221ba73-6705-4ed0-8bbd-73d58b58e701",
+      "index": 103,
+      "isZeroPoint": false,
+      "startIndex": 284,
+      "text": "يوم السبت مستهل ذي قعدة سنة أربع وثلاثين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "khan_sarim"
+          ]
+        ]
+      },
+      "endIndex": 356,
+      "guid": "17dac2ba-5be7-4f52-bfde-b29e61fda9ac",
+      "index": 104,
+      "isZeroPoint": false,
+      "startIndex": 333,
+      "text": "خان صارم الدين ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 383,
+      "guid": "2727e307-09e3-4476-9d51-3bbe3dae6e85",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 370,
+      "text": "ابن عبد الكافي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "59c2d088-ab79-40a1-a4c8-8c8edd5d91ae",
+      "index": 102,
+      "isZeroPoint": false,
+      "startIndex": 245,
+      "text": "محمد بن يوسف بن محمد البرزالي الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "b07bcd81-37bb-452d-8beb-a6cb464b04bd",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "ناصر الدين أبو نصر محمد بن عربشاه بن أبي بكر بن أبي نصر الهمذاني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "f0c5cd7e-06aa-4fac-af98-669a9a2d33e1",
+      "index": 100,
+      "isZeroPoint": false,
+      "startIndex": 74,
+      "text": "أبي المنجا عبد الله بن عمر بن علي بن زيد بن اللتي",
+      "type": "person"
+    }
+  ],
+  "text": " شاهدت في نسخة ما مختصره بلغت سماعا بقراءتي على الشيخ الأجل المعمر المسند أبي المنجا عبد الله بن عمر بن علي بن زيد بن اللتي بحق سماعه فيه نقلا فسمعه صاحبه ناصر الدين أبو نصر محمد بن عربشاه بن أبي بكر بن أبي نصر الهمذاني الأصل وجماعة ثم قال وكتب محمد بن يوسف بن محمد البرزالي الإشبيلي يوم السبت مستهل ذي قعدة سنة أربع وثلاثين وستمية بخان صارم الدين ظاهر دمشق نقله مختصرا ابن عبد الكافي حامدا الله تعالى ومصليا على رسوله محمد وآله"
+}

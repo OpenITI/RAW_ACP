@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ثلاثة وثلاثون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1712"
+      ],
+      "folio_number": [
+        "116r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.refaiya.uni-leipzig.de/receive/DE1Book_manuscript_00066928"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "6edc8fd9-b4e3-4c7c-9b4d-488917268b6d",
+      "startIndex": 74,
+      "text": "ذاكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "512"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "ba0625a5-6e66-4ad8-9e54-1eb00dcaabed",
+      "startIndex": 85,
+      "text": " في ذي القعدة سنة اثنتي عشرة وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "ba6c8d89-fe20-4ed0-9223-ed02119641ed",
+      "startIndex": 51,
+      "text": " المبارك بن كامل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "ecce50e6-56f4-473c-802c-f5af2f970091",
+      "startIndex": 8,
+      "text": "أبي بكر محمد بن أحمد بن الحسن النجار",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من أبي بكر محمد بن أحمد بن الحسن النجار بقراءة المبارك بن كامل، أخوه ذاكر وجماعة في ذي القعدة سنة اثنتي عشرة وخمسمائة."
+}

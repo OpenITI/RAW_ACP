@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يحيى بن منصور الشافعي النيسابوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعين المخرجة من مسموعات النيسابوري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/4"
+      ],
+      "folio_number": [
+        "39r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "4bfd38d4-8e0f-4ca0-82ef-c1d8df648298",
+      "startIndex": 42,
+      "text": "أبو البركات عبد المؤمن بن علي بن عبد المؤمن الزرار المقرئ ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "95e88d38-c9a4-45f5-af83-26887ba406c3",
+      "startIndex": 155,
+      "text": "محمد بن عبد الله بن أحمد بن المحب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "780"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "efe839e3-e2a1-41f0-85a1-2cca44d45940",
+      "startIndex": 112,
+      "text": "يوم الجمعة سادس ربيع الأول سنة ثمانين",
+      "type": "date"
+    }
+  ],
+  "text": "قرأ علي هذا الكتاب إلا الكلام على أحاديثه أبو البركات عبد المؤمن بن علي بن عبد المؤمن الزرار المقرئ عن المحمدين يوم الجمعة سادس ربيع الأول سنة ثمانين كتبه محمد بن عبد الله بن أحمد بن المحب "
+}

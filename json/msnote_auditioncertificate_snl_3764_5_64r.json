@@ -1,0 +1,534 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الحسين بن عبد الله الآجري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الغرباء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 139"
+      ],
+      "classmark": [
+        "3764/5"
+      ],
+      "folio_number": [
+        "64r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "025c3e07-79ef-46dd-9427-f84dfe6ceb95",
+      "startIndex": 162,
+      "text": "إبراهيم بن محمود بن سالم بن الخير ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "defaultLabel": "Place1",
+      "guid": "13d4242d-050c-4ab6-a7c3-87f1b1f24155",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1046,
+      "guid": "213a4d50-1346-467f-afaf-e8ae3a29d37d",
+      "startIndex": 999,
+      "text": "فاطمة بنت ابراهيم ابن محمد بن الشيخ العز إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 806,
+      "guid": "331ad2fa-1909-4905-8356-4644d3456870",
+      "startIndex": 730,
+      "text": "خديجة بنت الشيخ عز الدين أحمد بن عبد الله بن شیخ الإسلام شمس الدين بن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "737"
+        ]
+      },
+      "endIndex": 1188,
+      "guid": "34b8b680-3737-4ec9-ae9f-a3781e60e830",
+      "startIndex": 1145,
+      "text": "الأحد تاسع شهر شوال سنة سبع وثلاثين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 391,
+      "guid": "3cca8c21-e6a2-46c7-8e5d-a87e66fad91d",
+      "startIndex": 336,
+      "text": "برهان الدين أبو إسحق إبراهيم بن محمد بن إبراهيم السفاقسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "4909b85f-5a0d-46bf-a8d0-de8e26323df3",
+      "startIndex": 268,
+      "text": "شرف الدين أبي محمد عبد الله بن محمد بن إبراهيم الواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 432,
+      "guid": "4dc7c49d-ce16-45f6-9905-03c83bf7cb3e",
+      "startIndex": 406,
+      "text": "شمس الدين أبو عبد الله محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 558,
+      "guid": "596b094a-83b8-4de4-9e18-afdd9bfe5939",
+      "startIndex": 554,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "0d536083-b463-4cd6-998b-641616923a15"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 484,
+      "guid": "59bb3b6e-a2d2-4dd5-8338-efc96ae6c625",
+      "startIndex": 442,
+      "text": "نجم الدين أبو الخير سعيد بن عبد الله الدهلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1390,
+      "guid": "683c13fe-1a19-4de6-a7f9-3774b740a64f",
+      "startIndex": 1361,
+      "text": "الحسين بن أحمد بن محمد بن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 1225,
+      "guid": "6bbb6848-bdd9-4292-84a3-25f6a5b6cd64",
+      "startIndex": 1191,
+      "text": "منزل المسمعة بالدير بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 247,
+      "guid": "7015257f-4cb7-449e-a486-9765801129ff",
+      "startIndex": 232,
+      "text": "عبد الحق بن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 973,
+      "guid": "70e6c548-c3bf-489a-bcea-168dc176c81e",
+      "startIndex": 930,
+      "text": "خديجة بنت شمس الدين محمد بن أحمد بن العز عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 928,
+      "guid": "83232471-4223-43ca-99f9-302744f5a248",
+      "startIndex": 924,
+      "text": "زينب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 910,
+      "guid": "8f834a4e-75de-4484-9794-278812d867a8",
+      "startIndex": 852,
+      "text": "فاطمة بنت الشيخ إبراهيم بن عبد العزيز بن علي الموصلي الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1119,
+      "guid": "92e1642b-2fb8-48bc-bb49-1500a4c694a0",
+      "startIndex": 1099,
+      "text": "محمد بن طولبغا السيفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 996,
+      "guid": "99ebc4b4-7955-4f7a-bdbd-e3404453113b",
+      "startIndex": 976,
+      "text": "خديجة بنت محمد بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 651,
+      "guid": "a03aec64-630f-4e54-b9dd-70711b2f3acf",
+      "startIndex": 597,
+      "text": "صالحة بنت الشيخ شمس الدين محمد بن أبي بكر محمد بن طرخان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 850,
+      "guid": "a17a6a3d-b8c8-4d1d-b972-91aa431f396d",
+      "startIndex": 809,
+      "text": "حبيبة بنت محب الدين يوسف بن أحمد الأنصاري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 546,
+      "guid": "d617ae49-5404-49c5-bc97-6cb6e31bcdb5",
+      "startIndex": 487,
+      "text": "عماد الدين أبو إسحق إبراهيم بن أبي بدر يعقوب بن الملك العادل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "d737cfc8-1085-498a-8a15-b8f3020e3efc",
+      "startIndex": 77,
+      "text": "أم عبد الله زينب بنت الكمال أحمد بن عبد الرحيم بن عبد الواحد المقدسية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 688,
+      "guid": "e267ae46-2aba-419c-9c8d-15c2f2affa48",
+      "startIndex": 654,
+      "text": "صالحة بنت أبي بكر إبراهيم بن الناصح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1348,
+      "guid": "e8b60d43-d177-457a-8b3f-aa8cda4c93eb",
+      "startIndex": 1329,
+      "text": " خديجة بنت النهرواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 727,
+      "guid": "ee476fdc-f2f4-4704-ab61-3b5b705b8a0a",
+      "startIndex": 691,
+      "text": "دنيا بنت سيف الدين خاص ترك الإبراهيمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 594,
+      "guid": "f840cbad-f8c7-4d4a-8ae0-15fbe27bca4e",
+      "startIndex": 560,
+      "text": "علي بن الشيخ عبد الله بواب القيمرية",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخة الصالحة الزاهدة العابدة المسندة المعمرة الرحلة أم عبد الله زينب بنت الكمال أحمد بن عبد الرحيم بن عبد الواحد المقدسية بحق إجازتها من إبراهيم بن محمود بن سالم بن الخير بسماعه  [فيه بـ]ـخطي منقولا بخطي من عبد الحق بن يوسف بسنده بقراءة الشيخ شرف الدين أبي محمد عبد الله بن محمد بن إبراهيم الواني الجماعة الشيخ برهان الدين أبو إسحق إبراهيم بن محمد بن إبراهيم السفاقسي وشقيقه الشيخ شمس الدين أبو عبد الله محمد والمحدث نجم الدين أبو الخير سعيد بن عبد الله الدهلي وعماد الدين أبو إسحق إبراهيم بن أبي بدر يعقوب بن الملك العادل وولده أحمد وعلي بن الشيخ عبد الله بواب القيمرية وصالحة بنت الشيخ شمس الدين محمد بن أبي بكر محمد بن طرخان وصالحة بنت أبي بكر إبراهيم بن الناصح ودنيا بنت سيف الدين خاص ترك الإبراهيمي وخديجة بنت الشيخ عز الدين أحمد بن عبد الله بن شیخ الإسلام شمس الدين بن أبي عمر وحبيبة بنت محب الدين يوسف بن أحمد الأنصاري وفاطمة بنت الشيخ إبراهيم بن عبد العزيز بن علي الموصلي الخباز وسمعت أختها زينب وخديجة بنت شمس الدين محمد بن أحمد بن العز عمر وخديجة بنت محمد بن علي وفاطمة بنت ابراهيم ابن محمد بن الشيخ العز إبراهيم من أول قوله نسجت من الأحزان شعرا فقلته وسمعه كاملا محمد بن طولبغا السيفي وهذا خطه وصح ذلك في يوم الأحد تاسع شهر شوال سنة سبع وثلاثين وسبعمائة بمنزل المسمعة بالدير بسفح جبل قاسيون وسمعوا كلهم عليها بالقراءة والتاريخ والمكان جزء محمد بن طلحة النعالي بإجازتها من [ا]بن الخير بسماعه من خديجة بنت النهرواني بسماعها من الحسين بن أحمد بن محمد بن طلحة بسماعه من جده عن شيوخه والحمد لله العالمين وصلواته وسلامه على محمد خاتم النبيين وإمام المرسلين والمشفع في الخلق أجمعين وعلى آله وصحبه والتابعين لهم بإحسان إلى يوم الدين وحسبنا الله ونعم الوكيل "
+}

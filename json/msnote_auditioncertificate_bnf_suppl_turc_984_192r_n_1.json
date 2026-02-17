@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "192r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f196.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f196.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27- 30"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "723"
+        ]
+      },
+      "endIndex": 553,
+      "guid": "01b23435-5b52-4d2a-a28b-40c0638d2d37",
+      "index": 178,
+      "isZeroPoint": false,
+      "startIndex": 507,
+      "text": "يوم الخميس سلخ شهر رجب سنة ثلاث وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 435,
+      "guid": "6a323000-0e0c-4bf5-b0a7-4810ea77a749",
+      "index": 176,
+      "isZeroPoint": false,
+      "startIndex": 387,
+      "text": "أبو عبد الله محمد بن أحمد بن عمر بن سلمان البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 485,
+      "guid": "88782689-748e-490a-b14d-9eaefd52b417",
+      "index": 177,
+      "isZeroPoint": false,
+      "startIndex": 438,
+      "text": "محمد بن يحيى ابن محمد بن سعد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "a50377ed-f351-41a8-beef-19b0d959f15c",
+      "index": 174,
+      "isZeroPoint": false,
+      "startIndex": 101,
+      "text": "شمس الدين أبي عبد الله محمد بن الشيخ فخر الدين علي بن أحمد بن عبد الواحد المقدسي ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 365,
+      "guid": "a59130da-c202-451e-9f36-cb6b646c01b8",
+      "index": 175,
+      "isZeroPoint": false,
+      "startIndex": 250,
+      "text": "محب الدين أبي محمد عبد الله بن الشيخ شهاب الدين أحمد بن الإمام محب الدين عبد الله بن أحمد بن محمد بن إبراهيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 563,
+      "guid": "aaa8d53a-6df4-4fdf-bc0e-0258cb70dee9",
+      "index": 179,
+      "isZeroPoint": false,
+      "startIndex": 556,
+      "text": "الضيائية",
+      "type": "place"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو الثالث من حديث الصيدلاني تخريج ابن أبي الفوارس على الشيخ الجليل الأصيل المسند شمس الدين أبي عبد الله محمد بن الشيخ فخر الدين علي بن أحمد بن عبد الواحد المقدسي ابن البخاري بحضوره من والده بسنده بقراءة الشيخ الإمام المفيد الحافظ محب الدين أبي محمد عبد الله بن الشيخ شهاب الدين أحمد بن الإمام محب الدين عبد الله بن أحمد بن محمد بن إبراهيم المقدسي الشيخ الزاهد المحدث أبو عبد الله محمد بن أحمد بن عمر بن سلمان البالسي ومحمد بن يحيى ابن محمد بن سعد بن عبد الله المقدسي وهذا خطه وصح ذلك في يوم الخميس سلخ شهر رجب سنة ثلاث وعشرين وسبعماية بالضيائية"
+}

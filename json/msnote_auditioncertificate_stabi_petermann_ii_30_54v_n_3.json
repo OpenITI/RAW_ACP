@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن عبد الله أبو نعيم الإسفهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المجلس الفرد العالي من امالي أبي نعيم السفياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Petermann II 30"
+      ],
+      "folio_number": [
+        "54v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN884842371/1200/0/00000114.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059002"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "0b949c87-b27b-4953-8efc-f5b4e262e5c1",
+      "startIndex": 116,
+      "text": "عبد الله بن أبي الزهر الصرفندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "657"
+        ]
+      },
+      "endIndex": 287,
+      "guid": "25aab574-51ee-4ff6-9c7f-737b13079823",
+      "startIndex": 243,
+      "text": "في يوم الجمعة سادس محرم سنة سبع وخمسين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "manshiyat_al-fadil"
+          ]
+        ]
+      },
+      "endIndex": 314,
+      "guid": "4d45e505-45a6-4deb-b4f3-2742eba32fc2",
+      "startIndex": 290,
+      "text": "منشية الفاضل ظاهر القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "b5d90ed4-5cb2-4043-b15c-258b935df383",
+      "startIndex": 154,
+      "text": "جمال الدين أبو حفص عمر بن حسين بن أبي بكر الختني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "c4463e3e-f8aa-4a60-b937-8610ce24a9f1",
+      "startIndex": 209,
+      "text": "بدر الدين أبو المحاسن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "c6bc405c-1517-49fd-819d-141849fe5cf4",
+      "startIndex": 16,
+      "text": "شمس الدين أبي محمد عبد الله بن يوسف بن محمد الجذامي عُرف بابن اللمط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "d4ee9983-7ba2-47c8-b502-9cf2248ef13c",
+      "startIndex": 102,
+      "text": "الحداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "d9310fc0-07df-47b4-b406-858d3689a623",
+      "startIndex": 88,
+      "text": "الصيدلاني",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على الإمام شمس الدين أبي محمد عبد الله بن يوسف بن محمد الجذامي عُرف بابن اللمط أنا الصيدلاني انا الحداد بقراءة عبد الله بن أبي الزهر الصرفندي الفقيه جمال الدين أبو حفص عمر بن حسين بن أبي بكر الختني وولده بدر الدين أبو المحاسن يوسف وآخرون في يوم الجمعة سادس محرم سنة سبع وخمسين وستمئة بمنشية الفاضل ظاهر القاهرة"
+}

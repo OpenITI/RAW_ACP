@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "99v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 366,
+      "guid": "14bf637f-e6fa-49aa-bea1-0b547bd4f30f",
+      "startIndex": 357,
+      "text": "مدينة دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "257d3cc7-4ac8-4375-8500-e3c0bb894eb2",
+      "startIndex": 82,
+      "text": "جمال الدين أبي حامد محمد بن علي بن محمود المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "671"
+        ]
+      },
+      "endIndex": 323,
+      "guid": "2d13ab70-67e6-4009-bce6-b9a360d477f4",
+      "startIndex": 282,
+      "text": "الأحد ثاني شهر صفر سنة إحدى وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 349,
+      "guid": "2fbc1892-9a80-4d2e-992a-0dd79993e931",
+      "startIndex": 330,
+      "text": "أحمد بن سامة بن كوكب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "3d83e584-a8a5-4ceb-8e39-b9e82d6bc171",
+      "startIndex": 185,
+      "text": "برهان الدين أبو إسحق إبراهيم بن محمد بن عبد الغني القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "41a671ad-fc52-4042-b30b-162c19cbbeeb",
+      "startIndex": 243,
+      "text": "سلامة بن سالم بن سلامة الجعبري",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع الجزء السابع من فوائد تمام على الشيخ الإمام العالم الحافظ المتقن المفيد جمال الدين أبي حامد محمد بن علي بن محمود المحمودي الصابوني بسماعه فيه فسمعه شيخنا الإمام العالم المحدث برهان الدين أبو إسحق إبراهيم بن محمد بن عبد الغني القرشي وسلامة بن سالم بن سلامة الجعبري وصح يوم الأحد ثاني شهر صفر سنة إحدى وسبعين وستماية كتبه أحمد بن سامة بن كوكب وذلك بمدينة دمشق ولله الحمد وصلى الله على محمد وآله"
+}

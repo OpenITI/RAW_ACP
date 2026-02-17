@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاضي أبو يعلى محمد بن الحسين بن محمد الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي يعلى الفراء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 128"
+      ],
+      "classmark": [
+        "3763/5"
+      ],
+      "folio_number": [
+        "48v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "dar_al-'adl"
+          ]
+        ]
+      },
+      "endIndex": 219,
+      "guid": "2b34692f-7581-49d9-99b3-1b9b9d4a6ddd",
+      "startIndex": 206,
+      "text": "حلب بدار العدل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "4c18f120-53d3-4dd2-8d19-609cfdddfba4",
+      "startIndex": 226,
+      "text": "أحمد بن محمد بن عبد الله الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "643"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "ceaf26d2-855a-4155-be26-9ae490470224",
+      "startIndex": 161,
+      "text": "الأحد مستهل رمضان من سنة ثلث وأربعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "d6fac723-4c33-49f2-87f2-aef12da852e9",
+      "startIndex": 84,
+      "text": "أبي منصور محمد بن علي بن عبد الصمد المقرئ البغدادي التاجر",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا المجلس الثاني و الثالث والسادس من أمالي أبي يعلى ابن الفراء على الشيخ أبي منصور محمد بن علي بن عبد الصمد المقرئ البغدادي التاجر بسماعه نقلا في يوم الأحد مستهل رمضان من سنة ثلث وأربعين وستمية بحلب بدار العدل وكتب أحمد بن محمد بن عبد الله الظاهري عفا الله عنه والحمد لله وحده"
+}

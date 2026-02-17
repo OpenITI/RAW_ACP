@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد محمد بن أحمد بن عبد الله ابن النقور البزاز "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "جزء فيه حديث نيل مصر وغير ذلك وشيء من حديث الصيدلاني رضوان بن أحمد رواية المخلص وشيء من حديث عيسى بن علي الوزير وشيء من حديث أبي القاسم الصيدلاني المقرئ "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 178"
+      ],
+      "classmark": [
+        "3771/4"
+      ],
+      "folio_number": [
+        "84v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "0cc3eb8b-b711-4ef0-92b6-f4b3ac5b94b5",
+      "startIndex": 16,
+      "text": "الخميس العشرين من رمضان سنة ثلاث وثمانين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 72,
+      "guid": "22eef820-6196-4e2c-b3c5-8536d6ce9695",
+      "startIndex": 66,
+      "text": "القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "3e9e5ca7-9559-41da-a03c-749f6ece41fb",
+      "startIndex": 79,
+      "text": "يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته عليها يوم الخميس العشرين من رمضان سنة ثلاث وثمانين وستمائة بالقاهرة وكتب يوسف بن الزكي عبد الرحمن المزي"
+}

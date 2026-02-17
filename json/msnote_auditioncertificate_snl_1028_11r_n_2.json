@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "1028"
+      ],
+      "folio_number": [
+        "11r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "61cd0106-bd59-4139-8203-82bc3b76a465",
+      "startIndex": 45,
+      "text": "أبي محمد [التوريزي؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "464"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "6efecc17-018e-45d9-8415-3b2ca10e7254",
+      "startIndex": 104,
+      "text": "الجمعة في ربيع الأول سنة أربع وستين وأربعمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "75793c1e-31b3-4014-867b-2b50a6e5dc15",
+      "startIndex": 92,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "cf0dfd82-057e-4922-b07e-f80421caefa7",
+      "startIndex": 9,
+      "text": "أبي نصر محمد بن محمد الزينبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "d9640be8-fa3a-4e3f-8f0f-621d80b01679",
+      "startIndex": 66,
+      "text": "عمر بن يوسف الأرموي ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من أبي نصر محمد بن محمد الزينبي بقراءة أبي محمد [التوريزي؟] عمر بن يوسف الأرموي وابنه محمد في يوم الجمعة في ربيع الأول سنة أربع وستين وأربعمية "
+}

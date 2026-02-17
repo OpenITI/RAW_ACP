@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن العزيز البغوي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حكايات أبي بسطام"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/2"
+      ],
+      "folio_number": [
+        "24r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "1447f324-aec5-471d-b645-81a2026b3bc8",
+      "startIndex": 272,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "1677a045-f898-4831-bd26-e8aa149462d5",
+      "startIndex": 234,
+      "text": "عبد الله بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "44c417ff-fcc7-4e0c-bc8f-da6798de0122",
+      "startIndex": 289,
+      "text": "خديجة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "723"
+        ]
+      },
+      "endIndex": 370,
+      "guid": "5d355664-cc2b-4fd2-9541-80e5167be3d0",
+      "startIndex": 305,
+      "text": "يوم الاثنين السابع والعشرين من ربيع الأول سنة ثلاث وعشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "63846c20-3640-4fac-afe6-6ee437ab720d",
+      "startIndex": 217,
+      "text": "ابن اللتي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "8603de11-3956-4bb3-b955-829ebb26ec36",
+      "startIndex": 266,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 391,
+      "guid": "8a0b41e0-20a7-433c-a16e-3d8ba8038c02",
+      "startIndex": 373,
+      "text": "دار الحديث الأشرفية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "ce078f40-0731-43ef-a4d5-279c5073fde4",
+      "startIndex": 81,
+      "text": "شهاب الدين أبي العباس أحمد بن أبي طالب بن أبي النعم نعمة بن الحسن ابن علي بن بيان الحجار المعروف بابن الشحنة ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء وهو حكايات شعبة وعمرو بن مرة للبغوي على الشيخ الجليل المسند الرحلة شهاب الدين أبي العباس أحمد بن أبي طالب بن أبي النعم نعمة بن الحسن ابن علي بن بيان الحجار المعروف بابن الشحنة بإجازته إن لم يكن سماعا من ابن اللتي بقراءة عبد الله بن أحمد المقدسي أولاده محمد وأحمد في الخامسة وخديجة وآخرون في يوم الاثنين السابع والعشرين من ربيع الأول سنة ثلاث وعشرين وسبعماية بدار الحديث الأشرفية بسفح جبل ولله الحمد والمنة"
+}

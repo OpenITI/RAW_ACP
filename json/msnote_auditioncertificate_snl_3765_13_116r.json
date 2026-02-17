@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "116r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-azhar_mosque"
+          ]
+        ]
+      },
+      "endIndex": 343,
+      "guid": "18ddee09-ba8a-4c23-b942-8927e2803f2e",
+      "startIndex": 333,
+      "text": "جامع الأزهر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 399,
+      "guid": "34325e5f-7ae5-4bd4-8b12-9d6e2aaa8650",
+      "startIndex": 358,
+      "text": "محمد بن محمد بن عبد المجير الصائغ الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "771"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "6d86b31d-e0d2-4d94-a6fc-cb8ed4f0c563",
+      "startIndex": 284,
+      "text": "السبت سادس عشر شعبان عام إحدى وسبعين [وسبعمائة]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 217,
+      "guid": "705dc2bc-a09e-4070-a2bd-11b9d671e6c8",
+      "startIndex": 195,
+      "text": "قطلوبغا ابن كراي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "715ddd43-e2f2-44ae-8415-5f46c5659bfe",
+      "startIndex": 119,
+      "text": "أبي العباس الحجار الشهير [بابن] الشحنة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "d25e1095-654f-44b7-a0c3-4b4f4687f90e",
+      "startIndex": 19,
+      "text": "أبي عبد الله محمد بن الشيخ الصالح زين الدين [عبد الرحمن الشهير بابن الصائغ الحنفي",
+      "type": "person"
+    }
+  ],
+  "text": "[................] أبي عبد الله محمد بن الشيخ الصالح زين الدين [عبد الرحمن الشهير بابن الصائغ الحنفي؟] بحق سماعه له من أبي العباس الحجار الشهير [بابن] الشحنة كما تراه فيه منقولا بخطي فسمعه كاملا قطلوبغا ابن كراي الحنفي ورفيقه [فراغ في الأصل] وآخرون بفوت وصح وثبت في مجلسين آخرهما يوم السبت سادس عشر شعبان عام إحدى وسبعين [وسبعمائة] بجامع الأزهر قال ذلك وكتب محمد بن محمد بن عبد المجير الصائغ الدمياطي الشهير عفا الله عنه"
+}

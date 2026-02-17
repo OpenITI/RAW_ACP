@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "تأريخ بغداد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1860"
+      ],
+      "folio_number": [
+        "32r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1841206008/1200/0/00000069.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00068401"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          "45a2c1a2-0021-45c3-bf85-2bdc3fd95247"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "2028f78c-5a8a-4e31-8044-a8f360aceea0",
+      "startIndex": 72,
+      "text": "مسعود بن علي بن عبيد الله بن النادر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          "0ca955ce-24ed-46a5-a86e-edfeeb046c35"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "e799791c-4d08-40c8-a25a-989dcdbc7606",
+      "startIndex": 26,
+      "text": "أبو إسحق إبراهيم بن سعود بن أحمد بن عياش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "566"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "fa6bf92b-e6c8-4854-bb9e-abb965fde03a",
+      "startIndex": 108,
+      "text": "في شوال سنة ست وستين وخمس مائة",
+      "type": "date"
+    }
+  ],
+  "text": "سمعه من لفظي الشيخ العالم أبو إسحق إبراهيم بن سعود بن أحمد بن عياش وكتب مسعود بن علي بن عبيد الله بن النادر في شوال سنة ست وستين وخمس مائة."
+}

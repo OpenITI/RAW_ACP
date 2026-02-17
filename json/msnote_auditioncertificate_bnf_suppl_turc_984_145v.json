@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "زكي الدين عبد العظيم بن عبد القوي المنذري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من أمالي عبد العظيم بن عبد القوي المنذري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "145v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f149.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f149.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 372,
+      "guid": "3732f4df-db7c-4788-b29a-b09eec292e05",
+      "startIndex": 331,
+      "text": "إبراهيم بن محمد بن عبد الرحيم ابن الأميوطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "45a01b12-9c2d-4c62-9f3d-11ac7ed18a19",
+      "startIndex": 37,
+      "text": "نور الدين أبي الحسن علي بن الصلاح الواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 550,
+      "guid": "4660733b-0ee9-47ae-9ec1-c821033c1474",
+      "startIndex": 546,
+      "text": "عائشة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "640f2a71-dbff-4e5d-9f48-3602865077ca",
+      "startIndex": 256,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 485,
+      "guid": "739b8120-aba4-4b20-9386-1adf4a0b5fa0",
+      "startIndex": 482,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 588,
+      "guid": "741ecb89-c664-4208-a379-b18665d563a0",
+      "startIndex": 563,
+      "text": "ياقوت بن عبد الله الجرائحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 543,
+      "guid": "763eaf7b-d56d-4757-aa4e-fe4cdffd1749",
+      "startIndex": 539,
+      "text": "فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 536,
+      "guid": "78b0193a-e880-447b-aac6-7ca2f52cc5ff",
+      "startIndex": 488,
+      "text": "فتح الدين أبو البركات أحمد بن محمد بن محمد القوصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "salihiya_khaniqa"
+          ]
+        ]
+      },
+      "endIndex": 679,
+      "guid": "858b8f46-6c7a-48e9-afb0-bedd64861b09",
+      "startIndex": 663,
+      "text": "الخانقاه الصلاحية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "8937a521-547e-4ad6-9e9a-f124e4590d39",
+      "startIndex": 206,
+      "text": "علاء الدين مغلطاي بن قليج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 440,
+      "guid": "a335205e-86e7-4326-9df8-ad22cc9e6099",
+      "startIndex": 431,
+      "text": "حسن بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "725"
+        ]
+      },
+      "endIndex": 660,
+      "guid": "aa65cea4-2da7-4467-92eb-560d17a1dbc4",
+      "startIndex": 600,
+      "text": "يوم الثلاثاء سابع عشر شهر ربيع الآخر سنة خمس وعشرين وسبع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "ac0534da-987e-4cff-863a-9834edfe2a6b",
+      "startIndex": 131,
+      "text": "إسماعيل ابن إبراهيم بن محمد بن الحسين الشافعي الشارعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 419,
+      "guid": "b9cc85b4-7166-4efd-b7b1-416211fd3a19",
+      "startIndex": 375,
+      "text": "بدر الدين محمد بن حسن بن عبد العزيز التركماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 474,
+      "guid": "d4422d1b-9d8f-4e39-a522-ce164a1e9e5b",
+      "startIndex": 443,
+      "text": "صلاح الدين خليل بن أيدغدي الزيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "fa5174cb-8a89-4d10-b983-cf5a6aa5d015",
+      "startIndex": 266,
+      "text": "أبو عبد الله محمد بن عبد الله ابن محمد المغربي عُرف بابن الصائغ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 725,
+      "guid": "ffbb6ce2-9134-4983-8938-70071e9be3c5",
+      "startIndex": 699,
+      "text": "محمد بن علي بن أيبك السروجي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا المجلس على الشيخ المسند نور الدين أبي الحسن علي بن الصلاح الواني المذكور باطنها بسماعه بمقلوبها نقلًا من ممليه بقراءة إسماعيل ابن إبراهيم بن محمد بن الحسين الشافعي الشارعي وبخطه السماع الجماعة علاء الدين مغلطاي بن قليج [فراغ مقدار كلمة] وولده عبد الله وأبو عبد الله محمد بن عبد الله ابن محمد المغربي عُرف بابن الصائغ وإبراهيم بن محمد بن عبد الرحيم ابن الأميوطي وبدر الدين محمد بن حسن بن عبد العزيز التركماني وابن أخيه حسن بن علي وصلاح الدين خليل بن أيدغدي الزيني وولده أحمد وفتح الدين أبو البركات أحمد بن محمد بن محمد القوصي وفاطمة وعائشة ولدا الحاج ياقوت بن عبد الله الجرائحي وآخرون في يوم الثلاثاء سابع عشر شهر ربيع الآخر سنة خمس وعشرين وسبع مائة بالخانقاه الصلاحية\nنقله من خط القارئ محمد بن علي بن أيبك السروجي عفا الله عنهما"
+}

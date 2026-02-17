@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسماعيل البخاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ثلاثيات البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 17"
+      ],
+      "classmark": [
+        "3739/2"
+      ],
+      "folio_number": [
+        "17r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "0ac00d21-6714-4711-b78a-7cce605b4789",
+      "startIndex": 91,
+      "text": "الحجار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "al-mizza"
+          ]
+        ]
+      },
+      "endIndex": 281,
+      "guid": "50c790b0-75f8-413d-8c75-c334830a5a6d",
+      "startIndex": 260,
+      "text": "المزة من دمشق المحروسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "5365df50-4d27-42ed-8968-96784991a7f8",
+      "startIndex": 154,
+      "text": "برهان الدين بن المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "869"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "6d8fa060-3fa4-48ce-b683-4ac176d01c6d",
+      "startIndex": 194,
+      "text": "يوم الأحد ثالث عشر شهر ذي القعدة الحرام سنة تسع وستين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "71eb6513-f3f1-4c9f-816c-1af5046f605d",
+      "startIndex": 109,
+      "text": "إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "8abc9707-c9f1-44cb-b77e-e7801c9b5e79",
+      "startIndex": 124,
+      "text": "علاء الدين ابن القيراط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 46,
+      "guid": "950db722-b81b-4dca-8f11-1805e95154cd",
+      "startIndex": 26,
+      "text": "زين الدين عمر اللؤلؤي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "b389be57-dd92-43ff-b0c4-437c84e4002d",
+      "startIndex": 336,
+      "text": "يوسف بن حسن بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "e51b6ba0-a32e-423c-adab-ced3690ee1e8",
+      "startIndex": 59,
+      "text": "عائشة بنت عبد الهادي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخ زين الدين عمر اللؤلؤي بإجازته من عائشة بنت عبد الهادي بسماعها من الحجار فسمعه ولده إسماعيل والشيخ علاء الدين ابن القيراط والشيخ برهان الدين بن المرداوي وصح ذلك وثبت في يوم الأحد ثالث عشر شهر ذي القعدة الحرام سنة تسع وستين وثمان ماية بالمزة من دمشق المحروسة وأجاز لنا ما يجوز له وعنه روايته بشرطه عند أهله وكتب يوسف بن حسن بن عبد الهادي"
+}

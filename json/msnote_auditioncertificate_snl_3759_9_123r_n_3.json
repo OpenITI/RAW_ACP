@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "سريج بن يونس بن إبراهيم بن شعيب البلخي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب القضاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/9"
+      ],
+      "folio_number": [
+        "123r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "3ce307df-e0d6-4bb8-a852-5ef033136ec1",
+      "startIndex": 178,
+      "text": "يوسف بن خليل بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 17,
+      "guid": "496c9d81-b744-4d96-a627-8f4187f133ba",
+      "startIndex": 10,
+      "text": " أبي حفص",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "4ec562fb-8ef1-4c45-af23-96edcff11bda",
+      "startIndex": 64,
+      "text": "جوهر الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 41,
+      "guid": "5087674b-42f0-4399-b199-04d29b839589",
+      "startIndex": 30,
+      "text": "الملك المحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "769b4e31-f5dc-458b-ae11-92ab02ce16a6",
+      "startIndex": 77,
+      "text": "إبراهيم بن صمصام بن عبد الله الكناني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "604"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "9d19166e-95aa-4ae3-834d-9c8c4b3cfc05",
+      "startIndex": 118,
+      "text": "الأحد ثامن عشر شهر ربيع الآخر سنة أربع وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "cf12854f-4890-470b-9790-14cff5aec6e0",
+      "startIndex": 50,
+      "text": "طغريل التركي ",
+      "type": "person"
+    }
+  ],
+  "text": "وقرأته على أبي حفص أيضا فسمعه الملك المحسن وفتياه طغريل التركي وجوهر الحبشي وإبراهيم بن صمصام بن عبد الله الكناني يوم الأحد ثامن عشر شهر ربيع الآخر سنة أربع وستماية وصح ذلك كتبه يوسف بن خليل بن عبد الله"
+}

@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الآدمي الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عوالي الإمام أبي حنيفة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 34"
+      ],
+      "classmark": [
+        "3744/6"
+      ],
+      "folio_number": [
+        "48v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "0bdf1d3f-eb87-416f-bebd-968030df045e",
+      "startIndex": 86,
+      "text": "الجمال أيوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "43bd20c1-541a-4279-97c0-4b76c332c53e",
+      "startIndex": 141,
+      "text": "رابع ربيع الأول سنة اثنتين وأربعين [وستماية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 189,
+      "guid": "930d9324-a944-40e3-a394-21fbf3d46c8a",
+      "startIndex": 187,
+      "text": "حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "b8339546-38a6-4131-8983-d019fde9732d",
+      "startIndex": 99,
+      "text": "عبد الله بن عمر بن عمر بن سعيد بن بخمش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "e36a96dc-1da1-4b26-9029-1650bf9734dd",
+      "startIndex": 42,
+      "text": "أبي الحسن علي بن [أبي] بكر بن النحاس ",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه والقدر المذكور أعلاه بقراءة الإمام أبي الحسن علي بن [أبي] بكر بن النحاس أخو[ه] الجمال أيوب وعبد الله بن عمر بن عمر بن سعيد بن بخمش في رابع ربيع الأول سنة اثنتين وأربعين [وستماية] بحلب والسماع بخط المسمع"
+}

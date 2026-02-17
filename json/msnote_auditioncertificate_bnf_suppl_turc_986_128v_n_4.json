@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "128v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "632bedf1-7735-4a8b-b7df-1ba8498ad53d",
+      "index": 286,
+      "isZeroPoint": false,
+      "startIndex": 146,
+      "text": "يوم الاثنين تاسع عشري محرم سنة اثنتين وأربعين [وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "turbat_salih"
+          ]
+        ]
+      },
+      "endIndex": 215,
+      "guid": "65b8e733-3d53-4025-a96c-382b3255075f",
+      "index": 287,
+      "isZeroPoint": false,
+      "startIndex": 202,
+      "text": "تربة أم الصالح",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "b63f3a3b-e119-4798-b381-5b8e1f8ee516",
+      "index": 284,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "محمد بن عبد الكريم بن عبد الصمد الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 44,
+      "guid": "bd3c6ecc-7bf7-4632-831c-9f2d175eba59",
+      "index": 283,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "أبي النجم قمر بن نصر بن هلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "fcf50244-0766-4db5-a64b-a9dbe3740be8",
+      "index": 285,
+      "isZeroPoint": false,
+      "startIndex": 114,
+      "text": "إسماعيل",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة أبي النجم قمر بن نصر بن هلال جماعة من كاتب السماع محمد بن عبد الكريم بن عبد الصمد الأنصاري وابنه إسماعيل في الرابعة من عمره وذلك يوم الاثنين تاسع عشري محرم سنة اثنتين وأربعين [وستمئة] بتربة أم الصالح"
+}

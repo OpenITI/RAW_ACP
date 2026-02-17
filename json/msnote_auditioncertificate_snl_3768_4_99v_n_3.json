@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "المنتقى من السادس عشر من حديث البختري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أبو جعفر محمد بن عمرو ابن البختري الرزاز "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 161"
+      ],
+      "classmark": [
+        "3768/4"
+      ],
+      "folio_number": [
+        "99v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "1c253f32-fba0-41e1-8f12-092eb29cba2e",
+      "startIndex": 46,
+      "text": "موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "614"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "363db690-1a69-4322-81f9-a1d21676ddef",
+      "startIndex": 224,
+      "text": "ثامن ذي القعدة سنة أربع عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "5549f47d-e50c-4680-9a81-4af12a975457",
+      "startIndex": 194,
+      "text": "عبد الرحمن بن عمر بن شحانة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 285,
+      "guid": "6cc8d4bb-4bab-4a1d-a3be-1461bdf56148",
+      "startIndex": 262,
+      "text": "جامع دمشق بحلقة الحنابلة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "f0fef0b9-a386-42fd-85d3-8b51dba91d88",
+      "startIndex": 114,
+      "text": "عبد الرحمن بن عبد الواحد بن إسماعيل عرف بابن صدقة الحراني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع الجزء على شيخنا الشيخ الإمام العالم موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي فسمعه عبد الرحمن بن عبد الواحد بن إسماعيل عرف بابن صدقة الحراني وآخرون على [كذا] كتبه عبد الرحمن بن عمر بن شحانة في ثامن ذي القعدة سنة أربع عشرة وستمائة بجامع دمشق بحلقة الحنابلة"
+}

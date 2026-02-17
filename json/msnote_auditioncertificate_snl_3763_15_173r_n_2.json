@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "نصر بن إبراهيم بن نصر بن داود المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلس من أمالي أبي الفتح المقدسي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 133"
+      ],
+      "classmark": [
+        "3763/15"
+      ],
+      "folio_number": [
+        "173r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "4b89dd75-be1d-46cf-a9b8-17849f71efc6",
+      "startIndex": 28,
+      "text": "عمر بن إبراهيم بن محمد المزي الحبال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "783"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "4bf44f4e-643a-4564-93a3-47cc9920c614",
+      "startIndex": 67,
+      "text": "صفر سنة ثلث وثمانين [وسبعمية] ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "807d7d09-c2de-412c-b0e6-398f7f963e46",
+      "startIndex": 102,
+      "text": "محمد بن المحب",
+      "type": "person"
+    }
+  ],
+  "text": "قرأه علي بهذا الإسناد الشيخ عمر بن إبراهيم بن محمد المزي الحبال في صفر سنة ثلث وثمانين [وسبعمية] كتبه محمد بن المحب"
+}

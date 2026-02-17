@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "112v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f116.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f116.item.r=%22arabe%20708%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 658,
+      "guid": "1625c2fa-fc09-4921-af60-78f4f21199bf",
+      "index": 89,
+      "isZeroPoint": false,
+      "startIndex": 614,
+      "text": "شمس الدين خليل بن بدران بن خليل الحلبي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 532,
+      "guid": "18a8cd08-16be-4341-868f-29c31c82ceec",
+      "index": 86,
+      "isZeroPoint": false,
+      "startIndex": 525,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 761,
+      "guid": "2105c9b1-03aa-4cf6-a08b-9fadb5a8d0bf",
+      "index": 90,
+      "isZeroPoint": false,
+      "startIndex": 693,
+      "text": "أحمد بن الحسن بن علي بن عيسى بن الحسن ابن علي اللخمي عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 908,
+      "guid": "265bf0ac-e98b-4427-a971-0881e203d066",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 902,
+      "text": "القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 359,
+      "guid": "2b4bbfe1-e570-4100-812e-982940c25bce",
+      "index": 83,
+      "isZeroPoint": false,
+      "startIndex": 288,
+      "text": "أثير الدين أبي حيان محمد بن يوسف بن علي بن يوسف ابن حيان النفزي الأندلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 590,
+      "guid": "2e838e64-e7e1-44d2-afa0-ffd18f494c14",
+      "index": 87,
+      "isZeroPoint": false,
+      "startIndex": 535,
+      "text": "فخر الدين أبو عمرو عثمان بن علي بن يحيى الأنصاري الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 517,
+      "guid": "4088b72f-afcb-40cd-945c-00fa186d7c70",
+      "index": 85,
+      "isZeroPoint": false,
+      "startIndex": 469,
+      "text": "زكي الدين عبد الله بن عبد الوهاب بن مكرم الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 389,
+      "guid": "60206fa5-7966-41e1-b760-eb3add047b93",
+      "index": 84,
+      "isZeroPoint": false,
+      "startIndex": 376,
+      "text": "محب الدين أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "65c1add2-698a-4342-a9b9-ba327198f977",
+      "index": 82,
+      "isZeroPoint": false,
+      "startIndex": 213,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "719be064-fc6a-4da4-bf51-07bc21eb2417",
+      "index": 81,
+      "isZeroPoint": false,
+      "startIndex": 97,
+      "text": "شهاب الدين أبي الفضل عبد الرحيم بن يوسف بن يحيى الدمشقي الشافعي عرف بابن خطيب المزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 611,
+      "guid": "a438dde6-4d86-4d3a-b720-1570fd7d508e",
+      "index": 88,
+      "isZeroPoint": false,
+      "startIndex": 598,
+      "text": "شرف الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "4"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 899,
+      "guid": "c01fe08a-03bc-42d5-96ad-e9c38c622f0f",
+      "index": 91,
+      "isZeroPoint": false,
+      "startIndex": 858,
+      "text": "شهر ربيع الأول من سنة ثلاث وثمانين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء الثامن من كتاب السنن لأبي داود وجميع الجزء السابع قبله على الشيخ الأجل المسند شهاب الدين أبي الفضل عبد الرحيم بن يوسف بن يحيى الدمشقي الشافعي عرف بابن خطيب المزة بسماعه لجميع السنن لأبي داود من ابن طبرزد وأجازه بجميع مروياته واللفظ لها بسنده بقراءة الفقيه الأجل الفاضل أثير الدين أبي حيان محمد بن يوسف بن علي بن يوسف ابن حيان النفزي الأندلسي السادة الأجلاء محب الدين أحمد ولد شيخنا الإمام العالم الحافظ شرف الدين أبي محمد عبد المؤمن بن خلف الدمياطي وزكي الدين عبد الله بن عبد الوهاب بن مكرم الدمياطي وولده عبد الله وفخر الدين أبو عمرو عثمان بن علي بن يحيى الأنصاري الشافعي وولده شرف الدين محمد وشمس الدين خليل بن بدران بن خليل الحلبي الصوفي وهو كاتب أسماء الجماعة في الأصل وأحمد بن الحسن بن علي بن عيسى بن الحسن ابن علي اللخمي عرف بابن الصيرفي وهذا خطه وآخرون بفوات أسماؤهم مثبتة على الأصل وصح ذلك وثبت في اليوم المبارك [فراغ في الأصل] من شهر ربيع الأول من سنة ثلاث وثمانين وستمائة بالقاهرة وأجاز المسمع للمذكورين جميع ما يجوز له روايته وتلفظ بذلك والحمد لله وحده وصلواته على محمد وآله."
+}

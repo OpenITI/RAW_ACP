@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الخطيب البغدادي بجامع دمشق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 143"
+      ],
+      "classmark": [
+        "3764/15"
+      ],
+      "folio_number": [
+        "211r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 27,
+      "guid": "1bd28091-0ed7-40f2-9de5-41ec9a801ef1",
+      "startIndex": 18,
+      "text": " شمس الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "5092e8f4-ac35-46c3-b8ab-4f96ff7cef42",
+      "startIndex": 207,
+      "text": "الجمال أيدغدي بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 555,
+      "guid": "87c42bd0-25d1-4c02-b227-5f8378e174bf",
+      "startIndex": 528,
+      "text": "علي بن مسعود بن نفيس الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 462,
+      "guid": "b9fce589-344c-4389-9886-2d535e85a2bd",
+      "startIndex": 439,
+      "text": "دار الحديث النورية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "bb3c55c0-59e8-486d-8b7a-3dc25df72f73",
+      "startIndex": 128,
+      "text": "شرف الدين يعقوب بن أحمد الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "675"
+        ]
+      },
+      "endIndex": 436,
+      "guid": "bc739605-6e95-482a-8ac9-7a723365ae08",
+      "startIndex": 384,
+      "text": "الثلاثاء ثاني عشر جمادى الآخرة سنة خمس وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "ea02c597-beec-4d1b-994e-ffb7af4c1c57",
+      "startIndex": 160,
+      "text": "التقي محمد بن عبد الحميد بن محمد الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 349,
+      "guid": "ecfd2c8f-c8c0-43a0-aa92-9e9f1b6df084",
+      "startIndex": 286,
+      "text": "نجم الدين محمد بن نور الدين أحمد بن إبراهيم بن عبد الضيف بن مصعب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "f2ea0964-2d86-4ea0-9626-2b4424d7648c",
+      "startIndex": 87,
+      "text": "الصفي جوهر بن عبد الله الظهيري التفليسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "f8a63eb1-5421-4cc4-aa5f-71c041bb8a8a",
+      "startIndex": 70,
+      "text": "محيي الدين محمد",
+      "type": "person"
+    }
+  ],
+  "text": "ثم قرأته على الشيخ شمس الدين المذكور أعلاه بسماعه فيه نقلاً فسمع ولده محيي الدين محمد والصفي جوهر بن عبد الله الظهيري التفليسي وشرف الدين يعقوب بن أحمد الحلبي والتقي محمد بن عبد الحميد بن محمد الهمداني جده والجمال أيدغدي بن عبد الله عتيق الأمير ناصر الدين محمد بن افتخار الدين الحراني ونجم الدين محمد بن نور الدين أحمد بن إبراهيم بن عبد الضيف بن مصعب وصح ذلك وثبت في ليلة تسفر عن يوم الثلاثاء ثاني عشر جمادى الآخرة سنة خمس وسبعين وستمائة بدار الحديث النورية بدمشق المحروسة وأجاز المسمع للجماعة جميع ما يجوز له روايته بشرطه كتبه علي بن مسعود بن نفيس الموصلي عفا الله عنه ورفق به "
+}

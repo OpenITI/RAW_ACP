@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يعقوب بن يوسف الأصم "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأول و الثاني من حديث أبي العباس محمد بن يعقوب الأصم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 162"
+      ],
+      "classmark": [
+        "3768/7"
+      ],
+      "folio_number": [
+        "140r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 30,
+      "guid": "2297b144-d6c3-4f8d-b645-280eb93724b8",
+      "startIndex": 23,
+      "text": "أبي زرعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "487"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "2553fd04-c3f0-4e00-8720-a395bdaf900f",
+      "startIndex": 60,
+      "text": "سبع وثمانين [وأربعماية] في ربيع الآخر",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "779457de-ff04-43da-929e-1f8e044a1a4b",
+      "startIndex": 35,
+      "text": "أبي [الفتح] عبدوس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "9e97b8aa-b176-4820-8426-9f5dcb648f83",
+      "startIndex": 105,
+      "text": "أبي علي العجلي",
+      "type": "person"
+    }
+  ],
+  "text": "رأيت على الأصل أن سماع أبي زرعة من أبي [الفتح] عبدوس في سنة سبع وثمانين [وأربعماية] في ربيع الآخر بقراءة أبي علي العجلي"
+}

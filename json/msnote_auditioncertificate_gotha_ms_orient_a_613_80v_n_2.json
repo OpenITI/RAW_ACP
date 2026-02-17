@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأحاديث البلدانية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 613"
+      ],
+      "folio_number": [
+        "80v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000619"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 488,
+      "guid": "22a61541-f518-40d1-bcaa-2a3d357ff74e",
+      "startIndex": 424,
+      "text": "زكي الدين عبد الحافظ بن عمر بن أبي بن عمر [الشهير بابن؟] الدخميسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 965,
+      "guid": "25c65ea4-2013-4974-9e78-ebee2440d518",
+      "startIndex": 918,
+      "text": "الحمد لله رب العالمين صحيح ذلك كتبه خليل بن سبرج",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "3627ba75-c65a-4276-b1dd-6792119f984b",
+      "startIndex": 96,
+      "text": "غرس الدين خليل بن المرحوم السيفي سبرج بن عبد الله المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 633,
+      "guid": "53aa8c61-180e-48c1-9c83-d379688e5cc2",
+      "startIndex": 551,
+      "text": "أبي زرعة أحمد بن محمد بن عمر بن محمد بن إبراهيم البارنباري ثم المصري السعدي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "58f4c06f-ab23-4f1e-954c-38e1230b4783",
+      "startIndex": 338,
+      "text": "أمين الدين أبو الجود محمد بن أحمد بن عيسى الشهير بابن النجار الدمياطي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "865"
+        ]
+      },
+      "endIndex": 729,
+      "guid": "5bd2e1d5-7383-424c-8796-3c0165f471fa",
+      "startIndex": 675,
+      "text": " يوم الجمعة تاسع جمادى الأولى سنة خمس وستين وثماني ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "almas_mosque"
+          ]
+        ]
+      },
+      "endIndex": 769,
+      "guid": "b6ae84be-b0a0-4530-8c28-7330e766f155",
+      "startIndex": 732,
+      "text": "جامع ألماس بالشارع من القاهرة المحروسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 519,
+      "guid": "decc5b20-a678-4532-a070-e48cd1429673",
+      "startIndex": 497,
+      "text": "أبو سهل موفق الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "ef993a00-a48b-45e2-81de-10c5c7d4e248",
+      "startIndex": 193,
+      "text": "أبي هريرة عبد الرحمن بن الحافظ أبي عبد الله محمد بن أحمد بن عثمان الذهبي",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله رب العا[لمين] سمع جميع هذا الجزء بالخطبة والكلام على الشيخ الصالح المعمر المسند العدل غرس الدين خليل بن المرحوم السيفي سبرج بن عبد الله المالكي الشهير بوالده بإجازته من الإمام المسند أبي هريرة عبد الرحمن بن الحافظ أبي عبد الله محمد بن أحمد بن عثمان الذهبي المخرج بسماعه من أبيه تراه علوه نقلا الفقيه الفاضل المقرئ المجود المعيد أمين الدين أبو الجود محمد بن أحمد بن عيسى الشهير بابن النجار الدمياطي الشافعي والفقيه زكي الدين عبد الحافظ بن عمر بن أبي بن عمر [الشهير بابن؟] الدخميسي والولد أبو سهل موفق الدين محمد ولد صاحب القراءة والخط الفقير أبي زرعة أحمد بن محمد بن عمر بن محمد بن إبراهيم البارنباري ثم المصري السعدي الشافعي لطف الله به وصح ذلك وثبت في مجلس واحد في يوم الجمعة تاسع جمادى الأولى سنة خمس وستين وثماني ماية بجامع ألماس بالشارع من القاهرة المحروسة وأجاز المسمع للمذكورين ديوانه كذلك وصح [... ...] بشرطه لافظاً بسؤالي ولله الحمد وصلى الله على سيدنا محمد وآله وصحبه أجمعين حسبنا الله ونعم الوكيل. الحمد لله رب العالمين صحيح ذلك كتبه خليل بن سبرج"
+}

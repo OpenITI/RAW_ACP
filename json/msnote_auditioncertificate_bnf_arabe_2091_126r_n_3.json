@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "جمال الدين المزي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/16163574"
+      ],
+      "work_title": [
+        "تهذيب الكمال في اسمــاء الرجــال "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 2091"
+      ],
+      "folio_number": [
+        "126r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110026394/f128.item.r=%22Arabe%202091%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "2a7c11a6-3046-4372-b467-8bd1662a0334",
+      "index": 2,
+      "isZeroPoint": false,
+      "startIndex": 13,
+      "text": "محمد بن رافع بن أبي محمد الصُميدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "772c04de-5677-46e0-bc83-12aa2606d739",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 48,
+      "text": "طيبرس الفاروخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "714"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "7e5f575c-6b97-41b2-b933-7c7ab2001099",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 63,
+      "text": "ليلة السبت السادس عشر من جمادى الآخرة سنة أربع عشرة وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader",
+          "musmi"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "fff452b5-a597-484d-8731-7cf8c197a2f8",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 128,
+      "text": "يوسف المزي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من لفظي محمد بن رافع بن أبي محمد الصُميدي وطيبرس الفاروخي ليلة السبت السادس عشر من جمادى الآخرة سنة أربع عشرة وسبعمية وكتب يوسف المزي"
+}

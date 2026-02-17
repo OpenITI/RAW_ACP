@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "البخاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 613"
+      ],
+      "folio_number": [
+        "53r"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000619"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 791,
+      "guid": "1096326f-6de6-4881-8fc2-690eea8940c7",
+      "startIndex": 745,
+      "text": "أبو زرعة أحمد بن محمد بن عمر البارنباري الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 611,
+      "guid": "126cf3f4-0658-4550-9055-6cddd9472318",
+      "startIndex": 605,
+      "text": "الذهبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 430,
+      "guid": "3b7a79ca-45a4-4773-9739-dcb353fbf8d8",
+      "startIndex": 405,
+      "text": "منزل سكني بمصر بدار النحاس",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "5e4602a5-0d0e-4203-8d34-84512593f114",
+      "startIndex": 128,
+      "text": "ا]بن عنتر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "70875d76-cbcb-435b-96b1-516c835676d4",
+      "startIndex": 42,
+      "text": "أم الفضل هاجر بنت الشرف القدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "78603ae6-b12c-4c26-96b9-07f1067df3e2",
+      "startIndex": 193,
+      "text": "أم الفضل جوى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "868"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "79b4fd09-3a23-473f-8cb2-cab70b86021c",
+      "startIndex": 344,
+      "text": "يوم الجمعة العشرين من شعبان المكرم سنة ثمان وستين وثمانماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "83d7a197-8b77-49f0-a333-efa5605ad5a3",
+      "startIndex": 252,
+      "text": "ستيتة [بنت عمي علي بن عمر البارنباري]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 600,
+      "guid": "af6754ad-620d-4345-855c-3400ccf8da0b",
+      "startIndex": 592,
+      "text": "أبي هريرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "c44fad5d-2024-4222-bb25-7e6ec8e60e49",
+      "startIndex": 88,
+      "text": "أم عبد الله أسن بنت الشجاع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "f294eab3-c0a0-4438-a1a3-ceb530eea3d5",
+      "startIndex": 174,
+      "text": "أبو سهل محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 302,
+      "guid": "fe3f7bc5-fc0b-4daa-87f1-7a344d08f7ed",
+      "startIndex": 299,
+      "text": "سارة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 639,
+      "guid": "fee87874-3455-4682-bcb7-f9039f4601c0",
+      "startIndex": 623,
+      "text": "أبي العباس الحجار",
+      "type": "person"
+    }
+  ],
+  "text": "الحمد لله قرأت جميع هذا الجزء على المسندة أم الفضل هاجر بنت الشرف القدسي بروايتها له عن أم عبد الله أسن بنت الشجاع بسماعها على [ا]بن عنتر وإجازة من السبط [...] فيه فسمع ولدي أبو سهل محمد وأخته أم الفضل جوى حاضرة في السنة 3 أنشأهما نشأة صالحة ووالدتهما ستيتة [بنت عمي علي بن عمر البارنباري] ووالدتها سارة وأجازت (في الأصل أجزات) وصح ذلك وثبت في يوم الجمعة العشرين من شعبان المكرم سنة ثمان وستين وثمانماية بمنزل سكني بمصر بدار النحاس منها [...] علو المسجد وقرأت عليها بالتاريخ والمكان وسمع وحضر مرة [...] جميع جزء البانياسي من حديث إبراهيم ابن عبد الصمد الهاشمي وآخره الصحة والفراغ بإجازتها من أبي هريرة أن الذهبي بسماعه على أبي العباس الحجار بسنده وأجازت ولله الحمد والمنة وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم تسليما كثيرا. قال ذلك وكتبه أبو زرعة أحمد بن محمد بن عمر البارنباري الشافعي حامداً ومصليا على سيدنا محمد وعلى آله وصحبه أجمعين ومحسبلاً."
+}

@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن القزويني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي القزويني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 104"
+      ],
+      "classmark": [
+        "3759/1"
+      ],
+      "folio_number": [
+        "13v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+},
+      "endIndex": 380,
+      "guid": "44f30611-aae4-493b-82da-c2c87e58808b",
+      "startIndex": 334,
+      "text": "صحيح ذلك كتبه علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "6c7cbc75-ecff-4811-9bf5-de8582718100",
+      "startIndex": 84,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "7132714e-551d-4ab7-b36b-6dc82b4f3ebe",
+      "startIndex": 182,
+      "text": "يوم الاثنين سلخ المحرم سنة ثمان وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 265,
+      "guid": "82b9af0c-7a1e-4b37-b099-79ad2e5f6059",
+      "startIndex": 230,
+      "text": "جبل قاسيون بالمدرسة [التي] أنشأه عمه",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "920847fe-336b-43d4-91d0-6b1d6b64b713",
+      "startIndex": 294,
+      "text": "محمد بن عبد الرحمن بن سامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "d42fa21c-b908-45d8-86a6-9f52448ae8e6",
+      "startIndex": 149,
+      "text": "ابن الجوزي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم الزاهد العابد مسند الوقت و[مفيد] الطلبة فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي بإجازته من ابن الجوزي بسنده وصح ذلك وثبت في يوم الاثنين سلخ المحرم سنة ثمان وسبعين وستماية بجبل قاسيون بالمدرسة [التي] أنشأه عمه وكتب الفقير إلى الله تعالى محمد بن عبد الرحمن بن سامة عفا الله عنه صحيح ذلك كتبه علي بن أحمد بن عبد الواحد المقدسي"
+}

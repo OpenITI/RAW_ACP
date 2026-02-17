@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "وكيع بن جراح بن مليح الرواسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث وكيع بن الجراح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 24/25"
+      ],
+      "classmark": [
+        "3740/12"
+      ],
+      "folio_number": [
+        "135r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "4c04e7b6-e5db-4f09-8f36-4bfea6ecb0b1",
+      "startIndex": 124,
+      "text": "ابن أبي اليسر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 304,
+      "guid": "6c691d25-b277-4fd9-a301-75ed86434573",
+      "startIndex": 277,
+      "text": "المدرسة الضيائية بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "75823895-813f-4569-b994-9e335ca47259",
+      "startIndex": 157,
+      "text": "منتصر بن نصر الله بن أحمد بن عرار المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "87e7c5be-b4cb-4efc-a986-be97ba212a01",
+      "startIndex": 207,
+      "text": "ناهض بن محمد بن فهد الفامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "704"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "9685be6f-ac32-4db7-b2a7-25f5a4a90d08",
+      "startIndex": 245,
+      "text": "خامس عشر صفر سنة أربع وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 372,
+      "guid": "bb3f99c6-280e-4ec6-9fc5-207615f48abb",
+      "startIndex": 318,
+      "text": "عبد الله بن أحمد بن عبد الله بن أحمد بن إبراهيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "c5aaca6c-88a6-4a9b-81e8-83b18038c16b",
+      "startIndex": 45,
+      "text": "سعد الدين أبي زكريا يحيى بن محمد بن سعد بن عبد الله المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على الشيخ الصالح الزاهد سعد الدين أبي زكريا يحيى بن محمد بن سعد بن عبد الله المقدسي بسماعه فيه أصلا من ابن أبي اليسر بسنده فسمعه الفقيه منتصر بن نصر الله بن أحمد بن عرار المرداوي والحاج ناهض بن محمد بن فهد الفامي وصح ذلك في خامس عشر صفر سنة أربع وسبعماية بالمدرسة الضيائية بسفح قاسيون وكتب الفقير عبد الله بن أحمد بن عبد الله بن أحمد بن إبراهيم المقدسي عفا الله عنه الحمد لله وحده وصلى الله على سيدنا محمد النبي وآله وصحبه وسلم"
+}

@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/76600419"
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 709"
+      ],
+      "folio_number": [
+        "2r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.item.r=%22arabe%20709%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "0e14bc15-aa37-4571-806b-f7ea9abf92f0",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 89,
+      "text": "أبي العباس أحمد بن محمد بن كوثر [المحاربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-a'tiq_mosque"
+          ]
+        ]
+      },
+      "endIndex": 152,
+      "guid": "724c890d-0082-49cf-b533-c1aac9c00118",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 134,
+      "text": "الجامع] العتيق بمصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "d6dc1b6e-ef0f-4c89-ac60-229327288452",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 195,
+      "text": "عبد العزيز بن عيسى بن عبد الواحد بن سليمان الأندلسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت من أول هذا الكتاب إلى أول أبواب الزكاة عن [رسول الله] صلى الله عليه وسلم علي الفقيه أبي العباس أحمد بن محمد بن كوثر [المحاربي] [بالجامع] العتيق بمصر وأجاز لي بقية الكتاب وجميع سماعاته [...] عبد العزيز بن عيسى بن عبد الواحد بن سليمان الأندلسي رجب سنة خمـ[...]"
+}

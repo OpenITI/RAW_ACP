@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن قريب بن علي الباهلي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الخيل"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 121"
+      ],
+      "classmark": [
+        "3761/14"
+      ],
+      "folio_number": [
+        "145r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "year": [
+          "433"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "0cfe6172-3a7d-47e9-9797-4818847fc5d1",
+      "startIndex": 103,
+      "text": "سنة ثلث وثلثين وأربع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 28,
+      "guid": "431f3497-08fc-4fc7-8dc4-51c8ac69d38a",
+      "startIndex": 21,
+      "text": "ابن رزمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "c68364d5-81c4-43b7-9573-601a0ea657bb",
+      "startIndex": 37,
+      "text": "أبي بكر بن دوست العلاف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "c7d1157c-b907-4e6e-9b18-62b44c6ee8ba",
+      "startIndex": 66,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "dbe4f651-8910-44ef-a4e5-a1f4cfbd1729",
+      "startIndex": 60,
+      "text": "ثابت ",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ من أوله سماعا من ابن رزمة بقراءة أبي بكر بن دوست العلاف ثابت وأحمد ابنا بندار بن إبراهيم البقال في سنة ثلث وثلثين وأربع ماية"
+}

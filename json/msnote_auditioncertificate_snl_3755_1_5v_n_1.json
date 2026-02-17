@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن إسماعيل الصفار البلخي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث محمد بن سنان القزاز عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 82"
+      ],
+      "classmark": [
+        "3755/1"
+      ],
+      "folio_number": [
+        "5v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "27f91b78-ebf7-4950-b179-fa3636ca4646",
+      "index": 202,
+      "isZeroPoint": false,
+      "startIndex": 172,
+      "text": "أبي الفتح بن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "hanbaliya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 426,
+      "guid": "4380ce32-7919-4c2f-9da0-053ff9d37b6d",
+      "index": 205,
+      "isZeroPoint": false,
+      "startIndex": 376,
+      "text": "بدمشق المحروسة داخل باب الفراديس بمدرسة ابن الحنبلي",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "667"
+        ]
+      },
+      "endIndex": 374,
+      "guid": "46df34de-d16a-4839-9798-4daa11b40c55",
+      "index": 204,
+      "isZeroPoint": false,
+      "startIndex": 321,
+      "text": "يوم الجمعة سابع وعشرين ربيع الآخر سنة سبع وستين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "5643694c-7dc6-47aa-a6c4-dd1d95c9cbc5",
+      "index": 200,
+      "isZeroPoint": false,
+      "startIndex": 73,
+      "text": "بهاء الدين أبي محمد عبد الرحمن بن إبراهيم بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 517,
+      "guid": "5f6b7a19-4b6a-48fd-9473-4540849ac33e",
+      "index": 206,
+      "isZeroPoint": false,
+      "startIndex": 465,
+      "text": "محمود بن محمد بن بندار بن أبي عبد الله عرف بالتوريزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 302,
+      "guid": "717013ce-7bda-42bb-8cca-dfdac69bd245",
+      "index": 203,
+      "isZeroPoint": false,
+      "startIndex": 244,
+      "text": "شمس الدين محمد ابن أبي الفتح بن أبي الفضل بن بركات البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "c50f67a6-33d3-4d08-8c67-869d0381f68d",
+      "index": 201,
+      "isZeroPoint": false,
+      "startIndex": 145,
+      "text": "أبي طاهر إبراهيم",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزؤ بكماله بروايتي عن الشيخ الإمام القدوة العلامة الحافظ بهاء الدين أبي محمد عبد الرحمن بن إبراهيم بن أحمد المقدسي بروايته له عن أبي طاهر إبراهيم سماعا وعن أبي الفتح بن البطي إجازة بالسند المذكور أوله الفقيه الأجل العالم المحصل شمس الدين محمد ابن أبي الفتح بن أبي الفضل بن بركات البعلبكي بقراءته عليَّ في يوم الجمعة سابع وعشرين ربيع الآخر سنة سبع وستين وستمية بدمشق المحروسة داخل باب الفراديس بمدرسة ابن الحنبلي نفعه الله بالعلم ووفقه للعمل به كتبه محمود بن محمد بن بندار بن أبي عبد الله عرف بالتوريزي الشافعي عفا الله عنه"
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد هبة الله بن محمد بن الحسين البسطامي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلسان من امالي هبة الله بن محمد البسطامي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 874"
+      ],
+      "folio_number": [
+        "12r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011751"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "599"
+        ]
+      },
+      "endIndex": 372,
+      "guid": "14f933da-3e1f-4f14-9452-36f182bab163",
+      "startIndex": 310,
+      "text": "يوم الأربعاء الخامس والعشرين من رجب من سنة تسع وتسعين وخمسمائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "5f5acac6-ee89-4abd-a764-2e92ecd4a78c",
+      "startIndex": 270,
+      "text": "أبي طاهر عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "persia",
+            "isfahan",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 391,
+      "guid": "6bb245de-553f-4bb4-a873-fd2a4ee3f741",
+      "startIndex": 374,
+      "text": "منزل الشيخ بأصبهان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 415,
+      "guid": "8f8c26f1-7548-442a-ada4-0444b08153b4",
+      "startIndex": 398,
+      "text": "محمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "ba2507b9-61b3-4849-9724-d0ec30e26eb3",
+      "startIndex": 227,
+      "text": "أبي بكر محمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "c4ea5acb-2eba-4412-9eaa-de7e0219b05e",
+      "startIndex": 58,
+      "text": "شمس الدين أبي محمد عبد الوهاب بن أبي عبد الله أحمد بن محمد الجنزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "db6ceec0-cb60-41f4-ac71-7c144738e36e",
+      "startIndex": 128,
+      "text": "أبي جعفر محمد بن أحمد بن نصر بن أبي الفتح الصيدلاني",
+      "type": "person"
+    }
+  ],
+  "text": "وبخطه أيضاً نقلت بلغت من أوله سماعاً بقراءة الإمام العالم شمس الدين أبي محمد عبد الوهاب بن أبي عبد الله أحمد بن محمد الجنزي على أبي جعفر محمد بن أحمد بن نصر بن أبي الفتح الصيدلاني، سبط حسين بن منده بحق سماعه حاضراً للمجلسين من أبي بكر محمد بن عبد الله، والمجلس الأول من أبي طاهر عبد الواحد كلاهما عن المملي في يوم الأربعاء الخامس والعشرين من رجب من سنة تسع وتسعين وخمسمائة بمنزل الشيخ بأصبهان كتبه محمد بن عبد الواحد."
+}

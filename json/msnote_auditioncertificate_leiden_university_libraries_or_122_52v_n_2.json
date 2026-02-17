@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن جعفر الخرائطي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "مكارم الأخلاق ومعاليها وطرائق محمودها"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 122 "
+      ],
+      "folio_number": [
+        "52v"
+      ],
+      "image_link": [
+        "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3374496%7EJP2%7Eea14f19db9f8bed38334096f41e14912d01b3abb0f455517b7e5539791fba69b%7Edigitalc/full/pct:22/0/default.jpg"
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        "baf615f4-21fa-43d4-8b41-b6ffb42588d8"
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/ud5et8/alma9938139748902711 "
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "5f714287-5eea-41d9-b9cc-c11b0faa152e"
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 890,
+      "guid": "1128823b-29af-4535-9876-507b844aec80",
+      "startIndex": 849,
+      "text": "خليل بن بدران بن خليل الربعي الحلبي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "664"
+        ]
+      },
+      "endIndex": 742,
+      "guid": "2653d491-cae8-4a9b-902b-45ee09a8ac33",
+      "startIndex": 697,
+      "text": "الخميس سلخ ذي القعدة من سنة أربع وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 498,
+      "guid": "3744dca8-2ebe-4aab-b83f-1b94e88cd53a",
+      "startIndex": 462,
+      "text": "شهاب الدين أحمد بن أسعد بن أحمد الضبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "41a39d00-e73a-49ba-9e12-cfe4e0674666",
+      "startIndex": 142,
+      "text": "جمال الدين أبي حامد محمد بن الشيخ علم الدين أبي الحسن علي بن محمود بن أحمد المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 510,
+      "guid": "55d90e34-c2d9-46ba-a2e4-51b9cbe714d1",
+      "startIndex": 506,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 588,
+      "guid": "6ae51bd3-6b86-4212-b732-df08649595e1",
+      "startIndex": 555,
+      "text": "سيف الدين بلبان بن عبد الله الرومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 339,
+      "guid": "8ca72edd-0fd8-45de-be8e-a274538008e5",
+      "startIndex": 282,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-fiyala_mosque"
+          ]
+        ]
+      },
+      "endIndex": 765,
+      "guid": "98ba056f-921e-4663-97dd-98cf42475651",
+      "startIndex": 745,
+      "text": "جامع الفيلة بظاهر مصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 383,
+      "guid": "ae604585-851f-4f24-a657-f1b7b3571f20",
+      "startIndex": 342,
+      "text": "برهان الدين إبراهيم بن عيسى بن حاتم السعدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 445,
+      "guid": "d4ace1d2-e9ac-49ec-8b8b-6ce7daa1ce71",
+      "startIndex": 386,
+      "text": "شهاب الدين أبو العباس أحمد بن أبي بكر بن أبي الفوارس بن منقذ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 528,
+      "guid": "e266f5f4-7f40-4a16-a9dc-e99ddefc9f4b",
+      "startIndex": 512,
+      "text": "مبارك بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 460,
+      "guid": "f7140cb6-40fe-43ff-be05-df736f94af7e",
+      "startIndex": 453,
+      "text": "إسماعيل ",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت سماعا من أول هذا الكتاب وهو مكارم الأخلاق للخرائطي إلى آخر هذا الجزء وهو الخامس منها على الشيخ الإمام العالم الفاضل المتقن المحدث المفيد جمال الدين أبي حامد محمد بن الشيخ علم الدين أبي الحسن علي بن محمود بن أحمد المحمودي الصابوني بحق سماعه فيه نقلا بقراءة الفقيه المفيد الفاضل نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي وبرهان الدين إبراهيم بن عيسى بن حاتم السعدي وشهاب الدين أبو العباس أحمد بن أبي بكر بن أبي الفوارس بن منقذ وأخوه إسماعيل وشهاب الدين أحمد بن أسعد بن أحمد الضبي وأخوه محمد ومبارك بن عبد الله عتيق الشمس خطلوا الصوفي وسيف الدين بلبان بن عبد الله الرومي فتا شيخنا نجيب الدين أبي الفرج عبد اللطيف بن أبي محمد عبد المنعم بن علي الصيقل الحراني وصح ذلك وثبت في يوم الخميس سلخ ذي القعدة من سنة أربع وستين وستماية بجامع الفيلة بظاهر مصر المحروسة وأجازنا الشيخ المسمع جميع ما يجوز له روايته وتلفظ بذلك وكتب العبد الفقير خليل بن بدران بن خليل الربعي الحلبي الصوفي عفا الله عنه حامدا الله تعالى ومصليا على نبيه محمد وآله وصحبه ومسلما"
+}

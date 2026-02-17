@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبد الله بن محمد بن عبيد ابن أبي الدنيا القرشي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب التوكل على الله"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 187"
+      ],
+      "classmark": [
+        "3772"
+      ],
+      "folio_number": [
+        "159v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 153,
+      "guid": "17318fe1-99ed-4034-b46e-540d4f7ab493",
+      "startIndex": 144,
+      "text": "جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "5c3bcdd7-57a1-4082-8e0d-8030cd6b9a2d",
+      "startIndex": 49,
+      "text": "يوسف بن الحسن بن بدر ابن النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "624"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "72031e08-9535-40d0-9100-f570bc9e8159",
+      "startIndex": 90,
+      "text": "الثلثاء تاسع جمادى الأولى من سنة أربع وعشرين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "d38197ac-c747-4d16-8665-14f09f2b6413",
+      "startIndex": 19,
+      "text": " البهاء عبد الرحمن بن إبراهيم",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ كتاب التوكل على البهاء عبد الرحمن بن إبراهيم يوسف بن الحسن بن بدر ابن النابلسي في يوم الثلثاء تاسع جمادى الأولى من سنة أربع وعشرين وستمائة بجبل قاسيون نقلته مختصرا له من خط يوسف القارئ له"
+}

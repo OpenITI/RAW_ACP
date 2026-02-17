@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "100r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f103.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f103.item.r=%22arabe%20708%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 670,
+      "guid": "009edb81-a635-44c1-ac98-4fed7d046eb8",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 630,
+      "text": "إبراهيم بن الحسين بن أخي الفخر بن [المشاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "077c423d-ccf8-479c-a813-7eda88dc1136",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 231,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "30da3f07-4704-4855-bc44-9608a7954dff",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 315,
+      "text": " بيليك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "3d07b67b-e938-49ea-8bb8-f6fb09705201",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 137,
+      "text": "زكي الدين أبي محمد عبد العظيم بن عبد القوي ابن عبد الله المنذري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 372,
+      "guid": "67a72f92-3498-4657-b036-2a68566f9dc8",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 323,
+      "text": "عبد الرحمن بن محمد بن محمد بن أبي بكر الطبري المكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "6a97eb09-9e4d-4fec-b393-0225386fa250",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 274,
+      "text": "سابق الدين أزدمر بن عبد الله المعزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "dar_al-hadith_al-kamiliya"
+          ]
+        ]
+      },
+      "endIndex": 510,
+      "guid": "6bca5937-1633-44c1-9280-fae941880f99",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 492,
+      "text": "دار الحديث الكاملية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 812,
+      "guid": "b2e8f235-f3a6-479d-adf5-136a23612117",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 730,
+      "text": "صحيح ذلك كتبه عبد العظيم بن عبد القوي بن عبد الله المنذري غفر الله تعالى له ولطف به",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 489,
+      "guid": "b510dd83-26c3-4e4d-91ea-d84604ba3bac",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 436,
+      "text": "الرابع والعشرين من جمادى الأولى سنة خمس وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 593,
+      "guid": "f5988e3a-bcc6-4d92-9c60-3768b1f034ad",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 517,
+      "text": "عبد الله الحسن بن علي بن عيسى بن الحسن بن علي اللخمي الشافعي عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 401,
+      "guid": "f7774348-0b0e-4bfe-8910-1bd4323d749f",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 375,
+      "text": "حسن بن غازي بن مرهف السمسار",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء السابع من كتاب السنن لأبي داود السجستاني رحمه الله على سيدنا وشيخنا الفقيه الإمام العالم العلامة الحافظ الحبر القدوة زكي الدين أبي محمد عبد العظيم بن عبد القوي ابن عبد الله المنذري أثابه الله الجنة بسماعه له من ابن طبرزد فسمع السادة الأجلاء الأمير الأجل سابق الدين أزدمر بن عبد الله المعزي وفتاه بيليك وعبد الرحمن بن محمد بن محمد بن أبي بكر الطبري المكي وحسن بن غازي بن مرهف السمسار وصح ذلك وثبت في مجلسين آخرهما في الرابع والعشرين من جمادى الأولى سنة خمس وخمسين وستمائة بدار الحديث الكاملية كتبه عبد الله الحسن بن علي بن عيسى بن الحسن بن علي اللخمي الشافعي عرف بابن الصيرفي عفا الله عنه والحمد لله وحده.\nوسمع إبراهيم بن الحسين بن أخي الفخر بن [المشاق؟] من أول الجزء إلى قوله باب المسافر يصلي وهو يشك في الوقت\nصحيح ذلك كتبه عبد العظيم بن عبد القوي بن عبد الله المنذري غفر الله تعالى له ولطف به."
+}

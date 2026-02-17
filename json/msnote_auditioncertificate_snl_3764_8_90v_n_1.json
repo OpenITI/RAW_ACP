@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "منتخب من الفوائد الصحاح العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 140"
+      ],
+      "classmark": [
+        "3764/8"
+      ],
+      "folio_number": [
+        "90v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "0d695c2a-bb56-4c4c-8e39-81745c6f5a74",
+      "startIndex": 36,
+      "text": " ابن جوارش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "48e938f6-cfa7-4bc5-b49f-fcefd6991926",
+      "startIndex": 65,
+      "text": "أبي بكر بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "c3f18e33-adc5-43c2-9173-f39a063f77f9",
+      "startIndex": 86,
+      "text": "يوسف بن حسن بن عبد الهادي ",
+      "type": "person"
+    }
+  ],
+  "text": "سمعت هذا الجزء وما قبله وما بعده على ابن جوارش بإجازته من الحافظ أبي بكر بن المحب كتب يوسف بن حسن بن عبد الهادي "
+}

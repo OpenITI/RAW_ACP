@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "129v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f134.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f134.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "210f2675-307f-411b-a3c7-492e9032e0d9",
+      "index": 89,
+      "isZeroPoint": false,
+      "startIndex": 150,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "2e43e3c7-9840-426f-ae6d-de6ebd2c7cc8",
+      "index": 86,
+      "isZeroPoint": false,
+      "startIndex": 9,
+      "text": "أبي عمرو عثمان بن علي بن عبد الواحد ابن خطيب القرافة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "749bea6a-2107-4d77-b1e4-5062e3a299a0",
+      "index": 87,
+      "isZeroPoint": false,
+      "startIndex": 73,
+      "text": "السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 267,
+      "guid": "8eb6fca6-eef4-4d44-a746-cf9c9abefe4b",
+      "index": 92,
+      "isZeroPoint": false,
+      "startIndex": 226,
+      "text": "خامس عشر ربيع الآخر سنة خمس وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "cd68a5e4-e73a-4156-95ff-d7b228282b29",
+      "index": 88,
+      "isZeroPoint": false,
+      "startIndex": 87,
+      "text": "إبراهيم الفاضل نجم الدين يحيى بن علي بن أبي بكر الشاطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "d992656a-02a6-40e8-884a-74858c7d76df",
+      "index": 90,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "عبد القوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "e4b4528d-7e87-4d85-ab0e-dbae60b2af25",
+      "index": 91,
+      "isZeroPoint": false,
+      "startIndex": 166,
+      "text": "عبد الرحمن بن عبد الولي بن إبراهيم بن عبد الملك اليلداني",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على أبي عمرو عثمان بن علي بن عبد الواحد ابن خطيب القرافة بإجازته من السلفي بقراءة إبراهيم الفاضل نجم الدين يحيى بن علي بن أبي بكر الشاطبي وولداه علي وعبد القوي وعبد الرحمن بن عبد الولي بن إبراهيم بن عبد الملك اليلداني في خامس عشر ربيع الآخر سنة خمس وخمسين وستمائة"
+}

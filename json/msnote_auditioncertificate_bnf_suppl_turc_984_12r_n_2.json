@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن هشام بن عروة "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث محمد بن هشام بن عروة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "12r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f13.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f13.image.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "2ff9e631-e0ab-4de7-9a0e-938d97811d48",
+      "index": 236,
+      "isZeroPoint": false,
+      "startIndex": 170,
+      "text": "محمد بن يحيى بن علي القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 441,
+      "guid": "341aa6fa-1017-4ddd-a1e6-a7bee6c7aae8",
+      "index": 238,
+      "isZeroPoint": false,
+      "startIndex": 381,
+      "text": "أبي محمد عبد الله بن عبد الرزاق بن عبد الله بن الفضيل الكلاعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "3a83a5c8-e2fe-4bd4-8c4a-9d2650c927da",
+      "index": 235,
+      "isZeroPoint": false,
+      "startIndex": 126,
+      "text": "حفاظ؟] بن كليب ابن علي البزاز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "487"
+        ]
+      },
+      "endIndex": 369,
+      "guid": "4d2c9dbd-eb33-4867-9358-676e4cc13a85",
+      "index": 237,
+      "isZeroPoint": false,
+      "startIndex": 338,
+      "text": "رجب من سنة سبع وثمانين وأربعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 531,
+      "guid": "6647b6c3-7784-400f-a7b4-1becb08d5111",
+      "index": 239,
+      "isZeroPoint": false,
+      "startIndex": 486,
+      "text": "أبي المعمر المسدد بن علي بن عبد الله الأُملوكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-battikh"
+          ]
+        ]
+      },
+      "endIndex": 635,
+      "guid": "d2ae3d41-240e-4b28-b2a7-67c0cc5a575d",
+      "index": 240,
+      "isZeroPoint": false,
+      "startIndex": 614,
+      "text": "دار البطيخ بمدينة دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "fda4b3e5-ba33-4ee1-870e-53ec355b286a",
+      "index": 234,
+      "isZeroPoint": false,
+      "startIndex": 65,
+      "text": "أبو محمد عبد الرحمن بن أحمد بن علي بن صابر السلمي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ هذا الجزء لنسخة محمد بن هشام بن عروة دون ما بعده صاحبه الشيخ أبو محمد عبد الرحمن بن أحمد بن علي بن صابر السلمي وسمعه معه [حفاظ؟] بن كليب ابن علي البزاز وكاتب الأسماء محمد بن يحيى بن علي القرشي في يوم الاثنين التاسع\nhttps://gallica.bnf.fr/ark:/12148/btv1b10082841z/f14.item.r=%22turc%20984%22.zoom\nBNF, Suppl Turc 984, 12v\nوالعشرين من رجب من سنة سبع وثمانين وأربعماية علي الشيخ أبي محمد عبد الله بن عبد الرزاق بن عبد الله بن الفضيل الكلاعي وعُورض به كتاب أبيه الذي فيه سماعه معه على أبي المعمر المسدد بن علي بن عبد الله الأُملوكي والحمد لله وحده وصلواته على سيدنا محمد وإليه سلامه وحسبنا الله ونعم الوكيل وذلك بدار البطيخ بمدينة دمشق."
+}

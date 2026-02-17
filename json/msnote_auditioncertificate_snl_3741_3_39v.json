@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "39v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-sadriya"
+          ]
+        ]
+      },
+      "endIndex": 373,
+      "guid": "0c4b62e6-7a44-4579-b591-789e4563f88b",
+      "startIndex": 353,
+      "text": "المدرسة الصدرية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "720"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "359ad53e-768c-4d5e-8076-d55283b7e818",
+      "startIndex": 287,
+      "text": "يوم الأربعاء الثامن والعشرين من شهر رجب الفرد سنة عشرين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "50595737-a33a-4bfc-bd65-0e9412a2222d",
+      "startIndex": 182,
+      "text": "ابن سعد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "80602f9c-eda2-47cd-9776-f73f0a608182",
+      "startIndex": 57,
+      "text": "شرف الدين عبد الله بن الحسن بن عبد الله بن الحافظ عبد الغني بن عبد الواحد بن علي بن سرور المقدسي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "8ce398d7-6ce5-429b-be83-3e21647ad351"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 421,
+      "guid": "85c65db9-88f9-4e32-8d1a-b6ebd9b809c9",
+      "startIndex": 380,
+      "text": "خليل بن كيكلدي بن عبد الله العلائي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "ab971d45-2bfb-4ba1-bb25-c95bd2053da7",
+      "startIndex": 242,
+      "text": "يحيى الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "bd7e25a0-3a42-4d8b-9b91-1053b7b1ae97",
+      "startIndex": 216,
+      "text": "ابن عبد الدائم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "ef0ed5c5-c388-4b93-92f6-f0a8ff92f19b",
+      "startIndex": 205,
+      "text": "خطيب مردا",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على الشيخ الإمام العالم أقضى القضاة شرف الدين عبد الله بن الحسن بن عبد الله بن الحافظ عبد الغني بن عبد الواحد بن علي بن سرور المقدسي الحنبلي بحضوره فيه نقلا على ابن سعد وبسماعه فيه من خطيب مردا وابن عبد الدائم بسماعهم من يحيى الثقفي بسنده فيه وصح ذلك في مجالس آخرها يوم الأربعاء الثامن والعشرين من شهر رجب الفرد سنة عشرين وسبعماية بالمدرسة الصدرية بدمشق وكتب خليل بن كيكلدي بن عبد الله العلائي الشافعي غفر الله له وعفا عنه "
+}

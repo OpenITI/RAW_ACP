@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عشرة أحاديث عن عشرة مشايخ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 59 "
+      ],
+      "classmark": [
+        "3749/7"
+      ],
+      "folio_number": [
+        "194v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "10ca8c1e-68e3-4b68-b595-82cc106d8679",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 264,
+      "text": "إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "647"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "14024ef0-508d-43b4-8b16-dd5af1cc6c21",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 286,
+      "text": "يوم الجمعة خامس عشري شهر الله المعظم رمضان سنة سبع وأربعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "2d6d67d3-02eb-436e-bf64-821448a5e36a",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 255,
+      "text": "إبراهيم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "8534f01a-7525-44e4-b1c2-0a0dc6c61037",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 74,
+      "text": "إدريس بن محمد بن أبي الفرج ابن إدريس بن مزيز الحموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "d3c5adae-0581-4578-81c3-139b324a9025",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "تاج الدين صالح بن ثامر بن حامد بن صالح الجعبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "ee25aa5d-89ca-4ba6-8064-c6f330bf3819",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 196,
+      "text": "عماد الدين عبد الرحمن بن صالح بن هاشم العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "f128c0e1-3c16-4fb5-9916-83f0ab8a3804",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 23,
+      "text": "أبي الحجاج يوسف بن خليل بن عبد الله الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه على مؤلفه الحافظ أبي الحجاج يوسف بن خليل بن عبد الله الدمشقي بقراءة إدريس بن محمد بن أبي الفرج ابن إدريس بن مزيز الحموي ومن خطه لخصت جمع منهم تاج الدين صالح بن ثامر بن حامد بن صالح الجعبري وعماد الدين عبد الرحمن بن صالح بن هاشم العجمي وأخواه لأبويه إبراهيم وإسماعيل وصح وثبت عشية يوم الجمعة خامس عشري شهر الله المعظم رمضان سنة سبع وأربعين وستمية"
+}

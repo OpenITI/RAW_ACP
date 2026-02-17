@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن محمد السلفي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأحاديث السداسيات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 613"
+      ],
+      "folio_number": [
+        "73v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000619"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-qaysrani_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 390,
+      "guid": "172e13b3-8b54-442a-beda-98d2ccbec4dd",
+      "startIndex": 359,
+      "text": "مدرسة ابن القيسراني ظاهر القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "246bcd32-6d20-4a63-80e5-c979264e8ff9",
+      "startIndex": 89,
+      "text": "النجيب الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "2b1a28e4-5b56-441f-bba6-8e04dcf5b496",
+      "startIndex": 126,
+      "text": "تقي الدين أبي الفتح محمد بن عبد اللطيف بن يحيى السبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 465,
+      "guid": "2e075d04-bf19-47ea-a496-8c37b52b9ff0",
+      "startIndex": 433,
+      "text": " أبو زرعة أحمد بن محمد البارنباري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "392d2980-de3f-4921-9338-6faa7c1117ff",
+      "startIndex": 188,
+      "text": " أبو اليمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "a78e1a31-3f6f-41bb-8f09-826e636d3941",
+      "startIndex": 200,
+      "text": "أبو جعفر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "b1d90062-a98d-45ba-b13a-dcb190c86a7f",
+      "startIndex": 280,
+      "text": "محمد بن علي بن أيبك السروجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "731"
+        ]
+      },
+      "endIndex": 351,
+      "guid": "fee67a31-d0c7-480c-9633-e0a1022ce188",
+      "startIndex": 325,
+      "text": "في 18 جمادى الآخرة سنة 731 ",
+      "type": "date"
+    }
+  ],
+  "text": "[...................................................................................] من النجيب الحراني بقراءة الشيخ الإما[م] تقي الدين أبي الفتح محمد بن عبد اللطيف بن يحيى السبكي المحمدان أبو اليمن وأبو جعفر ولدا القاضي الإمام سراج الدين عبد اللطيف [بن] أحمد بن محمود بن الكويك ومحمد بن علي بن أيبك السروجي وهذا خطه وصح ذلك في 18 جمادى الآخرة سنة 731 [...] بمدرسة ابن القيسراني ظاهر القاهرة وأجازت لنا جميع ما يجوز لها.  ومن خطه لخص أبو زرعة أحمد بن محمد البارنباري."
+}

@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن إسماعيل الصفار البلخي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث محمد بن سنان القزاز عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 82"
+      ],
+      "classmark": [
+        "3755/1"
+      ],
+      "folio_number": [
+        "2r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 386,
+      "guid": "0335baee-ec73-4272-a473-60cdff49f368",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 383,
+      "text": "موسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 599,
+      "guid": "049b35a7-0e99-4dab-8d77-b63e014252ff",
+      "index": 77,
+      "isZeroPoint": false,
+      "startIndex": 544,
+      "text": "منزل الشيخ أبي الحسين الزاهد داخل باب توما من مدينة دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 215,
+      "guid": "122a1c6d-51fb-474a-866d-d358c872bc93",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 159,
+      "text": "بهاء الدين أبي محمد عبد الرحمن بن إبراهيم بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 380,
+      "guid": "1a378859-5849-4dd8-83c3-fa202351d4bf",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 371,
+      "text": "عبد القادر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "2eac5361-c803-4c64-a8a2-be63f5b2d5ac",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 232,
+      "text": "طاهر إبراهيم بن أحمد بن حمدية العكبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "667"
+        ]
+      },
+      "endIndex": 541,
+      "guid": "362b3be2-528f-4922-b132-3776e488c4d9",
+      "index": 76,
+      "isZeroPoint": false,
+      "startIndex": 462,
+      "text": "ليلة الأربعاء لأربع عشرة ليلة خلت من شهر الله الأصب رجب من سنة سبع وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 304,
+      "guid": "5a24ed8d-b04c-4f15-be59-d4596b75994b",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 295,
+      "text": "ابن البطي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 671,
+      "guid": "634df409-49f6-49f0-9471-b9c28a778f92",
+      "index": 78,
+      "isZeroPoint": false,
+      "startIndex": 629,
+      "text": "محمد بن عبد الرحمن بن يوسف بن محمد البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 447,
+      "guid": "7b3b1bc5-5a4e-4d38-80b1-96b6f875e381",
+      "index": 75,
+      "isZeroPoint": false,
+      "startIndex": 424,
+      "text": "خاتون ابنة عثمان بن يونس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "7b3fc635-f06d-4662-bf44-67976de72d43",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 364,
+      "text": " أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 345,
+      "guid": "8bf97c51-c85f-4aa4-a609-ad0b997f9c45",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 337,
+      "text": "ابن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "8ea5cf46-0a47-4e65-bf7e-774195c42c9e",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 324,
+      "text": "السمرقندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "e30f1001-6bb9-4e80-819a-3261f226049f",
+      "index": 74,
+      "isZeroPoint": false,
+      "startIndex": 389,
+      "text": "فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "fc50a8bf-0ffa-4cb6-9f33-fabcac6d14f1",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 65,
+      "text": "عبد الرحمن بن يوسف بن محمد بن نصر بن أبي القاسم البعلبكي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على والدي العبد الفقير إلى عفو الله وغفرانه عبد الرحمن بن يوسف بن محمد بن نصر بن أبي القاسم البعلبكي بحق سماعه فيه من الشيخ الإمام العالم بهاء الدين أبي محمد عبد الرحمن بن إبراهيم بن أحمد المقدسي قال [سمع؟] أبو طاهر إبراهيم بن أحمد بن حمدية العكبري [في الأصل حمدويه] سماعا وابن البطي إجازة بروايتهما عن السمرقندي عن ابن البطر فسمعه إخوتي لأبوي أحمد وعبد القادر وموسى وفاطمة بنو عبد الرحمن المذكور وأمهم خاتون ابنة عثمان بن يونس وصح ذلك وثبت ليلة الأربعاء لأربع عشرة ليلة خلت من شهر الله الأصب رجب من سنة سبع وستين وستماية بمنزل الشيخ أبي الحسين الزاهد داخل باب توما من مدينة دمشق وكتبه العبد الفقير إلى الله محمد بن عبد الرحمن بن يوسف بن محمد البعلبكي عفا الله عنه والحمد لله رب العالمين وصلى الله على سيد المرسلين محمد وآله وصحبه أجمعين وسلم تسليما كثيرا"
+}

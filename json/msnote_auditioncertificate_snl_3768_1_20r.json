@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبدالله بن محمد بن عبيد بن أبي الدنيا "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الصمت"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 160"
+      ],
+      "classmark": [
+        "3768/1"
+      ],
+      "folio_number": [
+        "20r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 569,
+      "guid": "0918b5e6-73ae-4161-8252-75fde3238b5f",
+      "startIndex": 542,
+      "text": "أحمد بن سالم بن نافع الحضرمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "0a443da9-812c-461f-843b-797dfeac78c1",
+      "startIndex": 51,
+      "text": "أبي عبد الله محمد بن إبراهيم بن مسلم بن سلمان الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "631"
+        ]
+      },
+      "endIndex": 719,
+      "guid": "389025f1-8648-402c-a3ca-9c8a2b8031b4",
+      "startIndex": 666,
+      "text": "الاثنين ثالث عشرين ذي قعدة من سنة إحدى وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "466d3d4f-49b6-4bc3-b7ce-2823fd0bd902",
+      "startIndex": 164,
+      "text": "عباس ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "628d953e-48be-4345-a2e4-49fdf578d825",
+      "startIndex": 195,
+      "text": "محمد بن إبراهيم بن أبي الكرم الحمصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 740,
+      "guid": "6ad7105f-5d3c-48a8-bf22-f8d1badaef52",
+      "startIndex": 722,
+      "text": "المسجد الجامع بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          "b8775a2a-3b46-41d6-b1cb-c8f064d0e114"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "7ae1afe8-c05e-482e-b2f2-bb18f6ae9e12",
+      "startIndex": 334,
+      "text": "سالم بن ثمال بن عنان العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "a6bc9794-0809-4910-9ddb-f073f461ce3d",
+      "startIndex": 111,
+      "text": "أبو العباس أحمد بن علي بن الحسن بن علي الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "ab734675-8b37-4a8f-b236-a8b5f27b48e8",
+      "startIndex": 170,
+      "text": "عنبر بن عبد الله الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 411,
+      "guid": "b37e3d4b-e837-41c0-b902-25b319bbfc9d",
+      "startIndex": 404,
+      "text": " إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 397,
+      "guid": "d4da7ac5-296f-49c5-9c7d-fd42dc8351fa",
+      "startIndex": 363,
+      "text": "عبد الرحمن بن يوسف بن شعبان الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 637,
+      "guid": "e2412ab0-87a4-4cab-a9f1-da07a5aefad1",
+      "startIndex": 604,
+      "text": "أبو بكر بن أرتق بن آق سنقر الخلاطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 287,
+      "guid": "f433e4e6-0fee-477f-afa8-6ac471794b86",
+      "startIndex": 236,
+      "text": "عبد الرحمن بن هارون بن محمد بن هارون الحميدي البعلي ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع كتاب الصمت هذا وهو أربعة أجزاء على الشيخ أبي عبد الله محمد بن إبراهيم بن مسلم بن سلمان الإربلي فسمعه أبو العباس أحمد بن علي بن الحسن بن علي الدمشقي وابنه عباس وعنبر بن عبد الله الحبشي ومحمد بن إبراهيم بن أبي الكرم الحمصي وكتب عبد الرحمن بن هارون بن محمد بن هارون الحميدي البعلي وسمع الجزء الثالث والرابع من هذه النسخة الشيخ سالم بن ثمال بن عنان العرضي وعبد الرحمن بن يوسف بن شعبان الإربلي وولده إبراهيم حضر في الخامسة وقرأ الجزء الأول إلى قول مورق العجلي أمر أنا في طلبه منذ [عشر؟] سنين لم أقدر عليه الحديث وسمع أيضا الثالث والرابع أحمد بن سالم بن نافع الحضرمي ومن موضع اسمه في الرابع إلى آخره أبو بكر بن أرتق بن آق سنقر الخلاطي وصح ذلك في مجالس آخرها يوم الاثنين ثالث عشرين ذي قعدة من سنة إحدى وثلاثين وستمائة بالمسجد الجامع بدمشق بعضه وبعضه بظاهر دمشق وصح وثبت ولله الحمد و[...] على نعمه كلها"
+}

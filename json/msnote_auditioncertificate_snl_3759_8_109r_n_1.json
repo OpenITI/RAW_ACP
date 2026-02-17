@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن عرفة بن يزيد العبدي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الحسن بن عرفة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/8"
+      ],
+      "folio_number": [
+        "109r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "df7eba33-240e-4a29-8b15-496565a25145"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "0bd8e25d-759f-4e21-ab76-071f88d0c42f",
+      "startIndex": 138,
+      "text": " فرج ابن عبد الله الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ]
+      },
+      "endIndex": 492,
+      "guid": "2a9495e5-f648-485e-b7e1-e304918b524a",
+      "startIndex": 439,
+      "text": "صحيح ذلك وكتب مكرم بن مظفر بن أبي محمد العين زربي بخطه",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "2dc9a1bd-a03c-4517-8f9b-9735d8ac8aa9",
+      "startIndex": 50,
+      "text": "أبي المكرم المكرم بن مظفر بن أبي محمد العين زربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "ruzbehan_al-qarafa"
+          ]
+        ]
+      },
+      "endIndex": 259,
+      "guid": "4861deb7-bce3-4be1-a6f3-f4affa0bc189",
+      "startIndex": 233,
+      "text": "القرافة الصغرى بتربة رزبهان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "6aa8f95f-a070-4705-8478-b031a1b4f98f",
+      "startIndex": 180,
+      "text": "السبت الثالث عشرمن ربيع الأول سنة ثلث وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 381,
+      "guid": "98e4cf53-b4f1-4a13-aa4b-7bc093ed4eb8",
+      "startIndex": 343,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي ",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت بقراءتي سماعا لجمبعه على الشيخ الصالح الزاهد أبي المكرم المكرم بن مظفر بن أبي محمد العين زربي بحق سماعه فيه منقولا فسمعه الشيخ الصالح فرج ابن عبد الله الحبشي وصح وثبت في صباح السبت الثالث عشرمن ربيع الأول سنة ثلث وستين وستماية بالقرافة الصغرى بتربة رزبهان وأجاز المسمع لي وله جميع ما يجوز له روايته بشرطه قاله وكتبه الفقير إلى الله تعالى علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه حامدا ومصليا ومسلما وحسبنا الله ونعم الوكيل صحيح ذلك وكتب مكرم بن مظفر بن أبي محمد العين زربي بخطه"
+}

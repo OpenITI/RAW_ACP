@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن أحمد بن إبراهيم بن شاذان "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء الأول من حديث ابن شاذان عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 162"
+      ],
+      "classmark": [
+        "3768/6"
+      ],
+      "folio_number": [
+        "127v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "15e99a67-6db7-4298-8964-44fa67e04c1c",
+      "startIndex": 198,
+      "text": "أحمد بن إبراهيم بن ينال الصيداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 362,
+      "guid": "28a95617-1958-4f49-9fb6-4ed1323aa4a7",
+      "startIndex": 343,
+      "text": "لمسجد الجامع من دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "51b096f5-0342-4c59-a296-0afcd38da019",
+      "startIndex": 232,
+      "text": "محمد بن عبد الله بن عبد الرحمن النوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "62037516-5c34-4724-8483-6b6ccc2f0c42",
+      "startIndex": 79,
+      "text": "موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "622cc80c-9c92-4395-b74d-cf431c40de4a",
+      "startIndex": 154,
+      "text": "أبو عبد الله محمد بن معالي بن محمد الكناني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "609"
+        ]
+      },
+      "endIndex": 339,
+      "guid": "c9f7f035-04fb-46f4-93a3-48d0b2085a91",
+      "startIndex": 315,
+      "text": "ذي الحجة سنة تسع وست مائة",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت كل هذا الجزء على شيخنا الإمام العالم الصدر الكامل شيخ الإسلام حجة العلماء موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي فسمعه الفقيه أبو عبد الله محمد بن معالي بن محمد الكناني وأحمد بن إبراهيم بن ينال الصيداوي ومحمد بن عبد الله بن عبد الرحمن النوري وهذا خطه بيده وصح ذلك في مجلسين آخرهما أواخر ذي الحجة سنة تسع وست مائة بالمسجد الجامع من دمشق والحمد لله حق حمده وصلى الله على محمد وآله وسلم"
+}

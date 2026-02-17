@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن المظفر بن محمد بن موسى بن عيسى البزاز "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 50/51"
+      ],
+      "classmark": [
+        "3747/10"
+      ],
+      "folio_number": [
+        "143v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "1116f508-3cc7-4ae9-b345-e65b04a2353c",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 101,
+      "text": "فخر الدين أبي الحسين علي بن أحمد بن عبد الواحد ابن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 370,
+      "guid": "1d7e3971-7c37-4d94-a474-461c9679c94c",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 341,
+      "text": "الجامع المظفري بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "2c1a7a0c-1d2d-4ac0-ad4f-abb785f42b8e",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 237,
+      "text": "عبد الرحمن بن أحمد بن سامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 449,
+      "guid": "4a5cf8c8-1d87-491c-a48a-bef9170d5382",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 424,
+      "text": "محمد بن عبد الرحمن بن سامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 339,
+      "guid": "c3cc57f8-1e9b-43f7-9a0c-ee940e01711f",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 280,
+      "text": "يوم الاثنين ثالث عشري جمادى الأولى سنة ثلاث وثمانين وستماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "e7d98909-ef12-444f-b255-35e9ed8addbe",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 210,
+      "text": "ابن طبرزد",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على الشيخ الإمام العالم العامل الزاهد العابد شيخ الإسلام مسند الوقت رحلة الطلبة فخر الدين أبي الحسين علي بن أحمد بن عبد الواحد ابن أحمد المقدسي أثابه الله العظيم الجنة برحمته بسماعه فيه من ابن طبرزد بسنده أوله فسمعه عبد الرحمن بن أحمد بن سامة وصح ذلك وثبت في يوم الاثنين ثالث عشري جمادى الأولى سنة ثلاث وثمانين وستماية بالجامع المظفري بسفح جبل قاسيون ظاهر دمشق المحروسة كتبه العبد الفقير إلى الله تعالى محمد بن عبد الرحمن بن سامة لطف الله به"
+}

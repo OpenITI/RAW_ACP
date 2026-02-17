@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "43r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "45a2c1a2-0021-45c3-bf85-2bdc3fd95247"
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "27cf52d6-2e96-43c4-bf95-9f368a7e1ef4",
+      "startIndex": 140,
+      "text": "مسعود بن علي بن عبد الله بن النادر الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "3f70c952-a523-42c5-97e0-47aa8d8e0b12",
+      "startIndex": 252,
+      "text": "الحسن بن محمد بن محمد البكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "9963bce6-7d2f-4039-95d2-71bae7bf5d04"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "57132b1c-6157-4b14-ab2b-2a81c837f8d9",
+      "startIndex": 96,
+      "text": "أبو اليمن زيد بن الحسن بن زيد الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "531"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "60bf6e86-28b3-4496-a55f-17f486166aa6",
+      "startIndex": 185,
+      "text": "يوم الاحد ثاني عشر ربيع الآخر سنة إحدى وثلثين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "9988b12a-3d8a-4b10-9e65-4b21070bffb1",
+      "startIndex": 24,
+      "text": " أبي القاسم الحريري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "d8fa672e-becf-4f39-9188-4ec1079d10a0",
+      "startIndex": 44,
+      "text": "أبو بكر أحمد بن أبي الحسن بن علي الخباز",
+      "type": "person"
+    }
+  ],
+  "text": " وسمع المجالس العشرين من أبي القاسم الحريري أبو بكر أحمد بن أبي الحسن بن علي الخباز وذكر جماعة وأبو اليمن زيد بن الحسن بن زيد الكندي بقراءة مسعود بن علي بن عبد الله بن النادر الصفار في يوم الاحد ثاني عشر ربيع الآخر سنة إحدى وثلثين وخمسماية نقله مختصرا الحسن بن محمد بن محمد البكري رفق الله به كما وجده في شهور سنة اثنتين وستماية بدمشق"
+}

@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عبد الله بن أحمد الصوفي، أبو نعيم الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حلية الأولياء وطبقات الأصفياء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 84"
+      ],
+      "classmark": [
+        "3755/5"
+      ],
+      "folio_number": [
+        "54v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "month": [
+          "12"
+        ],
+        "year": [
+          "514"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "6cc5fe4a-6eb1-46b7-ab2f-3a084b81e95b",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 139,
+      "text": "ذي الحجة سنة أربع عشرة وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "8fb0bf1b-f669-4858-a948-21892fe2bc72",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 57,
+      "text": "أبو الوفا أحمد بن علي بن عبيد الله بن [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "c4b07945-1e0c-47cb-a2fd-ddd334f5185e",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 106,
+      "text": "الحسين بن سعد بن علي بن بندار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 40,
+      "guid": "fb2df6d8-2363-45f2-b853-f1c44cb54ea8",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 27,
+      "text": "أبو الحسن أحمد",
+      "type": "person"
+    }
+  ],
+  "text": " سمع هذا الجزؤ ولدي الخطيب أبو الحسن أحمد بقراءته عليَّ وأبو الوفا أحمد بن علي بن عبيد الله بن [...] كتبه الحسين بن سعد بن علي بن بندار في ذي الحجة سنة أربع عشرة وخمسماية"
+}

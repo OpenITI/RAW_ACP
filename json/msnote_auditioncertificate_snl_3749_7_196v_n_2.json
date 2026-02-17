@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عشرة أحاديث عن عشرة مشايخ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 59"
+      ],
+      "classmark": [
+        "3749/7"
+      ],
+      "folio_number": [
+        "196v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 323,
+      "guid": "3a668fd2-152e-476a-ac95-f0c3337f3945",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 315,
+      "text": "جامع حلب ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "45f95283-1ef6-4296-b0c3-644c1e4a47f6",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 152,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 25,
+      "guid": "47559073-4b0c-49ec-ba7b-95f5fb03c2d9",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 15,
+      "text": " ابن أيدغمش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "65b9392c-5212-457e-bf44-ced22953b293",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 121,
+      "text": "جمال الدين يوسف الإزرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "c2b48d9f-bd42-4c29-94c9-bebae001657f",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 208,
+      "text": "علاء الدين علي بن يوسف الرحبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "773"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "ca188218-4ce9-4656-953e-98b570feb0df",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 263,
+      "text": "يوم الأربعاء سابع عشري شوال سنة ثلث وتسعين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "f04b22ac-de92-4d32-9ad5-45275f62f05b",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 87,
+      "text": " شهاب الدين أحمد الغباري القاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "f4f477a2-3b46-4d00-b00a-4c97e7aeefda",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "fab76d41-d582-4259-9b7d-db8e16d10432",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 47,
+      "text": "برهان الدين",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه أيضا على ابن أيدغمش بقراءة شيخنا الحافظ برهان الدين ومن خطه لخصت جمع منهم الإمام شهاب الدين أحمد الغباري القاهري وجمال الدين يوسف الإزرعي وابناه محمد وأحمد حاضرا في وسمع إلى أول ترجمة ابن قادشاه الشيخ علاء الدين علي بن يوسف الرحبي وصح ذلك في مجلسين آخرهما يوم الأربعاء سابع عشري شوال سنة ثلث وتسعين وسبعمية بجامع حلب وأجاز"
+}

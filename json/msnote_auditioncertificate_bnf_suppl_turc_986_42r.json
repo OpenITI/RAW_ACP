@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ضياء الدين محمد بن عبد الواحد بن أحمد المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الثالث من الفوائد الحافظ ضياء الدين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "42r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f44.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f44.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "90021d9e-6837-401e-bcc6-0f2c74cc0622",
+      "index": 82,
+      "isZeroPoint": false,
+      "startIndex": 55,
+      "text": "سليمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "a08d3c3d-bea7-40b4-9b85-8b9d2208e44f",
+      "index": 83,
+      "isZeroPoint": false,
+      "startIndex": 77,
+      "text": "يوسف بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "bb0da26f-56af-44e3-a532-0cd550d191c3",
+      "index": 81,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "ابن المحب",
+      "type": "person"
+    }
+  ],
+  "text": "أخبرنا به جماعة من شيوخنا إجازة عن ابن المحب عن القاضي سليمان عن المؤلف وكتب يوسف بن عبد الهادي"
+}

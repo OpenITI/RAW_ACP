@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/1"
+      ],
+      "folio_number": [
+        "13v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "05330326-1d0c-4ed0-b976-c539f59ec489",
+      "startIndex": 273,
+      "text": "عبد الله بن الحربي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "372e6568-de24-4ddb-8e01-550a279851a5",
+      "startIndex": 238,
+      "text": "ابن نقطة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "46653ae9-26f9-4fc9-84cb-da9e57568e8a",
+      "startIndex": 79,
+      "text": "أبو بكر أحمد بن علي الأشقر الدلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "477"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "782fc344-b3bc-4e15-8d2c-4bf191e343fd",
+      "startIndex": 175,
+      "text": "الجمعة ثالث عشر ذي الحجة سنة سبع وسبعين وأربع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "92dabe6d-5126-4e92-b138-69e7eb7ff76b",
+      "startIndex": 157,
+      "text": "أبو الحسن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "af94662e-f3d9-4f64-bdb9-4960ae44215c",
+      "startIndex": 55,
+      "text": " شجاع الذهلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "d51bb433-ab5d-4b62-8b28-5d1bc06b34c5",
+      "startIndex": 19,
+      "text": "أبي الغنائم بن أبي عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "f4fe4e28-b803-4137-a470-793996637c82",
+      "startIndex": 114,
+      "text": "أبو محمد عبد الله بن علي بن الأبنوسي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع هذا الجزء على أبي الغنائم بن أبي عثمان أيضا بقراءة شجاع الذهلي جماعة منهم أبو بكر أحمد بن علي الأشقر الدلال وأبو محمد عبد الله بن علي بن الأبنوسي وابنه أبو الحسن أحمد في الجمعة ثالث عشر ذي الحجة سنة سبع وسبعين وأربع ماية نقلته من خط ابن نقطة وذكر أنه نقله من خط الشيخ عبد الله بن الحربي رحمه الله"
+}

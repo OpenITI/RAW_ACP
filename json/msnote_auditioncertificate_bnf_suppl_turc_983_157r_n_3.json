@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن علي السهلكي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "روح الروح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "157r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f161.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f161.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "42f83bf0-dac7-44bf-b2a9-6266ee3c69b1",
+      "index": 264,
+      "isZeroPoint": false,
+      "startIndex": 73,
+      "text": "عبد القادر بن هدية بن علي الصحراوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "a392a7ea-1dd1-409f-bcfb-454f6543c897",
+      "index": 263,
+      "isZeroPoint": false,
+      "startIndex": 38,
+      "text": "إلياس بن جامع بن علي الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "dc18ecb1-4591-49b9-ba17-e09a37679593",
+      "index": 266,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "يوسف بن الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "576"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "ff2c4767-bbcc-4638-9e51-a6d3d4b055cf",
+      "index": 265,
+      "isZeroPoint": false,
+      "startIndex": 111,
+      "text": "يوم الخميس سادس عشري صفر سنة ست وسبعين وخمس ماية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأ عليَّ جميع هذا الجزء الشيخ الفقيه إلياس بن جامع بن علي الإربلي فسمعه عبد القادر بن هدية بن علي الصحراوي في يوم الخميس سادس عشري صفر سنة ست وسبعين وخمس ماية وكتب يوسف بن الحسن في التاريخ"
+}

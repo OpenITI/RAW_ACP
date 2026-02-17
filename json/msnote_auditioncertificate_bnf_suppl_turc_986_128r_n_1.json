@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "128r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f132.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f132.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "38d8b1e0-6628-4fbe-a252-95b9b6c01193",
+      "index": 229,
+      "isZeroPoint": false,
+      "startIndex": 8,
+      "text": "أبي طاهر أحمد بن محمد بن أحمد السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "alexandria"
+          ]
+        ]
+      },
+      "endIndex": 254,
+      "guid": "46c27794-0a67-4716-b9cb-5689387dfd9e",
+      "index": 234,
+      "isZeroPoint": false,
+      "startIndex": 245,
+      "text": "الإسكندرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "589f40b4-879e-4799-ac92-341b2ff905c2",
+      "index": 232,
+      "isZeroPoint": false,
+      "startIndex": 170,
+      "text": "عبد الخالق بن صالح بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "5eb2ad18-0995-4c46-b658-18fdf3a4b407",
+      "index": 231,
+      "isZeroPoint": false,
+      "startIndex": 83,
+      "text": "أبو القاسم عبد الرحمن بن أبي الحرم مكي بن عبد الرحمن بن أبي سعيد بن الحاسب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "575"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "c08451dc-acc5-46e2-814b-06cd0230a554",
+      "index": 233,
+      "isZeroPoint": false,
+      "startIndex": 199,
+      "text": "السادس من ذي القعدة سنة خمس وسبعين وخمس",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "f40c2e9c-ee64-4138-a76b-446911a3e67d",
+      "index": 230,
+      "isZeroPoint": false,
+      "startIndex": 52,
+      "text": "عبد العزيز بن عيسى اللخمي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من أبي طاهر أحمد بن محمد بن أحمد السلفي بقراءة عبد العزيز بن عيسى اللخمي سبطه أبو القاسم عبد الرحمن بن أبي الحرم مكي بن عبد الرحمن بن أبي سعيد بن الحاسب وكتب السماع عبد الخالق بن صالح بن علي في السادس من ذي القعدة سنة خمس وسبعين وخمس مائة بالإسكندرية."
+}

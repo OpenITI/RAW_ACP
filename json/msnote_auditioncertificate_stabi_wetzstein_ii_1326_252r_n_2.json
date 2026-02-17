@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسماعيل البخاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1326"
+      ],
+      "folio_number": [
+        "252r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN769639313/1200/0/00000507.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00023752"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "399e1549-a0e3-4e5d-97d2-b8ec6441fa2b",
+      "startIndex": 55,
+      "text": "سعد الدين يحيى بن محمد بن سعد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "713"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "71a37110-f954-4cfd-951f-9b02259028b8",
+      "startIndex": 179,
+      "text": "يوم الثلاثاء ثاني رجب الفرد من سنة ثلاثة عشرة وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 259,
+      "guid": "8224881f-2cc1-4f48-812c-5641e962fc5a",
+      "startIndex": 237,
+      "text": "مسجد العتيق بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 389,
+      "guid": "95a2e8b0-7ac4-4815-a918-aad165c48f17",
+      "startIndex": 344,
+      "text": "محمد بن حمزة بن عمر بن أبي بكر المجدلي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "a6a0d729-a2c5-4f09-b157-bf51aed0f28b",
+      "startIndex": 155,
+      "text": "أبي الوقت",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "f728b0fa-332d-4f6b-b44e-b2ca0e19a0df",
+      "startIndex": 133,
+      "text": "ابن روزبة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "fdf14c2d-50b6-4298-93de-8d2418811bf9",
+      "startIndex": 124,
+      "text": "القطيعي",
+      "type": "person"
+    }
+  ],
+  "text": "ثم قرأته كرة ثانية على الشيخ المسند الرحلة بقية الشيوخ سعد الدين يحيى بن محمد بن سعد بن عبد الله المقدسي بإجازته من الشيخين القطيعي وابن روزبة بسماعهما من أبي الوقت بسنده وذلك في يوم الثلاثاء ثاني رجب الفرد من سنة ثلاثة عشرة وسبعمائة بالمسجد العتيق بسفح قاسيون وصح والحمد لله وحده وصلواته على سيدنا محمد وآله وسلم وحسبنا الله ونعم الوكيل، كتبه محمد بن حمزة بن عمر بن أبي بكر المجدلي الشافعي عفا الله عنه، وأجاز لي الشيخ المسمع جميع ما يجوز له روايته بشرطه المعتبر."
+}

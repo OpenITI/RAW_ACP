@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "ذكر صلاة المصطفى خلف أبي بكر الصديق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "159r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f163.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f163.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "year": [
+          "643"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "19be6b9f-06c0-4309-9e4b-03df59c937e7",
+      "index": 292,
+      "isZeroPoint": false,
+      "startIndex": 90,
+      "text": "سنة ثلاث وأربعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "4c68bfad-ce5a-4ce4-ae7b-43e114bed915",
+      "index": 293,
+      "isZeroPoint": false,
+      "startIndex": 120,
+      "text": "عبد الحي [...] محمد [...] عبد الغني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "de9aff68-90a6-4a0f-8bc4-1606f8d08bbf",
+      "index": 291,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم ضياء الدين أبي عبد الله محمد بن عبد الواحد في سنة ثلاث وأربعين وستماية كتبه عبد الحي [...] محمد [...] عبد الغني والحمد لله وحده وصلواته على محمد"
+}

@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن أبي شريح الأنصاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المائة الشريحية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/8"
+      ],
+      "folio_number": [
+        "128v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "1337a473-e20d-4f11-9e6a-29af37d90827",
+      "index": 516,
+      "isZeroPoint": false,
+      "startIndex": 121,
+      "text": "عبد الله ابن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "7caded4d-fddd-4b70-a966-fc78e46af014",
+      "index": 514,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "شرف الدين أبي محمد شريف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "684"
+        ]
+      },
+      "endIndex": 327,
+      "guid": "8f3c079f-9372-4e67-bb95-96db656be9f7",
+      "index": 520,
+      "isZeroPoint": false,
+      "startIndex": 280,
+      "text": "سابع عشر شهر ربيع الأول سنة أربع وثمانين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "91297428-a18c-49d8-87cb-ae040f5f4e72",
+      "index": 515,
+      "isZeroPoint": false,
+      "startIndex": 56,
+      "text": "أبي العباس أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "b13911d2-9507-4d06-8fa0-7c754668f663",
+      "index": 518,
+      "isZeroPoint": false,
+      "startIndex": 201,
+      "text": "أبو عبد الله محمد بن مسلم بن مالك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "ramahin_mosque"
+          ]
+        ]
+      },
+      "endIndex": 349,
+      "guid": "bda51e89-a352-4837-8511-ffe2a5d5d20e",
+      "index": 521,
+      "isZeroPoint": false,
+      "startIndex": 330,
+      "text": "مسجد الرماحين بدمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "df8028af-3e98-4e0e-951f-695f91fda383",
+      "index": 517,
+      "isZeroPoint": false,
+      "startIndex": 153,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "ed2e109a-164c-47c4-aafb-005a9e22d0f4",
+      "index": 519,
+      "isZeroPoint": false,
+      "startIndex": 236,
+      "text": "محمد بن إبراهيم بن غنائم ابن المهندس",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميعه على الشيخين الأخوين شرف الدين أبي محمد شريف وأبي العباس أحمد ابني يوسف بن مكتوم السلميان الزرعيان بسماعهما من عبد الله ابن اللتي بسنده بقراءة علي بن مسعود بن نفيس الموصلي ثم الحلبي وهذا خطه أبو عبد الله محمد بن مسلم بن مالك ومحمد بن إبراهيم بن غنائم ابن المهندس وصح في سابع عشر شهر ربيع الأول سنة أربع وثمانين وستماية بمسجد الرماحين بدمشق المحروسة وأجازا لمن سمع جميع ما يجوز لهما روايته بشرطه والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه"
+}

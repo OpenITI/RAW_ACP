@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "نصر بن أحمد بن محمد المرجي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من حديث أبي القاسم المرجي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        ""
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 147"
+      ],
+      "classmark": [
+        "3765/6"
+      ],
+      "folio_number": [
+        "35r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "8d60204b-c930-4844-af66-dd3ea8ac6038",
+      "startIndex": 79,
+      "text": "أبي منصور بن مكارم المؤدب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "year": [
+          "561"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "c2066283-8f12-44b0-a996-a604d6f1e309",
+      "startIndex": 108,
+      "text": "سنة أحد وستين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "fc0b76a2-94ff-4a0d-9da5-4256d463fd61",
+      "startIndex": 136,
+      "text": "الحسن [بن عمار] ",
+      "type": "person"
+    }
+  ],
+  "text": "وجدت على الأصل ما هذا مثاله سمعت هذا الجزء وهو [من حديث أبي القاسم المرجي على] أبي منصور بن مكارم المؤدب في سنة أحد وستين وخمسماية وكتب الحسن [بن عمار] "
+}

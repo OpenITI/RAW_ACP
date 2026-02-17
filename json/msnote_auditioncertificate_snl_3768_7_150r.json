@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يعقوب بن يوسف الأصم "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأول و الثاني من حديث أبي العباس محمد بن يعقوب الأصم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 162"
+      ],
+      "classmark": [
+        "3768/7"
+      ],
+      "folio_number": [
+        "150r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 339,
+      "guid": "21ce3348-d452-4236-b689-7e0e9ad8194a",
+      "startIndex": 335,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 349,
+      "guid": "3a915458-236c-452b-ab08-faa19f686af4",
+      "startIndex": 341,
+      "text": "أبو الحرم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 627,
+      "guid": "4d903001-0ca1-407a-ad56-f1cc52d94392",
+      "startIndex": 614,
+      "text": "دمـشق بالجـامع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "52b2fa0b-39d8-45cb-9018-afd6059d9fc1",
+      "startIndex": 104,
+      "text": "موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "66920609-7205-43c9-8fb0-7cc2f33a0100",
+      "startIndex": 175,
+      "text": " أبي زرعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 491,
+      "guid": "96a7db54-ad1e-40c1-aa09-ce9e3e14b11d",
+      "startIndex": 454,
+      "text": "أبو محمد بيان بن عثمان بن محمد الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 593,
+      "guid": "a09b51fa-b1c8-4283-8f78-ce7275d9224d",
+      "startIndex": 552,
+      "text": "عبدالرحمن بن عمر بن بركات بن شحانة الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "a9ddf7fa-4045-4d9f-865f-e95478f5c89a",
+      "startIndex": 328,
+      "text": " محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "614"
+        ]
+      },
+      "endIndex": 545,
+      "guid": "b098e93b-cf45-4776-aa31-2d9a62b99d53",
+      "startIndex": 513,
+      "text": "منتصف شعبان سنة أربع عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 451,
+      "guid": "c621c723-af3d-49a8-9721-3adb132c248e",
+      "startIndex": 422,
+      "text": "إسماعيل بن ناصر بن علي بن شاور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 269,
+      "guid": "dfd05506-3971-41a7-af58-80e541c0bbe3",
+      "startIndex": 247,
+      "text": "محمد بن إسماعيل بن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "ea8d8b7b-046a-4e65-a341-5bf143d5c738",
+      "startIndex": 197,
+      "text": "علي بن حسن بن علي الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "f0cf1aa3-c586-4d41-b84b-a98fa9b72d1b",
+      "startIndex": 224,
+      "text": "مظفر بن صديق بـن ناصر",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء والذي قبله من حديث أبي العباس الأصم على الشيخ الإمام العـالم محيي السنة شيخ الإسلام موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي بسماعه من أبي زرعة فسمعه الشيخ علي بن حسن بن علي الدمشقي ومظفر بن صديق بـن ناصر ومحمد بن إسماعيل بن يوسف وسمع من أول الجزء الثاني إلى التبليغ بخطي في الجزء الثالث محمد وأحمد وأبو الحرم بنو سبع بن صالح المصري وسمع من التبليغ في الجـزء الثالث إلى آخره الشيخ إسماعيل بن ناصر بن علي بن شاور وأبو محمد بيان بن عثمان بن محمد الدمشقي وذلك بمجلسين آخرهما منتصف شعبان سنة أربع عشرة وستمائة كتبه عبدالرحمن بن عمر بن بركات بن شحانة الحراني والحمد الله وحـده بدمـشق بالجـامع عمره الله"
+}

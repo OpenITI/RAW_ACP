@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "هلال بن العلاء بن هلال الباهلي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث زيد بن أبي أنيسة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 94"
+      ],
+      "classmark": [
+        "3757/2"
+      ],
+      "folio_number": [
+        "36v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami",
+          "copyist",
+          "writer"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "02c75946-8747-4c2d-8361-2fee4d135c5c",
+      "index": 254,
+      "isZeroPoint": false,
+      "startIndex": 187,
+      "text": "يوسف بن الحسن بن بدر بن الحسن بن النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "190a8b69-06f3-4627-995f-b23c9324ca41",
+      "index": 249,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": " أبي محمد الحسن بن علي بن الحسين بن الحسن الأسدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "12"
+        ],
+        "year": [
+          "623"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "241487e2-fd97-4963-aed5-60868e1d1989",
+      "index": 252,
+      "isZeroPoint": false,
+      "startIndex": 138,
+      "text": "ذي الحجة سنة ثلث وعشرين وست مية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "36cfa598-5f6a-43e8-84c2-37649bc594df",
+      "index": 251,
+      "isZeroPoint": false,
+      "startIndex": 100,
+      "text": "أبي عبد الله محمد بن عمران المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 174,
+      "guid": "8608d3dc-69f1-47dc-930f-6917280e35d9",
+      "index": 253,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "d7e635a1-8c86-4afd-a400-10506ea80052",
+      "index": 250,
+      "isZeroPoint": false,
+      "startIndex": 82,
+      "text": "أبي القاسم ",
+      "type": "person"
+    }
+  ],
+  "text": " سمعت هذا الجزء على أبي محمد الحسن بن علي بن الحسين بن الحسن الأسدي بسماعه من جده أبي القاسم بقراءة أبي عبد الله محمد بن عمران المالكي في ذي الحجة سنة ثلث وعشرين وست مية بدمشق نقله ملخصا يوسف بن الحسن بن بدر بن الحسن بن النابلسي"
+}

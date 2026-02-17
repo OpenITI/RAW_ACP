@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الله الأنصاري وأبي محمد بن ماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتقا من الأحاديث "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "136r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f139.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f139.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "0e01d694-cfea-4b55-9cf5-18db472438ba",
+      "index": 84,
+      "isZeroPoint": false,
+      "startIndex": 49,
+      "text": "فخر الدين أبي الحسن علي بن الشيخ الإمام شمس الدين أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "31171193-4e1b-41ad-91ba-dff05205e02a",
+      "index": 86,
+      "isZeroPoint": false,
+      "startIndex": 178,
+      "text": "محمد بن داود بن ياقوت الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 359,
+      "guid": "7020aef0-761a-4d7b-b79a-c2a1d28d35c6",
+      "index": 90,
+      "isZeroPoint": false,
+      "startIndex": 325,
+      "text": "محمد بن عبد العزيز بن مكارم الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "631"
+        ]
+      },
+      "endIndex": 318,
+      "guid": "a2e4b795-f625-4a23-a3d3-a3318224e8d3",
+      "index": 89,
+      "isZeroPoint": false,
+      "startIndex": 275,
+      "text": "سادس شهر ربيع الأول سنة إحدى وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "becc8fc5-def0-4681-bf62-5547f00e0ab0",
+      "index": 85,
+      "isZeroPoint": false,
+      "startIndex": 154,
+      "text": "تاج الدين الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "e5fd4226-fb5e-4c88-93b6-26a5fdbef35e",
+      "index": 87,
+      "isZeroPoint": false,
+      "startIndex": 209,
+      "text": "محمد بن إسماعيل بن محمد بن الحيان الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "gaza"
+          ]
+        ]
+      },
+      "endIndex": 270,
+      "guid": "fe2d91c6-03d2-432f-9a4a-b047f27752fe",
+      "index": 88,
+      "isZeroPoint": false,
+      "startIndex": 257,
+      "text": "ظاهر مدينة غزة",
+      "type": "place"
+    }
+  ],
+  "text": "قرأت سمع جميع هذا الجزؤ على الفقيه الإمام العالم فخر الدين أبي الحسن علي بن الشيخ الإمام شمس الدين أحمد بن عبد الواحد المقدسي أبقاه الله بحق سماعه فيه من تاج الدين الكندي بقراءة محمد بن داود بن ياقوت الدمشقي ومحمد بن إسماعيل بن محمد بن الحيان الحراني وذلك بظاهر مدينة غزة في سادس شهر ربيع الأول سنة إحدى وثلاثين وستمائة كتبه محمد بن عبد العزيز بن مكارم الحراني"
+}

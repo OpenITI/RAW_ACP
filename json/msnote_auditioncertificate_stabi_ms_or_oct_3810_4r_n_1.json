@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عبد الله ابن الخطاب الرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سداسيات في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. or. oct 3810"
+      ],
+      "folio_number": [
+        "4r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00020229"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "3ed171aa-4b58-43e2-8070-892df894b378",
+      "startIndex": 55,
+      "text": "أبي عيسى عبد الله ابن عبد الواحد بن محمد بن علاق الأنصاري الحنبلي الرازي المعروف بابن الحجاج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-azhar_mosque"
+          ]
+        ]
+      },
+      "endIndex": 632,
+      "guid": "3edbbb34-d287-4813-b999-8b6fd06333a7",
+      "startIndex": 625,
+      "text": "جامع مصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 388,
+      "guid": "60429b74-8cd9-448e-8d73-fa68e86a3082",
+      "startIndex": 312,
+      "text": "شهاب الدين يوسف بن الشيخ فخر الدين عبد الله بن محمد بن إبراهيم الحبري الفارسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "669"
+        ]
+      },
+      "endIndex": 622,
+      "guid": "6cb88540-567b-44ab-b2a3-c988fd2c8592",
+      "startIndex": 566,
+      "text": "يوم الجمعة حادي عشري شهر ربيع الأول سنة تسع وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "6e7ce1f9-b83a-4139-b8a4-b31cb189c51a",
+      "startIndex": 214,
+      "text": "الرازي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 475,
+      "guid": "b407d415-aeee-4455-940e-3814e6277646",
+      "startIndex": 465,
+      "text": "علي بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 530,
+      "guid": "c452acc4-9399-48f3-b790-c99e2a9b5b42",
+      "startIndex": 479,
+      "text": "عيسى بن موسى بن محفوظ بن هادي ابن أبي الفتوح الغماري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 452,
+      "guid": "c7e6a557-75ab-4b14-bccd-83da458e175e",
+      "startIndex": 398,
+      "text": "شمس الدين أبو عبد الله محمد بن الحسن بن الإمام الجزائري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 297,
+      "guid": "dae903b2-bbb6-4872-be35-40fe997c9842",
+      "startIndex": 242,
+      "text": "تقي الدين أبي بكر عتيق بن عبد الرحمن بن أبي الفتح العمري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 721,
+      "guid": "f59e516e-7536-47d7-9c14-f34f6731f4a2",
+      "startIndex": 702,
+      "text": "محمد بن عزام الشاذلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 551,
+      "guid": "fa6b6e04-cbe1-4f4f-877a-01a9b4bd2603",
+      "startIndex": 539,
+      "text": "نور الدين علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "ff07cbea-8f12-4a9a-96b4-2464376da89b",
+      "startIndex": 161,
+      "text": "أبي الطاهر إسماعيل بن صالح بن ياسين بن عمر المقرئ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع السداسيات ومقدمتها وما يليها على الشيخ المسند أبي عيسى عبد الله ابن عبد الواحد بن محمد بن علاق الأنصاري الحنبلي الرازي المعروف بابن الحجاج بحق سماعه من أبي الطاهر إسماعيل بن صالح بن ياسين بن عمر المقرئ عن الرازي سماعاً، بقراءة الشيخ تقي الدين أبي بكر عتيق بن عبد الرحمن بن أبي الفتح العمري جماعة: الشيخ شهاب الدين يوسف بن الشيخ فخر الدين عبد الله بن محمد بن إبراهيم الحبري الفارسي، والعدل شمس الدين أبو عبد الله محمد بن الحسن بن الإمام الجزائري، وابن أخته علي بن محمد، وعيسى بن موسى بن محفوظ بن هادي ابن أبي الفتوح الغماري، وولده نور الدين علي وصح في صبيحة يوم الجمعة حادي عشري شهر ربيع الأول سنة تسع وستين وستمائة بجامع مصر عمَّرها الله تعالى بذكره وأجاز المسمع للمذكورين جميع ما يرويه. نقله محمد بن عزام الشاذلي من خط عتيق العمري."
+}

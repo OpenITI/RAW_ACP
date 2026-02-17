@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "273v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "29- 30"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "600"
+        ]
+      },
+      "endIndex": 861,
+      "guid": "0be782fb-b198-4955-940f-f4f091f072c4",
+      "startIndex": 840,
+      "text": "ربيع الآخر سنة ست مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 690,
+      "guid": "151fea3e-7686-4bf2-968d-4d7696bee568",
+      "startIndex": 672,
+      "text": "أبو محمد عبد القادر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 555,
+      "guid": "1d963e91-8de5-4593-9a0d-ddb68109b80e",
+      "startIndex": 537,
+      "text": "علي بن محمد بن حماد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 710,
+      "guid": "2b2745f7-739f-4507-aa3c-f1e8b541b3c6",
+      "startIndex": 693,
+      "text": "أبو نصر عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 766,
+      "guid": "5e21586d-9855-4a9a-9f0d-f69aec2222a2",
+      "startIndex": 762,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "5e38d79f-d090-44d5-845c-44a9f8ea6f1c",
+      "startIndex": 27,
+      "text": " أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 526,
+      "guid": "6acbaf63-3c00-49e2-b5b8-8c0bdcb34f67",
+      "startIndex": 517,
+      "text": "عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 590,
+      "guid": "813cce04-aa1f-4b4f-bc5f-7247aab9849c",
+      "startIndex": 575,
+      "text": "أبو الفضائل أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 572,
+      "guid": "afe15083-6b2a-49f4-bf64-b2019ef15be2",
+      "startIndex": 558,
+      "text": "أبو المظفر أسعد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 886,
+      "guid": "c29bd261-9e0d-4b45-a1f2-3b08feb4bd91",
+      "startIndex": 864,
+      "text": "الكلاسة شمالي جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 392,
+      "guid": "c77d6c70-c0a2-429a-97e5-e50ba4d0f25c",
+      "startIndex": 370,
+      "text": " بدر بن عبد الله الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 456,
+      "guid": "d97027d4-04f0-4f74-a90e-f10941eecf5b",
+      "startIndex": 395,
+      "text": "أبو الحسين محمد بن إسماعيل بن عبد الجبار بن أبي الحجاج المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 669,
+      "guid": "eb28784d-f335-442b-a909-d1279c3a1b05",
+      "startIndex": 629,
+      "text": "نصر الله بن علي بن الحسين بن عبدان الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 509,
+      "guid": "ee43ea1d-42d7-49e5-97a0-0f77df94d257",
+      "startIndex": 459,
+      "text": "أبو محمد عبد الله بن المسلم بن حماد بن ميسرة الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 341,
+      "guid": "f7811379-106e-46be-8ab5-e7aee2f5c440",
+      "startIndex": 198,
+      "text": "أبي العباس أحمد بن الملك الناصر صلاح الدنيا والدين سلطان الإسلام والمسلمين جامع كلمة الإيمان قامع عبدة الصلبان أبي المظفر يوسف بن أيوب بن شاذ[ي]",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه على القاضي الإمام أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري بسماعه فيه نقلا بقرأة صاحبه المولى الأجل الإمام العالم العامل الملك المحسن ملك العلماء يمين الدين عز الإسلام والمسلمين أبي العباس أحمد بن الملك الناصر صلاح الدنيا والدين سلطان الإسلام والمسلمين جامع كلمة الإيمان قامع عبدة الصلبان أبي المظفر يوسف بن أيوب بن شاذ[ي] أبقاه الله ورحم والديه فتاه بدر بن عبد الله الحبشي وأبو الحسين محمد بن إسماعيل بن عبد الجبار بن أبي الحجاج المقدسي وأبو محمد عبد الله بن المسلم بن حماد بن ميسرة الأزدي وأخوه عبد الرحيم وابن عمه علي بن محمد بن حماد وأبو المظفر أسعد وأبو الفضائل أحمد ابنا نصر الله بن عبد الكريم بن محمد ونصر الله بن علي بن الحسين بن عبدان الأزدي وأبو محمد عبد القادر وأبو نصر عبد الرحيم ابنا حسان بن رافع بن سمير بن ثابت العامري وأخوهما محمد وهذا خطه غفر الله له ولوالديه وللمسلمين أجمعين آمين وصح ذلك في أواخر شهر ربيع الآخر سنة ست مائة بالكلاسة شمالي جامع دمشق عمرهم الله تعالى والحمد لله رب العالمين وصلى الله على سيدنا محمد النبي الأمي وعلى آله وصحبه وسلم "
+}

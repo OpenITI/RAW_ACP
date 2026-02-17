@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/268705676"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 708"
+      ],
+      "folio_number": [
+        "45r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f47.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000356s/f47.item.r=%22arabe%20708%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "677"
+        ]
+      },
+      "endIndex": 866,
+      "guid": "3169378e-41eb-423a-be49-a5e1b29f36fb",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 807,
+      "text": "يوم الأربعاء سادس عشر جمادى الأولى من سنة سبع وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "3da77ece-afc9-4ba6-9db1-d424830e1e2a",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 116,
+      "text": "قطب الدين أبي بكر محمد بن الشيخ القدوة أبي العباس أحمد بن علي القسطلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 984,
+      "guid": "452090b2-15ba-4bf4-92e2-15b6dd18c049",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 952,
+      "text": " كتبه الحسن بن علي بن عيسى اللخمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 507,
+      "guid": "4a721c16-39d8-4c40-b348-fbc8ae35e0ab",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 445,
+      "text": "نور الدين أبو الحسن علي بن أمين الدين محمد بن محمد بن القسطلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 338,
+      "guid": "576081ee-fee0-4822-9794-a5630522e43f",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 330,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 586,
+      "guid": "741256d8-ebba-4452-933b-c74d776b96ae",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 517,
+      "text": "شمس الدين أبو عبد الله محمد بن أبي القاسم بن عبد السلام بن جميل الربعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 626,
+      "guid": "7c164b50-ed3a-428f-b3b3-ad9ab332afff",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 589,
+      "text": "شمس الدين أحمد بن خالد بن محمد الفارقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 433,
+      "guid": "97607960-c375-430d-b2dd-1c1587158d75",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 364,
+      "text": "بهاء الدين أبو البركات عبد الحق بن الإمام قطب الدين محمد ابن القسطلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 317,
+      "guid": "a092b562-793a-45bf-a32e-98b59f8f8170",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 233,
+      "text": "شهاب الدين [أبي] الفضل عبد الرحيم بن يوسف بن يحيى الدمشقي الشافعي عرف بابن خطيب المزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 701,
+      "guid": "a16a6913-ae8e-48df-882e-ed229d0e7920",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 660,
+      "text": "لشمس خليل بن [بدران] بن خليل الحلبي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 645,
+      "guid": "bd509241-76aa-4ba4-98b1-ec8caa98e118",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 642,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 639,
+      "guid": "cc2bfb0b-9cf6-4ea9-a779-868655b8af6e",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 629,
+      "text": "محمد الأصغر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "dar_al-hadith_al-kamiliya"
+          ]
+        ]
+      },
+      "endIndex": 887,
+      "guid": "d5abc726-7b3d-4f36-b5fb-cc99d2b12c6d",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 869,
+      "text": "دار الحديث الكاملية",
+      "type": "place"
+    }
+  ],
+  "text": "[قرأت جميع هذا الجزء الرابع] من السنن لأبي داود والخامس بعده على الشيخين الأجلين الإمام العالم العامل الفاضل الحافظ قطب الدين أبي بكر محمد بن الشيخ القدوة أبي العباس أحمد بن علي القسطلاني بسنده المذكور في الجزء الأول في طبقة السماع وشهاب الدين [أبي] الفضل عبد الرحيم بن يوسف بن يحيى الدمشقي الشافعي عرف بابن خطيب المزة بسماعه من [ابن طبرزد] فسمعهما السادة الأجلاء بهاء الدين أبو البركات عبد الحق بن الإمام قطب الدين محمد ابن القسطلاني وابن أخيه نور الدين أبو الحسن علي بن أمين الدين محمد بن محمد بن القسطلاني والفقيه شمس الدين أبو عبد الله محمد بن أبي القاسم بن عبد السلام بن جميل الربعي وشمس الدين أحمد بن خالد بن محمد الفارقي ومحمد الأصغر ومحمد ولد المسمع والشمس خليل بن [بدران] بن خليل الحلبي الصوفي وهو مثبت الأسماء في الأصل [وجماعة] كثيرة جدا أسماؤهم مثبتة على الأصل وصح ذلك [وثبت] في مجلسين آخرهما في يوم الأربعاء سادس عشر جمادى الأولى من سنة سبع وسبعين وستمائة بدار الحديث الكاملية وأجاز المسمعان للمذكورين جميع ما يجوز لهما [روايته] وتلفظا بذلك كتبه الحسن بن علي بن عيسى اللخمي حامدا مصليا."
+}

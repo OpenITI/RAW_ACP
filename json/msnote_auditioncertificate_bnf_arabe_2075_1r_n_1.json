@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "شمس الدين الذهبي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90043051"
+      ],
+      "work_title": [
+        "المشتبه في اسماء الرجـال وانسابهم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 2075"
+      ],
+      "folio_number": [
+        "1r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110022563/f3.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110022563/f3.image.r=%22Arabe%202075%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "743"
+        ]
+      },
+      "endIndex": 529,
+      "guid": "126278c1-7c86-4d4b-b18e-93e5a55e35e2",
+      "index": 0,
+      "isZeroPoint": false,
+      "startIndex": 467,
+      "text": "يوم الثلاثاء ثالث عشري شهر ربيع الأول سنة ثلاث وأربعين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 552,
+      "guid": "8e2df65f-2292-44b0-a23a-57e611c5a530",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 532,
+      "text": "المدرسة النورية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 380,
+      "guid": "b0349f2b-b287-4942-8c4a-70683752da29",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 333,
+      "text": "تقي الدين محمد بن محمد بن عبد الحق المصري القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "bcc8618a-95bd-485e-8cef-ac63517a0814",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 29,
+      "text": "جمال الدين حمزة بن عمر بن أحمد الكردي المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "d1ea2a49-e8ba-42a9-ab3d-fd22a8c754a6",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 181,
+      "text": "عبد العزيز بن محمد ابن عبد العزيز ابن المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "e18ea408-5434-49d7-899a-a4b82ca44fff",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": "شمس الدين أبي زرعة محمد بن يونس بن فتيان المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على مؤلفه بقراءة الإمام جمال الدين حمزة بن عمر بن أحمد الكردي المقرئ من أوله إلى قوله الفران في حرف الفاء وباقيه بقراءة الإمام شمس الدين أبي زرعة محمد بن يونس بن فتيان المقدسي عبد العزيز بن محمد ابن عبد العزيز ابن المؤذن وكتب السماع في الأصل الذي بخط المؤلف ومن خطه نقلت\nوسمع من أوله إلى عند قوله عبد في حرف العين الإمام العالم تقي الدين محمد بن محمد بن عبد الحق المصري القرشي وسمع الشيخ حمزة المذكور ما قرأه ابن فتيان المذكور وصح وثبت في ثلاثة عشر مجلسًا آخرها يوم الثلاثاء ثالث عشري شهر ربيع الأول سنة ثلاث وأربعين وسبعماية بالمدرسة النورية بدمشق وأجاز لهم ما يجوز له وعنه روايته."
+}

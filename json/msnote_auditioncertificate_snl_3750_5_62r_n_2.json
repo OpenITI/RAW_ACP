@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن الحسين الجرجاني الغطريفي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي أحمد الغطريفي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 62 "
+      ],
+      "classmark": [
+        "3750/5"
+      ],
+      "folio_number": [
+        "62r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 268,
+      "guid": "55bd2e28-1fba-4cbb-966c-a0e9d137fdfa",
+      "startIndex": 265,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "586e8b7b-0769-42f7-b074-010c64a769dd",
+      "startIndex": 106,
+      "text": "أبي الطيب الطبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "509"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "70cdfffc-2ce8-47dd-9c98-9d90a2e0e708",
+      "startIndex": 235,
+      "text": "ذي الحجة من سنة تسع وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "78cf680f-96c4-451c-9a3d-c2968bfd551c",
+      "startIndex": 31,
+      "text": "أبي الحسن علي بن الحسن بن الحسين السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "90cb71ff-1374-4806-8ae2-9c256437e11c",
+      "startIndex": 205,
+      "text": "محمد بن حمزة بن علي السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner",
+          "reader"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "cb32d992-2830-406c-af5f-d5b178f0cc02",
+      "startIndex": 135,
+      "text": "أبو الحسين هبة الله بن الحسن بن هبة الله الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": " وسمع جميع هذا الجزء على الشيخ أبي الحسن علي بن الحسن بن الحسين السلمي رضي الله عنه بالإجازة له من القاضي أبي الطيب الطبري صاحبه الشيخ أبو الحسين هبة الله بن الحسن بن هبة الله الشافعي بقراءته وكاتب السماع محمد بن حمزة بن علي السلمي في ذي الحجة من سنة تسع وخمسماية بدمشق"
+}

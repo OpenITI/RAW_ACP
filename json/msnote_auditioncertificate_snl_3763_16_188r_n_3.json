@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن سليمان البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي سعد البغدادي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 133"
+      ],
+      "classmark": [
+        "3763/16"
+      ],
+      "folio_number": [
+        "188r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 200,
+      "guid": "09786ead-a1dc-44dd-a459-51ea2d9ed7b1",
+      "startIndex": 189,
+      "text": "منزلنا بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "5cedfbd8-f623-4a85-bdc6-59a4ddf3d4a8",
+      "startIndex": 129,
+      "text": "أبو بكر أحمد بن علي بن محمد بن أبي الفتح بن النحاس الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "89c8e22f-4503-49d1-a10c-a50ad984875a",
+      "startIndex": 31,
+      "text": "شمس الدين محمد بن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "97af97e0-d5c6-45c8-b875-934ceccfe98f",
+      "startIndex": 69,
+      "text": "مة الحليم عائشة",
+      "type": "person"
+    }
+  ],
+  "text": "ثم قرأته على هذا الشيخ المذكور شمس الدين محمد بن الخباز فسمعته أختي أمة الحليم عائشة في ثاني هذا التاريخ وأجاز لها غير مرة وكتبه أبو بكر أحمد بن علي بن محمد بن أبي الفتح بن النحاس الدمشقي بمنزلنا بدمشق"
+}

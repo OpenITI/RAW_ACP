@@ -1,0 +1,665 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن علي بن محمد بن طيب الواسطي الجلابي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث عن شيوخ أبي عبد الله الجلابي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 141"
+      ],
+      "classmark": [
+        "3764/9"
+      ],
+      "folio_number": [
+        "147r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 996,
+      "guid": "0241a33e-6b03-4dbb-be22-b9185a4efb63",
+      "startIndex": 972,
+      "text": "محمد بن أحمد بن عبد الملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 378,
+      "guid": "10577f14-e480-4eb8-a072-8984b96f5d15",
+      "startIndex": 370,
+      "text": "عبد الله ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 844,
+      "guid": "17904f8a-21a8-4804-8b8b-a2d2e1805121",
+      "startIndex": 841,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 838,
+      "guid": "17f9189d-17b9-44a7-86c4-a595ce2aac74",
+      "startIndex": 780,
+      "text": " تقي الدين أبو العباس أحمد بن العز محمد بن الحافظ عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 538,
+      "guid": "18f84da6-1474-4958-a535-c2d2ae00e580",
+      "startIndex": 531,
+      "text": " أبو بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 307,
+      "guid": "27c0cf3e-6301-4c8b-9918-8a6e20c18d95",
+      "startIndex": 277,
+      "text": "عبد الرحمن بن أحمد بن عبد الملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 855,
+      "guid": "28824877-452e-457e-9eb9-1a52d7a20252",
+      "startIndex": 853,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "34694fdc-9f84-44e5-bf78-5d49001bc658",
+      "startIndex": 164,
+      "text": "المرندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 921,
+      "guid": "372e6b62-217c-48a0-a1ad-f204f0cd475c",
+      "startIndex": 892,
+      "text": "يحيى بن عبد الملك بن عبد الملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "4365668f-0461-45d1-a178-91ddb1aa93fa",
+      "startIndex": 106,
+      "text": "أبي حفص عمر بن يحيى بن شافع بن جمعة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1023,
+      "guid": "4877ed32-92b7-4ed0-8515-d5600660ae90",
+      "startIndex": 999,
+      "text": "أبو بكر بن عمر بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 215,
+      "guid": "48a5323f-dd0d-4554-867a-43defcb1144e",
+      "startIndex": 185,
+      "text": "أبو سليمان عبد الرحمن بن الحافظ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "48e1bdfb-fd3f-4365-85c8-d034bef4667a",
+      "startIndex": 231,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 604,
+      "guid": "4dfd6ed5-eb29-44f9-b616-2a0e31761349",
+      "startIndex": 598,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 749,
+      "guid": "51ec4d1c-e2d3-4ac4-ad65-f863d6b59b37",
+      "startIndex": 743,
+      "text": "الحسين ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 526,
+      "guid": "54b6897b-6a61-4141-a956-422332580540",
+      "startIndex": 522,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 864,
+      "guid": "56a8e7a6-0bd6-4cf3-8631-7fcb118d6f35",
+      "startIndex": 858,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 683,
+      "guid": "588e27ad-bf11-45cb-a4fa-c70a09d4e304",
+      "startIndex": 656,
+      "text": "علي بن محاسن بن أبي عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 771,
+      "guid": "710eedca-22e2-406b-adfd-d0201b89ce5a",
+      "startIndex": 751,
+      "text": "منصور بن يوسف بن وهيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 479,
+      "guid": "72227d86-4048-4021-acf3-e43e00ec683c",
+      "startIndex": 433,
+      "text": "أبو عبد الله محمد بن الحسين ابن أبي شجاع البصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 723,
+      "guid": "7a4a29b8-c0bc-4904-922f-947cf73909cd",
+      "startIndex": 702,
+      "text": " ريحان بن أبي عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1080,
+      "guid": "81a22b27-e78a-42b2-8216-d70faeaec70e",
+      "startIndex": 1077,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1157,
+      "guid": "84eccec2-72f8-45c9-b386-a20fff8062f7",
+      "startIndex": 1132,
+      "text": "محمد بن عبد الواحد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "86fae9cb-81f3-4c60-906e-0fd0b2d22899",
+      "startIndex": 364,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 653,
+      "guid": "8f246976-5a26-4050-8cfe-7dcef01dc534",
+      "startIndex": 630,
+      "text": "محمد بن مسعود بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "9a01ea36-1c74-4ad4-af5d-081fd2dcce5e",
+      "startIndex": 223,
+      "text": "سليمان ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 595,
+      "guid": "9eb07a97-01ea-4b76-b805-6aa8f2aa9a43",
+      "startIndex": 572,
+      "text": "عبد الرحمن بن أحمد العلم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 965,
+      "guid": "a0d62a34-5ddf-4db8-bb44-356d01e173cb",
+      "startIndex": 924,
+      "text": "أبو بكر بن علي بن [أبي] القاسم بن السكاكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "bbaa7e93-12ed-4ad5-ac9b-7fb36a124a75",
+      "startIndex": 237,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 513,
+      "guid": "bcf5b274-e10f-4c69-a0e6-1654e45f038f",
+      "startIndex": 482,
+      "text": "التقي محمد بن طرخان بن أبي الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 610,
+      "guid": "c38cc9a0-2a45-4928-9374-94e5666fd924",
+      "startIndex": 607,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "614"
+        ]
+      },
+      "endIndex": 1226,
+      "guid": "c9910523-44e2-4531-9300-145233487358",
+      "startIndex": 1175,
+      "text": " السبت رابع عشر جمادى الأولى سنة أربع عشرة وست مائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "d4df2043-7b53-44c7-b6cb-f2ae9f6778f1",
+      "startIndex": 51,
+      "text": "موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 361,
+      "guid": "dfbb4341-3431-4b4e-b78c-6254654c1ded",
+      "startIndex": 321,
+      "text": "أبو محمد عبد العزيز بن عبد الملك بن عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 723,
+      "guid": "e913dfd1-fa90-441e-bcb4-325d61ab9bc2",
+      "startIndex": 686,
+      "text": "إبراهيم بن الحاج ريحان بن أبي عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 851,
+      "guid": "e91c2c6d-68b2-49c6-a724-5d09c5f44c7c",
+      "startIndex": 847,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 430,
+      "guid": "e9ed7910-4701-4105-8316-7e8c4512ee1e",
+      "startIndex": 405,
+      "text": "محمد بن أحمد بن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1075,
+      "guid": "f17e15fc-814f-4dfe-9d10-32e7a5495c7f",
+      "startIndex": 1071,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1048,
+      "guid": "f588da63-ad9b-4980-9eb3-926eb8bc9bcc",
+      "startIndex": 1026,
+      "text": "إبراهيم بن نور الحوراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 569,
+      "guid": "f80650da-1d3f-4c5d-a32d-52cd667fb261",
+      "startIndex": 541,
+      "text": "عبد الحميد بن إبراهيم بن يوسف",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم الأوحد موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة وأبي حفص عمر بن يحيى بن شافع بن جمعة المقدسيان بسماعهما من المرندي فسمعه الإمام أبو سليمان عبد الرحمن بن الحافظ وابنه سليمان وأحمد ومحمد ابنا أخي عبد الرحيم بن عبد الواحد وعبد الرحمن بن أحمد بن عبد الملك وعمه الإمام أبو محمد عبد العزيز بن عبد الملك بن عثمان ومحمد وعبد الله ابنا عبد الرحمن بن الرضي ومحمد بن أحمد بن عبد الدائم وأبو عبد الله محمد بن الحسين ابن أبي شجاع البصري والتقي محمد بن طرخان بن أبي الحسن وابناه أحمد وحضر أبو بكر وعبد الحميد بن إبراهيم بن يوسف وعبد الرحمن بن أحمد العلم وإبراهيم وأحمد ابنا علي الواسطي ومحمد بن مسعود بن أبي بكر وعلي بن محاسن بن أبي عبد الله وإبراهيم بن الحاج ريحان بن أبي عبد الله وأبوه ريحان وأخوه الحسين ومنصور بن يوسف بن وهيب والإمام تقي الدين أبو العباس أحمد بن العز محمد بن الحافظ عبد الغني وأحمد ومحمد وعلي وإبراهيم حضر بنو أبي المجد اللحام ويحيى بن عبد الملك بن عبد الملك وأبو بكر بن علي بن [أبي] القاسم بن السكاكري وسمع محمد بن أحمد بن عبد الملك وأبو بكر بن عمر بن أبي بكر وإبراهيم بن نور الحوراني من موضع أسمائهم وسمع أحمد ومحمد ابنا المجد عيسى حفيدا الشيخ من موضع علامتهما وكتب محمد بن عبد الواحد بن أحمد في [نوبتين؟] يوم السبت رابع عشر جمادى الأولى سنة أربع عشرة وست مائة والحمد لله وحده وصلى الله على محمد وآله وسلم  "
+}

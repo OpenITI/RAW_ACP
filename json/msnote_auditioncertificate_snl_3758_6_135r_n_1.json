@@ -1,0 +1,806 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن طلحة بن محمد البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي الحسن النعالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 102"
+      ],
+      "classmark": [
+        "3758/6"
+      ],
+      "folio_number": [
+        "135r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 627,
+      "guid": "02d5c627-4875-43c0-b675-bd4738c1b640",
+      "startIndex": 582,
+      "text": "جمال الدين عبد الله بن يعقوب بن سلام الاسكندري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1586,
+      "guid": "03279945-c499-4cf4-ad0d-781824592b80",
+      "startIndex": 1583,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 373,
+      "guid": "038f2d69-9985-4211-aeb2-1d401b5db4c1",
+      "startIndex": 341,
+      "text": "عبد الله بن أحمد بن المحب المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 801,
+      "guid": "048e02a6-57d5-4289-958c-806d6a59df89",
+      "startIndex": 771,
+      "text": "فاطمة بنت محمد بن عمران الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 383,
+      "guid": "08865297-5ee0-45ad-85da-e7ae07359c6e",
+      "startIndex": 380,
+      "text": "عمر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "733"
+        ]
+      },
+      "endIndex": 1711,
+      "guid": "0aab01b3-3285-49a8-b327-3886b8b50774",
+      "startIndex": 1648,
+      "text": "يوم الخميس السادس والعشرين من ربيع الآخر سنة ثلث وثلثين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1593,
+      "guid": "0da6aadb-4e5e-4fed-a587-cd3d2b64a787",
+      "startIndex": 1589,
+      "text": "أيملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1580,
+      "guid": "0e3ce6ac-b482-4665-b5eb-ea3da9e5b9c3",
+      "startIndex": 1577,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 640,
+      "guid": "0ee6064d-f20d-4baa-83ca-74b3c89eea40",
+      "startIndex": 636,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "0f2e5c5a-6dd4-416c-bbab-df1c1c2eb66d",
+      "startIndex": 98,
+      "text": "أم عبد الله زينب بنت الكمال أحمد بن عبد الرحيم بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 496,
+      "guid": "176a9b9a-0fa5-474e-a81e-2c118ff71fbb",
+      "startIndex": 468,
+      "text": "عبد الرحيم بن جمال الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1449,
+      "guid": "20b67e22-d734-4ee8-9033-dc9577913501",
+      "startIndex": 1405,
+      "text": " أحمد بن محمد بن أحمد بن المحب ابن أخي القارئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 840,
+      "guid": "21101b46-5cb7-4749-b1bf-9944a7304ce1",
+      "startIndex": 809,
+      "text": "زينب بنت علي بن إسرائيل الكناني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "28fcf7d3-751e-45b8-a645-4e821d3ecda5",
+      "startIndex": 187,
+      "text": "إبراهيم بن محمود بن الخير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1192,
+      "guid": "2f6a3758-5823-47ab-9b2f-1704ab64826e",
+      "startIndex": 1106,
+      "text": "خديجة بنت أحمد بن عبد الله بن شيخ الإسلام شمس الدين عبد الرحمن بن الشيخ أبي عمر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1567,
+      "guid": "3d8a90ce-340c-478c-8bed-1ffaefdb8d94",
+      "startIndex": 1488,
+      "text": "عماد الدين إبراهيم بن أبي بكر بن يعقوب بن الملك العادل سيف الدين أبي بكر بن أيوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 557,
+      "guid": "40aedf3e-5f73-484f-9b77-42fbaaebb6aa",
+      "startIndex": 512,
+      "text": "شمس الدين محمد بن إبراهيم بن غنائم بن المهندس ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 725,
+      "guid": "4ae1c6d2-7c80-464f-9b7c-2cbdeae7b26e",
+      "startIndex": 716,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dayr_al-salihiyin"
+          ]
+        ]
+      },
+      "endIndex": 1756,
+      "guid": "510adc58-18bc-451f-8e4c-0fec1992babd",
+      "startIndex": 1714,
+      "text": "منزل المسمعة بدير المقادسة بسفح جبل قاسيون ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1014,
+      "guid": "51178768-fe1a-490c-84eb-537813cdddb9",
+      "startIndex": 998,
+      "text": "أبو عبد الله محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1363,
+      "guid": "5b6f192d-d1d3-4547-ae42-94afdfe7d196",
+      "startIndex": 1331,
+      "text": "عجم بنت عبد الرحيم بن محمد القطان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 569,
+      "guid": "63f2981f-6183-4e09-b818-1372a46a2b44",
+      "startIndex": 565,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 990,
+      "guid": "68e22c1e-7b00-45c9-9e74-ec5e4fe17fc7",
+      "startIndex": 950,
+      "text": "سيف الدين قبجق بن بيدغان بن أزدمر العلائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "7400a5f1-ad82-4b1c-bf18-72794f58b52a",
+      "startIndex": 223,
+      "text": "خديجة بنت أحمد بن الحسن النهرواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1033,
+      "guid": "7c75e17c-013a-4b4d-a188-b249c9fea3f7",
+      "startIndex": 1023,
+      "text": "بلال الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 694,
+      "guid": "81f3b37a-7bce-449d-9256-331c0a1529a2",
+      "startIndex": 655,
+      "text": "تقي الدين أحمد بن العلم بن محمود الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 923,
+      "guid": "8224cf3c-9652-4a19-8995-9f1878e17d70",
+      "startIndex": 873,
+      "text": "محمد بن جمال الدين إبراهيم بن يونس بن موسى البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 763,
+      "guid": "82a13de8-430a-4b6b-86d3-f5cd0df2fd28",
+      "startIndex": 759,
+      "text": "أسماء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1328,
+      "guid": "861be3de-832b-4ac3-a63b-b1cb199682ee",
+      "startIndex": 1302,
+      "text": "دنيا بنت خاص ترك الإبراهيمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 573,
+      "guid": "8c131d0f-6579-42a2-8ce9-292eebd7a24c",
+      "startIndex": 571,
+      "text": "مجد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1617,
+      "guid": "905e1a58-2552-4a26-9ac1-30a6d3dc5357",
+      "startIndex": 1614,
+      "text": "حلة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 851,
+      "guid": "a5164bee-f7e9-418e-8f21-a6c8192fc4df",
+      "startIndex": 848,
+      "text": "سعيد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 460,
+      "guid": "aed505fe-caff-41a2-879d-b6267cc17373",
+      "startIndex": 413,
+      "text": "شمس الدين محمد بن محمد بن الحسن بن نباتة المصري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1104,
+      "guid": "b7a49296-44a6-48cc-92f8-c438d04058ef",
+      "startIndex": 1100,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1092,
+      "guid": "b828c086-9ade-490e-817f-9ff4bdac17b9",
+      "startIndex": 1036,
+      "text": "شمس الدين محمد بن نور الدين علي بن أبي بكر بن بحتر الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1635,
+      "guid": "c04f6057-bc9b-4443-9312-ef9531afbfaf",
+      "startIndex": 1626,
+      "text": "دام السرور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 297,
+      "guid": "c8298f9c-0281-4a22-89c3-debcde734e25",
+      "startIndex": 268,
+      "text": "الحسين بن أحمد بن محمد بن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1288,
+      "guid": "dea20fe3-1d4b-4293-962a-13e8d670ec25",
+      "startIndex": 1195,
+      "text": "فاطمة بنت نجم الدين أحمد بن قاضي القضاة عز الدين محمد بن سليمان بن حمزة بن أحمد بن عمر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 713,
+      "guid": "e848fb99-bfb5-4b0e-a1d7-30d91c42da01",
+      "startIndex": 704,
+      "text": "عبد الوهاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 647,
+      "guid": "f1561803-2690-47d7-8277-1ed3672bd3a1",
+      "startIndex": 642,
+      "text": "خديجة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 756,
+      "guid": "fca86838-f4dc-47d2-864b-5263907c852d",
+      "startIndex": 752,
+      "text": "خديجة",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وفيه من حديث أبي الحسن محمد بن طلحة النعالي عن شيوخه عن الشيخة المسندة الصالحة أم عبد الله زينب بنت الكمال أحمد بن عبد الرحيم بن عبد الواحد بن أحمد المقدسي بإجازتها من إبراهيم بن محمود بن الخير بسماعه من خديجة بنت أحمد بن الحسن النهرواني بسماعها من الحسين بن أحمد بن محمد بن طلحة بسماعه من جده عن شيوخه بقراءة كاتب السماع عبد الله بن أحمد بن المحب المقدسي ابنه عمر والجماعة السادة الشيخ الإمام شمس الدين محمد بن محمد بن الحسن بن نباتة المصري وحفيده عبد الرحيم بن جمال الدين محمد والشيخ الإمام شمس الدين محمد بن إبراهيم بن غنائم بن المهندس وابناه أحمد ومجد والشيخ جمال الدين عبد الله بن يعقوب بن سلام الاسكندري وولداه أحمد وخديجة والشيخ تقي الدين أحمد بن العلم بن محمود الحراني وأولاده عبد الوهاب وعبد الرحمن في الشهر الثاني من عمره وخديجة وأسماء وأمهم فاطمة بنت محمد بن عمران الحراني وأمها زينب بنت علي بن إسرائيل الكناني وفتاهم سعيد وابن خديجة المذكورة محمد بن جمال الدين إبراهيم بن يونس بن موسى البعلبكي حاضرا في الأولى من عمره وسيف الدين قبجق بن بيدغان بن أزدمر العلائي وابنه أبو عبد الله محمد وعتيقه بلال الحبشي وشمس الدين محمد بن نور الدين علي بن أبي بكر بن بحتر الحنفي وابنه محمد وخديجة بنت أحمد بن عبد الله بن شيخ الإسلام شمس الدين عبد الرحمن بن الشيخ أبي عمر المقدسي وفاطمة بنت نجم الدين أحمد بن قاضي القضاة عز الدين محمد بن سليمان بن حمزة بن أحمد بن عمر المقدسي في الثالثة ودنيا بنت خاص ترك الإبراهيمي وعجم بنت عبد الرحيم بن محمد القطان وسمع من أول الجزء ورقتين ومن آخره ورقيتن أحمد بن محمد بن أحمد بن المحب ابن أخي القارئ المذكور وسمع ورقتين من أول الجزء حسب عماد الدين إبراهيم بن أبي بكر بن يعقوب بن الملك العادل سيف الدين أبي بكر بن أيوب وأولاده محمد وأحمد وأيملك في الثالثة وربيبته حلة وجاريته دام السرور وصح ذلك في يوم الخميس السادس والعشرين من ربيع الآخر سنة ثلث وثلثين وسبعماية بمنزل المسمعة بدير المقادسة بسفح جبل قاسيون وأجازت لهم ما ترويه الحمدلله وصلى الله على سيدنا محمد وآله"
+}

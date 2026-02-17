@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن أبي شريح الأنصاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المائة الشريحية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/8"
+      ],
+      "folio_number": [
+        "128r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 710,
+      "guid": "01e759f5-0e2b-422a-8164-4b2e2698eb8d",
+      "startIndex": 677,
+      "text": "أحمد بن محمد بن عبد الرحيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "8392bed3-dfd5-456d-8c71-dea6c6317062"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 297,
+      "guid": "1a42aa65-dd6b-437e-aa29-cd2e88e7d41b",
+      "startIndex": 262,
+      "text": "محمد بن الشيخ أحمد بن شعفور البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "2379e741-e6b0-4aec-b561-c9ae5a3d0cc6",
+      "startIndex": 72,
+      "text": "عبد الولي ابن عبد الرحمن بن رافع اليونيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "2e154243-1402-4370-a54f-416b1d3a71d7",
+      "startIndex": 312,
+      "text": "محمد بن علي بن عمر الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 401,
+      "guid": "3e28c7b1-a32d-4f2e-8665-738b8a920129",
+      "startIndex": 339,
+      "text": "شهاب الدين أحمد بن شيخنا شمس الدين محمد بن حازم بن حامد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "617ae3de-5022-4680-9d99-f8ab5465d76a",
+      "startIndex": 135,
+      "text": "ابن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 443,
+      "guid": "b5c822ed-e0c8-48ff-a735-3793d8cb5f84",
+      "startIndex": 425,
+      "text": "وتقي الدين عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "qariyat_yunani",
+            "tomb_'isa"
+          ]
+        ]
+      },
+      "endIndex": 653,
+      "guid": "be491a9d-e8cc-43fc-8d10-2468df941fe1",
+      "startIndex": 608,
+      "text": "قرية يونين عند ضريح الشيخ الصالح عيسى اليونيني",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "684"
+        ]
+      },
+      "endIndex": 605,
+      "guid": "c6c55d4f-bcc5-490c-8637-a085e36d3396",
+      "startIndex": 543,
+      "text": "الأربعاء سابع عشر شهر الله الفرد رجب من سنة أربع وثمانين ستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 524,
+      "guid": "d3c7e9fe-13af-4460-9755-0b094b5a7241",
+      "startIndex": 502,
+      "text": "سليمان بن محسن اليونيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 423,
+      "guid": "d44421c0-9cf5-48e9-a1b8-3e30dbfff390",
+      "startIndex": 404,
+      "text": "زين الدين عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "fb3cb7d6-b25d-4b56-9d44-22ba0177034b",
+      "startIndex": 177,
+      "text": "محمد بن الشيخ أحمد بن الشيخ عبد الله بن الشيخ محمد بن الشيخ عبد الله اليونيني",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء وهو المائة الشريحية على الشيخ الفقيه الإمام العالم عبد الولي ابن عبد الرحمن بن رافع اليونيني بسماعه فيه منقولا من ابن اللتي بسنده فسمع الجماعة السادة الشيخ محمد بن الشيخ أحمد بن الشيخ عبد الله بن الشيخ محمد بن الشيخ عبد الله اليونيني والشيخ محمد بن الشيخ أحمد بن شعفور البعلبكي وخادمه الشيخ محمد بن علي بن عمر الحلبي وشهاب الدين أحمد بن شيخنا شمس الدين محمد بن حازم بن حامد المقدسي وزين الدين عبد الرحمن وتقي الدين عبد الله ولدا شهاب الدين أحمد بن عبد الرحمن بن حسن المقدسي والحاج سليمان بن محسن اليونيني وصح ذلك وثبت يوم الأربعاء سابع عشر شهر الله الفرد رجب من سنة أربع وثمانين ستماية بقرية يونين عند ضريح الشيخ الصالح عيسى اليونيني رحمه الله وإيانا كتبه أحمد بن محمد بن عبد الرحيم المقدسي عفا الله عنه آمين والحمد لله وحده وصلى الله على سيدنا محمد وآله وسلم"
+}

@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عمر بن أحمد بن عثمان البغدادي ابن شاهين"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فضائل فاطمة رضي الله عنها، وفوائد من حديث ابن شاهين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 78"
+      ],
+      "classmark": [
+        "3754/12"
+      ],
+      "folio_number": [
+        "114v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "038a1e2b-6342-4af9-8265-d6905c60c048",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": "أبي منصور عبد الرحمن بن محمد بن عبد الواحد القزاز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "0d90204a-5d37-4348-a4d4-a615e6c312dc",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 253,
+      "text": "أبي الحجاج يوسف بن خليل الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "236ce552-d8dd-4107-bb84-fbdf346a1697",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 106,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "391cc111-6323-4708-8b24-644e17d0c317",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 81,
+      "text": "أبي البقاء بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "69d4051c-e26b-479e-bbc5-174b0b6c2491",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 120,
+      "text": "رجب سنة خمس وثلثن وخمسماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "darb_sharik"
+          ]
+        ]
+      },
+      "endIndex": 180,
+      "guid": "979173ff-de73-432f-9423-90047c17fd24",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "حانوت الشيخ بشارع الدقيق درب شريك",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "a649097e-8587-4c55-8dbe-c2a358b435ff",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 318,
+      "text": "علي بن الحنبل",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على أبي منصور عبد الرحمن بن محمد بن عبد الواحد القزاز بقراءة أبي البقاء بن طبرزد أخوه عمر وآخرون في رجب سنة خمس وثلثن وخمسماية بحانوت الشيخ بشارع الدقيق درب شريك ضحوة نهار السبت نقلته مختصرا من أصل ابن طبرزد نقله من خط الإمام الحافظ أبي الحجاج يوسف بن خليل الدمشقي والجزء جميعه بخطه ومنه نقلت كتبه علي بن الحنبل ومن خطه نقلته وشاهدته أيضا بخط خليل ومن سمعته"
+}

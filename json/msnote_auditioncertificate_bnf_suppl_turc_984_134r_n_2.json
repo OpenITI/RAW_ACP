@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الله الأنصاري وأبي محمد بن ماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتقا من الأحاديث "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "134r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f137.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f137.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "gaza"
+          ]
+        ]
+      },
+      "endIndex": 200,
+      "guid": "59881fba-46e9-45f3-9e31-96d88e9066ad",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 192,
+      "text": "مدينة غزة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "5dfdbf50-210e-48f2-b07d-8b1027c26322",
+      "index": 2,
+      "isZeroPoint": false,
+      "startIndex": 121,
+      "text": "تاج الدين الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "8467260b-87ed-4159-a4cb-ed9759dd6ba5",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 215,
+      "text": "محمد بن عبد العز[يز] بن مكارم [الكفراني الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "b6633061-d687-4326-add3-23b6ae1e56c6",
+      "index": 1,
+      "isZeroPoint": false,
+      "startIndex": 41,
+      "text": "كمال الدين أبي العباس أحمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "631"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "bd563dbd-f53d-4051-a81f-24f7ce307a60",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 146,
+      "text": "سابع شهر ربيع الأول سنة إحدى وثلاثين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت جميع الجزؤ على الفقيه الإمام العالم كمال الدين أبي العباس أحمد بن عبد الرحيم بن عبد الواحد المقدسي بحق سماعه فيه من تاج الدين الكندي وذلك في سابع شهر ربيع الأول سنة إحدى وثلاثين وستمائة بمدينة غزة بظاهرها كتبه محمد بن عبد العز[يز] بن مكارم [الكفراني الحراني] [...]"
+}

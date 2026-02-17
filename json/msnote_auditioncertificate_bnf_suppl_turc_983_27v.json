@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ضياء الدين محمد بن عبد الواحد بن أحمد المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتقا من الأحاديث الحسان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "27v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f29.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f29.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 192,
+      "guid": "06fa1360-20ca-493d-a15e-b009e1963c3a",
+      "startIndex": 182,
+      "text": "منزل المسمع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "639"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "c667733e-c4fa-46ad-8058-19ae5e06d65a",
+      "startIndex": 130,
+      "text": "يوم الثلاثاء ثالث عشر شوال سنة تسع وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "c8fc4641-fef8-4c0e-a616-79223eaacdf1",
+      "startIndex": 51,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "eec8648f-8d15-41f5-bbc4-e868220e0f94",
+      "startIndex": 199,
+      "text": "محمد بن عبد الرحمن بن سلمان البغدادي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على مخرجه الإمام الحافظ الأوحد ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي أبقاه الله تعالى في يوم الثلاثاء ثالث عشر شوال سنة تسع وثلاثين وستمائة بمنزل المسمع وكتب محمد بن عبد الرحمن بن سلمان البغدادي"
+}

@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد المعروف بابن الغوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلس من إملاء الغوري "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 91"
+      ],
+      "classmark": [
+        "3756/5"
+      ],
+      "folio_number": [
+        "38r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 297,
+      "guid": "2425dcc0-e281-4007-9adb-1e2317ba2000",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 271,
+      "text": "الجامع المظفري بسفح قاسيون ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "25ff0637-6a9c-4dc8-a8b2-74630cf77a59",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 108,
+      "text": "ابن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "37406fd6-3546-4806-bbc6-460572050907",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 129,
+      "text": "شرف الدين داود بن محمد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "723"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "4e3177a8-6486-4855-a6bd-8bd4690ac68d",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 227,
+      "text": "الاثنين سابع صفر سنة ثلاث وعشرين وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "7ae8c32c-684d-4ae2-8c75-7c29d5b58af6",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "عبد الرحمن بن علي بن مظفر الصالحي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 360,
+      "guid": "da381acb-a223-4e24-aa21-25d2817d163e",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 329,
+      "text": "محمد بن رافع بن أبي محمد السلامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "f779c1ef-d96e-4344-8328-07055a17458c",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "شمس الدين أبي عبد الله محمد بن أحمد بن أبي الهيجاء الزراد",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخ الجليل الفاضل شمس الدين أبي عبد الله محمد بن أحمد بن أبي الهيجاء الزراد بسماعه من ابن عبد الدائم فسمعه شرف الدين داود بن محمد بن عبد الله المقدسي وعبد الرحمن بن علي بن مظفر الصالحي الشافعي وصح ذلك يوم الاثنين سابع صفر سنة ثلاث وعشرين وسبع ماية بالجامع المظفري بسفح قاسيون وأجاز المسمع لنا ما يرويه كتبه محمد بن رافع بن أبي محمد السلامي"
+}

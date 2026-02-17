@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "qadi iyad"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "al-shifa"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Ammar Tamalt"
+      ],
+      "editor": [
+        "Ammar Tamalt"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "16275"
+      ],
+      "folio_number": [
+        "10v"
+      ],
+      "library": [
+        "kfcris"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Ammar Tamalt"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          null
+        ]
+      },
+      "endIndex": 68,
+      "guid": "1f22f689-3bef-4209-8841-7d9374e2286a",
+      "startIndex": 34,
+      "text": "يوم السبت تاسع شعبان المعظم سنة 922",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Ammar Tamalt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "7bedd570-909e-4b9c-bf51-1271e880ae67",
+      "startIndex": 89,
+      "text": "محب الدين النويري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Ammar Tamalt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "83fd8173-a726-4fcc-8483-1de2a77cddc2",
+      "startIndex": 129,
+      "text": "عبد القادر بن عبد العزيز بن فهد",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ قراءة في الأول والجماعة سماعا يوم السبت تاسع شعبان المعظم سنة 922 على العلامة الخطيب محب الدين النويري متع الله بحياته كاتبه عبد القادر بن عبد العزيز بن فهد غفر الله له ولوالديه والمسلمين آمين."
+}

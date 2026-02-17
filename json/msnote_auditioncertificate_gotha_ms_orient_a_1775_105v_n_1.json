@@ -1,0 +1,588 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن عساكر"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "تاريخ مدينة دمشق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 1775"
+      ],
+      "folio_number": [
+        "105v"
+      ],
+      "image_link": [
+        "https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00018887/Ms-orient-A-01775_00214.tif"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00001781"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1088,
+      "guid": "03657fd5-c855-454d-99c5-6b7dba3493a4",
+      "startIndex": 1068,
+      "text": "مبارك بن سليط بن دنيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 633,
+      "guid": "0d7453eb-c549-4c58-b6ff-7ab3f94008f1",
+      "startIndex": 585,
+      "text": "أبو محمد بن عبد السلام بن أبي بكر بن أحمد الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 924,
+      "guid": "1eaaa3a6-d142-440b-bd2d-c573aad8bda3",
+      "startIndex": 895,
+      "text": "أبو العباس أحمد بن عمر بن يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 951,
+      "guid": "2507f716-cc8c-494c-ae6f-4ee53e96fb5d",
+      "startIndex": 927,
+      "text": "علي بن تميم بن عبد السلام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1016,
+      "guid": "2647dce9-93f1-49e2-b5e4-173df4d938ff",
+      "startIndex": 980,
+      "text": "فرج بن عبد الله مولى أبي جعفر القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 1180,
+      "guid": "2d4a63b5-a6c3-477d-b576-6f120af1686e",
+      "startIndex": 1177,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 851,
+      "guid": "2d8d09a2-67ad-4463-9458-653e7003371f",
+      "startIndex": 822,
+      "text": "أبو القاسم بن أبي الفرج بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "33a63ada-f51a-4cf9-b93b-407e658eed39",
+      "startIndex": 378,
+      "text": "أبو الحسين إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "d1917b92-016e-4e3d-8321-9c2ba648bacd"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 667,
+      "guid": "3629301a-5cc3-4b34-999d-d2ab99bf5d20",
+      "startIndex": 636,
+      "text": "أبو الفضل محمد بن عسكر بن اللحية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1139,
+      "guid": "376814a9-36c5-4aaf-b206-6b4b6d22213f",
+      "startIndex": 1103,
+      "text": "بدل بن أبي المعمر بن إسماعيل التبريزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 459,
+      "guid": "392b157a-428c-4890-a173-17c8f6ceef01",
+      "startIndex": 405,
+      "text": "أبو الفضل أحمد بن محمد بن علي بن عبد الرحمن بن أبي عقيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 691,
+      "guid": "42eeaa16-748a-44fa-9b49-6df508183d08",
+      "startIndex": 670,
+      "text": "مهدي بن يوسف بن الحجاج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 892,
+      "guid": "4f3ece10-013c-413f-ab51-a1f759b85ed5",
+      "startIndex": 854,
+      "text": "أبو محمد عبد الله بن محمد بن عبد الغفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1038,
+      "guid": "4f8f40c5-6cd4-4109-8bf2-cc7196036fae",
+      "startIndex": 1019,
+      "text": "عمر بن عيسى بن معالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "5683fdf4-64e7-4fe0-9f4f-7b192d44e051",
+      "startIndex": 258,
+      "text": "أبي عبد الله محمد بن علي بن موسى الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 505,
+      "guid": "5c70f567-eae7-4a5c-8caf-0689664a5096",
+      "startIndex": 471,
+      "text": "أبو علي الحسن بن علي ابن عبد الوارث",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "5fd37912-d89f-493a-9550-ebcb556175c0",
+      "startIndex": 206,
+      "text": "أبو المجد الفضل بن نبأ بن الفضل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 542,
+      "guid": "625e07ef-a4d3-44f7-a2ac-5c260344b553",
+      "startIndex": 508,
+      "text": "أبو بكر بن حرز الله بن حجاج التونسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 775,
+      "guid": "6385afcd-d44b-4ac9-a00a-9f76c3038e4c",
+      "startIndex": 741,
+      "text": "أبو إسحق إبراهيم بن محمد بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "64e85cb4-4f20-4917-9c62-b4a6f4041416",
+      "startIndex": 185,
+      "text": "أبو القاسم علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 977,
+      "guid": "70fb98de-3ff6-41a7-a43d-7c0bbc3d4aff",
+      "startIndex": 954,
+      "text": "عبد الله بن صالح بن فلاح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "7300b8c1-4bc8-4af9-9fd6-249423a38a6c",
+      "startIndex": 89,
+      "text": "أبي محمد القاسم بن الإمام الحافظ أبي القاسم علي بن الحسن بن هبة الله بن عبد الله بن الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "74d8859f-e865-4e39-b30b-253b2fb5d2ea",
+      "startIndex": 314,
+      "text": "أبو جعفر أحمد ابن علي بن أبي بكر القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 819,
+      "guid": "7d8471a5-67b8-4f4f-9c43-d243c4c99bb4",
+      "startIndex": 778,
+      "text": "أبو الربيع سليمان بن محمد بن سليمان الأموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "590"
+        ]
+      },
+      "endIndex": 1174,
+      "guid": "aad5befa-fc91-4b13-b08f-fc0dd12751fb",
+      "startIndex": 1146,
+      "text": "في المحرم سنة تسعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 738,
+      "guid": "ad670b01-14f5-42bf-9bbe-a300072e8530",
+      "startIndex": 694,
+      "text": "أبو الحجاج يوسف بن أبي الفرج خليل بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 375,
+      "guid": "af7687b4-db2b-4a3b-aa5a-a01f41a5c2bd",
+      "startIndex": 362,
+      "text": "أبو الحسن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1065,
+      "guid": "bfb7cb9b-fe6d-4606-b66e-0da1cd5398ce",
+      "startIndex": 1041,
+      "text": "أبو موسى ابن عيسى بن موسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 582,
+      "guid": "c478dc16-1ad8-4457-8cb1-a72eaf8cdeb7",
+      "startIndex": 547,
+      "text": "أبو الحجاج يوسف بن أبي الفرج بن مهذب",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم الحافظ الثقة بهاء الدين ناصر السنة محدث الشام أبي محمد القاسم بن الإمام الحافظ أبي القاسم علي بن الحسن بن هبة الله بن عبد الله بن الحسين ولده أبو القاسم علي وسبطه أبو المجد الفضل بن نبأ بن الفضل بقراءة الشيخ الفقيه أبي عبد الله محمد بن علي بن موسى الأنصاري والشيخ الإمام أبو جعفر أحمد ابن علي بن أبي بكر القرطبي وابناه أبو الحسن محمد وأبو الحسين إسماعيل والقاضي أبو الفضل أحمد بن محمد بن علي بن عبد الرحمن بن أبي عقيل والفقيهان أبو علي الحسن بن علي ابن عبد الوارث وأبو بكر بن حرز الله بن حجاج التونسيان وأبو الحجاج يوسف بن أبي الفرج بن مهذب وأبو محمد بن عبد السلام بن أبي بكر بن أحمد الدمشقي وأبو الفضل محمد بن عسكر بن اللحية ومهدي بن يوسف بن الحجاج وأبو الحجاج يوسف بن أبي الفرج خليل بن عبد الله وأبو إسحق إبراهيم بن محمد بن أبي بكر وأبو الربيع سليمان بن محمد بن سليمان الأموي وأبو القاسم بن أبي الفرج بن علي وأبو محمد عبد الله بن محمد بن عبد الغفار وأبو العباس أحمد بن عمر بن يحيى وعلي بن تميم بن عبد السلام وعبد الله بن صالح بن فلاح وفرج بن عبد الله مولى أبي جعفر القرطبي وعمر بن عيسى بن معالي وأبو موسى ابن عيسى بن موسى ومبارك بن سليط بن دنيس ومثبت السماع بدل بن أبي المعمر بن إسماعيل التبريزي وذلك في المحرم سنة تسعين وخمس ماية بدمشق والحمد لله وحده وصلى الله على محمد وآله وصحبه وسلم."
+}

@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "40r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 400,
+      "guid": "12226ba3-fdee-4b63-851d-82d74d38445e",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 374,
+      "text": "منزلها داخل باب الفرج بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 450,
+      "guid": "55c77374-a1cc-435a-ba35-478e014ce2b9",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 414,
+      "text": "الحسين بن عمر بن الحسن بن عمر بن حبيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "734"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "5d1ac4da-baa7-498b-aef1-7747fcc153d7",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 320,
+      "text": "يوم الخميس ثالث عشرين شعبان سنة أربع وثلثين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "9af5634d-987b-4583-9c8a-d1e89809ac99",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 101,
+      "text": "أم عمر زينب بنت الخطيب بدر الدين يحيى بن شيخ الإسلام عز الدين عبد العزيز بن عبد السلام السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "a504a3a4-7235-497d-b045-d91ef2308031",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 279,
+      "text": "الحداد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 296,
+      "guid": "ca9d0e1f-cbc8-4cf8-8204-a05c985e8c9b",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 289,
+      "text": "أبي نعيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "d8673f60-4388-4754-824a-b2069c5f9fda",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 269,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "f71ae7f5-13a6-4036-bf1f-930999a1a6b7",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 236,
+      "text": "إبراهيم بن خليل الآدمي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء وفيه من حديث أيوب السختياني وغير ذلك على الشيخة الجليلة الأصيلة المسندة الكبيرة أم عمر زينب بنت الخطيب بدر الدين يحيى بن شيخ الإسلام عز الدين عبد العزيز بن عبد السلام السلمي أثابها الله تعالى بسماعها فيه منقولا ومن إبراهيم بن خليل الآدمي بسماعه من الثقفي عن الحداد عن أبي نعيم بسنده فيه فصح وثبت في يوم الخميس ثالث عشرين شعبان سنة أربع وثلثين وسبعماية بمنزلها داخل باب الفرج بدمشق وأجازت كتبه الحسين بن عمر بن الحسن بن عمر بن حبيب سامحه الله"
+}

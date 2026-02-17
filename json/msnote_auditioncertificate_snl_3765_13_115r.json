@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "115r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 1126,
+      "guid": "051a9cf2-b98e-4f5d-83bc-e19c5cb5d942",
+      "startIndex": 1078,
+      "text": "منزلي بظاهر القاهرة بجانب الخليج بين مصر والقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 1159,
+      "guid": "0d129b15-b39d-4872-ba9e-f3caa841ba4c",
+      "startIndex": 1133,
+      "text": "علي بن بلبان المشرف الناصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 845,
+      "guid": "19586b97-e611-4b2f-8a46-6330944e2678",
+      "startIndex": 803,
+      "text": "بهاء الدين أبو البركات أحمد بن النصر القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 495,
+      "guid": "42dc03ae-b741-48a1-8f02-2ead077087e5",
+      "startIndex": 484,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "505219da-b83b-47be-8d87-5c72a7879d11",
+      "startIndex": 88,
+      "text": "فارس الدين فارس بن آق سنقر الناصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 405,
+      "guid": "707f447d-1ea4-4719-99fe-5d6bb7fa1e5b",
+      "startIndex": 334,
+      "text": "شرف الدين أبو محمد الحسن بن علي بن عيسى بن الحسن اللخمي عرف بابن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 1075,
+      "guid": "93fcaf0e-11a5-4794-b5f6-6f444d94929f",
+      "startIndex": 1020,
+      "text": "الأربعاء الثالث من شهر ربيع الأول سنة ثلاث وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 472,
+      "guid": "9cadd706-2200-4813-a20d-89753ed70113",
+      "startIndex": 431,
+      "text": " مكين الدين أبي الحسن بن عبد العظيم الحصني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 640,
+      "guid": "aae24c5f-05eb-4429-b721-95412f3d3d01",
+      "startIndex": 587,
+      "text": "عز الدين أبو القاسم أحمد بن محمد بن عبد الرحمن الحسيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 723,
+      "guid": "b11e8315-9081-45f3-b43e-45cd8c6c31ad",
+      "startIndex": 653,
+      "text": "جمال الدين أبو صادق محمد بن الحافظ رشيد الدين يحيى بن أبي الحسين المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "baa22b7c-bbac-4645-abc3-e2d54d5b09fa",
+      "startIndex": 36,
+      "text": "فاطمة بنت محمد بن موسى بن محمد بن موسى المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "c3aadb93-1f2f-4707-b638-cf8969993317",
+      "startIndex": 134,
+      "text": "أم إسماعيل كنينة بنت أيبك الجزري الناصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 886,
+      "guid": "cd86dbcc-aafd-4016-a589-865d88f557d2",
+      "startIndex": 848,
+      "text": "نور الدين علي بن محمد بن أحمد بن الجيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 961,
+      "guid": "e28b5f07-4b25-4076-8f90-fd6d3a3cf2c3",
+      "startIndex": 952,
+      "text": " ابن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 800,
+      "guid": "e9ebc9c1-f2cb-47c2-8492-87538bbdf310",
+      "startIndex": 726,
+      "text": "صدر الدين عبد الله بن الإمام ضياء الدين أبي عبد الله محمد بن عثمان الزرزاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 557,
+      "guid": "f3e149a6-6711-4c48-93c9-20e6716b31c6",
+      "startIndex": 505,
+      "text": "زين الدين أبو الفتح محمد بن محمد بن أبي بكر الأبيوردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 992,
+      "guid": "fd018e8a-bebd-4026-b8da-f0233d865297",
+      "startIndex": 979,
+      "text": "سعيد بن البناء",
+      "type": "person"
+    }
+  ],
+  "text": "سمع علي وعلى والدتي ست العز المدعوة فاطمة بنت محمد بن موسى بن محمد بن موسى المقدسي وعلى فارس الدين فارس بن آق سنقر الناصري وعلى زوجته أم إسماعيل كنينة بنت أيبك الجزري الناصري جميع كتاب البعث تأليف أبي بكر [بن أبي] داود سليمان السجستاني وكانت القراءة من الأصل وقوبلت هذه النسخة عليه صاحب هذه النسخة ومالكها الفقيه الإمام العالم الفاضل شرف الدين أبو محمد الحسن بن علي بن عيسى بن الحسن اللخمي عرف بابن الصيرفي وذلك بقراءة الشيخ الإمام مكين الدين أبي الحسن بن عبد العظيم الحصني وسمع ولده أبو بكر محمد والإمام زين الدين أبو الفتح محمد بن محمد بن أبي بكر الأبيوردي والسيد الإمام العالم الفاضل عز الدين أبو القاسم أحمد بن محمد بن عبد الرحمن الحسيني وابن شيخنا جمال الدين أبو صادق محمد بن الحافظ رشيد الدين يحيى بن أبي الحسين المقرئ وصدر الدين عبد الله بن الإمام ضياء الدين أبي عبد الله محمد بن عثمان الزرزاري وبهاء الدين أبو البركات أحمد بن النصر القرشي ونور الدين علي بن محمد بن أحمد بن الجيلي وآخرون أسماؤهم على الأصل وأجزت الجماعة بسماعنا للكتاب المذكور من ابن اللتي بسماعه حضورا من سعيد بن البناء بسنده وصح ذلك وثبت في يوم الأربعاء الثالث من شهر ربيع الأول سنة ثلاث وستين وستمائة بمنزلي بظاهر القاهرة بجانب الخليج بين مصر والقاهرة وكتب علي بن بلبان المشرف الناصري وأجاز المسمعون لجميع السامعين جميع رواية ما يجوز لهم روايته بسؤالي وكذلك أجزت لهم ذلك والحمد لله رب العالمين وصلواته على سيدنا محمد وآله وصحبه وسلامه"
+}

@@ -1,0 +1,484 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر النيسابوري عبد الله بن محمد بن زياد"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 86"
+      ],
+      "classmark": [
+        "3755/11"
+      ],
+      "folio_number": [
+        "152r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 869,
+      "guid": "050f710c-7b2a-4773-afa6-4d7dc85e8d09",
+      "startIndex": 863,
+      "text": "أبو نصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1219,
+      "guid": "0a036826-1232-4633-878b-57779d0d1885",
+      "startIndex": 1201,
+      "text": "محمد بن علي بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 823,
+      "guid": "116a8f58-4768-46fa-a5a4-6a8f1e62b1a8",
+      "startIndex": 797,
+      "text": "عبد الباقي بن الحاج إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "12f44f59-16a8-4f24-8395-2ca9ae956d7d",
+      "startIndex": 202,
+      "text": "أبي عبد الله الحسن بن مسعود الرستمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1057,
+      "guid": "13b3f2b8-55b1-40f3-a473-6bff4ed71cc0",
+      "startIndex": 1023,
+      "text": "محمد بن منصور ابن أبي علي المعصراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1121,
+      "guid": "157ae5fb-fa8c-4c90-9f40-a2214206e191",
+      "startIndex": 1090,
+      "text": "عبد الرحمن بن أبي الفضل بن [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1190,
+      "guid": "15a80c6f-6cd6-4ed6-a175-77a64b708a25",
+      "startIndex": 1158,
+      "text": "أحمد بن نصر الله بن أحمد بن بريمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "harran",
+            "nasih_al-din_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1286,
+      "guid": "32893a7b-f60b-4017-beae-e69e13c4f09e",
+      "startIndex": 1259,
+      "text": "مسجد القاضي ناصح الدين بحران",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 362,
+      "guid": "3b565a8a-4cf1-488b-9107-ac3e06527271",
+      "startIndex": 329,
+      "text": "نعمون بن نصر الله بن أحمد بن بريمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 326,
+      "guid": "3e60a9ad-93d6-4b2f-a872-34db761af61d",
+      "startIndex": 290,
+      "text": "حماد بن أبي الفضل بن حماد [الأعرابي؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 728,
+      "guid": "4cc3d6a3-b84d-46cd-8470-eb052f472658",
+      "startIndex": 703,
+      "text": "إسماعيل بن أبي بكر بن كليب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 990,
+      "guid": "5130892b-485a-4804-ba38-b57ecefc63a3",
+      "startIndex": 951,
+      "text": "أحمد بن سنقر بن عبد الله غلام بيت الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1020,
+      "guid": "60a6d273-ec8e-4cd3-8264-1c111d737b0b",
+      "startIndex": 993,
+      "text": "إبراهيم بن إلياس بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 948,
+      "guid": "63ccb6cc-59f9-4bba-8fe2-e123d2e2ae86",
+      "startIndex": 917,
+      "text": "أبو العز بن يحيى بن موهوب العامل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "76056faa-a3c8-4e6e-9a65-02ddcbca2841",
+      "startIndex": 373,
+      "text": "معالي ابن علي بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1087,
+      "guid": "76edb6d8-0f5b-4e7e-a9c5-f2e573842475",
+      "startIndex": 1060,
+      "text": "أحمد بن يوسف بن الحسن العطار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 487,
+      "guid": "812442cf-c19a-4505-8c42-e7bdccefc585",
+      "startIndex": 474,
+      "text": "أبو الفضل يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 757,
+      "guid": "8c02b35e-21cb-4e3c-bf1b-d3e66b43813f",
+      "startIndex": 754,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 875,
+      "guid": "9953379a-61c0-453c-8fbf-b1a8ce9377f2",
+      "startIndex": 872,
+      "text": "جعفر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 700,
+      "guid": "a4fc5cdf-e736-437c-abde-8a80f4e98618",
+      "startIndex": 666,
+      "text": "الحسن بن أبي الفرج بن الحسن الفارقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 609,
+      "guid": "a6d78818-1122-4f4d-8067-9118afeca3b4",
+      "startIndex": 593,
+      "text": " أبو بكر عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1248,
+      "guid": "b2ce53c7-6c71-4ed5-918a-90b12bea3b5e",
+      "startIndex": 1222,
+      "text": "محمد بن أسد بن غازي الرهاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "620"
+        ]
+      },
+      "endIndex": 1319,
+      "guid": "c355d4c4-a3cf-4284-8b8b-bf959c06fe74",
+      "startIndex": 1290,
+      "text": " شهر صفر سنة ثلاث عشرين ستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "c4710a96-07e1-4b99-a3d8-5dd64d8c8fdf",
+      "startIndex": 252,
+      "text": "سراج الدين عبد الرحمن بن عمر بن شحانة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "c8fce936-6259-44eb-a1c9-b6b809164aa7",
+      "startIndex": 159,
+      "text": "أبي الفرج مسعود بن الحسن بن القاسم الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 745,
+      "guid": "ca427d55-ff39-43fc-9db6-5591dc68dfb7",
+      "startIndex": 736,
+      "text": "عبد الباقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 496,
+      "guid": "cc04d148-8731-4a98-9b99-d619b827fc79",
+      "startIndex": 490,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 471,
+      "guid": "ccc55251-6be2-4ceb-b7d9-ec5a8c76b0c1",
+      "startIndex": 443,
+      "text": "مسعود بن خليل بن علي بن عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "d2c495df-3264-459b-b87e-92e938deb15f",
+      "startIndex": 77,
+      "text": "أبي عبد الله محمد بن القاضي ناصح الدين عبد المنعم بن أبي الفهم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 860,
+      "guid": "e080b76a-3167-4fa0-9ea7-fcd90d742c85",
+      "startIndex": 826,
+      "text": "عبد الغني بن عبد الرحمن بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 440,
+      "guid": "e316bc94-961f-4153-8670-8ade47c0c75b",
+      "startIndex": 396,
+      "text": "محمد بن سعد الدين مسعود بن الشيخ الصوفي عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 584,
+      "guid": "edac1d41-7a6a-4510-bb5d-fea0328ea86d",
+      "startIndex": 550,
+      "text": "محمد بن أبي بكر بن إبراهيم بن بريمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 630,
+      "guid": "f33f2fa9-e4b1-48cc-80fc-4202bb24e544",
+      "startIndex": 612,
+      "text": "أبو عبد الله عثمان ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 752,
+      "guid": "f7e0b8df-5288-4ef3-b5a1-3baaf55780a2",
+      "startIndex": 748,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1155,
+      "guid": "fe40f184-7016-41a4-8aaf-0cb7c592972d",
+      "startIndex": 1124,
+      "text": "أبو عبد الله بن فضل الله بن عطيس",
+      "type": "person"
+    }
+  ],
+  "text": " [سمع] جميع هذه الفوائد وهي مشتملة على ثمانية أجزاء من هذه النسخة على القاضي أبي عبد الله محمد بن القاضي ناصح الدين عبد المنعم بن أبي الفهم بإجازته عن الشيخين أبي الفرج مسعود بن الحسن بن القاسم الثقفي وأبي عبد الله الحسن بن مسعود الرستمي بقراءة الحافظ سراج الدين عبد الرحمن بن عمر بن شحانة حماد بن أبي الفضل بن حماد [الأعرابي؟] ونعمون بن نصر الله بن أحمد بن بريمة وابن عمه معالي ابن علي بن أحمد ومحمد بن سعد الدين مسعود بن الشيخ الصوفي عثمان ومسعود بن خليل بن علي بن عثمان وأبو الفضل يحيى وإبراهيم ابنا أبي العز بن يحيى بن موهوب العامل وكاتب الأسماء محمد بن أبي بكر بن إبراهيم بن بريمة وأولاده أبو بكر عبد الله وأبو عبد الله عثمان وسمع هذا الجزء كله وهو يشتمل جزوين الحسن بن أبي الفرج بن الحسن الفارقي وإسماعيل بن أبي بكر بن كليب وولده عبد الباقي ومحمد وأحمد ابنا الفقيه عبد الرزاق بن عبد القادر وعبد الباقي بن الحاج إبراهيم وعبد الغني بن عبد الرحمن بن عبد الله وأبو نصر وجعفر ابنا أبي الفهم بن أبي نصر بن أبي الفهم وأبو العز بن يحيى بن موهوب العامل وأحمد بن سنقر بن عبد الله غلام بيت الخطيب وإبراهيم بن إلياس بن عبد الله ومحمد بن منصور ابن أبي علي المعصراني وأحمد بن يوسف بن الحسن العطار وعبد الرحمن بن أبي الفضل بن [...] وأبو عبد الله بن فضل الله بن عطيس وأحمد بن نصر الله بن أحمد بن بريمة وابن عمه محمد بن علي بن أحمد ومحمد بن أسد بن غازي الرهاوي وصح ذلك بمسجد القاضي ناصح الدين بحران في شهر صفر سنة ثلاث عشرين ستماية"
+}

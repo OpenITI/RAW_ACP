@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد بن حميد بن نصر الكشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المنتخب من مسند عبد بن حميد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 590"
+      ],
+      "folio_number": [
+        "100v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000596"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "3933aea8-5db9-4d90-98e1-148366732898",
+      "startIndex": 24,
+      "text": "برهان الدين إبراهيم بن يوسف المدبوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-a'tiq_mosque"
+          ]
+        ]
+      },
+      "endIndex": 156,
+      "guid": "3a253560-7761-49c0-bf82-f68ba9cd711c",
+      "startIndex": 147,
+      "text": "بجامع مصر ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "6ca8e1ed-8eef-49c7-8774-c234f2a3b687",
+      "startIndex": 178,
+      "text": "أبو بكر عتيق بن عبد الرحمن بن أبي الفتح العمري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "7e175a95-fed5-4e1f-8856-b263a69187af",
+      "startIndex": 71,
+      "text": "ابن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27-30"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "681"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "e86c9317-7304-41bb-abb4-7b5aa026aa7e",
+      "startIndex": 95,
+      "text": " يوم السبت سلخ جمادى الأولى عام أحد وثمانين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "فرَّغه قراءة على القاضي برهان الدين إبراهيم بن يوسف المدبوني بسماعه من ابن اللتي في مجالس آخرها يوم السبت سلخ جمادى الأولى عام أحد وثمانين وستمائة بجامع مصر وسمعه معي جماعة كتبه أبو بكر عتيق بن عبد الرحمن بن أبي الفتح العمري وأجاز لنا جميع ما يجوز له روايته."
+}

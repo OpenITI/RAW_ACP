@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن أحمد ضياء الدين المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث طاهر بن نزار وحديث ابن كرامة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "غير مفهرس"
+      ],
+      "classmark": [
+        "3754/3"
+      ],
+      "folio_number": [
+        "25v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "0c85559c-be00-4db0-a1da-05f884cbe4ff",
+      "startIndex": 124,
+      "text": "أحمد بن العز محمد بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "mossul"
+          ]
+        ]
+      },
+      "endIndex": 320,
+      "guid": "51d7bb4e-ed9f-4430-aefe-e841335c6402",
+      "startIndex": 315,
+      "text": "الموصل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "605"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "56b53b4d-5147-4005-8a75-37c0c9c01a3d",
+      "startIndex": 279,
+      "text": "في شهر ذي الحجة من سنة خمس وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "5ae857e9-f3cd-4e52-848d-9c2f53dbb3b2",
+      "startIndex": 68,
+      "text": "أبي القاسم عبد المحسن ابن عبد الله بن محمد الطوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "77b4dfaf-8597-4410-9d2c-914b4b503aa1",
+      "startIndex": 247,
+      "text": "محمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "8909bb02-b030-4088-ab12-2a1c5059e7c6",
+      "startIndex": 156,
+      "text": "عبد العزيز بن عبد الملك ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "e21fca39-cc0f-4491-ba90-c6df330ce3b9",
+      "startIndex": 215,
+      "text": "الكمال يوسف بن محمد الجيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "e68ba58c-ce55-42d8-806c-f39f4c60227c",
+      "startIndex": 181,
+      "text": "أحمد بن عمر بن أبي بكر المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع حديث طاهر بن نزار وحديث بن كرامة على الشيخ الإمام الخطيب أبي القاسم عبد المحسن ابن عبد الله بن محمد الطوسي فسمعه أحمد بن العز محمد بن عبد الغني وعبد العزيز بن عبد الملك وأحمد بن عمر بن أبي بكر المقدسيون والكمال يوسف بن محمد الجيلي وكتب محمد بن عبد الواحد المقدسي وذلك في شهر ذي الحجة من سنة خمس وستماية بالموصل وسمعا عليه المجلس الذي في آخره"
+}

@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "56v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 35,
+      "guid": "0d026495-843c-4ece-9384-be97a7d82b4b",
+      "startIndex": 23,
+      "text": "ابن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "609"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "147b590f-177a-4d4d-bc93-4800da4b42bc",
+      "startIndex": 123,
+      "text": "رابع عشر جمادى الأولى سنة تسع وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "23c1ec19-14d2-4798-9b0f-77c1d6bc5b49",
+      "startIndex": 89,
+      "text": "عبد الجليل الأبهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "a0ed9d78-faaf-4197-8ccd-afb0bb5ca48a",
+      "startIndex": 187,
+      "text": "أحمد بن محمد الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "a398debe-6871-4f97-9b7d-0a73da4c5c8e",
+      "startIndex": 83,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "d91a3a54-b918-476a-b641-507a571f5b58",
+      "startIndex": 37,
+      "text": "إبراهيم بن أبي المحاسن بن رسلان الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "eb77978c-c071-4afb-ad99-31b2c65707b0",
+      "startIndex": 246,
+      "text": "العز الإربلي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على ابن الحرستاني إبراهيم بن أبي المحاسن بن رسلان الشافعي وابنه محمد وعبد الجليل الأبهري وكتب السماع في رابع عشر جمادى الأولى سنة تسع وستماية نقله مختصرا من خط الأبهري أحمد بن محمد الظاهري ولم يعين القارئ في الطبقة والظاهر أنه العز الإربلي"
+}

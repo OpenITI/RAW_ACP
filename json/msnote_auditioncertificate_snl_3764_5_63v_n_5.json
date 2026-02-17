@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الحسين بن عبد الله الآجري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الغرباء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 139"
+      ],
+      "classmark": [
+        "3764/5"
+      ],
+      "folio_number": [
+        "63v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "defaultLabel": "Place1",
+      "guid": "5324d4e2-fde3-42d7-98e0-d6d30ebcbd9b",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 215,
+      "guid": "73cb98f4-003e-4f5f-9661-1d712bca275d",
+      "startIndex": 193,
+      "text": "منزل المسمع بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "c59cca0b-b6fa-4428-8ff5-d1fc3ee1151f",
+      "startIndex": 44,
+      "text": "موفق الدين ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 32,
+      "guid": "cc654c42-e921-4277-bede-e8a147a03a05",
+      "startIndex": 16,
+      "text": "تقي الدين الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "ede002c0-f70e-4e2b-b9e0-d063d418e7a7",
+      "startIndex": 77,
+      "text": "علي بن مسعود الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "690"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "fa298a8b-8688-49e9-b4c9-006fcc047012",
+      "startIndex": 155,
+      "text": "الاثنين عشرين شوال سنة تسعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "ffc39621-00ad-4660-ad4a-35644fa5937f",
+      "startIndex": 108,
+      "text": " آمنة",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الشيخ تقي الدين الواسطي بسماعه من موفق الدين عن شيخيه بقراءة الشيخ علي بن مسعود الموصلي جماعة منهم آمنة بنت المسمع وصح ذلك في مجلسين ثانيهما يوم الاثنين عشرين شوال سنة تسعين وستمائة بمنزل المسمع بسفح قاسيون وأجاز "
+}

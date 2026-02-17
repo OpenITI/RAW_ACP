@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد عبد الواحد بن أحمد المقدسي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "الجزء الخامس من الفوائد "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "199r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f206.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f206.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 256,
+      "guid": "3ec9ad96-ac57-485a-8c05-3ddce1842239",
+      "index": 162,
+      "isZeroPoint": false,
+      "startIndex": 224,
+      "text": " موفق الدين أبو زيد زياد بن حمدان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "41730fc6-05f8-43e7-ac2d-0ff15099af95",
+      "index": 160,
+      "isZeroPoint": false,
+      "startIndex": 122,
+      "text": "محب الدين أبو المظفر يوسف بن إبراهيم بن سعد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "6171118f-9652-497b-a7d3-0cb6d28dbaac",
+      "index": 158,
+      "isZeroPoint": false,
+      "startIndex": 36,
+      "text": "أبي حفص عمر بن محمد بن طبرزد الدارقزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "600"
+        ]
+      },
+      "endIndex": 403,
+      "guid": "ab51e2ab-4f8e-47db-b3e2-dcc1635da68b",
+      "index": 165,
+      "isZeroPoint": false,
+      "startIndex": 356,
+      "text": "يوم الاثنين ثالث عشرين شهر ربيع الآخر سنة ستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 93,
+      "guid": "afcfca80-4d93-49e7-947d-c4d59d117c01",
+      "index": 159,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": "الشهرزوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 301,
+      "guid": "be85d358-bab8-47c3-8b39-cbf695fce0ee",
+      "index": 163,
+      "isZeroPoint": false,
+      "startIndex": 265,
+      "text": " أحمد بن حامد بن معالي الضرير الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 337,
+      "guid": "d5609f76-001e-4a8c-a54a-db089bbc2b9f",
+      "index": 164,
+      "isZeroPoint": false,
+      "startIndex": 312,
+      "text": "محمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "ee4c986d-a207-458a-8b94-4f783ab7348b",
+      "index": 161,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "أبو الرضا محمد بن عبد الرحمن بن إبراهيم المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام أبي حفص عمر بن محمد بن طبرزد الدارقزي بروايته عن الشهرزوري صاحبه الفقيه الإمام العالم محب الدين أبو المظفر يوسف بن إبراهيم بن سعد وأبو الرضا محمد بن عبد الرحمن بن إبراهيم المقدسيان والفقيه موفق الدين أبو زيد زياد بن حمدان والفقيه أحمد بن حامد بن معالي الضرير الحرانيان بقراءة محمد بن عبد الواحد المقدسي والخط له وذلك في يوم الاثنين ثالث عشرين شهر ربيع الآخر سنة ستمائة والحمد لله وحده"
+}

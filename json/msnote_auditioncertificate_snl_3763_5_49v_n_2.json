@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاضي أبو يعلى محمد بن الحسين بن محمد الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي يعلى الفراء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 128"
+      ],
+      "classmark": [
+        "3763/5"
+      ],
+      "folio_number": [
+        "49v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "6b4fbfc9-c36c-4d50-a103-2f45cba87889",
+      "startIndex": 124,
+      "text": "محمد بن محمد بن جبريل الدربندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "8e4d587a-45ec-497f-a1c3-6f51ef3d9a35",
+      "startIndex": 174,
+      "text": " أم الحسن فاطمة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 23,
+      "guid": "b7c3bc77-2fcf-4b83-aee5-2dd33682bc31",
+      "startIndex": 10,
+      "text": "النجيب الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "667"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "de4e2786-1d0e-43e4-bdfc-78cd642c58f6",
+      "startIndex": 196,
+      "text": " الأربعاء ثالث عشري جمادى الأولى سنة سبع وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 307,
+      "guid": "e88cf4c1-9cc9-4e09-9de3-2cb8c95d2a81",
+      "startIndex": 296,
+      "text": "محمد السروجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "fe96ceef-875d-42a0-a8db-33c8b3060bab",
+      "startIndex": 51,
+      "text": "الشريف عز الدين أبي القاسم أحمد بن محمد بن عبد الرحمن الحسيني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على النجيب الحراني خلا الورقة في وسطه بقراءة الشريف عز الدين أبي القاسم أحمد بن محمد بن عبد الرحمن الحسيني جماعة منهم محمد بن محمد بن جبريل الدربندي ومن خطه نقلت وابنته أم الحسن فاطمة في يوم الأربعاء ثالث عشري جمادى الأولى سنة سبع وستين وستماية وأجاز لهم المسمع جميع ما يجوز له روايته نقله محمد السروجي من الأصل"
+}

@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "زاهر بن طاهر بن محمد الشحامي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأحاديث الألف السباعيات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 93"
+      ],
+      "classmark": [
+        "3756/8"
+      ],
+      "folio_number": [
+        "87r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "27a78170-e200-4bfe-aefd-25f76e674a8f",
+      "index": 154,
+      "isZeroPoint": false,
+      "startIndex": 36,
+      "text": "أبي المجد زاهر بن أبي طاهر بن أبي غانم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "28796d42-bd64-4cf1-b037-f6797066090b",
+      "index": 156,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": "زاهر بن طاهر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "3e1ad9c0-14e0-4a98-8b76-111f0ca54371",
+      "index": 157,
+      "isZeroPoint": false,
+      "startIndex": 104,
+      "text": "أبو محمد عبد العزيز بن عبد الملك بن عثمان ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "3ea373a6-efb2-4ca6-b769-2e9f451ac79a",
+      "index": 159,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "أبو الفضل إسماعيل بن عمر بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "5ba738e8-47e3-4a62-9e80-bdce2cd42d4c",
+      "index": 160,
+      "isZeroPoint": false,
+      "startIndex": 200,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "721643fc-cf36-40cb-a8ac-82e0369da528",
+      "index": 161,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": "أحمد بن محمد بن عبد الصمد بن عبد الواحد بن علي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "606"
+        ]
+      },
+      "endIndex": 409,
+      "guid": "919732cf-28a0-4606-a2d8-d06f4fc490c4",
+      "index": 166,
+      "isZeroPoint": false,
+      "startIndex": 376,
+      "text": "في شهر جمادى الأولى سنة ست وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 267,
+      "guid": "91fd02b1-1e6d-4ee4-ae6a-0500dd454453",
+      "index": 162,
+      "isZeroPoint": false,
+      "startIndex": 264,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 340,
+      "guid": "9e0e9ced-c11f-49be-b529-539f0c5d9411",
+      "index": 164,
+      "isZeroPoint": false,
+      "startIndex": 309,
+      "text": "محمود بن محمد بن داود ابن ماشادة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "d9f73311-2941-4a4a-b929-b78e22e2157f",
+      "index": 158,
+      "isZeroPoint": false,
+      "startIndex": 152,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "efe4b6f0-9fb4-470d-b462-3096d1820343",
+      "index": 163,
+      "isZeroPoint": false,
+      "startIndex": 270,
+      "text": "مسعود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 374,
+      "guid": "fa292c15-ab82-4178-9ce4-273f8bbfd87f",
+      "index": 165,
+      "isZeroPoint": false,
+      "startIndex": 349,
+      "text": "محمد بن عبد الواحد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع الجزء الرابع والخامس على الشيخ أبي المجد زاهر بن أبي طاهر بن أبي غانم بسماعه من زاهر بن طاهر صاحبه أبو محمد عبد العزيز بن عبد الملك بن عثمان وأخوه محمد وأبو الفضل إسماعيل بن عمر بن أبي بكر وأخوه أحمد وأحمد بن محمد بن عبد الصمد بن عبد الواحد بن علي المقدسيون ومحمد ومسعود ابنا أحمد ابن مسعود بن الباغبان ومحمود بن محمد بن داود ابن ماشادة بقراءة محمد بن عبد الواحد المقدسي في شهر جمادى الأولى سنة ست وستماية"
+}

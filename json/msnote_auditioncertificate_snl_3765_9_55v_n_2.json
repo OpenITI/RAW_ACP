@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يعقوب بن يوسف الأصم"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة عن أبي العباس الأصم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 148"
+      ],
+      "classmark": [
+        "3765/9"
+      ],
+      "folio_number": [
+        "55v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 454,
+      "guid": "0dbb1218-c05e-4e56-a3a8-e4f7debf91c6",
+      "startIndex": 443,
+      "text": "حلب المحروسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "1b1c057b-ac9b-4be3-a9c6-d895f21e43fa",
+      "startIndex": 122,
+      "text": "أبي الفضل الطوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "631"
+        ]
+      },
+      "endIndex": 440,
+      "guid": "53ee1709-9c79-4e43-a506-e69d419b20dc",
+      "startIndex": 398,
+      "text": "الخميس خامس صفر من سنة إحدى وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "6a683672-bb4b-484c-8b76-0634e7d47fd9",
+      "startIndex": 332,
+      "text": "عبد الله بن محمد بن أحمد التاذفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 301,
+      "guid": "a015dfaf-a9b4-4714-8784-e719707896f1",
+      "startIndex": 241,
+      "text": "محيي الدين أبو محمد عبد الله بن إسحق بن هارون بن إدريس اللمطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "ce251b57-48f6-4395-8fd0-7edd362f8bed",
+      "startIndex": 64,
+      "text": "أبي المظفر حامد بن أبي العميد بن أميري القزويني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "e77a6ead-73ca-4905-927e-21008d88af49",
+      "startIndex": 146,
+      "text": "أمين الدين أبي القاسم  عبد الرحيم بن أبي جعفر أحمد بن علي بن طلحة الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم شمس الدين بقية السلف أبي المظفر حامد بن أبي العميد بن أميري القزويني بسماعه من أبي الفضل الطوسي بقراءة أمين الدين أبي القاسم  عبد الرحيم بن أبي جعفر أحمد بن علي بن طلحة الأنصاري الإمام العالم الثقة محيي الدين أبو محمد عبد الله بن إسحق بن هارون بن إدريس اللمطي والعبد الفقير إلى الله تعالى عبد الله بن محمد بن أحمد التاذفي الحلبي وهذا خطه وصح ذلك وثبت يوم الخميس خامس صفر من سنة إحدى وثلاثين وستمائة بحلب المحروسة والحمد لله حق حمده"
+}

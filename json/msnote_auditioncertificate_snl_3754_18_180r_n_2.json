@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 80"
+      ],
+      "classmark": [
+        "3754/18"
+      ],
+      "folio_number": [
+        "180r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "karkh"
+          ]
+        ]
+      },
+      "endIndex": 252,
+      "guid": "0af8d01f-feeb-4603-a4ff-ddbaf7624b05",
+      "index": 128,
+      "isZeroPoint": false,
+      "startIndex": 248,
+      "text": "الكرخ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "3e1846ac-d076-4bfe-bc35-766906d9c4dd",
+      "index": 125,
+      "isZeroPoint": false,
+      "startIndex": 154,
+      "text": "أبو القاسم عبد السلام بن محمد بن أحمد الجيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "9"
+        ],
+        "year": [
+          "532"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "58fc7527-e51e-40b5-9fe9-fe728df0aca1",
+      "index": 127,
+      "isZeroPoint": false,
+      "startIndex": 207,
+      "text": "شهر رمضان سنة اثنتين وثلاثين [وخمسماية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "c0aa25f8-1580-4bdb-a76c-ba067a612626",
+      "index": 123,
+      "isZeroPoint": false,
+      "startIndex": 38,
+      "text": "أبي إسحق البدر إبراهيم بن محمد بن منصور بن عمر الكرخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "d371705a-f689-4ec1-9ba1-633499ca47c5",
+      "index": 124,
+      "isZeroPoint": false,
+      "startIndex": 99,
+      "text": "عبد الكريم بن محمد بن منصور السمعاني",
+      "type": "person"
+    }
+  ],
+  "text": " سمع الجزء كله من الشيخ الإمام الأوحد أبي إسحق البدر إبراهيم بن محمد بن منصور بن عمر الكرخي بقراءة عبد الكريم بن محمد بن منصور السمعاني عليه الشيخ الإمام أبو القاسم عبد السلام بن محمد بن أحمد الجيلي وذلك في شهر رمضان سنة اثنتين وثلاثين [وخمسماية] بالكرخ"
+}

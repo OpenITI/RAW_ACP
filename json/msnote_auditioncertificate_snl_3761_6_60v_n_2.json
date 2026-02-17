@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "60v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "d5be2bf4-87d8-451c-9eb1-aa947d78bce8"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 500,
+      "guid": "11a2d171-79ca-4b0b-a98c-1d08bb211bfd",
+      "startIndex": 479,
+      "text": "فرج بن عبد الله الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 433,
+      "guid": "344fb2de-e16d-4706-bed4-1a0228dbc17b",
+      "startIndex": 404,
+      "text": "برهان الدين أبو الحسين إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 772,
+      "guid": "44a27e45-059c-4ddf-ad54-6a7bbd714941",
+      "startIndex": 762,
+      "text": "منزله بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 629,
+      "guid": "53c4554d-a53e-4bf5-bec4-9050d6a376bb",
+      "startIndex": 610,
+      "text": "جعفر بن محمد العباسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 594,
+      "guid": "5f0989bd-b24a-479d-8b98-b3ff50be32e6",
+      "startIndex": 553,
+      "text": "أبو إسحق إبراهيم بن محمد بن أبي بكر القفصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "8766c78e-a6c1-4b1e-995f-45ebbf751587",
+      "startIndex": 182,
+      "text": "أبي الفتح بن البيضاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "96ec8c98-1bb2-4645-b011-54e990d81c22"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 550,
+      "guid": "9c614124-4e81-477a-a823-a2d3c325b096",
+      "startIndex": 503,
+      "text": "أبو عبد الله الخضر بن عبد الرحمن بن الخضر السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "9963bce6-7d2f-4039-95d2-71bae7bf5d04"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "9dc7e1f9-c1d8-4d8a-9ac6-797db3b28a44",
+      "startIndex": 95,
+      "text": "أبي اليمن زيد بن الحسن بن زيد بن الحسن الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "598"
+        ]
+      },
+      "endIndex": 755,
+      "guid": "cb30676d-0f10-4018-b23c-06515a50a8ce",
+      "startIndex": 703,
+      "text": " يوم الثلاثاء سادس عشر محرم سنة ثماني وتسعين وخمس مئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 383,
+      "guid": "d04f048b-8575-4f61-bbad-212ebc6150d5",
+      "startIndex": 304,
+      "text": "تاج الدين أبي الحسن محمد بن الشيخ الشهيد أبي جعفر أحمد بن علي بن أبي بكر القرطبي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء كله على الشيخ الأجل الإمام الأوحد العالم الفاضل الصدر الكامل تاج الدين حجة العرب أبي اليمن زيد بن الحسن بن زيد بن الحسن الكندي أبقاه الله مديدا بسماعه من القاضي الأرشد أبي الفتح بن البيضاوي قراءة من أصل سماعه ومنه نقل هذا الفرع وعورض به بقراءة صاحبه الشيخ الأجل الفقيه الإمام العالم الأوحد تاج الدين أبي الحسن محمد بن الشيخ الشهيد أبي جعفر أحمد بن علي بن أبي بكر القرطبي وأخوه الفقيه الأجل برهان الدين أبو الحسين إسماعيل أثابهما الله مناهما وحفظهما وكلاهما وفتاهما فرج بن عبد الله الحبشي وأبو عبد الله الخضر بن عبد الرحمن بن الخضر السلمي وأبو إسحق إبراهيم بن محمد بن أبي بكر القفصي وكاتب الأسماء جعفر بن محمد العباسي عفا الله عنه وبإفادته سمع الجماعة هذا الجزء على الشيخ أبقاه الله وذلك في يوم الثلاثاء سادس عشر محرم سنة ثماني وتسعين وخمس مئة وصح بمنزله بدمشق والحمد لله وحده وصلى الله على سيدنا محمد النبي وآله وسلم تسليما كثيرا دائما"
+}

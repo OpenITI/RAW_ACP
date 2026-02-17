@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "تمام بن محمد بن عبد الله بن جعفر بن الجنيد البجلي الرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "إسلام زيد بن حارثة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 137"
+      ],
+      "classmark": [
+        "3764/1"
+      ],
+      "folio_number": [
+        "10r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 252,
+      "guid": "29d02a0b-6f46-464f-8d12-1b32e419a447",
+      "startIndex": 229,
+      "text": "دمشق في دار الشيخ المسمع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "582"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "61e62c63-5103-49cd-8d96-fe293bc5464a",
+      "startIndex": 188,
+      "text": "سادس شعبان سنة اثنتين وثمانين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "8c547abb-af43-4f3e-8a54-4e206c701c35",
+      "startIndex": 133,
+      "text": "أبوالعباس أحمد بن إبراهيم بن أبي العلاء الحمصي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "d8b54480-6f7e-4610-aa49-1041db5d0abd",
+      "startIndex": 37,
+      "text": "ضياء الدين أبي محمد عبد الرحمن بن علي بن المسلم بن الحسين اللخمي الخرقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "f552e251-8aeb-4219-94e6-c95a5d44b04f",
+      "startIndex": 268,
+      "text": "الخضر بن الحسين بن الخضر بن عبدان",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الأمين ضياء الدين أبي محمد عبد الرحمن بن علي بن المسلم بن الحسين اللخمي الخرقي رضي الله عنه وسمع الشيخ أبوالعباس أحمد بن إبراهيم بن أبي العلاء الحمصي وذلك في سادس شعبان سنة اثنتين وثمانين وخمس مائة بدمشق في دار الشيخ المسمع وصح وثبت وكتب الخضر بن الحسين بن الخضر بن عبدان"
+}

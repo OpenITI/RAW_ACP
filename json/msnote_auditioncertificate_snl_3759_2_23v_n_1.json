@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن العزيز البغوي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حكايات أبي بسطام"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/2"
+      ],
+      "folio_number": [
+        "23v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 327,
+      "guid": "2c786f47-ca52-46c8-a15d-494734c1da44",
+      "startIndex": 273,
+      "text": "يوم الاثنين ثاني وعشرين من رمضان سنة ثمان وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 355,
+      "guid": "3f72788d-8811-41e3-bd39-459e03f3933d",
+      "startIndex": 330,
+      "text": "مسجد المسمع [...] بالقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+},
+      "endIndex": 484,
+      "guid": "4131e8f7-50dc-4964-b365-5bba27d93b50",
+      "startIndex": 436,
+      "text": "صحيح ذلك وكتبه يعقوب بن بدران بن منصور في تاريخه ",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "6d7c74f5-9712-4d31-a834-ee67866a2494",
+      "startIndex": 178,
+      "text": "ابن اللتي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "7239d3d2-b0cc-466d-9418-70d9217dfd2b",
+      "startIndex": 204,
+      "text": "نجم الدين أبو حفص عمر بن طالب بن يوسف العينتابي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 423,
+      "guid": "9cd58698-a8ac-4c84-9d0c-50906adcffac",
+      "startIndex": 362,
+      "text": "عبد الله بن أحمد بن المؤيد علي بن عامر بن يحيى المقدسي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "b53acd8d-6bbc-407b-a709-4f494ee965ba",
+      "startIndex": 36,
+      "text": " نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "c60c1d56-9e3e-4615-be30-d0628ca1e908",
+      "startIndex": 119,
+      "text": " تقي الدين أبي موسى يعقوب بن بدر الدين المقرئ",
+      "type": "person"
+    }
+  ],
+  "text": "سمعته أجمع بقراءة صاحبه الشيخ المفيد نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي على الشيخ الجليل الفاضل تقي الدين أبي موسى يعقوب بن بدر الدين المقرئ بحق سماعه من ابن اللتي بسماعه فيه وسمع نجم الدين أبو حفص عمر بن طالب بن يوسف العينتابي وصح لي ولهما وثبت في يوم الاثنين ثاني وعشرين من رمضان سنة ثمان وستين وستماية بمسجد المسمع [...] بالقاهرة وكتب عبد الله بن أحمد بن المؤيد علي بن عامر بن يحيى المقدسي الشافعي حامدا الله صحيح ذلك وكتبه يعقوب بن بدران بن منصور في تاريخه "
+}

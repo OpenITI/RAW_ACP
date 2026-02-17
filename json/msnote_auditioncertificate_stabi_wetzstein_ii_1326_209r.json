@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسماعيل البخاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1326"
+      ],
+      "folio_number": [
+        "209r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN769639313/1200/0/00000421.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00023752"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "116ede5d-1ea7-49ae-804b-c05960d2e524",
+      "startIndex": 182,
+      "text": "محمد بن حمزة بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "7626e674-0a8b-4f72-ae96-2cb723749254",
+      "startIndex": 51,
+      "text": " شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "658"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "f95ab5e3-802d-425a-a04d-9a014c86b640",
+      "startIndex": 141,
+      "text": " في شهر صفر سنة ثمان وخمسين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت هذا المجلد من أوله إلى ها هنا على الشيخ الإمام شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد بحق سماعه فيه وذلك في مجالس آخرها في شهر صفر سنة ثمان وخمسين وستمائة وكتب محمد بن حمزة بن أحمد المقدسي وصلى الله على سيدنا محمد وآله."
+}

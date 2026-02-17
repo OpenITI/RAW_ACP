@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/11"
+      ],
+      "folio_number": [
+        "128v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "044bc42f-65e3-4881-9a9d-80aa27119831",
+      "startIndex": 88,
+      "text": "أبي محمد المبارك بن أحمد بن بركة الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "0e963877-4756-4848-ba6c-8261248ef6c9",
+      "startIndex": 253,
+      "text": "سليمان ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "541"
+        ]
+      },
+      "endIndex": 347,
+      "guid": "30cd2a5e-194c-476c-be5c-e940ca58d6ad",
+      "startIndex": 298,
+      "text": "الجمعة خامس ربيع الآخر سنة إحدى وأربعين [وخمسماية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "4114352c-6bbc-4c82-a041-334465184c4b",
+      "startIndex": 217,
+      "text": "عمر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "51c72d14-1bc1-4fea-99b8-28602d14b588",
+      "startIndex": 361,
+      "text": "ابن مشرف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "5b2e5a5b-13b3-418b-9711-842c84f7f134",
+      "startIndex": 261,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "7bf5238f-c258-4884-89e7-789eca55000c",
+      "startIndex": 266,
+      "text": "أحمد بن يحيى بن بركة الدبيقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "a97727e5-ded0-4eed-9dbc-8927260eb7e5",
+      "startIndex": 137,
+      "text": " أبي الغنائم محمد بن علي بن الحسن بن أبي عثمان الدقاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "cb893fcd-86b4-4200-9810-8c50c240b87d",
+      "startIndex": 198,
+      "text": "محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "cc267619-c6ad-46ae-9846-302a4000e525",
+      "startIndex": 222,
+      "text": "يوسف بن محمد بن الموصلي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع السادس والسابع والثامن والتاسع من حديث المحاملي برواية أبي محمد البيع عنه على الشيخ أبي محمد المبارك بن أحمد بن بركة الكندي بسماعه من أبي الغنائم محمد بن علي بن الحسن بن أبي عثمان الدقاق بقراءة محمد بن طبرزد أخوه عمر ويوسف بن محمد بن الموصلي وأخواه سليمان وعلي وأحمد بن يحيى بن بركة الدبيقي في الجمعة خامس ربيع الآخر سنة إحدى وأربعين [وخمسماية] نقلته من خط ابن مشرف من نسخته"
+}

@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن الفضل التيمي الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "جزء فيه أحاديث مسلسلات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 180"
+      ],
+      "classmark": [
+        "3771/10"
+      ],
+      "folio_number": [
+        "154v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 194,
+      "guid": "03aeccf6-7b09-4186-9bd8-02ef9222b903",
+      "startIndex": 179,
+      "text": "منزل المسمع بحلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "392c82d1-d51b-41b2-bf5d-65d37f73031f",
+      "startIndex": 78,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "6d13a89e-af9b-40d4-8a1c-67991afd49b9",
+      "startIndex": 97,
+      "text": "محمد بن محمد بن حسين الصوفي الكنجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "649"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "ab3a2323-edc0-45cb-9ae1-c61aeae986a3",
+      "startIndex": 199,
+      "text": "التاريخ المذكور",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "c1292d63-2aa9-437e-a218-de51c355a3f6",
+      "startIndex": 133,
+      "text": "محمد بن عبيد الله بن هارون الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "cc15c305-b818-459e-8a9c-9cd7ee23899e",
+      "startIndex": 220,
+      "text": "ابن القسطلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "ccf4bb1f-edc1-4fb9-ad5d-1d712ae9af90",
+      "startIndex": 38,
+      "text": "شرف الدين أبي طالب ابن العجمي",
+      "type": "person"
+    }
+  ],
+  "text": "ثم قرأت في هذا اليوم على الشيخ الإمام شرف الدين أبي طالب ابن العجمي بسماعه من الثقفي بشرطه فسمعه محمد بن محمد بن حسين الصوفي الكنجي ومحمد بن عبيد الله بن هارون الإشبيلي وصح وثبت بمنزل المسمع بحلب في التاريخ المذكور كتبه ابن القسطلاني والحمد لله وحده وصلواته على محمد وآله وصحبه وسلامه"
+}

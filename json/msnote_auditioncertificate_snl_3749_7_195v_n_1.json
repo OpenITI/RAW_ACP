@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عشرة أحاديث عن عشرة مشايخ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 59 "
+      ],
+      "classmark": [
+        "3749/7"
+      ],
+      "folio_number": [
+        "195v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 80,
+      "guid": "0c2ab31f-d5cb-4cdd-a008-882f9287d43b",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 73,
+      "text": "ابن خليل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "205f5a15-6ea5-474e-a4b7-f28f7e7cffd3",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 212,
+      "text": "محمد بن يوسف بن عبد القادر الخليلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 384,
+      "guid": "21096269-fa3e-4b1d-8121-6b12508cf69e",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 369,
+      "text": " شهاب الدين أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "3bc1b1a6-38b2-4124-9c44-5375aedd5eaa",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 96,
+      "text": "محب الدين عبد الله بن أحمد بن عبد الله بن المحب المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "725cea14-771e-49e9-8b90-767e8fed8db1",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "محمود بن خليفة بن محمد بن خليفة المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "a56a6c88-58f5-4042-b1a7-d71702778e99",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "عز الدين إبراهيم بن صالح بن هاشم بن العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "718"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "b06cdb8d-8579-448c-84b3-3a7347d57d18",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 288,
+      "text": "يوم الثلثا غرة صفر سنة ثماني عشرة وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "bayatera_mosque"
+          ]
+        ]
+      },
+      "endIndex": 349,
+      "guid": "bf855c78-1e72-4095-b9a9-eb0ce1428d0f",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 331,
+      "text": "مسجد البياطرة بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "f73eb917-6f55-40c4-b1b4-1e7bbfac65e4",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 248,
+      "text": "محمد بن طغريل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "fdcdb456-21c5-4500-97e5-31a6db31c790",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على عز الدين إبراهيم بن صالح بن هاشم بن العجمي بسماعه نقلا فيه من ابن خليل بقراءة الإمام محب الدين عبد الله بن أحمد بن عبد الله بن المحب المقدسي ولده أبو بكر محمد ومحمود بن خليفة بن محمد بن خليفة المنبجي ومحمد بن يوسف بن عبد القادر الخليلي ومحمد بن طغريل وكتبه في الأصل وآخرون وصح يوم الثلثا غرة صفر سنة ثماني عشرة وسبعمية بمسجد البياطرة بدمشق نقلته من خط الإمام شهاب الدين أحمد إمام المشهد"
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/76600419"
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 709"
+      ],
+      "folio_number": [
+        "1v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.item.r=%22arabe%20709%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "172c5518-115e-4d77-82bf-f6e7645be176",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "أبي الفتح عبد الملك الكروخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "owner"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "1a8d3696-dbfe-40ed-a606-946dce5d6d4c",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 56,
+      "text": "أبي الحسن علي [بن أحمد بن محمد بن كوثر المحاربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "571"
+        ]
+      },
+      "endIndex": 310,
+      "guid": "25f857ad-f82c-4136-8435-6ea706676650",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 266,
+      "text": "في شهر جمادى الأولى سنة إحدى وسبعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "ca55ca2d-db67-49a1-8649-73d5d6179af4",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 312,
+      "text": "واجب بن محمد بن عمر بن محمد بن واجب القيسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ بعض هذا الكتاب على صاحبه الفقيه الإمام الفاضل الزكي أبي الحسن علي [بن أحمد بن محمد بن كوثر المحاربي] أعزه الله بطاعته وحدثني بسائره إجازة ومناولة عن شيخه الإمام أبي الفتح عبد الملك الكروخي رحمه │الله│ بسنده المذكور في أوله إلى المؤلف رضي الله عنه وكتب هذا [...] في شهر جمادى الأولى سنة إحدى وسبعين وخمس ماية واجب بن محمد بن عمر بن محمد بن واجب القيسي غفر الله له."
+}

@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "189r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f193.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f193.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 359,
+      "guid": "0c54f4e3-0329-4dd0-8389-3b18c1caa8da",
+      "index": 361,
+      "isZeroPoint": false,
+      "startIndex": 326,
+      "text": "عرفة بن أحمد بن عبد الرحمن بن منبه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "25e91845-d16e-476b-97f3-698f5dd407e1",
+      "index": 358,
+      "isZeroPoint": false,
+      "startIndex": 193,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "539"
+        ]
+      },
+      "endIndex": 420,
+      "guid": "274a85f9-7399-4ec3-86cc-187840f573ee",
+      "index": 362,
+      "isZeroPoint": false,
+      "startIndex": 369,
+      "text": "يوم الجمعة سادس عشر صفر من سنة تسع وثلاثين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "386b079e-7b37-4d44-97f3-6540560635ee",
+      "index": 355,
+      "isZeroPoint": false,
+      "startIndex": 87,
+      "text": "ابن سكينة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "6753260f-245e-4a01-866c-9b8886025e5f",
+      "index": 359,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "أبو الفرج نصر بن محمد بن خميس بن الزراد المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "dar_al-khilafa"
+          ]
+        ]
+      },
+      "endIndex": 470,
+      "guid": "82ba4dfd-8adc-4492-a7fb-f6a16a9e99fc",
+      "index": 363,
+      "isZeroPoint": false,
+      "startIndex": 425,
+      "text": "دار الخلافة بباب الحرم بالجانب الشرقي من بغداد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "8814d616-0411-4502-bf36-56d6255cbd82",
+      "index": 357,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "أبي البقاء محمد بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "939872e1-c511-444b-840f-76ce9b97171f",
+      "index": 356,
+      "isZeroPoint": false,
+      "startIndex": 100,
+      "text": "الصيدلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "a51917fb-adf7-4a24-b666-e1e674a30206",
+      "index": 354,
+      "isZeroPoint": false,
+      "startIndex": 37,
+      "text": "أبي حفص عمر بن ظفر بن أحمد المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 304,
+      "guid": "b93d0157-980b-4596-b6c0-9700280508a3",
+      "index": 360,
+      "isZeroPoint": false,
+      "startIndex": 246,
+      "text": "أبو القاسم عبد الرحمن بن أبي حامد عبد الرحمن بن عصية الحربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 540,
+      "guid": "d36f1108-71be-4811-b977-294705155e7e",
+      "index": 364,
+      "isZeroPoint": false,
+      "startIndex": 517,
+      "text": "إبراهيم بن محاسن بن شادي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الإمام الأوحد أبي حفص عمر بن ظفر بن أحمد المقرئ عرضًا بسماعه من ابن سكينة عن الصيدلاني بقراءة صاحب الجزء الشيخ الإمام العالم الأديب أبي البقاء محمد بن محمد بن طبرزد أخوه عمر وأبو الفرج نصر بن محمد بن خميس بن الزراد المقرئ وأبو القاسم عبد الرحمن بن أبي حامد عبد الرحمن بن عصية الحربي وآخرون وكاتب السماع عرفة بن أحمد بن عبد الرحمن بن منبه وذلك في يوم الجمعة سادس عشر صفر من سنة تسع وثلاثين وخمس مائة في دار الخلافة بباب الحرم بالجانب الشرقي من بغداد بمدينة السلام وصح وثبت نقله من الأصل مختصرًا إبراهيم بن محاسن بن شادي بإربل وصح وثبت"
+}

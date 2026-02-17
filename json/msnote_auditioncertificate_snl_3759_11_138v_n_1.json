@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن هارون الضبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الضبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/11"
+      ],
+      "folio_number": [
+        "138v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "23eb85b5-4e19-4b05-a3c2-af2f86bc540c",
+      "startIndex": 26,
+      "text": "عز الدين محمد بن عبد الغني بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "52bb4b27-fe97-40d7-a51b-bc5eeb518f55",
+      "startIndex": 211,
+      "text": "يوسف بن عبد المنعم بن نعمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "536"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "c89878d9-2c40-468d-8d1c-c0fe934775d6",
+      "startIndex": 171,
+      "text": "رابع محرم سنة ست وثلاثين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "d988a558-a325-437b-98a0-52b5d1fe896d",
+      "startIndex": 107,
+      "text": "أبي محمد يحيى بن علي بن الطراح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "da74aded-75ec-447f-a80f-5ef506b1a4a6",
+      "startIndex": 164,
+      "text": "عمر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "e7aed157-6e1f-4d7d-ad5f-01d0ca905c99",
+      "startIndex": 145,
+      "text": "محمد بن طبرزد",
+      "type": "person"
+    }
+  ],
+  "text": "رأيت على الأصل بخط الحافظ عز الدين محمد بن عبد الغني بن عبد الواحد رضي الله عنه ما صورته سمع هذا الجزء على أبي محمد يحيى بن علي بن الطراح بقراءة محمد بن طبرزد أخوه عمر في رابع محرم سنة ست وثلاثين وخمس ماية نقله يوسف بن عبد المنعم بن نعمة "
+}

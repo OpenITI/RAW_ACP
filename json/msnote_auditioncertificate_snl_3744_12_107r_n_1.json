@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن إبراهيم بن أحمد المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث وحكايات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 36"
+      ],
+      "classmark": [
+        "3744/12"
+      ],
+      "folio_number": [
+        "107r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 184,
+      "guid": "163e0e4d-3b74-4542-adc0-d7ff025cadef",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 176,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "49563bb4-fed4-42ad-823a-349e85fc90f5",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 64,
+      "text": "نور الدين أبو بكر أحمد بن علي بن محمد بن أبي الفتح ابن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "755"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "66022379-9f50-4fe2-9c34-4e2a3e1d22dd",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 131,
+      "text": " يوم الجمعة عاشر صفر سنة خمس وخمسين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 41,
+      "guid": "738ed57b-10a8-4e61-a3f3-724b8bd06374",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "محمد بن إسماعيل بن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "88f733bf-41c8-4b2b-a902-6cfadfcff9a8",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 53,
+      "text": "مظفر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "9dcd3a82-d7f2-4ae5-b746-0577ff05a6ba",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 191,
+      "text": "محمد بن عبد الله بن أحمد بن المحب ",
+      "type": "person"
+    }
+  ],
+  "text": " قرأته على الشيخ محمد بن إسماعيل بن الخباز بسماعه من مظفر فسمعه نور الدين أبو بكر أحمد بن علي بن محمد بن أبي الفتح ابن النحاس وغيره يوم الجمعة عاشر صفر سنة خمس وخمسين وسبعمية بجامع دمشق كتبه محمد بن عبد الله بن أحمد بن المحب والحمد لله"
+}

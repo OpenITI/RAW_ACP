@@ -1,0 +1,601 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "40v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "113416fe-f8f2-46fd-8088-eb51356eb52d",
+      "startIndex": 126,
+      "text": "كمال الدين أبي إسحق إبراهيم بن الوزير نجيب الدين أبي العباس أحمد بن أبي الطاهر إسماعيل بن فارس التميمي السعدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 487,
+      "guid": "12134735-95ca-47bd-b5b1-67f9e14b7346",
+      "startIndex": 451,
+      "text": "أبو القاسم بن سليمان بن محمود الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1088,
+      "guid": "1240cd5a-54b2-4717-ab67-ba524da8abda",
+      "startIndex": 1031,
+      "text": "أبو بكر أحمد بن الشيخ شمس الدين محمد بن عبد الرحيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 448,
+      "guid": "27ba0d0c-e46c-4ac5-af79-76d205cfb1af",
+      "startIndex": 409,
+      "text": "الشهاب أحمد بن أسعد بن أحمد الضبي المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 807,
+      "guid": "290b5e78-6be6-4fae-a5a2-770d2f23e1da",
+      "startIndex": 777,
+      "text": "العماد إسماعيل بن أيبك بن [كذا]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 875,
+      "guid": "4308bf59-6b72-4a58-aa6f-330050226c4d",
+      "startIndex": 860,
+      "text": "لؤلؤ بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 774,
+      "guid": "4bd5d4ab-f66f-48e9-86ab-50dc292ec646",
+      "startIndex": 735,
+      "text": "محمد بن أحمد بن عبد الله بن راجح المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 364,
+      "guid": "55de4027-c624-40fe-80e4-5f4d3f2c2f73",
+      "startIndex": 358,
+      "text": "إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 355,
+      "guid": "66cfa791-0851-4252-8e70-fd26b4431ce7",
+      "startIndex": 348,
+      "text": " إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1275,
+      "guid": "66db98aa-44da-498c-91ec-a53b5e576a4a",
+      "startIndex": 1240,
+      "text": "الجامع المظفري بسفح قاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 553,
+      "guid": "6f8674f2-688a-4882-bdcc-c5a61a2f2d78",
+      "startIndex": 546,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1011,
+      "guid": "7c521c86-89fe-4bc4-9299-e42b32e3f4ae",
+      "startIndex": 977,
+      "text": "محمد بن حسام بن درباس الكردي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1328,
+      "guid": "80609359-c919-4ca0-a4f5-436c3a37baba",
+      "startIndex": 1291,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 835,
+      "guid": "8060f1d8-25ce-466d-ac1d-45dc4b84e50f",
+      "startIndex": 816,
+      "text": "سعد الدين عبد الحميد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 732,
+      "guid": "85ae9722-6f73-400a-950b-b8f59791087d",
+      "startIndex": 713,
+      "text": "راشد بن عفيف بن راشد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 635,
+      "guid": "869e4261-03c8-4443-bc19-bf9c0b4b773c",
+      "startIndex": 608,
+      "text": "أحمد بن سامة بن كوكب السوادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1125,
+      "guid": "878be1c1-572c-4187-bb9d-f249f6d0ca36",
+      "startIndex": 1095,
+      "text": "عبد الخالق بن مطر بن عبد الرزاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "9702cf01-efb7-4d7b-a604-8709cd8d611f",
+      "startIndex": 249,
+      "text": " أبي اليمن الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "666"
+        ]
+      },
+      "endIndex": 1237,
+      "guid": "a0ddca34-c70c-46b4-95d9-c51cdd80b0ea",
+      "startIndex": 1197,
+      "text": " في العشرين من شعبان سنة ست وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 710,
+      "guid": "b4c3db51-2b6a-456d-829f-09fc380adfda",
+      "startIndex": 684,
+      "text": "أحمد بن حمود بن عمر الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 968,
+      "guid": "bc7c1fe4-613b-44c2-b768-a58941fe0b06",
+      "startIndex": 944,
+      "text": "يحيى بن علي بن عبد المؤمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 935,
+      "guid": "bd94f0f8-14b4-4e51-8d62-e429a33fb87d",
+      "startIndex": 878,
+      "text": "شمس الدين محمد بن تاج الدين عبد الله بن أحمد القرشي الأموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 851,
+      "guid": "c3427564-c021-4626-a0ff-193a7fb22085",
+      "startIndex": 838,
+      "text": "شمس الدين محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1152,
+      "guid": "c652ea11-e5d3-4583-a6ac-33deb89bc693",
+      "startIndex": 1128,
+      "text": "قاسم بن عمر بن أبي القاسم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 406,
+      "guid": "cd484d2a-3c8f-41bf-bf31-741c67883ee5",
+      "startIndex": 371,
+      "text": "الفخر عثمان بن محمد بن عثمان التوزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 538,
+      "guid": "cec8d85e-25a0-4736-9d77-b6797b2a4762",
+      "startIndex": 495,
+      "text": "نور الدين علي بن عمر بن شبل الحميري الصنهاجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1181,
+      "guid": "df7a0e40-5420-4a43-b143-a6076904981f",
+      "startIndex": 1163,
+      "text": "محمد بن خضر السوادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 340,
+      "guid": "ede5ea8b-db9c-41d5-a9be-28cbc440eee5",
+      "startIndex": 287,
+      "text": "نجم الدين أبي إبراهيم موسى بن إبراهيم بن يحيى الشقراوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 664,
+      "guid": "fc457644-6034-4322-a045-d8bdc8392beb",
+      "startIndex": 647,
+      "text": "محمد بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          "8377a26c-27a3-425e-870d-e2234a8b4edd"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 605,
+      "guid": "fda00df9-4ff6-4129-9997-5a55f8eaf10e",
+      "startIndex": 556,
+      "text": "النجم محمد بن عبد الحميد بن عبد الله بن خلف القرشي",
+      "type": "person"
+    }
+  ],
+  "text": " سمعت جميع هذه الأمالي لأبي الحسين بن سمعون الواعظ وتشتمل من هذه النسخة على جزئين على الشيخ الإمام العالم الأصيل المسند الصدر كمال الدين أبي إسحق إبراهيم بن الوزير نجيب الدين أبي العباس أحمد بن أبي الطاهر إسماعيل بن فارس التميمي السعدي بسماعه لها من أبي اليمن الكندي بسنده بقراءة الفقيه نجم الدين أبي إبراهيم موسى بن إبراهيم بن يحيى الشقراوي وولداه إبراهيم وإسماعيل حضر والفخر عثمان بن محمد بن عثمان التوزري والشهاب أحمد بن أسعد بن أحمد الضبي المصري وأبو القاسم بن سليمان بن محمود الواسطي أبوه ونور الدين علي بن عمر بن شبل الحميري الصنهاجي وابنه عبد الله والنجم محمد بن عبد الحميد بن عبد الله بن خلف القرشي وأحمد بن سامة بن كوكب السوادي وابن أخيه محمد بن عبد الرحمن في السنة الخامسة وأحمد بن حمود بن عمر الحراني وراشد بن عفيف بن راشد ومحمد بن أحمد بن عبد الله بن راجح المقدسي والعماد إسماعيل بن أيبك بن [كذا] وولداه سعد الدين عبد الحميد وشمس الدين محمد وفتاهم لؤلؤ بن عبد الله وشمس الدين محمد بن تاج الدين عبد الله بن أحمد القرشي الأموي والشيخ يحيى بن علي بن عبد المؤمن والشيخ محمد بن حسام بن درباس الكردي الصوفي SNL, 3754/8, 41r وأبو بكر أحمد بن الشيخ شمس الدين محمد بن عبد الرحيم المقدسي حضر وعبد الخالق بن مطر بن عبد الرزاق وقاسم بن عمر بن أبي القاسم وابن عمه محمد بن خضر السواديان وصح ذلك وثبت في العشرين من شعبان سنة ست وستين وستماية بالجامع المظفري بسفح قاسيون ظاهر دمشق المحروسة كتبه علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه ورفق به وأجاز لهم المسمع جميع ما يجوز له روايته بشرطه متلفظا به والحمد لله وحده وصلى الله على سيدنا محمد نبيه وآله وصحبه وسلم"
+}

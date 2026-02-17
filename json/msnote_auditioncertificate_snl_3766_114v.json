@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبد الملك بن محمد بن عبد الله بن بشران الزاهد البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن بشران"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 154"
+      ],
+      "classmark": [
+        "3766"
+      ],
+      "folio_number": [
+        "114v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "19ff33a6-71ae-4a8a-b0f5-d63d798c9b84",
+      "startIndex": 124,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "4db393f7-fba4-44d1-9b92-c4e97cfcf5eb",
+      "startIndex": 80,
+      "text": "أبي محمد عبد الغني بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "8d73d0f5-b29b-4b9e-b257-dbb110bc734f",
+      "startIndex": 149,
+      "text": "محمد بن عمر بن أبي بكر المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "573"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "accb4c93-10cd-4fde-8b0e-1673e88595f4",
+      "startIndex": 183,
+      "text": "ربيع الأول سنة ثلاث وسبعين وخمس ماية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت من هذا المجلد هذا المجلس الذي آخره \"فقال طلحة صدقت\" على خالي الإمام الحافظ أبي محمد عبد الغني بن عبد الواحد المقدسي عن السلفي معارضة بأصلي وكتب محمد بن عمر بن أبي بكر المقدسي في ربيع الأول سنة ثلاث وسبعين وخمس ماية والحمد لله وحده وصلى الله على محمد وآله"
+}

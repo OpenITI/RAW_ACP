@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن السكيت، يعقوب بن إسحق"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "إصلاح المنطق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "RBME Árabe 112"
+      ],
+      "folio_number": [
+        "1r"
+      ],
+      "image_link": [
+        "https://imagenes.patrimonionacional.es/iiif/2/Arabe112%2FArabe112_0005.jpg/full/1654,/0/default.jpg"
+      ],
+      "library": [
+        "Real Biblioteca del Monasterio de El Escorial"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://rbmecat.patrimonionacional.es/cgi-bin/koha/opac-detail.pl?biblionumber=62092"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "dca1a0ab-e8b1-49aa-afb6-fc6f82f6fb9a",
+      "startIndex": 88,
+      "text": "جعفر بن محمد بن مكي بن أبي طالب القيسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami",
+          "reader"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "dd0b1b7f-a0a6-4a0c-a03a-0901321cf6fe",
+      "startIndex": 26,
+      "text": "أبو محمد عبد الله بن إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "531"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "ec2835de-8433-4896-b399-761e95962955",
+      "startIndex": 139,
+      "text": " جمادى الأولى سنة إحدى وثلاثين وخمس ماية",
+      "type": "date"
+    }
+  ],
+  "text": "سمع عليَّ هذا الكتاب أجمع أبو محمد عبد الله بن إسماعيل أكرمه الله تعالى قال هذه المقالة جعفر بن محمد بن مكي بن أبي طالب القيسي وكتب بيده في جمادى الأولى سنة إحدى وثلاثين وخمس ماية"
+}

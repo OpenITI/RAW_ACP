@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن عبد العزيز بن جريج المكي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث ابن جريج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 120"
+      ],
+      "classmark": [
+        "3761/13"
+      ],
+      "folio_number": [
+        "121r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "1e2c1c7f-0500-49ef-9028-4fe2f392dbad",
+      "startIndex": 110,
+      "text": "نجم الدين علي بن عماد الدين محمد بن عمر بن هلال الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 633,
+      "guid": "6572e23f-8546-4402-9a81-24c9be0fdc29",
+      "startIndex": 609,
+      "text": "الحائط الشمالي بجامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 478,
+      "guid": "7e3d6bc9-d92f-4e96-aa4b-5be1a04583df",
+      "startIndex": 439,
+      "text": "شهاب الدين أحمد بن المسلم بن أحمد البدوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 287,
+      "guid": "90a4e426-bcf8-4fad-b6a4-8bb3e67ba2a1",
+      "startIndex": 267,
+      "text": "زكري بن محمود بن زكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "a2a1dc25-029d-43e1-a867-73304d908ff8",
+      "startIndex": 37,
+      "text": "نجم الدين أبي بكر محمد بن علي النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "570"
+        ]
+      },
+      "endIndex": 606,
+      "guid": "a62d7b8d-3602-4081-8910-d0ac93bf803d",
+      "startIndex": 571,
+      "text": "الثلثا سابع رجب سنة سبعين [وخمسماية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "bc5d324c-fb3f-4600-8464-0465a5ef40db",
+      "startIndex": 290,
+      "text": "محمد بن بدر بن سعيد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 427,
+      "guid": "bed5a3a5-c345-4abd-b3ef-64f388b11c9e",
+      "startIndex": 396,
+      "text": "بدر الدين بدر بن عبد الله الآمدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 688,
+      "guid": "caadbe55-dd02-471d-afed-7c59fec7206d",
+      "startIndex": 639,
+      "text": " محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 356,
+      "guid": "cff4222d-1c98-48e2-9c7f-1d7ebf592211",
+      "startIndex": 311,
+      "text": "عبد الرحيم بن عبد الواحد بن عبد الرحمن بن هلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "d3837c97-0a05-4beb-931d-695394ba988f",
+      "startIndex": 88,
+      "text": "القاسم بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "d53a15ea-3657-42ca-8440-bd70b112bfdb",
+      "startIndex": 177,
+      "text": "ست الشام ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "dd93cead-32c3-4b03-b058-ae8b72aa2daf",
+      "startIndex": 365,
+      "text": "زكري بن يعقوب بن علي الماردني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "e41b62f3-45a1-4d7a-8123-275410821543",
+      "startIndex": 215,
+      "text": "شهاب الدين أحمد بن سامة بن كوكب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 554,
+      "guid": "ffef3ebd-58d5-4b9e-860d-a2d36e5e3da1",
+      "startIndex": 504,
+      "text": "بدر الدين محمد ابن الحسين بن علي بن القاسم بن عساكر",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ المسند نجم الدين أبي بكر محمد بن علي النشبي بسماعه فيه من القاسم بن عساكر فسمعه نجم الدين علي بن عماد الدين محمد بن عمر بن هلال الأزدي وأحضر ابنته ست الشام في الثانية وسمعه أيضا الفقيه شهاب الدين أحمد بن سامة بن كوكب والفقيهان البصرويان زكري بن محمود بن زكري ومحمد بن بدر بن سعيد وعبد الرحيم بن عبد الواحد بن عبد الرحمن بن هلال والحاج زكري بن يعقوب بن علي الماردني وبدر الدين بدر بن عبد الله الآمدي وسمع نصفه شهاب الدين أحمد بن المسلم بن أحمد البدوي وسمع أربع أوراق من آخره بدر الدين محمد ابن الحسين بن علي بن القاسم بن عساكر وصح ذلك في يوم الثلثا سابع رجب سنة سبعين [وخمسماية] بالحائط الشمالي بجامع دمشق وكتب محمد بن محمد بن عباس بن أبي بكر بن جعوان الأنصاري حامدا ومصليا"
+}

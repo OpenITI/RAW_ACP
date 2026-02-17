@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "178r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f182.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f182.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "718"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "064a42aa-8f18-4324-b0c7-d2cf13601770",
+      "index": 212,
+      "isZeroPoint": false,
+      "startIndex": 172,
+      "text": "يوم الثلاثاء العاشر من شوال سنة ثماني عشرة وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "1aac7857-96ed-4fc0-b1bf-ae98be56bb57",
+      "index": 209,
+      "isZeroPoint": false,
+      "startIndex": 116,
+      "text": "أمة الرحيم زينب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "4b923ca0-7200-434c-bfa0-475b70a91f5f",
+      "index": 206,
+      "isZeroPoint": false,
+      "startIndex": 29,
+      "text": "أبي عبد الله محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "560bed5c-62c8-48b7-a9b5-1fe01cab0c85",
+      "index": 208,
+      "isZeroPoint": false,
+      "startIndex": 86,
+      "text": "أبي حفص بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "a9f77bd4-ac86-4556-b2d9-14f63ca94e46",
+      "index": 210,
+      "isZeroPoint": false,
+      "startIndex": 142,
+      "text": "عمر بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "b233ee63-a3b4-442a-a620-d0d320958209",
+      "index": 211,
+      "isZeroPoint": false,
+      "startIndex": 166,
+      "text": "خديجة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "c065f5ed-632c-4e8e-917b-5c61a2433400",
+      "index": 207,
+      "isZeroPoint": false,
+      "startIndex": 62,
+      "text": "أبي الحسن بن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "c3940e9a-cd5d-4fa7-8f5c-f4aa83b15944",
+      "index": 213,
+      "isZeroPoint": false,
+      "startIndex": 228,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء عليَّ وعلى أخي أبي عبد الله محمد بسماعنا فيه من أبي الحسن بن البخاري عن أبي حفص بن طبرزد بقراءة ابنتي أمة الرحيم زينب ابن أختها عمر بن عبد الرحمن وأخته خديجة يوم الثلاثاء العاشر من شوال سنة ثماني عشرة وسبعمئة وكتب يوسف بن الزكي عبد الرحمن بن يوسف المزي"
+}

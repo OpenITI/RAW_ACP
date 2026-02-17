@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن القاسم بن إسماعيل الحلبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي القاسم الحلبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 120"
+      ],
+      "classmark": [
+        "3761/12"
+      ],
+      "folio_number": [
+        "109r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "30836958-f1ab-401c-8522-15a440301b82",
+      "startIndex": 130,
+      "text": "علي بن الرضى عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "3bc9ea9e-e480-4f22-900f-7a118c6fd9c8",
+      "startIndex": 59,
+      "text": "أبي موسى عيسى بن سليمان بن عيسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "suq_khashabin"
+          ]
+        ]
+      },
+      "endIndex": 249,
+      "guid": "5d9ada4f-05b9-4a78-b30c-7e966556d015",
+      "startIndex": 236,
+      "text": "الخشابين بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "642eb6d4-e376-4767-81a2-f77def582f24",
+      "startIndex": 14,
+      "text": "أبي القاسم الحسين بن هبة الله بن صصرى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "858fed4c-1092-4866-a49e-fcfe9c928f36",
+      "startIndex": 91,
+      "text": "محمد بن عبد الرحيم بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "623"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "d2aaf593-e9c5-4edd-9db5-054036e0cdc2",
+      "startIndex": 202,
+      "text": "ربيع الآخر سنة ثلث وعشرين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "d2abd87c-0aba-426d-b6ff-81600a93a248",
+      "startIndex": 155,
+      "text": "إسماعيل بن عبد الرحمن بن عمرو الفراء",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من الشيخ أبي القاسم الحسين بن هبة الله بن صصرى بقراءة أبي موسى عيسى بن سليمان بن عيسى محمد بن عبد الرحيم بن عبد الواحد وعمه وعلي بن الرضى عبد الرحمن وإسماعيل بن عبد الرحمن بن عمرو الفراء وآخرون في ربيع الآخر سنة ثلث وعشرين وستمية بالخشابين بدمشق الطبقة بخط الضياء"
+}

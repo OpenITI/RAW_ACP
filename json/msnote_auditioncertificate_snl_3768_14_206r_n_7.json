@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد جعفر بن أحمد بن الحسين السراج القارئ "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتخبة الصحاح العوالي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 7"
+      ],
+      "catalog": [
+        "FMMU 165"
+      ],
+      "classmark": [
+        "3768/14"
+      ],
+      "folio_number": [
+        "206r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "5289d9f4-1f06-41f7-bb12-7f2b6321429a",
+      "startIndex": 16,
+      "text": "أبو المظفر هبة الله بن عبد الله بن أحمد ابن السمرقندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 14,
+      "guid": "e1124ccd-15d7-4d66-a823-71b73bbd3c09",
+      "startIndex": 7,
+      "text": " أبي نصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "495"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "ffd98a3f-9b27-4e4e-aeb3-fbd92a0e4074",
+      "startIndex": 77,
+      "text": "رمضان سنة خمس وتسعين [وأربعمائة]",
+      "type": "date"
+    }
+  ],
+  "text": "وبقراءة أبي نصر أبو المظفر هبة الله بن عبد الله بن أحمد ابن السمرقندي في شهر رمضان سنة خمس وتسعين [وأربعمائة]"
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن عبد الله بن أبي سيف المدائني"
+      ],
+      "work_title": [
+        "كتاب التعازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 16"
+      ],
+      "classmark": [
+        "3738/3"
+      ],
+      "folio_number": [
+        "117r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 256,
+      "guid": "0d24c202-c13c-4a92-a942-d1efc5d13e42",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 245,
+      "text": "مدينة السلام",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "79505496-cf62-45e2-97ee-22aa20e5e4af",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": " أبي المظفر عبد الخالق بن فيروز بن عبد الله الهمذاني الجوهري الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "9bce5169-63e5-4114-8d1d-0cf0e0bce9a1",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 170,
+      "text": "محمد بن ناصر بن محمد ابن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "10"
+        ],
+        "year": [
+          "542"
+        ]
+      },
+      "endIndex": 242,
+      "guid": "cfbb1d8b-027e-4f40-a943-e42c3af4fbb5",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 207,
+      "text": "شوال من سنة اثنتين وأربعين وخمس ماية",
+      "type": "date"
+    }
+  ],
+  "text": " صار للشيخ الفقيه الصالح أبي المظفر عبد الخالق بن فيروز بن عبد الله الهمذاني الجوهري الحنبلي نفعه الله به وقرأه والذي قبله وبعده أيضا عليَّ بالإسناد المذكور في أوله وكتب محمد بن ناصر بن محمد ابن علي بخطه في شوال من سنة اثنتين وأربعين وخمس ماية بمدينة السلام دام بها الإسلام"
+}

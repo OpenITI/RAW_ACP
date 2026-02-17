@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الحسين بن عبد الله الآجري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الغرباء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 139"
+      ],
+      "classmark": [
+        "3764/5"
+      ],
+      "folio_number": [
+        "63v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 212,
+      "guid": "2d64a19a-2d48-47f9-956a-84dc9ae8fb3a",
+      "startIndex": 208,
+      "text": "بغداد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "8b0a4b14-8fd1-46d7-a370-f8eb24840922",
+      "startIndex": 54,
+      "text": " أبي غالب بن الباقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "ad54dd0e-2ef2-45b4-bd0e-aa5e49d2d1f1",
+      "startIndex": 10,
+      "text": "أبي الحسين عبد الحق بن عبد الخالق بن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "c6e645fc-e458-4120-aaf7-29436af79720",
+      "startIndex": 84,
+      "text": "عبد العزيز بن محمود بن الأخضر الجنابذي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "d3089235-2128-49f6-8f96-6c77fc51fe12",
+      "startIndex": 123,
+      "text": "إبراهيم بن محمود بن الخير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "573"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "db9f73e3-ef13-4a05-99ab-3f3384ada45e",
+      "startIndex": 159,
+      "text": " الجمعة الثاني من محرم سنة ثلاث وسبعين وخمسمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه على أبي الحسين عبد الحق بن عبد الخالق بن يوسف عن أبي غالب بن الباقلاني بقراءة عبد العزيز بن محمود بن الأخضر الجنابذي إبراهيم بن محمود بن الخير وآخرون يوم الجمعة الثاني من محرم سنة ثلاث وسبعين وخمسمائة ببغداد"
+}

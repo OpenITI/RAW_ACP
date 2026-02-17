@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "43r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 348,
+      "guid": "1ac73a14-e579-47b6-8e0f-eefd2d1c0b7a",
+      "startIndex": 344,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "1d44692f-5773-4028-a887-e9b71547f50b",
+      "startIndex": 178,
+      "text": "أبي العباس أحمد بن الملك الناصر صلاح الدين أبي المظفر يوسف بن أيوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 411,
+      "guid": "23440bd1-6511-4cc0-a2a2-bc968f95e186",
+      "startIndex": 407,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 359,
+      "guid": "4d3041fa-2102-4a07-b14b-42931efd356b",
+      "startIndex": 350,
+      "text": "عبد القادر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "55d1eb18-5648-42ac-9e3a-e8a0d842a00b",
+      "startIndex": 362,
+      "text": "عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 500,
+      "guid": "7d2a2c36-996c-4bb8-9ae6-802f547ffd60",
+      "startIndex": 492,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "9320b61f-1d2d-454a-94d0-30f9e07dd27a",
+      "startIndex": 283,
+      "text": "عبد الكريم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "ae29fba7-60e1-4497-b9e5-fe957f9184e2",
+      "startIndex": 306,
+      "text": " أسعد بن نصر الله بن عبد الكريم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "d82f107d-ede2-4b2a-9ef8-129740576254",
+      "startIndex": 113,
+      "text": "أبي الحسن بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "e9b31b29-476b-4a49-8454-1f73a2c44f58",
+      "startIndex": 53,
+      "text": "أبي القسم عبد الصمد بن محمد بن أبي الفضل الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "600"
+        ]
+      },
+      "endIndex": 489,
+      "guid": "ebe65a91-5e22-4749-9445-9c39831a9abd",
+      "startIndex": 468,
+      "text": "ربيع الأول سنة ست مائة",
+      "type": "date"
+    }
+  ],
+  "text": "سمع ما في هذا الجزء من كتاب الموطأ على القاضي الإمام أبي القسم عبد الصمد بن محمد بن أبي الفضل الأنصاري بسماعه من أبي الحسن بن قبيس عن أبيه بقراءة صاحبه المولى الأجل الملك المحسن أبي العباس أحمد بن الملك الناصر صلاح الدين أبي المظفر يوسف بن أيوب أبقاه الله ولد المسمع [في الأصل ولده] عبد الكريم وابن ابن عمه أسعد بن نصر الله بن عبد الكريم وأخوه أحمد وعبد القادر وعبد الرحيم ابنا حسان بن رافع العامري وأخوهما محمد وهذا خطه غفر الله له ولوالديه وللمسلمين آمين وصح ذلك في ربيع الأول سنة ست مائة بجامع دمشق والحمد لله وحده وصلى الله على محمد وآله وسلم تسليما"
+}

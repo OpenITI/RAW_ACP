@@ -1,0 +1,734 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن ماجه"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/73824880"
+      ],
+      "work_title": [
+        "السنن"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 706"
+      ],
+      "folio_number": [
+        "301r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000313s/f304.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000313s/f304.item.r=arabe%20706.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2483,
+      "guid": "0b1c5205-bf36-4103-be4f-891f0371df3e",
+      "index": 208,
+      "isZeroPoint": false,
+      "startIndex": 2445,
+      "text": "عبد القوي عبد الله بن عبد القوي الفقاعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 3769,
+      "guid": "0c315519-ef73-4838-b4d7-10b8cdaba8c2",
+      "index": 221,
+      "isZeroPoint": false,
+      "startIndex": 3731,
+      "text": "أبو حفص عمر بن عبد العزيز بن علي القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 2352,
+      "guid": "18477fc1-b648-4609-bd2c-437c1fdb76c4",
+      "index": 205,
+      "isZeroPoint": false,
+      "startIndex": 2320,
+      "text": "محمد بن محمود بن الحسن ابن النجار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 773,
+      "guid": "238a6d73-900b-4b20-826e-2b9814ac8bf4",
+      "index": 185,
+      "isZeroPoint": false,
+      "startIndex": 762,
+      "text": "يوسف بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2409,
+      "guid": "2a4e4bb9-ccec-423d-90d0-a7376eb74923",
+      "index": 206,
+      "isZeroPoint": false,
+      "startIndex": 2367,
+      "text": "الشريف جعفر بن محمد بن عبد العزيز الإدريسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "624"
+        ]
+      },
+      "endIndex": 3806,
+      "guid": "33e8a883-49a6-4536-a35b-a4f5ed749a7d",
+      "index": 222,
+      "isZeroPoint": false,
+      "startIndex": 3778,
+      "text": "في رجب سنة أربع وعشرين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "month": [
+          "9"
+        ],
+        "year": [
+          "621"
+        ]
+      },
+      "endIndex": 3004,
+      "guid": "3751ad21-dab2-48e8-ac3e-1508e35882a0",
+      "index": 216,
+      "isZeroPoint": false,
+      "startIndex": 2970,
+      "text": "في شهر رمضان سنة إحدى وعشرين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1887,
+      "guid": "3a7a2c4f-53fd-457a-aaf8-bdd415d0e6a8",
+      "index": 200,
+      "isZeroPoint": false,
+      "startIndex": 1847,
+      "text": "أبي بكر عبد العزيز بن أحمد بن عمر بن باقا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 400,
+      "guid": "3d701b91-63b9-4568-babb-c85c2d7e7cca",
+      "index": 183,
+      "isZeroPoint": false,
+      "startIndex": 361,
+      "text": "أبو محمد عبد الله بن أحمد بن عمر بن باقا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "561"
+        ]
+      },
+      "endIndex": 1173,
+      "guid": "441960e4-5d71-48c0-9e37-24ee8e4383c2",
+      "index": 192,
+      "isZeroPoint": false,
+      "startIndex": 1112,
+      "text": "الثلاثاء سادس عشرين شهر ربيع الآخر من سنة إحدى وستين وخمسمائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1445,
+      "guid": "44ba0af0-bfc9-4335-8403-6b6a442e5f3f",
+      "index": 194,
+      "isZeroPoint": false,
+      "startIndex": 1400,
+      "text": "عبد الغني بن عبد الواحد بن علي بن سرور المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "476f1523-1253-445d-a1ce-069c639bd289",
+      "index": 175,
+      "isZeroPoint": false,
+      "startIndex": 72,
+      "text": "أبي زرعة طاهر بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "5035cb75-8160-4e98-8d98-7cecab7a89d2",
+      "index": 181,
+      "isZeroPoint": false,
+      "startIndex": 120,
+      "text": "أبو يعلى حمزة بن علي بن حمزة الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "52ed8a00-0ec8-4bc5-b308-3607441d3666",
+      "index": 179,
+      "isZeroPoint": false,
+      "startIndex": 232,
+      "text": "عبد الغني بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 3850,
+      "guid": "5785b52c-2877-48c7-bc43-5ccd1a5bf46d",
+      "index": 223,
+      "isZeroPoint": false,
+      "startIndex": 3834,
+      "text": "أبو الفتح اليعمري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 2866,
+      "guid": "590d9cde-7945-46e4-9c72-f2e5ca00d116",
+      "index": 212,
+      "isZeroPoint": false,
+      "startIndex": 2836,
+      "text": "إسحق بن محمد بن المؤيد الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 832,
+      "guid": "59741193-8470-499e-aaee-a8f7cb4fe236",
+      "index": 188,
+      "isZeroPoint": false,
+      "startIndex": 813,
+      "text": "بد اللطيف بن القبيطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "561"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "5f160628-c224-474f-ace4-2b1d959508a7",
+      "index": 182,
+      "isZeroPoint": false,
+      "startIndex": 273,
+      "text": "في يوم السبت سادس شهر ربيع الآخر سنة إحدى وستين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "60a3d514-db12-4b52-ae16-b5d5b6b21bd4",
+      "index": 177,
+      "isZeroPoint": false,
+      "startIndex": 167,
+      "text": "أبو طالب عبد اللطيف بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1046,
+      "guid": "6265d16a-2f3d-4453-8707-26e0270854f5",
+      "index": 191,
+      "isZeroPoint": false,
+      "startIndex": 1039,
+      "text": "ابن طارق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "dar_al-hadith_al-fadiliya"
+          ]
+        ]
+      },
+      "endIndex": 3022,
+      "guid": "73609cbf-b597-48dd-bbaf-e482f156656b",
+      "index": 217,
+      "isZeroPoint": false,
+      "startIndex": 3007,
+      "text": "المدرسة الفاضلية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1397,
+      "guid": "7f3f28d7-e745-479b-a7ec-42954731b7e6",
+      "index": 193,
+      "isZeroPoint": false,
+      "startIndex": 1356,
+      "text": "أبو محمد عبد الله بن أحمد بن محمد بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 790,
+      "guid": "80ea98d5-bba4-4ebb-8508-96e2856d55f2",
+      "index": 186,
+      "isZeroPoint": false,
+      "startIndex": 781,
+      "text": "عبد اللطيف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2442,
+      "guid": "87685c5d-d5f0-4f3a-8d51-9903119b3a46",
+      "index": 207,
+      "isZeroPoint": false,
+      "startIndex": 2411,
+      "text": "أبو العز بن محاسن بن يوسف المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1735,
+      "guid": "88ea08d1-4ba7-4b55-938e-60a2523b3c21",
+      "index": 199,
+      "isZeroPoint": false,
+      "startIndex": 1699,
+      "text": "أبي عبد الله محمد بن يوسف بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 915,
+      "guid": "92e8909d-3c66-4a41-b674-1de8ced0c1a8",
+      "index": 189,
+      "isZeroPoint": false,
+      "startIndex": 889,
+      "text": "عبد اللطيف بن يوسف البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1480,
+      "guid": "980d3045-186c-4caf-9dcb-613fd7aa9ed6",
+      "index": 195,
+      "isZeroPoint": false,
+      "startIndex": 1450,
+      "text": "عبد الله بن أحمد بن عمر بن باقا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2901,
+      "guid": "99277626-7aea-4885-b7bd-b1e3b8de00b7",
+      "index": 213,
+      "isZeroPoint": false,
+      "startIndex": 2887,
+      "text": "أبو الفضل محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "622"
+        ]
+      },
+      "endIndex": 2557,
+      "guid": "9a2d7ab5-b849-48af-8e27-8fe0a93f896f",
+      "index": 209,
+      "isZeroPoint": false,
+      "startIndex": 2507,
+      "text": "يوم الاثنين العشرين من صفر سنة اثنتين وعشرين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 3720,
+      "guid": "adab11e6-738c-4d78-8980-018df3e06385",
+      "index": 220,
+      "isZeroPoint": false,
+      "startIndex": 3668,
+      "text": "أبو صادق محمد بن الحافظ أبي الحسين يحيى بن علي القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 2682,
+      "guid": "b3f604b7-913a-4d77-bf07-1cd9ac022798",
+      "index": 211,
+      "isZeroPoint": false,
+      "startIndex": 2643,
+      "text": "أبو الفتح محمد بن محمد سيد الناس اليعمري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 1691,
+      "guid": "ca6e7ff7-5186-4f75-bb36-32b80c044c10",
+      "index": 198,
+      "isZeroPoint": false,
+      "startIndex": 1685,
+      "text": "المنذري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 977,
+      "guid": "caed1fa2-7ae1-450c-9b25-b4c286113215",
+      "index": 190,
+      "isZeroPoint": false,
+      "startIndex": 960,
+      "text": "عبد العزيز بن باقا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1927,
+      "guid": "d1ea25ac-b836-4646-89ab-5dea220925aa",
+      "index": 201,
+      "isZeroPoint": false,
+      "startIndex": 1889,
+      "text": "عبد الله بن غلام الله بن إسماعيل المسكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "d32f7df9-420b-4bb7-89b3-137e941c71b5",
+      "index": 180,
+      "isZeroPoint": false,
+      "startIndex": 101,
+      "text": "أبي محمد بن الخشاب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 809,
+      "guid": "da0eac3c-c6ef-42bd-b44c-daa75567bf2b",
+      "index": 187,
+      "isZeroPoint": false,
+      "startIndex": 793,
+      "text": "أبو محمد بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "e58a747e-8a4a-4556-9929-61603154bbb4",
+      "index": 178,
+      "isZeroPoint": false,
+      "startIndex": 196,
+      "text": "أبو محمد عبد الله بن أحمد بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 3653,
+      "guid": "e86e5e2c-f8fb-4af5-b49d-f145f3da6ff4",
+      "index": 219,
+      "isZeroPoint": false,
+      "startIndex": 3611,
+      "text": "محمد بن موسى بن الحسن بن علي الحريري المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1963,
+      "guid": "ea136829-adeb-447d-8568-8837a4ab76cb",
+      "index": 202,
+      "isZeroPoint": false,
+      "startIndex": 1930,
+      "text": "عبد الرحمن بن محمد بن رسلان المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2961,
+      "guid": "eb74f9b5-a64f-471d-8c06-167c2a7083b5",
+      "index": 215,
+      "isZeroPoint": false,
+      "startIndex": 2928,
+      "text": "أبو بكر بن الحسين بن أحمد بن عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "khan_masrur"
+          ]
+        ]
+      },
+      "endIndex": 2584,
+      "guid": "ebf1e7d6-b333-4535-a5aa-6fa6881a7ca4",
+      "index": 210,
+      "isZeroPoint": false,
+      "startIndex": 2560,
+      "text": "خان مسرور الخادم بالقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 3393,
+      "guid": "ec90b681-678b-489d-93f8-7b32eb88f634",
+      "index": 218,
+      "isZeroPoint": false,
+      "startIndex": 3328,
+      "text": "أبو محمد عبد المنعم بن عبد اللطيف بن عبد المنعم بن الصيقل الحراني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1512,
+      "guid": "f2bec3a8-f455-4a55-a6d2-46e1205d0d0e",
+      "index": 196,
+      "isZeroPoint": false,
+      "startIndex": 1483,
+      "text": "أبو الرضى أحمد بن طارق بن سنان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2919,
+      "guid": "f72c7464-24eb-4625-9923-9d34b6bf8a01",
+      "index": 214,
+      "isZeroPoint": false,
+      "startIndex": 2903,
+      "text": "أبو المعالي أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 2152,
+      "guid": "f7365031-d501-43c2-b912-10ae62865d31",
+      "index": 203,
+      "isZeroPoint": false,
+      "startIndex": 2114,
+      "text": "محمد بن أحمد بن محمد بن المؤيد الهمذاني",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ العرض بأصل الحافظ المنذري رحمه الله وفي آخر الجزء الأول منه سمعه من أبي زرعة طاهر بن محمد بقراءة أبي محمد بن الخشاب أبو يعلى حمزة بن علي بن حمزة الحراني وابن أخيه أبو طالب عبد اللطيف بن محمد وأبو محمد عبد الله بن أحمد بن قدامة وعبد الغني بن عبد الواحد المقدسيان وآخرون في يوم السبت سادس شهر ربيع الآخر سنة إحدى وستين وخمسمائة.\nوعلى الجزء الثاني كذلك وسمعهم أبو محمد عبد الله بن أحمد بن عمر بن باقا وأخوه عبد العزيز في ثامن عشر الشهر المذكور وكذلك على الجزء الثالث في التاريخ وكذلك على الجزء الرابع وكذلك على الخامس في تاسع عشرين ربيع الآخر من السنة وكذلك السادس في التاريخ وكذلك على السابع والثامن في يوم الأربعاء لعشر ليالٍ بقين من ربيع الآخر من السنة وكذلك على التاسع في يوم الخميس لتسع بقين من الشهر المذكور وعلى العاشر سمعه من أبي زرعة بقراءة ابن الخشاب يوسف بن محمد وابنه عبد اللطيف وأبو محمد بن قدامة وعبد اللطيف بن القبيطي من غير تاريخ وعلى الحادي عشر سمعه من أبي زرعة بالقراءة عبد اللطيف بن يوسف البغدادي وأبو محمد بن قدامة وعبد اللطيف بن القبيطي وعبد العزيز بن باقا في شهر ربيع الآخر من السنة وكذلك على الثاني عشر والسماع بخط ابن طارق ولم يؤرخ وكذلك الثالث عشر والرابع عشر والخامس عشر وهو مؤرخ بيوم الثلاثاء سادس عشرين شهر ربيع الآخر من سنة إحدى وستين وخمسمائة وكذلك على السادس عشر وهو مؤرخ بشهر ربيع الآخر من السنة وعلى الجزء السابع عشر وهو آخر الكتاب سمع جميع هذا الكتاب بقراءة الأوحد حجة الإسلام أبي محمد عبد الله بن أحمد بن الخشاب الشيخان أبو محمد عبد الله بن أحمد بن محمد بن قدامة وعبد الغني بن عبد الواحد بن علي بن سرور المقدسيان وعبد الله بن أحمد بن عمر بن باقا وأبو الرضى أحمد بن طارق بن سنان وآخرون لم يُكمل لهم سماع جميعه أسماؤهم مثبته على نسخة الوقف في رباط شيخ الشيوخ في مجالس آخرها يوم السبت لسبع ليالٍ بقين من شهر ربيع الآخر من سنة إحدى وستين وخمس مائة نقله المنذري من خط أبي عبد الله محمد بن يوسف بن البرزالي ونقلها من خط ابن الأخضر وفي كل الأجزاء سماع عبد العزيز بن باقا إلا الأول والعاشر والأخير وسمع الكتاب جميعه من أبي بكر عبد العزيز بن أحمد بن عمر بن باقا عبد الله بن غلام الله بن إسماعيل المسكي وعبد الرحمن بن محمد بن رسلان المقرئ والسماع بخطه في مجالس آخرها تاسع عشر ذي القعدة سنة إحدى وعشرين وستمئة.\nوسمعه جميعه منه بسماعه من أبي زرعة خلا الأول والعاشر والسابع عشر فبإجازته منه محمد بن أحمد بن محمد بن المؤيد الهمذاني بقراءته وكتب السماع في مجالس آخرها في جمادى الآخرة سنة سبع وعشرين وستمئة.\nوسمعه منه بسماعه من أبي زرعة خلا الجزئين الأول والعاشر فبإجازته منه إن لم يكن سماعاً بقراءة محمد بن محمود بن الحسن ابن النجار وبخطه السماع الشريف جعفر بن محمد بن عبد العزيز الإدريسي وأبو العز بن محاسن بن يوسف المقرئ وعبد القوي عبد الله بن عبد القوي الفقاعي وآخرون في مجالس آخرها يوم الاثنين العشرين من صفر سنة اثنتين وعشرين وستمئة بخان مسرور الخادم بالقاهرة نقل ذلك من الأصول وما قبله من خط المنذري بعد المقابلة به أبو الفتح محمد بن محمد سيد الناس اليعمري سامحه الله تعالى.\nوسمعه كاملاً منه بسماعه لجميعه من أبي زرعة ما خلا الجزء الأول والعاشر فإنهما قُرئا عليه بالإجازة الخاصة منه إن لم يكونا سماعاً بقراءة إسحق بن محمد بن المؤيد الهمداني وبخطه السماع ولداه أبو الفضل محمد وأبو المعالي أحمد والفقيه أبو بكر بن الحسين بن أحمد بن عثمان وآخرون في شهر رمضان سنة إحدى وعشرين وستمئة بالمدرسة الفاضلية وبخط القارئ المذكور رأيت خط أبي زرعة له يعني ابن باقا بالإجازة كتبه إسحق بن محمد. وبخطه أيضاً أعني إسحق بن محمد قرأت على الشيخ صفي الدين أبي بكر عبد العزيز بن أحمد بن عمر بن باقا من هذا الكتاب من أول باب ما جاء في غسل القدمين إلى آخر باب النهي عن إتيان الحائض بسماعه لذلك من الشيخ أبي زرعة المقدسي فسمعه أبو محمد عبد المنعم بن عبد اللطيف بن عبد المنعم بن الصيقل الحراني في السابع من ربيع الأول سنة إحدى وعشرين وستمئة بالقاهرة وسمع من ابن باقا من أول الكتاب إلى الجزء التاسع ومن أول الرابع عشر إلى آخر الكتاب بسماعه من أبي زرعة خلا الجزئين الأول والعاشر فبالإجازة إن لم يكن سماعاً بقراءة محمد بن موسى بن الحسن بن علي الحريري المقرئ وبخطه السماع أبو صادق محمد بن الحافظ أبي الحسين يحيى بن علي القرشي وابن عمه أبو حفص عمر بن عبد العزيز بن علي القرشي وآخرون في رجب سنة أربع وعشرين وستمئة نقلها وما قبلها من الأصول أبو الفتح اليعمري."
+}

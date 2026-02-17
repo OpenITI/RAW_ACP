@@ -1,0 +1,773 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "31r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1401,
+      "guid": "014ad1be-ea28-4b11-8f36-0a3e47629325",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 1360,
+      "text": "زينب بنت محمد بن أحمد بن عبد الرحمن البجدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1980,
+      "guid": "019c3f0f-2862-442d-9f03-3af83bfdd88f",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 1946,
+      "text": "أبو محمد عبد الله بن أحمد بن المحب ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1253,
+      "guid": "026e2a71-0bde-4f0c-8eae-75b50c58cfb1",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 1204,
+      "text": "أبي عبد الله محمد بن أبي بكر بن أحمد بن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2143,
+      "guid": "08726fad-a1fb-47da-afa5-71d5ceb13055",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 2119,
+      "text": "حسن بن علي بن عمر بن مسلم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 886,
+      "guid": "1134b38c-9672-4b1d-af4b-013269fa8049",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 836,
+      "text": "أبي محمد داود بن محمد بن عربشاه بن أبي بكر الهمذاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 532,
+      "guid": "12c3cd20-2fa8-4251-8308-30dcd4498d53",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 479,
+      "text": "أبي عبد الله محمد بن عمر بن أحمد بن عبد الدائم بن نعمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 1944,
+      "guid": "19427c34-0f72-433a-a78b-536c81b2fb34",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 1912,
+      "text": "علم الدين القاسم بن محمد البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2037,
+      "guid": "216d7b8b-f9b6-40ac-b43d-7da61aacb856",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 2001,
+      "text": "أبو بكر بن يوسف بن عبد القادر الخليلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1063,
+      "guid": "26a24d6c-6b25-4d53-a4ad-eecb4700e006",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 1019,
+      "text": "أحمد بن الشريف محمد بن أحمد بن عمر بن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 359,
+      "guid": "314532ab-8de7-4811-a3bd-59f5e6d29f24",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 322,
+      "text": "أبي العباس أحمد بن علي بن مسعود الكلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2082,
+      "guid": "385cfe92-e7db-4bd8-b555-cb036363203a",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 2040,
+      "text": "أبو بكر بن محمد بن أبي بكر بن خليل الاعزازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 609,
+      "guid": "3d3a8299-58e8-48c8-b164-45bf948af2bb",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 569,
+      "text": "فاطمة ابنة عبد الله بن عمر بن عوض المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1533,
+      "guid": "40adeaba-154d-412d-8348-6544e2c6b8d1",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 1488,
+      "text": "فاطمة ابنة العز إبراهيم بن عبد الله بن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1357,
+      "guid": "488b8978-612a-49ff-97b6-5d9d9cfa2a6e",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 1312,
+      "text": "زينب بنت إسماعيل بن إبراهيم بن سالم ابن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 833,
+      "guid": "4ad02227-437f-4c15-9964-70a42cc3f423",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 775,
+      "text": "أبي بكر بن محمد بن أبي بكر بن محمد بن عبد الله [...] الهروي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1854,
+      "guid": "534b81ff-0f78-401b-beea-b5b692cc09c6",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 1841,
+      "text": "ابن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1309,
+      "guid": "53cd7033-76ec-4cab-9e5a-625e6ac9236a",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 1256,
+      "text": "أبي عبد الله محمد بن أحمد بن الناصح عبد الرحمن بن عياش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1571,
+      "guid": "60a5cd5b-e185-4285-80d1-6f1474b30dd9",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 1536,
+      "text": "زينب بنت عمر بن عباس بن عجرمة النحات",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "6199cc92-41d5-4b0f-80a4-e7a3b49da150",
+      "index": 0,
+      "isZeroPoint": false,
+      "startIndex": 42,
+      "text": "أبي محمد عبد الله بن الحسن بن عبد الله بن الحافظ عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 934,
+      "guid": "62db282f-6e2f-4c92-8196-cd0e600b9a00",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 889,
+      "text": "أبي العباس أحمد بن حمود بن عمر بن حمود الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 664,
+      "guid": "6a78f98c-7407-4dfa-9e46-5c478405e22f",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 614,
+      "text": "أبي عبد الله محمد بن أحمد بن أبي الهيجاء ابن الزراد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1991,
+      "guid": "6e8fa0f9-5168-4261-ab84-bd5c3c0e6a51",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 1987,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 566,
+      "guid": "726ef159-ec35-4222-9eb8-ae171ed31fe7",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 535,
+      "text": "أبي بكر بن محمد الرضي عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1618,
+      "guid": "81459112-90e4-4d90-bd49-e0c90a272006",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 1574,
+      "text": "ست الفقهاء ابنة إبراهيم بن علي بن أحمد بن فضل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1201,
+      "guid": "867d46ab-516e-4f16-b298-26a63c77ab70",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 1152,
+      "text": "أبي العباس أحمد بن المحب عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1897,
+      "guid": "8e7190a1-dbdd-4187-aedf-c2ad2f161440",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 1891,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1801,
+      "guid": "9774ac22-ef0c-4ce2-bd56-654dd4f2f9ab",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 1789,
+      "text": "مطهر بن [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "a058a143-4575-4a2c-8f1c-a5d180bfeaa9",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 272,
+      "text": "أبي العباس أحمد بن عبد الرحمن بن إبراهيم الصرخدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1663,
+      "guid": "a227cad2-fe93-4031-98a0-2aacdf754c59",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 1627,
+      "text": "فاطمة ابنة عبد الرحمن بن عيسى الدباهي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1016,
+      "guid": "a4c2253f-7963-4664-b93a-a01be54d7c63",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 982,
+      "text": "أحمد بن محمد بن حازم بن حامد بن حسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2116,
+      "guid": "a98b38f9-a2ac-4889-8f20-7a7a98b7c2bb",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 2085,
+      "text": "محمد بن عبد الله بن أحمد بن راجح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1149,
+      "guid": "aeee334a-6f7c-411b-bb44-a69b51503a47",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 1111,
+      "text": "أبي محمد عبد المحسن بن إبراهيم بن خولان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "af706468-232d-478b-99a7-9ef70585a406",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 219,
+      "text": "فاطمة ابنة عبد الرحيم بن أحمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 772,
+      "guid": "b19554f5-e3ae-4910-b12a-5aae167e8a79",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 716,
+      "text": "أبي عبد الله محمد بن أبي زهر بن سالم بن أبي الزهر الغسولي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "721"
+        ]
+      },
+      "endIndex": 2260,
+      "guid": "b9924449-5611-4b25-a306-d2ebdffe7122",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 2204,
+      "text": "يوم الثلثا التاسع والعشرين من رجب سنة إحدى وعشرين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "be8b4f57-372c-4fb7-9427-16e55714544d",
+      "index": 1,
+      "isZeroPoint": false,
+      "startIndex": 102,
+      "text": "أبي العباس أحمد بن إبراهيم بن عبد الله بن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "c326facf-0837-4bef-81bd-0cefdbcfc656",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 362,
+      "text": "أبي عبد الله محمد بن أبي بكر بن مري بن ربيعة الجيتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 2277,
+      "guid": "caa1489b-0809-4dee-a99d-91eeb6d09b80",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 2264,
+      "text": "الجامع المظفري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1437,
+      "guid": "cc24938b-8d47-428b-bfc0-13e0c0fd10f5",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 1404,
+      "text": "زينب بنت الكمال أحمد بن عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1764,
+      "guid": "d2b7fb3b-914f-4d1a-a723-1145b4d026b2",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 1751,
+      "text": "ابن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1486,
+      "guid": "d2faceac-e374-4020-995a-98c7e7826e24",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 1450,
+      "text": "أسماء ابنة محمد بن الكمال عبد الرحيم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 476,
+      "guid": "d527f18b-abda-4589-8a6a-6046d012e74c",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 415,
+      "text": "أبي عبد الله محمد بن المحب عبد الله بن أحمد بن محمد بن إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1716,
+      "guid": "dcf11ce0-7131-4bcf-b6c6-e3bba5c47fa1",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 1666,
+      "text": "فاطمة ابنة عبد الدائم بن أحمد بن عبد الدائم بن نعمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 979,
+      "guid": "dd0bacf5-31ea-4b66-b4fb-234bbb67a909",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 937,
+      "text": "أبي العباس أحمد بن أبي بكر بن محمد بن طرخان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "f21c25a1-a573-4301-86dc-2f861be2118e",
+      "index": 2,
+      "isZeroPoint": false,
+      "startIndex": 153,
+      "text": "أبي محمد عبد الرحمن بن إسماعيل بن الصفي أحمد بن عبد الله بن موسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1878,
+      "guid": "f58263d1-5a8b-4ce9-9ca7-7cc7fe458fb1",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 1872,
+      "text": "ابن سعد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 1108,
+      "guid": "f6db0e32-a9e2-4a98-9da2-73a39196bf00",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 1066,
+      "text": "أبي بكر بن أحمد بن عبد الحميد بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1748,
+      "guid": "f9a25275-753a-45ce-8441-6b3a07c026a9",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 1740,
+      "text": "خطيب مردا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 713,
+      "guid": "f9d0ad4e-b856-43ed-8cca-49c40d05b2b0",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 667,
+      "text": "أبي عبد الله محمد بن أحمد بن تمام بن حسان التلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 2195,
+      "guid": "fd3372a5-0d50-4917-881d-60e3bb3d004f",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 2146,
+      "text": "أحمد بن أبي بكر أحد المسمعين بن أحمد بن عبد الحميد",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه على الشيوخ الأربعة والثلاثين القاضي أبي محمد عبد الله بن الحسن بن عبد الله بن الحافظ عبد الغني وأبي العباس أحمد بن إبراهيم بن عبد الله بن أبي عمر وأبي محمد عبد الرحمن بن إسماعيل بن الصفي أحمد بن عبد الله بن موسى وفاطمة ابنة عبد الرحيم بن أحمد بن عبد الله المقدسيين وأبي العباس أحمد بن عبد الرحمن بن إبراهيم الصرخدي وأبي العباس أحمد بن علي بن مسعود الكلبي وأبي عبد الله محمد بن أبي بكر بن مري بن ربيعة الجيتي وأبي عبد الله محمد بن المحب عبد الله بن أحمد بن محمد بن إبراهيم وأبي عبد الله محمد بن عمر بن أحمد بن عبد الدائم بن نعمة وأبي بكر بن محمد الرضي عبد الرحمن وفاطمة ابنة عبد الله بن عمر بن عوض المقدسيين وأبي عبد الله محمد بن أحمد بن أبي الهيجاء ابن الزراد وأبي عبد الله محمد بن أحمد بن تمام بن حسان التلي وأبي عبد الله محمد بن أبي زهر بن سالم بن أبي الزهر الغسولي وأبي بكر بن محمد بن أبي بكر بن محمد بن عبد الله [...] الهروي وأبي محمد داود بن محمد بن عربشاه بن أبي بكر الهمذاني وأبي العباس أحمد بن حمود بن عمر بن حمود الحراني وأبي العباس أحمد بن أبي بكر بن محمد بن طرخان وأحمد بن محمد بن حازم بن حامد بن حسن وأحمد بن الشريف محمد بن أحمد بن عمر بن أبي عمر وأبي بكر بن أحمد بن عبد الحميد بن عبد الهادي وأبي محمد عبد المحسن بن إبراهيم بن خولان وأبي العباس أحمد بن المحب عبد الله بن أحمد بن المحب وأبي عبد الله محمد بن أبي بكر بن أحمد بن عبد الدائم وأبي عبد الله محمد بن أحمد بن الناصح عبد الرحمن بن عياش وزينب بنت إسماعيل بن إبراهيم بن سالم ابن الخباز وزينب بنت محمد بن أحمد بن عبد الرحمن البجدي وزينب بنت الكمال أحمد بن عبد الرحيم وابنة عمها أسماء ابنة محمد بن الكمال عبد الرحيم وفاطمة ابنة العز إبراهيم بن عبد الله بن أبي عمر وزينب بنت عمر بن عباس بن عجرمة النحات وست الفقهاء ابنة إبراهيم بن علي بن أحمد بن فضل وأختها فاطمة ابنة عبد الرحمن بن عيسى الدباهي وفاطمة ابنة عبد الدائم بن أحمد بن عبد الدائم بن نعمة بسماع السبعة الأول من خطيب مردا وابن عبد الدائم وبسماع الخمسة بعدهم من مطهر بن [...] وبسماع الاثنين والعشرين من الباقين من ابن عبد الدائم وبسماع الأول من ابن سعد بسماعهم من الثقفي بقراءة الحافظ علم الدين القاسم بن محمد البرزالي أبو محمد عبد الله بن أحمد بن المحب وابنه محمد وذا خطه وأبو بكر بن يوسف بن عبد القادر الخليلي وأبو بكر بن محمد بن أبي بكر بن خليل الاعزازي ومحمد بن عبد الله بن أحمد بن راجح وحسن بن علي بن عمر بن مسلم وأحمد بن أبي بكر أحد المسمعين بن أحمد بن عبد الحميد وآخرون يوم الثلثا التاسع والعشرين من رجب سنة إحدى وعشرين وسبعمية [بالجامع المظفري]"
+}

@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الكفاية في معرفة اصول علم الرواية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 355"
+      ],
+      "folio_number": [
+        "14v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007012"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "0ea526f3-f715-42f3-88b9-86117883147d",
+      "startIndex": 126,
+      "text": "يمين الدين سيد الملوك والسلاطين حسنة الزمان أبي العباس أحمد بن الملك الناصر صلاح الدنيا والدين سلطان الإسلام والمسلمين أبي المظفر يوسف بن أيوب بن شاذي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 603,
+      "guid": "162d3ec4-0f12-4f9e-a58d-3e839ebb4ed4",
+      "startIndex": 584,
+      "text": "أبي محمد يحيى بن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "601"
+        ]
+      },
+      "endIndex": 719,
+      "guid": "1b2432e4-cdcb-423b-bf9b-0e64783a885f",
+      "startIndex": 675,
+      "text": "في ليلة العشرين من شهر رمضان سنة إحدى وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 621,
+      "guid": "259650ab-4d19-493b-aac4-56e54a025c2c",
+      "startIndex": 616,
+      "text": "الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 673,
+      "guid": "87425f32-bd77-475c-95b5-649bbeb2bd4a",
+      "startIndex": 633,
+      "text": "أبو الضياء بدر بن عبد الله الحبشي المحسني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 352,
+      "guid": "88984e9f-5a00-4536-b429-09f995aea0c5",
+      "startIndex": 311,
+      "text": "أبو إسحق إبراهيم بن محاسن بن شادي البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 456,
+      "guid": "94fec464-73c1-4a26-b9b8-813a03ed0ca8",
+      "startIndex": 425,
+      "text": "إسماعيل بن عبد الله ابن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 565,
+      "guid": "9691ec9f-e54a-4794-b7df-b0442ed2cdaf",
+      "startIndex": 494,
+      "text": "ست الكتبة نعمة ابنة الشيخ أبي الحسن علي بن يحيى بن علي بن محمد بن الطراح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 725,
+      "guid": "bf766a76-46e2-4fb6-b3b5-30a52357563c",
+      "startIndex": 721,
+      "text": "بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 416,
+      "guid": "ca405bf3-e36f-44fb-92ac-89236ae46043",
+      "startIndex": 362,
+      "text": "برهان الدين إبراهيم بن صمصام بن عبد الله الكتاني المصري",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ من أول هذا الجزء إلى آخره سماعاً صاحبه المولى الملك المحسن العالم العامل الورع الزاهد الحافظ الفاضل الجامع لأشتات الفضائل يمين الدين سيد الملوك والسلاطين حسنة الزمان أبي العباس أحمد بن الملك الناصر صلاح الدنيا والدين سلطان الإسلام والمسلمين أبي المظفر يوسف بن أيوب بن شاذي أبقاه الله في طاعته والشيخ المفيد أبو إسحق إبراهيم بن محاسن بن شادي البغدادي والفقيه برهان الدين إبراهيم بن صمصام بن عبد الله الكتاني المصري بقراءة إسماعيل بن عبد الله ابن الأنماطي وهذا خطه. على الشيخة الصينة الأصيلة ست الكتبة نعمة ابنة الشيخ أبي الحسن علي بن يحيى بن علي بن محمد بن الطراح. بسماعها من جدها أبي محمد يحيى بن علي بإجازته من الخطيب وسمع معهم أبو الضياء بدر بن عبد الله الحبشي المحسني في ليلة العشرين من شهر رمضان سنة إحدى وستمائة بدمشق."
+}

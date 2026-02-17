@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "12v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "11500c8e-6666-44e0-aeb2-3538739145e2",
+      "startIndex": 80,
+      "text": "أبي القاسم عبد الصمد بن محمد بن أبي الفضل بن علي بن عبد الواحد الأنصاري الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 374,
+      "guid": "34ce84a0-e83c-46e3-9c2c-b7192c9f3d4a",
+      "startIndex": 320,
+      "text": "زين الدين أبي زكريا يحيى بن علي بن غالب الحضرمي المالقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 809,
+      "guid": "599785e7-07cc-4e62-824f-aece84c28ba7",
+      "startIndex": 750,
+      "text": "المسجد الجامع بدمشق بالمقصورة المنسوبة إلى الخضر عليه السلام",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "71e7d856-48f1-4154-bf48-c6f6cc3deeec",
+      "startIndex": 182,
+      "text": "أبي محمد عبد الكريم بن حمزة بن الخضر بن العباس السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 631,
+      "guid": "743a94c3-0a1e-4445-8a29-eae9fc2c8df1",
+      "startIndex": 545,
+      "text": "أبو محمد عبد المعطي بن علي بن محمد بن عبد الرحمن بن عبد الملك بن محارب القيسي الإسكندري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 674,
+      "guid": "86c08bf8-7136-44bd-ae57-c01f11549930",
+      "startIndex": 647,
+      "text": "محمد بن محمد بن محارب القيسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "610"
+        ]
+      },
+      "endIndex": 747,
+      "guid": "8b52a454-2021-4bba-a7e5-d411ec16bd02",
+      "startIndex": 701,
+      "text": "الخميس العاشر من شهر ربيع الآخر سنة عشر وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 542,
+      "guid": "9170ec94-76df-422e-a835-7ef4d822ba7f",
+      "startIndex": 497,
+      "text": "أبو الحسن علي بن أحمد بن يوسف الأنصاري القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 420,
+      "guid": "c7714c87-8c6c-49ba-9ad9-084f3ac423a4",
+      "startIndex": 381,
+      "text": "أبو القاسم بن أبي بكر بن إبراهيم الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 494,
+      "guid": "deaa29c5-db06-47d7-ad13-3960420f7232",
+      "startIndex": 449,
+      "text": "أبو الحجاج يوسف بن أحمد بن أبي المعافى الحصكفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 446,
+      "guid": "f80998f5-def7-42ba-aebe-e1ee757e13a8",
+      "startIndex": 423,
+      "text": "علي بن عبد السيد بن ظافر",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء الأول من فوائد تمام على القاضي الإمام شرف القضاة جمال الرواة أبي القاسم عبد الصمد بن محمد بن أبي الفضل بن علي بن عبد الواحد الأنصاري الحرستاني بحق إجازته من الشيخ أبي محمد عبد الكريم بن حمزة بن الخضر بن العباس السلمي في الثالث والعشرين من شوال من سنة ست وعشرين وخمس ماية إن لم يكن سماعا بقراءة الفقيه زين الدين أبي زكريا يحيى بن علي بن غالب الحضرمي المالقي عليه أبو القاسم بن أبي بكر بن إبراهيم الشافعي وعلي بن عبد السيد بن ظافر وأبو الحجاج يوسف بن أحمد بن أبي المعافى الحصكفي وأبو الحسن علي بن أحمد بن يوسف الأنصاري القرطبي وأبو محمد عبد المعطي بن علي بن محمد بن عبد الرحمن بن عبد الملك بن محارب القيسي الإسكندري ومثبت أسمائهم محمد بن محمد بن محارب القيسي وهذا خطه وصح وثبت في يوم الخميس العاشر من شهر ربيع الآخر سنة عشر وستماية بالمسجد الجامع بدمشق بالمقصورة المنسوبة إلى الخضر عليه السلام"
+}

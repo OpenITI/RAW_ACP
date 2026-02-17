@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 124"
+      ],
+      "classmark": [
+        "3762/3"
+      ],
+      "folio_number": [
+        "21r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "600"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "221fcfea-091f-4fd2-a934-704e02fffa4a",
+      "startIndex": 117,
+      "text": "الأحد ثاني عشرين ربيع الآخر سنة ستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "22d3645b-dd2b-42d1-892f-d9232c4f3508",
+      "startIndex": 66,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "3d20c478-dbcd-44ba-8e27-91fd2e7675aa",
+      "startIndex": 20,
+      "text": "أبي الحسن علي بن المظفر بن القاسم النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "4871b438-94c8-4fde-9da0-c699b0feed1b",
+      "startIndex": 80,
+      "text": "يوسف بن خليل ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "71a8ef88-3dd7-419b-a7c6-5da286ab95bf",
+      "startIndex": 175,
+      "text": "عبد الرحمن السبتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "a72f87be-dd9d-4541-9643-559f75642498",
+      "startIndex": 211,
+      "text": "علي بن هلال",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعت الكتاب بقراءة أبي الحسن علي بن المظفر بن القاسم النشبي ولده أبو بكر محمد ويوسف بن خليل وبخطه السماع وآخرون يوم الأحد ثاني عشرين ربيع الآخر سنة ستماية نقله من أصله ملخصا عبد الرحمن السبتي ومن خطه نقلت وكتب علي بن هلال "
+}

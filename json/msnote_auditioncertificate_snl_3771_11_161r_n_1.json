@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي بن عاصم ابن المقرئ الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرخصة في تقبيل اليد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 181"
+      ],
+      "classmark": [
+        "3771/11"
+      ],
+      "folio_number": [
+        "161r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 214,
+      "guid": "2ef926f6-2a20-4dfa-9a57-42299be5d830",
+      "startIndex": 183,
+      "text": "محمد بن أحمد بن عثمان ابن الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 84,
+      "guid": "597c6bef-be4c-4b5c-9950-25337ad9f6bb",
+      "startIndex": 52,
+      "text": "أبي القاسم بن يوسف التجيبي السبتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "5eeab103-c08d-4e71-8459-c45a53e193d1",
+      "startIndex": 157,
+      "text": "عبد الله العصروني المؤدب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 264,
+      "guid": "998271ec-f867-481c-a60b-aeddb71baf18",
+      "startIndex": 247,
+      "text": "دار الحديث النورية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "a9548b07-9202-4d92-954b-501e0f8eabfb",
+      "startIndex": 8,
+      "text": "نجم الدين إسماعيل ابن  الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "b509d3d4-9a22-4b20-b344-424f686959bf",
+      "startIndex": 107,
+      "text": " شمس الدين محمد بن أبي بكر بن إبراهيم ابن النقيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "697"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "be122f02-2b84-4e6d-a866-b9ce9b26a2db",
+      "startIndex": 219,
+      "text": "صفر سنة سبع وتسعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "ec48d5fa-fb5e-490c-99db-4bf7097eda5b",
+      "startIndex": 86,
+      "text": "سلامة الجعبري",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من نجم الدين إسماعيل ابن  الخباز بقراءة المحدث أبي القاسم بن يوسف التجيبي السبتي سلامة الجعبري والإمام شمس الدين محمد بن أبي بكر بن إبراهيم ابن النقيب وعبد الله العصروني المؤدب ومحمد بن أحمد بن عثمان ابن الذهبي في صفر سنة سبع وتسعين وستمائة بدار الحديث النورية"
+}

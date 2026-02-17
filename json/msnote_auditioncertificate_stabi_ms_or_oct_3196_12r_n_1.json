@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        " أحمد بن محمد ابن السني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب رياضة المتعلمين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Oct. 3196"
+      ],
+      "folio_number": [
+        "12r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN61032179X/1200/0/00000027.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00019615"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 575,
+      "guid": "000d850c-69cf-44da-8541-a227d02781e3",
+      "startIndex": 543,
+      "text": "إسماعيل بن إبراهيم بن قاسم المحجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 645,
+      "guid": "1d0ad22b-f67a-4934-b145-e842ddf3389b",
+      "startIndex": 642,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 685,
+      "guid": "383b8873-4745-4b86-9c1a-3e31a6494e69",
+      "startIndex": 652,
+      "text": "محمد بن عبد القوي بن بدران المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "4a569db1-bb22-404d-a80d-5b53c76b7517",
+      "startIndex": 89,
+      "text": "صفي الدين أبي محمد عبد الولي بن جبارة بن عبد الولي المرداوي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11- 20"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "661"
+        ]
+      },
+      "endIndex": 755,
+      "guid": "6a834822-c6e6-4ede-bdc1-264e1e50ab74",
+      "startIndex": 691,
+      "text": " يوم الثلاثاء في العشر الأوسط من ذي القعدة سنة إحدى وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 345,
+      "guid": "72f8aaa4-ed69-4406-a113-64556ad9f86a",
+      "startIndex": 295,
+      "text": "عبد الرحمن بن إبراهيم بن الخطيب أحمد بن أبي المكارم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 450,
+      "guid": "8e8dccaf-c893-498c-87a1-a9c4566966d5",
+      "startIndex": 417,
+      "text": "عبد الواحد بن يوسف بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "905f25af-4601-48b0-81a6-ddaa36def794",
+      "startIndex": 393,
+      "text": "محمد بن إبراهيم بن نصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 390,
+      "guid": "91ced205-f600-4248-a5b9-85839965d343",
+      "startIndex": 348,
+      "text": "عبد الرحمن بن محمد بن عبد الله بن عبد الولي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "b20c16ca-82eb-4c28-8ebf-82173f81ad9d",
+      "startIndex": 266,
+      "text": "أسماء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 486,
+      "guid": "cdc0be70-98ce-4e50-95f5-7bc3eb5ddc5f",
+      "startIndex": 455,
+      "text": "عبد الله بن خمخي بن سِرنب الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "cf9f6b5c-a31d-4455-9f22-4aebf13c2535",
+      "startIndex": 273,
+      "text": "محمد بن أحمد بن عزاز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 504,
+      "guid": "d1366ea6-a251-4e9e-b46d-eea995c72d25",
+      "startIndex": 489,
+      "text": "موسى بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "fc2c5937-1bbd-46e8-9bcb-a42ff3ae08dc",
+      "startIndex": 195,
+      "text": "شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرات جميع هذين الجزئين الأول والثاني من عمل يوم وليلة لابن السني على الشيخ الإمام العالم صفي الدين أبي محمد عبد الولي بن جبارة بن عبد الولي المرداوي المقدسي بسماعه فيه؛ فسمعه الشيخ الإمام العالم شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد المقدسي وابنته أسماء ومحمد بن أحمد بن عزاز وعبد الرحمن بن إبراهيم بن الخطيب أحمد بن أبي المكارم وعبد الرحمن بن محمد بن عبد الله بن عبد الولي ومحمد بن إبراهيم بن نصر وعبد الواحد بن يوسف بن أحمد المقدسيون وعبد الله بن خمخي بن سِرنب الحبشي وموسى بن عبد الله عتيق أبي المجد الحجواني المقدسي وسمع إسماعيل بن إبراهيم بن قاسم المحجي مع الجماعة وفاته الوجه الأولى(كذا)  والقائمة بعدها وحضر معه أخوه محمد وكتب محمد بن عبد القوي بن بدران المقدسي وذلك يوم الثلاثاء في العشر الأوسط من ذي القعدة سنة إحدى وستين وستمائة والحمدلله وحده والصلاة على محمد وآله .\nالجزآن من رياضة المتعلمين وعمل يوم وليلة كتبته سهواً وكتب محمد بن عبد القوي."
+}

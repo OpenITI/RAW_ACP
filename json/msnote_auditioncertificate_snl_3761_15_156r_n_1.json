@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "رزق الله بن عبد الوهاب بن عبد العزيز التميمي الحنبلي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسموعات رزق الله الحنبلي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 121"
+      ],
+      "classmark": [
+        "3761/15"
+      ],
+      "folio_number": [
+        "156r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "355b993c-9830-4b74-a714-a8409ee28201",
+      "startIndex": 87,
+      "text": "رزق الله الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "437d20d2-9bb7-4a95-a988-8a82f238acac",
+      "startIndex": 104,
+      "text": "الأثير أبو عبد الله محمد بن محمد بن أبي القاسم المعلم القطان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "persia",
+            "isfahan"
+          ]
+        ]
+      },
+      "endIndex": 225,
+      "guid": "493df2f2-5239-4e2a-96b9-b3508d14a886",
+      "startIndex": 220,
+      "text": "أصبهان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "4eece832-170a-495d-a775-5db49acdcd36",
+      "startIndex": 166,
+      "text": "محمد بن عبد الواحد بن عبد الوهاب الصائغ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "560"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "b82230b9-63e0-4d1a-b302-07260aa394ce",
+      "startIndex": 230,
+      "text": "جمادى الأولى من سنة ستين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "d533f834-9428-4ba1-85e7-ed254271b640",
+      "startIndex": 24,
+      "text": "أبي رشيد محمد بن علي بن محمد بن عمر الباغبان",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع الجزء من الشيخ أبي رشيد محمد بن علي بن محمد بن عمر الباغبان بروايته عن الإمام رزق الله الحنبلي الأثير أبو عبد الله محمد بن محمد بن أبي القاسم المعلم القطان ومحمد بن عبد الواحد بن عبد الوهاب الصائغ بقراءته عليه بأصبهان في جمادى الأولى من سنة ستين وخمس ماية ومن خط الصائغ نقلت"
+}

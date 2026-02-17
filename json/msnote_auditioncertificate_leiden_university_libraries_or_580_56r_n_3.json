@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "56r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "671"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "07ebd941-ca67-49db-b640-bcb5e455baf8",
+      "startIndex": 268,
+      "text": "ثالث رجب الفرد سنة إحدى وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "1d07978e-aab6-4a3b-b5e9-6d918eb9407c",
+      "startIndex": 187,
+      "text": "أبي طاهر الخشوعي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "2be896de-c5da-4d7f-bea5-de6ee3409a3e",
+      "startIndex": 84,
+      "text": "تقي الدين أبي محمد إسماعيل بن إبراهيم بن أبي اليسر شاركر بن عبد الله بن سليمان التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 382,
+      "guid": "957c0a7e-00af-4649-b4ab-2e6583ea658a",
+      "startIndex": 334,
+      "text": "يعقوب بن أحمد بن يعقوب بن عبد الله الحلبي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "turbat_salih"
+          ]
+        ]
+      },
+      "endIndex": 327,
+      "guid": "f7f6bf62-1a88-47f2-86ee-bb772bc3d30a",
+      "startIndex": 308,
+      "text": "تربة أم الصالح بدمشق",
+      "type": "place"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء وهو الرابع من فوائد تمام الرازي على شيخنا الإمام العلامة المسند تقي الدين أبي محمد إسماعيل بن إبراهيم بن أبي اليسر شاركر بن عبد الله بن سليمان التنوخي بحق سماعه له من أبي طاهر الخشوعي بسنده أوله وتسلسل لي الحديث بشرطه وصح ذلك وثبت في مجلسين آخرهما ثالث رجب الفرد سنة إحدى وسبعين وستماية بتربة أم الصالح بدمشق وكتب يعقوب بن أحمد بن يعقوب بن عبد الله الحلبي الشافعي عفا الله عنه حامدا الله تعالى ومصليا على نبيه وآله ومسلما"
+}

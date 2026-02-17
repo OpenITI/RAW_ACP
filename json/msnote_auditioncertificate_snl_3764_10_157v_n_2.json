@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 141"
+      ],
+      "classmark": [
+        "3764/10"
+      ],
+      "folio_number": [
+        "157v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 38,
+      "guid": "0c583b76-3483-4768-a43f-339f03f45edd",
+      "startIndex": 21,
+      "text": "يوسف بن خلف البناء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "26f4418a-41cc-4756-a523-cc34b7e8ca09",
+      "startIndex": 78,
+      "text": "أبو الحسن بن أبي عبد الله بن المقير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "77f4858a-f8f8-49dd-9e88-b9559d9f4421",
+      "startIndex": 40,
+      "text": "أبو نصر المهذب بن أبي الحسن بن قنيدة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "572"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "b550b1ae-bf83-4783-bc96-708a5d6507d5",
+      "startIndex": 117,
+      "text": "رابع عشرين ذي القعدة سنة اثنتين وسبعين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "b837e222-1aaf-4eea-8c74-a6042a9a67af",
+      "startIndex": 184,
+      "text": "ابن الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 13,
+      "guid": "ea3cf86c-2983-41c6-b900-5dd760801276",
+      "startIndex": 9,
+      "text": "شهدة ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من شهدة بقراءة يوسف بن خلف البناء أبو نصر المهذب بن أبي الحسن بن قنيدة وأبو الحسن بن أبي عبد الله بن المقير في رابع عشرين ذي القعدة سنة اثنتين وسبعين وخمس مائة نقلته من خط شيخنا ابن الصابوني"
+}

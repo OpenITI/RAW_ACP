@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "66r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "2d93355e-acd3-43da-bf70-c420e062a43f",
+      "index": 232,
+      "isZeroPoint": false,
+      "startIndex": 32,
+      "text": "أبي البدر إبراهيم بن محمد بن منصور الكرخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "6e87f1f6-de2b-461f-a0fc-dc93949b0de3",
+      "index": 233,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": "الشاهجانية ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "763d7088-a33c-4e81-9bd1-a55a373e6940",
+      "index": 236,
+      "isZeroPoint": false,
+      "startIndex": 150,
+      "text": "يوم الجمعة رابع عشري جمادى الآخرة سنة خمس وثلثين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "b989cd03-8b71-421f-9d03-9fac18b4d97e",
+      "index": 234,
+      "isZeroPoint": false,
+      "startIndex": 103,
+      "text": "أبي البقاء بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "dbd0e579-cac1-43a5-939f-0c1dd388e18f",
+      "index": 235,
+      "isZeroPoint": false,
+      "startIndex": 136,
+      "text": "عمر ",
+      "type": "person"
+    }
+  ],
+  "text": " وسمع هذه التسعة مجالس أيضا على أبي البدر إبراهيم بن محمد بن منصور الكرخي بروايته عن الشاهجانية بقراءة أبي البقاء بن محمد بن طبرزد أخوه عمر وآخرون في يوم الجمعة رابع عشري جمادى الآخرة سنة خمس وثلثين وخمسماية وبخطه أيضا ما في أول الصفحة"
+}

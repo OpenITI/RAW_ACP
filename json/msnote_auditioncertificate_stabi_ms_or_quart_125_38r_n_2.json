@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " الجزء فيه من حديث عفان بن مسلم الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "38r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000077.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059153"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "261f7479-e65b-433f-9319-2d10ea659783",
+      "startIndex": 75,
+      "text": "سيف الدين أبو بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 357,
+      "guid": "3302b7f7-8e0b-4489-af16-e340422278dd",
+      "startIndex": 313,
+      "text": "أحمد بن أيبك بن عبد الله الحسامي ابن الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "3abf26ea-141e-488f-bebd-c7941bcc1593",
+      "startIndex": 113,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "6b6360cd-f6cc-49ba-a239-e64d2cbeb2bb",
+      "startIndex": 95,
+      "text": "عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "6c105944-d621-4b1f-997a-71060278e5f0",
+      "startIndex": 192,
+      "text": "ثاني عشرين رمضان سنة خمس وخمسين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 164,
+      "guid": "792e3ac8-3c5b-4d2e-92e4-791f327a7f54",
+      "startIndex": 161,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "9aa75b72-9de6-4f5d-a568-97ebd7641fb7",
+      "startIndex": 282,
+      "text": "فتح الدين اليعمري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "9cc6988a-6340-42d5-9dd1-fe32f80258ae",
+      "startIndex": 119,
+      "text": "محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 240,
+      "guid": "af347369-e812-4015-b6b2-b7c01d6eb455",
+      "startIndex": 232,
+      "text": "دار الشيخ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "e8c19aee-084c-4400-a96d-dbc82f5d177f",
+      "startIndex": 29,
+      "text": "قطب الدين أيوب بن عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 26,
+      "guid": "f02108cb-d68b-4119-87f2-a0d81a6fffdf",
+      "startIndex": 17,
+      "text": "التقي عبيد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه منه بقراءة التقي عبيد، قطب الدين أيوب بن عبد الرحيم بن المسمع، وولده سيف الدين أبو بكر، وعثمان بن المسمع، وأحمد ومحمود ولدا لؤلؤ بن عبد الله عتيق المسمع، وأحمد بن المقرئ، وكتب السماع في ثاني عشرين رمضان سنة خمس وخمسين وستمئة بدار الشيخ وأجاز لهم ما رواه، نقله من الأصل الحافظ فتح الدين اليعمري، ومن خطه نقل أحمد بن أيبك بن عبد الله الحسامي ابن الدمياطي غفر الله له ذنوبه."
+}

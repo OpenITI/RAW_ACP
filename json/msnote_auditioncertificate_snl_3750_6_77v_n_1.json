@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إبراهيم بن حرب السمسار العسكري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند أبي هريرة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 63 "
+      ],
+      "classmark": [
+        "3750/6"
+      ],
+      "folio_number": [
+        "77v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 299,
+      "guid": "1609c81d-27d9-4c8b-ab8b-fe19982f7674",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 282,
+      "text": "محمد بن عبد المنعم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "63d8ac94-2717-41fc-8f14-913e1f7052e4",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 73,
+      "text": "أبي جعفر محمد بن أحمد بن نصر الصيدلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 144,
+      "guid": "7f225496-2b33-4617-a7f3-0c29da81d6a3",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 136,
+      "text": "أبي نعيم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "598"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "9c193347-742e-4f3b-9b8e-1b557e2825be",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 148,
+      "text": "يوم السبت سادس عشرين ذي القعدة من سنة ثمان وتسعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "a937f2a5-2d96-4d09-aae4-bc2e1c99c18d",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 125,
+      "text": "أبي علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "cf722464-5f20-44f5-bd9f-a3a77616e8fb",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 213,
+      "text": "محمد بن عبد الواحد بن أحمد بن عبد الرحمن المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " وعليه أيضا ما صورته قرأت جميع ما في هذا الجزء من حديث العسكري على الشيخ أبي جعفر محمد بن أحمد بن نصر الصيدلاني بحق حضوره من أبي علي عن أبي نعيم في يوم السبت سادس عشرين ذي القعدة من سنة ثمان وتسعين وخمس ماية كتبه محمد بن عبد الواحد بن أحمد بن عبد الرحمن المقدسي ونقله من خطه وشاهده محمد بن عبد المنعم"
+}

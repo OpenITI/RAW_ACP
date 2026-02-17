@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "205v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "466"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "5835fcab-616e-49e2-b870-b217fc569884",
+      "startIndex": 88,
+      "text": "ذي القعدة سنة ست وستين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 29,
+      "guid": "8a6fa2da-589a-4d82-9704-20aba8518961",
+      "startIndex": 10,
+      "text": " علي بن أحمد بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 29,
+      "guid": "99eadda0-ef2c-4c76-b36f-79bcc3d46bee",
+      "startIndex": 17,
+      "text": " أحمد بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "d2594543-6b93-4d0e-a245-455fd01842ec",
+      "startIndex": 45,
+      "text": " أبي محمد بن الأكفاني",
+      "type": "person"
+    }
+  ],
+  "text": "شاهدت سماع علي بن أحمد بن قبيس من أبيه بقراءة أبي محمد بن الأكفاني ومن خطه نقلت وذلك في ذي القعدة سنة ست وستين وأربعمائة"
+}

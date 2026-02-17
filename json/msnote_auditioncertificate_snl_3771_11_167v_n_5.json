@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي بن عاصم ابن المقرئ الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرخصة في تقبيل اليد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 181"
+      ],
+      "classmark": [
+        "3771/11"
+      ],
+      "folio_number": [
+        "167v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "04795086-3d8d-4c33-b174-4f52d0fe2a25",
+      "startIndex": 92,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 158,
+      "guid": "5ae37d69-efa1-4397-a906-5de62158f67d",
+      "startIndex": 139,
+      "text": "سفح قاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "5ea06edf-f669-49bc-a170-90029f3e8f1f",
+      "startIndex": 164,
+      "text": " محمد بن أبي بكر عبد الله بن أبي محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "718"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "6943607f-f1e5-4e02-a476-5cc310832f96",
+      "startIndex": 105,
+      "text": "ثامن صفر سنة ثماني عشرة وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 22,
+      "guid": "b7c3a46c-7c47-4e8c-ac37-7a9ea6358246",
+      "startIndex": 10,
+      "text": "أبي محمد عيسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "ff6b415c-c3a3-410b-bc43-7a8575123e98",
+      "startIndex": 38,
+      "text": " عبد الله بن أحمد ابن المحب المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على أبي محمد عيسى المذكور بقراءة عبد الله بن أحمد ابن المحب المقدسي ومن خطه لخصت ولده محمد وذلك في ثامن صفر سنة ثماني عشرة وسبعمائة بسفح قاسيون ظاهر دمشق لخصه محمد بن أبي بكر عبد الله بن أبي محمد عفا الله عنهم بكرمه"
+}

@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "سريج بن يونس بن إبراهيم بن شعيب البلخي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب القضاء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/9"
+      ],
+      "folio_number": [
+        "123v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "24bc76ba-5979-4e79-94ea-c9de37ee28f0",
+      "startIndex": 165,
+      "text": " لؤلؤ الأرمني الجنس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "463d97c7-7b24-47c8-880e-961370377ffe",
+      "startIndex": 51,
+      "text": "شمس الدين أبي الحجاج يوسف بن خليل بن عبد الله الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 280,
+      "guid": "577f87aa-6326-4189-8988-737520aff2b7",
+      "startIndex": 273,
+      "text": "جامع حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "5af7905b-9e6c-4ef3-9491-8c733fdd42cf",
+      "startIndex": 190,
+      "text": "عبد الغفار التركي السيفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "631"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "9e4791df-0341-41e4-83b1-3a9eaedb1b7c",
+      "startIndex": 223,
+      "text": "يوم الأربعاء مستهل رمضان سنة إحدى وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "ced1fa37-f58d-406b-aa45-9cd6cebffabc",
+      "startIndex": 124,
+      "text": "محمود بن أبي القاسم بن بدران الدشتي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم الحافظ شمس الدين أبي الحجاج يوسف بن خليل بن عبد الله الدمشقي بحق سنده فيه فسمعه محمود بن أبي القاسم بن بدران الدشتي وفتاي لؤلؤ الأرمني الجنس كتبه عبد الغفار التركي السيفي وذلك في يوم الأربعاء مستهل رمضان سنة إحدى وثلثين وستماية بجامع حلب"
+}

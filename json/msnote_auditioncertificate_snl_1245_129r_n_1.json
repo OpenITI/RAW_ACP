@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبدالله بن الزبير القرشي الحميدي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند الحميدي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "1245"
+      ],
+      "folio_number": [
+        "129r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 17,
+      "guid": "0bb2ac88-eb9f-4375-8ca4-ae0e58c99926",
+      "startIndex": 10,
+      "text": "ابن عماد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "1dc1b010-e766-4e78-af33-3a6c543f5726",
+      "startIndex": 26,
+      "text": "عبد الرحمن بن محمد بن رسلان بن عبد الله المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "226373c3-fafc-46ee-973e-393a305b0652",
+      "startIndex": 271,
+      "text": "عبد الناصر بن مفضل بن عبد الناصر المخزومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "3c28e160-ccd4-4150-bf18-6f22adf85d59",
+      "startIndex": 228,
+      "text": "أبو محمد عبد الله بن غلام الله بن إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "5695b693-e78b-4bc4-93d4-1fa2a8e30230",
+      "startIndex": 314,
+      "text": "أم ولد المسمع [... ورد]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "5816245a-3252-46ce-b966-16defdaf70d3",
+      "startIndex": 189,
+      "text": "أبو إسحق إبراهيم بن مرتفع بن نصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "cbdeea7e-649f-463c-9171-c89a345c25f7",
+      "startIndex": 141,
+      "text": "أبو محمد عبد القوي بن أبي العز بن داود بن عزون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1- 10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "622"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "dd465cf1-c702-464d-9898-d272ca5b67b6",
+      "startIndex": 88,
+      "text": " العشر الأول من ربيع الآخر سنة اثنتين وعشرين وستمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه على ابن عماد بقراءة عبد الرحمن بن محمد بن رسلان بن عبد الله المقرئ ومن خطه نقلت في العشر الأول من ربيع الآخر سنة اثنتين وعشرين وستمائة أبو محمد عبد القوي بن أبي العز بن داود بن عزون وأبو إسحق إبراهيم بن مرتفع بن نصر وسبطه أبو محمد عبد الله بن غلام الله بن إسماعيل وعبد الناصر بن مفضل بن عبد الناصر المخزومي وأم ولد المسمع [... ورد]"
+}

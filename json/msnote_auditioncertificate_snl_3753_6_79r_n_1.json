@@ -1,0 +1,308 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن المفضل بن أحمد الثقفي الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/6"
+      ],
+      "folio_number": [
+        "79r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "0199cfd3-7e22-4eaf-bbfc-9ebba0788deb",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 169,
+      "text": "ابن رواحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 591,
+      "guid": "14a200b8-0bdc-41b5-8bd2-3367d0beb853",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 589,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 432,
+      "guid": "242a2fea-c99b-48a2-b980-c30d184ba34c",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 375,
+      "text": "فخر الدين أبو عمرو عثمان بن محمد بن عثمان عرف بابن الجيعان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "671"
+        ]
+      },
+      "endIndex": 1004,
+      "guid": "41373b64-393f-4ba6-8f00-24461d16cf5f",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 947,
+      "text": "يوم الأربعاء السابع من شهر شوال من سنة إحدى وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 586,
+      "guid": "4993a81a-9ad2-42b4-8ed9-d58008025f26",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 583,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "54308121-3dba-4929-8e43-37aa34dfe1a2",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 94,
+      "text": "شمس الدين أبي عبد الله محمد بن محمد بن الحسين الكنجي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 323,
+      "guid": "5fe1dd93-25ac-4d03-b73d-9c80679494db",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 269,
+      "text": "نجم الدين أبو محمد إسماعيل بن إبراهيم بن سالم بن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 733,
+      "guid": "69cbf534-78d3-4cb4-812a-afd9aa7d07f4",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 692,
+      "text": "أبو بكر بن علي ابن إسماعيل النجار الاعزازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 904,
+      "guid": "703aa2d1-f5e7-474c-977e-442e20091368",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 878,
+      "text": "إبراهيم بن عبد الله بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 1157,
+      "guid": "81092584-434c-4e70-b0cc-e6c72d5e2566",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 1115,
+      "text": "صحيح ذلك كتبه محمد بن محمد بن الحسين الكنجي",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 942,
+      "guid": "81bee541-be17-40eb-aacc-95fd458e2c4e",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 923,
+      "text": "أحمد بن سامة بن كوكب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "86f49114-e37e-4230-a989-4ec59382c3e4",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 199,
+      "text": "نور الدين أبو الحسن علي بن مسعود بن نفيس الموصلي الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 800,
+      "guid": "b15f08c0-7dc9-4a4b-9ccd-fb586e77ee35",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 782,
+      "text": "محمد بن يحيى بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "zar'"
+          ]
+        ]
+      },
+      "endIndex": 1043,
+      "guid": "bdfb9c48-dc7e-4dd5-8091-fe2eb6a213cf",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 1007,
+      "text": "مدينة زرع بمدرسة الحاج عطالله الفران ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 444,
+      "guid": "c255e128-0df0-44b4-9a90-5ec0dbf0eccd",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 440,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 339,
+      "guid": "ce7188e5-4383-42f4-8ed2-e46fc8cbaccc",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 336,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 689,
+      "guid": "f8623adc-7176-4b9b-bc71-24dc6ad7c5d8",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 652,
+      "text": "عبد السلام بن سالم بن عبد الله الفارقي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء وهو الثالث من الثقفيات والثاني قبله على الشيخ الإمام المحدث الزاهد الصالح شمس الدين أبي عبد الله محمد بن محمد بن الحسين الكنجي الصوفي بسماعه لهما من ابن رواحة الشيخ الإمام المفيد نور الدين أبو الحسن علي بن مسعود بن نفيس الموصلي الحلبي والشيخ الفقيه نجم الدين أبو محمد إسماعيل بن إبراهيم بن سالم بن الخباز وأحضر ولده محمداً في الخامسة والشيخ الفقيه الفاضل فخر الدين أبو عمرو عثمان بن محمد بن عثمان عرف بابن الجيعان وولده محمد وفاته من أول الجزء الثاني إلى حديث عبد الله بن مسعود قال قال رسول الله صلى الله عليه وسلم لا حسد إلا في اثنتين فقط وسمعهما كاملا بلا فوات أحمد وعلي ابنا عبد الله بن محمد وسيف بن محمد بن عبد العزيز الدرعيون وعبد السلام بن سالم بن عبد الله الفارقي وأبو بكر بن علي ابن إسماعيل النجار الاعزازي وسمع الجميع خلا ثلث أحاديث من أول الجزء الثاني محمد بن يحيى بن عمر وسمع من حديث ابن عباس يوم خيبر وقدره أربع ورقات أو خمسة من أول الجزء الثاني إبراهيم بن عبد الله بن محمد وصح بقراءة كاتبه أحمد بن سامة بن كوكب في يوم الأربعاء السابع من شهر شوال من سنة إحدى وسبعين وستماية بمدينة زرع بمدرسة الحاج عطالله الفران والحمد لله وصلى الله على محمد وآله وصحبه وسلم تسليما كثيرا طيبا مباركا صحيح ذلك كتبه محمد بن محمد بن الحسين الكنجي"
+}

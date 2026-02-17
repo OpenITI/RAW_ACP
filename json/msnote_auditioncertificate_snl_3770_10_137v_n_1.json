@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إبراهيم المعدل الرازي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "مشيخة أبي عبد الله الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 173"
+      ],
+      "classmark": [
+        "3770/10"
+      ],
+      "folio_number": [
+        "137v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "28a65192-cc71-4f5b-ace0-d58eac322737",
+      "startIndex": 34,
+      "text": "رشيد الدين أبي الحسين يحيى بن علي بن عبد الله القرشي العطار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 333,
+      "guid": "3fc4125e-9467-4507-ad32-abc1940adc00",
+      "startIndex": 308,
+      "text": "دار الصاحب كمال الدين بمصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "42951cd7-00b2-41f0-9092-efcde981dcdd",
+      "startIndex": 166,
+      "text": "كمال الدين عمر بن أحمد بن أبي جرادة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "7bf4ac08-758b-4018-a376-258c8205eeca",
+      "startIndex": 104,
+      "text": "إسماعيل بن ياسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "a566f521-2a81-48f8-9ce0-4bfa51195d40",
+      "startIndex": 203,
+      "text": "ناصر الدين محمد بن نجم الدين عبد الواحد ابن الدقاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "658"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "e176e363-fb98-4277-8d81-8da8722150d7",
+      "startIndex": 263,
+      "text": " العشرين من ذي الحجة سنة ثمان وخمسين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "f8aed935-e5e6-4b5e-a0f9-cd0e38206e6f",
+      "startIndex": 132,
+      "text": "عبد المؤمن بن خلف الدمياطي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع مشيخة الرازي على الشيخ الإمام رشيد الدين أبي الحسين يحيى بن علي بن عبد الله القرشي العطار بسماعه من إسماعيل بن ياسين عنه بقراءة عبد المؤمن بن خلف الدمياطي الصاحب كمال الدين عمر بن أحمد بن أبي جرادة وناصر الدين محمد بن نجم الدين عبد الواحد ابن الدقاق وآخرون في العشرين من ذي الحجة سنة ثمان وخمسين وستمية بدار الصاحب كمال الدين بمصر"
+}

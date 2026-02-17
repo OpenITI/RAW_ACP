@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        " عبد الله بن مسلم بن قتيبة الدينوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أدب الكاتب "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "AbdulRahman AlMaiman"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "HAFIDEFENDI 274"
+      ],
+      "folio_number": [
+        "147v"
+      ],
+      "library": [
+        "Süleymaniye Kütüphanesi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "4b279ee7-c92b-413f-92cd-169eba70ceff",
+      "startIndex": 76,
+      "text": "شرف الدين أبي عبد الله الحسين بن إبراهيم بن الحسين بن يوسف الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 485,
+      "guid": "4dadde30-3dd1-4e30-bfc9-2a375a92d233",
+      "startIndex": 449,
+      "text": "شرف الدين عبد المحسن بن علي بن المشرف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "qaymaz_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 754,
+      "guid": "55e041db-af6b-44d8-a6b1-57202b54b236",
+      "startIndex": 709,
+      "text": "دمشق المحروسة بمدرسة قايماز النجمي تجاه القلعة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 824,
+      "guid": "773c37ed-5825-4d04-9a0d-a5de0509c9c7",
+      "startIndex": 761,
+      "text": "محمد بن إبراهيم بن أبي عبد الله محمد بن أبي نصر بن النحاس الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 541,
+      "guid": "78d8f2c4-3c79-42c3-a05c-ea36055bb815",
+      "startIndex": 488,
+      "text": "أبو العباس أحمد بن محمد بن يوسف الحلبي عرف بابن السابق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 706,
+      "guid": "7e15dfa3-9415-4006-b502-9ec01b6021c1",
+      "startIndex": 652,
+      "text": "الثلثاء لخمس بقين من صفر المبارك سنة خمس وخمسين وست مئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 284,
+      "guid": "8f6fd7b0-4a02-43ec-89d1-d1faf9074369",
+      "startIndex": 271,
+      "text": " ابن الجواليقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 601,
+      "guid": "ccfffa59-9e5b-4ce3-bde4-53454f572318",
+      "startIndex": 574,
+      "text": "محمد بن محمود بن علوان الرقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 326,
+      "guid": "cdd250fb-cd77-409e-a9d3-1595b0dd6403",
+      "startIndex": 308,
+      "text": " ابن خازن دار العلم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "dda75765-6362-40c4-9bb2-75eb6bc2b02c",
+      "startIndex": 173,
+      "text": " أبي نصر الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "e18310e4-0cf8-412d-ad83-119695a0256c",
+      "startIndex": 213,
+      "text": "تاج الدين أبي اليمن الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 446,
+      "guid": "e420f0c1-8b08-44b7-a12d-fa81cc242605",
+      "startIndex": 387,
+      "text": "ضياء الدين أبو المعالي محمد بن محمد بن عبد القاهر بن النصيبي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع كتاب أدب الكاتب على مولاي وسيدي وشيخي الشيخ الإمام العلامة المتقن شرف الدين أبي عبد الله الحسين بن إبراهيم بن الحسين بن يوسف الإربلي أمتع الله بحياته بسماعه فيه عن أبي نصر الواسطي وبإجازة شيخنا من الشيخ تاج الدين أبي اليمن الكندي إن لم يكن سماعا بسماع الكندي من ابن الجواليقي بسماع ابن الجواليقي من ابن خازن دار العلم بطريقه من ابن خازن دار العلم المعروفة فسمعه السادة الفضلاء ضياء الدين أبو المعالي محمد بن محمد بن عبد القاهر بن النصيبي وشرف الدين عبد المحسن بن علي بن المشرف وأبو العباس أحمد بن محمد بن يوسف الحلبي عرف بابن السابق وسمع إلى قوله الأوقات مضى هزيع محمد بن محمود بن علوان الرقي وسمع جماعة بفوات لم يضبط وذلك في مجالس آخرها يوم الثلثاء لخمس بقين من صفر المبارك سنة خمس وخمسين وست مئة بدمشق المحروسة بمدرسة قايماز النجمي تجاه القلعة وكتب محمد بن إبراهيم بن أبي عبد الله محمد بن أبي نصر بن النحاس الحلبي حامدًا ومصليا ومسلما"
+}

@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضل بن أحمد بن محمد الفراوي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "العوالي المائة من مسموعات الفراوي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 172"
+      ],
+      "classmark": [
+        "3770/1"
+      ],
+      "folio_number": [
+        "2v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "657"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "046c0875-ad33-4f26-b7bd-f97b9e703ab9",
+      "startIndex": 163,
+      "text": "الخميس ثامن عشر جمادى الآخرة سنة سبع وخمسين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "70d3f358-1b25-478a-942e-52cea333bc8e",
+      "startIndex": 67,
+      "text": "شرف الدين محمد بن أحمد بن إبراهيم القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 231,
+      "guid": "73b9b189-5b2c-4a78-988e-7c238e65218f",
+      "startIndex": 215,
+      "text": "منزل المسمع بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "b882f84f-f2c2-4c05-a766-670ceed3a04b",
+      "startIndex": 52,
+      "text": "الحراني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "efd4a7d3-5ffd-4a48-b696-ea079b3ca433",
+      "startIndex": 108,
+      "text": "تقي الدين محمود بن شرف الدين أحمد بن يوسف البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 40,
+      "guid": "fdda816e-bad2-4d4a-945e-bce476073433",
+      "startIndex": 11,
+      "text": "محمد بن سليمان الصقلي الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها على محمد بن سليمان الصقلي الأنصاري بسماعه من الحراني بقراءة شرف الدين محمد بن أحمد بن إبراهيم القرشي تقي الدين محمود بن شرف الدين أحمد بن يوسف البعلبكي يوم الخميس ثامن عشر جمادى الآخرة سنة سبع وخمسين وستمئة بمنزل المسمع بدمشق"
+}

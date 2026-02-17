@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "آدم بن أبي إياس العسقلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث آدم بن أبي إياس العسقلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/10"
+      ],
+      "folio_number": [
+        "181r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "639"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "b461da99-a4f2-4c48-bbed-529540f6b1be",
+      "startIndex": 252,
+      "text": "يوم الخميس سابع عشرين ذي القعدة من سنة تسع وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "cf5df0b3-15e4-4c57-a46d-78aacd73b3e3",
+      "startIndex": 76,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 250,
+      "guid": "d605a229-6bfd-40cd-bef1-a2a12b980bf6",
+      "startIndex": 206,
+      "text": "أحمد بن محمود بن إبراهيم بن نبهان ابن الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "e1a94d2d-076f-4ca2-970b-ce7350a7b37c",
+      "startIndex": 151,
+      "text": "أبو علي الحسن بن علي بن أبي بكر بن يونس بن الجلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 338,
+      "guid": "fa6dcce3-6c18-44de-a1a3-0428ea16b91f",
+      "startIndex": 311,
+      "text": "مدرسة المسمع بسفح جبل قاسيون",
+      "type": "place"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم الحافظ الزاهد الناقد بقية السلف ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي بسماعه فيه فسمع أبو علي الحسن بن علي بن أبي بكر بن يونس بن الجلال وكتب أحمد بن محمود بن إبراهيم بن نبهان ابن الجوهري يوم الخميس سابع عشرين ذي القعدة من سنة تسع وثلثين وستماية بمدرسة المسمع بسفح جبل قاسيون والحمد لله رب العالمين وصلوته على محمد وآله فيه مصلح عبد"
+}

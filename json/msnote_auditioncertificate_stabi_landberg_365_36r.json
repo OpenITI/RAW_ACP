@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "البخاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 365"
+      ],
+      "folio_number": [
+        "36r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN635598957/1200/0/00000077.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007022"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "02c1dff1-ba65-43cf-952e-08ae1da4671c",
+      "startIndex": 57,
+      "text": "محمد بن يوسف الخطيب المنوفي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "853"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "92679c28-f178-4556-a44f-6aba3e64a7de",
+      "startIndex": 119,
+      "text": "تاسع عشر شهر رمضان سنة ثلاث وخمسين وثمان مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 33,
+      "guid": "bd7d29e5-1f8f-4435-b164-1c14a69dbe15",
+      "startIndex": 12,
+      "text": "نور الدين علي الهربيطي",
+      "type": "person"
+    }
+  ],
+  "text": "أنهاه قراءة نور الدين علي الهربيطي نفع الله به على كاتبه محمد بن يوسف الخطيب المنوفي الشافعي لطف الله به وبالمسلمين في تاسع عشر شهر رمضان سنة ثلاث وخمسين وثمان مائة."
+}

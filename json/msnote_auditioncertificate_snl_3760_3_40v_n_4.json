@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج3"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/3"
+      ],
+      "folio_number": [
+        "40v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "352a936b-cfce-48b5-9053-ac51a7ea9d86",
+      "startIndex": 8,
+      "text": " أبي القاسم أحمد بن المبارك ابن عبد الباقي الدقاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "554"
+        ]
+      },
+      "endIndex": 217,
+      "guid": "3b2eced6-3ac2-4395-9c4b-9a759a7fa2ce",
+      "startIndex": 169,
+      "text": " يوم الأحد خامس عشر رجب سنة أربع وخمسين وخمسماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "78e01a09-73cc-4cbc-b336-4687ecdadbf5",
+      "startIndex": 130,
+      "text": "هبة الله بن صدقة بن هبة الله بن ثابت",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "bb002710-ebb0-4f4e-8688-9abe3042f9c8",
+      "startIndex": 68,
+      "text": "عاصم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "d7c22eab-cf99-424a-8c70-0a75fe6a3e4c",
+      "startIndex": 80,
+      "text": "أحمد بن يحيى بن هبة الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "e1186943-b194-4ead-91cf-f0b7e538c685",
+      "startIndex": 110,
+      "text": "أبو بكر زيد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من أبي القاسم أحمد بن المبارك ابن عبد الباقي الدقاق بسماعه من عاصم بقراءة أحمد بن يحيى بن هبة الله أخوه أبو بكر زيد وآخرون وهبة الله بن صدقة بن هبة الله بن ثابت في يوم الأحد خامس عشر رجب سنة أربع وخمسين وخمسماية "
+}

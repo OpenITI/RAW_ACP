@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 9"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "33r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "0d8f6240-948e-4395-b9fa-e17d8edc64da",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 149,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "23d0bf5e-7f77-4b5d-a4bc-c4a14c84d7bc",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 217,
+      "text": "داود بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 215,
+      "guid": "2b6f7d73-2c1b-4c00-87ac-9ed55ca56ce4",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 211,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "2ef0c5b7-d306-4bc2-87ec-70972159031c",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 155,
+      "text": "العماد أحمد بن الشيخ العماد إبراهيم بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "648"
+        ]
+      },
+      "endIndex": 430,
+      "guid": "36dae4a3-a608-4c4f-b95e-2566c2d2e3eb",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 373,
+      "text": "يوم الاثنين رابع عشر جمادى الآخرة سنة ثمان وأربعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "5bbcd6a8-e1bf-4f03-89c7-099523b2bcb7",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 345,
+      "text": "محمود بن محمد المراتبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "6fbe18e3-0f98-44be-ab14-311cfd7ecc97",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 97,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 342,
+      "guid": "7f584d49-3716-406f-a8e0-f2063613656f",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 327,
+      "text": "محمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "85ffd538-3fbe-4833-917b-b0e96675d162",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 111,
+      "text": "عبد الله بن أحمد بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "af0a25cc-5ad2-4e08-a93b-ea3bdaba3dd5",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 285,
+      "text": "محمد بن عبد الرحمن بن عمر بن عوض",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "b9841d86-568d-4bcc-8b47-14436a388cf4",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 451,
+      "guid": "c9fc951a-4613-4092-9475-4d597bcaefc0",
+      "index": 74,
+      "isZeroPoint": false,
+      "startIndex": 433,
+      "text": "دار الحديث الأشرفية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "f686ae7e-6e81-4bcb-a850-df85043e3030",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 257,
+      "text": "محمد بن أحمد بن عبد الرحيم",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على الشيخ الإمام العالم زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة المقدسي بسماعه من الثقفي بقراءة عبد الله بن أحمد بن محمد المقدسي أخوه محمد والعماد أحمد بن الشيخ العماد إبراهيم بن عبد الواحد وابنه محمد وداود بن حمزة ولد أخيه حمزة بن عبد الله ومحمد بن أحمد بن عبد الرحيم ومحمد بن عبد الرحمن بن عمر بن عوض وابن عمه محمد بن عبد الله ومحمود بن محمد المراتبي وذلك يوم الاثنين رابع عشر جمادى الآخرة سنة ثمان وأربعين وستماية بدار الحديث الأشرفية وأجازهم "
+}

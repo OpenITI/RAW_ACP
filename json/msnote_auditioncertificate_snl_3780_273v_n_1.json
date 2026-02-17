@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "273v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 15,
+      "guid": "22be1ea4-6f83-43b5-81e0-a9f0dec2bc14",
+      "startIndex": 5,
+      "text": "علي بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "8e1cdb09-bf7a-4c63-bd5e-8b0af87bf118",
+      "startIndex": 32,
+      "text": "أبي محمد بن الأكفاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "year": [
+          "466"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "fd5a4aa0-7e0d-4fbd-944e-713e3e71aa38",
+      "startIndex": 69,
+      "text": "ست وستين وأربعمائة",
+      "type": "date"
+    }
+  ],
+  "text": "سمعه علي بن قبيس من أبيه بقراءة أبي محمد بن الأكفاني في جماعة في سنة ست وستين وأربعمائة"
+}

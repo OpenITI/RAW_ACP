@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يوسف بن محمد البرزالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سلوك طريق السلف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 75"
+      ],
+      "classmark": [
+        "3754/1"
+      ],
+      "folio_number": [
+        "23v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "793073cb-a6e9-4f03-9e11-664951e2f778",
+      "index": 130,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "عبد الحق بن خلف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "7a95e531-5257-4516-9076-e2cd134e81ac",
+      "index": 134,
+      "isZeroPoint": false,
+      "startIndex": 261,
+      "text": "خديجة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "923f39f2-7977-413b-939c-3f1383be662d",
+      "index": 133,
+      "isZeroPoint": false,
+      "startIndex": 255,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "ab1dd52a-fa37-49b0-901a-d643147fe118",
+      "index": 129,
+      "isZeroPoint": false,
+      "startIndex": 57,
+      "text": "شمس الدين أبي عبد الله محمد بن أحمد بن منعة بن منيع بن مطرف القنوي ثم الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "cb08741a-d8a6-407d-83ee-c065c4bccf7b",
+      "index": 132,
+      "isZeroPoint": false,
+      "startIndex": 249,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 356,
+      "guid": "d5a38f56-1107-4e87-9d29-2ce0d84382b2",
+      "index": 136,
+      "isZeroPoint": false,
+      "startIndex": 334,
+      "text": "منزل المسمع بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "db9d7bf3-930e-4da1-a13a-acbef13ffcff",
+      "index": 131,
+      "isZeroPoint": false,
+      "startIndex": 208,
+      "text": "عبد الله بن أحمد بن المحب المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "725"
+        ]
+      },
+      "endIndex": 331,
+      "guid": "e1b78c61-fc59-4b48-ba3c-6211343cec14",
+      "index": 135,
+      "isZeroPoint": false,
+      "startIndex": 275,
+      "text": "يوم الاثنين السادس والعشرين من صفر سنة خمس عشرين وسبعماية",
+      "type": "date"
+    }
+  ],
+  "text": " سمع هذه المشيخة دون كلام مخرجها على الشيخ المعمر الصالح شمس الدين أبي عبد الله محمد بن أحمد بن منعة بن منيع بن مطرف القنوي ثم الصالحي بإجازته إن لم يكن حضورا من المخرجة له عبد الحق بن خلف بقراءة كاتب السماع عبد الله بن أحمد بن المحب المقدسي أولاده محمد وأحمد وخديجة وصح ذلك يوم الاثنين السادس والعشرين من صفر سنة خمس عشرين وسبعماية بمنزل المسمع بسفح قاسيون وأجاز لهم الشيخ مروياته "
+}

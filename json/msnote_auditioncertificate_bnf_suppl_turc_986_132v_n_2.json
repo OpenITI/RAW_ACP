@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "132v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f137.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f137.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "710"
+        ]
+      },
+      "endIndex": 572,
+      "guid": "0e68b32f-d70f-4f9a-a18e-bdded8e303c1",
+      "startIndex": 535,
+      "text": "يوم الجمعة سادس شوال سنة عشر وسبع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "8ce398d7-6ce5-429b-be83-3e21647ad351"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 396,
+      "guid": "325ba415-3780-4b6c-9691-0efaed72a526",
+      "startIndex": 351,
+      "text": "صلاح الدين خليل بن بدر الدين كيكلدي بن العلائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 451,
+      "guid": "4ff0b4ee-9443-47e3-a04f-59af9395ebaf",
+      "startIndex": 399,
+      "text": "زين الدين عمر بن إبراهيم بن عمر بن المهذب ابن الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "92a43b0c-6c15-4876-b787-f923abaf81a0",
+      "startIndex": 99,
+      "text": "عماد الدين أبي المعالي محمد بن علي بن محمد بن علي البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 341,
+      "guid": "9e4b8546-a59b-4f50-b214-eccf5ecb0182",
+      "startIndex": 298,
+      "text": "عبد الرحمن بن محمد بن عبد الرحمن بن البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "a39c3737-66ea-48d3-9349-87c3edecf2be",
+      "startIndex": 39,
+      "text": "شهاب الدين أبي العباس أحمد بن سليمان بن مروان ابن البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "a757495b-8f90-4a2c-96d7-872756075f11",
+      "startIndex": 265,
+      "text": "السخاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 480,
+      "guid": "afcfc2dd-7375-484c-9e55-7c33f98fea55",
+      "startIndex": 454,
+      "text": "محمد بن خلف بن عمر الهزكوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 523,
+      "guid": "e2d76a5e-f220-4ded-9f4b-5fece251e216",
+      "startIndex": 483,
+      "text": "داود بن يعقوب بن يوسف [النرىوىىي] المغربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "f2cc6bfb-bc86-4d69-9072-b7f28eefac99",
+      "startIndex": 158,
+      "text": "شمس الدين أبي عبد الله محمد بن أبي بكر بن عثمان بن مشرق الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على المشايخ الثلاثة العدول المسند شهاب الدين أبي العباس أحمد بن سليمان بن مروان ابن البعلبكي وعماد الدين أبي المعالي محمد بن علي بن محمد بن علي البالسي وشمس الدين أبي عبد الله محمد بن أبي بكر بن عثمان بن مشرق الأنصاري بسماع الأول وحضور الثاني وإجازة الثالث من السخاوي بسنده بقراءة كاتب السماع عبد الرحمن بن محمد بن عبد الرحمن بن البعلبكي الجماعة صلاح الدين خليل بن بدر الدين كيكلدي بن العلائي وزين الدين عمر بن إبراهيم بن عمر بن المهذب ابن الواسطي ومحمد بن خلف بن عمر الهزكوري وداود بن يعقوب بن يوسف [النرىوىىي] المغربيان وصح ذلك يوم الجمعة سادس شوال سنة عشر وسبع مائة والحمد لله وحده."
+}

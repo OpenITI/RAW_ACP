@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن عرفة بن يزيد العبدي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الحسن بن عرفة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/8"
+      ],
+      "folio_number": [
+        "109v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "harat_al-ruwm"
+          ]
+        ]
+      },
+      "endIndex": 310,
+      "guid": "32f9ebbf-7695-4818-9272-599aac4633a7",
+      "startIndex": 279,
+      "text": "منزل المسمع بالقاهرة بحارة الروم",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "712844e6-f2b6-4255-8863-4375ac9f2cbd",
+      "startIndex": 177,
+      "text": "حسن بن نجيم بن عيسى الحوراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 410,
+      "guid": "9833ddb4-a50f-4637-8ee0-d0fcfe3e7860",
+      "startIndex": 373,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "b5fc3c6c-5635-4c49-8dc1-7c935d28b70f",
+      "startIndex": 81,
+      "text": " نجيب الدين أبي الفرج عبد اللطيف بن عبد المنعم بن علي الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "b8d932db-2dbf-4ff0-a620-498b48c814c7",
+      "startIndex": 212,
+      "text": "أبو بكر عبد الله ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+},
+      "endIndex": 532,
+      "guid": "b9ae0024-06a1-42b7-970f-f3a960823ca0",
+      "startIndex": 480,
+      "text": "صحيح ذلك وكتب عبد اللطيف بن عبد المنعم بن علي الحراني",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "be5abcb2-e378-4e44-ba2a-6673b20280ca",
+      "startIndex": 241,
+      "text": "غرة ربيع الآخر سنة ثلث وستين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "بلغت بقراءتي سماعا لجميعه ثالثا على شيخنا الشيخ الإمام المسند الصاحب الصدر الكبير نجيب الدين أبي الفرج عبد اللطيف بن عبد المنعم بن علي الحراني بحق سماعه نقلا فسمعه الشيخ الصالح حسن بن نجيم بن عيسى الحوراني وولده أبو بكر عبد الله وصح وثبت في غرة ربيع الآخر سنة ثلث وستين وستماية بمنزل المسمع بالقاهرة بحارة الروم وأجازه المسمع لي وله جميع ما يجوز له رواتيه بشرطه قاله وكتبه علي بن مسعود بن نفيس الموصلي ثم الحلبي حامدا الله ومصليا على نبيه محمد وآله ومسلما وحسبنا الله ونعم الوكيل صحيح ذلك وكتب عبد اللطيف بن عبد المنعم بن علي الحراني"
+}

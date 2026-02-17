@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن أحمد السلفي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/54298152"
+      ],
+      "work_title": [
+        "الأربعون"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 722"
+      ],
+      "folio_number": [
+        "42r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11004961m/f45.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11004961m/f45.image.r=%22Arabe%20722%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "3982c185-a143-4300-bee4-758f19f3bd42",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 68,
+      "text": " أبي بكر محمد بن علي بن ياسر الجياني الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "9fcd2c23-0db5-4d4f-b2dd-a44df17b4d49",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 181,
+      "text": "أبو المظفر محمد بن علوان بن مهاجر الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "557"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "aa79edea-c8ae-46a9-8603-363ae00f7288",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 238,
+      "text": " رجب سنة سبع وخمسين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "e4496aa8-388c-497d-8459-d9f67b250b18",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 131,
+      "text": "عبد الملك بن أحمد بن عبد الله بن القاسم الشهرزوري",
+      "type": "person"
+    }
+  ],
+  "text": "على الأصل المنقول منه ما صورته\nسمع هذا الجزؤ بكماله على مخرجه الحافظ أبي بكر محمد بن علي بن ياسر الجياني الأنصاري رحمه الله بقراءة عبد الملك بن أحمد بن عبد الله بن القاسم الشهرزوري أبو المظفر محمد بن علوان بن مهاجر الموصلي والسماع بخطه في رجب سنة سبع وخمسين وخمسماية"
+}

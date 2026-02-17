@@ -1,0 +1,536 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء الحادي عشر من حديث ابي سهل احمد بن محمد بن عبد الله بن زياد القطان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "47v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000096.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059154"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 454,
+      "guid": "128641cc-c1b5-4080-a043-8b869c2b8a9f",
+      "startIndex": 451,
+      "text": "يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 614,
+      "guid": "164e2d20-0eaa-4a5c-9711-a877b43ff58d",
+      "startIndex": 589,
+      "text": "عمر بن شرف بن محسن الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 308,
+      "guid": "19b19e6f-13fc-4ffc-a555-045c37099352",
+      "startIndex": 304,
+      "text": " أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 905,
+      "guid": "20d5cf00-35c2-45a7-9cea-091030f56383",
+      "startIndex": 873,
+      "text": "عبد الله بن عثمان بن علي المهراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 538,
+      "guid": "2f0a35ef-fac0-453e-8c5e-2b8044b5af1d",
+      "startIndex": 515,
+      "text": "علي بن كامل بن علي الشطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1-10"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 1525,
+      "guid": "4565e7f8-906d-4c4b-a8ae-980ed30e6f48",
+      "startIndex": 1466,
+      "text": "يوم الاثنين في العشر الأول من شهر رجب سنة تسع وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "mu'tamid_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1559,
+      "guid": "475c5585-33ae-422c-9315-2139e0d632b8",
+      "startIndex": 1528,
+      "text": "مسجد الأمير شرف الدين بن المعتمد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "5ab16e9d-a47a-4f03-beb8-587d1a3e557b",
+      "startIndex": 108,
+      "text": "شمس الدين أبي العباس أحمد بن أحمد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 824,
+      "guid": "6de68e1c-5449-4421-bc16-1f550170e3fc",
+      "startIndex": 794,
+      "text": "علي بن أحمد بن عبد الله الحمامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ]
+      },
+      "endIndex": 1435,
+      "guid": "72925c90-3e03-4f32-be9b-d90969e94302",
+      "startIndex": 1382,
+      "text": "أحمد بن شهاب الدين يحيى بن الأمير شرف الدين بن المعتمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 724,
+      "guid": "72ccc737-4cf7-4164-bcb0-7ef7e8d3fea7",
+      "startIndex": 693,
+      "text": "يوسف بن إسماعيل بن يوسف بن رسلان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 447,
+      "guid": "73630353-c74a-4ec9-97c4-507835ca6566",
+      "startIndex": 420,
+      "text": "أحمد بن شرف الدين عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 957,
+      "guid": "84aaaf9d-62e0-49d8-a34b-778ddfa79c46",
+      "startIndex": 909,
+      "text": "علي بن البدر يوسف بن علي ابن بنت السيف بن الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "885f84bd-490c-4b4f-b707-418b8dd3b5fb",
+      "startIndex": 220,
+      "text": "أحمد بن نصر بن عبيد بن محمد المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "938e8fa3-6024-41db-b16f-50cad1a74c5a",
+      "startIndex": 199,
+      "text": "الموفق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1242,
+      "guid": "9f7900d0-1c14-4b33-bb66-bab7abce4107",
+      "startIndex": 1194,
+      "text": "أبو بكر بن البدر عبيد بن مسرور عرف أبوه بالعجلوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 758,
+      "guid": "a1086d8f-5d42-4656-815d-2c625f6ef7b2",
+      "startIndex": 728,
+      "text": "أحمد بن مبارك بن إبراهيم البدوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 466,
+      "guid": "ad7570b4-1deb-4fd1-8eea-5e80441d0529",
+      "startIndex": 457,
+      "text": "عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 544,
+      "guid": "b76e973c-46d4-40f7-b0e6-c13520287c4c",
+      "startIndex": 542,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 553,
+      "guid": "d2acfe05-d7a5-46a9-9a5f-ffb494d8161f",
+      "startIndex": 547,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1084,
+      "guid": "daa5fec3-d427-4cc8-96d2-22ee84591879",
+      "startIndex": 1052,
+      "text": "علي بن أبي بكر بن إبراهيم المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 790,
+      "guid": "e11fdff9-85f0-4f35-b3b9-14ca68cb4cfa",
+      "startIndex": 762,
+      "text": "إبراهيم بن عبد الكريم بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 656,
+      "guid": "e26ca1a8-8141-41c2-8b35-46df920e7330",
+      "startIndex": 618,
+      "text": "محمد بن البدر بن علي بن إسماعيل الحريري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 689,
+      "guid": "e92a919b-26c7-4b12-9a8f-94aefab9181f",
+      "startIndex": 660,
+      "text": "أحمد بن إبراهيم بن سالم الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1315,
+      "guid": "ee317dbe-1118-4149-aac1-39c9369e9ee2",
+      "startIndex": 1255,
+      "text": "عبد الله بن الإمام شمس الدين عبد الله بن محمد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "f898de5f-1695-4d66-9492-8f47abbad590",
+      "startIndex": 311,
+      "text": "محمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء الحادي عشر من حديث أبي سهل القطان على الشيخ الإمام العالم العامل الصدر الكامل بقية السلف شمس الدين أبي العباس أحمد بن أحمد بن عبد الله المقدسي رضي الله عنه، بسماعه له فيه من الشيخ الموفق بسنده، بقراءة أحمد بن نصر بن عبيد بن محمد المقرئ، والخط له عفا الله عنه، الجماعة جبرهم الله تعالى. أحمد ومحمد ابنا الفقيه الإمام العالم شمس الدين أبي محمد عبيد الله بن محمد بن أحمد بن عبيد الله المقدسي، وابن عمهما أحمد بن شرف الدين عبد الرحمن، ويوسف وعبد العزيز ابنا سيف الدين يحيى بن عبد الرحمن بن الحنبلي، وعلي بن كامل بن علي الشطي، وعمر وإبراهيم ابنا أبي بكر بن إبراهيم المنبجي، وعمر بن شرف بن محسن الصالحي، ومحمد بن البدر بن علي بن إسماعيل الحريري، وأحمد بن إبراهيم بن سالم الخباز، ويوسف بن إسماعيل بن يوسف بن رسلان، وأحمد بن مبارك بن إبراهيم البدوي، وإبراهيم بن عبد الكريم بن أحمد، وعلي بن أحمد بن عبد الله الحماميان، وسمع من أول الجزء إلى آخر حديث ابن الخصاصية عبد الله بن عثمان بن علي المهراني، وعلي بن البدر يوسف بن علي ابن بنت السيف بن الحنبلي، وسمع أيضاً من حديث عائشة قالت كان يأتي علينا الشهر وما نختبز خبزاً إلى آخر الجزء، ومثله حضر علي بن أبي بكر بن إبراهيم المنبجي وسمع من حديث علي بن طلق قال قال رسوال الله صلى الله عليه وسلم أن الله لا يستحي من الحق الحديث إلى آخر الجزء أبو بكر بن البدر عبيد بن مسرور عرف أبوه بالعجلوني، وكذلك حضر عبد الله بن الإمام شمس الدين عبد الله بن محمد بن أحمد المقدسي وسمع من حديث عائشة كان يأتي علينا الشهر وما نختبز إلى آخر الجزء، أحمد بن شهاب الدين يحيى بن الأمير شرف الدين بن المعتمد. وصح ذلك في ثلاث مجالس آخرهم يوم الاثنين في العشر الأول من شهر رجب سنة تسع وسبعين وستمائة بمسجد الأمير شرف الدين بن المعتمد بجبل الصالحية بدمشق حرسهما الله تعالى والحمد لله حق حمده وصلى الله على سيدنا محمد أشرف المرسلين وعلى آله وصحبه وسلم كثيراً أبداً إلى يوم الدين وحسبنا الله ونعم الوكيل. فيه مصلح سمعا بألف وهو صحيح كتبه أحمد بن نصر المقرئ سامحه الله."
+}

@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "178v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f183.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f183.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 37,
+      "guid": "421afff1-420d-40ab-805d-2df1d67cca7d",
+      "index": 236,
+      "isZeroPoint": false,
+      "startIndex": 33,
+      "text": " زينب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "717"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "4e6783b0-5beb-40b1-9c8a-291581b8b361",
+      "index": 240,
+      "isZeroPoint": false,
+      "startIndex": 126,
+      "text": "الجمعة |الثاني| من ذي القعدة سنة سبع عشرة وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 187,
+      "guid": "6a82ccba-8f44-4119-acf7-2196637740ca",
+      "index": 241,
+      "isZeroPoint": false,
+      "startIndex": 177,
+      "text": "مزلنا بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "80186c1d-eed8-4f45-9601-adca387c5a0f",
+      "index": 239,
+      "isZeroPoint": false,
+      "startIndex": 78,
+      "text": "فخر الدين عثمان بن يوسف بن أبي بكر النويري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "8eba7c4e-ed75-4860-bdbc-9d9b97dbbf99",
+      "index": 238,
+      "isZeroPoint": false,
+      "startIndex": 71,
+      "text": "خديجة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "c5a58792-5a98-4f42-bbf0-2b840ff220ee",
+      "index": 237,
+      "isZeroPoint": false,
+      "startIndex": 48,
+      "text": "مر بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "cd523292-fa1b-4f7a-9635-4813d584d8d2",
+      "index": 242,
+      "isZeroPoint": false,
+      "startIndex": 193,
+      "text": " يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 26,
+      "guid": "d674031a-de26-431b-ae34-e19e7bc96e5e",
+      "index": 235,
+      "isZeroPoint": false,
+      "startIndex": 16,
+      "text": "ابن البخاري",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من لفظي عن ابن البخاري ابنتي زينب وحفيداي عمر بن عبد الرحمن وأخته خديجة وفخر الدين عثمان بن يوسف بن أبي بكر النويري ليلة الجمعة |الثاني| من ذي القعدة سنة سبع عشرة وسبعمئة بمزلنا بدمشق وكتب يوسف بن الزكي عبد الرحمن المزي"
+}

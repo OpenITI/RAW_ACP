@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن أحمد بن عبد الرحمن المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث عوال وحكايات وأشعار "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 46"
+      ],
+      "classmark": [
+        "3746/9"
+      ],
+      "folio_number": [
+        "172v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "25074ae1-1e0f-4f5d-80fd-90e0bfe7929b",
+      "index": 119,
+      "isZeroPoint": false,
+      "startIndex": 82,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "3392e506-8cec-44dd-a9b6-bcd9bac02dc9",
+      "index": 118,
+      "isZeroPoint": false,
+      "startIndex": 72,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "899"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "55594e16-a275-4e67-af7a-5bd636e40af7",
+      "index": 120,
+      "isZeroPoint": false,
+      "startIndex": 113,
+      "text": "رابع عشرين ذي القعدة سنة تسع وتسعين وثمانماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "a4d83d61-47d8-4bed-bc92-2d48d9f5fd82",
+      "index": 117,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "ناصر الدين محمد بن أبي بكر بن أبي عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "be217f96-1fac-4158-9e74-dfa1550475b0",
+      "index": 122,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "محمد بن طولون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umariya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 184,
+      "guid": "beaaa38e-3427-42a3-a620-1cbe637ad073",
+      "index": 121,
+      "isZeroPoint": false,
+      "startIndex": 160,
+      "text": "مدرسة أبي عمر بسفح قاسيون",
+      "type": "place"
+    }
+  ],
+  "text": " قرأته على شيخنا ناصر الدين محمد بن أبي بكر بن أبي عمر بسماعه على أخويه عبد الله وعبد الرحمن بسماعهما تراه أعلاه رابع عشرين ذي القعدة سنة تسع وتسعين وثمانماية بمدرسة أبي عمر بسفح قاسيون وأجاز وكتبه محمد بن طولون"
+}

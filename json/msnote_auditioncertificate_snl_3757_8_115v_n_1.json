@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن أبي شريح الأنصاري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المائة الشريحية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/8"
+      ],
+      "folio_number": [
+        "115v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "0384d1b8-00a7-424f-86da-4af99e6d5926",
+      "index": 138,
+      "isZeroPoint": false,
+      "startIndex": 115,
+      "text": "أبي المنجا عبد الله بن عمر بن علي بن عمر بن زيد اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 668,
+      "guid": "12c054dd-07f2-401d-b696-6c8bd7beacc7",
+      "index": 146,
+      "isZeroPoint": false,
+      "startIndex": 636,
+      "text": "عمر بن مكي بن سرجا بن محمد الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo",
+            "qabat_mosque"
+          ]
+        ]
+      },
+      "endIndex": 558,
+      "guid": "23e87ac7-905f-4ce9-b9d6-493c7bc542da",
+      "index": 145,
+      "isZeroPoint": false,
+      "startIndex": 530,
+      "text": "حلب المحروسة بمسجد يعرف بقبات",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 862,
+      "guid": "3bb0db62-b4fc-4bc1-94a3-604a82f10591",
+      "index": 147,
+      "isZeroPoint": false,
+      "startIndex": 813,
+      "text": "علي بن مسعود بن نفيس بن عبد الله الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 459,
+      "guid": "5e0ff792-2428-4a17-8e83-0a0edcae847a",
+      "index": 143,
+      "isZeroPoint": false,
+      "startIndex": 417,
+      "text": "أبو عبد الله محمد بن موهوب بن سلامة الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "69b715ec-8cf6-4caf-87d0-2945308c22ef",
+      "index": 142,
+      "isZeroPoint": false,
+      "startIndex": 346,
+      "text": "أبو العباس أحمد بن الشيخ الصالح أبي عبد الله محمد بن عبد الله الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "77aca15d-b971-44a0-a290-b035b37d1ba7",
+      "index": 139,
+      "isZeroPoint": false,
+      "startIndex": 184,
+      "text": " أبي الوقت عبد الأول بن عيسى بن شعيب السجزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "634"
+        ]
+      },
+      "endIndex": 527,
+      "guid": "b4c0df37-bd5e-4ddc-9ab3-846169e6392e",
+      "index": 144,
+      "isZeroPoint": false,
+      "startIndex": 478,
+      "text": " يوم الأحد غرة ذي الحجة من سنة أربع وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "b8fbcc12-afe5-4d96-bc6a-0ec88cf7d053",
+      "index": 141,
+      "isZeroPoint": false,
+      "startIndex": 275,
+      "text": " [ابن] أبي شريح الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "fbdcf12a-0d0a-4bdb-9613-fc2f9c815e93",
+      "index": 140,
+      "isZeroPoint": false,
+      "startIndex": 231,
+      "text": "أبي عاصم الفضيل بن يحيى بن الفضيل الفضيلي",
+      "type": "person"
+    }
+  ],
+  "text": " شاهدت ما مثاله قرأت جميع الجزء المنقول منه هذا الفرع وهو الماية الشريحية على الشيخ الأمين مسند الوقت الثقة الصالح أبي المنجا عبد الله بن عمر بن علي بن عمر بن زيد اللتي بحق سماعه له من أبي الوقت عبد الأول بن عيسى بن شعيب السجزي عن أبي عاصم الفضيل بن يحيى بن الفضيل الفضيلي عن [ابن] أبي شريح الأنصاري مؤلفه فسمع بقراءتي الشيخ المقرئ المحدث الصالح أبو العباس أحمد بن الشيخ الصالح أبي عبد الله محمد بن عبد الله الظاهري وأبو عبد الله محمد بن موهوب بن سلامة الحراني وآخرون وصح ذلك في يوم الأحد غرة ذي الحجة من سنة أربع وثلثين وستماية بحلب المحروسة بمسجد يعرف بقبات في الطبقة كشط وهو صحيح صورته أبو العباس كتب ذلك جميعه قارئه الفقير إلى الله عمر بن مكي بن سرجا بن محمد الحلبي حامدا الله تعالى ومصليا على رسوله في تاريخ العشر الأخير من جمادى الآخرة من سنة تسع وأربعين وستماية والحمد لله وحده نقله من غير زيادة ولا نقصان علي بن مسعود بن نفيس بن عبد الله الموصلي ثم الحلبي حامدا الله ومصليا على نبيه ومسلما"
+}

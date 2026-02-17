@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "آدم بن أبي إياس العسقلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث آدم بن أبي إياس العسقلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/10"
+      ],
+      "folio_number": [
+        "182v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "0d7efdd6-151f-4628-a39a-a57bf159b32d",
+      "startIndex": 143,
+      "text": "محمد بن رافع بن أبي محمد بن محمد السلامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "723"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "46d1a921-d692-4572-90aa-04140c05e4fd",
+      "startIndex": 205,
+      "text": "يوم الخميس سابع عشر صفر سنة ثلث وعشرين وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "6d110d60-d962-4c6f-a45e-6f081eab3e34",
+      "startIndex": 81,
+      "text": "خطيب مردا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "8d6b83b7-7b88-4cef-9358-dc4f88388b90",
+      "startIndex": 111,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 280,
+      "guid": "b5727fd5-e3d0-447c-8ed8-18dc9cb3fd8e",
+      "startIndex": 255,
+      "text": "مسجد لله تعالى بسفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "f396f3bc-7b22-46e7-9aca-7fa17922de5e",
+      "startIndex": 92,
+      "text": "ابن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 61,
+      "guid": "f90e4a03-8950-4427-9390-ec7162f3ef11",
+      "startIndex": 10,
+      "text": "أبي عبد الله محمد بن إبراهيم بن مري بن ربيعة الصالحي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على أبي عبد الله محمد بن إبراهيم بن مري بن ربيعة الصالحي بسماعه من الشيخين خطيب مردا وابن عبد الهادي أنا الثقفي بقراءة كاتب السماع العبد محمد بن رافع بن أبي محمد بن محمد السلامي عفا الله عنه وصح ذلك يوم الخميس سابع عشر صفر سنة ثلث وعشرين وسبع ماية بمسجد لله تعالى بسفح قاسيون والحمد لله وحده"
+}

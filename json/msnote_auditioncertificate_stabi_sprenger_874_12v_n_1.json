@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد هبة الله بن محمد بن الحسين البسطامي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلسان من امالي هبة الله بن محمد البسطامي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 874"
+      ],
+      "folio_number": [
+        "12v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011751"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "09a4b7af-9a59-48db-9a26-1ff970145cac",
+      "startIndex": 86,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "3f25dc5e-674e-444f-8275-ce71cd905042",
+      "startIndex": 124,
+      "text": "في سنة اثنتين وأربعين وستمائة في شعبان",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "7014e855-5811-4c77-adb4-3eed6c41b3bd",
+      "startIndex": 56,
+      "text": "ضياء الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "f02071db-7091-4688-ac87-6c0b6920c7ed",
+      "startIndex": 168,
+      "text": "عبد الرحمن بن محمد بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "f1e054b2-ab39-4b3e-9064-69340f913e50",
+      "startIndex": 80,
+      "text": "محمد",
+      "type": "person"
+    }
+  ],
+  "text": "[...] بخطي أيضاً قرأت هذا الجزء على شيخنا الإمام الحافظ ضياء الدين فسمعه أبنائي محمد وأحمد حاضر في آخر الرابعة من سنته وذلك في سنة اثنتين وأربعين وستمائة في شعبان كتبه عبد الرحمن بن محمد بن عبد الغني والحمد لله وحده وصلواته على محمد وآله وسلم."
+}

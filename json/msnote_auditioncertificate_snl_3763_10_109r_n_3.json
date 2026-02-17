@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "109r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "1cf03e54-9ddd-4981-be8c-495b09bc8521",
+      "startIndex": 264,
+      "text": "أبو بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "623"
+        ]
+      },
+      "endIndex": 326,
+      "guid": "2f3f9780-bd1b-456f-9033-cedb3f687451",
+      "startIndex": 279,
+      "text": " الثلثا تاسع ربيع الأول لسنة ثلاث وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "71ab1c49-3bdd-4fd5-8582-ed18677cfa2d",
+      "startIndex": 150,
+      "text": "أحمد بن أبي الفضائل بن أبي المجد بن أبي المعالي بن الدخميسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "8d4c6994-5dea-4081-9358-e15b053ee209",
+      "startIndex": 105,
+      "text": "أبي عبد الله محمد بن عبد الله بن سعيد القيسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "kishk_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 345,
+      "guid": "d0dfd41a-6d53-4ac0-bc85-e3f44d06dcfa",
+      "startIndex": 329,
+      "text": "الكشك بمدينة دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "de4b55fc-b59a-49c7-b9f3-ef10bce58f1f",
+      "startIndex": 36,
+      "text": "أبي محمد الحسن بن علي بن الحسين الأسدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 256,
+      "guid": "f75d83c8-a82f-43ad-aefc-84c8d07e206d",
+      "startIndex": 217,
+      "text": "غنائم بن أبي القاسم بن أبي الحسين الخشاب",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء بأسره على القاضي أبي محمد الحسن بن علي بن الحسين الأسدي بسماعه فيه نقلا من جده بقراءة أبي عبد الله محمد بن عبد الله بن سعيد القيسي أحمد بن أبي الفضائل بن أبي المجد بن أبي المعالي بن الدخميسي والشيخ غنائم بن أبي القاسم بن أبي الحسين الخشاب وابنه أبو بكر وصح يوم الثلثا تاسع ربيع الأول لسنة ثلاث وعشرين وستماية بالكشك بمدينة دمشق كتبه أحمد بن الدخميسي والحمد لله وحده وصلاته على نبيه محمد وآله"
+}

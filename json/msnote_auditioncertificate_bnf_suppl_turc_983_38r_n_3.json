@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عمر بن محمد بن سلم بن البراء التميمي الجعابي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ذكر من حدث عن النبي هو وأبوه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "38r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f40.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f40.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "persia",
+            "isfahan"
+          ]
+        ]
+      },
+      "endIndex": 257,
+      "guid": "0fe5f35a-426c-4958-bb9d-9ef42563177e",
+      "startIndex": 252,
+      "text": "أصبهان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "0ff29c5d-870d-4fbf-ba6b-7cdd3b2e6619",
+      "startIndex": 117,
+      "text": "كمال الدين أبو محمد عبد الرحيم بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "599"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "5a6c0ed7-41d5-4378-9118-0b334acf5ec3",
+      "startIndex": 222,
+      "text": "شوال سنة تسع وتسعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "929346e9-3348-4564-9b7b-d3a2a3084a04",
+      "startIndex": 30,
+      "text": "أبي جعفر محمد بن أحمد بن نصر الصيدلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "dbc22eda-9c5d-40c1-8d81-d916605ee872",
+      "startIndex": 183,
+      "text": "عمر بن يوسف بن محمود الآمدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "f0a3818a-468a-47e6-8579-8b3c778b5db5",
+      "startIndex": 82,
+      "text": "أبي علي الحداد",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ أبي جعفر محمد بن أحمد بن نصر الصيدلاني بحق سماعه من أبي علي الحداد حضورًا فسمعه الإمام كمال الدين أبو محمد عبد الرحيم بن عبد الواحد بن أحمد المقدسي كتبه عمر بن يوسف بن محمود الآمدي وصح ذلك في شوال سنة تسع وتسعين وخمسماية بأصبهان والحمد لله وحده"
+}

@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/1"
+      ],
+      "folio_number": [
+        "8v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "1e6bce54-08d5-4767-8526-23a5e8503201",
+      "startIndex": 195,
+      "text": "ابن مهدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "223f2ce8-dc97-4698-9481-ce9f2ceae820",
+      "startIndex": 303,
+      "text": "أبو الخير عبد الكريم بن أبي الفرج بن عبد الله الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "3312a071-65f3-4a8c-9cb6-b96ad86da7c3",
+      "startIndex": 159,
+      "text": " أبي الغنائم بن أبي عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "591"
+        ]
+      },
+      "endIndex": 476,
+      "guid": "42955e35-0e34-49ca-92e8-5fba89c02a86",
+      "startIndex": 428,
+      "text": " الخميس ثاني عشري المحرم سنة إحدى وتسعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "47569844-02ab-4f2f-b3f5-401812da9a53",
+      "startIndex": 64,
+      "text": "بي اليمن يونس بن [أبي] محمد بن علي بن جرادة البستنباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "ribat_'awaz"
+          ]
+        ]
+      },
+      "endIndex": 519,
+      "guid": "5daff14d-c75b-4a58-8ab0-b57cb79750fc",
+      "startIndex": 479,
+      "text": "رباط عوض الغراد بباب القطيعة من باب الأزج",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "copyist"
+        ]
+      },
+      "endIndex": 401,
+      "guid": "73a7fbdb-e81e-4c2c-af1b-3ccd9ed94820",
+      "startIndex": 369,
+      "text": "محمد بن تميم بن أحمد بن البندنيجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 424,
+      "guid": "7a9d9993-0f04-4451-94e2-db36938ce7f4",
+      "startIndex": 404,
+      "text": "موهوب بن سعيد الحمامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "87f7396f-23ed-4327-940e-e796ee422d11",
+      "startIndex": 249,
+      "text": "نجم الدين أبو عبد الله محمد بن [...] بن منتجب الدولة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "bf749e80-d9a5-4561-94dc-ca9c1a4cf9c4",
+      "startIndex": 129,
+      "text": "أبي المعالي بن البدن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 247,
+      "guid": "c59cc558-9686-43b0-b24d-14cb300b53f7",
+      "startIndex": 216,
+      "text": " أبي الحجاج يوسف بن خليل الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ من أول الجزء إلى آخر هذا المجلس الثاني منه سماعا على الشيخ أبي اليمن يونس بن [أبي] محمد بن علي بن جرادة البستنباني بسماعه من أبي المعالي بن البدن بسماعه من أبي الغنائم بن أبي عثمان بسماعه من ابن مهدي بقراءة الشيخ أبي الحجاج يوسف بن خليل الدمشقي نجم الدين أبو عبد الله محمد بن [...] بن منتجب الدولة وأبو الخير عبد الكريم بن أبي الفرج بن عبد الله الصوفي وكاتب السماع محمد بن تميم بن أحمد بن البندنيجي وموهوب بن سعيد الحمامي في الخميس ثاني عشري المحرم سنة إحدى وتسعين وخمسماية برباط عوض الغراد بباب القطيعة من باب الأزج وحوِّل السماع إلى هنا في سنة إحدى وعشرين وستمية وصلى الله على سيدنا محمد وآله وسلامه"
+}

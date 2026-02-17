@@ -1,0 +1,303 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "منتخب من الفوائد الصحاح العوالي ج5"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 140"
+      ],
+      "classmark": [
+        "3764/8"
+      ],
+      "folio_number": [
+        "130r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "43eb2cc6-8fb1-43c6-84c6-e423c02a6b93",
+      "startIndex": 128,
+      "text": "أبو العباس أحمد بن زاكي بن أحمد البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "qalijiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 339,
+      "guid": "58e35d8b-cb15-4046-b0a5-2a8f4a2f519b",
+      "startIndex": 316,
+      "text": "المدرسة القليجية من دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          ""
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "7177aa78-693d-48f3-b6f5-a29fe6558ec0",
+      "startIndex": 44,
+      "text": "بهاء الدين أبي صابر أيوب بن أبي بكر بن إبراهيم بن النحاس الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 499,
+      "guid": "7851816d-f8ef-4b01-af15-058b01198516",
+      "startIndex": 483,
+      "text": "مكرم بن أبي الصقر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 541,
+      "guid": "81d90adc-24fc-4673-bd7a-6ae1cc1c79c0",
+      "startIndex": 510,
+      "text": " أبي الحسن علي بن أحمد الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 687,
+      "guid": "a3a2cb04-c47d-4b8f-9f5e-f558d7093aa8",
+      "startIndex": 654,
+      "text": " أبي بكر أحمد بن عبد الكريم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 599,
+      "guid": "a3e4b4af-b4b7-4f73-83c7-2178473c3857",
+      "startIndex": 552,
+      "text": " الخطيب أبي عبد الله الحسن بن أحمد بن أبي الحديد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "698"
+        ]
+      },
+      "endIndex": 313,
+      "guid": "cb34f932-8023-4786-9fad-8ad3c9ebfb0f",
+      "startIndex": 258,
+      "text": " السبت العشرين من شهر ربيع الآخر سنة ثمان وتسعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 643,
+      "guid": "cc08466b-b5ca-41d6-b84d-114398c4830f",
+      "startIndex": 610,
+      "text": " أبي المعمر المسدد بن علي الأملوكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "3e40893c-79fa-497b-b124-b4c36dc41b27"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 742,
+      "guid": "d4ed1864-3635-4641-9db9-1e2ecfeea754",
+      "startIndex": 698,
+      "text": "يوسف بن عيسى بن يوسف بن عيسى بن كريم الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "d8a39cc7-1684-41fe-b084-2b4e3172d39b",
+      "startIndex": 118,
+      "text": "يعيش ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "f0692955-14d6-4d1b-99ac-64767d1d5d2b",
+      "startIndex": 206,
+      "text": "محمد بن أبي بكر بن عبد الرحمن الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "fb89252b-66e1-4d71-b907-e9610ac1ac02",
+      "startIndex": 169,
+      "text": "محمد بن الحاج همام بن رمضان الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الإمام العالم بهاء الدين أبي صابر أيوب بن أبي بكر بن إبراهيم بن النحاس الحلبي بسماعه من يعيش وسمع أبو العباس أحمد بن زاكي بن أحمد البالسي ومحمد بن الحاج همام بن رمضان الدمشقي ومحمد بن أبي بكر بن عبد الرحمن الخياط وصح وثبت في يوم السبت العشرين من شهر ربيع الآخر سنة ثمان وتسعين وستمائة بالمدرسة القليجية من دمشق المحروسة و سمعوا الجماعة المذكورون إلا محمد بن أبي بكر الخياط بقراءتي عليه جزءا فيه من حديث أبي الحسن محمد بن أحمد الرافقي عن شيوخه بسماعه من مكرم بن أبي الصقر بسماعه من أبي الحسن علي بن أحمد الحرستاني بسماعه من الخطيب أبي عبد الله الحسن بن أحمد بن أبي الحديد بسماعه من أبي المعمر المسدد بن علي الأملوكي بسماعه من أبي بكر أحمد بن عبد الكريم الحلبي عنه وكتب يوسف بن عيسى بن يوسف بن عيسى بن كريم الدمياطي عفا الله عنه "
+}

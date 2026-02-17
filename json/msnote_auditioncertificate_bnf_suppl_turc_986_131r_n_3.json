@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "131r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f135.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f135.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 398,
+      "guid": "192bebc4-616f-4f3c-b39a-756e2a0bc33f",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 387,
+      "text": "محمد بن حرمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "2a4a7850-6c33-40f5-9421-4110bbcc41bc",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 232,
+      "text": "محمد بن علي بن حرمي الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "706"
+        ]
+      },
+      "endIndex": 317,
+      "guid": "676c192b-42ef-4c2a-940e-659b033ad5bc",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 264,
+      "text": "يوم السبت العشرين من شهر رمضان المعظم سنة ست وسبع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "77057e3c-1485-4bae-b8bf-1964015eda42",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 99,
+      "text": "فخر الدين عبد الرحمن بن محمد بن عبد الرحمن البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "a1cacef7-77c7-4d62-97c2-98158d4f932a",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 24,
+      "text": "برهان الدين إبراهيم بن علي بن محمد بن غالب الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "ab889ede-b938-4111-8c15-4fdbd79f60a7",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 152,
+      "text": "علاء الدين علي بن شمس الدين سعيد بن محمد بن سعيد ابن الأثير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 328,
+      "guid": "e78961f4-ae34-45f3-8531-c37cda6b8ebb",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 320,
+      "text": "جامع دمشق",
+      "type": "place"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ برهان الدين إبراهيم بن علي بن محمد بن غالب الأنصاري بسماعه فيه نقلًا مالكه فخر الدين عبد الرحمن بن محمد بن عبد الرحمن البعلبكي وعلاء الدين علي بن شمس الدين سعيد بن محمد بن سعيد ابن الأثير وصح لهما ذلك بقراءة محمد بن علي بن حرمي الدمياطي في يوم السبت العشرين من شهر رمضان المعظم سنة ست وسبع مائة بجامع دمشق حرسها الله تعالى وأجاز لنا أن نروي عنه جميع مروياته كتبه محمد بن حرمي والحمد لله وحده وصلوته على محمد وآله وسلامه."
+}

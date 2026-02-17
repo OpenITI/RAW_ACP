@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن موسى الحازمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "  عجالة المبتدي وفضالة المنتهي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Petermann II 499"
+      ],
+      "folio_number": [
+        "63r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN884233987/1200/0/00000129.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00024887"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "khanaqah_simisatiya"
+          ]
+        ]
+      },
+      "endIndex": 257,
+      "guid": "055c088d-7d23-4da1-a72a-4e8ee3f220af",
+      "startIndex": 242,
+      "text": "خانقاه السميصاطي",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "637"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "0acf47f7-0feb-49a0-823b-1a114eec0215",
+      "startIndex": 195,
+      "text": "يوم الأحد رابع صفر من سنة سبع وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 389,
+      "guid": "7472226c-8eff-4e7d-8db3-5bb92ba1d042",
+      "startIndex": 327,
+      "text": "صحيح ذلك كتبه عبد الله بن عمر بن علي بن محمد بن حمويه في تاريخه",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 325,
+      "guid": "834f886d-7ac9-4319-b6e0-3d1034078e97",
+      "startIndex": 279,
+      "text": "أبو الفتح بن عين الدولة ابن عيسى الدمشقي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "ecefaeca-007b-426e-9d27-00b0465b4485",
+      "startIndex": 72,
+      "text": "جمال الإسلام تاج الدين أبي محمد عبد الله بن عمر بن علي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته على جامعه وهو الشيخ الإمام العالم العامل العابد العارف شيخ الشيوخ جمال الإسلام تاج الدين أبي محمد عبد الله بن عمر بن علي أبقاه الله في يوم ختمت فيه كتاب العجالة في الأنساب بإجازته فيه وذلك يوم الأحد رابع صفر من سنة سبع وثلاثين وستمائة بخانقاه السميصاطي رحمة الله عليه وكتب أبو الفتح بن عين الدولة ابن عيسى الدمشقي الحنفي\nصحيح ذلك كتبه عبد الله بن عمر بن علي بن محمد بن حمويه في تاريخه"
+}

@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المؤتنف تكملة المؤتلف والمختلف"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 290"
+      ],
+      "folio_number": [
+        "62r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1663217491/1200/0/00000167.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011164"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "8f71f362-2482-46ca-a5d6-c8846021e68c",
+      "startIndex": 21,
+      "text": "أبي القاسم هبة الله بن عبد الله بن أحمد الواسطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "darb_al-suluhi"
+          ]
+        ]
+      },
+      "endIndex": 228,
+      "guid": "9ebbbff6-570b-455f-a640-0603bb6d80b8",
+      "startIndex": 195,
+      "text": " منزل الشيخ بدرب السلولي في الكرخ.",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "526"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "bf1e2b67-005e-4450-9831-6028aab3e8c3",
+      "startIndex": 139,
+      "text": "يوم الأحد عشري جمادى الآخرة من سنة ست وعشرين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "f4206a23-6643-411e-b1e9-cd0d2de2431e",
+      "startIndex": 93,
+      "text": "عبد الله بن أحمد بن أحمد بن أحمد بن الخشَّاب",
+      "type": "person"
+    }
+  ],
+  "text": "قرأه جميعه على الشيخ أبي القاسم هبة الله بن عبد الله بن أحمد الواسطي بحق سماعه فيه من مصنفه. عبد الله بن أحمد بن أحمد بن أحمد بن الخشَّاب، يوم الأحد عشري جمادى الآخرة من سنة ست وعشرين وخمسمائة في منزل الشيخ بدرب السلولي في الكرخ."
+}

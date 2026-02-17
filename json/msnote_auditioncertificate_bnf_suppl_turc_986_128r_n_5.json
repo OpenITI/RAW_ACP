@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "128r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f132.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f132.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "2f743228-7346-4045-b92f-f619a73197b1",
+      "index": 260,
+      "isZeroPoint": false,
+      "startIndex": 110,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "32be7eb4-e146-46e7-a956-45035795e190",
+      "index": 264,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "34f066fa-e2d6-4b9f-bc88-875916020a7e",
+      "index": 265,
+      "isZeroPoint": false,
+      "startIndex": 216,
+      "text": "إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "651"
+        ]
+      },
+      "endIndex": 307,
+      "guid": "43cfa499-87c2-4928-a054-ec33bf93cc64",
+      "index": 267,
+      "isZeroPoint": false,
+      "startIndex": 259,
+      "text": "يوم الثلاثاء رابع عشر صفر سنة إحدى وخمسين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 253,
+      "guid": "80bc5a26-4513-470f-9c28-4d55c28139b6",
+      "index": 266,
+      "isZeroPoint": false,
+      "startIndex": 232,
+      "text": "محمد بن محمد الأبيوردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "97dd9848-5d57-422d-9048-14ad63e93675",
+      "index": 256,
+      "isZeroPoint": false,
+      "startIndex": 9,
+      "text": "أبي عمرو عثمان بن علي بن عبد الواحد القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "c6509d73-9c89-48a9-b78e-6b74e3524789",
+      "index": 258,
+      "isZeroPoint": false,
+      "startIndex": 77,
+      "text": "علي بن محمد البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "c8f8b2d8-75f8-46f8-91e5-06ebf40b6dd9",
+      "index": 257,
+      "isZeroPoint": false,
+      "startIndex": 62,
+      "text": " السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "cab3f962-4379-4f42-b3e0-86a96d4eea4e",
+      "index": 262,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": "محمد بن إبراهيم بن محمد السويدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "d36b1f47-e03e-4932-b3ae-bd3ca0589826",
+      "index": 261,
+      "isZeroPoint": false,
+      "startIndex": 122,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "d5942b2a-6e1b-4a22-977a-009371b79e34",
+      "index": 263,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "الحسين بن أبي التائب بن أبي العيش",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+
+          ]
+        ]
+      },
+      "endIndex": 327,
+      "guid": "edefb08c-24f2-4224-8163-59b2412960fe",
+      "index": 268,
+      "isZeroPoint": false,
+      "startIndex": 310,
+      "text": "مسجد رحبة البصريين",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "efa3fea0-a4e9-4033-9af6-723c11102285",
+      "index": 259,
+      "isZeroPoint": false,
+      "startIndex": 104,
+      "text": "محمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على أبي عمرو عثمان بن علي بن عبد الواحد القرشي بإجازته من السلفي بقراءة علي بن محمد البالسي أولاده محمد وعبد الرحمن وعبد الله ومحمد بن إبراهيم بن محمد السويدي والحسين بن أبي التائب بن أبي العيش وابناه عبد الله وإسماعيل وكاتبهم محمد بن محمد الأبيوردي وصح يوم الثلاثاء رابع عشر صفر سنة إحدى وخمسين وستمائة بمسجد رحبة البصريين."
+}

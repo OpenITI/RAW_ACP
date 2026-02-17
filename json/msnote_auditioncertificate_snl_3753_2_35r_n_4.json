@@ -1,0 +1,606 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن محمد بن إبراهيم الحنائي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي القاسم الحنائي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 70"
+      ],
+      "classmark": [
+        "3753/2"
+      ],
+      "folio_number": [
+        "35r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1013,
+      "guid": "063118c7-4aa8-4a36-9b7f-f5ef794b4888",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 987,
+      "text": "أبو القاسم بن مفرج بن مواهب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 792,
+      "guid": "0a88ebe3-d6c5-4efa-a230-adfbfa9cec4e",
+      "index": 65,
+      "isZeroPoint": false,
+      "startIndex": 765,
+      "text": "إسماعيل بن عبد الله الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 579,
+      "guid": "149adc35-7740-4519-9ffa-854508553778",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 560,
+      "text": "أحمد بن محمد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "165ce7e8-7932-4ece-b3d1-e5fe9ab5f204",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 118,
+      "text": "طاهر بن سهل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 680,
+      "guid": "170c19be-dbf5-4577-bcbc-23821664a11e",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 640,
+      "text": "أبو محمد عبد العزيز بن عبد الملك الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 832,
+      "guid": "18ab4939-f0ba-40f9-9fb9-c1890b23b977",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 795,
+      "text": "أبو محمد محفوظ بن عيسى بن محفوظ الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 868,
+      "guid": "1f4cd640-871c-4106-a1d4-d31dd19b2368",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 835,
+      "text": "محمد بن طرخان بن أبي الحسن الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 489,
+      "guid": "1f6ee5c3-893f-43d5-a2ce-e9d6a58490c3",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 486,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 427,
+      "guid": "236107ec-1629-4ba1-a782-7f2ae7ee7570",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 424,
+      "text": "موسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1276,
+      "guid": "24f84f7d-17f7-44fd-98a5-9e7d856318f5",
+      "index": 79,
+      "isZeroPoint": false,
+      "startIndex": 1268,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "2cb143de-28e9-4969-8a72-2366841b3f2d",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 174,
+      "text": "تقي الدين أبو محمد عبد الغني ابن عبد الواحد بن علي بن سرور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 984,
+      "guid": "31a082dc-2528-4c1f-a474-9c5e668a9bc6",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 944,
+      "text": "أبو الفتح بن أبي الفضل بن أبي طالب القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "367fbbfd-705f-4b31-aa0e-12b2e37d8f5b",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 239,
+      "text": "أبو محمد عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 909,
+      "guid": "384dc46e-d1ff-4706-96cd-f63575046207",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 871,
+      "text": "أبو الفضل ابن حسان بن أبي الفضل الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 421,
+      "guid": "409846e7-e062-491d-b64e-6e8078e77551",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 415,
+      "text": "إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1150,
+      "guid": "41a8747f-03fb-46e4-b60c-ee893434f62c",
+      "index": 76,
+      "isZeroPoint": false,
+      "startIndex": 1122,
+      "text": "صديق بن حسن بن [...] الصحراوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 379,
+      "guid": "556d245c-2d6b-4cd7-b898-37c89cf65d62",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 347,
+      "text": "أبو محمد عبد الله بن محمد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1119,
+      "guid": "615797aa-4fae-441c-ba63-8482b0dd7dd3",
+      "index": 75,
+      "isZeroPoint": false,
+      "startIndex": 1087,
+      "text": "أبو الحسين بن معالي بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1034,
+      "guid": "659ed7f0-8496-4add-85ff-646a7c6dff2c",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 1016,
+      "text": "عمر بن علي بن محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 140,
+      "guid": "697d3345-9bf2-4d71-ad02-ace49931f1c2",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 133,
+      "text": "الحنائي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 607,
+      "guid": "7eab9b8e-f15c-4d27-a572-b43895dbfc44",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 582,
+      "text": "نعمة بن عبد الساتر بن نعمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 557,
+      "guid": "82c41b4d-85e3-4e74-8adf-7fba2815a3c8",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 539,
+      "text": "أحمد بن كامل بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 536,
+      "guid": "8602b3db-4b76-4268-be84-a1df3b3bc682",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 516,
+      "text": "سالم بن طلائع بن سالم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 477,
+      "guid": "8a9b504b-d82e-46fe-bb89-c39954617c8a",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 446,
+      "text": "عبد الرحمن بن محمد بن عبد الجبار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "94f0a22d-97d8-45d5-920d-ea281d165a49",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "أبي طاهر بركات بن إبراهيم بن طاهر القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1178,
+      "guid": "9781f51c-3e53-4e53-9d05-d251a1afb9cb",
+      "index": 77,
+      "isZeroPoint": false,
+      "startIndex": 1159,
+      "text": "يوسف بن خليل الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 635,
+      "guid": "a0391d39-9846-4dcc-90c2-a47d85ccaf76",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 610,
+      "text": "محمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 483,
+      "guid": "ad1fd35b-aa78-48bb-8e8a-3b9fabb4783c",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 480,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 716,
+      "guid": "b6e8cfca-8286-4c81-8193-5bdcfad9ad75",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 683,
+      "text": "سليمان بن إبراهيم بن رحمة الأسعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 747,
+      "guid": "c36956a6-7fa7-4e76-a089-d598737deb66",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 719,
+      "text": "عبد الرحمن بن عبد الله الفراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "cf7506fe-05a6-470e-80c5-101c211a0671",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 409,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "d266c050-1c19-4b76-b660-66fbcd9ce2b6",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 260,
+      "text": "أبو المجد عيسى بن الفقيه الإمام شيخ الإسلام أبي محمد عبد الله بن أحمد بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 941,
+      "guid": "d2e2e520-8cd8-4359-b536-1e7b05eda24d",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 912,
+      "text": "علي بن أبي بكر بن إدريس الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 762,
+      "guid": "ebeae265-8df2-4281-b14c-5218adddcb24",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 755,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "594"
+        ]
+      },
+      "endIndex": 1265,
+      "guid": "f068991c-8fce-450e-a153-7c3969790c92",
+      "index": 78,
+      "isZeroPoint": false,
+      "startIndex": 1208,
+      "text": "يوم السبت ثاني عشر شهر ربيع الآخر سنة أربع وتسعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1084,
+      "guid": "f0b98e99-f313-45b2-9a01-6317421c10a7",
+      "index": 74,
+      "isZeroPoint": false,
+      "startIndex": 1061,
+      "text": "حسن بن علي بن شكر الكلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1058,
+      "guid": "f2ac1f31-53d1-402b-8e55-68f7333170ac",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 1037,
+      "text": "مبارك بن كثير ابن بركة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 406,
+      "guid": "f4a8f661-ce68-44c6-967b-f679bef591a5",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 382,
+      "text": "إسماعيل بن عمر بن أبي بكر",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع الجزء الثاني من فوائد الحنائي تخريج النخشبي له على الشيخ أبي طاهر بركات بن إبراهيم بن طاهر القرشي بسماعه من طاهر بن سهل عن الحنائي الإمام العالم الأوحد جمال الحفاظ تقي الدين أبو محمد عبد الغني ابن عبد الواحد بن علي بن سرور وابنه أبو محمد عبد الرحمن وأبو المجد عيسى بن الفقيه الإمام شيخ الإسلام أبي محمد عبد الله بن أحمد بن محمد وابن عمه أبو محمد عبد الله بن محمد بن أحمد وإسماعيل بن عمر بن أبي بكر وأحمد وإبراهيم وموسى بنو محمد بن خلف وعبد الرحمن بن محمد بن عبد الجبار وأحمد ومحمد ابنا عبد الملك بن عثمان وسالم بن طلائع بن سالم وأحمد بن كامل بن عمر وأحمد بن محمد بن أحمد ونعمة بن عبد الساتر بن نعمة ومحمد بن عبد الواحد المقدسيون وأبو محمد عبد العزيز بن عبد الملك الشيباني وسليمان بن إبراهيم بن رحمة الأسعردي وعبد الرحمن بن عبد الله الفراء وأبوه عبد الله وإسماعيل بن عبد الله الأنماطي وأبو محمد محفوظ بن عيسى بن محفوظ الأزدي ومحمد بن طرخان بن أبي الحسن الدمشقي وأبو الفضل ابن حسان بن أبي الفضل الحنبلي وعلي بن أبي بكر بن إدريس الخباز وأبو الفتح بن أبي الفضل بن أبي طالب القرشي وأبو القاسم بن مفرج بن مواهب وعمر بن علي بن محمود ومبارك بن كثير ابن بركة وحسن بن علي بن شكر الكلبي وأبو الحسين بن معالي بن عبد الرحمن وصديق بن حسن بن [...] الصحراوي بقراءة يوسف بن خليل الدمشقي ومن خطه نقل إلى هنا وذلك في يوم السبت ثاني عشر شهر ربيع الآخر سنة أربع وتسعين وخمسماية بجامع دمشق حرسه الله تعالى"
+}

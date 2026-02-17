@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضل بن أحمد بن محمد الفراوي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "العوالي المائة من مسموعات الفراوي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 172"
+      ],
+      "classmark": [
+        "3770/1"
+      ],
+      "folio_number": [
+        "2r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 33,
+      "guid": "0b460c4c-cfb3-481d-ac03-85806d244906",
+      "startIndex": 17,
+      "text": "سديد الدين الصقلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "0e32f050-d055-483f-bc3e-5a73c53b0ecf",
+      "startIndex": 83,
+      "text": "محمد بن أبي بكر بن قاسم الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "7a523a32-fc26-4d7d-9385-3668e08c2004",
+      "startIndex": 48,
+      "text": "صلاح الدين عمر بن عبد الله الفارسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "8aa382e5-1ff2-4aaa-985b-fd5d59e8888f",
+      "startIndex": 117,
+      "text": "عبد الصمد بن أحمد بن محمد بن بكران الريحاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 247,
+      "guid": "bf66ca5e-c731-41e1-8997-9eafc17244d7",
+      "startIndex": 239,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "648"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "d6df3ad4-6f9c-43c2-8c4b-5f02637af7c2",
+      "startIndex": 195,
+      "text": "الأحد ثامن عشر صفر سنة ثمان وأربعين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعها على الشيخ سديد الدين الصقلي بسنده بقراءة صلاح الدين عمر بن عبد الله الفارسي محمد بن أبي بكر بن قاسم الهمداني وعبد الصمد بن أحمد بن محمد بن بكران الريحاني وكتب السماع ومن خطه نقلت وذلك يوم الأحد ثامن عشر صفر سنة ثمان وأربعين وستمية بجامع دمشق وأجاز"
+}

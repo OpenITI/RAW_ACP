@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسن بن هبة الله الشافعي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "التوبة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 33"
+      ],
+      "classmark": [
+        "3744/2"
+      ],
+      "folio_number": [
+        "11r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "month": [
+          "4"
+        ],
+        "year": [
+          "696"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "408208fc-7623-4717-b301-6921b78c3270",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 250,
+      "text": "ربيع الآخر سنة ست وتسعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "44bb84a6-114c-46fb-82b6-b1817f8622e0",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 121,
+      "text": "المسلم بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "copyist"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "4c87fd6e-da0d-4e68-9e57-e6660556b998",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 213,
+      "text": " محمد بن أحمد بن عثمان الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "bfc56c72-c11b-4b9f-ba25-c8293cb8c3b2",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "شهاب الدين أحمد بن مظفر بن أبي محمد النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "fee22a93-af1d-4b92-8ca0-d5a78dbed603",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "شرف الدين أبي الفضل أحمد بن هبة الله بن أحمد بن محمد بن الحسن بن عساكر",
+      "type": "person"
+    }
+  ],
+  "text": " سمع هذا المجلس على الشيخ المسند الجليل شرف الدين أبي الفضل أحمد بن هبة الله بن أحمد بن محمد بن الحسن بن عساكر بسماعه من المسلم بن أحمد بقراءة المحدث المفيد شهاب الدين أحمد بن مظفر بن أبي محمد النابلسي كاتب الطبقة محمد بن أحمد بن عثمان الذهبي وصح في ربيع الآخر سنة ست وتسعين وستمية نقله الذهبي من ثبته إلى هنا"
+}

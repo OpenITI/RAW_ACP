@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن أحمد السلفي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "المشيخة البغدادية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 48"
+      ],
+      "classmark": [
+        "3747/4"
+      ],
+      "folio_number": [
+        "56r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 28,
+      "guid": "ad299c74-9055-468a-a984-6441efc1f1a4",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 15,
+      "text": "أبي سعد الأسدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "8"
+        ],
+        "year": [
+          "495"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "b182dfe0-740f-4fcb-833d-3795bd88377d",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 77,
+      "text": "شعبان سنة خمس وتسعين [وأربعماية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "d1d21a57-cf4c-4327-a6b0-e72ee3d38875",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "أحمد بن محمد النحاس الأصبهاني",
+      "type": "person"
+    }
+  ],
+  "text": " صورة سماعه من أبي سعد الأسدي سمعت بقراءتي وأحمد بن محمد النحاس الأصبهاني في شعبان سنة خمس وتسعين [وأربعماية]"
+}

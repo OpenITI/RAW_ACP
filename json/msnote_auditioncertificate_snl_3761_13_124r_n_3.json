@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك بن عبد العزيز بن جريج المكي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث ابن جريج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 120"
+      ],
+      "classmark": [
+        "3761/13"
+      ],
+      "folio_number": [
+        "124r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "669"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "360982b2-2713-44ec-a2cf-717f502df58f",
+      "startIndex": 155,
+      "text": "الاثنين غرة جمادى الأولى سنة تسع وستين وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "411f1b35-8476-44b2-9fa3-8b4a16a8e433",
+      "startIndex": 123,
+      "text": "أحمد بن سامة بن كوكب الطائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "57107398-4615-4e0c-8a15-8361b012c77a",
+      "startIndex": 60,
+      "text": "أحمد بن حمود بن عمر الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "eba8a7f8-a7e1-4122-84b2-bf27019cd941",
+      "startIndex": 23,
+      "text": "أبي بكر محمد بن علي بن المظفر النشبي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على الشيخ المسند أبي بكر محمد بن علي بن المظفر النشبي أحمد بن حمود بن عمر الحراني وآخرون بقراءة كاتب السماع في الأصل أحمد بن سامة بن كوكب الطائي يوم الاثنين غرة جمادى الأولى سنة تسع وستين وستمية "
+}

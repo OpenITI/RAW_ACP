@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسحاق بن منده "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن منده"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 184"
+      ],
+      "classmark": [
+        "3772"
+      ],
+      "folio_number": [
+        "29r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "0ff744f3-fbdc-41d3-8b83-a52cf8b9b5c9",
+      "startIndex": 170,
+      "text": " أبو مسعود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "1df439db-8485-4bac-8ebb-d6c85305f467",
+      "startIndex": 26,
+      "text": "إسماعيل بن محمد بن الفضل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 205,
+      "guid": "47905cb3-c813-468a-81e3-e5cb1f7a3240",
+      "startIndex": 201,
+      "text": "دمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "551d964c-3c06-42b5-b7ec-12c1a0d3fafd",
+      "startIndex": 115,
+      "text": "محمد بن أحمد بن علي زفرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "96aea97c-6bdf-4184-8810-c8519bbc0dbf",
+      "startIndex": 61,
+      "text": " أبي عمرو محمد بن أبي القاسم بن علي [اللحام/ الفحام؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "aaa8f71a-5cc3-4f7c-9c36-63b8a6234e10",
+      "startIndex": 141,
+      "text": "محمد بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "year": [
+          "525"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "b56e0d50-4b10-4927-985a-4a084ec783b2",
+      "startIndex": 210,
+      "text": "خمس وعشرين [وخمسماية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "d71b1964-a13b-4a27-8773-00835729f2f4",
+      "startIndex": 182,
+      "text": "عبد الرحيم",
+      "type": "person"
+    }
+  ],
+  "text": "بلغ من أول الجزء سماعا من إسماعيل بن محمد بن الفضل بروايته عن أبي عمرو محمد بن أبي القاسم بن علي [اللحام/ الفحام؟] محمد بن أحمد بن علي زفرة ومحمد بن أبي بكر و[...] وسبطاه أبو مسعود وعبد الرحيم وذلك في دمشق سنة خمس وعشرين [وخمسماية]"
+}

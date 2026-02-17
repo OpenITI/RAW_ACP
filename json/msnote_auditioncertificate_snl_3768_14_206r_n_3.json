@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد جعفر بن أحمد بن الحسين السراج القارئ "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتخبة الصحاح العوالي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 165"
+      ],
+      "classmark": [
+        "3768/14"
+      ],
+      "folio_number": [
+        "206r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "483"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "23d769e2-d08a-4b3c-b7d1-c179cf215c52",
+      "startIndex": 96,
+      "text": "شوال سنة ثلاث وثمانين وأربعمائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "3542fc47-6279-4fa5-a0f1-93edb21d6dda",
+      "startIndex": 46,
+      "text": "السراج ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "57317dcf-7111-42cc-bd62-fbea44a0dfbb",
+      "startIndex": 81,
+      "text": "ابن الخاضبة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 26,
+      "guid": "97e4e45c-d974-4af4-b55f-9b7d0367f37d",
+      "startIndex": 13,
+      "text": "الشريف الزينبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "ac7fbf0e-3c91-4431-9ac2-f046fef637b4",
+      "startIndex": 64,
+      "text": "أبي الفتح",
+      "type": "person"
+    }
+  ],
+  "text": "في الأصل بخط الشريف الزينبي ذكر سماع جماعة من السراج سماع شيخنا أبي الفتح بقراءة ابن الخاضبة في شوال سنة ثلاث وثمانين وأربعمائة "
+}

@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن المفضل بن أحمد الثقفي الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/6"
+      ],
+      "folio_number": [
+        "62v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "299036f7-9930-42ab-b9ab-8bbcb4e0a176",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 44,
+      "text": "عز الدين أبي القاسم عبد الله بن الحسين بن عبد الله بن رواحة الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "36c972cc-8450-4718-a760-c8cedde0b781",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "4b64ed49-1c35-4cdb-94e8-29dac56321ec",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 141,
+      "text": "محمد بن عبد القاهر ابن النصيبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "10"
+        ],
+        "year": [
+          "614"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "500d9ac3-d23d-4ae1-bb02-bc3d3fb1d6fb",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 185,
+      "text": "شوال سنة أربع عشرة وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "5adef275-fe99-4db7-880a-12deac21dbd1",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 177,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 220,
+      "guid": "76be6543-aa16-42b0-b329-f278b2202bcc",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 212,
+      "text": "مدينة حلب",
+      "type": "place"
+    }
+  ],
+  "text": " سمع جميع الفوائد العشرة الثقفيات على الشيخ عز الدين أبي القاسم عبد الله بن الحسين بن عبد الله بن رواحة الأنصاري بسماعه من السلفي عنه بقراءة محمد بن عبد القاهر ابن النصيبي ابنه أحمد في شوال سنة أربع عشرة وستمية بمدينة حلب حرسها الله"
+}

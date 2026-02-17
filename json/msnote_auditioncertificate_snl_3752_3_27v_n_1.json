@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن أبي الدنيا القرشي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب العقل وفضله"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 67 "
+      ],
+      "classmark": [
+        "3752/3"
+      ],
+      "folio_number": [
+        "27v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "17403eeb-61e3-48d7-8c46-c7d5a66d483e",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 147,
+      "text": "أبو علي أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "475da8c9-89c6-4c50-ae0c-1ffcd884f5e0",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 110,
+      "text": "محمد بن محمود بن المعز الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 249,
+      "guid": "85f7a7be-fb64-48bf-8647-e1ab6080042f",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 244,
+      "text": "بغداد ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "95e5d100-2e83-45ca-9241-8020384460ca",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 32,
+      "text": "أبي الحسن علي بن يحيى بن علي بن الطراح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "a560fd81-c394-44ab-b36d-b6e00152e698",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 161,
+      "text": "زين النساء فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "574"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "d6f91bfd-628e-4e7b-b123-67fe9d64e687",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 185,
+      "text": "يوم الخميس الثامن من ربيع الأول سنة أربع وسبعين وخمس ماية",
+      "type": "date"
+    }
+  ],
+  "text": " سمع هذا الجزء على الشيخ الإمام أبي الحسن علي بن يحيى بن علي بن الطراح بسنده أوله بقراءة كاتب السماع في الأصل محمد بن محمود بن المعز الحراني ولداه أبو علي أحمد وزين النساء فاطمة وآخرون يوم الخميس الثامن من ربيع الأول سنة أربع وسبعين وخمس ماية ببغداد "
+}

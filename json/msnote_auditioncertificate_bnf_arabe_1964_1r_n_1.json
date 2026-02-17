@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسين بن عمر الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب المجالسة وجواهر العلم"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 1964"
+      ],
+      "folio_number": [
+        "1r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11001549t/f4.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "link_to_manuscript": [
+        "a3c8fd23-d66a-4a69-b992-2a97a8c60ae9"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11001549t/f4.item.r=%22Arabe%201964%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 726,
+      "guid": "0a45ff12-3f2d-4434-99d2-98e8339f68ab",
+      "startIndex": 708,
+      "text": "أبو القاسم البوصيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "c9feae46-9aca-4cfc-b1f8-3c0874684905"
+        ],
+        "role": [
+          "writer",
+          "sami"
+        ]
+      },
+      "endIndex": 1163,
+      "guid": "1cb6bd3f-b261-45fc-8a0a-a482e4780981",
+      "startIndex": 1090,
+      "text": "أحمد بن عبد القادر بن أحمد بن مكتوم بن أحمد بن محمد بن سليم القيسي الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-aqmar_mosque"
+          ]
+        ]
+      },
+      "endIndex": 943,
+      "guid": "34b0b8ea-5152-4291-9ecf-d5831a002394",
+      "startIndex": 920,
+      "text": "الجامع الأقمر من القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 375,
+      "guid": "46dfa8cb-7dba-4ab1-8f32-3592b780e398",
+      "startIndex": 294,
+      "text": "شهاب الدين أبي العباس أحمد بن علاء الدين كشتغدي بن عبد الله الخطائي المعزي الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 543,
+      "guid": "4c60008a-9a1c-4f1d-9082-9a23b7995d3c",
+      "startIndex": 495,
+      "text": "معين الدين أبي العباس أحمد بن علي بن يوسف الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "735"
+        ]
+      },
+      "endIndex": 917,
+      "guid": "96de8c1c-fca7-4154-b8c1-728029faa6f4",
+      "startIndex": 799,
+      "text": "يوم السبت السادس والعشرين من شهر ربيع الآخر وآخرها في يوم الأربعاء العشرين من جمادى الآخرة من سنة خمس وثلاثين وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "9c5d59c3-c898-479d-82a4-70dd7da44dce",
+      "startIndex": 220,
+      "text": "عائشة ابنة الأمير المرحوم نور الدين علي بن عمر بن شبل الصنهاجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 640,
+      "guid": "deebaf0d-6374-4d13-a00a-8bcaaafa8407",
+      "startIndex": 563,
+      "text": "زين الدين أبي الطاهر إسماعيل بن عبد القوي بن أبي العز بن داود بن عزون الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "e06f8bc9-edb3-4d99-a0d0-b3f21b8678d7",
+      "startIndex": 147,
+      "text": "شهاب الدين أحمد بن محمد بن عبد الرحمن العسجدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 749,
+      "guid": "fb35aecf-961c-4ce3-960a-ebbf335f6e8a",
+      "startIndex": 729,
+      "text": "أبو عبد الله الأرتاحي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعت من كتاب المجالسة هذا وهو ستة وعشرون جزءًا أربعة وعشرين جزءًا وفاتني منه ما قُرئ في الميعاد الثالث وهو جزآن الخامس والسادس لا غير بقراءة الشيخ شهاب الدين أحمد بن محمد بن عبد الرحمن العسجدي على الشيخة الجليلة المسندة عائشة ابنة الأمير المرحوم نور الدين علي بن عمر بن شبل الصنهاجي وعلى الشيخ شهاب الدين أبي العباس أحمد بن علاء الدين كشتغدي بن عبد الله الخطائي المعزي الصيرفي أبقاهما الله من أول جزء السابع إلى آخر الحادي عشر ومن أول الرابع عشر إلى آخر الكتاب بسماع عائشة لجميع الكتاب من الشيخ معين الدين أبي العباس أحمد بن علي بن يوسف الدمشقي وإجازتها من الشيخ زين الدين أبي الطاهر إسماعيل بن عبد القوي بن أبي العز بن داود بن عزون الأنصاري وبإجازة الشيخ شهاب الدين أحمد بن كشتغدي المذكور منهما قالا أخبرنا أبو القاسم البوصيري وأبو عبد الله الأرتاحي بسندهما المبين فيه وصح ذلك [...] مجالس أولها في يوم السبت السادس والعشرين من شهر ربيع الآخر وآخرها في يوم الأربعاء العشرين من جمادى الآخرة من سنة خمس وثلاثين وسبع ماية بالجامع الأقمر من القاهرة المحروسة وأجازا لمن سمع ذلك عليهما أو شيئا منه ما يجوز لهما روايته والحمد لله وحده قال هذا وكتبه العبد الفقير إلى الله تعالى الراجي عفوه ومغفرته أحمد بن عبد القادر بن أحمد بن مكتوم بن أحمد بن محمد بن سليم القيسي الدمشقي عفا الله عنه وغفر له ولوالديه ولجميع المسلمين آمين."
+}

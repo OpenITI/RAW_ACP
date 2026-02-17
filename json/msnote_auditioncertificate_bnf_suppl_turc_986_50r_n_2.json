@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ضياء الدين محمد بن عبد الواحد بن أحمد المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الثالث من الفوائد الحافظ ضياء الدين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "50r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f53.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f53.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "04d0cee6-bdc5-45b3-bcd0-c5a0af3f9b65",
+      "index": 287,
+      "isZeroPoint": false,
+      "startIndex": 204,
+      "text": "محمد بن إبراهيم بن أحمد الحياني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "33b82b95-5aac-4ec3-a25f-fde01e5e6430",
+      "index": 285,
+      "isZeroPoint": false,
+      "startIndex": 140,
+      "text": "عبد الله بن محمد بن سيدهم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "35622573-980a-42b9-b59b-95cc7e27a931",
+      "index": 288,
+      "isZeroPoint": false,
+      "startIndex": 242,
+      "text": "محمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 351,
+      "guid": "691c6a86-ecef-440a-b24f-10022712982b",
+      "index": 290,
+      "isZeroPoint": false,
+      "startIndex": 342,
+      "text": "دار الحديث",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "630"
+        ]
+      },
+      "endIndex": 339,
+      "guid": "75a22a53-24ed-45fd-9df1-d90a1fa90a66",
+      "index": 289,
+      "isZeroPoint": false,
+      "startIndex": 291,
+      "text": "يوم السبت حادي عشر ربيع الأول سنة ثلاثين وست مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "83876d1d-70cf-46c5-97d9-02b017ed776b",
+      "index": 286,
+      "isZeroPoint": false,
+      "startIndex": 175,
+      "text": "شعيب بن محمد بن موسى السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "c4fe9ce0-5fac-4785-8f4e-d801d4c9b836",
+      "index": 284,
+      "isZeroPoint": false,
+      "startIndex": 83,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء وهو الجزء الثالث من الفوائد على عمي الشيخ الإمام العالم الحافظ ضياء الدين أبي عبد الله محمد بن عبد الواحد المقدسي فسمعه عبد الله بن محمد بن سيدهم المقدسي وشعيب بن محمد بن موسى السلمي ومحمد بن إبراهيم بن أحمد الحياني وكتبه محمد بن عبد الرحيم بن عبد الواحد المقدسي وصح ذلك يوم السبت حادي عشر ربيع الأول سنة ثلاثين وست مائة بدار الحديث الذي [كذا] أنشأها ضياء الدين والحمد لله"
+}

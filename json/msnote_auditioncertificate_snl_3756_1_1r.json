@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الليث بن سعد بن عبد الرحمن الفهمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الليث بن سعد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 90"
+      ],
+      "classmark": [
+        "3756/1"
+      ],
+      "folio_number": [
+        "1r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "03f25911-eb2a-4c1f-a411-c81070f3e363",
+      "index": 124,
+      "isZeroPoint": false,
+      "startIndex": 40,
+      "text": "أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "732"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "42e5b325-3df5-4dc1-a160-2a61e29576fa",
+      "index": 130,
+      "isZeroPoint": false,
+      "startIndex": 265,
+      "text": "يوم الجمعة سابع عشري رجب سنة اثنيتن وثلاثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "5055eefa-e5c5-4a91-b0d7-fba089314fa5",
+      "index": 125,
+      "isZeroPoint": false,
+      "startIndex": 103,
+      "text": "أبي الحسن علي بن أحمد بن عبد الواحد ابن الفخر البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 342,
+      "guid": "6657b86f-9eaf-4126-8279-fd4e988cc400",
+      "index": 131,
+      "isZeroPoint": false,
+      "startIndex": 318,
+      "text": "دار الحديث الأشرفية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 417,
+      "guid": "6b4c01b8-4e7e-4ae1-a727-dafc8fe0e2f0",
+      "index": 132,
+      "isZeroPoint": false,
+      "startIndex": 349,
+      "text": "محمد بن عبد الله بن أحمد بن المحب عبد الله بن أحمد بن محمد بن إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "a88b7a5e-d638-406a-a64f-523b8bda957b",
+      "index": 128,
+      "isZeroPoint": false,
+      "startIndex": 222,
+      "text": "يحيى بن بطريق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "c4ecc6de-79a6-4d57-b716-705e61dda99e",
+      "index": 127,
+      "isZeroPoint": false,
+      "startIndex": 195,
+      "text": "هبة الله بن أحمد الأكفاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "d67a21d5-f9da-44e1-a07b-261076b3ba65",
+      "index": 129,
+      "isZeroPoint": false,
+      "startIndex": 248,
+      "text": "محمد بن مكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "ec48096c-8381-458b-ab66-6f9d768cd444",
+      "index": 126,
+      "isZeroPoint": false,
+      "startIndex": 168,
+      "text": "أبي طاهر الخشوعي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأته على الشيخ الإمام حافظ هذا الزمان أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي بسماعه له من أبي الحسن علي بن أحمد بن عبد الواحد ابن الفخر البخاري بإجازته من أبي طاهر الخشوعي بسماعه من هبة الله بن أحمد الأكفاني ويحيى بن بطريق بسماعهما من محمد بن مكي وذلك يوم الجمعة سابع عشري رجب سنة اثنيتن وثلاثين وسبعمية بدار الحديث الأشرفية بدمشق كتبه محمد بن عبد الله بن أحمد بن المحب عبد الله بن أحمد بن محمد بن إبراهيم"
+}

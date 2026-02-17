@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أحمد بن محمد بن حنبل"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند أنس بن مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 63 "
+      ],
+      "classmark": [
+        "3750/7"
+      ],
+      "folio_number": [
+        "87r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "baalbek"
+          ]
+        ]
+      },
+      "endIndex": 72,
+      "guid": "ee92399f-029d-499f-94dc-14eb50e2c6e3",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 68,
+      "text": "بعلبك",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "f4704088-6a78-4b0e-81cd-7ba3d1c9b646",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": "أبي عبد الله محمد بن الجمال عمر بن الرشيد",
+      "type": "person"
+    }
+  ],
+  "text": " ثم بلغت قراءة على أبي عبد الله محمد بن الجمال عمر بن الرشيد [...] ببعلبك"
+}

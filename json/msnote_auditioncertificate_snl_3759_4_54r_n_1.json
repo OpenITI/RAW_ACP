@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يحيى بن منصور الشافعي النيسابوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعين المخرجة من مسموعات النيسابوري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/4"
+      ],
+      "folio_number": [
+        "54r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 482,
+      "guid": "0b74f4a3-cc66-4b4b-9f40-bfa76e3eda60",
+      "startIndex": 408,
+      "text": "أبو القاسم علي بن الحافظ بهاء الدين أبي محمد القاسم بن علي بن الحسن الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 553,
+      "guid": "184019a2-2f31-4c10-b5bc-82e3c7474db9",
+      "startIndex": 485,
+      "text": "أبو المجد الفضل بن القاضي زين الدين أبي البيان نبأ بن الفضل البانياسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "35b5c95d-2601-413f-8160-98ad80c1cc15",
+      "startIndex": 278,
+      "text": "أبو منصور عبد الحق بن أحمد بن محمد بن صصرى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 362,
+      "guid": "68384204-f88e-4262-9acf-ecb413dc5789",
+      "startIndex": 322,
+      "text": "أبو الحسن علي بن إسماعيل بن موسى التفليسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "khanaqah_simisatiya"
+          ]
+        ]
+      },
+      "endIndex": 757,
+      "guid": "6c6de6de-ab2b-48be-8d90-62d546ab0a94",
+      "startIndex": 729,
+      "text": "دويرة الصوفية شمالي جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "588"
+        ]
+      },
+      "endIndex": 726,
+      "guid": "877c095d-9cbd-4755-a299-88816afe6487",
+      "startIndex": 681,
+      "text": "يوم الخميس سلخ شعبان سنة ثمان وثمانين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 569,
+      "guid": "8fb1c3f2-869f-46a7-b130-bec9ae1105bc",
+      "startIndex": 556,
+      "text": "أبو الحسن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "9e747177-399a-45cd-949f-0ca74deb94f8",
+      "startIndex": 178,
+      "text": "محيي الدين أبي سعد محمد بن يحيى النيسابوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 674,
+      "guid": "a97c47f0-39be-4a69-92e6-c3f06200f53d",
+      "startIndex": 634,
+      "text": "أحمد بن علي بن أبي بكر بن إسماعيل القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 589,
+      "guid": "b0e97bd0-e3ff-4545-a21a-c53cf41ced5b",
+      "startIndex": 572,
+      "text": "أبو الحسين إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 405,
+      "guid": "de5561b8-2269-4c43-a876-0d57c76399dc",
+      "startIndex": 365,
+      "text": "أبو عبد الله محمد بن علي بن موسى الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "fbd5654f-d917-427c-8d64-7fc89f9c7fc4",
+      "startIndex": 51,
+      "text": "شهاب الدين أبي الفضل منصور بن علي ابن إسماعيل المخزومي الطبري",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذه الأربعين حديثا على الشيخ الإمام الأجل شهاب الدين أبي الفضل منصور بن علي ابن إسماعيل المخزومي الطبري أثابه الله بحق سماعه من مؤلفها الشيخ الإمام العالم الزاهد الشهيد محيي الدين أبي سعد محمد بن يحيى النيسابوري عن شيوخه رضي الله عنهم أجمعين صاحب النسخة وكاتبها القاضي أبو منصور عبد الحق بن أحمد بن محمد بن صصرى وأبو الحسن علي بن إسماعيل بن موسى التفليسي وأبو عبد الله محمد بن علي بن موسى الأنصاري وأبو القاسم علي بن الحافظ بهاء الدين أبي محمد القاسم بن علي بن الحسن الشافعي وأبو المجد الفضل بن القاضي زين الدين أبي البيان نبأ بن الفضل البانياسي وأبو الحسن محمد وأبو الحسين إسماعيل ابنا أحمد بن علي بن أبي بكر بقراءة والدهما أحمد بن علي بن أبي بكر بن إسماعيل القرطبي وذلك يوم الخميس سلخ شعبان سنة ثمان وثمانين وخمسماية بدويرة الصوفية شمالي جامع دمشق حرسها الله والحمد لله وحده وصلى الله على محمد النبي الأمي وعلى آله وأزواجه وصحبه أجمعين"
+}

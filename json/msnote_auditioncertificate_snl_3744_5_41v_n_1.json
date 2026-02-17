@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الرحمن بن العباس المخلص"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه سبعة مجالس من أمالي أبي طاهر المخلص"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 34"
+      ],
+      "classmark": [
+        "3744/5"
+      ],
+      "folio_number": [
+        "41v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 848,
+      "guid": "02a2cd60-1317-40a6-b1d0-fc2d0932e3e3",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 800,
+      "text": "نور الدين علي بن مسعود بن نفيس الموصلي ثم الحلبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 514,
+      "guid": "0f92d40c-18d8-4033-a7f4-597026f94795",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 486,
+      "text": "أحمد بن حسن بن حسين الدمانيسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "129c32f5-df92-47f8-8978-9830f8d7335a",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 184,
+      "text": "أبي حفص عمر بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 777,
+      "guid": "191978ab-02cb-4957-855a-e2974b516810",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 738,
+      "text": "ثاني عشر ذي القعدة سنة خمس وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 915,
+      "guid": "2b6d80a4-3717-4b2c-954a-007413529394",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 877,
+      "text": "علي بن سالم بن سلمان بن العرباني الحصني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 403,
+      "guid": "367a5ec3-8ed7-463b-b25b-eaeab49c64e3",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 400,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 318,
+      "guid": "3f6e2cdb-a2ad-4043-b75b-b874b2c97171",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 294,
+      "text": "شرف الدين أبو العباس أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "50ce0628-97cb-4b1f-97de-159d8ad3a919",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 265,
+      "text": "شمس الدين أبو عبد الله محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 968,
+      "guid": "56ee9ac0-4159-401d-b959-05331d92f0f9",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 918,
+      "text": "منزل المسمع بدرب السلسلة بدمشق المحروسة بباب البريد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 631,
+      "guid": "5c9047c3-fdcc-4d8e-af42-178a9ddedcb8",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 578,
+      "text": "عبد الرحمن بن عبد الله بن أبي الحسن بن المقير البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 666,
+      "guid": "7510a8ea-5c78-4fe5-ad8c-264fd0a4e93b",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 633,
+      "text": "ومحمد ابن جمال الدين محمد بن نعمة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 720,
+      "guid": "7a8bd195-e883-4a62-805e-5d16df9320dd",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 704,
+      "text": "منصور بن رزق الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 409,
+      "guid": "b2b07249-7031-4879-a46e-fc52e688b03b",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 406,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 397,
+      "guid": "b6dbdff2-729e-4d0d-ab58-5718bbc09173",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 341,
+      "text": "محي الدين أبو زكريا يحيى بن زكريا بن مسعود المنبجي المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 549,
+      "guid": "bb11bce2-e956-453c-a9ee-c3343bde70cf",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 517,
+      "text": "محمد بن محمد بن عبد الرحمن الفامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 701,
+      "guid": "d9814f48-998c-4ecd-b38d-2af5890c3789",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 682,
+      "text": "أحمد بن مصطفى التركي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "f4070ca6-0f27-4d20-b016-0e06e8e5ca1c",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 86,
+      "text": "كمال الدين أبي العباس أحمد بن نعمة بن أحمد النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "f4bf1c02-151e-417f-842f-2ecc8347f605",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": "أبي المعالي بن الزنف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 483,
+      "guid": "fd642420-9c97-4cbe-a378-a56229e7ba72",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 451,
+      "text": "علي بن عبد العزيز بن محمد الدمشقي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء وهو السبع مجالس لأبي الطاهر المخلص على شيخنا الإمام العالم الزاهد كمال الدين أبي العباس أحمد بن نعمة بن أحمد النابلسي قدس الله روحه بحق سماعه فيه منقولا من الشيخين أبي حفص عمر بن طبرزد وأبي المعالي بن الزنف بسندهما فسمعه ولداه الإمامان العالمان شمس الدين أبو عبد الله محمد وشرف الدين أبو العباس أحمد وشيخنا الإمام القدوة محي الدين أبو زكريا يحيى بن زكريا بن مسعود المنبجي المقرئ ومحمد وأحمد ابنا الحاج حمود بن عمر بن حمود الحراني وعلي بن عبد العزيز بن محمد الدمشقي وأحمد بن حسن بن حسين الدمانيسي ومحمد بن محمد بن عبد الرحمن الفامي أبوه المعري الأصل الدمشقي وعبد الرحمن بن عبد الله بن أبي الحسن بن المقير البغدادي ومحمد ابن جمال الدين محمد بن نعمة بن أخي المسمع وأحمد بن مصطفى التركي ومنصور بن رزق الله وصح ذلك وثبت في ثاني عشر ذي القعدة سنة خمس وستين وستماية بقراءة الفقيه المحدث نور الدين علي بن مسعود بن نفيس الموصلي ثم الحلبي وكاتب الطبقة الفقير إلى ربه علي بن سالم بن سلمان بن العرباني الحصني بمنزل المسمع بدرب السلسلة بدمشق المحروسة بباب البريد وأجاز المسمع للمذكورين السامعين جميع ما يجوز له روايته والحمد لله وحده وصلوته على سيدنا محمد وآله وصحبه وسلم"
+}

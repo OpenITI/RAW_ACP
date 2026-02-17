@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبدالله بن الزبير القرشي الحميدي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند الحميدي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "1063"
+      ],
+      "folio_number": [
+        "190r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "153d51e5-b83d-495e-a779-1f01df3020ee",
+      "startIndex": 59,
+      "text": "زين الدين أبي الفرج عبد الرحمن بن الشيخ شهاب الدين أبي العباس أحمد بن المقداد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "798"
+        ]
+      },
+      "endIndex": 410,
+      "guid": "52a1a8db-3c77-452f-b977-556575a36e5b",
+      "startIndex": 358,
+      "text": "الاثنين حادي وعشرين ذي الحجة سنة ثمان وتسعين وسبع مئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 489,
+      "guid": "864f1bac-f7be-4f52-841e-41c479dc3e88",
+      "startIndex": 464,
+      "text": "محمد بن عبد الرحمن المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "a2fbeab2-c436-4f3e-97fd-381845bd7687",
+      "startIndex": 166,
+      "text": "عبد الرحمن بن الشيخ عماد الدين أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "ghouta_talfiyatha"
+          ]
+        ]
+      },
+      "endIndex": 451,
+      "guid": "aa6cfeab-aadd-4b4b-894c-9c2e17b2bc53",
+      "startIndex": 413,
+      "text": "بستان المسمع بقرية تلفياثا من غوطة دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "ea26a2fd-af08-4d51-860d-7161e7841bb5",
+      "startIndex": 148,
+      "text": "أحمد ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا المسند من نسخة الأصل على الشيخ المسند الصالح زين الدين أبي الفرج عبد الرحمن بن الشيخ شهاب الدين أبي العباس أحمد بن المقداد وسمعه ابني أحمد وسمع ابن عمه عبد الرحمن بن الشيخ عماد الدين أبي بكر الميعاد الثاني وأوله أحاديث حفصة وآخره أول حديث عبد الله بن عمر في نسخة الأصل وهذه النسخة مخالفة لنسخة الأصل في الترتيب وصح ذلك في أربعة مجالس آخرها يوم الاثنين حادي وعشرين ذي الحجة سنة ثمان وتسعين وسبع مئة ببستان المسمع بقرية تلفياثا من غوطة دمشق وأجاز وكتب محمد بن عبد الرحمن المقدسي"
+}

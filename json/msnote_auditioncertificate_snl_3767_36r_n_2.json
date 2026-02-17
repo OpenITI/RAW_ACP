@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن عبد العزيز المديني المصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي مطيع المصري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 156"
+      ],
+      "classmark": [
+        "3767"
+      ],
+      "folio_number": [
+        "36r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 407,
+      "guid": "051d2979-81b0-415e-85a0-618a14ef3e94",
+      "startIndex": 353,
+      "text": "عبد الرحمن بن محمد بن رسلان بن عبد الله بن شعبان المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "alexandria",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 556,
+      "guid": "0bf1a7a8-aa21-4cb1-9768-ba52c4b47c9c",
+      "startIndex": 540,
+      "text": "منزله بالإسكندرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "1f4cd2da-7844-4c10-8482-44f826c82363",
+      "startIndex": 188,
+      "text": "شرف الدين أبي محمد عبد الغفار بن أبي العز بن داود بن عزون الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "2fc613af-fd97-430c-8998-f6055aa55776",
+      "startIndex": 69,
+      "text": "شمس الدين أبي عبد الله محمد بن عماد بن محمد الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 509,
+      "guid": "5d39f35a-5455-4ec6-b967-a12770a08bdb",
+      "startIndex": 503,
+      "text": "حسن ورد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ]
+      },
+      "endIndex": 626,
+      "guid": "a4c05fe4-1131-4d3d-91b6-5f433618d307",
+      "startIndex": 575,
+      "text": "صحيح ذلك وكتب محمد بن عماد بن محمد بن الحسين الحراني",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 297,
+      "guid": "c5bc77db-9c75-4926-8838-3908df809a08",
+      "startIndex": 256,
+      "text": "صفي الدين أبو إسحق إبراهيم بن مرتفع بن نصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "622"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          null
+        ]
+      },
+      "endIndex": 465,
+      "guid": "c6fe3391-4c95-4ea0-b100-b39f608b26f7",
+      "startIndex": 430,
+      "text": " ربيع الأول سنة اثنتين وعشرين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "cdd265c5-a882-4a0e-a19f-369a2fdbce7d",
+      "startIndex": 306,
+      "text": "أبو محمد عبد الله بن غلام الله بن إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "f987796d-b63d-48aa-ad5d-8560955d0eaa",
+      "startIndex": 141,
+      "text": "أبي حنيفة محمد الخطيبي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء جميعه والذي قبله وهما أمالي أبي مطيع على الشيخ الجليل شمس الدين أبي عبد الله محمد بن عماد بن محمد الحراني بحق سماعه من القاضي أبي حنيفة محمد الخطيبي عنه وسمع بقراءتي الفقيه شرف الدين أبي محمد عبد الغفار بن أبي العز بن داود بن عزون الأنصاري وصفي الدين أبو إسحق إبراهيم بن مرتفع بن نصر وربيبه أبو محمد عبد الله بن غلام الله بن إسماعيل وكتب عبد الرحمن بن محمد بن رسلان بن عبد الله بن شعبان المقرئ تجاوز الله عنه في شهر ربيع الأول سنة اثنتين وعشرين وستمية حامدا مصليا مستغفرا وسمع مع الجماعة حسن ورد أم ولد الشيخ المسمع والسماع بمنزله بالإسكندرية حرسها الله تعالى صحيح ذلك وكتب محمد بن عماد بن محمد بن الحسين الحراني"
+}

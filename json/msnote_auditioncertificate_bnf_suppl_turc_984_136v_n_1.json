@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الله الأنصاري وأبي محمد بن ماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتقا من الأحاديث "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "136v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f140.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f140.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 283,
+      "guid": "16c5d4d8-d127-40c1-a3c2-28b886512b96",
+      "startIndex": 254,
+      "text": "عثمان بن جبريل بن مروان المبيض",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "1bc543e3-9d85-4aaa-a770-17a62ede0b97",
+      "startIndex": 215,
+      "text": "ساعد بن عبد الله بن ثلاج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "323419cc-0929-45c9-851b-e52521bc267a",
+      "startIndex": 94,
+      "text": "عز الدين أبي بكر محمد بن عبد الله بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "633"
+        ]
+      },
+      "endIndex": 387,
+      "guid": "4c2105f4-2aec-44c2-bedd-d09b0cfb6216",
+      "startIndex": 330,
+      "text": "ليلة الجمعة خامس عشر جمادى الأولى سنة ثلاث وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 303,
+      "guid": "5329e904-3f5c-4882-b20f-5ac374bd15c9",
+      "startIndex": 286,
+      "text": "دار السنة الضيائية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "85874d06-9810-467c-8260-84a7ea2a3f51",
+      "startIndex": 163,
+      "text": "شمس الدين محمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "ea797a5e-f928-4f42-85c7-d69641eb0c86",
+      "startIndex": 41,
+      "text": "كمال الدين أحمد بن عبد الرحيم بن عبد الواحد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزؤ على الشيخين الإمامين كمال الدين أحمد بن عبد الرحيم بن عبد الواحد المقدسي وعز الدين أبي بكر محمد بن عبد الله بن عبد الغني |فسمعه| الفقيه الإمام شمس الدين محمد بن عبد الرحيم بن عبد الواحد المقدسي وساعد بن عبد الله بن ثلاج ومثبت الأسماء عثمان بن جبريل بن مروان المبيض بدار السنة الضيائية بسفح جبل قاسيون وصح وثبت ليلة الجمعة خامس عشر جمادى الأولى سنة ثلاث وثلاثين وستمائة والحمد لله وحده وحسبنا الله ونعم الوكيل"
+}

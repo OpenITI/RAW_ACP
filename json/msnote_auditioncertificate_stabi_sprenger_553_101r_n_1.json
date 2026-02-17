@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "شرف اصحاب الحديث "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 554"
+      ],
+      "folio_number": [
+        "101r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1750818930/1200/0/00000209.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00062653"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "205f8e21-b8ed-49ca-9648-2c99c92b426c",
+      "startIndex": 125,
+      "text": "جعفر بن القاسم بن الأثيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 310,
+      "guid": "2fa2df4a-37ce-456b-b136-b7dbc6679b98",
+      "startIndex": 276,
+      "text": "بي زكريا عبد الرحيم بن أحمد البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "591a0de0-832c-4d89-b11c-8c160576220e",
+      "startIndex": 50,
+      "text": "الحسن بن علي بن الحسن الكاتب الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "6805ed31-51e9-4349-b7d7-5dd5994ff126",
+      "startIndex": 331,
+      "text": "إبراهيم بن محاسن بن شادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "459"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "a1ce1708-eba5-4bc3-a7d2-593bf1e4b862",
+      "startIndex": 221,
+      "text": " في شعبان من سنة تسع وخمسين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "a5b72d4e-e096-4b0a-9718-1fde263aa60a",
+      "startIndex": 90,
+      "text": "علي بن الحسين بن عمر الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "b16964b6-0eaf-4fad-bed9-1e2467faacdb",
+      "startIndex": 161,
+      "text": "علي بن إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "ca63b6e6-1295-45c5-93d1-5440a9dd8c86",
+      "startIndex": 178,
+      "text": "الحسين بن خضر المصيصي المؤذن",
+      "type": "person"
+    }
+  ],
+  "text": "في آخر الكتاب في الأصل، بلغ السماع من أوله بقراءة الحسن بن علي بن الحسن الكاتب الأنماطي، لعلي بن الحسين بن عمر الموصلي، وسمع جعفر بن القاسم بن الأثيم، وابن ابنه علي بن إسماعيل، والحسين بن خضر المصيصي المؤذن [ولكن؟] بفوات، في شعبان من سنة تسع وخمسين وأربعمائة، وذلك على الشيخ أبي زكريا عبد الرحيم بن أحمد البخاري رضي الله عنه. كتبه إبراهيم بن محاسن بن شادي."
+}

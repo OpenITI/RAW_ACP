@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن هارون الضبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الضبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/11"
+      ],
+      "folio_number": [
+        "144r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 337,
+      "guid": "13335dfd-c96c-49c9-83ea-7f1dc8e70f3a",
+      "startIndex": 277,
+      "text": "عز الدين محمد بن محمد بن محمد بن عثمان بن رسول الأماسي الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "22"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "745"
+        ]
+      },
+      "endIndex": 454,
+      "guid": "20955678-6193-4cf9-b90e-4c89d3f3c0fb",
+      "startIndex": 402,
+      "text": "الجمعة ثاني عشري جمادى الأولى سنة خمس وأربعين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 472,
+      "guid": "2469dd78-8761-4e55-95cd-ce449040b5f7",
+      "startIndex": 456,
+      "text": "تحت الساعات بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 396,
+      "guid": "474d7d82-c275-4c4f-a998-c0dce383df6b",
+      "startIndex": 340,
+      "text": "بدر الدين حسن بن إبراهيم بن أبي القاسم بن الكويك التكريتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "53e349c9-2bd0-4668-bb22-1e7b7c7d4926",
+      "startIndex": 53,
+      "text": "ناصر الدين محمد بن أحمد بن أحمد بن نعمة بن أحمد بن حماد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "54ff413a-95e6-4cc4-b625-93abdc807c06",
+      "startIndex": 174,
+      "text": " محمد بن عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "63fe031d-a709-441b-9930-acb3899c443f",
+      "startIndex": 127,
+      "text": "أبي الحسن بن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "b10cfbc9-d8a1-4439-859c-bda4d204731e",
+      "startIndex": 218,
+      "text": "بدر الدين محمد بن علي بن محمد بن علي بن أبي القاسم العدوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "c5adab4b-6296-41af-bc04-8273e40f1e97",
+      "startIndex": 157,
+      "text": " ابن طبرزد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا المجلس الحادي والستين وأمالي الضبي على الشيخ ناصر الدين محمد بن أحمد بن أحمد بن نعمة بن أحمد بن حماد المقدسي بسماعه من أبي الحسن بن البخاري بسماعه من ابن طبرزد بقراءة محمد بن عبد الله بن أحمد بن المحب وهذا خطه بدر الدين محمد بن علي بن محمد بن علي بن أبي القاسم العدوي وعز الدين محمد بن محمد بن محمد بن عثمان بن رسول الأماسي الحنفي وبدر الدين حسن بن إبراهيم بن أبي القاسم بن الكويك التكريتي يوم الجمعة ثاني عشري جمادى الأولى سنة خمس وأربعين وسبعمية تحت الساعات بدمشق وأجاز لنا والحمد لله رب العالمين "
+}

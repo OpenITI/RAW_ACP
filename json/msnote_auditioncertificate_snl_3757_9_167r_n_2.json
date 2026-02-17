@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "167r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 164,
+      "guid": "031e5b20-38eb-48bc-b3ad-3141fc27c0c3",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "منزل ابن هلال ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 31,
+      "guid": "108c331a-2b87-4ed5-bb1b-dd8b529595d7",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": "الوجيه السبتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "8"
+        ],
+        "year": [
+          "667"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "7c9cb347-650f-4350-a38c-a5f22a135c74",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 121,
+      "text": " شعبان سنة سبع وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "b78ea305-bfcb-4474-a5e0-a69543ed1008",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 79,
+      "text": "المخلص عبد الواحد بن عبد الحميد بن هلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "e1ff5e29-e502-49e9-9577-36de272ae105",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 33,
+      "text": "نجم الدين علي بن محمد بن عمر بن هلال",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه عليه بقراءة الوجيه السبتي نجم الدين علي بن محمد بن عمر بن هلال وابن عمه المخلص عبد الواحد بن عبد الحميد بن هلال في شعبان سنة سبع وستين وستماية بمنزل ابن هلال "
+}

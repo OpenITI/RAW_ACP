@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الرحمن بن العباس المخلص"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة الغرائب عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 102"
+      ],
+      "classmark": [
+        "3758/7"
+      ],
+      "folio_number": [
+        "257r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "549"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "29c19280-2c6f-4cd6-8181-6662126ed033",
+      "startIndex": 140,
+      "text": "يوم السبت ثالث ذي الحجة سنة تسع وأربعين وخمسماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "3d5f4032-0aa2-445e-9813-0068e079ed23",
+      "startIndex": 102,
+      "text": "عبد العزيز بن محمود بن الأخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "593c864d-ad67-442a-9d39-002c01962af1",
+      "startIndex": 80,
+      "text": "ابن البسري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "cf085fb6-a752-44aa-a592-927e64bc8f96",
+      "startIndex": 10,
+      "text": "أبي عبد الله محمد بن عبيد الله بن عبيد الله بن سلامة الرطبي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على أبي عبد الله محمد بن عبيد الله بن عبيد الله بن سلامة الرطبي بسماعه من ابن البسري جماعة منهم عبد العزيز بن محمود بن الأخضر بقراءته يوم السبت ثالث ذي الحجة سنة تسع وأربعين وخمسماية "
+}

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاسم بن المفضل بن أحمد الثقفي الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد العوالي المنتقاة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/6"
+      ],
+      "folio_number": [
+        "77v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "673"
+        ]
+      },
+      "endIndex": 243,
+      "guid": "09e3adf4-8c56-4aeb-9f19-00c4548c9791",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 189,
+      "text": "يوم الأربعاء الثاني من ذي الحجة سنة ثلاث وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "15197270-6761-4cec-8636-5148e187cb1b",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 145,
+      "text": "بن رواحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "jerusalem",
+            "al-aqsa_mosque"
+          ]
+        ]
+      },
+      "endIndex": 270,
+      "guid": "1bb78b2a-dea1-41b6-97bb-9d83db784d56",
+      "index": 72,
+      "isZeroPoint": false,
+      "startIndex": 246,
+      "text": "الجامع الأقصى ببيت المقدس",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 341,
+      "guid": "4e330042-c07c-4cbd-ab43-35d713ffaea8",
+      "index": 73,
+      "isZeroPoint": false,
+      "startIndex": 298,
+      "text": " محمد بن عبد الحميد بن محمد المهلبي الهمداني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "ab3e221d-e1ee-450b-8c89-f87a3e077460",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 72,
+      "text": "شمس الدين أبو عبد الله محمد بن محمد بن الحسين الكنجي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "d6b1c399-f2fb-4cec-ac0a-05d065f512de",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 164,
+      "text": "السلفي ",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء وما قبله من الأجزاء على الشيخ الفقيه الإمام الفاضل شمس الدين أبو عبد الله محمد بن محمد بن الحسين الكنجي الصوفي بحق سماعه من بن رواحة عن الحافظ السلفي رحمه الله وذلك في يوم الأربعاء الثاني من ذي الحجة سنة ثلاث وسبعين وستماية بالجامع الأقصى ببيت المقدس وكتب الفقير إلى الله تعالى محمد بن عبد الحميد بن محمد المهلبي الهمداني عفا الله عنه وعن والده والحمد لله وحده وصلواته على سيدنا محمد نبيه وعلى آله وصحبه وسلم وحسبنا الله ونعم الوكيل"
+}

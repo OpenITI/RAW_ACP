@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمر عثمان بن محمد بن عبد الله المحمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء فيه من حديث أبي عمرو عثمان بن محمد بن عبد الله المحمي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "211r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f218.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f218.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "0aaafe18-306c-496c-b495-daa4be60fd21",
+      "index": 170,
+      "isZeroPoint": false,
+      "startIndex": 113,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "135e1812-0e1e-418e-9a0e-14594b967763",
+      "index": 172,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "علم الدين القاسم بن محمد بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "3215d1a6-ac63-47ce-9425-58f4eb8444d9",
+      "index": 171,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "39fe6819-1219-4a87-8fe6-ae1ad9617dd8",
+      "index": 169,
+      "isZeroPoint": false,
+      "startIndex": 77,
+      "text": "أبي حفص بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 256,
+      "guid": "4d06aadb-7a58-4403-8d02-d15d87849747",
+      "index": 173,
+      "isZeroPoint": false,
+      "startIndex": 200,
+      "text": "يوم الثلاثاء السابع عشر من ذي الحجة سنة تسع وسبعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "8d0ce3e5-3613-4991-9284-67cee956d03e",
+      "index": 168,
+      "isZeroPoint": false,
+      "startIndex": 15,
+      "text": "بدر الدين أبي العباس أحمد بن شيبان بن تغلب الشيباني",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على الشيخ بدر الدين أبي العباس أحمد بن شيبان بن تغلب الشيباني بسماعه من أبي حفص بن طبرزد بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي أخوه محمد وعلم الدين القاسم بن محمد بن البرزالي يوم الثلاثاء السابع عشر من ذي الحجة سنة تسع وسبعين وستمئة."
+}

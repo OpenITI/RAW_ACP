@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/11"
+      ],
+      "folio_number": [
+        "128v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "1ddc5aa2-3912-41f0-9ebb-2c768d6ea8b8",
+      "startIndex": 240,
+      "text": "أبو نصر بن أبي الحسن بن أبي نصر الوقاياتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "2df8762e-bf4e-4d65-94a1-8bc268072bea",
+      "startIndex": 212,
+      "text": "محمد بن أبي طاهر بن أبي نصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 352,
+      "guid": "4a96c80f-697d-4f48-972a-b803cd1dc11c",
+      "startIndex": 345,
+      "text": "ابن مشرف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "571"
+        ]
+      },
+      "endIndex": 331,
+      "guid": "6ee626da-c2b5-4b33-8753-393a1b3af3c1",
+      "startIndex": 285,
+      "text": "الثلثا سابع ذي القعدة سنة إحدى وسبعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 204,
+      "guid": "e172c484-7fe4-4bdc-8c82-ff5cc470ff69",
+      "startIndex": 199,
+      "text": "البيع ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 82,
+      "guid": "e19234bd-def0-4214-9284-8517195cfdba",
+      "startIndex": 45,
+      "text": "شهدة بنت أحمد بن الفرج بن عمر الدينوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "fba12223-cf57-42da-81c1-c393e871d58b",
+      "startIndex": 94,
+      "text": " أبي الخطاب",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع هذا الجزء السادس من المحامليات خاصة على شهدة بنت أحمد بن الفرج بن عمر الدينوري بسماعها من أبي الخطاب وكذلك الجزء السابع من المحامليات الذي يتلو هذا الجزء عليها أيضا بسماعها أيضا من ابن البطر عن البيع بقراءة محمد بن أبي طاهر بن أبي نصر أبو نصر بن أبي الحسن بن أبي نصر الوقاياتي في الثلثا سابع ذي القعدة سنة إحدى وسبعين وخمس ماية نقلته من خط ابن مشرف أيضا\n"
+}

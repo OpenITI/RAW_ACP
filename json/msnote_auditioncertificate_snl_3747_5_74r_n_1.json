@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عثمان بن أحمد بن محمد بن هارون السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة الحسان العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/5"
+      ],
+      "folio_number": [
+        "74r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "61d59d16-73a5-48ad-a114-5f47536fc5c2",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 22,
+      "text": "محمد بن محمد بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 60,
+      "guid": "85488acb-6d6b-4649-93f6-45e4cda2c8bb",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 58,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 20,
+      "guid": "99b43398-411e-4443-8c6e-87c85ea4e3dd",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "ابن الطراح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "2"
+        ],
+        "year": [
+          "536"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "af94908f-cd07-41e2-8b93-43f36c972025",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 65,
+      "text": "صفر سنة ست وثلاثين وخمسماية",
+      "type": "date"
+    }
+  ],
+  "text": " وسمعه على ابن الطراح محمد بن محمد بن طبرزد بقراءته وأخوه عمر في صفر سنة ست وثلاثين وخمسماية"
+}

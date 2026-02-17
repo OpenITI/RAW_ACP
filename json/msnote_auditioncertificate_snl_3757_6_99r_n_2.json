@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن موسى الأشيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أبي علي الأشيب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 95"
+      ],
+      "classmark": [
+        "3757/6"
+      ],
+      "folio_number": [
+        "99r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "persia",
+            "isfahan"
+          ]
+        ]
+      },
+      "endIndex": 228,
+      "guid": "1900c13a-2422-4ff5-848b-c681ef515cb5",
+      "startIndex": 212,
+      "text": "دار الشيخ بأصبهان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "64826be4-952a-4c05-a20e-37732fbaadc7",
+      "startIndex": 65,
+      "text": " أبي جعفر محمد بن أحمد بن نصر ين أبي الفتح سبط الحسين بن منده",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "598"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "83dfa844-afb5-4846-b629-8535cc8e92ea",
+      "startIndex": 151,
+      "text": "يوم الخميس العشرين من شهر رمضان من سنة ثمان وتسعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 339,
+      "guid": "a07d106a-c2e9-4ed0-a916-09be9204c1a1",
+      "startIndex": 305,
+      "text": "محمد بن عبد الواحد بن أحمد المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "f8ddfd2a-bb28-4c61-9a88-e000d08b682b",
+      "startIndex": 139,
+      "text": " أبي علي ",
+      "type": "person"
+    }
+  ],
+  "text": " بلغت بقراءتي من الأصل ونسخت وعارضت على الشيخ الفقيه بقية المشايخ أبي جعفر محمد بن أحمد بن نصر ين أبي الفتح سبط الحسين بن منده بحق حضوره من أبي علي في يوم الخميس العشرين من شهر رمضان من سنة ثمان وتسعين وخمسماية بدار الشيخ بأصبهان والحمد لله وحده وصلواته على محمد وآله وسلم تسليما كثيرا إلى يوم الدين وكتب محمد بن عبد الواحد بن أحمد المقدسي "
+}

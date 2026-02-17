@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "115v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 78,
+      "guid": "1995226f-4c55-4c7f-a09d-33e098afa835",
+      "startIndex": 70,
+      "text": "ابن اللتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "2686a6cc-1656-48ea-af09-466f962f0cdf",
+      "startIndex": 18,
+      "text": " أبي العباس الحجار الشهير بابن الشحنة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 433,
+      "guid": "34b83e7a-af25-4782-9c87-45f9aad13772",
+      "startIndex": 430,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "4d365495-5bfd-4ead-8f44-140fbb649fbc",
+      "startIndex": 171,
+      "text": "جمال الدين محمد بن عبد الرحيم بن علي بن عبد الملك المسلاتي المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "75640fc9-bd1c-4981-88c7-3064ad8faf5f",
+      "startIndex": 239,
+      "text": "شمس الدين محمد بن عبد الرحمن بن علي المصري النحوي ابن الصائغ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 158,
+      "guid": "790199bc-78c2-41e1-a680-fa4acdd82807",
+      "startIndex": 153,
+      "text": "فاطمة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "956f472f-ae98-4749-bcc9-87b41de3cebd",
+      "startIndex": 102,
+      "text": " أبي عبد الله محمد بن إبراهيم بن محمد الواني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 317,
+      "guid": "ab49bf97-2d6a-49bc-beea-283456917242",
+      "startIndex": 301,
+      "text": "محب الدين [محمود]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "728"
+        ]
+      },
+      "endIndex": 426,
+      "guid": "b799fe16-8c42-4de8-82e1-7e9294431cbc",
+      "startIndex": 381,
+      "text": "تاسع عشر جمادى الآخرة سنة ثمان وعشرين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 332,
+      "guid": "e05dd843-cb9a-458c-9533-f01d49157406",
+      "startIndex": 320,
+      "text": "بدر الدين حسن",
+      "type": "person"
+    }
+  ],
+  "text": "[سمع هذا الجزء على أبي العباس الحجار الشهير بابن الشحنة ؟] بإجازته من ابن اللتي إن لم يكن سماعا بقراءة أبي عبد الله محمد بن إبراهيم بن محمد الواني ابنته فاطمة في الخامسة وجمال الدين محمد بن عبد الرحيم بن علي بن عبد الملك المسلاتي المالكي وشمس الدين محمد بن عبد الرحمن بن علي المصري النحوي ابن الصائغ ومحب الدين [محمود] وبدر الدين حسن ابنا قاضي القضاة علاء الدين علي القونوي وصح في تاسع عشر جمادى الآخرة سنة ثمان وعشرين وسبعمائة [بدمشق]."
+}

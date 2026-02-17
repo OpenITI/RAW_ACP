@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عبد الله ابن الخطاب الرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سداسيات في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. or. oct 3810"
+      ],
+      "folio_number": [
+        "4r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00020229"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "7c888b16-5c11-41a5-a45c-558b75caff82",
+      "startIndex": 66,
+      "text": "عتيق بن عبد الرحمن العمري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-auwam_mosque"
+          ]
+        ]
+      },
+      "endIndex": 197,
+      "guid": "95f1c7c8-178e-492f-805d-7c608820ed03",
+      "startIndex": 172,
+      "text": "مسجد الزبير بن العوام بمصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "9c7f26ad-b002-4fa9-b735-c65037f25d53",
+      "startIndex": 18,
+      "text": "أحمد بن إسماعيل بن يحيى الأنصاري عرف بابن ثعلب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "669"
+        ]
+      },
+      "endIndex": 169,
+      "guid": "a94bb675-3db7-436e-9a82-c43effa47c7d",
+      "startIndex": 113,
+      "text": "يوم الأربعاء تاسع عشري جمادى الآخرة سنة تسع وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "f25200dd-e346-42c6-8c2c-3368cae2e192",
+      "startIndex": 218,
+      "text": "محمد بن [عزام",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة أحمد بن إسماعيل بن يحيى الأنصاري عرف بابن ثعلب، عتيق بن عبد الرحمن العمري، ومن خطه لخصت وصح في يوم الأربعاء تاسع عشري جمادى الآخرة سنة تسع وستين وستمائة بمسجد الزبير بن العوام بمصر وأجاز المسمع، نقله محمد بن [عزام] من خط العمري."
+}

@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسماعيل البخاري"
+      ],
+      "work_title": [
+        "ثلاثيات البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 17"
+      ],
+      "classmark": [
+        "3739/2"
+      ],
+      "folio_number": [
+        "23r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "8d9b9903-2052-468f-a4be-e1dd6306b41a",
+      "index": 144,
+      "isZeroPoint": false,
+      "startIndex": 60,
+      "text": "عائشة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "a552c23a-6501-4b43-8d29-7fe9f73cde23",
+      "index": 143,
+      "isZeroPoint": false,
+      "startIndex": 25,
+      "text": "صفي الدين محمد بن الصفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "e9f65d65-3459-4556-a24f-c1eb9a03183c",
+      "index": 146,
+      "isZeroPoint": false,
+      "startIndex": 81,
+      "text": "يوسف بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "ff15340d-d00e-4f21-8d77-2f4f86767a87",
+      "index": 145,
+      "isZeroPoint": false,
+      "startIndex": 69,
+      "text": "الحجار ",
+      "type": "person"
+    }
+  ],
+  "text": " وقرأتها على شيخنا الشيخ صفي الدين محمد بن الصفي بإجازته من عائشة عن الحجار وكتب يوسف بن عبد الهادي"
+}

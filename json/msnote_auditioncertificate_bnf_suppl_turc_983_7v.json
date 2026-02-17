@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "جزء فيه أحاديث منتقاة عوالي جمعها محمد بن عبد الواحد "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "7v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f10.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f10.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "0f3aad81-cadd-4011-9eeb-77ce50779011",
+      "index": 105,
+      "isZeroPoint": false,
+      "startIndex": 34,
+      "text": "المحب إسماعيل بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "3a1a5e5d-4ace-4d86-874a-2de6e8071f0f",
+      "index": 109,
+      "isZeroPoint": false,
+      "startIndex": 108,
+      "text": "محمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "605"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "4f782e41-b197-4a3d-9be2-ae99de5e8264",
+      "index": 108,
+      "isZeroPoint": false,
+      "startIndex": 90,
+      "text": "خمس وست ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 64,
+      "guid": "a53949e9-0af1-4f0d-a486-1c702066b580",
+      "index": 106,
+      "isZeroPoint": false,
+      "startIndex": 60,
+      "text": " أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "nusaybin"
+          ]
+        ]
+      },
+      "endIndex": 72,
+      "guid": "f4f447d6-c0ed-4c6c-9275-5a7eda0a3d76",
+      "index": 107,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "نصيبين",
+      "type": "place"
+    }
+  ],
+  "text": "سمع من أول هذه الورقة إلى هنا على المحب إسماعيل بن عمر وأخوه أحمد بنصيبين في يوم عرفة سنة خمس وست ماية وكتب محمد بن عبد الواحد"
+}

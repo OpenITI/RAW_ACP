@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن بن شاذان السكري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي الحسن السكري وأماليه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/19"
+      ],
+      "folio_number": [
+        "251v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 523,
+      "guid": "07e5c736-92e0-4cd2-812d-3e4b7003cf8d",
+      "index": 175,
+      "isZeroPoint": false,
+      "startIndex": 479,
+      "text": "عز الدين عبد العزيز بن أحمد بن معالي التكريتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "118468c4-c9a9-439c-a8c8-855fef8ec0e3",
+      "index": 169,
+      "isZeroPoint": false,
+      "startIndex": 99,
+      "text": "أبي عبد الله محمد بن مسلم بن ملك بن مزروع بن جعفر الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 476,
+      "guid": "1bfdbce3-78f2-4049-9cc3-6ecf6d073fff",
+      "index": 174,
+      "isZeroPoint": false,
+      "startIndex": 417,
+      "text": "ناصر الدين محمد بن أحمد بن أبي بكر بن سالم ابن الداية الجندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "muzaffari_mosque"
+          ]
+        ]
+      },
+      "endIndex": 647,
+      "guid": "341c173f-890d-4852-b074-a79072b6bb42",
+      "index": 178,
+      "isZeroPoint": false,
+      "startIndex": 618,
+      "text": "الجامع المظفري بسفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "47dbbfdb-b05f-4f80-854b-624fb557fa9f",
+      "index": 171,
+      "isZeroPoint": false,
+      "startIndex": 231,
+      "text": "شمس الدين أبو عبد الله محمد بن العلم سنجر بن عبد الله المارديني الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "726"
+        ]
+      },
+      "endIndex": 616,
+      "guid": "501aacfc-1a39-4f65-872c-369c950faef5",
+      "index": 177,
+      "isZeroPoint": false,
+      "startIndex": 572,
+      "text": "يوم الثلثا خامس رمضان سنة ست وعشرين وسبعماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 559,
+      "guid": "88554cce-499d-4312-b811-0e3c416dac7f",
+      "index": 176,
+      "isZeroPoint": false,
+      "startIndex": 532,
+      "text": "عبد الله بن عبد الله الحبيشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 375,
+      "guid": "976bac2a-9207-4f2e-a752-60149b2c33bd",
+      "index": 172,
+      "isZeroPoint": false,
+      "startIndex": 303,
+      "text": "علاء الدين أبو الحسن علي بن الشيخ شرف الدين الحسين بن علي بن بشارة الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "a76e5c8f-e52c-4dac-ad8f-b9c92142da74",
+      "index": 170,
+      "isZeroPoint": false,
+      "startIndex": 192,
+      "text": "ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "ace928f8-4451-488b-bf80-a6ae41957770",
+      "index": 173,
+      "isZeroPoint": false,
+      "startIndex": 384,
+      "text": "عمر بن عبد الرحيم بن بدر الجزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 708,
+      "guid": "c692ac7f-756d-48fc-a1ac-ef7183150c51",
+      "index": 179,
+      "isZeroPoint": false,
+      "startIndex": 654,
+      "text": "محمد بن يحيى بن محمد بن سعد بن عبد الله بن سعد المقدسي ",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على سيدنا القاضي القضاة شمس الدين ضياء الإسلام فخر الأنام سيد العلماء والحكام أبي عبد الله محمد بن مسلم بن ملك بن مزروع بن جعفر الحنبلي أيده الله تعالى بسماعه فيه أصلا من ابن البخاري بسنده فسمعه الجماعة السادة شمس الدين أبو عبد الله محمد بن العلم سنجر بن عبد الله المارديني الحنفي وعلاء الدين أبو الحسن علي بن الشيخ شرف الدين الحسين بن علي بن بشارة الحنفي والحاج عمر بن عبد الرحيم بن بدر الجزري وناصر الدين محمد بن أحمد بن أبي بكر بن سالم ابن الداية الجندي وعز الدين عبد العزيز بن أحمد بن معالي التكريتي والشيخ عبد الله بن عبد الله الحبيشي وصح ذلك في يوم الثلثا خامس رمضان سنة ست وعشرين وسبعماية بالجامع المظفري بسفح جبل قاسيون وكتب محمد بن يحيى بن محمد بن سعد بن عبد الله بن سعد المقدسي "
+}

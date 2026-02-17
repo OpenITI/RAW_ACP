@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن إبراهيم بن أحمد المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث وحكايات"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 36"
+      ],
+      "classmark": [
+        "3744/12"
+      ],
+      "folio_number": [
+        "111r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "1dc6117d-a95e-46a9-811c-370d9b60ba31",
+      "startIndex": 236,
+      "text": "عبد الواحد بن محمد بن أبي نصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "559"
+        ]
+      },
+      "endIndex": 446,
+      "guid": "20d8265e-cda3-4cbf-b19f-0acaa862b4c0",
+      "startIndex": 407,
+      "text": "العاشر من المحرم سنة تسع وخمسين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "74c05030-c0cc-4909-828d-7cc86b760292",
+      "startIndex": 115,
+      "text": "الحنائي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 324,
+      "guid": "7b9271d3-ccc1-46cc-b6f8-bb3c25fd2756",
+      "startIndex": 267,
+      "text": "أبي الفتح الحسن بن الشيخ الحافظ أبي القاسم علي بن هبة الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "8f92eff7-915a-42ba-9f7b-7ca9567de74e",
+      "startIndex": 130,
+      "text": "أبو القاسم الحسين بن هبة الله بن محفوظ بن صصرى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "912714d4-fd94-436b-9698-43165819bafd",
+      "startIndex": 24,
+      "text": "مخلص الدين جمال الأمناء أبي المكارم عبد الواحد بن محمد بن المسلم بن هلال الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 469,
+      "guid": "a1970bd5-1e64-4c0c-bb10-cd3a0f0e3f0b",
+      "startIndex": 449,
+      "text": "منزله بدمشق من الجامع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 343,
+      "guid": "a51be7a6-052f-40d5-b02d-f50eabaa560d",
+      "startIndex": 327,
+      "text": "أبو البركات الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 530,
+      "guid": "c90aae56-49d9-4989-9c1c-7cf122884229",
+      "startIndex": 493,
+      "text": "علي بن المظفر بن القاسم النشبي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "c94f2b98-6833-45eb-a288-81683191457d",
+      "startIndex": 189,
+      "text": "أبو الفتوح علي بن الحسن بن علي الكرجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "e8cad0e3-4ff9-4064-9747-e51af6d695d3",
+      "startIndex": 363,
+      "text": "أحمد",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه على الشيخ الأمين مخلص الدين جمال الأمناء أبي المكارم عبد الواحد بن محمد بن المسلم بن هلال الأزدي بروايته عن الحنائي القاضي أبو القاسم الحسين بن هبة الله بن محفوظ بن صصرى سبط المسمع وأبو الفتوح علي بن الحسن بن علي الكرجي بقراءته وعبد الواحد بن محمد بن أبي نصر وأبي الفتح الحسن بن الشيخ الحافظ أبي القاسم علي بن هبة الله وأبو البركات الحسن وأخوه كاتب السماع أحمد ابنا محمد بن الحسن بن هبة الله وذلك في العاشر من المحرم سنة تسع وخمسين وخمسماية بمنزله بدمشق من الجامع نقل هذه الطباق مختصرة علي بن المظفر بن القاسم النشبي الشافعي حامدا الله ومصليا على نبيه محمد وآله وصحبه ومسلما "
+}

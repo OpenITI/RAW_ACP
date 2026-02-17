@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 141"
+      ],
+      "classmark": [
+        "3764/10"
+      ],
+      "folio_number": [
+        "158v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "249034a1-c9cf-4a16-9eb1-b5522be87350",
+      "startIndex": 178,
+      "text": " ابن بشران ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 318,
+      "guid": "4d696be6-7b96-4c97-9af6-6f094d869363",
+      "startIndex": 277,
+      "text": "أحمد بن عبد الرحيم بن أبي عبد الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "5f1ff682-f978-4f7f-8df8-3111f4b7d7ba",
+      "startIndex": 110,
+      "text": "أبي الفضل محمد بن ناصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "643"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "6e146377-fef7-49da-8f2c-6986f5e0ac3e",
+      "startIndex": 194,
+      "text": "[...] ذي الحجة سنة ثلاث [وأربعين؟] وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 28,
+      "guid": "78fa41b3-12a2-4d66-822e-f453d2e3f11d",
+      "startIndex": 18,
+      "text": "ابن الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 39,
+      "guid": "80e73ea4-3f3a-4e1b-9fb5-d1ce756dc08e",
+      "startIndex": 34,
+      "text": " الحسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "a2d0e537-c84e-4111-b5ea-ee580fad9436",
+      "startIndex": 42,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "b00c7112-31d6-4769-8a6f-60c37faaf6b9",
+      "startIndex": 92,
+      "text": "شهدة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "c2032099-acfe-410b-858f-fb2e0844114b",
+      "startIndex": 143,
+      "text": "رزق بن عبد الوهاب التميمي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة ابن الجوهري أيضا الحسن ومحمد ابنا علي بن أبي بكر بن الخلال بسماع الشيخ من شهدة [...] الحافظ أبي الفضل محمد بن ناصر بسماعه من رزق بن عبد الوهاب التميمي بسماعه من ابن بشران وذلك [...] ذي الحجة سنة ثلاث [وأربعين؟] وستمائة كتبه عبد الله [...] ومن خطه نقلت [وكتبه أحمد بن عبد الرحيم بن أبي عبد الله الشافعي] "
+}

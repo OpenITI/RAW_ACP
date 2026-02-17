@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي بن عاصم ابن المقرئ الأصبهاني "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرخصة في تقبيل اليد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 181"
+      ],
+      "classmark": [
+        "3771/11"
+      ],
+      "folio_number": [
+        "160v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 42,
+      "guid": "124a1f71-5137-488f-b67c-0191cb68a8a1",
+      "startIndex": 38,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "676"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "5e6e3225-ef6e-4e2d-a84a-e401dbc4c5f0",
+      "startIndex": 85,
+      "text": "رجب سنة ست وسبعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 118,
+      "guid": "7524e558-4087-433f-82f6-269d3c35d2c5",
+      "startIndex": 112,
+      "text": "النورية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "7b5972da-6a0d-4cb5-b6b9-f8cb1b203aa8",
+      "startIndex": 56,
+      "text": "حسين بن سونج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "reader"
+        ]
+      },
+      "endIndex": 31,
+      "guid": "9ca13f53-e63e-4396-b539-02912cdf81bd",
+      "startIndex": 8,
+      "text": "النجم إسماعيل ابن الخباز",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من النجم إسماعيل ابن الخباز ابنه محمد وكاتب النسخة حسين بن سونج من لفظ الشيخ في رجب سنة ست وسبعين وستمائة بالنورية"
+}

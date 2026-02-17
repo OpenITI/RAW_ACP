@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. orient. A 604"
+      ],
+      "folio_number": [
+        "43v"
+      ],
+      "library": [
+        "Gotha"
+      ],
+      "link_to_manuscript": [
+        "e7ea4d6b-994e-4080-abbc-026b2de32f82"
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE39Book_manuscript_00000610"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "aqbagha_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 217,
+      "guid": "17495b09-230e-4a90-8dd8-1d5d79f87f44",
+      "startIndex": 187,
+      "text": "مدرسة أقبغا بجوار الجامع الأزهر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "251eca6a-c8b2-4d6b-973c-c345c6ba24db",
+      "startIndex": 138,
+      "text": "ا]بن الجوهر الشهير بأخي عبد الصمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "54fc06d8-ac45-43f9-a672-8429204c7c9f",
+      "startIndex": 68,
+      "text": "شمس الدين محمد بن عمر بن عمر بن حصن الملتوتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 275,
+      "guid": "60b576d5-d9e0-4e90-86d4-fa1de98abd2d",
+      "startIndex": 265,
+      "text": "عمر التتائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 34,
+      "guid": "8507d0ae-d0c2-4176-9613-794a1e27dc64",
+      "startIndex": 10,
+      "text": "شهاب الدين أحمد المنزلاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "872"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "b26b8047-50f5-439a-b522-537709b997a3",
+      "startIndex": 220,
+      "text": "ذي القعدة سنة اثنتين وسبعين وثماني ماية",
+      "type": "date"
+    }
+  ],
+  "text": "بلغ الشيخ شهاب الدين أحمد المنزلاوي قراءة والجماعة سماعا على المسند شمس الدين محمد بن عمر بن عمر بن حصن الملتوتي بسماعه لجميع الكتاب على [ا]بن الجوهر الشهير بأخي عبد الصمد بسنده المشهور بمدرسة أقبغا بجوار الجامع الأزهر بذي القعدة سنة اثنتين وسبعين وثماني ماية كتبه عمر التتائي أحد السامعين. (في الأصل السمامعين)."
+}

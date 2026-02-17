@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 114"
+      ],
+      "classmark": [
+        "3760/14"
+      ],
+      "folio_number": [
+        "175v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "1109f440-ae8f-4a74-9a18-4a397989a33f",
+      "startIndex": 45,
+      "text": "أبي محمد المبارك بن أحمد بن بركة الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "24f20096-699b-4974-867b-4110e666ba52",
+      "startIndex": 165,
+      "text": " المبارك بن كامل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "534"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "6782e2ec-1b0c-42cd-abb4-e527f6b0aa6e",
+      "startIndex": 194,
+      "text": " ربيع الأول سنة أربع وثلثين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "b79cff0b-a71c-4602-a6e4-f2da6b01b8c5",
+      "startIndex": 95,
+      "text": "أبي الغنائم بن أبي عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "db30d851-71cd-4d6a-9295-aafa04c203b1",
+      "startIndex": 121,
+      "text": "نصر بن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "dfe3ef48-50eb-43db-9ff0-fe5630591b01",
+      "startIndex": 187,
+      "text": "يوسف ",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع جميع السادس والسابع والثامن والتاسع على أبي محمد المبارك بن أحمد بن بركة الكندي بسماعه من أبي الغنائم بن أبي عثمان ونصر بن البطر سوى التاسع وهو هذا الجزء بقراءة المبارك بن كامل ابنه يوسف في ربيع الأول سنة أربع وثلثين وخمسماية"
+}

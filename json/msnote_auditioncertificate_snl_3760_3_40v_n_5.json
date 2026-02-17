@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج3"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/3"
+      ],
+      "folio_number": [
+        "40v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "70231200-1ce3-40ee-b9bf-47e828dd3b5c",
+      "startIndex": 65,
+      "text": "عاصم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "d7bf88bc-370d-4184-b04b-20ff5d9d2714",
+      "startIndex": 77,
+      "text": "عبد الخالق بن يوسف علي بن فضائل بن علي التكريتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "539"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "f2c2c347-6089-450e-9591-46b65720fc8e",
+      "startIndex": 128,
+      "text": "العشرين من رجب سنة تسع وثلثين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 53,
+      "guid": "f2fb035e-9c22-4a6d-a069-0c0a11a97e08",
+      "startIndex": 8,
+      "text": "أبي بكر محمد بن عبد العزيز بن علي بن عمر البيع",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من أبي بكر محمد بن عبد العزيز بن علي بن عمر البيع بسماعه من عاصم بقراءة عبد الخالق بن يوسف علي بن فضائل بن علي التكريتي في العشرين من رجب سنة تسع وثلثين وخمسماية وسماع محمد بن عبد العزيز من عاصم في شوال سنة ثمان وسبعين وأربعماية"
+}

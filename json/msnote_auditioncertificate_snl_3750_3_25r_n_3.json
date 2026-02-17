@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي المقري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند نافع بن أبي نعيم المقري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 61- 62 "
+      ],
+      "classmark": [
+        "3750/3"
+      ],
+      "folio_number": [
+        "25r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "1d6552a3-836a-4728-8a91-39e0fc57cc44",
+      "startIndex": 64,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "3c01db40-c878-4517-aca7-7eeff58d75b7",
+      "startIndex": 132,
+      "text": "أسعد الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "59cda264-dd28-46da-9e0a-420363c4579d",
+      "startIndex": 238,
+      "text": "السبت سابع عشري ذي القعدة سنة ثمان وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "7101ee30-d6b7-43fd-8b3f-a8892a31d575",
+      "startIndex": 197,
+      "text": "علم الدين القاسم بن محمد بن البرزالي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "9f402160-50a2-4950-9602-92e7832a7894",
+      "startIndex": 178,
+      "text": "الصيدلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "a8b650bc-505c-4e80-894c-809ec6293fcb",
+      "startIndex": 147,
+      "text": "جعفر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          "918d0ec1-0de6-4125-8fba-0b3073ab0451"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "cd7e808f-421e-4a85-9d5c-c27fdbb9e451",
+      "startIndex": 292,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي ",
+      "type": "person"
+    }
+  ],
+  "text": "  قرأته والأحاديث التي من كتاب الذكر لابن فارس على الشيخ الإمام فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي بإجازته له من أسعد الثقفي عن جعفر وبإجازته لأحاديث الذكر من الصيدلاني فسمع ذلك علم الدين القاسم بن محمد بن البرزالي يوم السبت سابع عشري ذي القعدة سنة ثمان وسبعين وستمية وكتب يوسف بن الزكي عبد الرحمن بن يوسف المزي عفا الله عنه"
+}

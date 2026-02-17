@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمر عثمان بن محمد بن عبد الله المحمي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الجزء فيه من حديث أبي عمرو عثمان بن محمد بن عبد الله المحمي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "204v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f212.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f212.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 177,
+      "guid": "0b4b1148-4751-4927-b5b1-4a0a282efa50",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 174,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "609"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "0fc1b5ee-d260-4555-b59e-69fe2e0a4f93",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 136,
+      "text": "في الثالث عشر من رجب سنة تسع وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 135,
+      "guid": "9280de97-ed37-4e9c-b9e0-47e036148e70",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 98,
+      "text": "محمد بن عبد الله بن عبد الرحمن النوري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "d4eb8363-9849-48fc-916f-d0ccf3331c81",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 30,
+      "text": "زين الأمناء أبي البركات الحسن بن محمد الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته جميعه على الإمام الفاضل زين الأمناء أبي البركات الحسن بن محمد الشافعي بسماعه فيه نقلًا كتبه محمد بن عبد الله بن عبد الرحمن النوري في الثالث عشر من رجب سنة تسع وستمائة بدمشق"
+}

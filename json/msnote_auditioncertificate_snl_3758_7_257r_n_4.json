@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الرحمن بن العباس المخلص"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتقاة الغرائب عن الشيوخ العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 102"
+      ],
+      "classmark": [
+        "3758/7"
+      ],
+      "folio_number": [
+        "257r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "548"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "0f887b1d-bdac-4645-b1d2-72e2c76a981a",
+      "startIndex": 98,
+      "text": "سنة ثمان وأربعين وخمسماية في شوال",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "2f85069e-9309-4451-98b4-a477fdfc765f",
+      "startIndex": 65,
+      "text": "حماد بن هبة الله بن حماد الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 56,
+      "guid": "d650fa44-b58a-4fa7-8e1e-57e282990cf4",
+      "startIndex": 6,
+      "text": "عبد العزيز بن أبي بكر محمد بن عبيد الله بن الزاغوني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عبد العزيز بن أبي بكر محمد بن عبيد الله بن الزاغوني بقراءة حماد بن هبة الله بن حماد الحراني سنة ثمان وأربعين وخمسماية في شوال"
+}

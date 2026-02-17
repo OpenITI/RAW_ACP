@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مجهول المؤلف"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه فضل رجب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 65 "
+      ],
+      "classmark": [
+        "3750/11"
+      ],
+      "folio_number": [
+        "155v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "3ecc996a-36b7-4b92-b28e-48add3c8b87d",
+      "index": 175,
+      "isZeroPoint": false,
+      "startIndex": 36,
+      "text": "نجم الدين أبي بكر محمد بن علي بن المظفر بن القاسم النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 428,
+      "guid": "40d13c67-44c4-4932-bcd3-d0d644d1b9cb",
+      "index": 181,
+      "isZeroPoint": false,
+      "startIndex": 399,
+      "text": "علي بن مسعود الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 378,
+      "guid": "46bded8d-6a30-4bc7-9d0d-6c915f9e6d10",
+      "index": 180,
+      "isZeroPoint": false,
+      "startIndex": 370,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 309,
+      "guid": "79f4d1a7-ebf9-44e2-a400-24db32be3b81",
+      "index": 178,
+      "isZeroPoint": false,
+      "startIndex": 278,
+      "text": "طالب ابن يعقوب بن أبي بكر الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 367,
+      "guid": "881488ad-a0f1-4fc3-94e3-c503faa8a868",
+      "index": 179,
+      "isZeroPoint": false,
+      "startIndex": 323,
+      "text": "سابع عشري جمادى الأولى سنة ثمان وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "a3086f4f-bcbc-40aa-ac2e-b01362dc94be",
+      "index": 176,
+      "isZeroPoint": false,
+      "startIndex": 116,
+      "text": "علاء الدين أبو الحسن علي بن الشيخ شمس الدين أبي عبد الله محمد بن سلمان بن حمايل |عرف| بابن غانم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "ce99c258-e078-4b6d-9771-90fb133b3ff4",
+      "index": 177,
+      "isZeroPoint": false,
+      "startIndex": 213,
+      "text": "زين الدين أبو المحاسن يوسف بن محمود بن سنان القواس",
+      "type": "person"
+    }
+  ],
+  "text": " قرأته أجمع على الشيخ الجليل المسند نجم الدين أبي بكر محمد بن علي بن المظفر بن القاسم النشبي بحق سماعه باطنها فسمعه علاء الدين أبو الحسن علي بن الشيخ شمس الدين أبي عبد الله محمد بن سلمان بن حمايل |عرف| بابن غانم وزين الدين أبو المحاسن يوسف بن محمود بن سنان القواس وتربية المسمع طالب ابن يعقوب بن أبي بكر الحلبي وصح وثبت في سابع عشري جمادى الأولى سنة ثمان وستين وستماية بجامع دمشق وكتب فقير رحمة ربه علي بن مسعود الموصلي ثم الحلبي عفا الله عنه ورفق به حامدا الله على نعمه ومصليا على نبيه محمد وآله ومسلما "
+}

@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد المعروف بابن الغوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلس من إملاء الغوري "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 91"
+      ],
+      "classmark": [
+        "3756/5"
+      ],
+      "folio_number": [
+        "43r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "14b8992c-1f3b-4e26-8d50-d02c6dc0bd35",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 147,
+      "text": "أبو عمران موسى بن أحمد بن موسى الغزنوي أبوه",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 370,
+      "guid": "4f874946-f4c3-47cf-b437-69b379092bf6",
+      "index": 99,
+      "isZeroPoint": false,
+      "startIndex": 320,
+      "text": "أحمد بن عبد الله بن المسلم بن حماد بن ميسرة الأزدي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "589e35e7-ff91-4cdb-beca-8689ebba1472",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 43,
+      "text": "شمس الدين أبي الحسن علي ابن محمد بن كامل بن أحمد بن أسد بن نعمة التنوخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "633"
+        ]
+      },
+      "endIndex": 253,
+      "guid": "7a605147-049d-41f1-a40b-7e9bf421f481",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 203,
+      "text": "يوم السبت سادس جمادى الآخرة سنة ثلاث وثلاثين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 282,
+      "guid": "aaf3abd7-6f7f-4799-9543-d935786710c5",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 256,
+      "text": "الحائط الشمالي من جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 468,
+      "guid": "b326f764-ff0e-4fc2-a9d5-ec755e4674c1",
+      "index": 101,
+      "isZeroPoint": false,
+      "startIndex": 413,
+      "text": "هذا صحيح كما كتب كتبه علي بن محمد كامل التنوخي في تاريخه",
+      "type": "signature_of_musmi"
+    }
+  ],
+  "text": " بلغت سماعا بقراءتي على الشيخ الأمين الثقة شمس الدين أبي الحسن علي ابن محمد بن كامل بن أحمد بن أسد بن نعمة التنوخي بحق سماعه فيه محولا فسمعه الشيخ أبو عمران موسى بن أحمد بن موسى الغزنوي أبوه وصح وثبت في يوم السبت سادس جمادى الآخرة سنة ثلاث وثلاثين وستمية بالحائط الشمالي من جامع دمشق عمره بذكره قاله وكتبه فقير رحمة ربه أحمد بن عبد الله بن المسلم بن حماد بن ميسرة الأزدي حامدا الله ومصليا على نبيه محمد وآله وسلم هذا صحيح كما كتب كتبه علي بن محمد كامل التنوخي في تاريخه"
+}

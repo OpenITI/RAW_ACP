@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الكريم بن هوازن القشيري"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرسالة القشيرية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 141 "
+      ],
+      "folio_number": [
+        "2r"
+      ],
+      "image_link": [
+        "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3399676%7EJP2%7E80a70956ff4ab51d0cafc34bc5b1e19d7bcb650698691577777841ec9f339a3a%7Edigitalc/full/pct:23/0/default.jpg"
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/ud5et8/alma9938139746102711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "1b0e89bb-c105-4397-b3e1-e4d3ca280cf6",
+      "startIndex": 15,
+      "text": "أبي حامد عبد الله بن عبد المنعم بن أحمد بن عشائر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "641"
+        ]
+      },
+      "endIndex": 300,
+      "guid": "5ae60468-4ea2-4f20-a174-677e9c8b24f4",
+      "startIndex": 258,
+      "text": "ثالث عشر ذي الحجة سنة إحدى وأربعين وستماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 187,
+      "guid": "5c84cab3-2a02-4e95-a22a-2ba7aae884de",
+      "startIndex": 143,
+      "text": "أبو العباس أحمد بن محمد بن عبد [الله] الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "9e321e85-be86-4f6f-aed8-0663e5a2038f",
+      "startIndex": 83,
+      "text": "يوسف بن أحمد بن يوسف الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 201,
+      "guid": "a71d20ed-f2d9-421e-8375-3339968aeb36",
+      "startIndex": 199,
+      "text": "عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "e0f312e0-b465-41eb-b41a-856626a8fc21",
+      "startIndex": 190,
+      "text": "أبو بكر ",
+      "type": "person"
+    }
+  ],
+  "text": "سمعها أجمع على أبي حامد عبد الله بن عبد المنعم بن أحمد بن عشائر بسماعه تراه بقراءة يوسف بن أحمد بن يوسف الأنصاري وكتب السـ[ـماع] ومن خطه لخصته أبو العباس أحمد بن محمد بن عبد [الله] الظاهري وأبو بكر وعمر أبناء [إبراهيم] بن سالم بن عشائر وآخرون في مجالس آخرها ثالث عشر ذي الحجة سنة إحدى وأربعين وستماية "
+}

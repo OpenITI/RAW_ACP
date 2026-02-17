@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/11"
+      ],
+      "folio_number": [
+        "128r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "165156f1-3848-4c65-88a7-70f949f3341c",
+      "startIndex": 153,
+      "text": " ابن البيع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "61023706-74ca-43f0-afe0-64d54e62c372",
+      "startIndex": 206,
+      "text": "معالي بن غنيمة بن حسن بن منينا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 301,
+      "guid": "6b1e01e0-d49e-4620-a980-ec19f8e26e92",
+      "startIndex": 257,
+      "text": "السبت تاسع عشر رجب من سنة خمس وثلثين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "88bcc96b-2a98-4d47-82cc-46eb456effed",
+      "startIndex": 175,
+      "text": "أبي الحسن القواريري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "bf4f3a6b-e5d0-4bf1-b29b-0decd8111a3e",
+      "startIndex": 49,
+      "text": "أبي البركات عبد الوهاب بن المبارك بن أحمد بن الحسن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "eedb2405-c39c-4522-b715-373e64b23334",
+      "startIndex": 119,
+      "text": "أبي الغنائم بن أبي عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "fc9aa9d3-5ad5-4d96-bc2d-948bcdaca52f",
+      "startIndex": 243,
+      "text": "عبد العزيز",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء السادس من حديث المحاملي على الحافظ أبي البركات عبد الوهاب بن المبارك بن أحمد بن الحسن الأنماطي بسماعه من أبي الغنائم بن أبي عثمان بسماعه من ابن البيع عنه بقراءة أبي الحسن القواريري جماعة منهم معالي بن غنيمة بن حسن بن منينا وابنه عبد العزيز في السبت تاسع عشر رجب من سنة خمس وثلثين وخمسماية"
+}

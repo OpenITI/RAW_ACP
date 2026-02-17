@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن إسماعيل بن صالح الصفار "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي علي إسماعيل بن محمد بن إسماعيل بن صالح الصفار عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 166"
+      ],
+      "classmark": [
+        "3768/16"
+      ],
+      "folio_number": [
+        "222v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "12cc76dd-4619-4eb0-8452-724759a553a9",
+      "startIndex": 176,
+      "text": "أبي عبد الله محمد بن أبي القاسم بن محمد بن تيمية الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "6b8aa573-2254-4219-bfc1-885c994fb41d",
+      "startIndex": 86,
+      "text": "أبي الحسن علي الخطيب الأنباري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "8b2c183f-ae9a-44d8-9263-08c047712f37",
+      "startIndex": 233,
+      "text": "نصر الله بن عبد العزيز بن صالح بن عبدوس الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "562"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "a02900bb-02b5-49e6-9256-b98711b2704d",
+      "startIndex": 302,
+      "text": "الثلثاء عشر ذي الحجة من سنة اثنتين وستين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "a82970de-0ec3-4ee8-ab9a-1cbce4681e62",
+      "startIndex": 20,
+      "text": "أبي الفتح محمد بن عبد الباقي بن أحمد بن سلمان ابن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "ed3682c2-32c3-4f28-a998-5d2ac7e3b106",
+      "startIndex": 139,
+      "text": "أبي علي إسماعيل الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "edd82763-d6a8-4aa5-a0b7-1df5856ee913",
+      "startIndex": 118,
+      "text": " أبي عمر ابن مهدي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميعه على الشيخ أبي الفتح محمد بن عبد الباقي بن أحمد بن سلمان ابن البطي بسماعه من أبي الحسن علي الخطيب الأنباري عن أبي عمر ابن مهدي عن أبي علي إسماعيل الصفار بقراءة الفقيه أبي عبد الله محمد بن أبي القاسم بن محمد بن تيمية الحراني نصر الله بن عبد العزيز بن صالح بن عبدوس الحراني وهذا خطه وذلك في يوم الثلثاء عشر ذي الحجة من سنة اثنتين وستين وخمسمائة والحمد لله رب العالمين وصلى الله على محمد"
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن إسماعيل الصفار البلخي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث محمد بن سنان القزاز عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 82"
+      ],
+      "classmark": [
+        "3755/1"
+      ],
+      "folio_number": [
+        "4v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "09d8e902-263d-4ecc-adfc-e7402e451b1a",
+      "index": 126,
+      "isZeroPoint": false,
+      "startIndex": 185,
+      "text": "عبد الرحمن بن أبي بكر بن القاسم البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "570c103e-f860-4791-a57a-5c56f58394d8",
+      "index": 121,
+      "isZeroPoint": false,
+      "startIndex": 23,
+      "text": "أبو الحسن بن عبد الكريم بن محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "57db5b9f-79b3-4023-9241-6aa35b9c59d8",
+      "index": 124,
+      "isZeroPoint": false,
+      "startIndex": 112,
+      "text": " ابن البطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "624"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "588c45d4-242b-40d5-a81d-74c80f37dfcd",
+      "index": 128,
+      "isZeroPoint": false,
+      "startIndex": 274,
+      "text": "رجب سنة [أربع وعشرين] وستماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "a808db6f-286e-4ecf-8d99-84b299412742",
+      "index": 123,
+      "isZeroPoint": false,
+      "startIndex": 91,
+      "text": "ابن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 269,
+      "guid": "cdf39ea9-7fd6-4b76-a06d-9ff1414c93ba",
+      "index": 127,
+      "isZeroPoint": false,
+      "startIndex": 233,
+      "text": "عبد الرحمن بن إبراهيم بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "ddcbba91-5e46-4d5c-85e7-52fe801c1567",
+      "index": 125,
+      "isZeroPoint": false,
+      "startIndex": 142,
+      "text": "عبد القادر بن محمد بن أبي الحسين اليونيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "f1de7380-22d5-4af4-9492-83ea9c944f6c",
+      "index": 122,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "ابن حمدية ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "baalbek"
+          ]
+        ]
+      },
+      "endIndex": 309,
+      "guid": "fc8b799d-8f0a-4ec2-a1bb-fb5d421ef3b7",
+      "index": 129,
+      "isZeroPoint": false,
+      "startIndex": 305,
+      "text": "بعلبك",
+      "type": "place"
+    }
+  ],
+  "text": " قرأ علي حديث ابن سنان أبو الحسن بن عبد الكريم بن محمود بروايتي عن ابن حمدية بسماعه فيه عن ابن البطر وبإجازتي من ابن البطي عن ابن البطر فسمعه عبد القادر بن محمد بن أبي الحسين اليونيني وعبد الرحمن بن أبي بكر بن القاسم البعلبكيون وكتب عبد الرحمن بن إبراهيم بن أحمد المقدسي في رجب سنة [أربع وعشرين] وستماية ببعلبك"
+}

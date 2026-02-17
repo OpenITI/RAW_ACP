@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن يحيى بن عياش القطان الأعور "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء من حديث أبي عبد الله الحسين بن يحيى القطان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 164"
+      ],
+      "classmark": [
+        "3768/11"
+      ],
+      "folio_number": [
+        "169v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          "c5254625-385b-46bc-b1a5-e4f06882cae4"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "0fcf393a-d76b-44d2-b91b-3d80bc7020c5",
+      "startIndex": 77,
+      "text": "موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          "0ae468ae-3ea4-4eb7-9586-2f497e756c3f"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "1c336c13-4db4-451d-b752-b148265252c6",
+      "startIndex": 271,
+      "text": "أبو الفرج عبد الرحمن بن سلمان بن سعيد الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 512,
+      "guid": "3de6acf3-5c84-4bce-8bc3-d5a021ce5bc8",
+      "startIndex": 504,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "8c2adf7a-4cf7-4ea9-a804-f03031d91ddc",
+      "startIndex": 230,
+      "text": " نجم الدين أبو الحرم مكي بن علي بن كامل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "8e6f90a1-bb03-47d3-85d7-1e558a8b26b5",
+      "startIndex": 405,
+      "text": "يوسف بن عبد المنعم بن نعمة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 357,
+      "guid": "95c9b2e6-0acf-4561-a562-afc998367586",
+      "startIndex": 320,
+      "text": "أبو محمد بيان بن عثمان بن محمد الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 402,
+      "guid": "df3f7ba7-49c6-4440-9c61-fd333461c13d",
+      "startIndex": 360,
+      "text": "أبو عبد الله محمد بن محمود بن مطروح المصيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "605"
+        ]
+      },
+      "endIndex": 501,
+      "guid": "f383f322-4493-46a1-8ac8-fa3cb35fa819",
+      "startIndex": 478,
+      "text": "سلخ شوال سنة خمس وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 214,
+      "guid": "f9fd75af-c668-4736-832c-32ed40cac293",
+      "startIndex": 150,
+      "text": "أبو الفضل عبد المنعم بن نصر الله بن أحمد بن جعفر بن حواري التنوخي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع الجزء المعروف بجزء هلال الحفار على سيدنا الإمام العالم الصدر الكبير موفق الدين أبي محمد عبد الله بن أحمد بن محمد بن قدامة بسماعه فيه الفقهاء أبو الفضل عبد المنعم بن نصر الله بن أحمد بن جعفر بن حواري التنوخي والإمام الفرضي نجم الدين أبو الحرم مكي بن علي بن كامل وأبو الفرج عبد الرحمن بن سلمان بن سعيد الحرانيان وأبو محمد بيان بن عثمان بن محمد الدمشقي وأبو عبد الله محمد بن محمود بن مطروح المصيني ويوسف بن عبد المنعم بن نعمة المقدسي بقراءته وهذا خطه وصح في مجلسين آخرهما سلخ شوال سنة خمس وستمائة بجامع دمشق وسمع أُخَرُ [آخرون] بفوات أسماؤهم على نسختي "
+}

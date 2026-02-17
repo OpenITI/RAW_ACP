@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن أحمد الدارقطني البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الكتاب الثاني من أفراد الدار قطني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 184"
+      ],
+      "classmark": [
+        "3772"
+      ],
+      "folio_number": [
+        "10r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "qasr_bani-ma'mun"
+          ]
+        ]
+      },
+      "endIndex": 101,
+      "guid": "0015ce12-5c51-46f5-8bb6-9386781c6157",
+      "startIndex": 78,
+      "text": "بغداد في قصر بني المأمون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "45e2e5f8-d496-4883-ace8-c0b98c1e280c",
+      "startIndex": 46,
+      "text": "عبد الواحد بن محمد بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "685e8e4b-e13c-4985-9248-b4f91f286999",
+      "startIndex": 33,
+      "text": "ابن المأمون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "463"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "84d2c5b4-1ba8-4928-a1d7-c329ee5bb7b8",
+      "startIndex": 107,
+      "text": "ثلاث وستين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "ca2b57f8-3dfc-434b-bea3-5e941cb3ac3d",
+      "startIndex": 137,
+      "text": " إسماعيل بن محمد",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت في سماعه بقراءتي على الشريف ابن المأمون وعبد الواحد بن محمد بن عمر وذلك ببغداد في قصر بني المأمون سنة ثلاث وستين وأربعمائة ورحم الله إسماعيل بن محمد ووالديه وجميع المسلمين"
+}

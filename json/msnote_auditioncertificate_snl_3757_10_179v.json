@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "آدم بن أبي إياس العسقلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث آدم بن أبي إياس العسقلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/10"
+      ],
+      "folio_number": [
+        " 179v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "14f1f0c8-6340-45c0-813e-a794481ed980",
+      "startIndex": 183,
+      "text": "تقي الدين عبد الله بن أحمد بن محمد بن الحافظ عبد الغني المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 621,
+      "guid": "1a081531-b21c-4f75-9280-e07cb19b8077",
+      "startIndex": 597,
+      "text": "عبد المنعم بن غازي بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "2317805e-3a85-4677-a9c5-7a15e9d7b999",
+      "startIndex": 150,
+      "text": "العلوي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 575,
+      "guid": "44145d7f-d841-4683-bbbc-204abb8471d9",
+      "startIndex": 531,
+      "text": "محمد بن أحمد بن المسمع عماد الدين عبد الحميد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 351,
+      "guid": "5238f32e-6ede-4264-a15f-95d97d3b72fd",
+      "startIndex": 347,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "5bfbee4d-fe76-4eeb-a82f-64e4cc084816",
+      "startIndex": 341,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 528,
+      "guid": "7e879005-364b-426a-be7c-594fc565633f",
+      "startIndex": 491,
+      "text": "عبد الرحمن بن محمد بن أحمد بن عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 688,
+      "guid": "8427b7f2-8e47-435b-a16a-ad00b4bf22ed",
+      "startIndex": 651,
+      "text": "عبد الله بن عبد الولي بن جبارة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "ab2225b6-0e1f-451a-abbc-b4b3c7354085",
+      "startIndex": 74,
+      "text": "عماد الدين عبد الحميد بن عبد الهادي بن يوسف المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 784,
+      "guid": "c003b5be-a6b7-47c9-83cd-6e186930898e",
+      "startIndex": 768,
+      "text": "منزل الشيخ المسمع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "d4a66daf-7fdc-4310-bb44-7d18ce186437",
+      "startIndex": 140,
+      "text": "الثقفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "651"
+        ]
+      },
+      "endIndex": 766,
+      "guid": "f0a5dfaf-4b33-4226-bcf4-e0c208dc8f84",
+      "startIndex": 713,
+      "text": "يوم الثلثا ثامن عشر ربيع الآخر سنة إحدى خمسين وستماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 328,
+      "guid": "f0e362ed-67be-42a5-9a02-eafc45669645",
+      "startIndex": 252,
+      "text": "حسن بن الشيخ الفاضل شرف الدين عبد الله بن الشيخ أبي عمر محمد بن أحمد بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 649,
+      "guid": "f3b43b78-5808-45a8-8edd-83da9d72b64a",
+      "startIndex": 624,
+      "text": "علي بن عبد الحميد بن محمد ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو حديث آدم بن إياس العسقلاني على الشيخ الإمام الصالح عماد الدين عبد الحميد بن عبد الهادي بن يوسف المقدسي بسماعه فيه من الثقفي عن العلوي وذلك بقراءة الفقيه الإمام تقي الدين عبد الله بن أحمد بن محمد بن الحافظ عبد الغني المقدسي فسمعه حسن بن الشيخ الفاضل شرف الدين عبد الله بن الشيخ أبي عمر محمد بن أحمد بن قدامة وابنا أخيه أحمد ومحمد حضر ابنا الشيخ الإمام العالم الفاضل عز الدين أبي إسحق إبراهيم بن الشيخ الخطيب شرف الدين عبد الله بن أبي عمر محمد بن أحمد بن قدامة المقدسي وعبد الرحمن بن محمد بن أحمد بن عبد الله ومحمد بن أحمد بن المسمع عماد الدين عبد الحميد ومثبت الأسماء الحافظ عبد المنعم بن غازي بن عمر وعلي بن عبد الحميد بن محمد وعبد الله بن عبد الولي بن جبارة المقدسيون وصح ذلك وثبت في عشية يوم الثلثا ثامن عشر ربيع الآخر سنة إحدى خمسين وستماية بمنزل الشيخ المسمع وقد أجاز الشيخ المسمع للجماعة جميع ما يجوز له روايته بشرطه وذلك بسؤالي وصلى الله على على سيدنا محمد وآله وسلم تسليما كثيرا وهو حسبنا ونعم الوكيل"
+}

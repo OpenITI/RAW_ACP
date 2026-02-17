@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96b"
+      ],
+      "folio_number": [
+        "1r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1769442294/1200/0/00000005.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00010967"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "a73c51d6-4d26-4d90-8b14-1f9720c8027b",
+      "startIndex": 190,
+      "text": "يوسف بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "b16549ca-af55-4266-a36b-8efa3ef37022",
+      "startIndex": 87,
+      "text": "عبد الرحمن [السويلاتي/ الشويلاتي؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "905"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "c40c1556-9537-4278-abdd-08c508249467",
+      "startIndex": 122,
+      "text": "شهر رمضان سنة خمس وتسعمائة",
+      "type": "date"
+    }
+  ],
+  "text": "الحمد لله رب العالمين وصلى الله على سيدنا محمد وآله وصحبه وسلم أنهاه قراءة عليَّ الشيخ عبد الرحمن [السويلاتي/ الشويلاتي؟] شهر رمضان سنة خمس وتسعمائة وسمعه خلائق كًتبوا على نسخة القراءة وكتب يوسف بن عبد الهادي."
+}

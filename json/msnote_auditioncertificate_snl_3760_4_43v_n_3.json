@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج4"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 112"
+      ],
+      "classmark": [
+        "3760/4"
+      ],
+      "folio_number": [
+        "43v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 16,
+      "guid": "298affb7-ba49-495e-ad5f-5f395b55aeb7",
+      "startIndex": 9,
+      "text": "ابن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "5bfb6bc0-ccff-4ba9-9325-d78f8df597f7",
+      "startIndex": 39,
+      "text": "منصور بن الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "10"
+        ],
+        "year": [
+          "492"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "dcc0db5c-fb07-444a-866e-8b62e668d224",
+      "startIndex": 71,
+      "text": "شوال سنة اثنتين وتسعين وأربع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "f88e1127-cdc4-41d9-af84-6ccbb79be7bc",
+      "startIndex": 18,
+      "text": "أبو محمد عبد الله بن منصور بن الموصلي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من ابن طلحة أبو محمد عبد الله بن منصور بن الموصلي بقراءة أبيه في شوال سنة اثنتين وتسعين وأربع ماية نقل ذلك في سنة أربيع وستين وخمسماية"
+}

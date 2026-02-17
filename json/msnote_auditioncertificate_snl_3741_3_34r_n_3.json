@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "34r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "52282148-c79b-4b57-bc84-78bde1ba1571",
+      "index": 84,
+      "isZeroPoint": false,
+      "startIndex": 105,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "86b80df7-5b94-403a-afc7-e28bb23c8a91",
+      "index": 85,
+      "isZeroPoint": false,
+      "startIndex": 125,
+      "text": "يوم الثلثا تاسع عشر جمادى الأولى سنة خمس وستين وستماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "a93e2cf7-31fd-47a9-ab1e-a25da5f247d6",
+      "index": 83,
+      "isZeroPoint": false,
+      "startIndex": 41,
+      "text": "أحمد بن فرج برهان الدين إبراهيم بن فلاح بن محمد الاسكندري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 24,
+      "guid": "b1591ec0-424e-4709-9b3b-8b2fcbc1408e",
+      "index": 82,
+      "isZeroPoint": false,
+      "startIndex": 11,
+      "text": "ابن عبد الدائم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 192,
+      "guid": "c75acd0a-642b-4dce-90c3-89ea8517f71a",
+      "index": 86,
+      "isZeroPoint": false,
+      "startIndex": 181,
+      "text": "منزله بالجبل",
+      "type": "place"
+    }
+  ],
+  "text": " وسمعه على ابن عبد الدائم المذكور بقراءة أحمد بن فرج برهان الدين إبراهيم بن فلاح بن محمد الاسكندري وولده أحمد في أول الثالثة يوم الثلثا تاسع عشر جمادى الأولى سنة خمس وستين وستماية بمنزله بالجبل"
+}

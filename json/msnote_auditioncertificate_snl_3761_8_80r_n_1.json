@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد بشر بن الحسين الأصبهاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الزبير بن عدي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/8"
+      ],
+      "folio_number": [
+        "80r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 240,
+      "guid": "365c6047-91ca-44ed-b53b-0811e9ae47ee",
+      "startIndex": 233,
+      "text": "بن زينة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "4e5a72cd-f7ca-4008-bbba-600c4fd65e1f",
+      "startIndex": 137,
+      "text": "أبي اليمن زيد بن الحسن بن زيد الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "63715c29-0a8e-44fa-8837-38fb9026f00b",
+      "startIndex": 184,
+      "text": "أبي محمد عبد الله بن علي سبط أبي منصور الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 369,
+      "guid": "6ea34d38-5f50-4d5e-be0f-8d751677af9f",
+      "startIndex": 349,
+      "text": "خالد بن يوسف النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "7d22e621-3dc4-45f0-8ac7-9ec59be4402b",
+      "startIndex": 83,
+      "text": "شهاب الدين أبي محمد عبد العزيز الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "45a2c1a2-0021-45c3-bf85-2bdc3fd95247"
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 271,
+      "guid": "ae08951b-183d-4f53-80ff-d4a38f1d5131",
+      "startIndex": 257,
+      "text": "مسعود بن النادر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "e0e08b57-5665-4b39-b105-08dbc953923e",
+      "startIndex": 276,
+      "text": "شوال من سنة خمس وثلثين وخمس مئة",
+      "type": "date"
+    }
+  ],
+  "text": "شاهدت على الجزء الأول منقولا ما مثاله قال في الأصل المنقول منه ما صورته بخط رفيقنا شهاب الدين أبي محمد عبد العزيز الشيباني في الأصل سماع أبي اليمن زيد بن الحسن بن زيد الكندي على الشيخ أبي محمد عبد الله بن علي سبط أبي منصور الخياط عن بن زينة مع جماعة بقراءة مسعود بن النادر في شوال من سنة خمس وثلثين وخمس مئة نقلته مختصرا من أصل الشيخ أيده الله نقله خالد بن يوسف النابلسي حامدا الله ومصليا على نبيه محمد وآله ومسلما"
+}

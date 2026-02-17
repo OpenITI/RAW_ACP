@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن صدقة بن الحسين بن سلامة البزار الموصلي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي بكر محمد بن إبراهيم بن محمد القرشي العدوي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 91"
+      ],
+      "classmark": [
+        "3756/4"
+      ],
+      "folio_number": [
+        "32v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "27089ad5-45d6-4b1b-9808-2815c675e7a5",
+      "startIndex": 334,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 303,
+      "guid": "3306d1b8-ddff-4ce2-afcd-a54cd0371e08",
+      "startIndex": 295,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani / Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "590ba041-2c19-4db5-9c22-4d2749ced504"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "41d7960c-91fd-446c-ae78-39b400c44844",
+      "startIndex": 43,
+      "text": "شرف الدين أبي المحامد محمد بن عبد المنعم بن القواس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "666"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "803afce1-9b35-4fb6-a75b-f5b8f840c22a",
+      "startIndex": 238,
+      "text": " الجمعة العاشر من شهر رمضان المعظم سنة ست وستون وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 217,
+      "guid": "b8d53d18-98b8-4f7e-9b8c-42d6c69d7fde",
+      "startIndex": 157,
+      "text": "نور الدين أبو الحسن علي بن محمد بن عبد الرحمن بن زهير القابسي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميعه على الشيخ الجليل المسند الأمين شرف الدين أبي المحامد محمد بن عبد المنعم بن القواس بسماعه المنقول فيه من أصل سماعه وسماع شيخه فسمعه الفقيه المقرئ نور الدين أبو الحسن علي بن محمد بن عبد الرحمن بن زهير القابسي وصح ذلك وثبت في يوم الجمعة العاشر من شهر رمضان المعظم سنة ست وستون وستماية بجامع دمشق المحروسة وكتبه فقير رحمة ربه علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه حامدا الله ومصليا على نبيه وآله وصحبه ومسلما"
+}

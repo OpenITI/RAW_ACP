@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمر عثمان بن محمد بن عبد الله المحمي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء فيه من حديث أبي عمرو عثمان بن محمد بن عبد الله المحمي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "210v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f218.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f218.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "3220f341-2758-4a3c-ade8-8d71eb401bcd",
+      "index": 147,
+      "isZeroPoint": false,
+      "startIndex": 86,
+      "text": " أبي حفص بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "75d859e5-3f28-4a84-9fe3-656fd33604e2",
+      "index": 146,
+      "isZeroPoint": false,
+      "startIndex": 32,
+      "text": "أم أحمد زينب بنت مكي بن علي بن كامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "a62c3e6b-ce69-4e60-a4b0-a2adc9013a35",
+      "index": 150,
+      "isZeroPoint": false,
+      "startIndex": 199,
+      "text": "يوم السبت التاسع عشر من جمادى الأولى سنة ثمان وسبعين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "aa4643bb-e703-43d4-8ecd-19bfdd2d6c75",
+      "index": 149,
+      "isZeroPoint": false,
+      "startIndex": 162,
+      "text": "علم الدين القاسم بن محمد بن البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "df2a03b1-3c94-4aea-8c75-e33a8c74d399",
+      "index": 148,
+      "isZeroPoint": false,
+      "startIndex": 122,
+      "text": " يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على الشيخة الصالحة المسندة أم أحمد زينب بنت مكي بن علي بن كامل الحراني بسماعها من أبي حفص بن طبرزد بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي علم الدين القاسم بن محمد بن البرزالي يوم السبت التاسع عشر من جمادى الأولى سنة ثمان وسبعين وستمئة"
+}

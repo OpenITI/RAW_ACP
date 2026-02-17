@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن إسحق القاضي الأزدي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث أيوب السختياني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 11"
+      ],
+      "catalog": [
+        "FMMU 26/27"
+      ],
+      "classmark": [
+        "3741/3"
+      ],
+      "folio_number": [
+        "33r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "79c79fc2-cbd0-4145-9b29-24af0f86dbc1",
+      "index": 83,
+      "isZeroPoint": false,
+      "startIndex": 95,
+      "text": "عبد الله بن الحسن بن عبد الله بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 192,
+      "guid": "87d04cc5-fd94-4d23-abe0-d65993e300b1",
+      "index": 85,
+      "isZeroPoint": false,
+      "startIndex": 188,
+      "text": "منزله",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "655"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "c1c372db-a0eb-41ee-ae64-ada6135f4d02",
+      "index": 84,
+      "isZeroPoint": false,
+      "startIndex": 142,
+      "text": "يوم الاثنين سلخ شعبان سنة خمس وخمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "c9ae39c4-9b72-4d06-96cf-0e42ada03cb3",
+      "index": 82,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "محمد بن أحمد بن عبد الرحيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "ecad44fc-c823-42cd-8ca6-0df13bb92385",
+      "index": 81,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": "داود بن علي بن أبي بكر بن عمر بن علي بن الهكاري",
+      "type": "person"
+    }
+  ],
+  "text": " وسمعه عليه بقراءة داود بن علي بن أبي بكر بن عمر بن علي بن الهكاري محمد بن أحمد بن عبد الرحيم وعبد الله بن الحسن بن عبد الله بن عبد الغني وصح يوم الاثنين سلخ شعبان سنة خمس وخمسين وستماية بمنزله"
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسحق بن إبراهيم الثقفي السراج النيسابوري"
+      ],
+      "work_title": [
+        "المنتقى من مسند الثقفي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 19"
+      ],
+      "classmark": [
+        "3739/7"
+      ],
+      "folio_number": [
+        "75r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "37609c1a-7f08-431d-b895-ecfdb52b673f",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 150,
+      "text": "إسماعيل بن علي بن نجوان البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "624"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "5e71394a-f8e4-4f0e-acdf-f844037e96cb",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 41,
+      "text": "رجب سنة أربع وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "baalbek"
+          ]
+        ]
+      },
+      "endIndex": 190,
+      "guid": "63ff3c94-e889-452c-9c82-3422398748c2",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 186,
+      "text": "بعلبك",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "867fa6d3-908a-4bd2-96d7-c094a1a96999",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 122,
+      "text": "محمد بن أبي الفتح بن [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "9ccfe9ce-e505-455d-98aa-1e246f5b9a76",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 75,
+      "text": "بد الرحمن بن إبراهيم بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "e5776c5a-5900-4592-8794-20329e2bd12c",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 12,
+      "text": "سالم بن أبي الضوء بن أحمد",
+      "type": "person"
+    }
+  ],
+  "text": " قرأه عليَّ سالم بن أبي الضوء بن أحمد في رجب سنة أربع وعشرين وستماية وكتب عبد الرحمن بن إبراهيم بن أحمد المقدسي فسمعه معه محمد بن أبي الفتح بن [...] وإسماعيل بن علي بن نجوان البعلبكيون ببعلبك في تاريخه وصلى على محمد وآله وسلم"
+}

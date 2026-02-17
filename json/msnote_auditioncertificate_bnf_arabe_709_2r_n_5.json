@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عيسى الترمذي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/76600419"
+      ],
+      "work_title": [
+        "الجامع الصحيح"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 709"
+      ],
+      "folio_number": [
+        "2r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110003844/f3.item.r=%22arabe%20709%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "577"
+        ]
+      },
+      "endIndex": 371,
+      "guid": "03df931b-e989-47f1-b8b5-a6cfbaefc43b",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 338,
+      "text": "رجب الفرد سنة سبع وسبعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 179,
+      "guid": "9bf5bd15-657d-4849-8822-bb1dcc48d24e",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 118,
+      "text": " أبو القاسم عبد [الرحيم] عبد الرحيم بن إبراهيم بن محمد الخزرجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 333,
+      "guid": "c66341e1-e6ed-4d4e-a0d2-229ba757158c",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 298,
+      "text": "علي بن أحمد بن محمد بن كوثر المحاربي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "e81f03d0-32f9-446b-bbb4-a0af42e03ac3",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 57,
+      "text": "أبو محمد عبد الغني بن محمد بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 268,
+      "guid": "f6d05934-3a82-4be2-a5a7-2b11c61da937",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 250,
+      "text": "أبي الفتح عبد الملك",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ وسمع هذا الكتاب بعضه عني وناولته بقيته الفقيه الحافظ أبو محمد عبد الغني بن محمد بن عبد الغني والفقيه الحافظ النبيه أبو القاسم عبد [الرحيم] عبد الرحيم بن إبراهيم بن محمد الخزرجي وسمع أبو القاسم أكثر مما سمع أبو محمد وقد أجزت لهما أن يروياه عني عن أبي الفتح عبد الملك بسنده المذكور فيه أوله وكتب علي بن أحمد بن محمد بن كوثر المحاربي في رجب الفرد سنة سبع وسبعين وخمس ماية وفيه عبد الرحيم مكرر فعُلِّم على الأول."
+}

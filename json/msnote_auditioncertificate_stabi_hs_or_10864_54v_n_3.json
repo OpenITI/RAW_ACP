@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مؤيد بالله احمد بن الحسين"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الامالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Hs. Or. 10864"
+      ],
+      "folio_number": [
+        "54v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1067656405/1200/0/00000112.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00038644"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "581d9e02-0e8d-4048-9037-572750551382",
+      "startIndex": 150,
+      "text": "محمد بن حسين المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "11"
+        ],
+        "year": [
+          "1334"
+        ]
+      },
+      "endIndex": 143,
+      "guid": "e29b55b4-eadf-4270-8780-c4e6d357b52d",
+      "startIndex": 122,
+      "text": "28 شهر القعدة سنة 1334",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "hijaz",
+            "rawda"
+          ]
+        ]
+      },
+      "endIndex": 117,
+      "guid": "f19e0182-ded2-4af4-8335-3c0b8d8e5922",
+      "startIndex": 106,
+      "text": "مدينة الروضة",
+      "type": "place"
+    }
+  ],
+  "text": "بحمد الله تعالى قد تم لي سماع هذه الأمالي على سيدي الوالد [العلامة ... ... بن حسين ...] أبقاه الله بمحروس مدينة الروضة في 28 شهر القعدة سنة 1334 كتبه محمد بن حسين المقرئ وقبل منه وعفى عنهم."
+}

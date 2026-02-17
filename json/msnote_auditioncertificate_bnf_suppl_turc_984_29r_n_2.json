@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "29r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.item.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 44,
+      "guid": "bf65ac30-d031-4af2-b498-88986c0c2ae0",
+      "index": 414,
+      "isZeroPoint": false,
+      "startIndex": 17,
+      "text": "إسماعيل بن إبراهيم بن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "664"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "c9246a84-39cc-4159-a579-6a45492a2a41",
+      "index": 415,
+      "isZeroPoint": false,
+      "startIndex": 56,
+      "text": "يوم الجمعة رابع عشر ربيع الآخر سنة أربع وستين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه منه بقراءة إسماعيل بن إبراهيم بن الخباز ابنه وثبت يوم الجمعة رابع عشر ربيع الآخر سنة أربع وستين وستماية."
+}

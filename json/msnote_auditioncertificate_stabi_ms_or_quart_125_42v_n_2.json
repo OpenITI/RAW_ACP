@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " الجزء فيه من حديث عفان بن مسلم الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Quart 125"
+      ],
+      "folio_number": [
+        "42v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN614473373/1200/0/00000086.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00059153"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "769"
+        ]
+      },
+      "endIndex": 896,
+      "guid": "189c2621-83cb-414a-8e77-e5e0ef9892a7",
+      "startIndex": 842,
+      "text": "يوم الأحد الثالث من جمادى الأولى سنة تسع وستين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "29bb6aa8-fbef-4347-9b42-9fb5c55a0858",
+      "startIndex": 28,
+      "text": " فتح الدين أبي البركات أحمد ابن الشيخ نظام الدين محمد بن محمد بن محمد عُرف بابن القوصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 222,
+      "guid": "39314504-2587-4d1e-8ed6-9a7ffd4f1652",
+      "startIndex": 174,
+      "text": "محمد بن محمد أبي بكر بن عبد العزيز القدسي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 597,
+      "guid": "407a3854-d2f5-4ec4-9200-27d730fa37d5",
+      "startIndex": 584,
+      "text": "بستان النوبية ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "50ccfae3-3dc8-4a7f-a774-b4f6ce5b80ba",
+      "startIndex": 269,
+      "text": "أبو هريرة عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 811,
+      "guid": "7512e801-4d56-414c-914b-79e4f3a1737c",
+      "startIndex": 808,
+      "text": "ليلا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 410,
+      "guid": "7549514a-7b61-40e1-b144-98568ce20551",
+      "startIndex": 326,
+      "text": "بدر الدين أبو اليسر محمد بن شيخنا قاضي القضاة عماد الدين أبي عمر عبد العزيز ابن جماعة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 539,
+      "guid": "793bf58f-7bb8-4fb1-b28e-cea14a31232d",
+      "startIndex": 444,
+      "text": "محمد المدعو عبد القادر بن شيخنا الشيخ برهان الدين أبي إسحق إبراهيم بن أحمد بن عبد الواحد الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "registrar_of_names"
+        ]
+      },
+      "endIndex": 732,
+      "guid": "7d561bac-e1fc-48e4-90cc-1208ffca3206",
+      "startIndex": 675,
+      "text": "شرف الدين أبو الفتح محمد ابن عبد الله بن حسن بن علي القوصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 779,
+      "guid": "879b5630-725e-4657-b240-110cb549e284",
+      "startIndex": 754,
+      "text": "حسن بن أحمد بن حسن المشرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 633,
+      "guid": "94f9fd0e-7458-4d6d-9310-085fefabdaea",
+      "startIndex": 617,
+      "text": "صبيح القوي الحبشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 798,
+      "guid": "b273f749-09b1-45e8-bcb0-57dca0708bf9",
+      "startIndex": 794,
+      "text": "عابدة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-aqmar_mosque"
+          ]
+        ]
+      },
+      "endIndex": 918,
+      "guid": "bbd78dbe-9035-41eb-a87c-e4236a453f6f",
+      "startIndex": 899,
+      "text": "جامع الأقمر بالقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 672,
+      "guid": "cab0dadd-ef3b-408f-8df6-b331a10bea9e",
+      "startIndex": 636,
+      "text": "عمران بن عمرو بن سالم اليماني الجزاري",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ فتح الدين أبي البركات أحمد ابن الشيخ نظام الدين محمد بن محمد بن محمد عُرف بابن القوصي بسماعه له تراه منقولاً بخطي في الصفحة المحاذية لهذه بقراءة محمد بن محمد أبي بكر بن عبد العزيز القدسي الشافعي إمام جامع الأقمر بالقاهرة وذا خطه ابنه لصلبه أبو هريرة عبد الرحمن في الثانية من عمره وأخواه من الرضاع بدر الدين أبو اليسر محمد بن شيخنا قاضي القضاة عماد الدين أبي عمر عبد العزيز ابن جماعة حاضرا في الثانية من عمره أيضاً ومحمد المدعو عبد القادر بن شيخنا الشيخ برهان الدين أبي إسحق إبراهيم بن أحمد بن عبد الواحد الشافعي أبوه حاضرا في السنة الأولى من عمره وحاملته بستان النوبية فتاة [الشيخ] وفتاه صبيح القوي الحبشي وعمران بن عمرو بن سالم اليماني الجزاري وشرف الدين أبو الفتح محمد ابن عبد الله بن حسن بن علي القوصي أبوه وضبط الأسماء، وحسن بن أحمد بن حسن المشرفي أبوه وشقيقته عابدة وفتاتها ليلا (كذا) [...] الجنس وصح ذلك في يوم الأحد الثالث من جمادى الأولى سنة تسع وستين وسبعماية بجامع الأقمر بالقاهرة المحروسة وأجاز المسمع لنا روايته وجميع ما يجوز له روايته بشرطه عند أهله وتلفظ لنا بذلك"
+}

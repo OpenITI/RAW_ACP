@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر أحمد بن مروان الدينوري المالكي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب المجالسة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 3481"
+      ],
+      "folio_number": [
+        "244v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110029593/f246.item.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "21b15a93-3de4-4a9d-ae96-824b5d3fce00",
+      "index": 75,
+      "isZeroPoint": false,
+      "startIndex": 89,
+      "text": "أبي عبد الله محمد بن أحمد بن سلمان الزهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "5c3d9346-878f-4d16-b9f7-67d29b22167d",
+      "index": 76,
+      "isZeroPoint": false,
+      "startIndex": 131,
+      "text": "جعفر بن محمد [بن جعفر] العباسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "6ae1ecfe-df80-4440-841e-94e9c86da35f",
+      "index": 74,
+      "isZeroPoint": false,
+      "startIndex": 26,
+      "text": "أبي عبد الله عبد القادر بن عبد الله الرهاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "mossul",
+            "dar_al-hadith_al-muzafariya"
+          ]
+        ]
+      },
+      "endIndex": 224,
+      "guid": "aa857539-d051-462f-9130-60bf6fbbdd14",
+      "index": 78,
+      "isZeroPoint": false,
+      "startIndex": 206,
+      "text": "دار الحديث المظفرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "596"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "ffe277c1-337a-434e-b60b-acbef79309dc",
+      "index": 77,
+      "isZeroPoint": false,
+      "startIndex": 174,
+      "text": " في رجب سنة ست وتسعين وخمسماية",
+      "type": "date"
+    }
+  ],
+  "text": "سمع جميعه من الشيخ الحافظ أبي عبد الله عبد القادر بن عبد الله الرهاوي بروايته فيه بقراءة أبي عبد الله محمد بن أحمد بن سلمان الزهري جعفر بن محمد [بن جعفر] العباسي عفا الله عنه في رجب سنة ست وتسعين وخمسماية بدار الحديث المظفرية."
+}

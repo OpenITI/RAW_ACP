@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن عثمان الذهبي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "معجم الذهبي الصغير"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 60"
+      ],
+      "classmark": [
+        "3749/9"
+      ],
+      "folio_number": [
+        "217v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "24c90f23-4951-4c85-a771-f1145840bc32",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 28,
+      "text": "صلاح الدين أبي بكر بن محمد بن أبي بكر العزازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "7ec104d8-23b3-45f7-b6ec-f1f411f2020b",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 122,
+      "text": "برهان الدين أبي الوفا إبراهيم بن محمد بن خليل الطرابلسي ثم الحلبي سبط بني العجمي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 284,
+      "guid": "86c9b30a-567c-4fdb-b44a-39eb31aad364",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 261,
+      "text": "علي بن رجب بن علي الآمدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "c2b84183-91ce-4275-8289-6b7211e6ad64",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 239,
+      "text": "محمد بن أحمد بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 98,
+      "guid": "c8155d9d-cf0e-42ee-bde6-fc7c82a2dc8c",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 93,
+      "text": "الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 349,
+      "guid": "e6a1bfc7-a42d-40c9-a671-be0538d73365",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 333,
+      "text": "باب منزله بقاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "780"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "f761d597-1331-46b5-869f-10d62c32ac09",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 293,
+      "text": "يوم ثاني ربيع الأول سنة ثمانين وسبعمية",
+      "type": "date"
+    }
+  ],
+  "text": " الحمد لله وسمعه على الإمام صلاح الدين أبي بكر بن محمد بن أبي بكر العزازي بسماعه له من مخرجه الذهبي بقراءة الحافظ العلامة برهان الدين أبي الوفا إبراهيم بن محمد بن خليل الطرابلسي ثم الحلبي سبط بني العجمي الشافعي ومن خطه لخصت ابن أخي المسمع محمد بن أحمد بن محمد وعلي بن رجب بن علي الآمدي وصح في يوم ثاني ربيع الأول سنة ثمانين وسبعمية بباب منزله بقاسيون وأجاز"
+}

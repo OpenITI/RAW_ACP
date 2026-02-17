@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن محمد بن حبيب النيسابوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب التنزيل وترتيبه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 134"
+      ],
+      "classmark": [
+        "3763/19"
+      ],
+      "folio_number": [
+        "231v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 59,
+      "guid": "21dc6932-984b-44e4-8322-b795621f9d29",
+      "startIndex": 9,
+      "text": "أبي حفص عمر بن عبد المنعم بن عمر بن القواس الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 87,
+      "guid": "58324d5f-d617-43a5-8e0b-371367f046ca",
+      "startIndex": 71,
+      "text": " أبي اليمن الكندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "5ce51176-f092-4dab-b2c4-14ed7951cf42",
+      "startIndex": 113,
+      "text": "أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 388,
+      "guid": "717f24d8-86c1-45c3-9363-50f7347295cc",
+      "startIndex": 382,
+      "text": "الكلاسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "86c65407-ef05-42d2-9d6b-6132ea3b246c",
+      "startIndex": 217,
+      "text": "أبو عبد الله محمد بن أحمد بن عثمان بن الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "693"
+        ]
+      },
+      "endIndex": 380,
+      "guid": "8a78dc48-2fe2-47c4-b2f8-59b5b1785631",
+      "startIndex": 336,
+      "text": " الجمعة الرابع من محرم سنة ثلث وتسعين وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "a3ab0d9e-9013-4ed8-b60f-0eb7feb5726c",
+      "startIndex": 180,
+      "text": "محمد بن عثمان بن محمد العجمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "a88a9223-2672-4f48-bcbd-59d48cdef7a3",
+      "startIndex": 168,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "a8ce421f-8d79-428b-96ae-691bbd517565",
+      "startIndex": 276,
+      "text": " أبو العباس أحمد بن مظفر بن أبي محمد النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 466,
+      "guid": "be3e1d24-cf7b-4832-9dd7-d5bc49acc38a",
+      "startIndex": 453,
+      "text": "محمد بن طولبغا",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على أبي حفص عمر بن عبد المنعم بن عمر بن القواس الأنصاري بإجازته من أبي اليمن الكندي بسنده فيه بقراءة الحافظ أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي ابنه عبد الرحمن ومحمد بن عثمان بن محمد العجمي والحافظ أبو عبد الله محمد بن أحمد بن عثمان بن الذهبي والمحدث المفيد أبو العباس أحمد بن مظفر بن أبي محمد النابلسي وصح ذلك في يوم الجمعة الرابع من محرم سنة ثلث وتسعين وستمية بالكلاسة وسمع آخرون وأجاز لهم المسمع نقلته من خط الحافظ أبي الحجاج كتبه محمد بن طولبغا "
+}

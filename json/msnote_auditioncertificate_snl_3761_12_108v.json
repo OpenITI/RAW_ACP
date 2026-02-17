@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن القاسم بن إسماعيل الحلبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي القاسم الحلبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 120"
+      ],
+      "classmark": [
+        "3761/12"
+      ],
+      "folio_number": [
+        "108v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "694"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "33a0c394-071d-4ce9-83dc-ff5c520af85e",
+      "startIndex": 125,
+      "text": "السبت سادس عشري رجب سنة أربع وتسعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "5f8baef0-71eb-46b5-8bc8-f4a2d7a08f2f",
+      "startIndex": 39,
+      "text": "عز الدين إسماعيل بن عبد الرحمن بن عمرو الفراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "bustan_al-farra'"
+          ]
+        ]
+      },
+      "endIndex": 174,
+      "guid": "6a3d8968-d8a9-4dc8-96f3-2d025117e625",
+      "startIndex": 169,
+      "text": "بستانه",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "d351828e-a56c-4928-814f-29cff3445c03",
+      "startIndex": 95,
+      "text": "أبي القاسم بن صصرى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "e48b46e2-ac7e-4b6b-a3c2-6a25bdef340d",
+      "startIndex": 181,
+      "text": "محمد بن أحمد بن عثمان بن الذهبي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء على العدل المسند المقرئ عز الدين إسماعيل بن عبد الرحمن بن عمرو الفراء بسماعه من أبي القاسم بن صصرى وصح في يوم السبت سادس عشري رجب سنة أربع وتسعين وستمية ببستانه وكتب محمد بن أحمد بن عثمان بن الذهبي سامحه الله"
+}

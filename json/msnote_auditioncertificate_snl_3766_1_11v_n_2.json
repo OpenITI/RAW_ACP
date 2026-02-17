@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبد الملك بن محمد بن عبد الله بن بشران الزاهد البغدادي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن بشران"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 154"
+      ],
+      "classmark": [
+        "3766/1"
+      ],
+      "folio_number": [
+        "11v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "633"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "3cffebb7-f24b-4797-9b01-261543483ba5",
+      "startIndex": 239,
+      "text": "الأربعاء ثاني صفر سنة ثلاث وثلاثين وستمائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 96,
+      "guid": "4e6dd27f-96df-43e3-9f40-91901a0323c4",
+      "startIndex": 45,
+      "text": "أبي الفضل جعفر بن أبي الحسن بن أبي البركات الهمداني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "609f4685-2f30-4474-a770-6b47001899aa",
+      "startIndex": 113,
+      "text": " أحمد بن حسن بن عمر السلاوي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "7dc307e1-bd40-4c8c-bff4-0f297cec3b8d",
+      "startIndex": 149,
+      "text": "علي بن حسن بن داود الجزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "alexandria",
+            "al-buri_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 310,
+      "guid": "9c4d0e24-483e-4138-abc8-b8efcbaea408",
+      "startIndex": 283,
+      "text": "الإسكندرية بمدرسة ابن البوري",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "e473d61e-2125-4460-aab9-911d2338429a",
+      "startIndex": 176,
+      "text": "عبد الباقي بن عبد العزيز بن عبد المنعم الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "f9dd97c0-5eb4-4bb9-9acc-1fa947157470",
+      "startIndex": 317,
+      "text": "محمد بن عبد الله بن عبد الغني المقدسي ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء جميعه على الشيخ الإمام العالم أبي الفضل جعفر بن أبي الحسن بن أبي البركات الهمداني بسماعه فيه فسمعه أحمد بن حسن بن عمر السلاوي الصوفي وعلي بن حسن بن داود الجزري وعبد الباقي بن عبد العزيز بن عبد المنعم الحراني وصح وثبت في يوم الأربعاء ثاني صفر سنة ثلاث وثلاثين وستمائة بالإسكندرية بمدرسة ابن البوري كتبه محمد بن عبد الله بن عبد الغني المقدسي عفا الله عنه والحمد لله وحده وصلى الله على سيدنا محمد وآله وسلم"
+}

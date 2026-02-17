@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن جعفر الخرائطي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "مكارم الأخلاق ومعاليها وطرائق محمودها"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 122 "
+      ],
+      "folio_number": [
+        "77v"
+      ],
+      "image_link": [
+        "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3374446%7EJP2%7Eba4d9c9d3ec76110948979576debbf26966cef350ae625fbdb31369089a3b40c%7Edigitalc/full/pct:22/0/default.jpg"
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        "baf615f4-21fa-43d4-8b41-b6ffb42588d8"
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/ud5et8/alma9938139748902711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "610"
+        ]
+      },
+      "endIndex": 384,
+      "guid": "027f8010-7681-4253-a670-8a5fec27169f",
+      "startIndex": 342,
+      "text": " الجمعة منتصف جمادى الآخرة سنة عشرة وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 261,
+      "guid": "46472476-e6fb-4f72-b731-f7e47202d8e6",
+      "startIndex": 248,
+      "text": "أبو العباس عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 398,
+      "guid": "4e6bd855-3462-414b-a7d3-81cfacfda00e",
+      "startIndex": 387,
+      "text": "الجامع بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 207,
+      "guid": "5978fd9f-bef2-4a62-aa5c-764e6eed9278",
+      "startIndex": 166,
+      "text": "أبو إسحق إبراهيم بن محاسن بن رسلان الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "634b8b13-c86a-4557-9fcd-056949ad8ab2",
+      "startIndex": 80,
+      "text": "جمال الدين أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "8a5efb34-285f-451e-8492-b9177c76e66e",
+      "startIndex": 286,
+      "text": "علي بن المظفر بن القاسم النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "951ce9ea-d719-4239-9084-bc610ba8ce7b",
+      "startIndex": 234,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "b8a71d21-ca8c-4d9e-9930-9154d1686e87",
+      "startIndex": 215,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 423,
+      "guid": "f3479582-d1c3-4628-8fa7-33e4868a5d2e",
+      "startIndex": 413,
+      "text": "خليل الحلبي",
+      "type": "person"
+    }
+  ],
+  "text": "وشاهدت ما مختصره سمع جميع هذا الجزء وهو الثامن من كتاب مكارم الأخلاق على القاضي جمال الدين أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري الحرستاني جماعة ثم قال وأبو إسحق إبراهيم بن محاسن بن رسلان الشافعي وابنه محمد ثم قال وابناي أبو بكر محمد وأبو العباس عمر بقراءة أبيهما والخط له علي بن المظفر بن القاسم النشبي وذلك في مجلسين آخرهما يوم الجمعة منتصف جمادى الآخرة سنة عشرة وستماية بالجامع بدمشق نقله على نصه خليل الحلبي"
+}

@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضل بن أحمد بن محمد الفراوي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "العوالي المائة من مسموعات الفراوي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 8"
+      ],
+      "catalog": [
+        "FMMU 172"
+      ],
+      "classmark": [
+        "3770/1"
+      ],
+      "folio_number": [
+        "2v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 237,
+      "guid": "11aff2d7-a96b-47af-aa4f-05366641c3ea",
+      "startIndex": 233,
+      "text": "الجبل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "668e48df-5da8-4f60-9b27-d987cbfb0c64",
+      "startIndex": 40,
+      "text": "محي الدين أحمد بن الشيخ شهاب الدين عبد الرحمن بن إسماعيل بن إبراهيم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 38,
+      "guid": "b7e178e1-6637-4216-a5ee-228a48380ac0",
+      "startIndex": 18,
+      "text": " أحمد بن فرج الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "28"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "663"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "d6d87410-b8f5-4f8d-b8c5-21a0fafae422",
+      "startIndex": 180,
+      "text": "الجمعة ثامن عشري جمادى الآخرة سنة ثلاث وستين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "f5561e0b-3000-4181-a28b-beee229b3c2f",
+      "startIndex": 117,
+      "text": "شمس الدين محمد بن الشيخ شمس الدين إسماعيل بن سودكين النوري",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها عليه بقراءة أحمد بن فرج الإشبيلي محي الدين أحمد بن الشيخ شهاب الدين عبد الرحمن بن إسماعيل بن إبراهيم المقدسي وشمس الدين محمد بن الشيخ شمس الدين إسماعيل بن سودكين النوري يوم الجمعة ثامن عشري جمادى الآخرة سنة ثلاث وستين وستمئة بالجبل"
+}

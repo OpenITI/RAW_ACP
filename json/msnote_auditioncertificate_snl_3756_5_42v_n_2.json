@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد المعروف بابن الغوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مجلس من إملاء الغوري "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 91"
+      ],
+      "classmark": [
+        "3756/5"
+      ],
+      "folio_number": [
+        "42v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 286,
+      "guid": "5e34e719-1863-4d49-8f04-4eb8bdc69ff9",
+      "index": 81,
+      "isZeroPoint": false,
+      "startIndex": 247,
+      "text": "ست العرب بنت علي بن محمد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 307,
+      "guid": "72578208-6d7e-47d7-a37a-fafd89e1db89",
+      "index": 82,
+      "isZeroPoint": false,
+      "startIndex": 295,
+      "text": "زينب بنت محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 512,
+      "guid": "9aabbc6c-cb74-4665-8a3a-b05c2ce566de",
+      "index": 85,
+      "isZeroPoint": false,
+      "startIndex": 461,
+      "text": "أحمد بن فرج بن أحمد بن محمد اللخمي الأندلسي الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "9ece9750-11b8-4f88-963c-0ff7a4042f8e",
+      "index": 80,
+      "isZeroPoint": false,
+      "startIndex": 146,
+      "text": "شهاب الدين أحمد بن الشيخ الإمام الفاضل شمس الدين أبي عبد الله محمد بن سلمان بن غانم المقدسي الهاشمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "d167f072-a3c9-458c-a1fc-16a0cdf1fd8b",
+      "index": 79,
+      "isZeroPoint": false,
+      "startIndex": 46,
+      "text": "زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 397,
+      "guid": "d6238caa-3c7c-4d3a-a840-8c98ae2d9463",
+      "index": 83,
+      "isZeroPoint": false,
+      "startIndex": 350,
+      "text": "مجلس الشيخ المسمع بجبل قاسيون ظاهر دمشق المحروسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 454,
+      "guid": "de89a1ae-d435-4363-bd55-5ff2da69ae3c",
+      "index": 84,
+      "isZeroPoint": false,
+      "startIndex": 402,
+      "text": "يوم الاثنين خامس شهر ربيع الآخر سنة خمس وستين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": " قرأت هذا الجزء جميعه على شيخنا الإمام العالم زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة المقدسي فسح الله في مدته بحق سماعه تراه فسمعه جميعه شهاب الدين أحمد بن الشيخ الإمام الفاضل شمس الدين أبي عبد الله محمد بن سلمان بن غانم المقدسي الهاشمي وست العرب بنت علي بن محمد بن أحمد المقدسي وبنتها زينب بنت محمد في الثانية من عمرها وصح ذالك [كذا] وثبت بمجلس الشيخ المسمع بجبل قاسيون ظاهر دمشق المحروسة في يوم الاثنين خامس شهر ربيع الآخر سنة خمس وستين وستماية كتبه أحمد بن فرج بن أحمد بن محمد اللخمي الأندلسي الإشبيلي والحمد لله وحده وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم تسليما"
+}

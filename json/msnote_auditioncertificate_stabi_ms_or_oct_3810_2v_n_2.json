@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عبد الله ابن الخطاب الرازي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "سداسيات في الحديث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. or. oct 3810"
+      ],
+      "folio_number": [
+        "2v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00020229"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "1c098a9a-f9aa-4dab-bc20-4037ddb3d767",
+      "startIndex": 137,
+      "text": "منصور بن سليم بن منصور الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 111,
+      "guid": "553c482a-0076-4c47-bbde-ae92e9c26a90",
+      "startIndex": 105,
+      "text": "بن موقا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "608dc86f-6b25-41ac-917e-617a7eb93a74",
+      "startIndex": 31,
+      "text": "أبي البركات هبة الله بن عبد الله بن أبي البركات بن زوين الأزدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "6a5c5456-8f3f-4951-90de-703dd5640077",
+      "startIndex": 122,
+      "text": " الرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "7782f7f3-9498-4d1b-9be2-7029dd5afa62",
+      "startIndex": 242,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 251,
+      "guid": "81684a91-dbed-44c1-845e-83522f5b5435",
+      "startIndex": 248,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "661"
+        ]
+      },
+      "endIndex": 217,
+      "guid": "a9bb9ca3-5bfa-4a99-8b1f-3546d9b59eff",
+      "startIndex": 181,
+      "text": "في جمادى الآخر سنة إحدى وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 409,
+      "guid": "fe4cc1b7-bba8-4395-9b40-f4f878241ab4",
+      "startIndex": 391,
+      "text": "محمد بن عزام الربعي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع هذا الجزء جميعه على الشيخ أبي البركات هبة الله بن عبد الله بن أبي البركات بن زوين الأزدي. بسماعه من بن موقا بسماعه من الرازي بقراءة منصور بن سليم بن منصور الشافعي، وكتب السماع في جمادى الآخر سنة إحدى وستين وستمائة ومن خطه اختصرت إلى هنا محمد وأحمد ولدا أبي الحسن بن عبد العزيز بن عبد الله الكُتامي المعروف بالمصفي وأجاز لهما جميع ما يرويه. وتحت ذلك تصحيح المسمع المذكور بخطه نقله وكتبه محمد بن عزام الربعي."
+}

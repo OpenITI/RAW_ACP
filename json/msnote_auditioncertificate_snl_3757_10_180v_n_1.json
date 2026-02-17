@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "آدم بن أبي إياس العسقلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث آدم بن أبي إياس العسقلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/10"
+      ],
+      "folio_number": [
+        "180v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "0876fe02-76b6-4651-b122-23dfd4798935",
+      "startIndex": 37,
+      "text": "عفيف الدين أبي الثناء محمود بن همام بن محمود الأنصاري الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 287,
+      "guid": "18ecd0b3-c199-4a8a-ac94-19269f0fdfce",
+      "startIndex": 239,
+      "text": "نجيب الدين أبي محمد عبد الرحيم ابن أبي بكر بن عمر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 451,
+      "guid": "7daf1d3a-b0dc-47cc-8a4a-901c40b36771",
+      "startIndex": 443,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "844d6656-ecbc-4e3c-a189-09b251287a6b",
+      "startIndex": 116,
+      "text": " أحمد بن عيسى بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 230,
+      "guid": "8d9dd9f6-f1bc-4052-8e87-19d1b859eae6",
+      "startIndex": 166,
+      "text": "زين الدين أبو الحسن علي بن أبي الفضل بن عبد الوهاب السلمي الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20-30"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "626"
+        ]
+      },
+      "endIndex": 378,
+      "guid": "a5837ebc-709a-41ce-a2de-9eda649f9996",
+      "startIndex": 297,
+      "text": "يوم الجمعة بعد الصلاة من العشر الأخير من جمادى الآخرة من سنة اثنتين وعشرين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الفقيه الإمام عفيف الدين أبي الثناء محمود بن همام بن محمود الأنصاري الدمشقي بسماعه فيه بقراءة أحمد بن عيسى بن عبد الله المقدسي وهذا خطه الفقيه زين الدين أبو الحسن علي بن أبي الفضل بن عبد الوهاب السلمي الحراني والشيخ نجيب الدين أبي محمد عبد الرحيم ابن أبي بكر بن عمر وصح ذلك يوم الجمعة بعد الصلاة من العشر الأخير من جمادى الآخرة من سنة اثنتين وعشرين وستماية والحمد لله وحده وصلى الله محمد وآله وسلم تسليما كثيرا والسماع بجامع دمشق"
+}

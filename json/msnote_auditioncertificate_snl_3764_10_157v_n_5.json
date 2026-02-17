@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 141"
+      ],
+      "classmark": [
+        "3764/10"
+      ],
+      "folio_number": [
+        "157v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 603,
+      "guid": "14535604-0170-4d39-bd9e-7be9fc893dba",
+      "startIndex": 595,
+      "text": "ابن شاذان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "2b0784ad-5e04-436c-9a7f-387df247b60c",
+      "startIndex": 172,
+      "text": " محمد بن جعفر بن ثاني التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "2e66c747-2336-41e1-a86f-f06399af5347",
+      "startIndex": 66,
+      "text": "أبي عبد الله محمد بن إبراهيم بن مسلم بن سلمان الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "4173a4d0-ebf6-4ef5-970d-0dbc23dbd304",
+      "startIndex": 269,
+      "text": "محمد بن [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "542e7d50-c264-42ce-93cc-3091789c0708",
+      "startIndex": 143,
+      "text": " أبي الحسن محمد بن [القتامي؟",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 421,
+      "guid": "6ec9d2f3-3092-4ba6-bedb-61f7025f3c3f",
+      "startIndex": 413,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "75a704c9-ec82-40d0-9c71-fd1aa74022be",
+      "startIndex": 132,
+      "text": "شهدة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "898b003a-176f-4da7-a875-e7aacbd5e692",
+      "startIndex": 54,
+      "text": "ابن المقير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 354,
+      "guid": "8bdd02ac-a4bb-49f9-a0d7-fac57de1c77d",
+      "startIndex": 326,
+      "text": "محمد بن علي بن محمود الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "a5c630ea-b8e7-4d41-bb6b-4e9595126ab8",
+      "startIndex": 226,
+      "text": "أحمد بن هبة الله بن أحمد بن محمد بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 323,
+      "guid": "b29e5022-77ea-4892-97eb-feb40bbb2efc",
+      "startIndex": 284,
+      "text": "إبراهيم بن الشيخ أبي طالب الواسطي المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "628?"
+        ]
+      },
+      "endIndex": 410,
+      "guid": "ba8646c5-d51e-4e52-be4e-f2bfd626a3f5",
+      "startIndex": 376,
+      "text": "الخميس تاسع المحرم سنة [... وستمية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "e7b10ce3-19f6-4d29-ae6c-8096fbc693b9",
+      "startIndex": 208,
+      "text": " نور الهدى فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 590,
+      "guid": "fdaae51d-1928-4960-854f-bbde960d55ad",
+      "startIndex": 581,
+      "text": "ابن البسري",
+      "type": "person"
+    }
+  ],
+  "text": "وعلى النسخة المذكورة أيضا ما تلخيصه وسمعه على الشيخين ابن المقير وأبي عبد الله محمد بن إبراهيم بن مسلم بن سلمان الإربلي بسماعهما من شهدة بقراءة أبي الحسن محمد بن [القتامي؟] محمد بن جعفر بن ثاني التميمي وابنته نور الهدى فاطمة وأحمد بن هبة الله بن أحمد بن محمد بن عساكر ومحمد بن [...] وإبراهيم بن الشيخ أبي طالب الواسطي المقرئ ومحمد بن علي بن محمود الصابوني وبخطه السماع في يوم الخميس تاسع المحرم سنة [... وستمية] بجامع دمشق وسمع الجماعة المسمين بالقراءة والتاريخ على الشيخ أبي عبد الله محمد بن إبراهيم الإربلي حسب جميع الجزء الثاني من حديث [...] يعرف بفوائد الحاج بسماعه من شهدة عن ابن البسري عن ابن شاذان عنه"
+}

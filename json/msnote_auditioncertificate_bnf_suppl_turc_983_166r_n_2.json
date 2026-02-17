@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "ذكر صلاة المصطفى خلف أبي بكر الصديق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "166r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f170.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f170.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "380073e9-cefe-4513-9a7d-c0d4b6db4852",
+      "index": 331,
+      "isZeroPoint": false,
+      "startIndex": 50,
+      "text": "شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد بن احمد بن عبد الرحمن المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 214,
+      "guid": "38600333-d1bc-48ca-b297-6ed1f1cf1c35",
+      "index": 332,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "محاسن بن محمد بن المسلم بن سلامة بن البهاء الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 398,
+      "guid": "6e26bfbb-3954-44d5-bce2-242114130702",
+      "index": 336,
+      "isZeroPoint": false,
+      "startIndex": 380,
+      "text": "دار الحديث الضيائية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "651"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "85c9bcc8-1d97-420a-8566-5b78f1e2caca",
+      "index": 335,
+      "isZeroPoint": false,
+      "startIndex": 291,
+      "text": "يوم الأربعاء العشرين من شهر شعبان من سنة إحدى وخمسين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "8df4fabb-00cb-4bac-82fa-84090a8c658c",
+      "index": 333,
+      "isZeroPoint": false,
+      "startIndex": 237,
+      "text": "نصر الله بن منصور بن نصر الله السوادي ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العالم الحافظ شمس الدين أبي عبد الله محمد بن عبد الرحيم بن عبد الواحد بن احمد بن عبد الرحمن المقدسي بقراءة كاتبه الفقير إلى الله محاسن بن محمد بن المسلم بن سلامة بن البهاء الحراني عفا الله عنه والفقيه نصر الله بن منصور بن نصر الله السوادي وصح ذلك وثبت في يوم الأربعاء العشرين من شهر شعبان من سنة إحدى وخمسين وستماية بظاهر دمشق بسفح جبل قاسيون بدار الحديث الضيائية [في الأصل الظيائية] إلى جنب الجامع المظفري والحمد لله وحده وصلى الله على سيدنا محمد وآله"
+}

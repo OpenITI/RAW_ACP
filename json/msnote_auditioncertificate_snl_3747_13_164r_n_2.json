@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن عبيد الله بن عبد الله السمسار الحرفي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي القاسم الحرفي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 51 "
+      ],
+      "classmark": [
+        "3747/13"
+      ],
+      "folio_number": [
+        "164r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "10770f1c-2b64-4556-a3dd-fbbda60fb511",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 50,
+      "text": " ابن عيسى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "1ac8421a-831f-4879-8cb9-dc6e82605c9b",
+      "index": 64,
+      "isZeroPoint": false,
+      "startIndex": 221,
+      "text": "محمد بن عبد الله المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "574"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "6c6ae39b-64f3-4e1e-8204-3bfecc701663",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 156,
+      "text": "تاسع شهر رمضان سنة أربع وسبعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "74946f98-49d0-46e0-9094-95a99ea14e5e",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 66,
+      "text": "عبد الجبار ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 43,
+      "guid": "96d05585-635f-4d7f-bd36-2a5d8c1fcf86",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 37,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "cd4c79ec-a207-4bc8-80ff-f5d61fb70755",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 78,
+      "text": "أبو الحرم مكي الحاسب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "alexandria"
+          ]
+        ]
+      },
+      "endIndex": 207,
+      "guid": "f7884f82-6dee-4df5-8b09-0edcd64d1ff6",
+      "index": 63,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "الإسكندرية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "fa64e636-389c-4643-9434-184b559875e2",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 105,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "ff7143f2-d83a-40dc-a825-284b2d0aa692",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 142,
+      "text": "جعفر الهمداني",
+      "type": "person"
+    }
+  ],
+  "text": " على نسخة بهذا الجزء سمعه على الحافظ السلفي بقراءة ابن عيسى صاحبه عبد الجبار وأبو الحرم مكي الحاسب وولده عبد الرحمن حضورا وآخرون وكاتب السماع جعفر الهمداني تاسع شهر رمضان سنة أربع وسبعين وخمس ماية بالإسكندرية نقله مختصرا محمد بن عبد الله المقدسي"
+}

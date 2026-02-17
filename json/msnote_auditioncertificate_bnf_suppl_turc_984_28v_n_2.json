@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "28v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f30.item.r=%22turc%20984%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "31a24140-5267-4ec1-bc18-180d5a57367c",
+      "index": 377,
+      "isZeroPoint": false,
+      "startIndex": 56,
+      "text": "أبو طاهر بركات ابن إبراهيم بن طاهر الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 27,
+      "guid": "754a85b5-41b1-4bd8-87ef-42a8b0b23e55",
+      "index": 375,
+      "isZeroPoint": false,
+      "startIndex": 10,
+      "text": "عبد الكريم بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "8"
+        ],
+        "year": [
+          "519"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "aa4ab532-9651-4930-911a-dc36e2e38c68",
+      "index": 378,
+      "isZeroPoint": false,
+      "startIndex": 102,
+      "text": "شعبان سنة تسع عشرة وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "f577139d-1b55-4bd9-8fc2-7717f7fbc679",
+      "index": 376,
+      "isZeroPoint": false,
+      "startIndex": 36,
+      "text": "أبي القاسم بن عساكر",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على عبد الكريم بن حمزة بقراءة أبي القاسم بن عساكر أبو طاهر بركات ابن إبراهيم بن طاهر الخشوعي في شعبان سنة تسع عشرة وخمسماية."
+}

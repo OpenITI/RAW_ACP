@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد جعفر بن أحمد بن الحسين السراج القارئ "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفوائد المنتخبة الصحاح العوالي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 165"
+      ],
+      "classmark": [
+        "3768/14"
+      ],
+      "folio_number": [
+        "206r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 66,
+      "guid": "21dd4b34-5aca-4a24-afb1-c6f0093ba626",
+      "startIndex": 48,
+      "text": "علي بن الأخوة البيع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 39,
+      "guid": "8790f30c-ae2c-4797-8188-db3429736d0e",
+      "startIndex": 1,
+      "text": "أبو الفتوح محمد بن أحمد بن أحمد الزوزني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "497"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "c57b799c-19e6-473d-9d32-21a0284430bf",
+      "startIndex": 71,
+      "text": "سلخ شعبان سنة سبع وتسعين وأربعمائة",
+      "type": "date"
+    }
+  ],
+  "text": "وأبو الفتوح محمد بن أحمد بن أحمد الزوزني بقراءة علي بن الأخوة البيع في سلخ شعبان سنة سبع وتسعين وأربعمائة"
+}

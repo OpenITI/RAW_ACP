@@ -1,0 +1,357 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "45r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 385,
+      "guid": "244fcf67-9c53-4887-be18-6fdea0332c1f",
+      "startIndex": 379,
+      "text": "إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 616,
+      "guid": "2f13086b-e7e0-4ef8-842b-9946af940ad5",
+      "startIndex": 597,
+      "text": " علي بن أحمد بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 616,
+      "guid": "36cc54ba-2ace-46df-9399-1d49157dccdc",
+      "startIndex": 588,
+      "text": "أبي الحسن علي بن أحمد بن قبيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 736,
+      "guid": "5dfa9d25-b0c8-4176-adae-b785e316f7a3",
+      "startIndex": 723,
+      "text": "أبو زكريا يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 362,
+      "guid": "637f1c9f-ed5e-4c6b-a062-429c2f474297",
+      "startIndex": 358,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 687,
+      "guid": "716021f1-f27b-46bd-966a-854585b82b31",
+      "startIndex": 648,
+      "text": "أبو محمد عبد الرحمن المعروف بابن أبي نصر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 747,
+      "guid": "87e9a7bc-c397-4010-ab5d-7bef8e886dfc",
+      "startIndex": 741,
+      "text": "بن بكير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "8eb0f11b-a401-4fee-a39b-ab0342735ff7",
+      "startIndex": 209,
+      "text": "المنصور بن مدافع بن عزيز المغراوي الزناتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 713,
+      "guid": "92572c5d-0eb1-4cf1-8baf-acfe9ba5c671",
+      "startIndex": 697,
+      "text": "أبو يعقوب الأذرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "98811df2-16f9-494c-85a2-92b980d31ece",
+      "startIndex": 273,
+      "text": "أبو محمد عبد الله بن عمر بن عبد الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 141,
+      "guid": "a2d7b27f-b65a-4c43-9ab5-95588edd7c71",
+      "startIndex": 122,
+      "text": " أبو محمد عبد المنعم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "559"
+        ]
+      },
+      "endIndex": 523,
+      "guid": "d536271b-4738-45dd-a5a3-95db639c19c4",
+      "startIndex": 462,
+      "text": "الأربعاء رابع يوم من ذي القعدة الذي من سنة تسع وخمسين وخمسمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "dc6846f3-0651-43d8-8522-4e4feb041f54",
+      "startIndex": 167,
+      "text": "أبو طاهر عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 377,
+      "guid": "deedda6c-d865-4b8a-96e3-6318a8a53c62",
+      "startIndex": 370,
+      "text": "إبراهيم ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 343,
+      "guid": "e36347e3-8a61-4b24-a554-51c0ad031190",
+      "startIndex": 324,
+      "text": " علي بن سرور الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 88,
+      "guid": "ed520215-546a-44de-bb41-8f4d28177ab9",
+      "startIndex": 60,
+      "text": "عز الدين الخضر بن شبل الحارثي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء من أوله إلى آخره على الشيخ الأمام الأوحد عز الدين الخضر بن شبل الحارثي أدام الله عزه ولديه الشيخ الفقيه أبو محمد عبد المنعم سدده الله والشيخ الفقيه أبو طاهر عبد الله وفقه الله والشيخ الفقيه المنصور بن مدافع بن عزيز المغراوي الزناتي بقراءته والشيخ الفقيه أبو محمد عبد الله بن عمر بن عبد الله الشافعي والشيخ علي بن سرور الشافعي وكاتب السماع محمد وأخويه إبراهيم وإسماعيل أولاد الفقيه عبد الوهاب بن عيسى بن محمد بن عيسى الرجازي المالكي القيسي يوم الأربعاء رابع يوم من ذي القعدة الذي من سنة تسع وخمسين وخمسمائة وقت المعارضة بنسخة فيها ذكر سماعه [في الأصل السماعه] من الفقيه أبي الحسن علي بن أحمد بن قبيس رحمه الله قال أنا أبي قال أنا أبو محمد عبد الرحمن المعروف بابن أبي نصر قال أنا أبو يعقوب الأذرعي قال أنا أبو زكريا يحيى عن بن بكير وصح وثبت والحمد لله وحده وصلى الله على محمد وآله"
+}

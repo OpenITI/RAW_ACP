@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم علي بن الحسن بن هبة الله الشافعي ابن عساكر "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "حديث أهل حردان "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 182"
+      ],
+      "classmark": [
+        "3771/16"
+      ],
+      "folio_number": [
+        "185r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "788"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "29c70461-3b0a-4294-88e0-44ac10797388",
+      "startIndex": 77,
+      "text": "محرم سنة ثمان وثمانين [وسبعمائة]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "2c3aabeb-c9ec-4a5b-9ecf-e97d7b8f634c",
+      "startIndex": 24,
+      "text": "أبو عبد الله محمد بن أبي النصر بن عثمان العنبتاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 22,
+      "guid": "eb6dd18b-7c5e-4b73-a8ce-1e9aaf57fa97",
+      "startIndex": 13,
+      "text": "عبد القادر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "f859f64b-cf14-4c53-80a9-dc8305602059",
+      "startIndex": 115,
+      "text": "محمد ابن المحب",
+      "type": "person"
+    }
+  ],
+  "text": "قرأه عليّ عن عبد القادر أبو عبد الله محمد بن أبي النصر بن عثمان العنبتاوي في محرم سنة ثمان وثمانين [وسبعمائة] كتبه محمد ابن المحب"
+}

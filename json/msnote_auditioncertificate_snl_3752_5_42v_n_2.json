@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو زرعة الدمشقي عبد الرحمن بن عمرو بن عبد الله بن صفوان النصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي زرعة الدمشقي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 68 "
+      ],
+      "classmark": [
+        "3752/5"
+      ],
+      "folio_number": [
+        "42v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "735"
+        ]
+      },
+      "endIndex": 305,
+      "guid": "1b2c0adb-7463-411f-8ac6-705bab2eba70",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 254,
+      "text": "يوم الجمعة ثاني جمادى الأولى سنة خمس وثلاثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "36d130a2-154f-4574-a726-aa4c4a15dcbf",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 231,
+      "text": "عبد الصمد بن الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "4d1d8fde-9efb-44b8-9e9d-7ece3c6e08c3",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "أبي الحجاج يوسف بن الزكي عبد الرحمن المزي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 314,
+      "guid": "a47277dc-d6da-48f4-9f58-8cdfef3fb4c4",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 308,
+      "text": "الكلاسة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "c15c860a-3878-4ab7-9ec0-3d28d27858a7",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 176,
+      "text": "الكمال عبد الرحمن بن أحمد بن عباس الفاقوسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "d1d61668-ac2c-4d19-b21e-d7d25da7845e",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 83,
+      "text": "الرشيد أبي عبد الله محمد بن أبي بكر محمد بن محمد بن سلمان العامري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 361,
+      "guid": "d3b95a94-cf7c-4874-bee2-0f8bf056dd75",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 321,
+      "text": "محمد بن عبد الله بن أحمد بن المحب المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأته على الشيخ الإمام الحافظ أبي الحجاج يوسف بن الزكي عبد الرحمن المزي بسماعه من الرشيد أبي عبد الله محمد بن أبي بكر محمد بن محمد بن سلمان العامري وإجازته إن لم يكن سماعا من الكمال عبد الرحمن بن أحمد بن عباس الفاقوسي بسماعهما من عبد الصمد بن الحرستاني يوم الجمعة ثاني جمادى الأولى سنة خمس وثلاثين وسبعمية بالكلاسة كتبه محمد بن عبد الله بن أحمد بن المحب المقدسي "
+}

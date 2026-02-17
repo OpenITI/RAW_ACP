@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أمية بن أبي الصلت"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "قصيدة لأمية بن أبي الصلت"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 139"
+      ],
+      "classmark": [
+        "3764/6"
+      ],
+      "folio_number": [
+        "67r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "defaultLabel": "Place1",
+      "guid": "2f324892-1360-4ed0-87d0-86bb63975781",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami",
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "32b5a24b-117e-4ddd-b7e8-9cfd7cd31716",
+      "startIndex": 214,
+      "text": "يوسف بن عبدالهادي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "60c1a1dc-64d0-4ef3-9096-4ec37f594849",
+      "startIndex": 53,
+      "text": "بو بكر عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 38,
+      "guid": "8039a624-3ae6-430a-adbd-37d0afec3761",
+      "startIndex": 29,
+      "text": "عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "30"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "897"
+        ]
+      },
+      "endIndex": 134,
+      "guid": "ce86cfdf-92a7-45bc-a188-56d55c17f899",
+      "startIndex": 82,
+      "text": "الخميس آخر شهر جمادى الأولى سنة سبع و تسعين وثمانمائة",
+      "type": "date"
+    }
+  ],
+  "text": "الحمد لله سمعها من لفظي ولدي عبد الهادي وبعضها أخوه أبو بكر عبد الله و صح ذلك يوم الخميس آخر شهر جمادى الأولى سنة سبع و تسعين وثمانمائة وأجزت له ولبقية إخوتهما أن يرووه عني و جميع ما يجوز لي وعني روايته بشرطه وكتب يوسف بن عبدالهادي "
+}

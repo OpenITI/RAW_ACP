@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "69v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "3f5c1761-12ce-4288-a7c1-f75ef227eed1",
+      "startIndex": 40,
+      "text": "جمال الدين المحمودي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "4bd3b8fc-e42b-47ea-b311-60adf08bd3e4",
+      "startIndex": 222,
+      "text": "محمود بن أبي بكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 121,
+      "guid": "7e4802c2-31e6-4c65-bb9b-884d778c980c",
+      "startIndex": 78,
+      "text": " صفي الدين جوهر بن عبد الله الظهيري التفليسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 188,
+      "guid": "8fa47496-55c3-45b0-897b-cad92132d815",
+      "startIndex": 136,
+      "text": "السبت سابع عشري ذي القعدة من سنة ثمان وسبعين وستماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "nuriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 215,
+      "guid": "d99bd99b-1f66-4b07-b3cd-416177c9901e",
+      "startIndex": 199,
+      "text": "دار السنة النورية",
+      "type": "place"
+    }
+  ],
+  "text": "ثم قرأت جميع هذا الجزء على شيخنا الحافظ جمال الدين المحمودي بسنده فسمع الطواشي صفي الدين جوهر بن عبد الله الظهيري التفليسي وصح وثبت يوم السبت سابع عشري ذي القعدة من سنة ثمان وسبعين وستماية بمنزله من دار السنة النورية كتبه محمود بن أبي بكر "
+}

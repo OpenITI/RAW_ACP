@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        "FMMU 80"
+      ],
+      "classmark": [
+        "3754/18"
+      ],
+      "folio_number": [
+        "197v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "karkh"
+          ]
+        ]
+      },
+      "endIndex": 190,
+      "guid": "292b2b55-ffa9-4971-8880-a3700253b7bd",
+      "index": 174,
+      "isZeroPoint": false,
+      "startIndex": 186,
+      "text": "الكرخ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "6bba87f4-89d1-4037-b21d-3ae923067eec",
+      "index": 170,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "أبي البدر إبراهيم بن محمد الكرخي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "year": [
+          "538"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "a71dd5c7-8de8-4d1a-b17f-506030075460",
+      "index": 173,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "سنة ثمان وثلين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "b4878375-5cd5-4aeb-83bc-14fb7f4661c8",
+      "index": 172,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "أحمد بن صالح بن شافع الجيلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "fa55d08d-9cd7-48ae-acbc-b5778f2ed56e",
+      "index": 171,
+      "isZeroPoint": false,
+      "startIndex": 77,
+      "text": "أبو دلف حيدرة بن محمد بن حمدان [المغلي؟]",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء أجمع على الشيخ أبي البدر إبراهيم بن محمد الكرخي فسمعه الرئيس أبو دلف حيدرة بن محمد بن حمدان [المغلي؟] وكتب أحمد بن صالح بن شافع الجيلي سنة ثمان وثلين وخمسماية في [محلة؟] الكرخ"
+}

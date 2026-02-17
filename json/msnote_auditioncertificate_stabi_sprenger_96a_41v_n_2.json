@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96a"
+      ],
+      "folio_number": [
+        "41v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00062119"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "4dedc5bd-e68f-4d06-b5ad-aad84bc148bb",
+      "startIndex": 178,
+      "text": "هذا صحيح وكتب محمد [بن حمد الأرتاحي]",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "8739eafd-dbd8-46fb-b7aa-0422045183ea",
+      "startIndex": 29,
+      "text": "أبي عبد الله محمد [بن حمد]\nالأرتاحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1-10"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "587"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "bc2382a1-3bbf-48f0-b8f3-c9d224401d95",
+      "startIndex": 129,
+      "text": "في العشر الأول من صفر من سنة سبع وثمانين وخمسمئة",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت على الشيخ الصالح المحدث أبي عبد الله محمد [بن حمد]\nالأرتاحي رضي الله عنه بالسند المذكور فيه جميع الجزء وكتب [.............]\nفي العشر الأول من صفر من سنة سبع وثمانين وخمسمئة\nهذا صحيح وكتب محمد [بن حمد الأرتاحي]"
+}

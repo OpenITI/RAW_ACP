@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد الأصبهاني السلفي"
+      ],
+      "work_title": [
+        "حديث المصافحة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 19"
+      ],
+      "classmark": [
+        "3739/9"
+      ],
+      "folio_number": [
+        "80r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "1281353d-2f1d-4c9d-9e73-d9dea782f46e",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 120,
+      "text": "السلفي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "13fae41c-e7a8-408c-bede-05c067f12c36",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 201,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "1ebde146-4385-48c0-a58d-d219577ab7a9",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 277,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "2fc5fc5e-b992-43b3-a291-9c15f242202a",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 188,
+      "text": "أبو المحاسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 301,
+      "guid": "4c05768b-da99-4ca2-b4c4-ac341813c7ae",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 283,
+      "text": "أحمد بن محمد الجزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 176,
+      "guid": "4fae9195-5a51-44b2-8b67-94985a19b81e",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 134,
+      "text": "أبي العباس أحمد بن عبد الله بن شعيب التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "635"
+        ]
+      },
+      "endIndex": 430,
+      "guid": "5617f3bb-490d-4262-b260-b2fa34fb4471",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 396,
+      "text": "تاسع عشري رجب سنة خمس وثلثين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 269,
+      "guid": "63532b15-cd44-4907-b4ab-cb60eae53485",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 238,
+      "text": "أبو حامد محمد بن علي بن الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 337,
+      "guid": "8257feee-38fc-40e8-b8f4-104ec1310db2",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 304,
+      "text": "عمر بن عبد الرحمن بن أحمد الشيرازي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 372,
+      "guid": "b4c0232b-172c-4478-8be8-faecd11e8d10",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 352,
+      "text": "إبراهيم بن عمر القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 441,
+      "guid": "b9bbd8e0-2053-472d-bed6-fc5bfae741e3",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 433,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "e6d010e1-c1d7-4daf-a575-abcfd6051434",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "أبي الحسن علي بن محمد بن عبد الصمد السخاوي",
+      "type": "person"
+    }
+  ],
+  "text": " وعليه أيضا ما مختصره سمع جميع هذا الحديث على الشيخ الإمام العلامة أبي الحسن علي بن محمد بن عبد الصمد السخاوي بسماعه من السلفي بقراءة أبي العباس أحمد بن عبد الله بن شعيب التميمي ابنا أخته أبو المحاسن وعبد الرحمن ابنا أبي الحرم بن الخرقي وأبو حامد محمد بن علي بن الصابوني وابنه أحمد وأحمد بن محمد الجزري وعمر بن عبد الرحمن بن أحمد الشيرازي وكاتب السماع إبراهيم بن عمر القرشي وصح لهم بشرطه وذلك في تاسع عشري رجب سنة خمس وثلثين وستمية بجامع دمشق [...]"
+}

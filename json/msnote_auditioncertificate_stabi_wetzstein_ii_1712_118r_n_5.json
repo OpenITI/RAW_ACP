@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه ثلاثة وثلاثون حديثا"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 5"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Wetzstein II 1712"
+      ],
+      "folio_number": [
+        "118r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.refaiya.uni-leipzig.de/receive/DE1Book_manuscript_00066928"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 133,
+      "guid": "04effed0-c3f5-4dee-b44c-a04738141dd3",
+      "startIndex": 97,
+      "text": "علي بن الشجاع عبد الرحمن بن أبي الفتح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 39,
+      "guid": "291e4192-6502-46c8-a7b9-b62564061b60",
+      "startIndex": 24,
+      "text": "الشمس بن المهندس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "4f2249a6-34ab-42a6-8a6a-bf1726544651",
+      "startIndex": 53,
+      "text": "محمد بن إبراهيم بن محمد بن إسماعيل البقال،",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "18"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "687"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "5511e82e-419d-4b2d-be32-a95708df5a3d",
+      "startIndex": 148,
+      "text": "يوم الإثنين ثامن عشر شوال سنة سبع وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 15,
+      "guid": "616cf441-f135-44ec-ac53-b0b104d083bc",
+      "startIndex": 11,
+      "text": "الفخر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 237,
+      "guid": "ebc8cda8-1738-476d-a4ab-5206d819a4ac",
+      "startIndex": 202,
+      "text": "أحمد بن تقي الدين عبد الله بن الصارم",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعنا على الفخر بقراءة الشمس بن المهندس، وكتب الأجل محمد بن إبراهيم بن محمد بن إسماعيل البقال، وعلي بن الشجاع عبد الرحمن بن أبي الفتح، وآخرون عشية يوم الإثنين ثامن عشر شوال سنة سبع وثمانين وستمئة نقله أحمد بن تقي الدين عبد الله بن الصارم ومن خطه مختصر."
+}

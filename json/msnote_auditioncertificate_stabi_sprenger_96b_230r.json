@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الملك ابن هشام"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "السيرة النبوية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 96b"
+      ],
+      "folio_number": [
+        "230r"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1769442294/1200/0/00000465.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        "7982a723-56f9-4789-8f4b-0b1414e202b7"
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00010967"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "0ffc2f6e-f4ea-41aa-adaa-b1c001ee9edc",
+      "startIndex": 79,
+      "text": "أبي عبد الله [محمد بن إسماعيل] ابن أحمد بن أبي الفتح المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 221,
+      "guid": "2adeff6d-d9a8-46f0-ae3f-009d715156d1",
+      "startIndex": 201,
+      "text": " تحت النسر بجامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 812,
+      "guid": "2f6d592b-7b95-4d7d-b8ef-86724eca0869",
+      "startIndex": 783,
+      "text": "محمد بن محمد ابن رحمة الدمشقي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 422,
+      "guid": "3944cd11-9678-480e-a66a-f8e92fa3caec",
+      "startIndex": 419,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 519,
+      "guid": "3b5983bc-bea3-4556-acd6-57b41835f5f9",
+      "startIndex": 494,
+      "text": "موسى [بن] أبي بكر بن خشنام",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "69cff026-5b78-4d45-af3a-655793fbecf2",
+      "startIndex": 154,
+      "text": "ابن حيدرة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 942,
+      "guid": "6c2c6adf-3e55-48da-b6c1-f4f9e77cf60c",
+      "startIndex": 871,
+      "text": "عبد المؤمن بن خلف بن أبي الحـ[ـسن] ابن الخضر بن موسى التُوني ثم الدمياطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 710,
+      "guid": "6c977f9c-be55-4569-a877-935bd04348c4",
+      "startIndex": 656,
+      "text": "عبد الله بن نصر الله بن أبي العزيز بن أبي طالب الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 647,
+      "guid": "7a29c4df-74bf-4f6d-9eb9-dbe9191d6161",
+      "startIndex": 644,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "8"
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "653"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "833ee4c5-9b1f-48cd-aa80-c3c4c49223aa",
+      "startIndex": 229,
+      "text": "يوم الاثنين الثامن من شهر رمضان سنة ثلاث وخمسين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 635,
+      "guid": "839cc3f0-8bbd-49ad-98c4-0b2d52ae4c01",
+      "startIndex": 597,
+      "text": "شمس الدين علي بن محمود بن علي الشهرزوري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 411,
+      "guid": "9ccddb0d-648d-46d6-82a4-2f79d186e2f2",
+      "startIndex": 319,
+      "text": "نجم الدين أبو بكر محمد بن القاضي الإمام صدر الدين أبي العباس أحمد بن يحيى بن هبة الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 721,
+      "guid": "a0bfb137-31c7-40c3-a933-1f788ca83f24",
+      "startIndex": 718,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 469,
+      "guid": "b3902f63-03e4-45e6-a657-9cddd0d58e63",
+      "startIndex": 425,
+      "text": "محيي الدين عمر بن موسى بن عمر بن موسى الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 849,
+      "guid": "c8b42750-ecfc-4f9c-b96b-7ebf9c971352",
+      "startIndex": 814,
+      "text": "أحمد بن محمد بن عـ[...] ابن الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 653,
+      "guid": "d8194c77-44ba-4651-9ede-bb24a973ea4b",
+      "startIndex": 650,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 594,
+      "guid": "e08fed0c-f695-46de-8805-73f783e40f59",
+      "startIndex": 529,
+      "text": "شهاب الدين أحمد ولد الأمير الكبير المجاهد جمال الدين موسى ين يغمور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 765,
+      "guid": "e891c073-62ee-4c6d-abdf-243457a9cbd3",
+      "startIndex": 724,
+      "text": "زين الدين محمد بن محمد بن أبي بكر الأسعردي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع سيرة النبي صلى الله عليه وسلم وهي عشر مجلدات من هذه النسخة على الشيخ أبي عبد الله [محمد بن إسماعيل] ابن أحمد بن أبي الفتح المقدسي بسماعه فيه من ابن حيدرة بسنده في عشرة مجالس كل مجلدة في ميعاد تحت النسر بجامع دمشق آخرها يوم الاثنين الثامن من شهر رمضان سنة ثلاث وخمسين وستمئة وسمعها جمع كثير منهم القاضي الإمام نجم الدين أبو بكر محمد بن القاضي الإمام صدر الدين أبي العباس أحمد بن يحيى بن هبة الله الشافعي وولده محمد ومحيي الدين عمر بن موسى بن عمر بن موسى الشافعي قاضي غزة كان وابن أخته موسى [بن] أبي بكر بن خشنام والأمير شهاب الدين أحمد ولد الأمير الكبير المجاهد جمال الدين موسى ين يغمور وشمس الدين علي بن محمود بن علي الشهرزوري وولداه محمد وأحمد وعبد الله بن نصر الله بن أبي العزيز بن أبي طالب الشيباني وولده محمد وزين الدين محمد بن محمد بن أبي بكر الأسعردي وأبو علي [...] ومحمد بن محمد ابن رحمة الدمشقي وأحمد بن محمد بن عـ[...] ابن الصابوني وآخرون كثيرون وكتب  عبد المؤمن بن خلف بن أبي الحـ[ـسن] ابن الخضر بن موسى التُوني ثم الدمياطي عفا الله عنه والحمد لله وحده وصلواته على سيدنا محمد وآله وصحبه وسلامه وحسبنا الله ونعم الوكيل."
+}

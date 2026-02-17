@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن أبي الدنيا عبد الله بن محمد بن عبيد القرشي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب اليقين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 142"
+      ],
+      "classmark": [
+        "3764/12"
+      ],
+      "folio_number": [
+        "177v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "01174b6a-ff05-4b2c-9d57-e297e1cfc0fb",
+      "startIndex": 216,
+      "text": "محمد بن عبد الله بن عبد الغني بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "2528c857-afa0-4449-813f-aa5825fe2dc9",
+      "startIndex": 51,
+      "text": " ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "632"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "76ae218d-9898-4727-8046-f7867084bc32",
+      "startIndex": 149,
+      "text": "السبت تاسع عشرين ربيع الأول سنة اثنتين وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 209,
+      "guid": "77d7514d-aa95-4513-8c70-e85690079467",
+      "startIndex": 205,
+      "text": "منزله",
+      "type": "place"
+    }
+  ],
+  "text": "قرأت هذا الجزء جميعه على الشيخ الإمام العالم الحافظ ضياء الدين أبي عبد الله محمد بن عبد الواحد بن أحمد المقدسي أثابه الله بسماعه فيه وصح وثبت في يوم السبت تاسع عشرين ربيع الأول سنة اثنتين وثلاثين وستمائة بمنزله كتبه محمد بن عبد الله بن عبد الغني بن عبد الواحد المقدسي عفا الله عنه والحمد لله وحده وصلى الله على سيدنا محمد وآله وسلم "
+}

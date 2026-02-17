@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن محمد بن إسماعيل الصفار البلخي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث محمد بن سنان القزاز عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 82"
+      ],
+      "classmark": [
+        "3755/1"
+      ],
+      "folio_number": [
+        "5v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "20-30"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "667"
+        ]
+      },
+      "endIndex": 747,
+      "guid": "0d02e251-ec87-46f8-84b1-37e8bbef95b6",
+      "startIndex": 691,
+      "text": "العشر الأخر من شهر جمادى الآخرة من سنة سبع وستين وستماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 833,
+      "guid": "0fa8f220-b2fd-4c38-a908-b7efeaa917a5",
+      "startIndex": 795,
+      "text": "محمد بن أبي الفتح بن أبي الفضل البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "1347044b-b8b6-4e1b-b156-808197a98f64",
+      "startIndex": 52,
+      "text": "فخر الدين أبي محمد عبد الرحمن بن يوسف بن محمد البعلبكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "191eeef2-7378-4b53-8bc9-a9c4b34f2475",
+      "startIndex": 268,
+      "text": " أبي القاسم إسماعيل بن أحمد بن عمر السمرقندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 524,
+      "guid": "3b0321c6-de5a-44dc-bfd5-3b95cb625808",
+      "startIndex": 521,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 442,
+      "guid": "3c861230-517a-4a73-beee-bef4881676a4",
+      "startIndex": 388,
+      "text": "تقي الدين أبو إسحق إبراهيم بن علي بن علي الدمشقي المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "ibn-manja_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 788,
+      "guid": "4207db89-ed4d-4710-8b34-307e723bb4d9",
+      "startIndex": 749,
+      "text": "مدرسة الصدر بن المنجا بدرب الريحان بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 529,
+      "guid": "4cdfb8ed-e9e7-4c0e-905f-f6e5649e937a",
+      "startIndex": 527,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 455,
+      "guid": "604c5502-4036-4abe-8789-806cac3c0397",
+      "startIndex": 451,
+      "text": "داوود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 509,
+      "guid": "605ce82d-2dd8-430e-9c57-ab31f3790be0",
+      "startIndex": 466,
+      "text": "أبو عبد الله محمد بن أبي بكر بن محمد بن أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 644,
+      "guid": "71991995-6874-4ac7-bf6f-fd0c3cadef4a",
+      "startIndex": 560,
+      "text": "أم الخير فاطمة بنت الشيخ الإمام العالم العامل شرف الدين محمود بن محمد بن أحمد الباذقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 341,
+      "guid": "a320ceeb-4346-4cd6-b323-0e92df184db4",
+      "startIndex": 323,
+      "text": "أبي الخطاب بن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 463,
+      "guid": "d533a5e1-2a3a-4662-8445-11ed1de334d0",
+      "startIndex": 458,
+      "text": "سليمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "d917ce1e-171a-45bb-ad0b-adaa1bd33500",
+      "startIndex": 191,
+      "text": "أبي طاهر إبراهيم بن محمد بن أحمد بن حمدية العكبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "ed33abd0-3c56-48c1-b641-fdaf97ffacb8",
+      "startIndex": 128,
+      "text": "بهاء الدين عبد الرحمن بن إبراهيم بن أحمد المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على شيخنا الإمام العالم العامل فخر الدين أبي محمد عبد الرحمن بن يوسف بن محمد البعلبكي بسماعه فيه من الفقيه بهاء الدين عبد الرحمن بن إبراهيم بن أحمد المقدسي بسماعه فيه من أبي طاهر إبراهيم بن محمد بن أحمد بن حمدية العكبري [في الأصل حمدويه] بسماعه من أبي القاسم إسماعيل بن أحمد بن عمر السمرقندي بسماعه من أبي الخطاب بن البطر المذكور في أول الجزء على ما ذكر فسمعه الفقيه تقي الدين أبو إسحق إبراهيم بن علي بن علي الدمشقي المقرئ وأخواه داوود وسليمان وأبو عبد الله محمد بن أبي بكر بن محمد بن أحمد وابنا عمه محمد وعلي ابنا يوسف بن محمد وابنة عمهم أم الخير فاطمة بنت الشيخ الإمام العالم العامل شرف الدين محمود بن محمد بن أحمد الباذقيون وفاطمة المذكورة في الرابعة وصح ذلك وثبت في العشر الأخر من شهر جمادى الآخرة من سنة سبع وستين وستماية بمدرسة الصدر بن المنجا بدرب الريحان بدمشق كتبه محمد بن أبي الفتح بن أبي الفضل البعلبكي عفا الله عنه والحمد لله رب العالمين وصلى الله على محمد وآله"
+}

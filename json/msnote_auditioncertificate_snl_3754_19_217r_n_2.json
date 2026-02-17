@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن الحسن بن هبة الله الشافعي ابن عساكر"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعون الأبدال العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 80"
+      ],
+      "classmark": [
+        "3754/19"
+      ],
+      "folio_number": [
+        "217r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "623"
+        ]
+      },
+      "endIndex": 528,
+      "guid": "0744c7e8-4963-4e08-be08-aaf626323775",
+      "index": 168,
+      "isZeroPoint": false,
+      "startIndex": 470,
+      "text": "يوم الأربعاء ثاني عشر جمادى الآخرة لسنة ثلاث وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "4df3fadd-5308-4c9e-9a77-f47c18c9c983",
+      "index": 161,
+      "isZeroPoint": false,
+      "startIndex": 45,
+      "text": "أبي القاسم علي بن الحسن ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "ribat_al-bayan"
+          ]
+        ]
+      },
+      "endIndex": 551,
+      "guid": "586b81a0-9f22-4a57-a070-28ad88d014e2",
+      "index": 169,
+      "isZeroPoint": false,
+      "startIndex": 531,
+      "text": "رباط الشيخ أبي البيان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 287,
+      "guid": "ba82314a-4191-4b2d-8c6c-4a41649d8a87",
+      "index": 162,
+      "isZeroPoint": false,
+      "startIndex": 226,
+      "text": "زكي الدين أبو عبد الله محمد بن يوسف ابن محمد البرزالي الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 643,
+      "guid": "bbd5131b-898c-4091-9113-57cb5f23b091",
+      "index": 170,
+      "isZeroPoint": false,
+      "startIndex": 585,
+      "text": "أحمد بن أبي الفضائل بن أبي المجد بن أبي المعالي بن الدخميسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 416,
+      "guid": "c7bd7a53-528f-4c23-bfe5-b86fb62f81a4",
+      "index": 166,
+      "isZeroPoint": false,
+      "startIndex": 391,
+      "text": "أبو الفهم بن علي بن الحسين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "cb8f1aa9-6f32-45a2-b56f-5c3feb034bb8",
+      "index": 163,
+      "isZeroPoint": false,
+      "startIndex": 301,
+      "text": "أبو سلامة المظفر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 388,
+      "guid": "dcedcc8a-172d-4c21-b4c3-28a4a1730193",
+      "index": 165,
+      "isZeroPoint": false,
+      "startIndex": 359,
+      "text": "أبو محمد بن أبي علي بن إبراهيم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "df6393ad-aac8-4b19-bd05-b8ded7001d94",
+      "index": 160,
+      "isZeroPoint": false,
+      "startIndex": 119,
+      "text": "شرف الدين أبي عبد الله محمد بن نصر بن عبد الرحمن القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 356,
+      "guid": "e673fe20-5731-4ef6-8f46-817b3b385d77",
+      "index": 164,
+      "isZeroPoint": false,
+      "startIndex": 326,
+      "text": "عبد الوهاب بن عمر بن عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 447,
+      "guid": "fa585788-9e7a-47c3-827f-7dc9d226cb2b",
+      "index": 167,
+      "isZeroPoint": false,
+      "startIndex": 419,
+      "text": "زكري بن شافع بن جامع الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذه الأربعين وما بعدها جمع الحافظ أبي القاسم علي بن الحسن رحمه الله عن شيوخه على الشيخ الإمام الأديب الفاضل شرف الدين أبي عبد الله محمد بن نصر بن عبد الرحمن القرشي بسماعه من الجامع المذكور فسمع القراءة الشيخ الإمام زكي الدين أبو عبد الله محمد بن يوسف ابن محمد البرزالي الإشبيلي وابن المسمع أبو سلامة المظفر والشيوخ عبد الوهاب بن عمر بن عبد الرحمن وأبو محمد بن أبي علي بن إبراهيم وأبو الفهم بن علي بن الحسين وزكري بن شافع بن جامع الأنصاريون الدمشقيون وصح وثبت يوم الأربعاء ثاني عشر جمادى الآخرة لسنة ثلاث وعشرين وستماية برباط الشيخ أبي البيان رحمه الله بمدينة دمشق شرقا كتبه أحمد بن أبي الفضائل بن أبي المجد بن أبي المعالي بن الدخميسي عفا الله عنه والحمد لله وصلوته على سيدنا محمد وآله"
+}

@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/11"
+      ],
+      "folio_number": [
+        "128r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "03e6dc1c-fd18-4ddf-a706-ef9452a873e0",
+      "startIndex": 231,
+      "text": "أبو منصور عبد الملك بن المبارك بن الحسن القاضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 406,
+      "guid": "2f7ffde4-7ad8-43f3-ae76-9ff39e96e61d",
+      "startIndex": 398,
+      "text": "ابن البيع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "390de53a-228c-40be-8fa1-7893e34293da",
+      "startIndex": 431,
+      "text": " ابن مشق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "540"
+        ]
+      },
+      "endIndex": 373,
+      "guid": "45e6ea11-2f03-4055-9dd0-50853b0a5ae7",
+      "startIndex": 343,
+      "text": " ربيع الأول سنة أربعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "5587a938-dcbc-460d-8f06-9d4cb168d99d",
+      "startIndex": 122,
+      "text": "أبي بكر أحمد بن علي بن عبد الواحد بن الأشقر الدلال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 318,
+      "guid": "5e9e5546-53cc-41ae-8b12-525282e1d8e6",
+      "startIndex": 286,
+      "text": "عبد الجبار بن هبة الله بن البندار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 419,
+      "guid": "72ee8c5a-600a-455e-9a5f-09f2279e2807",
+      "startIndex": 411,
+      "text": "المحاملي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "f2da1b04-5a35-4243-98aa-01dbd4a841c1",
+      "startIndex": 182,
+      "text": " ابن أبي عثمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "ff8b43a6-3176-4a81-982e-01888b0a4e03",
+      "startIndex": 204,
+      "text": "أبي محمد الخشاب",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع جميع هذا الجزء السادس وأنهى الجزء الخامس قبله ومن أول الجزء السابع بعده إلى قوله إنك لم تكن كما تقول لنفسك على الشيخ أبي بكر أحمد بن علي بن عبد الواحد بن الأشقر الدلال بسماعه من ابن أبي عثمان بقراءة أبي محمد الخشاب جماعة منهم أبو منصور عبد الملك بن المبارك بن الحسن القاضي الفقيه وعبد الجبار بن هبة الله بن البندار وكتب السماع في الأصل في ربيع الأول سنة أربعين وخمسماية بسماع ابن أبي عثمان من ابن البيع عن المحاملي نقلته من خط ابن مشق"
+}

@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إسحق بن منده"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث ابن منده"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 75"
+      ],
+      "classmark": [
+        "3754/2"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "1bc3464e-e81b-4fce-9734-885c035c67a8",
+      "index": 148,
+      "isZeroPoint": false,
+      "startIndex": 171,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 127,
+      "guid": "2cddfc29-b22f-48f0-b29a-682d91f23cf3",
+      "index": 145,
+      "isZeroPoint": false,
+      "startIndex": 120,
+      "text": "الكبريتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "74fbaa6f-2e91-4b7c-b4f6-bbb3ffdce560",
+      "index": 146,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": "عائشة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "843c190b-0300-4a78-a41b-70879a3f059f",
+      "index": 147,
+      "isZeroPoint": false,
+      "startIndex": 147,
+      "text": "أحمد بن العز أبي الفتح",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "948ede3f-8590-4851-9fcf-87499273004e",
+      "index": 149,
+      "isZeroPoint": false,
+      "startIndex": 177,
+      "text": "عبد العزيز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "9"
+        ],
+        "year": [
+          "606"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "cbfe1770-9d6c-4d81-8c04-41b73b846578",
+      "index": 144,
+      "isZeroPoint": false,
+      "startIndex": 78,
+      "text": "في شهر رمضان من سنة ست وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "f1cfeb3a-b312-4881-b936-4d07f15c7ee6",
+      "index": 142,
+      "isZeroPoint": false,
+      "startIndex": 47,
+      "text": "أبي المجد زاهر بن أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "persia",
+            "isfahan"
+          ]
+        ]
+      },
+      "endIndex": 76,
+      "guid": "f3f6599f-e57c-466c-b77c-19dc8459818f",
+      "index": 143,
+      "isZeroPoint": false,
+      "startIndex": 71,
+      "text": "أصبهان",
+      "type": "place"
+    }
+  ],
+  "text": " سمعت هذه الوجهة والتي بعدها بقراءتي على الشيخ أبي المجد زاهر بن أحمد بأصبهان في شهر رمضان من سنة ست وستماية بروايته عن الكبريتي عن عائشة وسمع ذلك أحمد بن العز أبي الفتح ومحمد وعبد العزيز ابنا عبد الملك المقدسيون والحمد لله وحده وصلى الله على محمد وآله وسلم تسليما وحسبنا الله ونعم الوكيل "
+}

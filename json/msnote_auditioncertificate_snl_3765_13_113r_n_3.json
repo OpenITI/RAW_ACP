@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        " ؟"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "رحلة الشافعي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "113r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "634"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "2093c81a-2abc-4a17-a6ff-3e0c94011fe6",
+      "startIndex": 122,
+      "text": "تاسع عشر جمادى الآخرة سنة أربع وثلاثين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "2d8a41b9-605d-4c77-974a-7560936618c5",
+      "startIndex": 18,
+      "text": "أبي عبد الله محمد بن داود الصارمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "khanaqah_simisatiya"
+          ]
+        ]
+      },
+      "endIndex": 184,
+      "guid": "e459d347-c159-4006-aebb-07d28fca133c",
+      "startIndex": 170,
+      "text": "رباط [السميطائي",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "e62837fb-ada2-45df-9a3f-006d077db31c",
+      "startIndex": 63,
+      "text": "أبو نصر محمد بن عربشاه بن أبي بكر الهمذاني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة أبي عبد الله محمد بن داود الصارمي جماعة منهم أبو نصر محمد بن عربشاه بن أبي بكر الهمذاني وبخطه السماع في تاسع عشر جمادى الآخرة سنة أربع وثلاثين وستمائة برباط [السميطائي ؟]"
+}

@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/11"
+      ],
+      "folio_number": [
+        "148v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "19f38f6c-6633-4beb-9d5e-33bf53fdc0d7",
+      "startIndex": 52,
+      "text": "أبي الفضل محمد بن أحمد بن عبد الله بن البطر الـ[ـقارئ]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "2db6583e-4dba-42b8-906c-7a3ba8e76e71",
+      "startIndex": 114,
+      "text": "الحسين بن محمد بن عبد الوهاب بن الدباس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "bab_al-'izba"
+          ]
+        ]
+      },
+      "endIndex": 260,
+      "guid": "4f029f16-730e-41e2-9cdb-c6a324fc42ce",
+      "startIndex": 245,
+      "text": "بمسجد باب العزبة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "3"
+        ],
+        "year": [
+          "459"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "61f0acf7-bcc7-4df7-a867-ecf451bcc37b",
+      "startIndex": 265,
+      "text": "ربيع الأول من سنة تسع وخمـ[ـسين] وأربعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "61f75e9c-f9c1-4209-aa6e-d650022e97a6",
+      "startIndex": 191,
+      "text": "عمـ[ـر؟] بن العوجا",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "9f6d4800-2c6d-4710-87c0-5bba33bb1cb2",
+      "startIndex": 153,
+      "text": "المختار بن علي بن صدقة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "fb3611de-b5bb-44f9-8c61-014b0a205f23",
+      "startIndex": 211,
+      "text": "عبيد الله بن الحسن بن الآجري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "fbef2443-ba3b-4a79-bf4d-90960a36ba00",
+      "startIndex": 182,
+      "text": "المبارك ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء من أوله إلى آخره من الشيخ الجليل أبي الفضل محمد بن أحمد بن عبد الله بن البطر الـ[ـقارئ] بقراءة الحسين بن محمد بن عبد الوهاب بن الدباس المختار بن علي بن صدقة وأخوه المبارك وعمـ[ـر؟] بن العوجا وعبيد الله بن الحسن بن الآجري وذلك بمسجد باب العزبة في ربيع الأول من سنة تسع وخمـ[ـسين] وأربعماية"
+}

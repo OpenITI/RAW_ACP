@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "مالك بن أنس"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "موطأ الإمام مالك"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "Said Aljoumani"
+      ],
+      "editor": [
+        "Covadonga Baratech"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 227"
+      ],
+      "classmark": [
+        "3780"
+      ],
+      "folio_number": [
+        "42v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "0971df33-90be-4acc-8911-4d75d1619733",
+      "startIndex": 162,
+      "text": " محمد الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "1c97ba9e-f783-4382-b44b-9442b4b68a34",
+      "startIndex": 59,
+      "text": "ابن مسعود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "taqwiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 101,
+      "guid": "3b0ac7b3-a873-4149-a8ef-7fb65223ce2f",
+      "startIndex": 87,
+      "text": "المدرسة التقوية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 85,
+      "guid": "4f010178-9c30-4eec-8729-e52db399d1b5",
+      "startIndex": 81,
+      "text": "يحيى ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "682"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "8eeff38e-d8bd-4d3d-acdd-659964f169ad",
+      "startIndex": 106,
+      "text": " الثلثاء سادس عشري صفر من سنة اثنتين وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "d88a4032-9a4c-4208-83c9-4f8d5360d568",
+      "startIndex": 31,
+      "text": "جمال الدين بن الحموي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت سماعا في الثالث على الشيخ جمال الدين بن الحموي بقراءة ابن مسعود وابن المسمع يحيى بالمدرسة التقوية يوم الثلثاء سادس عشري صفر من سنة اثنتين وثمانين وستمية كتبه محمد الشافعي"
+}

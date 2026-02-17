@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن علي بن عبد الله الطامذي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد الطامذي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 64 "
+      ],
+      "classmark": [
+        "3750/8"
+      ],
+      "folio_number": [
+        "100r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 178,
+      "guid": "0ea0ef4b-226d-4bab-8a17-a2e5014a65bd",
+      "startIndex": 166,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          "ccdf3278-49fa-424b-988d-27b9a36c5a10"
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "423835f6-d93a-48ea-ac7b-9f40fcdfabe9",
+      "startIndex": 26,
+      "text": "عماد الدين أحمد بن عبد الهادي بن عبد الحميد المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "7c78992d-e199-4271-9596-5ef074d960f3",
+      "startIndex": 92,
+      "text": "ابن البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "747"
+        ]
+      },
+      "endIndex": 150,
+      "guid": "b5bb3277-f97c-4924-bb05-d8c3ec74d426",
+      "startIndex": 122,
+      "text": "شوال سنة سبع وأربعين وسبعمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Boris Liebrenz"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 159,
+      "guid": "fc88ba99-b22d-4592-be2a-a80fafa50f8b",
+      "startIndex": 152,
+      "text": "الضيائية",
+      "type": "place"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخ عماد الدين أحمد بن عبد الهادي بن عبد الحميد المقدسي بسماعه فيه من ابن البخاري في مجالس آخرها في شوال سنة سبع وأربعين وسبعمية بالضيائية كتبه محمد بن المحب"
+}

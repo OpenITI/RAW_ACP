@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن جعفر الخرائطي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "مكارم الأخلاق ومعاليها وطرائق محمودها"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 122 "
+      ],
+      "folio_number": [
+        "18v"
+      ],
+      "image_link": [
+        "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3374564%7EJP2%7E394e7352ebcf64229c4e6b9c6159f2dff7e4dc29c692ee0579e37ae06bd38698%7Edigitalc/full/pct:22/0/default.jpg"
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        "baf615f4-21fa-43d4-8b41-b6ffb42588d8"
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/ud5et8/alma9938139748902711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 467,
+      "guid": "02977ae3-e915-43e6-bd35-aedf1acc7dd7",
+      "startIndex": 411,
+      "text": "محمد بن أبي الفضل بن علي بن عبد الواحد الأنصاري الحرستاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "526"
+        ]
+      },
+      "endIndex": 581,
+      "guid": "22d2bb4c-4327-4d7d-9283-fde26ef4f913",
+      "startIndex": 528,
+      "text": "الثلثا الثالث والعشرين من شوال سنة ست وعشرين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 639,
+      "guid": "26e996b5-e910-4571-80b6-acce125c4367",
+      "startIndex": 621,
+      "text": "الحسن بن علي اللخمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 519,
+      "guid": "2b4bbea2-d5c3-44af-93d3-8295fd3bdab7",
+      "startIndex": 500,
+      "text": "أبو القاسم عبد الصمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 606,
+      "guid": "45a1f4d2-f7be-4cba-aaf7-f3f0b5d3d09c",
+      "startIndex": 588,
+      "text": "إسماعيل بن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 676,
+      "guid": "7a03566a-e5a8-4b7a-ae4c-2b973a2b3d95",
+      "startIndex": 656,
+      "text": "خليل بن بدران الحلبي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 497,
+      "guid": "806752bd-0c49-44a5-b6c5-094acbbe0ef6",
+      "startIndex": 476,
+      "text": "أبو الفضائل عبد الكريم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 293,
+      "guid": "aee64c45-0896-44a1-8109-31d409a67cf2",
+      "startIndex": 271,
+      "text": "أبي الحسن بن أبي الحديد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "b3f6c3df-75df-4333-941e-a66e98671d9d",
+      "startIndex": 191,
+      "text": "أبي محمد عبد الكريم بن حمزة بن الخضر السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 379,
+      "guid": "e27da952-f8c0-4e28-b983-947f4667e11d",
+      "startIndex": 337,
+      "text": "أبي القاسم علي بن الحسن بن هبة الله الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": "شاهدت على الأصل المنقول منه ما مختصره شاهدت في أصل ابن الصابوني بخط ابن الأنماطي رأيت في إصل أبي القاسم بن عساكر بهذا الجزء والذي قبله فكانا في جزء واحد ما صورته سمع جميع هذا الجزء على الشيخ أبي محمد عبد الكريم بن حمزة بن الخضر السلمي مع المعارضة بنسخة فيها ذكر سماعه من أبي الحسن بن أبي الحديد في سنة ثمان وخمسين وأربعماية بقراءة صاحبه أبي القاسم علي بن الحسن بن هبة الله الشافعي ذكر جماعة ثم قال وكاتب السماع محمد بن أبي الفضل بن علي بن عبد الواحد الأنصاري الحرستاني وابناه أبو الفضائل عبد الكريم وأبو القاسم عبد الصمد في يوم الثلثا الثالث والعشرين من شوال سنة ست وعشرين وخمس ماية كتبه إسماعيل بن الأنماطي ونقله من خطه الحسن بن علي اللخمي ومن خطه اختصره خليل بن بدران الحلبي "
+}

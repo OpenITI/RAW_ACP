@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن عمر بن أحمد بن منصور بن عبدوس ابن الصفار النيسابوري"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "كتاب الأربعين من مسانيد المشايخ العشرين عن الأصحاب الأربعين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 2548"
+      ],
+      "folio_number": [
+        "25r"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281370502711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "01ca2eae-475d-4d15-9607-732542dc03f3",
+      "startIndex": 89,
+      "text": " ابن الصفار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "678"
+        ]
+      },
+      "endIndex": 306,
+      "guid": "28789dc8-7631-4a05-be38-e0d1b2019eb2",
+      "startIndex": 265,
+      "text": " السبت مستهل رمضان سنة ثمان وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "29c93e71-54b5-4f9e-8fa2-e1fd410a5d65",
+      "startIndex": 215,
+      "text": "القاسم بن محمد بن يوسف البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "394ad417-ff7f-45c1-82de-6acd7ed9d033",
+      "startIndex": 17,
+      "text": "شمس الدين أبي الغنائم المسلم بن محمد بن المسلم بن علان القيسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 312,
+      "guid": "427be6ff-6e74-4a6e-b930-bee9be83eb60",
+      "startIndex": 309,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 159,
+      "guid": "9a218c8b-3925-4f8f-b400-f886433d5300",
+      "startIndex": 115,
+      "text": "صفي الدين أبي الثناء محمود بن أبي بكر الأرموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "c26c1844-dde6-47ef-a992-250f6b4cb5d4",
+      "startIndex": 161,
+      "text": "جمال الدين أبو الحجاج يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها على الشيخ شمس الدين أبي الغنائم المسلم بن محمد بن المسلم بن علان القيسي بإجازته من ابن الصفار بقراءة الإمام صفي الدين أبي الثناء محمود بن أبي بكر الأرموي جمال الدين أبو الحجاج يوسف بن الزكي عبد الرحمن المزي والقاسم بن محمد بن يوسف البرزالي وكتب السماع في يوم السبت مستهل رمضان سنة ثمان وسبعين وستماية بدمشق"
+}

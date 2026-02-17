@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء حديثي لابن عساكر"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 830"
+      ],
+      "folio_number": [
+        "10v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1831174081/1200/0/00000026.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007489"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "03abc703-67ca-4146-9c5a-afda04af90e5",
+      "startIndex": 58,
+      "text": "أبي عبد الله محمد بن أحمد بن عثمان بن الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "58d26b75-f611-4572-af93-5bfa24ae775c",
+      "startIndex": 173,
+      "text": "شهاب الدين أبي العباس أحمد بن محمد بن أبي الفرج بن مزهر الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 258,
+      "guid": "93668be5-7de0-4341-b7a3-a44fb4f1c46c",
+      "startIndex": 247,
+      "text": "علي بن محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 338,
+      "guid": "b0aa0674-29f0-4323-885d-08b238d29bad",
+      "startIndex": 313,
+      "text": "أحمد بن علي بن عيسى الكركي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-sadriya"
+          ]
+        ]
+      },
+      "endIndex": 286,
+      "guid": "b68c8a6b-37b8-4db8-9045-400b9ef2ca18",
+      "startIndex": 273,
+      "text": "منزله بالصدرية",
+      "type": "place"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على شيخنا الحافظ العلامة شيخ المحدثين أبي عبد الله محمد بن أحمد بن عثمان بن الذهبي فسح الله في مدته بسماعه من المخرج له فسمعه الشيخ الكبير الفقيه الفاضل شهاب الدين أبي العباس أحمد بن محمد بن أبي الفرج بن مزهر الشافعي وابن أخيه علي بن محمد وصح ذلك وثبت بمنزله بالصدرية وأجاز لنا ما يرويه وكتبه أحمد بن علي بن عيسى الكركي."
+}

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون الواعظ"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 76"
+      ],
+      "classmark": [
+        "3754/8 في الفهرس الرسالة السابعة"
+      ],
+      "folio_number": [
+        "48v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "6baeaff7-c288-47b8-83da-ee1fe5f07fce",
+      "index": 175,
+      "isZeroPoint": false,
+      "startIndex": 115,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "75bb0173-ee5e-4b95-b7f5-399eaf8fb43a",
+      "index": 178,
+      "isZeroPoint": false,
+      "startIndex": 220,
+      "text": "يوم الثلثا تاسع عشر ربيع الآخر سنة تسع وسبعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "a2fe8c41-ac9d-4739-94ba-8dc79a8b0aaa",
+      "index": 179,
+      "isZeroPoint": false,
+      "startIndex": 279,
+      "text": "محمد بن أحمد بن محمد بن النجيب الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 191,
+      "guid": "af3aa941-34c0-4bef-b899-8053c4cd88a3",
+      "index": 176,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "علاء الدين علي بن سليمان بن جودي المهراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 218,
+      "guid": "cdbc9967-766e-4c39-a4ae-f0178506cc01",
+      "index": 177,
+      "isZeroPoint": false,
+      "startIndex": 207,
+      "text": "منزل المسمعة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "e823d665-1ba2-4dc5-8dbb-f85647f5f764",
+      "index": 174,
+      "isZeroPoint": false,
+      "startIndex": 63,
+      "text": " أم أحمد زينب ابنة أحمد بن كامل المقدسية",
+      "type": "person"
+    }
+  ],
+  "text": " بلغت سماعا من أول المجلس الثاني عشر بقراءتي على الشيخة الصالحة أم أحمد زينب ابنة أحمد بن كامل المقدسية بسماعها من ابن طبرزد حضورا بسنده فسمعه بقراءتي علاء الدين علي بن سليمان بن جودي المهراني وصح ذلك وثبت بمنزل المسمعة يوم الثلثا تاسع عشر ربيع الآخر سنة تسع وسبعين وستماية كتبه محمد بن أحمد بن محمد بن النجيب الشافعي"
+}

@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن عرفة بن يزيد العبدي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث الحسن بن عرفة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/8"
+      ],
+      "folio_number": [
+        "107v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 62,
+      "guid": "052dfed6-e909-443f-b230-f346cccbba0f",
+      "startIndex": 44,
+      "text": " أبي القاسم بن بيان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-khamis"
+        ],
+        "year": [
+          "506"
+        ]
+      },
+      "endIndex": 186,
+      "guid": "2d15261c-343c-49ce-8cdd-fb6b3e44c41b",
+      "startIndex": 122,
+      "text": " يوم الخميس الثالث والعشرين من شهر ربيع الأول من سنة ست وخمسماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "89798abb-ceb5-4aac-a96c-52d444993b8a",
+      "startIndex": 71,
+      "text": "هزارسب بن عوض بن الحسن الهروي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 40,
+      "guid": "8d5a238a-4a6e-4e2e-a45e-e976a7b1ad6b",
+      "startIndex": 24,
+      "text": "أبو الفرج بن كليب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "9398d2d1-82dc-4086-a702-d2c9de46cc90",
+      "startIndex": 108,
+      "text": "محمد بن سعد",
+      "type": "person"
+    }
+  ],
+  "text": "على الأصل ما مثاله سمعه أبو الفرج بن كليب من أبي القاسم بن بيان بقراءة هزارسب بن عوض بن الحسن الهروي مع عمه محمد بن سعد في يوم الخميس الثالث والعشرين من شهر ربيع الأول من سنة ست وخمسماية "
+}

@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسن بن أحمد بن إبراهيم بن شاذان "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الجزء الأول من حديث ابن شاذان عن شيوخه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 162"
+      ],
+      "classmark": [
+        "3768/6"
+      ],
+      "folio_number": [
+        "126r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 706,
+      "guid": "00ae5d14-3207-4339-8f3f-d464a8e1642f",
+      "startIndex": 701,
+      "text": "الجامع",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 381,
+      "guid": "03b538e6-4cd6-4528-a5d1-ee85b546f228",
+      "startIndex": 350,
+      "text": "إسماعيل بن عمر بن إدريس القلانسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "396f4f21-0192-4c02-b939-e07eb14f7888",
+      "startIndex": 195,
+      "text": "أبي محمد النرسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "47e3b4e7-de70-4245-bc9f-1c44ab209f8a",
+      "startIndex": 170,
+      "text": "أبي الحسن بن عبد الخالق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "3"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "612"
+        ]
+      },
+      "endIndex": 698,
+      "guid": "58ef9486-0f25-458b-9ee3-cf2c2b3559cf",
+      "startIndex": 653,
+      "text": " الثلثاء ثالث ذي القعدة سنة اثنتي عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 575,
+      "guid": "5ee95e5f-f509-405d-a7dd-ac2c62df87fc",
+      "startIndex": 571,
+      "text": "آسية ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 513,
+      "guid": "764ac6d2-a871-4061-8451-f4bb0cb0f482",
+      "startIndex": 510,
+      "text": "ملوك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 492,
+      "guid": "9d847f31-ba07-4656-a3fe-926032f0737c",
+      "startIndex": 458,
+      "text": "أبو بكر محمد بن أبي المعالي بن جامع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 635,
+      "guid": "a1283133-fd84-4c67-9dd2-5f52894012a6",
+      "startIndex": 590,
+      "text": "أبو بكر عبد الله بن محمد بن علي الحنفي الغزنوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          "b8775a2a-3b46-41d6-b1cb-c8f064d0e114"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 347,
+      "guid": "a6996ca3-c5dc-42b2-8070-93b488382f93",
+      "startIndex": 321,
+      "text": "سالم بن ثمال بن عنان العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 319,
+      "guid": "a701c5e6-a524-4ea1-b07c-28ed791a2081",
+      "startIndex": 256,
+      "text": "بدر الدين أبي العز المفضل بن علي بن عبد الواحد بن الحسين الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "a920d641-afae-4384-b576-0a77b30143f5",
+      "startIndex": 70,
+      "text": "أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 519,
+      "guid": "d73f282a-9bb4-445f-ac6d-e94c89b5b9c4",
+      "startIndex": 516,
+      "text": "مهرو",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 455,
+      "guid": "e49ff38b-e774-4928-85d4-742bd1d0e174",
+      "startIndex": 421,
+      "text": "عبد الرحمن بن يوسف بن بركات الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 418,
+      "guid": "ecd6714b-f9e6-4412-92b2-ac537b40b496",
+      "startIndex": 384,
+      "text": "عيسى بن يعقوب بن علي الموصلي الحكاك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 167,
+      "guid": "fc2f05cf-0239-4188-9a14-b861dfd95331",
+      "startIndex": 150,
+      "text": "أبي جعفر بن الهيثم",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا على الشيخ الإمام العالم موفق الدين شيخ السنة مفتي الأئمة أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي بحق سماعه من المشايخ الثلاثة أبي جعفر بن الهيثم وأبي الحسن بن عبد الخالق وأبي محمد النرسي بسندهم المذكور في أوله بقراءة الإ مام العالم بدر الدين أبي العز المفضل بن علي بن عبد الواحد بن الحسين الشافعي سالم بن ثمال بن عنان العرضي وإسماعيل بن عمر بن إدريس القلانسي وعيسى بن يعقوب بن علي الموصلي الحكاك وعبد الرحمن بن يوسف بن بركات الموصلي وأبو بكر محمد بن أبي المعالي بن جامع وهو في الخامسة وملوك ومهرو بنتا سالم بن ناجي المصري قيم الكلاسة وحضرت أختهما آسية ومثبت الأسماء أبو بكر عبد الله بن محمد بن علي الحنفي الغزنوي وصح ذلك وثبت يوم الثلثاء ثالث ذي القعدة سنة اثنتي عشرة وستمائة بالجامع"
+}

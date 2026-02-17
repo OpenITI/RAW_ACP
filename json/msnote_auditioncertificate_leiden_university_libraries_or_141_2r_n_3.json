@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الكريم بن هوازن القشيري"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "الرسالة القشيرية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 141 "
+      ],
+      "folio_number": [
+        "2r"
+      ],
+      "image_link": [
+        "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3399676%7EJP2%7E80a70956ff4ab51d0cafc34bc5b1e19d7bcb650698691577777841ec9f339a3a%7Edigitalc/full/pct:23/0/default.jpg"
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/ud5et8/alma9938139746102711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 667,
+      "guid": "0a76d07a-d5e5-44d7-80c4-66f4b53dbd4f",
+      "startIndex": 636,
+      "text": "يوسف بن محمد بن عبد الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1001,
+      "guid": "0c6b6810-9be3-41ea-a1a3-1d97f5896a70",
+      "startIndex": 983,
+      "text": "الجامع الكبير بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 847,
+      "guid": "19fa84a0-1adf-43ad-b8cf-9e9ff43f02a8",
+      "startIndex": 799,
+      "text": "كمال الدين عبد الله بن أبي الفرج بن صدقة البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 507,
+      "guid": "2510ff3b-a174-4785-9a7d-82833ba3c092",
+      "startIndex": 500,
+      "text": "الفراوي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 282,
+      "guid": "35bee165-f261-4b42-8ed3-852e97ea801b",
+      "startIndex": 252,
+      "text": "جمال الدين أبي القاسم عبد الصمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 383,
+      "guid": "3ecbc87f-d2e3-458e-bbb4-b1490ed3f451",
+      "startIndex": 349,
+      "text": "أبو المظفر عبد المنعم بن أبي القاسم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 588,
+      "guid": "66d4093e-4a8c-4b87-b973-cf6380af7c56",
+      "startIndex": 538,
+      "text": "أبي القاسم عبد الكريم بن هوازن بن عبد الملك القشيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 779,
+      "guid": "6c86c2f3-28c4-4043-8925-654a63603acf",
+      "startIndex": 708,
+      "text": "جمال الدين أبو محمد عبد الله بن يحيى بن أبي بكر بن يوسف الغساني الجزائري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "645"
+        ]
+      },
+      "endIndex": 981,
+      "guid": "6f50c80f-3d9f-4ba9-9ad3-d92803eab2bb",
+      "startIndex": 929,
+      "text": "الجمعة التاسع من جمادى الآخرة سنة خمس وأربعين وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 876,
+      "guid": "7076aad9-764a-403e-b2e8-f969fc3869c0",
+      "startIndex": 850,
+      "text": "محمد بن يوسف بن محمد القارئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "8ab25fbe-ec8e-467b-bfb1-f45efcb73676",
+      "startIndex": 71,
+      "text": "عماد الدين أبي الفضائل عبد الكريم بن قاضي القضاة جمال الدين بن شيخ الإسلام أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 494,
+      "guid": "af730411-4ac1-4b05-a8b5-4dcc9e347522",
+      "startIndex": 466,
+      "text": "أبي الأسعد هبة الرحمن القشيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 338,
+      "guid": "b6b9795a-0f52-46ac-861c-f369d73e9c77",
+      "startIndex": 300,
+      "text": "أبو الحسن علي بن أحمد بن سليمان المرادي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الكتاب على شيخنا وسيدنا قاضي القضاة مفتي الشام بقية السلف عماد الدين أبي الفضائل عبد الكريم بن قاضي القضاة جمال الدين بن شيخ الإسلام أبي القاسم عبد الصمد بن محمد بن أبي الفضل الأنصاري رضي الله عنه وأرضاه بحق سماعه فيه من والده قاضي القضاة جمال الدين أبي القاسم عبد الصمد قال أنبأ الحافظ أبو الحسن علي بن أحمد بن سليمان المرادي قال أنبأ أبو المظفر عبد المنعم بن أبي القاسم عن أبيه وبإجازة والده جمال الدين أبي القاسم من أبي المظفر عبد المنعم المذكور ومن أبي الأسعد هبة الرحمن القشيري ومن الفراوي وآخرين كلهم عن الأستاذ الإمام أبي القاسم عبد الكريم بن هوازن بن عبد الملك القشيري رضي الله عنه بقراءة الفقير إلى رحمة ربه وعفوه يوسف بن محمد بن عبد الله الشافعي صاحبه الشيخ الأجل الفقيه المحدث الصالح جمال الدين أبو محمد عبد الله بن يحيى بن أبي بكر بن يوسف الغساني الجزائري أبقاه الله الفقيه كمال الدين عبد الله بن أبي الفرج بن صدقة البغدادي ومحمد بن يوسف بن محمد القارئ أبوه في هذا السماع فصح ذلك في مجالس صادف آخرها يوم الجمعة التاسع من جمادى الآخرة سنة خمس وأربعين وستمية بالجامع الكبير بدمشق حرسها الله تعالى وكتب يوسف بن محمد القارئ المذكور حامدا الله ومصليا على نبيه ومسلما"
+}

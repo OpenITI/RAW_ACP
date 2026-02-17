@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "129r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f133.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "2b70c4f9-af48-45e6-9e29-02edb04042d0",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 312,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "2b812d52-1564-4ae8-afc7-5a39d13ee936",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 186,
+      "text": "غازي بن يوسف بن عبد الله القرشي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "6a4b07bd-7b0c-49ff-92ee-16b69cc166ad",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 125,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 371,
+      "guid": "73f09e58-ae53-4947-b2aa-7ca38b06b864",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 365,
+      "text": "القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 304,
+      "guid": "7b5a6be1-d8bb-4fc1-b81b-7e57496c4c9a",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 267,
+      "text": "جلاء الدين يحيى بن محمد بن سالم الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "8116f00e-8db7-4dbb-90ef-abf03576c077",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 219,
+      "text": "أبو عبد الله محمد بن أحمد بن إبراهيم التلمساني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 72,
+      "guid": "b8ee5647-6c35-439c-a80f-41d0686531b9",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 67,
+      "text": "السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "db9d168f-b146-4c7c-84f0-841afa2bdf63",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 81,
+      "text": "محمد بن علي بن محمود المحمودي الصابوني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "647"
+        ]
+      },
+      "endIndex": 362,
+      "guid": "e0efb133-4c3f-4845-a112-5813fd0e8077",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 322,
+      "text": "في العشرين من صفر سنة سبع وأربعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "f52d4419-8fa0-412c-bb3f-ca36289e5e93",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 14,
+      "text": "أبي محمد عبد الوهاب بن ظافر بن علي بن رواج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 183,
+      "guid": "f56fd6ff-ef59-4e63-bed5-9e889d0cd50c",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 156,
+      "text": "أحمد بن النصير بن نبأ المقرئ",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من الشيخ أبي محمد عبد الوهاب بن ظافر بن علي بن رواج بسماعه من السلفي بقراءة محمد بن علي بن محمود المحمودي الصابوني ابنه أحمد ومن خط ابنه اختصرت الطبقة أحمد بن النصير بن نبأ المقرئ وغازي بن يوسف بن عبد الله القرشي وأبو عبد الله محمد بن أحمد بن إبراهيم التلمساني وجلاء الدين يحيى بن محمد بن سالم الحنفي وولده أحمد وذلك في العشرين من صفر سنة سبع وأربعين وستمائة بالقاهرة"
+}

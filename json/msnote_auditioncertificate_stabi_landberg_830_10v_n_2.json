@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء حديثي لابن عساكر"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 830"
+      ],
+      "folio_number": [
+        "10v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1831174081/1200/0/00000026.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007489"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "27-30"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "747"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "0a717305-41c9-4632-8fe2-81d458d24954",
+      "startIndex": 178,
+      "text": "سلخ ربيع الآخر سنة سبع وأربعين وسبعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "541d4dbc-39c2-4e30-8491-e918d1445fe5",
+      "startIndex": 44,
+      "text": "أبي عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "7487a2dd-07b8-42ee-a588-45554cffb640",
+      "startIndex": 92,
+      "text": "أبي الفضل بن عساكر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "8e0225d6-3d83-45ba-8c98-1fa175130bb0",
+      "startIndex": 135,
+      "text": "أبو ربيعة محمد بن عثمان بن ربيعة الزرعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "reader"
+        ]
+      },
+      "endIndex": 259,
+      "guid": "9b7cbd26-c147-4380-a57a-67f5802f8eca",
+      "startIndex": 223,
+      "text": "فرج بن محمد بن فرج بن علي بن الحبراصي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع ما في هذا الكراس على شيخنا الإمام أبي عبد الله المذكور فسح الله في مدته بسماعه من أبي الفضل بن عساكر فسمع الجزء الأول الفقيه أبو ربيعة محمد بن عثمان بن ربيعة الزرعي في سلخ ربيع الآخر سنة سبع وأربعين وسبعمائة وكتب فرج بن محمد بن فرج بن علي بن الحبراصي عفا الله عنه آمين والحمد لله وحده."
+}

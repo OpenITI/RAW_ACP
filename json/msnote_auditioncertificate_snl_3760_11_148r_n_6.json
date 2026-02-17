@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/11"
+      ],
+      "folio_number": [
+        "148r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "3ccdbbf9-5a04-48e6-8b50-0d9ba89e1fb3",
+      "startIndex": 129,
+      "text": "[محمد بن] عبيد الله بن كادش العكبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 50,
+      "guid": "56f47e25-664c-41ba-b667-382e7939d777",
+      "startIndex": 28,
+      "text": "أبي الخطاب نصر بن البطر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 120,
+      "guid": "6464c58e-f82c-4ce7-a721-1c4f44c44bf0",
+      "startIndex": 84,
+      "text": "زينة بنت صدقة بن محمد بن صدقة الاسكاف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 81,
+      "guid": "74088d6f-07c5-476e-a675-bbae6e531352",
+      "startIndex": 52,
+      "text": "أبو الحسن علي بن الحسين القصار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "481"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "d58df627-b53e-4706-b16a-c265e06bf0b6",
+      "startIndex": 168,
+      "text": "جمادى الأولى سنة إحدى وثمنين وأربع ماية",
+      "type": "date"
+    }
+  ],
+  "text": "[سمع] جميعه من الشيخ الجليل أبي الخطاب نصر بن البطر أبو الحسن علي بن الحسين القصار وزينة بنت صدقة بن محمد بن صدقة الاسكاف بقراءة [محمد بن] عبيد الله بن كادش العكبري في جمادى الأولى سنة إحدى وثمنين وأربع ماية"
+}

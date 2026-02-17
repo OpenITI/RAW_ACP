@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج4"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 8"
+      ],
+      "catalog": [
+        "FMMU 112"
+      ],
+      "classmark": [
+        "3760/4"
+      ],
+      "folio_number": [
+        "55r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "2332d783-76ae-4ad4-88a4-b51eb1c50c91",
+      "startIndex": 47,
+      "text": " ابن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 131,
+      "guid": "4de6b3ff-7abb-4251-8daf-b755be48bc17",
+      "startIndex": 75,
+      "text": "أبو الحسن بن بقاء بن أبي نصر بن عبد السلام يعرف بابن كرار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "566"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "724515af-e1f6-4434-b139-c81e12ceaf1d",
+      "startIndex": 140,
+      "text": "الأربعاء رابع عشر ربيع الأول سنة ست وستين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "953e71be-8495-43d2-b709-7f8c5b614d40",
+      "startIndex": 19,
+      "text": " أبي علي بن الرحبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "b95f7650-3b27-492b-961e-040e155c9160",
+      "startIndex": 63,
+      "text": " مكي الغراد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع أعني الرابع من أبي علي بن الرحبي بسماعه من ابن طلحة بقراءة مكي الغراد أبو الحسن بن بقاء بن أبي نصر بن عبد السلام يعرف بابن كرار في يوم الأربعاء رابع عشر ربيع الأول سنة ست وستين وخمس ماية"
+}

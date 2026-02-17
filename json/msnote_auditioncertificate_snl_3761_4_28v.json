@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "ابن عساكر أبو القاسم علي بن الحسن بن هبة الله الشافعي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء من مسموعات ابن عساكر"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 117"
+      ],
+      "classmark": [
+        "3761/4"
+      ],
+      "folio_number": [
+        "28v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "month": [
+          "9"
+        ],
+        "year": [
+          "596"
+        ]
+      },
+      "endIndex": 488,
+      "guid": "04a2c344-e96a-4356-a327-c6c31673b237",
+      "startIndex": 449,
+      "text": "شهر رمضان المعظم سنة ست وتسعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "1595bece-72c1-40fe-84c8-1dbaf051c528",
+      "startIndex": 23,
+      "text": "أبي طاهر بركات بن إبراهيم الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "2bfb30a3-751a-4b44-b5dc-bc3566b7f6d6",
+      "startIndex": 178,
+      "text": "عبد الرزاق بن عبد [القاهر] بن أبي الفهم الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 393,
+      "guid": "3915ecb7-e89c-478f-a013-77d3b2918b6d",
+      "startIndex": 358,
+      "text": "إسحاق بن خضر بن كامل بن سالم الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 355,
+      "guid": "4de2064c-672b-4cfa-8888-bac7b9a7d356",
+      "startIndex": 328,
+      "text": "أحمد بن عبدان بن حسن الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 444,
+      "guid": "6e40fd3e-64ad-4572-b7e3-985ccb1b78e2",
+      "startIndex": 409,
+      "text": "محمد بن أحمد بن محمد بن مرزوق السبتي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 325,
+      "guid": "a6148843-f00f-4e7d-a1f0-8682ec02c7ef",
+      "startIndex": 290,
+      "text": "أبو نعيم بن أبي بكر بن محمود الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "aa205367-758c-42cb-8079-d5489f11e5b2",
+      "startIndex": 64,
+      "text": "يوسف بن خليل الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "b9dee384-4745-449a-b750-4daa8428a9e2",
+      "startIndex": 150,
+      "text": "عبد الصمد بن أحمد البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 147,
+      "guid": "f3f530c9-67d8-477e-a310-ecf233efca16",
+      "startIndex": 120,
+      "text": "جعفر بن محمد بن جعفر العباسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 494,
+      "guid": "fcccdd25-ecc0-4aba-bbc3-f77ab59c8777",
+      "startIndex": 491,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "fcd28703-5753-49ed-a81d-db4237448d0a",
+      "startIndex": 94,
+      "text": "أبو بكر بن إلياس بن خليل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "fce8f556-e01c-4518-85b0-97473f3b8369",
+      "startIndex": 227,
+      "text": "عبد الله بن علي بن الحسن [الخولاني/ الجولاني؟] عرف بابن القيم ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على أبي طاهر بركات بن إبراهيم الخشوعي بقراءة يوسف بن خليل الدمشقي ابن أخيه أبو بكر بن إلياس بن خليل وجعفر بن محمد بن جعفر العباسي وعبد الصمد بن أحمد البغدادي وعبد الرزاق بن عبد [القاهر] بن أبي الفهم الحراني وعبد الله بن علي بن الحسن [الخولاني/ الجولاني؟] عرف بابن القيم وأبو نعيم بن أبي بكر بن محمود الدمشقي وأحمد بن عبدان بن حسن الدمشقي وإسحاق بن خضر بن كامل بن سالم الدمشقي ومثبت أسمائهم محمد بن أحمد بن محمد بن مرزوق السبتي في شهر رمضان المعظم سنة ست وتسعين وخمس ماية بدمشق"
+}

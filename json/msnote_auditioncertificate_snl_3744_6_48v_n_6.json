@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يوسف بن خليل بن عبد الله الآدمي الدمشقي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "عوالي الإمام أبي حنيفة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 6"
+      ],
+      "catalog": [
+        "FMMU 34"
+      ],
+      "classmark": [
+        "3744/6"
+      ],
+      "folio_number": [
+        "48v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "34fe84d1-b0d4-4a1b-82ee-31b1df1e60e9",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 65,
+      "text": "إسحق بن أبي بكر بن إبراهيم بن النحاس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "745102f3-3b67-46b2-8c84-751c125f56e1",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 235,
+      "text": "محمد بن المهندس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 63,
+      "guid": "785bb764-85ab-4b88-855e-f0bdc80cf32d",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 33,
+      "text": "أبي بكر بن علي بن الحسين الحمصي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 160,
+      "guid": "add9cf67-ff52-49c7-8092-e50f28e438ad",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 219,
+      "guid": "e9fbe0af-cc84-428d-84c4-9792568c22d1",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 202,
+      "text": "أبو العلاء البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "646"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "f626d574-12f1-4451-aee8-1b7564d22141",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 112,
+      "text": "سابع عشر جمادى الآخرة سنة ست وأربعين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": " وسمعه منه وجميع الملحقات بقراءة أبي بكر بن علي بن الحسين الحمصي إسحق بن أبي بكر بن إبراهيم بن النحاس وآخرون في سابع عشر جمادى الآخرة سنة ست وأربعين وستماية بحلب نقل هذه الطباق من أصل المخرج بخط مختصره أبو العلاء البخاري ومن خطه نقلها محمد بن المهندس رحمهم الله ومن خطه نقلتها والحمدلله"
+}

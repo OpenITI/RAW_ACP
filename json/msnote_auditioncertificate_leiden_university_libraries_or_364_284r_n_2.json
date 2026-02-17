@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن عبد الرحمن الدارمي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "المسند الجامع"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 364 "
+      ],
+      "folio_number": [
+        "284r"
+      ],
+      "image_link": [
+        "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2423654%7EJP2%7Ef878cd279df45982af882759b52f93b5436ef703ffda72ebd80d7fa882a850d1%7Edigitalc/full/pct:22/0/default.jpg"
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/18s393l/alma9939281713902711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 390,
+      "guid": "085550e1-f1ae-4d00-bf27-92864f6fa8c3",
+      "startIndex": 353,
+      "text": "نصر الله بن عبد المنعم بن حواري الحنفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "20479fd4-c601-49e6-a42c-96d18c620bc7",
+      "startIndex": 47,
+      "text": "زكريا بن أبي الحسن بن حسان العلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "6a5f09dd-1456-4fd9-85aa-840e78f208b5",
+      "startIndex": 164,
+      "text": "تقي الدين أبو القاسم عبد الله بن أحمد بن أبي المكارم المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 525,
+      "guid": "785a568b-4f36-472c-af99-8d658bc749bf",
+      "startIndex": 497,
+      "text": "شاطئ دجلة منه في مدينة السلام",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "8ceff1b5-bbd0-457b-8361-1dae75a88259",
+      "startIndex": 114,
+      "text": "عبد الله بن محمد بن الوليد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "1"
+        ],
+        "year": [
+          "629"
+        ]
+      },
+      "endIndex": 491,
+      "guid": "a2f45d04-c338-404b-b969-407c0be030b7",
+      "startIndex": 454,
+      "text": "شهر الله المحرم سنة تسع وعشرين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 350,
+      "guid": "b6c61370-23a7-4dfe-a539-796403dac8a4",
+      "startIndex": 301,
+      "text": "أبو العباس أحمد بن علي بن أبي محمد بن نفادة السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 444,
+      "guid": "e8f35e32-18d7-4a36-929d-ee99bcc690b0",
+      "startIndex": 393,
+      "text": "أبو الفضل أرسلان بن إياس بن عبد الله الحلبي المهراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "ee1b1a6c-d472-4353-bb0c-3ceccd52b3f6",
+      "startIndex": 91,
+      "text": "أبي الوقت",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "fe9e8ede-6008-4dbc-b13d-5202f38e6781",
+      "startIndex": 226,
+      "text": "أحمد بن أبي الثناء محمود بن إبراهيم بن نبهان التنوخي المعروف بابن الجوهري",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الكتاب وهو جامع الدارمي على الشيخ زكريا بن أبي الحسن بن حسان العلبي بسماعه من أبي الوقت بقراءة كاتبه عبد الله بن محمد بن الوليد صاحب هذه النسخة الفقيه تقي الدين أبو القاسم عبد الله بن أحمد بن أبي المكارم المقدسي وأحمد بن أبي الثناء محمود بن إبراهيم بن نبهان التنوخي المعروف بابن الجوهري وأبو العباس أحمد بن علي بن أبي محمد بن نفادة السلمي ونصر الله بن عبد المنعم بن حواري الحنفي وأبو الفضل أرسلان بن إياس بن عبد الله الحلبي المهراني وذلك في شهر الله المحرم سنة تسع وعشرين وستماية على شاطئ دجلة منه في مدينة السلام وصح ذلك وثبت والحمد لله رب العالمين وصلواته على سيدنا محمد وآله الطاهرين"
+}

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد الأصبهاني السلفي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد حسان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 136"
+      ],
+      "classmark": [
+        "3763/25"
+      ],
+      "folio_number": [
+        "295v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 278,
+      "guid": "1e882af5-5569-4a70-80d1-e35b96d09f85",
+      "startIndex": 259,
+      "text": " القاسم بن البرزالي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "taqwiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 294,
+      "guid": "58054605-cbb0-45b3-a4a4-238f1c7fcecb",
+      "startIndex": 280,
+      "text": "المدرسة التقوية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "7807eb3a-e2b9-4065-995d-6a4819804731",
+      "startIndex": 75,
+      "text": "بدر الدين أبي محمد عبد اللطيف بن محمد بن محمد بن نصر الله الحموي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 171,
+      "guid": "a00d33de-1819-4652-9847-4fe877caefa6",
+      "startIndex": 162,
+      "text": "أبي القاسم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "679"
+        ]
+      },
+      "endIndex": 254,
+      "guid": "af950ac6-0ddd-4dfa-80af-3689fe138525",
+      "startIndex": 215,
+      "text": "السبت رابع عشر رجب سنة تسع وسبعين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": "ثم قرأت جميعها على أيضا على الشيخ الإمام العالم الفاضل الزاهد الورع الخطيب بدر الدين أبي محمد عبد اللطيف بن محمد بن محمد بن نصر الله الحموي الشافعي عرضا بأصله من أبي القاسم بقراءته عليه أنبا المملي سماعا وصح في يوم السبت رابع عشر رجب سنة تسع وسبعين وستمية كتب القاسم بن البرزالي بالمدرسة التقوية"
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أحمد بن قدامه المقدسي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/21054589"
+      ],
+      "work_title": [
+        "كتاب التوابين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "tagged"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 1384"
+      ],
+      "folio_number": [
+        "109r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000791q/f113.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000791q/f113.item.r=%22Arabe%201384%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer",
+          "reader"
+        ]
+      },
+      "endIndex": 165,
+      "guid": "0080dc59-ed1f-4f9c-80fb-09d66693692c",
+      "index": 1,
+      "isZeroPoint": false,
+      "startIndex": 141,
+      "text": "يوسف بن حسن بن عبد الهادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "870"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "ce693e61-9b65-4824-a85b-6e7d75fc6de2",
+      "index": 1,
+      "isZeroPoint": false,
+      "startIndex": 72,
+      "text": "يوم الاثنين سابع عشر شهر الله المحرم سنة سبعين وثمان ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 51,
+      "guid": "d5a93e1c-b23f-4d64-bc56-3892d7455dcb",
+      "index": 2,
+      "isZeroPoint": false,
+      "startIndex": 31,
+      "text": "شهاب الدين بن الشريفة",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت من أوله إلى هنا على الشيخ شهاب الدين بن الشريفة في ستة مجالس آخرها يوم الاثنين سابع عشر شهر الله المحرم سنة سبعين وثمان ماية وأجاز وكتب يوسف بن حسن بن عبد الهادي"
+}

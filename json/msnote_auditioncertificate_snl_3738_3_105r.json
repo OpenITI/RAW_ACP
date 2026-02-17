@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن عبد الله بن أبي سيف المدائني"
+      ],
+      "work_title": [
+        "كتاب التعازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 16"
+      ],
+      "classmark": [
+        "3738/3"
+      ],
+      "folio_number": [
+        "105r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "08aa8a47-b62c-482c-b7ee-e05b2cc3d299",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 185,
+      "text": "أبي القاسم ابن البسري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "1d73ea43-3476-4634-85f7-1f5e67d096d7",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 244,
+      "text": "أبي محمد بن السمرقندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 764,
+      "guid": "4097409d-236d-424b-932d-467306940f82",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 719,
+      "text": "أبي محمد الحسن بن علي بن المتوكل مولى بني هاشم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 809,
+      "guid": "418f2611-548d-4302-b973-de2ac7d18a9b",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 768,
+      "text": " أبي الحسن علي بن محمد بن أبي سيف المدائني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 992,
+      "guid": "4672b7b5-b9d9-4cf4-befe-5c7172f54346",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 924,
+      "text": "معين الدين أبي منصور سعيد بن محمد بن سعيد بن محمد عمر الرزاز البغدادي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 657,
+      "guid": "4c9d18d2-d04f-49a8-b1cb-c2e7be636be5",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 612,
+      "text": "أبي محمد عبد الله بن يحيى بن عبد الجبار السكري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 92,
+      "guid": "8d7433cf-b0e1-4c52-9bc8-93d279557587",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 38,
+      "text": "أبي المظفر عبد الخالق بن فيروز الجوهري الهمذاني الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "10"
+        ],
+        "year": [
+          "542"
+        ]
+      },
+      "endIndex": 503,
+      "guid": "9fdb7718-3e33-4192-8272-2a94851dbf43",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 470,
+      "text": "شوال من سنة اثنتين وأربعين وخمسمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 461,
+      "guid": "c3282183-e531-4aa8-8358-7ac30cc5924e",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 434,
+      "text": "محمد بن ناصر بن محمد بن علي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 517,
+      "guid": "c7670b49-a648-4bb1-a7d8-9878cb3c490f",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 506,
+      "text": "مدينة السلام",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 881,
+      "guid": "d2fb3a9e-19e8-4211-81c6-0b29a816a3fa",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 831,
+      "text": "أبي المعالي الفضل بن سهل بن بشر بن أحمد الإسفراييني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 714,
+      "guid": "ebf26712-3b04-4958-923c-aeea50291957",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 662,
+      "text": "أبي محمد جعفر بن محمد بن أحمد بن الحكم الواسطي المؤدب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 331,
+      "guid": "ff11f4f9-0492-4f68-b47b-9ecf00ee75c1",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 289,
+      "text": "أبي بكر أحمد بن علي بن ثابت الخطيب البغدادي",
+      "type": "person"
+    }
+  ],
+  "text": " صار ملكا بالشراء للشيخ الصالح الفقيه أبي المظفر عبد الخالق بن فيروز الجوهري الهمذاني الحنبلي نفعه الله بالعلم فقرأه والجزأين اللذين بعده وتم له سماع جميع الكتاب عليَّ بروايتي عن الشيخ أبي القاسم ابن البسري إجازة وبالسماع له وبروايتي عن الحافظ أبي محمد بن السمرقندي عن الشيخ الإمام الحافظ أبي بكر أحمد بن علي بن ثابت الخطيب البغدادي بإسناده المذكور في أوله بخطي وكذلك قرأ عليَّ ما في آخر الجزء الثاني من كتاب الموفقيات عن الزبير وكتب محمد بن ناصر بن محمد بن علي بخطه في شوال من سنة اثنتين وأربعين وخمسمئة بمدينة السلام دام بها الإسلام والحمد لله وحده ورواية الحافظ أبي بكر أحمد بن علي بن ثابت الخطيب البغدادي عن أبي محمد عبد الله بن يحيى بن عبد الجبار السكري عن أبي محمد جعفر بن محمد بن أحمد بن الحكم الواسطي المؤدب عن أبي محمد الحسن بن علي بن المتوكل مولى بني هاشم عن أبي الحسن علي بن محمد بن أبي سيف المدائني المؤلف رواية الأثير أبي المعالي الفضل بن سهل بن بشر بن أحمد الإسفراييني عن الخطيب إجازة رواية الشيخ العالم العدل معين الدين أبي منصور سعيد بن محمد بن سعيد بن محمد عمر الرزاز البغدادي عنه إجازة "
+}

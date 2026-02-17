@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن أبي هاشم غلام ثعلب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث غلام ثعلب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/7"
+      ],
+      "folio_number": [
+        "87r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "owner"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "1ac98352-d1b0-4e64-b007-f7f340c02f8b",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 218,
+      "text": "أبو عبد الله حمد بن أحمد بن محمد بن صديق الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 385,
+      "guid": "24562ac9-a06f-4d40-a462-1e160ee118ff",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 352,
+      "text": "عبد الله بن نصر بن أبي بكر الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "84667721-0d43-419e-8180-d2927578335c",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 151,
+      "text": "أبي الحسين المبارك بن عبد الجبار الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad"
+          ]
+        ]
+      },
+      "endIndex": 284,
+      "guid": "aa1878d8-7a58-412e-a47e-d9a723678ded",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 273,
+      "text": "مدينة السلام",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 436,
+      "guid": "d944c11d-a610-4244-80b5-7ee4d0833a80",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 403,
+      "text": "محمد بن عبد المنعم بن هامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "575"
+        ]
+      },
+      "endIndex": 345,
+      "guid": "e0c91f99-cf0f-47f0-b0e7-77d94625cc01",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 298,
+      "text": "يوم الأحد تاسع عشرين صفر سنة خمس وسبعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "e2435591-feb1-42e5-8fe0-3462b86c754b",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 88,
+      "text": "أبي الحسين عبد الحق بن عبد الخالق بن أحمد بن يوسف",
+      "type": "person"
+    }
+  ],
+  "text": " كان على الأصل المنقول منه هذا الفرع ما صورته قرأت جميع هذا الجزؤ على الشيخ الأجل الثقة أبي الحسين عبد الحق بن عبد الخالق بن أحمد بن يوسف بحق سماعه من أبي الحسين المبارك بن عبد الجبار الصيرفي فسمعه صاحبه الفقيه الإمام أبو عبد الله حمد بن أحمد بن محمد بن صديق الحراني وذلك بمدينة السلام بمنزل الشيخ يوم الأحد تاسع عشرين صفر سنة خمس وسبعين وخمسماية وكتب عبد الله بن نصر بن أبي بكر الحراني في التاريخ نقله محمد بن عبد المنعم بن هامل الحراني وشاهده"
+}

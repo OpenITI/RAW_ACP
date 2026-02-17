@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 149"
+      ],
+      "classmark": [
+        "3765/13"
+      ],
+      "folio_number": [
+        "127v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "448a95fc-925b-4069-b6b9-109332ec0ce1",
+      "startIndex": 39,
+      "text": "شجاع الذهلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 30,
+      "guid": "65014517-7cb1-4688-8a57-e8990bc42766",
+      "startIndex": 9,
+      "text": "الشريف أبي نصر الزينبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "476"
+        ]
+      },
+      "endIndex": 154,
+      "guid": "aa576bd5-7d66-43c3-a19d-a19738e4d110",
+      "startIndex": 108,
+      "text": "السبت العشرين من المحرم سنة ست وسبعين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "c5342db8-68ad-47cc-bc6d-0b5ea8b2cfec",
+      "startIndex": 58,
+      "text": "أبو القاسم سعيد بن أحمد بن الحسن بن البناء",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه من الشريف أبي نصر الزينبي بقراءة شجاع الذهلي جماعة وأبو القاسم سعيد بن أحمد بن الحسن بن البناء في يوم السبت العشرين من المحرم سنة ست وسبعين وأربعمائة"
+}

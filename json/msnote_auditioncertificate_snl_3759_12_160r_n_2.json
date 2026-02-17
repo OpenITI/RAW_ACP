@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي وإسماعيل الصفار"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/12"
+      ],
+      "folio_number": [
+        "160r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 83,
+      "guid": "0a15817e-a100-4de3-aa88-9caa2892c28d",
+      "startIndex": 41,
+      "text": "أم أحمد زينب بنت مكي بن علي بن كامل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 112,
+      "guid": "1af7a34d-e62d-4ca4-96c0-42f4b32ad2f0",
+      "startIndex": 97,
+      "text": "أبي حفص بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 250,
+      "guid": "571eb0e7-5589-40d8-9d3f-ae8436038d1f",
+      "startIndex": 236,
+      "text": "سفح جبل قاسيون ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "5b8c1430-b7f0-4c61-bca2-00ab34eec21c",
+      "startIndex": 133,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "601741bd-12dd-4e5a-b50a-923eae447bf5",
+      "startIndex": 177,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "580"
+        ]
+      },
+      "endIndex": 233,
+      "guid": "fa7cab03-4af1-4abe-94bf-852a1046877e",
+      "startIndex": 185,
+      "text": " الثلثا التاسع من جمادى الأولى سنة ثمانين وخمسمية",
+      "type": "date"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخة الصالحة المسندة أم أحمد زينب بنت مكي بن علي بن كامل الحراني بسماعهما من أبي حفص بن طبرزد بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي أخوه محمد يوم الثلثا التاسع من جمادى الأولى سنة ثمانين وخمسمية بسفح جبل قاسيون "
+}

@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        null
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عبد الرحمن بن أبي حاتم"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "زهد الثمانية من التابعين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 55/56 "
+      ],
+      "classmark": [
+        "3748/7"
+      ],
+      "folio_number": [
+        "168v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 24,
+      "guid": "4709af8e-4941-43f2-8f8f-5dc83cbe2c5b",
+      "startIndex": 8,
+      "text": " أبي طالب بن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "511"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "5ad43037-7981-4944-821f-0498e5e1512e",
+      "startIndex": 123,
+      "text": " يوم السبت خامس ذي الحجة من سنة إحدى عشرة وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "b0dd1b47-3a96-4c7b-b1be-7b972fb04710",
+      "startIndex": 78,
+      "text": "أبو القاسم ذاكر بن كامل بن أبي غالب الخفاف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 57,
+      "guid": "e97c77da-8edb-4a24-8d41-d523f7c30741",
+      "startIndex": 36,
+      "text": "أبي الفضل محمد بن ناصر",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه من أبي طالب بن يوسف بن بقراءة أبي الفضل محمد بن ناصر جماعة بقي منهم حيا أبو القاسم ذاكر بن كامل بن أبي غالب الخفاف في يوم السبت خامس ذي الحجة من سنة إحدى عشرة وخمسماية نقلته مختصرا من الأصل"
+}

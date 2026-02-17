@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي المقري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند نافع بن أبي نعيم المقري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 61- 62 "
+      ],
+      "classmark": [
+        "3750/3"
+      ],
+      "folio_number": [
+        "26r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 320,
+      "guid": "18260c8c-8886-49e2-a0f9-76a4a0e6b17c",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 289,
+      "text": "محمد بن رافع بن أبي محمد السلامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "11"
+        ],
+        "year": [
+          "724"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "7b136ac3-7af5-4aaf-b9dc-3d74df0dc712",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 330,
+      "text": "في ذي القعدة سنة أربع وعشرين وسبعمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "c4764464-242a-452b-acca-af955ea33db5",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 75,
+      "text": "أبي محمد عبد الله بن إبراهيم بن الضياء أبي عبد الله محمد بن أبي القاسم بن محمد القزويني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 194,
+      "guid": "e9c2ebab-a181-4bc4-ba5a-a7b6df8f6455",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 177,
+      "text": "محمد بن أبي القاسم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 374,
+      "guid": "f0f099f6-cb5c-47cf-a777-6a79504460d3",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 368,
+      "text": "القاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "fe7ffe54-f129-4a65-bd16-9873c100ba51",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 247,
+      "text": "يحيى بن محمود الثقفي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع هذا الجزء من حديث نافع القاري لابن المقري ومن حديث ابن منده على الشيخ أبي محمد عبد الله بن إبراهيم بن الضياء أبي عبد الله محمد بن أبي القاسم بن محمد القزويني بسماعه من جده محمد بن أبي القاسم بحلب سنة سبع وخمسين وستمية في ربيع الآخر بسماعه من يحيى بن محمود الثقفي كاتب السماع في الأصل محمد بن رافع بن أبي محمد السلامي بقراءته في ذي القعدة سنة أربع وعشرين وسبعمية بالقاهرة"
+}

@@ -1,0 +1,484 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/6"
+      ],
+      "folio_number": [
+        "93v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 685,
+      "guid": "056cf0a4-68ae-4137-a8a4-b02535189447",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 654,
+      "text": "عبد الغفار بن أبي القاسم المراغي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1145,
+      "guid": "17cc0901-5382-4630-a1b7-1642ef8961d5",
+      "index": 27,
+      "isZeroPoint": false,
+      "startIndex": 1078,
+      "text": "الشريفة ست النسب بنت أبي البركات بن عبد الله بن عبد الصمد بن المأمون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 1383,
+      "guid": "19ea2e18-9fc3-4332-a9c1-6700d5b6b463",
+      "index": 33,
+      "isZeroPoint": false,
+      "startIndex": 1347,
+      "text": "يوسف بن محمد بن مقلد التنوخي الدمشقي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 518,
+      "guid": "21f144b6-c82b-443e-a565-fe95b8ef7227",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 492,
+      "text": "المخلص أبي عبد الله المهذبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "11"
+        ],
+        "year": [
+          "529"
+        ]
+      },
+      "endIndex": 1616,
+      "guid": "30bd054e-c3e1-41d4-af5f-7c4351012f3d",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 1584,
+      "text": "ذي القعدة سنة تسع وعشرين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 79,
+      "guid": "3daa23e7-024b-4316-a3f3-98ea0b978d67",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 37,
+      "text": "أبي القاسم إسماعيل بن أحمد بن عمر السمرقندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 937,
+      "guid": "4676cba8-0bbe-4e82-a0dc-0841ca8e48bc",
+      "index": 23,
+      "isZeroPoint": false,
+      "startIndex": 897,
+      "text": "الشريف النجيب ابن أرسلان بن سلامة الهاشمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 727,
+      "guid": "5804a81a-e6c0-4ed3-a286-95943f5690a5",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 688,
+      "text": "أبو المظفر محمد بن أحمد بن سعدان الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1234,
+      "guid": "67517151-22e4-4085-ac93-b164444a63cf",
+      "index": 31,
+      "isZeroPoint": false,
+      "startIndex": 1227,
+      "text": "أم الفضل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 844,
+      "guid": "6bf9b60f-6c15-4884-bc9a-31e9f0f6b89d",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 779,
+      "text": "أبو المحاسن إسماعيل بن عبد الرحمن بن أبي منصور بن نصرويه الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1491,
+      "guid": "749b6786-7c22-4b65-86d4-db62509e8c6e",
+      "index": 35,
+      "isZeroPoint": false,
+      "startIndex": 1466,
+      "text": "أبو عبد الله الحاجي بن ركن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1002,
+      "guid": "7f01d750-d8a3-44c5-8d48-f803d40dcb3b",
+      "index": 24,
+      "isZeroPoint": false,
+      "startIndex": 963,
+      "text": "أبو منصور محمد بن محمد بن دلال الشيباني ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 600,
+      "guid": "8771ddb1-0594-4cea-a79c-bc826ed05c08",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 561,
+      "text": "أبو الفضل أحمد بن محمد بن ناصر الأبهريني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1344,
+      "guid": "87c39c53-a5cf-41ff-8cfa-8bebf7106f44",
+      "index": 32,
+      "isZeroPoint": false,
+      "startIndex": 1314,
+      "text": "فاطمة بنت يوسف بن سليمان الحمال",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 321,
+      "guid": "8f1e3c76-f567-4944-ba0e-c563b7d9ac22",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 275,
+      "text": "أبو القاسم علي بن عبد الوهاب بن هبة الله السيبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1544,
+      "guid": "9add7ea0-d01d-4d86-97ed-5984f98d0c1a",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 1524,
+      "text": "محمود بن شادي المراغي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1075,
+      "guid": "9d1b24a8-0d77-46d6-99d1-9de19f8ed35d",
+      "index": 26,
+      "isZeroPoint": false,
+      "startIndex": 1046,
+      "text": "كامل بن عبد الله عتيق ابن جهير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1159,
+      "guid": "af1b24f7-745a-4b98-a829-6f19ff3fc341",
+      "index": 28,
+      "isZeroPoint": false,
+      "startIndex": 1154,
+      "text": "فاطمة ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 894,
+      "guid": "b909d573-a147-4cbb-8a1d-eacc8e936be0",
+      "index": 22,
+      "isZeroPoint": false,
+      "startIndex": 847,
+      "text": "أبو رشيد بن معاوية بن فضل بن عبيد الله الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 384,
+      "guid": "c3060eef-50f8-493b-ad66-fadd2cf3f38a",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 338,
+      "text": "أم الفضل بنت هبة الله بن المظفر بن رئيس الرؤساء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1433,
+      "guid": "c96edcca-0306-4c1d-8d1a-77e40ff97b81",
+      "index": 34,
+      "isZeroPoint": false,
+      "startIndex": 1393,
+      "text": "بهاء الدين أبو العلاء الحسن بن النهاوندي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "d979864d-2bb7-4edd-a709-c3efd803a261",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 204,
+      "text": "نفيسة بنت عمر بن محمد بن عمويه السهروردي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1214,
+      "guid": "db320c88-879e-4ffc-9f4e-783771072d49",
+      "index": 29,
+      "isZeroPoint": false,
+      "startIndex": 1168,
+      "text": "خديجة بنت أبي غانم محمد بن أبي علي بن عبد الصمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 551,
+      "guid": "db4ae9ea-281e-4fd0-bd9e-0e543d95549c",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 521,
+      "text": "أبو الرشيد أحمد بن محمد الحقيقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 185,
+      "guid": "e7d0d035-3585-4ce6-ad1c-7c4058a0f4f4",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 125,
+      "text": "أبو النجيب عبد القاهر بن عبد الله بن محمد بن عمويه السهروردي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 776,
+      "guid": "e9dd5f31-8476-4d1c-91b3-77f74eff9bc0",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 730,
+      "text": "أبو بكر محمد بن أبي نصر بن الحسن بن جابر المقري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1043,
+      "guid": "ea0541bb-48ef-44ae-bcf1-028c08986985",
+      "index": 25,
+      "isZeroPoint": false,
+      "startIndex": 1004,
+      "text": "قرابكين بن عبد الله عتيق ابن جهير الخادم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1224,
+      "guid": "f5544012-fec3-4343-a523-9e1fed7eab78",
+      "index": 30,
+      "isZeroPoint": false,
+      "startIndex": 1217,
+      "text": "ست الشرف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 489,
+      "guid": "feda0424-f3d2-4f03-a6ab-0d173ab80704",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 427,
+      "text": "أبو المظفر عبد الصمد بن الحسين بن عبد الغفار الريحاني الكلاهيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 651,
+      "guid": "ffac4bf4-ac23-4498-af30-7a6f685ae3c3",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 603,
+      "text": "أبو المعالي عبد الملك بن أبي طالب بن عمر المنابجي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ الحافظ أبي القاسم إسماعيل بن أحمد بن عمر السمرقندي الشيخ الإمام الزاهد ضياء الدين جمال الإسلام أبو النجيب عبد القاهر بن عبد الله بن محمد بن عمويه السهروردي وابنة عمه العالمة نفيسة بنت عمر بن محمد بن عمويه السهروردي [في الأصل ابنت] والأجل الزاهد أبو القاسم علي بن عبد الوهاب بن هبة الله السيبي وزوجته الصالحة أم الفضل بنت هبة الله بن المظفر بن رئيس الرؤساء [في الاصل ابنت] والفقهاء السادة الصالحون أبو المظفر عبد الصمد بن الحسين بن عبد الغفار الريحاني الكلاهيني والمخلص أبي عبد الله المهذبي وأبو الرشيد أحمد بن محمد الحقيقي والزاهد أبو الفضل أحمد بن محمد بن ناصر الأبهريني وأبو المعالي عبد الملك بن أبي طالب بن عمر المنابجي وعبد الغفار بن أبي القاسم المراغي وأبو المظفر محمد بن أحمد بن سعدان الحنبلي وأبو بكر محمد بن أبي نصر بن الحسن بن جابر المقري وأبو المحاسن إسماعيل بن عبد الرحمن بن أبي منصور بن نصرويه الأصبهاني وأبو رشيد بن معاوية بن فضل بن عبيد الله الأصبهاني والشريف النجيب ابن أرسلان بن سلامة الهاشمي وكيل دار الشجرة والرئيس أبو منصور محمد بن محمد بن دلال الشيباني وقرابكين بن عبد الله عتيق ابن جهير الخادم وكامل بن عبد الله عتيق ابن جهير والشريفة ست النسب بنت أبي البركات بن عبد الله بن عبد الصمد بن المأمون وأختها فاطمة وخالتها خديجة بنت أبي غانم محمد بن أبي علي بن عبد الصمد وست الشرف وأم الفضل ابنتي أبي الغنائم عبد الصمد بن أبي غانم محمد بن أبي علي بن عبد الصمد والزاهدة فاطمة بنت يوسف بن سليمان الحمال ويوسف بن محمد بن مقلد التنوخي الدمشقي بقراءته وبهاء الدين أبو العلاء الحسن بن النهاوندي سمع الجميع إلا ورقتين من الأول وأبو عبد الله الحاجي بن ركن فاتته أربع أوراق من أول الجزء ومحمود بن شادي المراغي فاته النصف الأول من الجزء وصح وثبت في ذي القعدة سنة تسع وعشرين وخمسماية والحمد لله وحده وصلواته على سيدنا محمد وآله وصحبه"
+}

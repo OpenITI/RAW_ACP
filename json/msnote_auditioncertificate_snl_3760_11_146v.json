@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 113"
+      ],
+      "classmark": [
+        "3760/11"
+      ],
+      "folio_number": [
+        "146v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 197,
+      "guid": "13d1ddfb-73a1-4c5d-91d9-24bbedbbcf73",
+      "startIndex": 193,
+      "text": "البيع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 314,
+      "guid": "1ae26656-b446-4fc2-8718-6808f937bc0d",
+      "startIndex": 259,
+      "text": "نجم الدين أبو الفتح أحمد بن علي بن أبي المكارم الإبريسمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "darb_ghiyar"
+          ]
+        ]
+      },
+      "endIndex": 443,
+      "guid": "1c3efa9f-1500-42fc-8c9f-b6979c58243f",
+      "startIndex": 411,
+      "text": "منزل الشيخ بدرب الغيار شرقي بغداد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "637"
+        ]
+      },
+      "endIndex": 408,
+      "guid": "49650ea9-f1d5-4443-a26b-9317adf2d1e7",
+      "startIndex": 354,
+      "text": " يوم الأحد ثاني عشر جمادى الأولى سنة سبع وثلثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 247,
+      "guid": "4aa30d71-4708-4697-9e9f-279dd3518bf8",
+      "startIndex": 235,
+      "text": "أبو الحسن علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 189,
+      "guid": "6a2214ff-050f-419f-9ab2-76db86b81625",
+      "startIndex": 179,
+      "text": " ابن البطر ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 482,
+      "guid": "81551ddb-7306-41b4-af5e-857f682d20ab",
+      "startIndex": 450,
+      "text": "محمد بن تميم بن أحمد بن البندنيجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 346,
+      "guid": "a631c834-6cb5-448e-8f5f-8df5cfa6c4fd",
+      "startIndex": 324,
+      "text": "لؤلؤ بن عبد الله الكرجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "c0a13cab-b93f-48bf-9f26-ba4246f7ba38",
+      "startIndex": 95,
+      "text": "أبي طالب عبد اللطيف بن محمد بن علي بن القبيطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "c7e696a2-7b88-4444-b52b-d818b3d10f0e",
+      "startIndex": 156,
+      "text": "أبي المعالي بن حنيفة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 232,
+      "guid": "f9545f37-1631-43a7-9ec0-f7df7e651d20",
+      "startIndex": 218,
+      "text": "أبو القاسم تميم",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء السادس وجميع الجزوين السابع والثامن اللذين بعده من حديث المحاملي على الشيخ أبي طالب عبد اللطيف بن محمد بن علي بن القبيطي بسماعه لذلك من أبي المعالي بن حنيفة عن ابن البطر عن البيع عنه فسمع ذلك ابناي أبو القاسم تميم وأبو الحسن علي وابن أختي نجم الدين أبو الفتح أحمد بن علي بن أبي المكارم الإبريسمي ومملوكه لؤلؤ بن عبد الله الكرجي وصح في يوم الأحد ثاني عشر جمادى الأولى سنة سبع وثلثين وستماية بمنزل الشيخ بدرب الغيار شرقي بغداد وكتب محمد بن تميم بن أحمد بن البندنيجي حامدا الله ومصليا على محمد "
+}

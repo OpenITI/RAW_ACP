@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الفضل محمد بن احمد بن محمد الجارودي الهروي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من رواية ابن العالي وغيره بانتقاء ابي الفضل الجارودي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Sprenger 516"
+      ],
+      "folio_number": [
+        "9v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00011392"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "766"
+        ]
+      },
+      "endIndex": 852,
+      "guid": "48a80542-b907-4d4d-970e-e4be20e4c2a6",
+      "startIndex": 790,
+      "text": "يوم الإثنين خامس عشر ذي [الـ]قعدة الحرام سنة ست وستين وسبع مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 873,
+      "guid": "5f6b0f81-9ad6-43cd-8d73-c66f44f9e925",
+      "startIndex": 855,
+      "text": "سكن المسمع بالديماس",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 236,
+      "guid": "6e36c223-408e-406e-8dbf-319bcb70fa17",
+      "startIndex": 217,
+      "text": "تاج الدين الغرَّافِي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "7f5033c3-1085-467e-ba4c-6de361c21283",
+      "startIndex": 65,
+      "text": "شمس الدين أبي الثناء محمود بن خليفة بن محمد بن خلف المنبجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 997,
+      "guid": "87d85226-f962-46f5-8c4d-cf1b5ce4ddd4",
+      "startIndex": 944,
+      "text": "أبو الفضل محمد بن محمد بن أبي بكر بن عبد العزيز القدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 759,
+      "guid": "ae75986d-a160-4264-bf9a-6b26b4a6f6cd",
+      "startIndex": 702,
+      "text": "نور الدين أبو الحسن علي بن الحسين بن علي ابن البناء المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 192,
+      "guid": "becfc751-8a9a-4a41-b574-c523c05229ff",
+      "startIndex": 176,
+      "text": "عز الدين الفاروثي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 1098,
+      "guid": "d2509150-435c-4a15-950c-8d03f070442f",
+      "startIndex": 1071,
+      "text": "الرشيد أبي القاسم ابن المصري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 381,
+      "guid": "d52b3013-25b9-484d-9c04-b6d41188ce46",
+      "startIndex": 325,
+      "text": "بهاء الدين أبي عبد الله عمر بن محمد بن عبد الله السهروردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "f1fc2328-bc69-4f2b-93ac-9caeffb6e5b1",
+      "startIndex": 263,
+      "text": " ابن روزبة",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على سيدنا الشيخ الإمام المسند المكثر المُفيد شمس الدين أبي الثناء محمود بن خليفة بن محمد بن خلف المنبجي بسماعه له على الشيخ رشيد الدين، وحضوره له على الشيخ عز الدين الفاروثي، وبإجازته له من الشريف تاج الدين الغرَّافِي بسماعهما وحضور الرشيد على ابن روزبة بسنده، وجميع مشيخة الشيخ الإمام العارف شيخ الإسلام بهاء الدين أبي عبد الله عمر بن محمد بن عبد الله السهروردي والأحاديث الخمسة الملحقة بها التي سمعها الرشيد منه وأولها حديث من كذب عليَّ متعمداً الحديث، وآخرها فيحلف حالفٌ بالله أو ليسكت، وأول المشيخة الحديث المسلسل بالأولية، ومسلسل لي بحكم أن أول شيء قرأته على المسمع المذكور، وآخرها أفضلكم من تعلم القرآن وعلَّمه؛ فسمعها مع الخمسة الأحاديث الملحقة بها سيدنا الشيخ الإمام الحافظ نور الدين أبو الحسن علي بن الحسين بن علي ابن البناء المصري وصح ذلك وثبت في مجلس واحد في يوم الإثنين خامس عشر ذي [الـ]قعدة الحرام سنة ست وستين وسبع مائة بسكن المسمع بالديماس من دمشق المحروسة وأجاز لنا ما له روايته [بلفظه/ بنطقه] قال ذلك وكتبه أبو الفضل محمد بن محمد بن أبي بكر بن عبد العزيز القدسي إمام جامع الأقمر بالقاهرة وسماع شيخنا المسمع للمشيخة مع ما ألحق بها على الرشيد أبي القاسم ابن المصري المذكور أعلاه بسماعه لذلك من السهروردي رحمه الله."
+}

@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن أبي داود سليمان بن الأشعث السجستاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب البعث"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "1028"
+      ],
+      "folio_number": [
+        "11r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 65,
+      "guid": "05bbd84f-6d69-4d3b-a999-2d876af6b54c",
+      "startIndex": 54,
+      "text": "أبو بكر محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "5"
+        ],
+        "year": [
+          "476"
+        ]
+      },
+      "endIndex": 105,
+      "guid": "a665a6aa-32f2-482b-a42a-0a0a61d21137",
+      "startIndex": 70,
+      "text": "جمادى الأولى سنة ست سبعين وأربعماية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 47,
+      "guid": "de9ceed0-37d3-413d-bd0c-91bca106dec0",
+      "startIndex": 16,
+      "text": "علي بن عبيد الله بن نصر الزاغوني",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع منه بقراءة علي بن عبيد الله بن نصر الزاغوني أخوه أبو بكر محمد في جمادى الأولى سنة ست سبعين وأربعماية "
+}

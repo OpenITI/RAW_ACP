@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الخطيب البغدادي بجامع دمشق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 143"
+      ],
+      "classmark": [
+        "3764/15"
+      ],
+      "folio_number": [
+        "210r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "463"
+        ]
+      },
+      "endIndex": 174,
+      "guid": "2cf5b514-56a1-4602-806a-af1f3806133f",
+      "startIndex": 129,
+      "text": " يوم الجمعة سابع محرم سنة ثلاث وستين وأربعمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "74fa1afe-5e61-4a98-ad94-7ab75720c343",
+      "startIndex": 67,
+      "text": "أبو القاسم عبد الملك بن الحسن بن خيرون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "7cdcc02e-5fc5-45af-96f9-989f749cca2c",
+      "startIndex": 112,
+      "text": "أبو منصور محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "ce5d9d04-c0df-42e3-b8a5-035bdcf87d4f",
+      "startIndex": 32,
+      "text": "محمد بن أحمد بن الخاضبة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 14,
+      "guid": "f5138e6b-a205-4069-9131-2e7ea92d5861",
+      "startIndex": 8,
+      "text": "الخطيب ",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه من الخطيب رحمه الله بقراءة محمد بن أحمد بن الخاضبة جماعة منهم أبو القاسم عبد الملك بن الحسن بن خيرون وابنه أبو منصور محمد في يوم الجمعة سابع محرم سنة ثلاث وستين وأربعمائة"
+}

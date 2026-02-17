@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث من أبي القاسم عبيد الله بن أحمد بن علي الصيدلاني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "177r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f181.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f181.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 90,
+      "guid": "37bf1656-c052-43d5-867d-dc36e78e080f",
+      "index": 184,
+      "isZeroPoint": false,
+      "startIndex": 82,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "682"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "4f22ffc8-73c0-4249-8f08-7eec597c60a0",
+      "index": 186,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "يوم الاثنين سابع عشرين جمادى الأول سنة اثنتين وثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 226,
+      "guid": "793bb304-60d0-476b-99ad-da1f1e31d1bd",
+      "index": 187,
+      "isZeroPoint": false,
+      "startIndex": 219,
+      "text": "الضيائية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 70,
+      "guid": "88e694ba-5d54-4740-a940-c7787bc0d50b",
+      "index": 183,
+      "isZeroPoint": false,
+      "startIndex": 18,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 122,
+      "guid": "d19245e4-e427-4e81-be5f-cc41fe0f1939",
+      "index": 185,
+      "isZeroPoint": false,
+      "startIndex": 92,
+      "text": "القاسم بن محمد بن يوسف البرزالي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي بسماعه من ابن طبرزد القاسم بن محمد بن يوسف البرزالي بقراءته والسماع بخطه في الأصل في يوم الاثنين سابع عشرين جمادى الأول سنة اثنتين وثمانين وستمئة بالضيائية"
+}

@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن عبد الرحمن الدارمي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "المسند الجامع"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 364 "
+      ],
+      "folio_number": [
+        "284r"
+      ],
+      "image_link": [
+        "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2423654%7EJP2%7Ef878cd279df45982af882759b52f93b5436ef703ffda72ebd80d7fa882a850d1%7Edigitalc/full/pct:22/0/default.jpg"
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/18s393l/alma9939281713902711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 335,
+      "guid": "4060fea5-9b28-4079-bdcc-462fb07eb68b",
+      "startIndex": 315,
+      "text": "عيسى بن عمر السمرقندي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "5c611186-5f50-425e-b6f5-0ed9d51c7ce4",
+      "startIndex": 223,
+      "text": "أبي الوقت عبد الأول بن عيسى بن شعيب السجزي ثم الهروي الصوفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 347,
+      "guid": "6294978f-7c8c-4b82-bbcf-df9f0d655944",
+      "startIndex": 340,
+      "text": "الدارمي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "74833055-bf1d-42a1-a7c8-fbc03dc8246d",
+      "startIndex": 305,
+      "text": "الحموي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 432,
+      "guid": "8c5d679b-340b-4f39-9654-f2f15faf55f1",
+      "startIndex": 423,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 415,
+      "guid": "a0a1fd69-cd65-4d84-9a17-e9c560cb81da",
+      "startIndex": 382,
+      "text": "أبي العز عبد المغيث الحرمي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "553"
+        ]
+      },
+      "endIndex": 576,
+      "guid": "c80f4b2a-efe9-42a4-9285-822b44d89298",
+      "startIndex": 538,
+      "text": "تاسع عشر شعبان سنة ثلاث وخمسين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 301,
+      "guid": "d81bb595-ee6e-4317-b126-1c4079a57b60",
+      "startIndex": 294,
+      "text": "الداودي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "qasr_mosque"
+          ]
+        ]
+      },
+      "endIndex": 590,
+      "guid": "d8a0a233-652c-4384-8cc2-9449a9ad568a",
+      "startIndex": 579,
+      "text": "جامع المنصور",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 444,
+      "guid": "f3a22b48-9efd-4b9b-be0c-1eb66464756b",
+      "startIndex": 435,
+      "text": "عبد المعيد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 510,
+      "guid": "f53ee71b-24cd-4047-a903-8b163d4f6b7c",
+      "startIndex": 478,
+      "text": "زكريا بن أبي الحسن بن حسان العلبي",
+      "type": "person"
+    }
+  ],
+  "text": "قال الأثري عفا الله عنه شاهدت على نسخة الأصل بالدارمي [كذا] طبقة سماع على الشيخ أبي الوقت رحمه الله واختصرتها وأولها سمع جميع هذا الكتاب المسند لأبي محمد الدارمي على الشيخ السديد العالم شيخ الإسلام ومسند العصر ورحلة الدنيا أبي الوقت عبد الأول بن عيسى بن شعيب السجزي ثم الهروي الصوفي بروايته عن الداودي عن الحموي عن عيسى بن عمر السمرقندي عن الدارمي بقراءة الإمام العالم الحافظ الورع أبي العز عبد المغيث الحرمي الحنبلي ابناه عبد الرحمن وعبد المعيد ثم ذكر جماعة كثيرين إلى أن قال وزكريا بن أبي الحسن بن حسان العلبي إلى أن قال في مجالس آخرها تاسع عشر شعبان سنة ثلاث وخمسين وخمسماية بجامع المنصور فيه مصلح خمسماية كتبه الأثري "
+}

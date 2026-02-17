@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن الفضل بن أحمد بن محمد الفراوي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "العوالي المائة من مسموعات الفراوي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 14"
+      ],
+      "catalog": [
+        "FMMU 172"
+      ],
+      "classmark": [
+        "3770/1"
+      ],
+      "folio_number": [
+        "2v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 130,
+      "guid": "3686021d-7c12-4951-a65f-cf25d851bbc5",
+      "startIndex": 126,
+      "text": "الجبل",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "6"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "4847e3e5-c8b7-4018-92cb-b257e9f1ecb4",
+      "startIndex": 80,
+      "text": "الجمعة لست خلون من شوال سنة خمس وستين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 26,
+      "guid": "4c685bc6-6ec4-477e-af76-8e657fdb08ff",
+      "startIndex": 19,
+      "text": "الشقراوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "eb462515-1139-4e3e-998d-901f9769341f",
+      "startIndex": 28,
+      "text": "زينب بنت نجم الدين إسماعيل بن إبراهيم بن الخباز",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعها عليه بقراءة الشقراوي زينب بنت نجم الدين إسماعيل بن إبراهيم بن الخباز يوم الجمعة لست خلون من شوال سنة خمس وستين وستمئة بالجبل"
+}

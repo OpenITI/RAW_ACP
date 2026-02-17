@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن حرب بن محمد الطائي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من حديث سفيان بن عيينة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 107"
+      ],
+      "classmark": [
+        "3759/7"
+      ],
+      "folio_number": [
+        "82v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 256,
+      "guid": "2a011ef6-bc88-4823-8aca-19dbd1e92935",
+      "startIndex": 249,
+      "text": "ابن نفيس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "361f6585-d883-4472-88fd-32e6818368c0",
+      "startIndex": 78,
+      "text": "أبي العباس أحمد بن محمد بن عبد الغني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 190,
+      "guid": "39bf9fa7-ce19-4553-9594-fbd9936fa305",
+      "startIndex": 164,
+      "text": "عبد الحافظ بن بدران بن شبل ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 220,
+      "guid": "42df2f56-bac0-456d-bb23-fd40f72dd3cb",
+      "startIndex": 192,
+      "text": "إسماعيل بن عبد الرحمن بن عمرو",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "7"
+        ],
+        "year": [
+          "617"
+        ]
+      },
+      "endIndex": 317,
+      "guid": "677d4a81-61ce-4b77-8ffb-9d32e1bed639",
+      "startIndex": 302,
+      "text": "رجب سنة سبع عشرة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 153,
+      "guid": "9b4bba1b-69fd-48be-88f8-4dc440913271",
+      "startIndex": 149,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 69,
+      "guid": "ca7628f4-2bdf-442c-a5d2-2d3b7b9e3215",
+      "startIndex": 42,
+      "text": "موفق الدين أبي محمد بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "cae6d8be-96d2-4b38-a01f-749ae9735303",
+      "startIndex": 115,
+      "text": "أحمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "d8d99fc8-114c-4b30-8d05-0595d5ad22a1",
+      "startIndex": 236,
+      "text": "الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "f7cbb2fb-b556-41ce-a68f-e0d056af9ee8",
+      "startIndex": 121,
+      "text": "محمد",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء كله على الشيخ الإمام الأوحد موفق الدين أبي محمد بن قدامة بقراءة أبي العباس أحمد بن محمد بن عبد الغني أحمد ومحمد ابنا عبد الرحيم وعمهما محمد والخط له وعبد الحافظ بن بدران بن شبل وإسماعيل بن عبد الرحمن بن عمرو وآخرون اختصره الذهبي من خط ابن نفيس وهو نقله من الأصل والحمد لله رب العالمين في رجب سنة سبع عشرة [617]"
+}

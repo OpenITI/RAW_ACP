@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن محمد بن أحمد بن جعفر بن حمدان الحنفي القدوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء من حديث القدوري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/20"
+      ],
+      "folio_number": [
+        "259r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "3154f8b9-462d-4590-8708-cfc29dcdfc82",
+      "index": 207,
+      "isZeroPoint": false,
+      "startIndex": 113,
+      "text": "عبد الغني المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "4841d004-cc79-427d-91b8-47ea89f9d367",
+      "index": 209,
+      "isZeroPoint": false,
+      "startIndex": 173,
+      "text": "فضائل بن علي بن عبد الله المخزومي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 358,
+      "guid": "76054248-be01-46ad-8d50-f756f4dd79b7",
+      "index": 212,
+      "isZeroPoint": false,
+      "startIndex": 338,
+      "text": "بدر الدين ابن الجوهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "a09bde3c-860b-4fbf-b478-7749327ce868",
+      "index": 206,
+      "isZeroPoint": false,
+      "startIndex": 65,
+      "text": "عبد الوهاب بن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 311,
+      "guid": "b5def685-9c23-45cf-86c4-35c6a052aea9",
+      "index": 211,
+      "isZeroPoint": false,
+      "startIndex": 283,
+      "text": "عبيد بن محمد بن عباس الأسعردي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "17"
+        ],
+        "month": [
+          "10"
+        ],
+        "year": [
+          "598"
+        ]
+      },
+      "endIndex": 260,
+      "guid": "d4d59826-a2c3-4cee-8102-6276df22d81f",
+      "index": 210,
+      "isZeroPoint": false,
+      "startIndex": 223,
+      "text": "سابع عشر شوال سنة ثمان وتسعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "f5560d19-f994-49e5-b4c3-06769a1d3513",
+      "index": 208,
+      "isZeroPoint": false,
+      "startIndex": 131,
+      "text": "عبد الله بن عبد الواحد المعروف بابن حجاج",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 52,
+      "guid": "fc3e5b7e-b4bc-44d3-bbe5-d3cbde0156ef",
+      "index": 205,
+      "isZeroPoint": false,
+      "startIndex": 10,
+      "text": "فاطمة بنت سعد الخير بن محمد بن سهل الأنصاري",
+      "type": "person"
+    }
+  ],
+  "text": " سمعه على فاطمة بنت سعد الخير بن محمد بن سهل الأنصاري بسماعها من عبد الوهاب بن الأنماطي بسنده أوله بقراءة الحافظ عبد الغني المقدسي عبد الله بن عبد الواحد المعروف بابن حجاج وفضائل بن علي بن عبد الله المخزومي وبخطه السماع في سابع عشر شوال سنة ثمان وتسعين وخمسماية نقله مختصرا من الأصل عبيد بن محمد بن عباس الأسعردي ومن خطه نقل شيخنا القاضي بدر الدين ابن الجوهري ومن خطه نقلت"
+}

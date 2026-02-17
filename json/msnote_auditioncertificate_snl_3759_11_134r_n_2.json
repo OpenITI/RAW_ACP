@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن هارون الضبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الضبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 108"
+      ],
+      "classmark": [
+        "3759/11"
+      ],
+      "folio_number": [
+        "134r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 55,
+      "guid": "34406923-cddc-4802-a1be-91b14de4293a",
+      "startIndex": 24,
+      "text": "أبي العباس أحمد بن تغلب بن شيبان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 158,
+      "guid": "4b758e18-06a1-4831-91ee-76131358312a",
+      "startIndex": 151,
+      "text": "الأشرفية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "8"
+        ],
+        "year": [
+          "684"
+        ]
+      },
+      "endIndex": 148,
+      "guid": "51f07cf0-1f26-48da-bb04-6f7bbcccbc50",
+      "startIndex": 112,
+      "text": " تاسع شعبان سنة أربع وثمانين [وستمية]",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 75,
+      "guid": "5bfe9062-62e6-453a-be96-02477c34aed5",
+      "startIndex": 67,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "c4b0a239-aaf4-4628-acfc-d3af02a410cf",
+      "startIndex": 85,
+      "text": "محمود الأرموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "d149b405-f92c-448f-b138-46feb58d46bc",
+      "startIndex": 99,
+      "text": "يوسف المزي",
+      "type": "person"
+    }
+  ],
+  "text": "وسمع المجلس الخمسين على أبي العباس أحمد بن تغلب بن شيبان بسماعه من ابن طبرزد وبقراءة محمود الأرموي يوسف المزي في تاسع شعبان سنة أربع وثمانين [وستمية] بالأشرفية وجماعة "
+}

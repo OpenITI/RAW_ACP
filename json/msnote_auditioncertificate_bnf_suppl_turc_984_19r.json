@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن أحمد بن عبد الرحمن المقدسي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "الموافقات العوالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "19r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f20.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f20.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "0947ce5b-729e-4105-85e0-b10ce075f1c8",
+      "index": 206,
+      "isZeroPoint": false,
+      "startIndex": 50,
+      "text": "نجم الدين أبي الفداء إسماعيل بن إبراهيم بن سالم بن بركات بن الخباز الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "695"
+        ]
+      },
+      "endIndex": 1036,
+      "guid": "160935ec-862c-40d3-b58c-1762a8ced993",
+      "index": 221,
+      "isZeroPoint": false,
+      "startIndex": 951,
+      "text": "يوم الجمعة لثلاث بقين من شهر ربيع مولد النبي صلى الله عليه وسلم سنة خمس وتسعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 596,
+      "guid": "167c77ab-adfc-4a46-b56e-9e56efd53dc4",
+      "index": 216,
+      "isZeroPoint": false,
+      "startIndex": 542,
+      "text": "أبو بكر بن قاسم بن أبي بكر بن عبد الرحمن الرحبي الكناني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 925,
+      "guid": "1def6e66-fae9-4836-8ccd-0971e978df0f",
+      "index": 220,
+      "isZeroPoint": false,
+      "startIndex": 893,
+      "text": "فاطمة ابنة الشيخ الإمام سعد الخير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "21008f72-ef91-4685-8018-afb228ae554a",
+      "index": 209,
+      "isZeroPoint": false,
+      "startIndex": 253,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1047,
+      "guid": "7531ff1c-4e2d-4c2b-9f57-a3e888d5075d",
+      "index": 222,
+      "isZeroPoint": false,
+      "startIndex": 1039,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "83109972-f07c-41a6-8e0c-20272bd25282",
+      "index": 207,
+      "isZeroPoint": false,
+      "startIndex": 143,
+      "text": "ضياء الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 492,
+      "guid": "8a88cedf-f20d-4623-b87c-4d6d698c7974",
+      "index": 214,
+      "isZeroPoint": false,
+      "startIndex": 457,
+      "text": "عبد الحميد بن إسماعيل بن نصر الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 845,
+      "guid": "94fd36f4-e648-48c4-9c58-9ab05c1ad165",
+      "index": 218,
+      "isZeroPoint": false,
+      "startIndex": 836,
+      "text": "ابن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 539,
+      "guid": "98888581-1568-4a81-8cca-333a387507df",
+      "index": 215,
+      "isZeroPoint": false,
+      "startIndex": 495,
+      "text": "فخر الدين عثمان بن بلبان بن عبد الله المقاتلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "a1b0b209-3771-4961-b593-13650429ea13",
+      "index": 208,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 376,
+      "guid": "a41ed95d-88d5-4e74-9cee-ef6b749aa3b7",
+      "index": 211,
+      "isZeroPoint": false,
+      "startIndex": 312,
+      "text": "علاء الدين أبو الحسن علي بن عثمان بن إبراهيم بن يحيى بن قاضي بالس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 309,
+      "guid": "aca2ef4d-308f-4d9b-b973-637acc074017",
+      "index": 210,
+      "isZeroPoint": false,
+      "startIndex": 265,
+      "text": "شمس الدين محمد بن أحمد بن عثمان الذهبي المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 404,
+      "guid": "b4650f87-621d-462e-bf69-bc1922b50a3b",
+      "index": 212,
+      "isZeroPoint": false,
+      "startIndex": 379,
+      "text": "عمر بن يوسف بن هاشم الخياط",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 1208,
+      "guid": "b9376014-9961-41c5-9f42-66a65f267b87",
+      "index": 223,
+      "isZeroPoint": false,
+      "startIndex": 1159,
+      "text": "صحيح ذلك كتبه إسماعيل ابن إبراهيم بن سالم الأنصاري",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 663,
+      "guid": "e11f5ffa-e450-4b7f-acd8-ea3340c5d654",
+      "index": 217,
+      "isZeroPoint": false,
+      "startIndex": 626,
+      "text": "شمس الدين محمد بن أحمد بن عثمان الذهبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 441,
+      "guid": "ed290bd3-d1db-4865-8984-b9b4e7e1ad26",
+      "index": 213,
+      "isZeroPoint": false,
+      "startIndex": 412,
+      "text": "محمد بن قاسم بن الأحمد الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 866,
+      "guid": "f327c347-23ea-4a0c-abf1-2370b0265cfd",
+      "index": 219,
+      "isZeroPoint": false,
+      "startIndex": 857,
+      "text": "ضياء الدين",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء علي الشيخ الإمام العالم الرحال نجم الدين أبي الفداء إسماعيل بن إبراهيم بن سالم بن بركات بن الخباز الأنصاري بسماعه من الحافظ ضياء الدين بسنده بقراءة الإمام العالم الحافظ فريد عصره أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي ابنه عبد الرحمن وشمس الدين محمد بن أحمد بن عثمان الذهبي المقرئ وعلاء الدين أبو الحسن علي بن عثمان بن إبراهيم بن يحيى بن قاضي بالس وعمر بن يوسف بن هاشم الخياط أبوه ومحمد بن قاسم بن الأحمد الشافعي والفقيه الأجل عبد الحميد بن إسماعيل بن نصر الحنبلي وفخر الدين عثمان بن بلبان بن عبد الله المقاتلي وأبو بكر بن قاسم بن أبي بكر بن عبد الرحمن الرحبي الكناني وهذا خطه وسمعوا عليه بقراءة شمس الدين محمد بن أحمد بن عثمان الذهبي جزءا فيه أحاديث منتقاة من أصول سماع الحسن بن إبراهيم من الموافقات العوالي الصحاح والغرائب الحسان انتقاها من أصوله تذكرة لأبي الحسن سعد الخير بن محمد بن سهل الأنصاري بسماع ابن الخباز من الحافظ ضياء الدين بسماعه من الشيخة الجليلة فاطمة ابنة الشيخ الإمام سعد الخير سماعها منه وصح ذلك وثبت يوم الجمعة لثلاث بقين من شهر ربيع مولد النبي صلى الله عليه وسلم سنة خمس وتسعين وستمائة بجامع دمشق الأموي وأجاز الشيخ للجماعة جميع ما يجوز له روايته وتلفظ بذلك والحمد لله وحده وصلواته على محمد وآله وصحبه وسلم\nصحيح ذلك كتبه إسماعيل ابن إبراهيم بن سالم الأنصاري"
+}

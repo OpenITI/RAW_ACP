@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الرحمن بن عمر البزار المصري المعروف بابن النحاس "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن النحاس"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 51 "
+      ],
+      "classmark": [
+        "3747/12"
+      ],
+      "folio_number": [
+        "159v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 578,
+      "guid": "00ec7105-474a-478b-83d5-0421010b1c45",
+      "index": 13,
+      "isZeroPoint": false,
+      "startIndex": 507,
+      "text": "إسماعيل بن عبد الله بن عبد المحسن الأنصاري المالكي المعروف بابن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo"
+          ]
+        ]
+      },
+      "endIndex": 646,
+      "guid": "0ad51057-fb58-43bb-a12b-ca321deeac06",
+      "index": 15,
+      "isZeroPoint": false,
+      "startIndex": 625,
+      "text": "مسجد المسمع [...] بمصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "28498689-a5a8-4f40-ac02-df57be7f19d7",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 256,
+      "text": "أبو الفضل عبد العظيم بن صالح بن شجاع",
+      "type": "person"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 834,
+      "guid": "47c89bfe-b01d-4646-9c6c-c34c51089752",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 648,
+      "text": "صحيح ذلك وكتب الفقير إلى رحمة ربه شجاع بن محمد بن سيدهم بن عمر المدلجي المالكي حامدا الله ومصليا على نبيه وآله وصحبه وسلامه في التاريخ المذكور أعلاه والحمدلله وسلامه على عباده الذين اصطفى",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "862347a7-7cfc-4b65-966d-b6a84bff82a8",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 141,
+      "text": "سلطان بن رشأ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 136,
+      "guid": "94c052d6-78d8-479f-853a-2d4d89506980",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 128,
+      "text": "ابن موهوب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "bc5b54c0-5be2-48b9-8d1e-aa2549da5358",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 57,
+      "text": "أبي الحسن شجاع بن محمد بن سيدهم المدلجي المالكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 224,
+      "guid": "bf5994f2-e13f-4b53-80ea-fb28f1f13067",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 184,
+      "text": "أبي محمد عبد الله بن رفاعة بن عزيز السعدي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 428,
+      "guid": "c0d6356c-d63c-4775-ae9e-b29ade40d0ae",
+      "index": 11,
+      "isZeroPoint": false,
+      "startIndex": 366,
+      "text": "أبو الفضائل المبارك بن الفقيه أبي زكريا يحيى بن رزق الله القارئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "ca12b975-4939-44ae-8b32-f12c4ba2e3b1",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 157,
+      "text": "الخلعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 493,
+      "guid": "d1031be7-862a-40df-9f88-32af77969c20",
+      "index": 12,
+      "isZeroPoint": false,
+      "startIndex": 431,
+      "text": "أبو محمد عبد الصمد بن الفقيه أبي محمد عبد الملك بن علي بن سمعون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "590"
+        ]
+      },
+      "endIndex": 622,
+      "guid": "f7bf1c97-28d6-4320-bded-b17905ed1d0f",
+      "index": 14,
+      "isZeroPoint": false,
+      "startIndex": 591,
+      "text": "خامس عشر صفر سنة تسعين وخمس ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 363,
+      "guid": "f93b56ad-2c01-4368-b8ad-8dd5c3b6e94c",
+      "index": 10,
+      "isZeroPoint": false,
+      "startIndex": 301,
+      "text": "أبو الحسين علي بن أبي عبد الله محمد بن أبي الحسن بن شكر العباسي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على سيدنا الشيخ الفقيه الإمام العالم أبي الحسن شجاع بن محمد بن سيدهم المدلجي المالكي وفقه الله بحق سماعه من ابن موهوب عن سلطان بن رشأ عن الخلعي وبحق إجازته أيضا من أبي محمد عبد الله بن رفاعة بن عزيز السعدي عن الخلعي فسمع ابن ابن المسمع أبو الفضل عبد العظيم بن صالح بن شجاع والشريف أبو الحسين علي بن أبي عبد الله محمد بن أبي الحسن بن شكر العباسي وأبو الفضائل المبارك بن الفقيه أبي زكريا يحيى بن رزق الله القارئ وأبو محمد عبد الصمد بن الفقيه أبي محمد عبد الملك بن علي بن سمعون وذلك بقراءة إسماعيل بن عبد الله بن عبد المحسن الأنصاري المالكي المعروف بابن الأنماطي هذا خطه في خامس عشر صفر سنة تسعين وخمس ماية بمسجد المسمع [...] بمصر صحيح ذلك وكتب الفقير إلى رحمة ربه شجاع بن محمد بن سيدهم بن عمر المدلجي المالكي حامدا الله ومصليا على نبيه وآله وصحبه وسلامه في التاريخ المذكور أعلاه والحمدلله وسلامه على عباده الذين اصطفى"
+}

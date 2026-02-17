@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن العزيز البغوي البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حكايات أبي بسطام"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/2"
+      ],
+      "folio_number": [
+        "22r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "4004a833-a921-42b1-aa51-a0878bf60ec2",
+      "startIndex": 104,
+      "text": "أبي المظفر يوسف بن النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "19"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "640"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "596302cd-5d9b-4c34-927c-e1918878dcc1",
+      "startIndex": 221,
+      "text": "يوم الاثنين تاسع عشر رجب سنة أربعين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "68fc0f1f-88d9-4c64-b762-a91dee34593e",
+      "startIndex": 132,
+      "text": "أبو الحسن علي بن محمد بن علي بن البالسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "al-maytur"
+          ]
+        ]
+      },
+      "endIndex": 272,
+      "guid": "6ef7de75-1b28-4070-ba63-2ca94487761a",
+      "startIndex": 266,
+      "text": "الميطور",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "b5b3b8b8-bdd7-4189-b035-49d411787836",
+      "startIndex": 183,
+      "text": "محمد أبا المعالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 73,
+      "guid": "c2eadbd9-3a80-441d-ba70-7d6bb0c8dbb1",
+      "startIndex": 30,
+      "text": "أم الفضل كريمة بنت عبد الوهاب بن علي القرشية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 95,
+      "guid": "d559645f-c374-4f91-adaa-163631b31b8c",
+      "startIndex": 87,
+      "text": "أبي الوقت",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخة أم الفضل كريمة بنت عبد الوهاب بن علي القرشية بإجازتها من أبي الوقت بقراءة أبي المظفر يوسف بن النابلسي أبو الحسن علي بن محمد بن علي بن البالسي وأحضر ولده محمد أبا المعالي في الثالثة وآخرون في يوم الاثنين تاسع عشر رجب سنة أربعين وستماية بالميطور نقله من الأصل"
+}

@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن سليمان بن حبيب الأسدي المصيصي لوين"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "من حديث محمد بن سليمان لوين"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 136"
+      ],
+      "classmark": [
+        "3763/23"
+      ],
+      "folio_number": [
+        "281v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "787"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "4e822a9a-5d32-4c70-9632-2977107551a3",
+      "startIndex": 113,
+      "text": "صفر سنة سبع وثمانين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "71f2d147-fcb0-4898-984a-d039a0d8d8de",
+      "startIndex": 73,
+      "text": "ضياء الدين محمد بن عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 54,
+      "guid": "939451c8-5d45-46cc-bc7f-c9781f5181e8",
+      "startIndex": 40,
+      "text": " سليمان بن حمزة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "998e958f-ffb1-44b0-be06-66d121c64117",
+      "startIndex": 9,
+      "text": "أبو بكر بن حسن بن علي المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "dbe9aefb-898e-4e34-8e3c-c284d3b1c172",
+      "startIndex": 146,
+      "text": "محمد بن عبد الله بن المحب",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على أبو بكر بن حسن بن علي المؤذن عن سليمان بن حمزة إجازة  عن الحافظ ضياء الدين محمد بن عبد الواحد |وذلك| في صفر سنة سبع وثمانين وسبعمية كتبه محمد بن عبد الله بن المحب والحمد لله"
+}

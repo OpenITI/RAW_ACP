@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "111r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "9"
+        ],
+        "month": [
+          "4"
+        ],
+        "year": [
+          "671"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "2ba87da3-0522-4235-895a-ec9c15382ece",
+      "startIndex": 218,
+      "text": "تاسع ربيع الآخر سنة إحدى وسبعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 199,
+      "guid": "551072d0-9332-4745-b6eb-1336600e69be",
+      "startIndex": 143,
+      "text": "شرف الدين علي بن عبد الله بن عبد الرحمن بن سلامة السرا[ج]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 278,
+      "guid": "a37d68c4-ac13-4396-ab80-00a17118bbde",
+      "startIndex": 258,
+      "text": "سفح قاسيون ظاهر دمشق ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 344,
+      "guid": "edcaa5e9-d8ff-4815-b43f-c201d402fa62",
+      "startIndex": 307,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "fcde2c4c-42c1-49e0-b099-c8069c7ee6c7",
+      "startIndex": 43,
+      "text": "عماد الدين أبي العباس أحمد بن أبي إسحق إبراهيم بن عبد الواحد بن علي بن سرور المقدسي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الأجل الصالح عماد الدين أبي العباس أحمد بن أبي إسحق إبراهيم بن عبد الواحد بن علي بن سرور المقدسي بسماعه فيه فسمع شرف الدين علي بن عبد الله بن عبد الرحمن بن سلامة السرا[ج] أبوه وصح وثبت في تاسع ربيع الآخر سنة إحدى وسبعين وستمية بسفح قاسيون ظاهر دمشق المحروسة كتبه فقير رحمة ربه علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه ورفق به"
+}

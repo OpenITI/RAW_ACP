@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن سلمان بن الحسن النجاد "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " حديث أحمد بن سلمان بن الحسن النجاد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 166"
+      ],
+      "classmark": [
+        "3768/15"
+      ],
+      "folio_number": [
+        "208r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "634c8310-eb58-46e7-8dc4-6de799acb430",
+      "startIndex": 79,
+      "text": "أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 252,
+      "guid": "7a33aca3-680f-47b8-985d-478d6cbd5fc4",
+      "startIndex": 211,
+      "text": "أبو الصفاء خليل بن أبى بكر بن محمد المراغي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "619"
+        ]
+      },
+      "endIndex": 397,
+      "guid": "88bcd644-f021-4a6b-b823-19d749b13076",
+      "startIndex": 358,
+      "text": "الأحد ثاني عشر رجب سنة تسعة عشرة وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "9bb9d9a4-f9fb-4204-8d78-0d8f31f20281",
+      "startIndex": 255,
+      "text": "نعمة بن عبد الملك المرداوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "9e7c6496-1474-4a8c-8267-efa981af9c12",
+      "startIndex": 283,
+      "text": "عمر بن محمد بن منصور بن عبد الله الأميني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 209,
+      "guid": "de25d19d-a767-45ff-bc6b-dba3df9c0a84",
+      "startIndex": 168,
+      "text": "أبي عبد الله أحمد بن عيسى بن سلامة الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 408,
+      "guid": "e6a970a7-29ca-484c-a69a-36470379f303",
+      "startIndex": 400,
+      "text": "جامع دمشق",
+      "type": "place"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ الإمام العـالم موفق الدين حجة الإسلام قدوة الأنام أبي محمد عبد الله بن أحمد بن محمد بن قدامة المقدسي أيده الله بحق سماعه فيه بقراءة الإمام أبي عبد الله أحمد بن عيسى بن سلامة الحراني أبو الصفاء خليل بن أبى بكر بن محمد المراغي ونعمة بن عبد الملك المرداوي وعمر بن محمد بن منصور بن عبد الله الأميني وهذا خطه عفا الله عنه وصح ذلك يوم الأحد ثاني عشر رجب سنة تسعة عشرة وستمائة بجامع دمشق"
+}

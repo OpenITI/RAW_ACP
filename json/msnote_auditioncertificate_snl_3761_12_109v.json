@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن القاسم بن إسماعيل الحلبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي القاسم الحلبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 120"
+      ],
+      "classmark": [
+        "3761/12"
+      ],
+      "folio_number": [
+        "109v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "748"
+        ]
+      },
+      "endIndex": 208,
+      "guid": "312215cb-e081-4920-8b1c-c2a10b0e2962",
+      "startIndex": 157,
+      "text": "الاثنين ثالث عشر شهر رمضان سنة ثمان وأربعين وسبع مئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "41081802-5872-4582-8903-9da27eb76936",
+      "startIndex": 45,
+      "text": "شهاب الدين أبي العباس أحمد بن مظفر بن أبي محمد ابن النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 234,
+      "guid": "6df4e560-0ad8-40d6-a52a-d0fa57142400",
+      "startIndex": 211,
+      "text": "دار السنة الأشرفية بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          "e0ec02cb-cd54-4742-b07a-2dcc0fb698b3"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "709579a5-85c5-4a64-af70-37795554ecda",
+      "startIndex": 258,
+      "text": "محمد بن موسى بن محمد بن سند بن تميم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 138,
+      "guid": "e8c2618d-fa0e-4504-bc2a-e274214342ff",
+      "startIndex": 128,
+      "text": " ابن الفراء",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء على الشيخ الثقة المفيد الحافظ شهاب الدين أبي العباس أحمد بن مظفر بن أبي محمد ابن النابلسي من نسخته بخطه بسماعه من ابن الفراء بسنده وصح في يوم الاثنين ثالث عشر شهر رمضان سنة ثمان وأربعين وسبع مئة بدار السنة الأشرفية بدمشق وأجاز لي مروياته كتبه محمد بن موسى بن محمد بن سند بن تميم"
+}

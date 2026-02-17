@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن إبراهيم بن علي المقري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "مسند نافع بن أبي نعيم المقري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 61- 62 "
+      ],
+      "classmark": [
+        "3750/3"
+      ],
+      "folio_number": [
+        "25v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 309,
+      "guid": "0ace4917-5ca0-4075-bade-abd067b7bf91",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 279,
+      "text": "عبد اللطيف بن أبي سعد البغدادي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "44186e0b-906e-40d5-8b19-f3b46acbd2a9",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 212,
+      "text": " أبو الفرج يحيى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 270,
+      "guid": "6595c54b-47d4-4633-a56b-7bbbec5fe493",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 259,
+      "text": "محمد بن محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "5"
+        ],
+        "year": [
+          "521"
+        ]
+      },
+      "endIndex": 353,
+      "guid": "a77b2369-de69-4ef5-bd97-1ed794e8718d",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 314,
+      "text": "في جمادى الأولى سنة إحدى وعشرين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "persia",
+            "isfahan"
+          ]
+        ]
+      },
+      "endIndex": 361,
+      "guid": "af575f9b-b0e8-4972-a938-171d77fa04f2",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 356,
+      "text": "أصبهان",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "d2055bad-bcf0-4120-8548-9482b8862d39",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 164,
+      "text": "أبي الرجاء بن أبي الفرج بن أبي طاهر الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "d6c5eeb0-36a9-475a-94a8-125a769fff26",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 88,
+      "text": "أبي الفضل جعفر بن عبد الواحد بن محمد بن محمود الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 241,
+      "guid": "dd5dfc06-866f-4509-b7af-4144063f85e8",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 229,
+      "text": "أبو الحسن سعد",
+      "type": "person"
+    }
+  ],
+  "text": " وصورة سماع شيخنا كانت على الأصل المنقول منه هذا بلغ من أول الجزء سماعا من الشيخ الرئيس أبي الفضل جعفر بن عبد الواحد بن محمد بن محمود الثقفي أيده الله بقراءة الشيخ أبي الرجاء بن أبي الفرج بن أبي طاهر الثقفي ابناه أبو الفرج يحيى وأبو الحسن سعد حضروسمع بن أخيه محمد بن محمد وكاتبه عبد اللطيف بن أبي سعد البغدادي وصح في جمادى الأولى سنة إحدى وعشرين وخمسماية بأصبهان والحمد لله وحده وصلواته على محمد وآله"
+}

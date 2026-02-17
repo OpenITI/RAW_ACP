@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن عبد العزيز المديني المصري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي مطيع المصري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 156"
+      ],
+      "classmark": [
+        "3767"
+      ],
+      "folio_number": [
+        "25r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 238,
+      "guid": "27c993eb-8f5c-44c3-961f-2658fdcaad97",
+      "startIndex": 219,
+      "text": "علي بن مسعود الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "5feac3da-62d6-47fe-a43e-7e2a7e6e1d58",
+      "startIndex": 35,
+      "text": "عبد الرحمن بن عمر بن شحانة الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "95aeb1c4-4789-4514-ae7d-a81c38183995",
+      "startIndex": 116,
+      "text": "محمد بن الحسين بن أبي شجاع البصري الشريف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 205,
+      "guid": "c647691f-8ac8-44a1-b4ec-8930793f3fbf",
+      "startIndex": 196,
+      "text": "جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "c7e28c6e-99cc-4e12-84f7-99fc5786108c",
+      "startIndex": 70,
+      "text": "خليل بن أبي بكر بن محمد المراغي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "7"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "615"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "e28b656a-3b1c-48e7-b4ae-7ff182b3916e",
+      "startIndex": 165,
+      "text": "سابع صفر سنة خمس عشرة وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "وسمعه منه أعني الجزء الثاني بقراءة عبد الرحمن بن عمر بن شحانة الحراني خليل بن أبي بكر بن محمد المراغي وكاتب الأسماء محمد بن الحسين بن أبي شجاع البصري الشريف وذلك في سابع صفر سنة خمس عشرة وستماية بجبل قاسيون نقله مختصرا علي بن مسعود الموصلي والأول من غير اختصار بنصه والحمد لله "
+}

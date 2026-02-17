@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        null
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        null
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Oct 1510"
+      ],
+      "folio_number": [
+        "4v"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00017929"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "876"
+        ]
+      },
+      "endIndex": 181,
+      "guid": "3a2678e8-8e5d-441b-b8da-daea1faf9266",
+      "startIndex": 134,
+      "text": "يوم الأحد ثاني عشر شوال سنة ست وسبعين وثمان مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "58205696-4153-4f86-abca-09bf8e45547d",
+      "startIndex": 272,
+      "text": "أحمد بن حسن بن أحمد بن عبد الهادي المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 193,
+      "guid": "ba90782c-122a-4645-9347-59d9dba0fa06",
+      "startIndex": 184,
+      "text": "سفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "c64cd8ad-9017-4286-9dd0-91ef0b429201",
+      "startIndex": 66,
+      "text": "شمس الدين محمد بن محمد بن علي المقدسي الحنبلي السيلي",
+      "type": "person"
+    }
+  ],
+  "text": "بلغت [في الأصل بغلت] قراءة إلى هنا على الشيخ الصالح المسند الرحلة شمس الدين محمد بن محمد بن علي المقدسي الحنبلي السيلي وصحَّ ذلك وثبت يوم الأحد ثاني عشر شوال سنة ست وسبعين وثمان مائة بسفح قاسيون ظاهر دمشق المحروس وأجاز المسمع ما يجوز له روايته بشرطه والحمدلله وحده. وكتبه أحمد بن حسن بن أحمد بن عبد الهادي المقدسي وصلى الله على سيدنا محمد وآله وصحبه وسلم. حسبنا الله ونعم الوكيل."
+}

@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "جزء من الموافقات في مشايخ أبي داود والترمذي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "124v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f128.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f128.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "6caf4091-7b90-4772-a727-68cd2edce10f",
+      "index": 179,
+      "isZeroPoint": false,
+      "startIndex": 51,
+      "text": "ضياء الدين أبي عبد الله محمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "f1dcec7e-4ba8-4fa9-a107-989825d8403c",
+      "index": 181,
+      "isZeroPoint": false,
+      "startIndex": 144,
+      "text": "حسن بن عبد الله بن عبد الغني بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "month": [
+          "2"
+        ],
+        "year": [
+          "638"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "f2dddbb5-760b-4175-a4e6-7e740dc84d37",
+      "index": 180,
+      "isZeroPoint": false,
+      "startIndex": 107,
+      "text": "في صفر سنة ثمان وثلاثين وستماية",
+      "type": "date"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على شيخنا الإمام العالم الحافظ ضياء الدين أبي عبد الله محمد بن عبد الواحد المقدسي وذلك في صفر سنة ثمان وثلاثين وستماية كتبه حسن بن عبد الله بن عبد الغني بن عبد الواحد المقدسي"
+}

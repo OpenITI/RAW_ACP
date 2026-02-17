@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "131r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f135.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f135.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 67,
+      "guid": "00c1fd4e-44d1-4116-90d5-628363a2639b",
+      "index": 66,
+      "isZeroPoint": false,
+      "startIndex": 25,
+      "text": "جمال الدين رافع بن أبي محمد بن محمد السلامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1- 3"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "714"
+        ]
+      },
+      "endIndex": 211,
+      "guid": "152ab409-d588-4b7f-a18d-f0f12e525ac9",
+      "index": 70,
+      "isZeroPoint": false,
+      "startIndex": 172,
+      "text": "يوم الجمعة غرة صفر سنة أربع عشرة وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "2c3bde6a-989a-4e75-aa83-314d7b5903c5",
+      "index": 69,
+      "isZeroPoint": false,
+      "startIndex": 122,
+      "text": "محمد بن محمد بن محمد بن الوراق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "lahya_house"
+          ]
+        ]
+      },
+      "endIndex": 232,
+      "guid": "574814e2-a396-417b-bf8b-05ef94e94955",
+      "index": 71,
+      "isZeroPoint": false,
+      "startIndex": 225,
+      "text": "بيت لهيا",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "8135f6e6-5b95-43fc-8484-9ecd28547181",
+      "index": 67,
+      "isZeroPoint": false,
+      "startIndex": 74,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "983805d2-8140-43f6-87db-7c74bd78110e",
+      "index": 68,
+      "isZeroPoint": false,
+      "startIndex": 98,
+      "text": "عبد الرحمن بن نصر الله",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه عليه بقراءة الإمام جمال الدين رافع بن أبي محمد بن محمد السلامي ابنه محمد وهذا خطه وابن أخيه عبد الرحمن بن نصر الله ومحمد بن محمد بن محمد بن الوراق وهو كاتب السماع في يوم الجمعة غرة صفر سنة أربع عشرة وسبعمئة بلهيا [يقصد بيت لهيا] ظاهر دمشق وأجاز لنا ما يرويه"
+}

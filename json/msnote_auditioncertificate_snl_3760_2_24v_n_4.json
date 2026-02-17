@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "note": [
+        ""
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الحسين بن إسماعيل المحاملي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي المحاملي  ج2"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 111"
+      ],
+      "classmark": [
+        "3760/2"
+      ],
+      "folio_number": [
+        "24v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "baghdad",
+            "khan_al-khalifiya"
+          ]
+        ]
+      },
+      "endIndex": 147,
+      "guid": "95daac5b-1455-4eda-b594-9eb14006f5e8",
+      "startIndex": 130,
+      "text": "خان الخليفة الجديد",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "b9a0d3cf-f477-4a75-91e5-a7eb595b588d",
+      "startIndex": 105,
+      "text": " أبي عبد الله بن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "559"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "e51e3121-83c4-4ff0-9385-b47d7bbbe429",
+      "startIndex": 185,
+      "text": " الاثنين مستهل رجب من سنة تسع وخمسين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "efa07d2d-3f8f-4522-ad22-66fd1300933b",
+      "startIndex": 3,
+      "text": " أحمد بن أبي بكر أحمد بن البندنيجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 101,
+      "guid": "f5adb954-fc24-4bba-b288-7c3fb52abe1b",
+      "startIndex": 65,
+      "text": "أبي الفضل المبارك بن المبارك ابن صدقة",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ أحمد بن أبي بكر أحمد بن البندنيجي هذا الجزء الثاني على الشيخ أبي الفضل المبارك بن المبارك ابن صدقة عن أبي عبد الله بن طلحة في خان الخليفة الجديد على الدكة التي عليها والد القارئ يوم الاثنين مستهل رجب من سنة تسع وخمسين وخمسماية حامدا الله ومصليا على رسوله محمد وآله وصح ذلك وثبت"
+}

@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "جمال الدين المزي"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/16163574"
+      ],
+      "work_title": [
+        "تهذيب الكمال في اسمــاء الرجــال "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "date_status": [
+        "finished"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "person_status": [
+        "wip"
+      ],
+      "place_status": [
+        "finished"
+      ],
+      "status": [
+        "finished"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Arabe 2091"
+      ],
+      "folio_number": [
+        "20v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110026394/f23.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110026394/f23.image.r=%22Arabe%202091%22"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 317,
+      "guid": "178d5ae5-518b-4843-a28f-203a0c68809d",
+      "index": 3,
+      "isZeroPoint": false,
+      "startIndex": 287,
+      "text": "القاسم بن محمد بن يوسف البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 547,
+      "guid": "1830897a-e697-4a1d-912d-63e2c532af11",
+      "index": 7,
+      "isZeroPoint": false,
+      "startIndex": 485,
+      "text": "شرف الدين محمد بن أحمد بن الشيخ زين الدين أبي بكر بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "26"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "720"
+        ]
+      },
+      "endIndex": 709,
+      "guid": "259be8b5-b0e6-44db-8b4b-224fb856bdd1",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 649,
+      "text": "يوم الأحد السادس والعشرين من جمادى الآخرة سنة عشرين وسبع ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 482,
+      "guid": "5c11a82a-4fc1-4e20-b34a-4ddaf86ca3bb",
+      "index": 6,
+      "isZeroPoint": false,
+      "startIndex": 439,
+      "text": "ناصر الدين محمد بن طغريل بن عبد الله الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 390,
+      "guid": "8c27b954-dd86-4bb3-9722-e2c11a9751b1",
+      "index": 4,
+      "isZeroPoint": false,
+      "startIndex": 351,
+      "text": "شمس الدين محمد بن محمد بن الحسن بن نباتة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 266,
+      "guid": "b412cd6b-5ad2-40c3-b1bd-e41d20011d99",
+      "index": 2,
+      "isZeroPoint": false,
+      "startIndex": 218,
+      "text": "أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 730,
+      "guid": "cfde354f-42ea-486d-b404-8c43a726efdc",
+      "index": 9,
+      "isZeroPoint": false,
+      "startIndex": 712,
+      "text": "دار الحديث الأشرفية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 436,
+      "guid": "d4a6a89c-1bf0-4b4f-b9fe-8d05dd78fa7b",
+      "index": 5,
+      "isZeroPoint": false,
+      "startIndex": 393,
+      "text": "عز الدين الحسن بن أحمد بن زفر الإربلي الطبيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 636,
+      "guid": "f64f9fb6-b0aa-4089-96af-76b0d050086a",
+      "index": 8,
+      "isZeroPoint": false,
+      "startIndex": 550,
+      "text": "زين الدين عمر بن عبد العزيز بن الشيخ الإمام العلامة زين الدين عبد الله بن مروان الفارقي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء وهو الثاني والخمسون بعد الماية والجزء الذي قبله وهو الحادي والخمسون بعد الماية وهما من كتاب تهذيب الكمال على مصنفه الشيخ الإمام العالم الحافظ البارع الأوحد الحجة العمدة جمال الدين بقية السلف شيخ المحدثين أبي الحجاج يوسف بن الزكي عبد الرحمن بن يوسف المزي نفع الله به بقراءة القاسم بن محمد بن يوسف البرزالي وهذا خطه الجماعة السادة الفضلاء شمس الدين محمد بن محمد بن الحسن بن نباتة وعز الدين الحسن بن أحمد بن زفر الإربلي الطبيب وناصر الدين محمد بن طغريل بن عبد الله الصيرفي وشرف الدين محمد بن أحمد بن الشيخ زين الدين أبي بكر بن يوسف المزي وزين الدين عمر بن عبد العزيز بن الشيخ الإمام العلامة زين الدين عبد الله بن مروان الفارقي وصح ذلك في يوم الأحد السادس والعشرين من جمادى الآخرة سنة عشرين وسبع ماية بدار الحديث الأشرفية بدمشق والحمد لله رب العالمين وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم"
+}

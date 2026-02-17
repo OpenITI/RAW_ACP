@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "يحيى بن محمد بن صاعد بن كاتب البغدادي الهاشمي "
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "حديث يحيى بن محمد بن صاعد"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 173"
+      ],
+      "classmark": [
+        "3770/8"
+      ],
+      "folio_number": [
+        "122v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        ""
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 321,
+      "guid": "0f4060d9-d263-4a61-96c1-fa5347d805a7",
+      "startIndex": 271,
+      "text": "عماد الدين أبو إسحق إبراهيم بن يحيى بن أحمد الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 447,
+      "guid": "531d457e-7dfc-4816-a5eb-e60d1d1088e4",
+      "startIndex": 410,
+      "text": "علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 117,
+      "guid": "6fe71881-456a-42a5-9ce8-8ab238dc07ef",
+      "startIndex": 55,
+      "text": "زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "2"
+        ],
+        "year": [
+          "665"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "b1665082-b016-44d3-a422-223eb57a1ff2",
+      "startIndex": 335,
+      "text": "ثاني عشر صفر سنة خمس وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 163,
+      "guid": "cb09ff47-05e2-478f-b610-036be80b674c",
+      "startIndex": 144,
+      "text": " أبي السعادات القزاز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 403,
+      "guid": "d8357e8a-2d36-42ab-8c83-38df7aeb6e15",
+      "startIndex": 371,
+      "text": "منزل المسمع بسفح قاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 231,
+      "guid": "f565c491-88ce-4ac7-8831-a6ff71d40f1d",
+      "startIndex": 183,
+      "text": "شرف الدين أبو بكر بن محمد بن ممدود الدمشقي المقرئ",
+      "type": "person"
+    }
+  ],
+  "text": "قرأته أجمع على شيخنا الشيخ الإمام العالم الحافظ المسند زين الدين أبي العباس أحمد بن عبد الدائم بن نعمة بن أحمد المقدسي نفع الله به بحق إجازته من أبي السعادات القزاز بسنده فسمع الفقيه شرف الدين أبو بكر بن محمد بن ممدود الدمشقي المقرئ وسمع من قوله مجلس آخر إلى آخره الفقيه عماد الدين أبو إسحق إبراهيم بن يحيى بن أحمد الدمشقي وصح وثبت في ثاني عشر صفر سنة خمس وستين وستماية بمنزل المسمع بسفح قاسيون ظاهر دمشق وكتب علي بن مسعود بن نفيس الموصلي ثم الحلبي عفا الله عنه حامدا ومصليا ومسلما وحسبنا الله ونعم الوكيل"
+}

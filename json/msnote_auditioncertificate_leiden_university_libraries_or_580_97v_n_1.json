@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ],
+      "author_viaf": [
+        ""
+      ],
+      "work_title": [
+        "فوائد حديث أبي القاسم تمام بن محمد بن عبد الله بن جعفر الرازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        ""
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        ""
+      ],
+      "classmark": [
+        "Or. 580"
+      ],
+      "folio_number": [
+        "97v"
+      ],
+      "image_link": [
+        ""
+      ],
+      "library": [
+        "Leiden University Libraries"
+      ],
+      "link_to_manuscript": [
+        ""
+      ],
+      "manuscript_link": [
+        "https://catalogue.leidenuniv.nl/discovery/fulldisplay?context=L&vid=31UKB_LEU:UBL_V1&search_scope=manuscripts_archival_materials&tab=SpecialCollections&docid=alma9939281887702711"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "19e4b577-bc6c-49b6-be30-54c12ac5aee7",
+      "startIndex": 38,
+      "text": "أبي محمد عبد الكريم بن حمزة السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "2467855d-5110-4c4f-9632-3d7e996a3608",
+      "startIndex": 252,
+      "text": "ابن الأنماطي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 145,
+      "guid": "7c57a03c-3c83-4c12-9fbb-a24c09f64626",
+      "startIndex": 113,
+      "text": "أبو طاهر بركات بن إبراهيم الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "5"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "520"
+        ]
+      },
+      "endIndex": 245,
+      "guid": "87706da1-951a-48dc-b4c5-6c79e70af20a",
+      "startIndex": 210,
+      "text": "الأربعاء خامس رجب سنة عشرين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 175,
+      "guid": "9cacc9e9-a869-41f1-9bea-8dbfd723eaa6",
+      "startIndex": 148,
+      "text": "محمد بن علي بن المسلم السلمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 102,
+      "guid": "eb3d7818-8712-4227-8d29-fa5fe72bce06",
+      "startIndex": 73,
+      "text": "أبو القاسم وهب بن سلمان السلمي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع من أول الجزء إلى ها هنا على الشيخ أبي محمد عبد الكريم بن حمزة السلمي أبو القاسم وهب بن سلمان السلمي بقراءته وأبو طاهر بركات بن إبراهيم الخشوعي ومحمد بن علي بن المسلم السلمي والسماع بخطه في نسخته وآخرون يوم الأربعاء خامس رجب سنة عشرين وخمسماية نقله ابن الأنماطي"
+}

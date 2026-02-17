@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن بشر الزبيري العكبري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فوائد أبي بكر الزبيري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 21/22"
+      ],
+      "classmark": [
+        "3740/2"
+      ],
+      "folio_number": [
+        "32v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 110,
+      "guid": "0fcafbbe-1d92-4754-bf54-0012d624a73c",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 95,
+      "text": "أبي الحسن المسلم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 349,
+      "guid": "15d25d9b-cd27-41b4-beba-5ee6ad2d11d5",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 302,
+      "text": "عبد العزيز بن عبد الملك بن تميم بن مالك الشيباني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "16"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "595"
+        ]
+      },
+      "endIndex": 620,
+      "guid": "3d4c4d85-b1cd-490b-b6ac-d5067d5de1d6",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 582,
+      "text": "سادس عشر ذي حجة سنة خمس وتسعين وخمسماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "97052da6-77ce-4d13-befe-3aa6b2daeb89",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 29,
+      "text": "أبي طاهر بركات بن إبراهيم بن طاهر القرشي الخشوعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 281,
+      "guid": "9d769ca4-d095-41cd-81ca-1330d8062411",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 231,
+      "text": "أبو محمد عبد الرحمن بن عبد الله ابن عبد الله الفراء",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "a93a4ea6-edae-4ee0-9b72-5ccb0a0ca1ea",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 112,
+      "text": "أبو العباس أحمد بن إسماعيل بن أبي الوقار",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "ac3b350f-0a7b-4809-9bf9-fa6983d7eb9a",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 159,
+      "text": "إسماعيل ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 487,
+      "guid": "ae3054f4-99cc-417b-b8b8-498c14fdb6a6",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 443,
+      "text": "شمس الدين أبو القاسم الخضر بن الحسين بن الخضر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 515,
+      "guid": "babaa1c8-7c98-4285-99a2-aea7a6adf1d7",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 495,
+      "text": "أبو الحسين عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 580,
+      "guid": "c3e85c67-55fa-4738-81f4-2646579f91fc",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 541,
+      "text": "أبو المظفر إبراهيم بن غالب بن عبد الخالق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "fba27389-1ca5-4b68-9934-16fec7f36b66",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 219,
+      "text": "عبد الواحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "ff3deab9-1f97-4f62-963c-d9daf5d7cb1e",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 168,
+      "text": "أبو طالب محمد بن الفضل بن عقيل العباسي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ أبي طاهر بركات بن إبراهيم بن طاهر القرشي الخشوعي بسماعه من الفقيه أبي الحسن المسلم أبو العباس أحمد بن إسماعيل بن أبي الوقار وابنه إسماعيل وأبو طالب محمد بن الفضل بن عقيل العباسي وابن المسمع عبد الواحد وأبو محمد عبد الرحمن بن عبد الله ابن عبد الله الفراء بقراءة كاتب السماع عبد العزيز بن عبد الملك بن تميم بن مالك الشيباني وسمع من حديث مالك بن أوس بن الحدثان إلى آخر الجزء بقراءة عبد العزيز ومن أوله إلى هنا بقراءة شمس الدين أبو القاسم الخضر بن الحسين بن الخضر وولده أبو الحسين عبد الرحمن وسمع معهما بقراءة الخضر أبو المظفر إبراهيم بن غالب بن عبد الخالق سادس عشر ذي حجة سنة خمس وتسعين وخمسماية"
+}

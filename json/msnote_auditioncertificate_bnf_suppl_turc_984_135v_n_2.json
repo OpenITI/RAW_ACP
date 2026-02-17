@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "sama"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الله الأنصاري وأبي محمد بن ماسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء منتقا من الأحاديث "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "135v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f139.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f139.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 204,
+      "guid": "624dd986-6331-49f3-a21f-465ef99123e4",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 196,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1- 3"
+        ],
+        "month": [
+          "3"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "642"
+        ]
+      },
+      "endIndex": 193,
+      "guid": "9c16ab8a-11d1-4807-8c2f-e34de3fc8263",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 139,
+      "text": "يوم الاثنين مستهل ربيع الأول سنة اثنتين وأربعين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 109,
+      "guid": "e539faf3-6bba-4251-8487-5df5addcda34",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 71,
+      "text": " شمس الدين أحمد بن محمد بن أمية العبدري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer",
+          "musmi"
+        ]
+      },
+      "endIndex": 257,
+      "guid": "f5fe2015-7723-4025-b732-3cdb9f7fedb8",
+      "index": 62,
+      "isZeroPoint": false,
+      "startIndex": 229,
+      "text": "محمد بن عبد الله بن عبد الغني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت هذا الجزء جميعه بسماعي فيه نقلًا فسمعه الفقيه الإمام العالم الفاضل شمس الدين أحمد بن محمد بن أمية العبدري وفقه الله تعالى وصح وثبت في يوم الاثنين مستهل ربيع الأول سنة اثنتين وأربعين وستمائة بجامع دمشق عمَّره الله تعالى كتبه محمد بن عبد الله بن عبد الغني عفا الله عنه والحمد لله وحده وصلى الله على سيدنا محمد وآله وسلم"
+}

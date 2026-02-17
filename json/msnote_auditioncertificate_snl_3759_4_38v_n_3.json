@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن يحيى بن منصور الشافعي النيسابوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الأربعين المخرجة من مسموعات النيسابوري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 105"
+      ],
+      "classmark": [
+        "3759/4"
+      ],
+      "folio_number": [
+        "38v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "10b8471c-f3d3-4d24-bd86-b3d8966eeff0",
+      "startIndex": 39,
+      "text": "أحمد بن محمد بن صصرى",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 86,
+      "guid": "55d0dbcd-de30-4812-b47c-4e4fe2ab602d",
+      "startIndex": 78,
+      "text": "عز الدين ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "other"
+        ]
+      },
+      "endIndex": 227,
+      "guid": "6f252112-043e-439e-af9a-d92795639951",
+      "startIndex": 193,
+      "text": "التاج أبي الحسن بن أبي جعفر القرطبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "zahiriya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 178,
+      "guid": "a9f2fbdc-0794-412c-9f67-4565b788c282",
+      "startIndex": 154,
+      "text": "المدرسة الظاهرية بالقاهرة",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 246,
+      "guid": "aeee0659-b2b6-489b-8411-2c8f07b7ac31",
+      "startIndex": 234,
+      "text": "محمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "29"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "681"
+        ]
+      },
+      "endIndex": 151,
+      "guid": "ceb320a7-f9f1-473d-8dd3-8edd465c61eb",
+      "startIndex": 95,
+      "text": "يوم السبت التاسع والعشرين من شوال سنة إحدى وثمانين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": "رأيت سماع المذكورين أعلاه بخط |القارئ| أحمد بن محمد بن صصرى المذكور على الشيخ عز الدين المذكور يوم السبت التاسع والعشرين من شوال سنة إحدى وثمانين وستمية بالمدرسة الظاهرية بالقاهرة على نسخة بخط التاج أبي الحسن بن أبي جعفر القرطبي كتبه محمد بن المحب"
+}

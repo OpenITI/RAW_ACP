@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عمير بن جوصا الدمشقي "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء ابن جوصا "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "30v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f32.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 362,
+      "guid": "0b956529-97ad-44ec-b8ca-913a8017a4ec",
+      "index": 464,
+      "isZeroPoint": false,
+      "startIndex": 307,
+      "text": "أبو الربيع سليمان بن عبد الله بن حرز الله الهلالي الصقلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "740"
+        ]
+      },
+      "endIndex": 459,
+      "guid": "4e5dcda3-3feb-4060-a954-5a37ceef3e72",
+      "index": 466,
+      "isZeroPoint": false,
+      "startIndex": 414,
+      "text": "يوم الثلاثاء ثاني عشر محرم سنة أربعين وسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 397,
+      "guid": "5e068ff4-1857-4ecb-9562-591b7ee971cf",
+      "index": 465,
+      "isZeroPoint": false,
+      "startIndex": 365,
+      "text": "محمد بن طولبغا بن عبد الله السيفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "6bf588cc-6265-404a-9145-5cc571d6c389",
+      "index": 461,
+      "isZeroPoint": false,
+      "startIndex": 96,
+      "text": "تاج الدين أبي محمد عبد الرحيم بن إبراهيم بن إسماعيل بن إبراهيم بن أبي اليسر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 303,
+      "guid": "7c44bc6e-2fc9-4ffc-81ef-444a639423d3",
+      "index": 463,
+      "isZeroPoint": false,
+      "startIndex": 233,
+      "text": "شهاب الدين أبي العباس أحمد بن إبراهيم بن شكور البعلبكي عُرف بابن [صارو؟",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 218,
+      "guid": "b2938a4e-ce24-41b7-a87d-7d028396977e",
+      "index": 462,
+      "isZeroPoint": false,
+      "startIndex": 202,
+      "text": "تقي الدين إسماعيل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "darb_kishk"
+          ]
+        ]
+      },
+      "endIndex": 489,
+      "guid": "f39c9edd-c5f8-429b-a8b3-9a901348c079",
+      "index": 467,
+      "isZeroPoint": false,
+      "startIndex": 462,
+      "text": "مسجد الله بدرب كشك داخل دمشق",
+      "type": "place"
+    }
+  ],
+  "text": "سمع هذه الخمسة أحاديث الموافقات للنسائي من حديث أبي الحسن أحمد بن عمير بن جوصا على الشيخ المسند تاج الدين أبي محمد عبد الرحيم بن إبراهيم بن إسماعيل بن إبراهيم بن أبي اليسر بسماعه فيه نقلًا من جده الشيخ تقي الدين إسماعيل بقراءة الشيخ شهاب الدين أبي العباس أحمد بن إبراهيم بن شكور البعلبكي عُرف بابن [صارو؟] وأبو الربيع سليمان بن عبد الله بن حرز الله الهلالي الصقلي ومحمد بن طولبغا بن عبد الله السيفي وذا خطه وصح في يوم الثلاثاء ثاني عشر محرم سنة أربعين وسبعماية بمسجد الله بدرب كشك داخل دمشق وأجاز لنا رواية هذه الأحاديث مع رواية جميع ما يجوز له روايته والحمد لله وصلى الله على محمد وآله وسلم"
+}

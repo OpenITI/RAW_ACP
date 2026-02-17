@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الكفاية في معرفة اصول علم الرواية"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Landberg 353"
+      ],
+      "folio_number": [
+        "16r"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00007010"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "owner"
+        ]
+      },
+      "endIndex": 333,
+      "guid": "07effcf8-e913-4b77-af0d-834b88c0dd89",
+      "startIndex": 274,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس بن عبد الله الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 206,
+      "guid": "1756d7fe-f1ae-4c74-a07c-348434743d69",
+      "startIndex": 187,
+      "text": "القاسم بن علي الحافظ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 239,
+      "guid": "25f8f0cb-8965-4664-a00d-3da204e55e38",
+      "startIndex": 234,
+      "text": "الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 536,
+      "guid": "2810b74f-92ea-42db-8128-6258dc68f4e3",
+      "startIndex": 528,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 369,
+      "guid": "38fa8e40-8845-436a-b035-e7d9c99423e1",
+      "startIndex": 341,
+      "text": "صالح بن سلمان بن جابر الهواري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 463,
+      "guid": "460b31bb-bf04-408e-9645-c9c4a0d5742f",
+      "startIndex": 424,
+      "text": "أبو بكر بن محمد بن علي ابن سلطان الرسعني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "23"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "667"
+        ]
+      },
+      "endIndex": 596,
+      "guid": "c54f9f97-8340-4456-82a7-ef912fc9135f",
+      "startIndex": 541,
+      "text": "يوم الثلاثاء ثالث عشري جمادى الآخرة سنة سبع وستين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 502,
+      "guid": "c6847f0a-f2c2-412d-8d0b-31fe70df0482",
+      "startIndex": 466,
+      "text": "علي بن عبد الكافي بن عبد الملك الربعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 420,
+      "guid": "c9143959-bab0-4d5a-bb5d-6c4a60e61c81",
+      "startIndex": 372,
+      "text": "شرف الدين أبو بكر بن محمد بن ممدود المقرئ الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 137,
+      "guid": "d824c22a-da48-47c3-832b-c4a249fa4e59",
+      "startIndex": 91,
+      "text": "نجم الدين أبي بكر محمد بن علي بن مظفر بن النشبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "e801dac4-6d46-4b9a-9aea-89c02cb67695",
+      "startIndex": 165,
+      "text": "ست الكتبة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "edd67832-5207-432f-bdb8-9a53b7655d58",
+      "startIndex": 219,
+      "text": "طاهر بن سهل",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو التاسع من الكفاية وكذلك الثامن قبله على الشيخ الفقير إلى الله تعالى نجم الدين أبي بكر محمد بن علي بن مظفر بن النشبي بحق سماعه لجميع الكتاب من ست الكتبة وبإجازته من القاسم بن علي الحافظ بإجازته من طاهر بن سهل عن الخطيب بقراءة مالكه الشيخ الإمام المحدث نور الدين أبي الحسن علي بن مسعود بن نفيس بن عبد الله الموصلي الشيخ صالح بن سلمان بن جابر الهواري وشرف الدين أبو بكر بن محمد بن ممدود المقرئ الدمشقي. وأبو بكر بن محمد بن علي ابن سلطان الرسعني وعلي بن عبد الكافي بن عبد الملك الربعي وهذا خطه. وصح ذلك وثبت بجامع دمشق في يوم الثلاثاء ثالث عشري جمادى الآخرة سنة سبع وستين وستمئة والحمد لله وحده وصلى الله على سيدنا محمد وآله وسلم."
+}

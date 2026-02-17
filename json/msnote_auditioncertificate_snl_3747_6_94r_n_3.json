@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/6"
+      ],
+      "folio_number": [
+        "94r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "081e0891-e137-436a-905e-bb1d199c5e8e",
+      "index": 269,
+      "isZeroPoint": false,
+      "startIndex": 90,
+      "text": "أحمد بن محمد الطوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 149,
+      "guid": "5aaf3317-f25c-4775-8169-1ecb073ee601",
+      "index": 270,
+      "isZeroPoint": false,
+      "startIndex": 140,
+      "text": "ابن النقور",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 229,
+      "guid": "a0e76295-3565-4e99-bbf6-3fb07e014341",
+      "index": 271,
+      "isZeroPoint": false,
+      "startIndex": 197,
+      "text": "يوسف ابن خليل بن عبد الله الدمشقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "1"
+        ],
+        "month": [
+          "6"
+        ],
+        "year": [
+          "589"
+        ]
+      },
+      "endIndex": 291,
+      "guid": "a2bc765d-2ce0-4ae8-849b-222e943e0409",
+      "index": 272,
+      "isZeroPoint": false,
+      "startIndex": 251,
+      "text": "مستهل جمادى الآخر سنة تسع وثمانين وخمسمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 108,
+      "guid": "d47c18ba-841e-470f-a1b9-b2047c4e1685",
+      "index": 267,
+      "isZeroPoint": false,
+      "startIndex": 51,
+      "text": "أبي طاهر أحمد بن أبي الفضل عبد الله بن أحمد بن محمد الطوسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "iraq",
+            "mossul"
+          ]
+        ]
+      },
+      "endIndex": 299,
+      "guid": "f0280433-a660-4151-b1d8-df56ba05dcff",
+      "index": 273,
+      "isZeroPoint": false,
+      "startIndex": 294,
+      "text": "الموصل",
+      "type": "place"
+    }
+  ],
+  "text": " سمع من هذا الجزء ما عليه علامة ٣ على الشيخ الجليل أبي طاهر أحمد بن أبي الفضل عبد الله بن أحمد بن محمد الطوسي بسماعه من جده أبي نصر أحمد عن ابن النقور وسماعه على جده في صفر سنة أربع وعشرين وخمسمية يوسف ابن خليل بن عبد الله الدمشقي بقراءته وهذا خطه في مستهل جمادى الآخر سنة تسع وثمانين وخمسمية بالموصل وصح وثبت والحمد لله وحده وصلواته على سيدنا محمد وآله وسلامه"
+}

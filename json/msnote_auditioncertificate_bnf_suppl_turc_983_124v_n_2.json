@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/90055441"
+      ],
+      "work_title": [
+        "جزء من الموافقات في مشايخ أبي داود والترمذي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 983"
+      ],
+      "folio_number": [
+        "124v"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f128.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10083812h/f128.item.r=%22turc%20983%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "4d9a6eb4-5baa-4b98-9ace-6cb98c9c58a8",
+      "index": 178,
+      "isZeroPoint": false,
+      "startIndex": 139,
+      "text": "محمد بن عبد الواحد بن أحمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "20"
+        ],
+        "month": [
+          "5"
+        ],
+        "weekday": [
+          "Yawm al-ahad"
+        ],
+        "year": [
+          "637"
+        ]
+      },
+      "endIndex": 132,
+      "guid": "97c49e56-4b42-4d7a-a481-bab07c62afb3",
+      "index": 177,
+      "isZeroPoint": false,
+      "startIndex": 76,
+      "text": "يوم الأحد العشرين من جمادى الأولى سنة سبع وثلاثين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 74,
+      "guid": "b09698fa-eb3f-43a6-b0aa-c0cf78ce2d22",
+      "index": 176,
+      "isZeroPoint": false,
+      "startIndex": 25,
+      "text": "تقي الدين سليمان بن عبد الرحمن بن الحافظ عبد الغني",
+      "type": "person"
+    }
+  ],
+  "text": "قرأ علي هذا الجزء الإمام تقي الدين سليمان بن عبد الرحمن بن الحافظ عبد الغني يوم الأحد العشرين من جمادى الأولى سنة سبع وثلاثين وستماية كتبه محمد بن عبد الواحد بن أحمد المقدسي والحمد لله وحده وصلى الله على محمد وآله وسلم"
+}

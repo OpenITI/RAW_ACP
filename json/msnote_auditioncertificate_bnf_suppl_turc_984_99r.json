@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "البخاري"
+      ],
+      "author_viaf": [
+        "http://viaf.org/viaf/154679127"
+      ],
+      "work_title": [
+        "منتخب حديث صحيح البخاري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 984"
+      ],
+      "folio_number": [
+        "99r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f102.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082841z/f102.item.r=%22turc%20984%22.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 284,
+      "guid": "02bd8efd-9e01-4fe9-9d7e-e26ae3c32b1f",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 282,
+      "text": "حسن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 279,
+      "guid": "125c04b7-0def-4d7d-92b0-2a13fd4bae3e",
+      "index": 49,
+      "isZeroPoint": false,
+      "startIndex": 277,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "12b4829a-026e-4f08-b23c-da090e09bebf",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 77,
+      "text": "زين الدين أبي الطاهر إسماعيل بن عبد القوي بن عزون",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 412,
+      "guid": "3d3d2c6b-746c-4cae-8fe6-edf421e10c94",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 377,
+      "text": "أبو بكر بن الشيخ حسن بن نجم الحوراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 234,
+      "guid": "4abd9f0e-8078-4ddc-a5db-d04180bd9fd0",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 193,
+      "text": " أبو الذكر بلال بن عبد الله الحبشي الجمالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 340,
+      "guid": "4b442856-4ec5-4f0c-a5cb-47df5255a988",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 337,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "5f28a30e-8033-493f-81db-f562ce6e67e8",
+      "index": 48,
+      "isZeroPoint": false,
+      "startIndex": 237,
+      "text": "عمر بن محمد بن أبي بكر بن خطلج الفارسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "khanqah_said"
+          ]
+        ]
+      },
+      "endIndex": 507,
+      "guid": "5f633edc-3244-4e9d-a7ac-d571b5e7ec78",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 489,
+      "text": "خانقاه سعيد السعداء",
+      "type": "place"
+    },
+    {
+      "attributes": {
+      },
+      "endIndex": 685,
+      "guid": "85448632-6c4c-4978-89d6-b305091d3246",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 615,
+      "text": "صحيح ذلك كتبه إسماعيل بن عبد القوي بن أبي العز بن داود بن عزون الأنصاري",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "day": [
+          "2"
+        ],
+        "month": [
+          "9"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "664"
+        ]
+      },
+      "endIndex": 486,
+      "guid": "868d3d8c-0c2b-4a80-a33a-af66bed7269a",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 430,
+      "text": "يوم الثلاثاء ثاني شهر رمضان المعظم سنة أربع وستين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 345,
+      "guid": "a6b41fb4-9455-46df-9a1b-38bd358d4abb",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 343,
+      "text": "علي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "e26dda06-134f-4b57-b2aa-7aa4d35912f5",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 165,
+      "text": "البوصيري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 574,
+      "guid": "e5843697-04a3-433b-a3b0-d74a57b2386b",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 533,
+      "text": "أحمد بن موسى بن نصر بن موسى الخويي الشافعي",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذه الأحاديث المنتقى [كذا] من صحيح البخاري على الشيخ الإمام العالم زين الدين أبي الطاهر إسماعيل بن عبد القوي بن عزون بحق سماعه لجميع صحيح البخاري بسنده من البوصيري فسمعه الطواشي الحاج أبو الذكر بلال بن عبد الله الحبشي الجمالي وعمر بن محمد بن أبي بكر بن خطلج الفارسي وعلي وحسن ابنا نجم الدين جعفر بن محمد الملقب بن شمس الخلافة ومحمد وعلي ابنا أحمد بن إسماعيل المؤيدي وأبو بكر بن الشيخ حسن بن نجم الحوراني وصح ذلك وثبت في يوم الثلاثاء ثاني شهر رمضان المعظم سنة أربع وستين وستمائة بخانقاه سعيد السعداء من القاهرة المعزية كتبه أحمد بن موسى بن نصر بن موسى الخويي الشافعي والحمد لله وحده وصلواته على سيدنا محمد\nصحيح ذلك كتبه إسماعيل بن عبد القوي بن أبي العز بن داود بن عزون الأنصاري"
+}

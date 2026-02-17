@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن عمر بن محمد بن الحسن بن شاذان السكري "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي الحسن السكري وأماليه"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 88"
+      ],
+      "classmark": [
+        "3755/19"
+      ],
+      "folio_number": [
+        "250v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 625,
+      "guid": "0f566936-dba9-4750-8059-cae5d31d65d1",
+      "index": 136,
+      "isZeroPoint": false,
+      "startIndex": 580,
+      "text": "أبو العباس أحمد بن إبراهيم بن غنائم بن المهندس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 345,
+      "guid": "22ceb6aa-6f86-4a45-8185-4bbb5c0d587f",
+      "index": 130,
+      "isZeroPoint": false,
+      "startIndex": 290,
+      "text": "شهاب الدين أبو العباس أحمد بن عمر بن محمد بن علي الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 436,
+      "guid": "254aed07-2743-48df-973b-56a5a456656d",
+      "index": 133,
+      "isZeroPoint": false,
+      "startIndex": 418,
+      "text": "أبو الفتح عبد الملك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 577,
+      "guid": "389ae58c-2295-4684-8492-e34198177771",
+      "index": 135,
+      "isZeroPoint": false,
+      "startIndex": 531,
+      "text": "أبو العباس أحمد بن عبد العزيز بن أحمد بن المعلم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 733,
+      "guid": "4ceb4d45-cc75-4b4f-9a03-db064a2b1707",
+      "index": 138,
+      "isZeroPoint": false,
+      "startIndex": 657,
+      "text": "أبو العلاء محمود بن أبي بكر بن أبي العلاء بن علي بن أبي العلاء الفرضي البخاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 126,
+      "guid": "5bd7d442-193f-463d-b305-4142ff824df8",
+      "index": 127,
+      "isZeroPoint": false,
+      "startIndex": 74,
+      "text": "فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 415,
+      "guid": "705e977f-1e4e-485e-a178-8c469dc6813f",
+      "index": 132,
+      "isZeroPoint": false,
+      "startIndex": 397,
+      "text": "أبو الفضل عبد الأحد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "8a2f0fc9-1b54-4067-a612-d6c042128895",
+      "index": 128,
+      "isZeroPoint": false,
+      "startIndex": 154,
+      "text": "ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "15"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "684"
+        ]
+      },
+      "endIndex": 811,
+      "guid": "8ae14df2-4b9c-4b9b-b483-d2bb97ade989",
+      "index": 139,
+      "isZeroPoint": false,
+      "startIndex": 761,
+      "text": " الاثنين منتصف ذي الحجة من سنة أربع وثمانين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 249,
+      "guid": "b2eb18cb-0cba-45cf-9a90-0562a504e459",
+      "index": 129,
+      "isZeroPoint": false,
+      "startIndex": 192,
+      "text": "نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "diyaiya_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 855,
+      "guid": "cf126dd1-f24d-40c3-a4cb-0cc82f9e0b5b",
+      "index": 140,
+      "isZeroPoint": false,
+      "startIndex": 814,
+      "text": "المدرسة الضيائية بسفح جبل قاسيون ظاهر دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami",
+          "musmi"
+        ]
+      },
+      "endIndex": 394,
+      "guid": "e3cf2dea-9f64-43f1-9de4-12853caec72d",
+      "index": 131,
+      "isZeroPoint": false,
+      "startIndex": 355,
+      "text": "أبو اليمن يمان بن مسعود بن يمان الزيتاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 455,
+      "guid": "eaf02d1d-3783-4a47-b831-5724a17ff0f9",
+      "index": 134,
+      "isZeroPoint": false,
+      "startIndex": 439,
+      "text": "أبو عبد الله محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 643,
+      "guid": "fb8b89e3-2dfe-430b-93c6-672ace84268d",
+      "index": 137,
+      "isZeroPoint": false,
+      "startIndex": 628,
+      "text": "أيبك بن عبد الله",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ الإمام العالم العلامة مسند الشام رحلة الوقت فخر الدين أبي الحسن علي بن أحمد بن عبد الواحد المقدسي أدام الله بركته بسماعه من ابن طبرزد بقراءة الإمام الحافظ المتقن نور الدين أبي الحسن علي بن مسعود بن نفيس الموصلي ثم الحلبي أبقاه الله الجماعة السيد العالم الفاضل شهاب الدين أبو العباس أحمد بن عمر بن محمد بن علي الصالحي والفقيه أبو اليمن يمان بن مسعود بن يمان الزيتاوي وأبو الفضل عبد الأحد وأبو الفتح عبد الملك وأبو عبد الله محمد بنو سعد الدين أبي محمد سعد الله بن عبد الأحد بن سعد الله بن بخيخ الحراني وأبو العباس أحمد بن عبد العزيز بن أحمد بن المعلم وأبو العباس أحمد بن إبراهيم بن غنائم بن المهندس وأيبك بن عبد الله فتى المسمع وأبو العلاء محمود بن أبي بكر بن أبي العلاء بن علي بن أبي العلاء الفرضي البخاري وهذا خطه وصح ذلك وثبت ضحوة الاثنين منتصف ذي الحجة من سنة أربع وثمانين وستماية بالمدرسة الضيائية بسفح جبل قاسيون ظاهر دمشق المحروسة وأجاز المسمع للجماعة جميع ما يجوز له وعنه روايته والحمد لله وحده وصلواته على سيدنا محمد النبي وآله وصحبه"
+}

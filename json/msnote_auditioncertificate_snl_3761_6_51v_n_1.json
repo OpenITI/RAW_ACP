@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "51v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "680"
+        ]
+      },
+      "endIndex": 322,
+      "guid": "0abb3b64-d0e4-4837-9108-7c80afab6a77",
+      "startIndex": 271,
+      "text": "السبت الرابع والعشرين من ذي القعدة سنة ثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 104,
+      "guid": "87a163df-1de1-413c-942b-3078f6840e67",
+      "startIndex": 89,
+      "text": "أبي حفص بن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 338,
+      "guid": "b712110c-5c80-44aa-96f3-cc59518416e4",
+      "startIndex": 325,
+      "text": "سفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 173,
+      "guid": "d47bd07d-d40d-429b-b839-70b47ea92829",
+      "startIndex": 169,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "d7c83409-99ea-42b8-8504-91872c745dc7",
+      "startIndex": 125,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 77,
+      "guid": "e0d07714-f35c-4ab7-980f-a9bea4a520c0",
+      "startIndex": 24,
+      "text": "أبي يحيى إسماعيل بن أبي عبد الله بن حماد ابن العسقلاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 254,
+      "guid": "e13e6416-061b-499c-afbe-af5e34e10a48",
+      "startIndex": 229,
+      "text": "محمد بن عبد الرحمن بن سامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 226,
+      "guid": "e9378769-d8f8-48b0-8065-ebd6e7f89a7a",
+      "startIndex": 181,
+      "text": " تقي الدين أحمد بن عبد الحليم بن تيمية الحراني",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على الشيخ أبي يحيى إسماعيل بن أبي عبد الله بن حماد ابن العسقلاني بسماعه من أبي حفص بن طبرزد بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي أخوه محمد والإمام تقي الدين أحمد بن عبد الحليم بن تيمية الحراني ومحمد بن عبد الرحمن بن سامة وصح ذلك في يوم السبت الرابع والعشرين من ذي القعدة سنة ثمانين وستمية بسفح جبل قاسيون"
+}

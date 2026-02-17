@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن علي بن ثابت الخطيب البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الخطيب البغدادي بجامع دمشق"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani",
+        "عبد الله باوزير"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 143"
+      ],
+      "classmark": [
+        "3764/15"
+      ],
+      "folio_number": [
+        "211v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 100,
+      "guid": "244e6cbd-39e8-4592-8761-03ceaf4bd41c",
+      "startIndex": 67,
+      "text": "صفي الدين محمود بن أبي بكر الأرموي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 198,
+      "guid": "2d01e41e-e4a7-4881-9f92-faa4314b1bb1",
+      "startIndex": 160,
+      "text": " يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "3c205c56-8371-4038-974a-bdd2fd988148",
+      "startIndex": 17,
+      "text": " أم أحمد زينب بنت مكي الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 146,
+      "guid": "43508675-2a10-40b5-9499-b78c1997ff4b",
+      "startIndex": 102,
+      "text": "تقي الدين أحمد بن عبد الحليم بن تيمية الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 58,
+      "guid": "75955c52-e076-4d69-a215-fc15f52558bb",
+      "startIndex": 49,
+      "text": " ابن طبرزد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "1"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "680"
+        ]
+      },
+      "endIndex": 267,
+      "guid": "b32ad9e5-68d3-43f7-adc8-7d07a70459f2",
+      "startIndex": 226,
+      "text": "السبت الثاني عشر من محرم سنة ثمانين وستمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 283,
+      "guid": "bdda4bb7-05e0-4dcb-8314-d83aa521c6c6",
+      "startIndex": 270,
+      "text": "سفح جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 210,
+      "guid": "e9ff983e-cd84-49bf-abd0-08dec811ec66",
+      "startIndex": 206,
+      "text": "محمد ",
+      "type": "person"
+    }
+  ],
+  "text": "سمع هذا الجزء على أم أحمد زينب بنت مكي الحراني عن ابن طبرزد بقراءة صفي الدين محمود بن أبي بكر الأرموي تقي الدين أحمد بن عبد الحليم بن تيمية الحراني وكاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي وأخوه محمد وصح ذلك في يوم السبت الثاني عشر من محرم سنة ثمانين وستمئة بسفح جبل قاسيون"
+}

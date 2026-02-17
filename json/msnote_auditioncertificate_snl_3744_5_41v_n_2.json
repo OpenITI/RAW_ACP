@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الرحمن بن العباس المخلص"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه سبعة مجالس من أمالي أبي طاهر المخلص"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 34"
+      ],
+      "classmark": [
+        "3744/5"
+      ],
+      "folio_number": [
+        "41v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "0387c1cd-38b6-42cb-ab46-2b77a8fe4e33",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 36,
+      "text": "كمال الدين أبي محمد عبد الرحيم بن عبد الملك بن عبد الملك المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 216,
+      "guid": "1958726d-40b9-4b26-a286-4c8fed130b81",
+      "index": 44,
+      "isZeroPoint": false,
+      "startIndex": 213,
+      "text": "آمنة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 243,
+      "guid": "1d775dd4-e393-451a-92a2-e0430bceaece",
+      "index": 45,
+      "isZeroPoint": false,
+      "startIndex": 234,
+      "text": "جبل قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "12"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "25ca7493-6940-4808-b5e2-ee261cf7f4df",
+      "index": 46,
+      "isZeroPoint": false,
+      "startIndex": 245,
+      "text": "رابع عشري ذي الحجة سنة ثمان وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 130,
+      "guid": "35fe5a2b-d089-412c-8b8a-7f9483dd2327",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 122,
+      "text": "ابن سلمان",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "7f108ff9-ac9e-4de7-88dc-8e58da2ccfcd",
+      "index": 43,
+      "isZeroPoint": false,
+      "startIndex": 158,
+      "text": "أبو العباس أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "c2d8e39e-4ee2-475a-bb87-1d3a0af1764c",
+      "index": 47,
+      "isZeroPoint": false,
+      "startIndex": 292,
+      "text": "عبد الرحمن بن حسن المنيني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 156,
+      "guid": "cbc86f6a-c799-41c5-aa04-cc86111ed48e",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 139,
+      "text": "أبو عبد الله محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 119,
+      "guid": "efab43c2-13b0-4d5a-8176-c13621c802d6",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 111,
+      "text": "ابن طبرزد",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميعه على الشيخ الإمام الصالح كمال الدين أبي محمد عبد الرحيم بن عبد الملك بن عبد الملك المقدسي بسماعه من ابن طبرزد وابن سلمان فسمعها أبو عبد الله محمد وأبو العباس أحمد ابنا الحاج عبد الكريم أبو محمد الشماع وآمنة بنت المسمع وصح بجبل قاسيون رابع عشري ذي الحجة سنة ثمان وستين وستماية وكتب عبد الرحمن بن حسن المنيني"
+}

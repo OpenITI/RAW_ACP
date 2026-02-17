@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو عمرو أحمد بن محمد بن إبراهيم بن حكيم المديني "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حكايات أبي عمرو أحمد بن محمد بن إبراهيم بن حكيم المديني"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "146r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f153.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f153.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 205,
+      "guid": "24801a56-3243-4d4e-b2fa-8d564251b463",
+      "index": 181,
+      "isZeroPoint": false,
+      "startIndex": 166,
+      "text": "أبو البقاء خالد بن يوسف ابن سعد النابلسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "27a2fbb8-ffd3-4f65-bf57-7e9e75dc1ba2",
+      "index": 183,
+      "isZeroPoint": false,
+      "startIndex": 258,
+      "text": "محمد بن يوسف بن محمد البرزالي الإشبيلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 113,
+      "guid": "3d82abf1-1d49-46a0-8d8c-a5d8a6bbaa52",
+      "index": 179,
+      "isZeroPoint": false,
+      "startIndex": 60,
+      "text": "أبي البركات الحسن بن محمد بن الحسن بن هبة الله الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 155,
+      "guid": "5460100a-6c3c-4598-9ea2-31fe4f2725b7",
+      "index": 180,
+      "isZeroPoint": false,
+      "startIndex": 136,
+      "text": "أبي طاهر أحمد السلفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 387,
+      "guid": "5b84c042-cc85-4b4b-b3de-748362d9e580",
+      "index": 185,
+      "isZeroPoint": false,
+      "startIndex": 369,
+      "text": "المسجد الجامع بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-sabt"
+        ],
+        "year": [
+          "620"
+        ]
+      },
+      "endIndex": 366,
+      "guid": "ba407415-8502-4a4c-9a33-8524ed802e5a",
+      "index": 184,
+      "isZeroPoint": false,
+      "startIndex": 314,
+      "text": "يوم السبت السابع والعشرين من ذي حجة سنة عشرين وستمائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 255,
+      "guid": "bbd81b58-d6cc-496f-a731-f92dd33ad4fe",
+      "index": 182,
+      "isZeroPoint": false,
+      "startIndex": 208,
+      "text": "أبو محمد عبد العزيز بن عثمان بن أبي طاهر الإربلي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء على الشيخ العالم الأصيل الثقة بقية السلف أبي البركات الحسن بن محمد بن الحسن بن هبة الله الشافعي بحق إجازته من الحافظ أبي طاهر أحمد السلفي الفقيهان أبو البقاء خالد بن يوسف ابن سعد النابلسي وأبو محمد عبد العزيز بن عثمان بن أبي طاهر الإربلي ومحمد بن يوسف بن محمد البرزالي الإشبيلي بقراءته وهذا خطه يوم السبت السابع والعشرين من ذي حجة سنة عشرين وستمائة بالمسجد الجامع بدمشق حرسها الله والحمد لله وحده وصلاته على محمد نبيه وسلامه"
+}

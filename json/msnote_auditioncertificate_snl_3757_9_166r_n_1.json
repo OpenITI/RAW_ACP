@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد الله بن محمد بن عبيد بن سفيان بن أبي الدنيا"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "الفرج بعد الشدة"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 96"
+      ],
+      "classmark": [
+        "3757/9"
+      ],
+      "folio_number": [
+        "166r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 161,
+      "guid": "1dda4eb0-8995-494a-a244-110711beb9d1",
+      "index": 18,
+      "isZeroPoint": false,
+      "startIndex": 123,
+      "text": "أبي محمد عبد القادر بن عبد الله الرهاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 115,
+      "guid": "7770dc24-c055-4f95-be04-43e8254144a4",
+      "index": 17,
+      "isZeroPoint": false,
+      "startIndex": 111,
+      "text": "طراد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 200,
+      "guid": "78bcf0e0-3470-4251-8848-69ec77c60918",
+      "index": 19,
+      "isZeroPoint": false,
+      "startIndex": 163,
+      "text": "أبو الفرج عبد الرحمن بن نجم بن الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 97,
+      "guid": "ae29ffd8-864c-4876-ad09-1a07af9f7fcc",
+      "index": 16,
+      "isZeroPoint": false,
+      "startIndex": 61,
+      "text": "شهدة ابنة أحمد بن الفرج بن عمر الإبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "14"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "572"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "cb73c592-01a1-4e89-9cab-869a14f6f37f",
+      "index": 20,
+      "isZeroPoint": false,
+      "startIndex": 219,
+      "text": "يوم الاثنين رابع عشر ذي الحجة سنة اثنتين وسبعين وخمس مية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "d265f0b4-8fb4-46f9-a467-bf2905d12f88",
+      "index": 21,
+      "isZeroPoint": false,
+      "startIndex": 281,
+      "text": "إبراهيم بن عمر بن عبد العزيز القرشي",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء والأول قبله وهما جميع الكتاب على الكاتبة شهدة ابنة أحمد بن الفرج بن عمر الإبري بروايتها عن طراد بقراءة أبي محمد عبد القادر بن عبد الله الرهاوي أبو الفرج عبد الرحمن بن نجم بن الحنبلي في مجلسين آخرهما يوم الاثنين رابع عشر ذي الحجة سنة اثنتين وسبعين وخمس مية نقله إبراهيم بن عمر بن عبد العزيز القرشي"
+}

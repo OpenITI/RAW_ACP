@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن أبي هاشم غلام ثعلب"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث غلام ثعلب"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 72"
+      ],
+      "classmark": [
+        "3753/7"
+      ],
+      "folio_number": [
+        "88r"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 288,
+      "guid": "0f18536e-47df-4fcf-bd82-86fe606f6001",
+      "index": 88,
+      "isZeroPoint": false,
+      "startIndex": 284,
+      "text": "بيليك",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 276,
+      "guid": "2c52e530-77a5-4369-b34c-20ab4c644905",
+      "index": 87,
+      "isZeroPoint": false,
+      "startIndex": 222,
+      "text": "شهاب الدين أبو الفرج محمد بن عبد الله بن الحسين الإربلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 566,
+      "guid": "309d5aa7-420e-4bc7-af1e-a19e16e7f98e",
+      "index": 95,
+      "isZeroPoint": false,
+      "startIndex": 537,
+      "text": "رقية بنت أحمد بن يعيش الأنصاري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 489,
+      "guid": "3f7db833-c870-49ce-aeaf-ffe46594736b",
+      "index": 93,
+      "isZeroPoint": false,
+      "startIndex": 446,
+      "text": "نجيب الدين عبد اللطيف بن محمد بن خلف الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "21"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "689"
+        ]
+      },
+      "endIndex": 621,
+      "guid": "582fb4b7-fe8a-455a-b0f4-860338baca8a",
+      "index": 96,
+      "isZeroPoint": false,
+      "startIndex": 572,
+      "text": "يوم الثلثا حادي عشري شعبان سنة تسع وثمانين وستمية ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 700,
+      "guid": "664a7398-639a-4492-8ded-37cf1c74e721",
+      "index": 98,
+      "isZeroPoint": false,
+      "startIndex": 670,
+      "text": "القاسم بن محمد بن يوسف البرزالي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 534,
+      "guid": "6800eb6d-997e-4a87-a2dd-c36bc41e60e9",
+      "index": 94,
+      "isZeroPoint": false,
+      "startIndex": 492,
+      "text": "أحمد بن عبد المولى بن الحسن بن [...] المؤدب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "6ceb0d5d-ca1a-4eda-829e-ed2423816ebe",
+      "index": 86,
+      "isZeroPoint": false,
+      "startIndex": 209,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "7b2ff21c-42d4-4eee-ac6e-5b13c4228f80",
+      "index": 84,
+      "isZeroPoint": false,
+      "startIndex": 126,
+      "text": "أبي الفضل إسماعيل بن أحمد بن الحسين العراقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 438,
+      "guid": "8251273e-bf57-4086-8acf-5b80bd06da84",
+      "index": 91,
+      "isZeroPoint": false,
+      "startIndex": 377,
+      "text": "ناصر الدين محمد بن أحمد بن محمد بن أبي الكارم الأصبهاني المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 639,
+      "guid": "8c0dc894-6db7-4e74-be5a-4a3cf84be6a0",
+      "index": 97,
+      "isZeroPoint": false,
+      "startIndex": 622,
+      "text": "على باب داره بدمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "8d0b40a5-2882-4300-8384-d28af4330eb0",
+      "index": 85,
+      "isZeroPoint": false,
+      "startIndex": 181,
+      "text": "عبد الحق بن يوسف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 114,
+      "guid": "9d7ca6eb-b53b-417f-b617-69b74f622582",
+      "index": 83,
+      "isZeroPoint": false,
+      "startIndex": 58,
+      "text": "شرف الدين أبي العباس أحمد بن أحمد بن نعمة المقدسي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 334,
+      "guid": "b896ecd6-7bb3-460d-94de-224f4ad519a0",
+      "index": 89,
+      "isZeroPoint": false,
+      "startIndex": 291,
+      "text": "شهاب الدين أحمد بن إبراهيم بن أبي بكر الجزري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 375,
+      "guid": "cbd9cc1d-0af3-4f40-9c75-98affa289765",
+      "index": 90,
+      "isZeroPoint": false,
+      "startIndex": 337,
+      "text": "شهاب الدين أحمد بن يوسف بن أحمد المعري ",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت جميع هذا الجزء على الشيخ الإمام العلامة أقضى القضاة شرف الدين أبي العباس أحمد بن أحمد بن نعمة المقدسي الشافعي بسماعه من أبي الفضل إسماعيل بن أحمد بن الحسين العراقي بإجازته من عبد الحق بن يوسف فسمعه ولده محمد والإمام شهاب الدين أبو الفرج محمد بن عبد الله بن الحسين الإربلي وفتاه بيليك وشهاب الدين أحمد بن إبراهيم بن أبي بكر الجزري وشهاب الدين أحمد بن يوسف بن أحمد المعري وناصر الدين محمد بن أحمد بن محمد بن أبي الكارم الأصبهاني المؤذن أبوه ونجيب الدين عبد اللطيف بن محمد بن خلف الحراني وأحمد بن عبد المولى بن الحسن بن [...] المؤدب ورقية بنت أحمد بن يعيش الأنصاري وصح يوم الثلثا حادي عشري شعبان سنة تسع وثمانين وستمية على باب داره بدمشق وأجاز لنا جميع ما يرويه وكتب القاسم بن محمد بن يوسف البرزالي عفا الله عنه والحمد لله رب العالمين"
+}

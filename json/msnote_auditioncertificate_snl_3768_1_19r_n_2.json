@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو بكر عبدالله بن محمد بن عبيد بن أبي الدنيا "
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "كتاب الصمت"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        "عبد الله باوزير"
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 160"
+      ],
+      "classmark": [
+        "3768/1"
+      ],
+      "folio_number": [
+        "19r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 152,
+      "guid": "0cd8e197-6485-4fb5-8f17-bc1ae76bcf3e",
+      "startIndex": 111,
+      "text": "أبي محمد عبد الله بن أحمد بن محمد بن قدامة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "612"
+        ]
+      },
+      "endIndex": 763,
+      "guid": "0d753c1a-19c0-45c4-a7ff-75dda7abe711",
+      "startIndex": 717,
+      "text": "الأربعاء رابع ذي القعدة سنة اثنتي عشرة وستمائة ",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "umayyad_mosque"
+          ]
+        ]
+      },
+      "endIndex": 773,
+      "guid": "37909d4f-b613-4215-9ae0-6f0bef727a0e",
+      "startIndex": 765,
+      "text": "جامع دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 635,
+      "guid": "415d2b1b-e04c-47e0-a6bc-b99becb6d754",
+      "startIndex": 602,
+      "text": "عبد الغني بن حامد بن الحسن المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 223,
+      "guid": "58d4b83b-4248-41fa-b0b8-3721ec4cbed4",
+      "startIndex": 155,
+      "text": "عماد الدين شيخ الإسلام أبي إسحق إبراهيم بن عبد الواحد بن سرور المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 689,
+      "guid": "5e8f8af5-51a0-4484-a4bf-9e79877be79b",
+      "startIndex": 644,
+      "text": "أبي بكر عبد الله بن محمد بن علي الحنفي الغزنوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 479,
+      "guid": "73129063-6a2c-41bf-a592-2ed87b201047",
+      "startIndex": 438,
+      "text": "أبو الفضل إسماعيل بن عمر بن إدريس القلانسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          "b8775a2a-3b46-41d6-b1cb-c8f064d0e114"
+        ],
+        "revisor": [
+          "Boris Liebrenz"
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 435,
+      "guid": "73578f59-9bfa-4214-a328-dea9d7ecdeb0",
+      "startIndex": 398,
+      "text": "أبو المرجا سالم بن ثمال بن عنان العرضي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 298,
+      "guid": "745437c5-9122-4923-a743-23644d35469d",
+      "startIndex": 288,
+      "text": "شهدة الإبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 316,
+      "guid": "82fce419-81bb-4dc7-82f6-e07e70bae0af",
+      "startIndex": 308,
+      "text": " ابن طلحة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 566,
+      "guid": "89596ae4-5cc3-4e86-a3be-4e459a7eeb57",
+      "startIndex": 519,
+      "text": "أبو بكر محمد بن أبي المعالي محمد بن جامع التميمي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 395,
+      "guid": "991248a2-8465-4e52-95d3-a128b1e8a5e8",
+      "startIndex": 342,
+      "text": "بدر الدين أبو العز المفضل بن علي بن عبد الواحد الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 516,
+      "guid": "abff5fc7-5f50-4c48-bb13-4ca72a7aa7fa",
+      "startIndex": 482,
+      "text": "عيسى بن يعقوب بن علي الحواك الموصلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 599,
+      "guid": "bc1401da-076d-4ca9-bae0-cb3455c4a560",
+      "startIndex": 569,
+      "text": "محمد بن مكارم بن أبي بكر السلمي",
+      "type": "person"
+    }
+  ],
+  "text": "سمع جميع هذا الجزء وهو الثاني من كتاب الصمت لابن أبي الدنيا على الشيخين الإمامين العالمين موفق الدين شيخ السنة أبي محمد عبد الله بن أحمد بن محمد بن قدامة وعماد الدين شيخ الإسلام أبي إسحق إبراهيم بن عبد الواحد بن سرور المقدسيين بسماع الموفق عن شيخيه المذكورين في صدر الجزء وسماع العماد عن شهدة الإبري جميعا عن ابن طلحة بسنده فيه الإمام العالم بدر الدين أبو العز المفضل بن علي بن عبد الواحد الشافعي وأبو المرجا سالم بن ثمال بن عنان العرضي وأبو الفضل إسماعيل بن عمر بن إدريس القلانسي وعيسى بن يعقوب بن علي الحواك الموصلي وأبو بكر محمد بن أبي المعالي محمد بن جامع التميمي ومحمد بن مكارم بن أبي بكر السلمي وعبد الغني بن حامد بن الحسن المقدسي بقراءة أبي بكر عبد الله بن محمد بن علي الحنفي الغزنوي وهذا خطه وصح ذلك وثبت يوم الأربعاء رابع ذي القعدة سنة اثنتي عشرة وستمائة بجامع دمشق والحمد لله وحده والصلاة على رسوله محمد وآله وصحبه"
+}

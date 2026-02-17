@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "احمد إبن موسى إبن مردويه"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        " تفسير المسند"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Ms. Or. Oct. 1483"
+      ],
+      "folio_number": [
+        "236v"
+      ],
+      "image_link": [
+        "https://content.staatsbibliothek-berlin.de/dms/PPN1669078205/1200/0/00000476.jpg"
+      ],
+      "library": [
+        "Stabi"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        "https://www.qalamos.net/receive/DE1Book_manuscript_00017902"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi",
+          "writer"
+        ]
+      },
+      "endIndex": 170,
+      "guid": "3fc9d8ab-e6ff-44fb-8d45-9b3e38aced46",
+      "startIndex": 131,
+      "text": "إسماعيل بن أبي نصر بن محمد يعرف بدانكفاد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "528"
+        ]
+      },
+      "endIndex": 124,
+      "guid": "46204154-1ddd-43f3-9cbb-2dd26a946234",
+      "startIndex": 93,
+      "text": "في رجب سنة ثمان وعشرين وخمس مائة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "ff3fe819-5c4f-4acd-b8d6-e038dd80a95c",
+      "startIndex": 24,
+      "text": "أبو أحمد عبيد الله بن أبي المظفر بن أبي الفتح بن ماجه",
+      "type": "person"
+    }
+  ],
+  "text": "سمع مني الجزء كله الشيخ أبو أحمد عبيد الله بن أبي المظفر بن أبي الفتح بن ماجه بقراءته وصح له في رجب سنة ثمان وعشرين وخمس مائة وكتب إسماعيل بن أبي نصر بن محمد يعرف بدانكفاد بخطه"
+}

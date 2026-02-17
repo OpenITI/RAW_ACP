@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "إسماعيل بن أحمد بن عمر السمرقندي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ما قرب سنده من حديث أبي القاسم السمرقندي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 49"
+      ],
+      "classmark": [
+        "3747/6"
+      ],
+      "folio_number": [
+        "84v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 295,
+      "guid": "0039f7e8-3201-44a0-ad91-9a5b59cd895e",
+      "index": 155,
+      "isZeroPoint": false,
+      "startIndex": 264,
+      "text": "أحمد بن محمد بن عبد الله الظاهري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "aleppo"
+          ]
+        ]
+      },
+      "endIndex": 373,
+      "guid": "39608615-ddd7-444c-89c2-be425eb54bda",
+      "index": 157,
+      "isZeroPoint": false,
+      "startIndex": 371,
+      "text": "حلب",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "643"
+        ]
+      },
+      "endIndex": 368,
+      "guid": "4954ea80-7c09-42fa-ac18-06add3ce0adf",
+      "index": 156,
+      "isZeroPoint": false,
+      "startIndex": 316,
+      "text": "يوم الأربعاء خامس عشرين رجب من سنة ثلث وأربعين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 262,
+      "guid": "5502cd88-1071-41b1-8577-e2f0e30042b2",
+      "index": 154,
+      "isZeroPoint": false,
+      "startIndex": 199,
+      "text": "علاء الدين أبي الحسن علي بن أبي بكر بن إبراهيم ابن النحاس الحلبي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 162,
+      "guid": "99a8ffeb-6694-49ad-91f7-b2eb061b1b9e",
+      "index": 152,
+      "isZeroPoint": false,
+      "startIndex": 79,
+      "text": "شمس الدين أبي المظفر يوسف بن قزغلي بن عبد الله الحنفي سبط الإمام أبي الفرج بن الجوزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 180,
+      "guid": "a4ed2dd7-0574-4f3e-9328-282098996ce9",
+      "index": 153,
+      "isZeroPoint": false,
+      "startIndex": 174,
+      "text": "الكندي ",
+      "type": "person"
+    }
+  ],
+  "text": " سمع ما قرب سنده لأبي القاسم بن السمرقندي على الشيخ الإمام العالم الأوحد الصدر شمس الدين أبي المظفر يوسف بن قزغلي بن عبد الله الحنفي سبط الإمام أبي الفرج بن الجوزي بسماعه من الكندي عنه بقراءة الإمام علاء الدين أبي الحسن علي بن أبي بكر بن إبراهيم ابن النحاس الحلبي أحمد بن محمد بن عبد الله الظاهري وهذا خطه وآخرون في يوم الأربعاء خامس عشرين رجب من سنة ثلث وأربعين وستمية بحلب والحمد لله"
+}

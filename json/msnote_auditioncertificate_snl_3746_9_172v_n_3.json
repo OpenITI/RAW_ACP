@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن عبد الواحد بن أحمد بن عبد الرحمن المقدسي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث عوال وحكايات وأشعار "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 46"
+      ],
+      "classmark": [
+        "3746/9"
+      ],
+      "folio_number": [
+        "172v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 44,
+      "guid": "4b66df51-16d3-4a31-8a6e-1de1ff800924",
+      "index": 110,
+      "isZeroPoint": false,
+      "startIndex": 19,
+      "text": "محرز بن عبد الرحمن المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 285,
+      "guid": "59ad8728-4dc5-4f41-bc4b-e7a3f7ee6e30",
+      "index": 116,
+      "isZeroPoint": false,
+      "startIndex": 270,
+      "text": "حسن بن الأسعردي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "27"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "797"
+        ]
+      },
+      "endIndex": 263,
+      "guid": "79d4d65c-4c6b-4870-b75d-1ca3878c319e",
+      "index": 115,
+      "isZeroPoint": false,
+      "startIndex": 207,
+      "text": "يوم الأربعاء سابع عشرين ذي الحجة سنة سبع وتسعين ووسبعماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 76,
+      "guid": "a44a2bdd-ee79-4bfe-b6d3-4f7cce456f49",
+      "index": 111,
+      "isZeroPoint": false,
+      "startIndex": 69,
+      "text": "عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 99,
+      "guid": "ae38da4d-b5ba-40ff-a54f-4e2de2a869e4",
+      "index": 112,
+      "isZeroPoint": false,
+      "startIndex": 90,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "e0ababcc-90c0-41c6-b662-4454d348a09d",
+      "index": 113,
+      "isZeroPoint": false,
+      "startIndex": 150,
+      "text": "أحمد بن أحمد بن محمد بن سيف الدين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 205,
+      "guid": "eac37aa7-eb97-44fd-bc27-9a87038642eb",
+      "index": 114,
+      "isZeroPoint": false,
+      "startIndex": 193,
+      "text": "منز[ل] المسمع",
+      "type": "place"
+    }
+  ],
+  "text": " وسمعه عليه بقراءة محرز بن عبد الرحمن المقدسي ومن خطه نقلت ابنا أخيه عبد الله في الخامسة وعبد الرحمن حاضر في [فراغ في الأصل] ابنا عماد الدين أبي بكر وأحمد بن أحمد بن محمد بن سيف الدين وصح ذلك بمنز[ل] المسمع يوم الأربعاء سابع عشرين ذي الحجة سنة سبع وتسعين ووسبعماية وكتب حسن بن الأسعردي "
+}

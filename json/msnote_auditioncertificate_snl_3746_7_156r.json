@@ -1,0 +1,478 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "الهيثم بن خلف بن محمد الدوري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "ذم اللواط "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 45"
+      ],
+      "classmark": [
+        "3746/7"
+      ],
+      "folio_number": [
+        "156r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 899,
+      "guid": "0b22b071-8bb7-4222-8be9-917fe976fd49",
+      "startIndex": 861,
+      "text": "عمر بن محمد بن علي الشهير بابن البليدي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1267,
+      "guid": "0e00d6b0-2afc-449b-aa93-55a7cdb1d9f1",
+      "startIndex": 1232,
+      "text": "محمد بن حسن بن محمد التركماني الشرقي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1229,
+      "guid": "269ffe3b-0eb5-4ac5-abae-fcd726c15acf",
+      "startIndex": 1199,
+      "text": "محمد بن جندل بن قرمان التركماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "4"
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "12"
+        ],
+        "weekday": [
+          "Yawm al-arba'a"
+        ],
+        "year": [
+          "836"
+        ]
+      },
+      "endIndex": 1560,
+      "guid": "2c3d143f-e77f-458a-a5b1-5b13dddc4018",
+      "startIndex": 1508,
+      "text": "يوم الأربعاء رابع ذي الحجة سنة ست وثلاثين وثماني ماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1342,
+      "guid": "3be8bcbb-cd17-405c-8b07-5ec1d67a194c",
+      "startIndex": 1308,
+      "text": "أم حسن خاتون بنت محمد الشهيرة [...]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 974,
+      "guid": "5ec16b4d-a21d-48d7-b280-cb0701bf8777",
+      "startIndex": 945,
+      "text": "إلياس بن خضر بن محمد التركماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 647,
+      "guid": "714927cc-af2a-4169-ba8d-5e5aecef5ddb",
+      "startIndex": 586,
+      "text": "شهاب الدين أحمد بن عبد اللطيف بن موسى المخزومي اليُبناوي المكي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 942,
+      "guid": "795ab8e9-a73a-41bc-a004-d515c157f834",
+      "startIndex": 916,
+      "text": "علي بن خليل بن يونس التلدوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "qubaybat_mosque"
+          ]
+        ]
+      },
+      "endIndex": 1597,
+      "guid": "7b01fd17-82b2-46e6-bb19-d6ed7bfed729",
+      "startIndex": 1563,
+      "text": "مسجد المسمع بأرض القبيبات خارج دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 1494,
+      "guid": "7c2583ef-3591-48c6-841e-885c7b898b94",
+      "startIndex": 1418,
+      "text": "محمد المدعو عمر بن محمد بن أبي الخير محمد بن فهد الهاشمي العلوي المكي الشافعي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1026,
+      "guid": "84203c8e-9f9b-4f26-9cbc-d2e691ce8f46",
+      "startIndex": 977,
+      "text": "عبد الرحمن بن إسماعيل بن سعد الله الشهير بالمسيكين",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1152,
+      "guid": "874a78ab-0fbc-4652-948a-a9323aeb2b6d",
+      "startIndex": 1109,
+      "text": "فرج بن عمر بن عبد الله الشهير بابن المعظماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 264,
+      "guid": "a1a433c0-1732-4627-8b10-81a7edea9851",
+      "startIndex": 199,
+      "text": "نور الدين أبي الحسن علي بن حسين بن عروة المشرقي ثم الدمشقي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 775,
+      "guid": "a47dbdc6-6015-4d48-920b-597574bcd81c",
+      "startIndex": 710,
+      "text": "نور الدين أبي الحسن علي بن إبراهيم بن محمد بن طاطا الصالحي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 531,
+      "guid": "b3970a16-a6a6-4dcb-9e90-c797caef825f",
+      "startIndex": 403,
+      "text": "برهان الدين أبو إسحق إبراهيم بن الشيخ الإمام العالم العلامة الأوحد زين الدين ابي الفرج عبد الرحمن بن سليمان بن أبي الكرم الحنبلي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1196,
+      "guid": "be46bf7e-452d-413e-827b-99e68dc5ac79",
+      "startIndex": 1155,
+      "text": "خليل بن الحاج عثمان الشهير بابن قتال الذيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1057,
+      "guid": "d4ea2fc5-7006-4b6f-898b-8ed2fc7c96ef",
+      "startIndex": 1029,
+      "text": "نوح بن مراد بن رمان التركماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 583,
+      "guid": "d6d8bc1b-2959-4f8b-b6ab-8f1ba0d4cbca",
+      "startIndex": 533,
+      "text": "شمس الدين محمد بن أحمد بن حسن بن عبد الهادي الصالحي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 833,
+      "guid": "dba51740-25a8-45d5-957a-e0b2660adf1f",
+      "startIndex": 778,
+      "text": "بدر الدين حسن بن إبراهيم بن محمد الشهير بابن [الزيديني؟]",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1298,
+      "guid": "e6ce4f42-7ee8-4fea-a8ba-70f878b41d46",
+      "startIndex": 1270,
+      "text": "عمر بن علي الشهير بابن الصغير",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 385,
+      "guid": "ebfeafc7-7c7e-42d7-bada-2d3d64bbe7ba",
+      "startIndex": 320,
+      "text": "شهاب الدين أحمد بن محمد بن أحمد ابن زيد الموصلي ثم الدمشقي الحنبلي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 1106,
+      "guid": "ed5044bc-ff54-4eb1-bba3-5fb0278b315f",
+      "startIndex": 1060,
+      "text": "قاسم بن موسى بن قاسم بن موسى ابن عباس المعظماني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 705,
+      "guid": "fe7f240e-ecec-4ccb-a7f6-32e636cbbf8e",
+      "startIndex": 650,
+      "text": "زين الدين خلف بن محمد بن إسماعيل بن خلف الحسباني الحنبلي",
+      "type": "person"
+    }
+  ],
+  "text": " الحمد لله سمع جميع هذا الجزء مع الذي بعده وهو المجلس التاسع عشر من أمالي الحافظ أبي القاسم بن عساكر في تحريم الابنة على الشيخ الإمام العالم العلامة الصالح العابد الزاهد الخاشع بقية السلف عمدة الخلف نور الدين أبي الحسن علي بن حسين بن عروة المشرقي ثم الدمشقي الحنبلي أبقاه الله تعالى بقراءته له بآخره أصلاً بقراءة الفاضل شهاب الدين أحمد بن محمد بن أحمد ابن زيد الموصلي ثم الدمشقي الحنبلي الجماعة الفضلاء برهان الدين أبو إسحق إبراهيم بن الشيخ الإمام العالم العلامة الأوحد زين الدين ابي الفرج عبد الرحمن بن سليمان بن أبي الكرم الحنبلي وشمس الدين محمد بن أحمد بن حسن بن عبد الهادي الصالحي وشهاب الدين أحمد بن عبد اللطيف بن موسى المخزومي اليُبناوي المكي وزين الدين خلف بن محمد بن إسماعيل بن خلف الحسباني الحنبليون ونور الدين أبي الحسن علي بن إبراهيم بن محمد بن طاطا الصالحي الحنبلي وبدر الدين حسن بن إبراهيم بن محمد الشهير بابن [الزيديني؟] ومسكنه بمسجد القدم والحاج عمر بن محمد بن علي الشهير بابن البليدي وهو جار المسمع وعلي بن خليل بن يونس التلدوي وإلياس بن خضر بن محمد التركماني وعبد الرحمن بن إسماعيل بن سعد الله الشهير بالمسيكين ونوح بن مراد بن رمان التركماني وقاسم بن موسى بن قاسم بن موسى ابن عباس المعظماني وفرج بن عمر بن عبد الله الشهير بابن المعظماني وخليل بن الحاج عثمان الشهير بابن قتال الذيب ومحمد بن جندل بن قرمان التركماني ومحمد بن حسن بن محمد التركماني الشرقي وعمر بن علي الشهير بابن الصغير والحاجة أم حسن خاتون بنت محمد الشهيرة [...] وهي والأحد عشر قبلها مسكنهم بالقبيبات خارج دمشق المحروسة ومسطر هذه الأحرف محمد المدعو عمر بن محمد بن أبي الخير محمد بن فهد الهاشمي العلوي المكي الشافعي وصح وثبت في يوم الأربعاء رابع ذي الحجة سنة ست وثلاثين وثماني ماية بمسجد المسمع بأرض القبيبات خارج دمشق المحروسة وأجاز المسمع لكل منا جميع ما له من معقول ومنقول بسؤال القارئ والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلم حسبنا الله ونعم الوكيل"
+}

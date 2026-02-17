@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        true
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "القاضي أبو يعلى محمد بن الحسين بن محمد الفراء"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي أبي يعلى الفراء"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 128"
+      ],
+      "classmark": [
+        "3763/5"
+      ],
+      "folio_number": [
+        "50r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 172,
+      "guid": "0349b80b-f50b-4681-8bbe-b4414379ca11",
+      "startIndex": 168,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 177,
+      "guid": "0c2fa2dc-1434-443a-8c4c-86c93698d481",
+      "startIndex": 174,
+      "text": "أحمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "al-salihyia_madrasa"
+          ]
+        ]
+      },
+      "endIndex": 365,
+      "guid": "31354b85-4966-4b33-8364-2e35e3bab4cf",
+      "startIndex": 333,
+      "text": "منزل المسمع بالجودرية من القاهرة ",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "copyist"
+        ]
+      },
+      "endIndex": 452,
+      "guid": "38ef4634-de06-4d3c-ad21-beae1a457060",
+      "startIndex": 433,
+      "text": " محمد بن علي السروجي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 221,
+      "guid": "5f3609e1-ce75-40a7-814d-55dc9b7a043f",
+      "startIndex": 218,
+      "text": "محمد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "845b9491-80a4-46f2-9003-eed60aa0cfc4",
+      "startIndex": 94,
+      "text": "ابن الخريف",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 91,
+      "guid": "8a088b14-b27d-4bd9-9f26-22ad5cbf50d6",
+      "startIndex": 83,
+      "text": " ابن دهبل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 228,
+      "guid": "aebbc023-af50-4095-b7a9-0e27627691cb",
+      "startIndex": 224,
+      "text": "محمود",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "12"
+        ],
+        "month": [
+          "10"
+        ],
+        "weekday": [
+          "Yawm al-ithnayn"
+        ],
+        "year": [
+          "668"
+        ]
+      },
+      "endIndex": 330,
+      "guid": "b260460d-8156-4d4a-b956-72a5d2625daa",
+      "startIndex": 287,
+      "text": "الاثنين ثاني عشر شوال سنة ثمان وستين وستماية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 142,
+      "guid": "cc71dca1-87eb-4cb3-a770-5981dd2d74cd",
+      "startIndex": 112,
+      "text": "الحسن بن علي بن عيسى بن الصيرفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 68,
+      "guid": "cfececfa-2141-45d8-b1e8-26a16727e543",
+      "startIndex": 45,
+      "text": "النجيب أبي الفرج الحراني",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه وهو الثاني من أمالي أبي يعلى الفراء على النجيب أبي الفرج الحراني بسماعه فيه من ابن دهبل وابن الخريف بقراءة الحسن بن علي بن عيسى بن الصيرفي ومن خطه نقلت جماعة منهم محمد وأحمد ولدا علاء الدين كشتغدي الخطائي المعزي ومحمد ومحمود ولدا حسام الدين محمد بن محمد بن سنقر العادلي وصح في ويوم الاثنين ثاني عشر شوال سنة ثمان وستين وستماية بمنزل المسمع بالجودرية من القاهرة وأجاز لهم جميع ما يجوز له روايته بشرطه بسؤال القارئ اختصره من الأصل محمد بن علي السروجي وليس في النسخة المنقول منها هذا السماع الورقة الملحقة بخط ابن الظاهري في هذه النسخة"
+}

@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن يوسف بن خلاد النصيبي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث أبي بكر بن خلاد النصيبي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        ""
+      ],
+      "catalog": [
+        "FMMU 130"
+      ],
+      "classmark": [
+        "3763/10"
+      ],
+      "folio_number": [
+        "120v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 128,
+      "guid": "58567444-d300-4d53-95c6-70d2696d6216",
+      "startIndex": 119,
+      "text": " ابن إلياس",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 103,
+      "guid": "b108c459-260e-434c-ac7d-18d242816a3d",
+      "startIndex": 44,
+      "text": "أبي عبد الله محمد بن نجم الدين إسماعيل بن إبراهيم ابن الخباز",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "month": [
+          "8"
+        ],
+        "weekday": [
+          "Yawm al-thalatha"
+        ],
+        "year": [
+          "747"
+        ]
+      },
+      "endIndex": 256,
+      "guid": "b8918a95-82b0-4913-8bbb-61bd7eda34cf",
+      "startIndex": 211,
+      "text": " الثلثا ثالث عشر شعبان سنة سبع وأربعين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "private_house"
+          ]
+        ]
+      },
+      "endIndex": 288,
+      "guid": "c3357314-96f1-47d0-86e7-f426570c5a67",
+      "startIndex": 270,
+      "text": "منزله داخل باب توما",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 160,
+      "guid": "ca321f55-ae8e-4a80-9678-6c015165206e",
+      "startIndex": 153,
+      "text": "ابن البن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+},
+      "endIndex": 369,
+      "guid": "de751185-183c-49b6-a245-b68c3a7a88af",
+      "startIndex": 331,
+      "text": "صحيح ذلك وكتبه محمد المعروف بابن الخباز",
+      "type": "signature_of_musmi"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 329,
+      "guid": "f1bde3ba-448b-4e81-8cc8-46b510a7eab2",
+      "startIndex": 294,
+      "text": " محمد بن موسى بن محمد بن سند بن تميم",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 139,
+      "guid": "fd3814d4-5e96-4826-b32c-c5b34d5cbe0d",
+      "startIndex": 131,
+      "text": "ابن طرخان",
+      "type": "person"
+    }
+  ],
+  "text": "قرأت جميع هذا الجزء على الشيخ الجليل المسند أبي عبد الله محمد بن نجم الدين إسماعيل بن إبراهيم ابن الخباز بسماعه أوله من ابن إلياس وابن طرخان بسماعهما من ابن البن بسنده فسمعه على جزء العلل وقف الضيائية وصح في يوم الثلثا ثالث عشر شعبان سنة سبع وأربعين وسبعمية وأجاز وذلك بمنزله داخل باب توما وكتب محمد بن موسى بن محمد بن سند بن تميم صحيح ذلك وكتبه محمد المعروف بابن الخباز"
+}

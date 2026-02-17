@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عبد المنعم بن عبد الوهاب بن سعد بن كليب الحراني"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أحاديث عن النبي "
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "catalog": [
+        "FMMU 48"
+      ],
+      "classmark": [
+        "3747/3"
+      ],
+      "folio_number": [
+        "28v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 118,
+      "guid": "364befa8-fb22-476e-8e4f-7ceb3f9d45fc",
+      "startIndex": 44,
+      "text": "عز الدين أبي العز عبد العزيز بن عبد المنعم بن علي بن نصر ابن الصيقل الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "location": [
+          [
+            "egypt",
+            "cairo",
+            "misr"
+          ]
+        ]
+      },
+      "endIndex": 467,
+      "guid": "41042ca2-935f-4eba-80a9-ac2a0cfe5dfa",
+      "startIndex": 465,
+      "text": "مصر",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 388,
+      "guid": "7a039b4e-7951-4a5c-a439-2cb8fc213cdd",
+      "startIndex": 333,
+      "text": "شمس الدين أبو عبد الله محمد بن عبد الرحمن بن سامة الطائي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 511,
+      "guid": "963144ad-4ede-40b2-92bf-34a6111f4eea",
+      "startIndex": 474,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 315,
+      "guid": "ab237f49-e647-4b56-aeb2-cd020fc9b2a3",
+      "startIndex": 291,
+      "text": "أبي الفرج بن كليب الحراني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "25"
+        ],
+        "editor": [
+          "Vincent Engelhardt"
+        ],
+        "month": [
+          "11"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "683"
+        ]
+      },
+      "endIndex": 462,
+      "guid": "d0cd56d8-5091-43f7-aa3a-97dacb3707cb",
+      "startIndex": 401,
+      "text": "يوم الجمعة الخامس والعشرين من ذي القعدة سنة ثلث وثمانين وستمية",
+      "type": "date"
+    }
+  ],
+  "text": " قرأت على الشيخ الجليل الأصيل المسند المعمر عز الدين أبي العز عبد العزيز بن عبد المنعم بن علي بن نصر ابن الصيقل الحراني جزءا فيه أحد عشر مجلسا من أمالي ابن ملة وهي الثامن والتاسع والثامن عشر والتاسع عشر والثاني والعشرون واللذان بعده والسابع والعشرون واللذان بعده والخامس والعشرون بإجازته من أبي الفرج بن كليب الحراني بسماعه منه وسمع شمس الدين أبو عبد الله محمد بن عبد الرحمن بن سامة الطائي وصح ذلك في يوم الجمعة الخامس والعشرين من ذي القعدة سنة ثلث وثمانين وستمية بمصر وكتب يوسف بن الزكي عبد الرحمن بن يوسف المزي"
+}

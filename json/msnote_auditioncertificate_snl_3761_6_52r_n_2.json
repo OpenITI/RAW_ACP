@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو الهيثم خالد بن مرداس السراج"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "حديث خالد السراج"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 2"
+      ],
+      "catalog": [
+        "FMMU 118"
+      ],
+      "classmark": [
+        "3761/6"
+      ],
+      "folio_number": [
+        "52r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "464bad01-87e4-4fc4-af2f-25e2a562cdcc",
+      "startIndex": 70,
+      "text": "يوسف بن الزكي عبد الرحمن بن يوسف المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "endIndex": 219,
+      "guid": "66421baa-d978-46b8-aed2-80bf3b965f2d",
+      "startIndex": 216,
+      "text": "دمشق",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 123,
+      "guid": "8288c8cc-1bbf-435f-bb7a-a308210459a9",
+      "startIndex": 114,
+      "text": "عبد الرحمن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "24"
+        ],
+        "month": [
+          "6"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "688"
+        ]
+      },
+      "endIndex": 213,
+      "guid": "c1d810a2-cb4d-45de-8b8e-eefb0823eef6",
+      "startIndex": 152,
+      "text": "الجمعة الرابع والعشرين من جمادى الآخرة سنة ثمان وثمانين وستمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 36,
+      "guid": "ce969be7-aabc-4d2f-abbc-b71b55d5bf41",
+      "startIndex": 10,
+      "text": "زينب بنت مكي بن علي بن كامل",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 49,
+      "guid": "e42bda45-2d77-46e4-9f18-00f12f1c6e41",
+      "startIndex": 41,
+      "text": "ابن طبرزد",
+      "type": "person"
+    }
+  ],
+  "text": "وسمعه على زينب بنت مكي بن علي بن كامل عن ابن طبرزد بقراءة كاتب السماع يوسف بن الزكي عبد الرحمن بن يوسف المزي ابنه عبد الرحمن حاضرا في الأولى وآخرون يوم الجمعة الرابع والعشرين من جمادى الآخرة سنة ثمان وثمانين وستمية بدمشق"
+}

@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أحمد بن عطاء الروذباري"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي الروذباري"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 1"
+      ],
+      "catalog": [
+        "FMMU 134"
+      ],
+      "classmark": [
+        "3763/18"
+      ],
+      "folio_number": [
+        "208r"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "link_to_manuscript": [
+        null
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 45,
+      "guid": "0771373a-320e-403f-989c-eb53971758c1",
+      "startIndex": 17,
+      "text": "أبي زكريا يحيى بن محمد بن سعد",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus"
+          ]
+        ]
+      },
+      "defaultLabel": "Place1",
+      "guid": "1fd11bc7-77df-4ae4-8701-4430031a4d60",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "39be1573-e168-4df0-8e12-8f267278a2ba",
+      "startIndex": 108,
+      "text": "الكاشغري ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 157,
+      "guid": "43084768-f282-4e7c-ad12-0e1f20c3adf1",
+      "startIndex": 124,
+      "text": "أبي محمد عبد الله بن أحمد بن المحب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 94,
+      "guid": "4c5a6af1-0f52-40c4-ab5e-040f30869e48",
+      "startIndex": 48,
+      "text": "أبي عبد الله محمد بن أحمد بن عبد الرحمن البجدي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "link_to_person": [
+          null
+        ],
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 168,
+      "guid": "74d64c9d-3483-4d1d-ad6c-c81d45e148dc",
+      "startIndex": 164,
+      "text": "محمد ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          null
+        ],
+        "editor": [
+          "Said Aljoumani"
+        ],
+        "month": [
+          "7"
+        ],
+        "year": [
+          "719"
+        ]
+      },
+      "endIndex": 203,
+      "guid": "f0560779-146d-433f-ab40-bc268c221476",
+      "startIndex": 180,
+      "text": "رجب سنة تسع عشرة وسبعمية",
+      "type": "date"
+    }
+  ],
+  "text": "سمعه على الشيخين أبي زكريا يحيى بن محمد بن سعد وأبي عبد الله محمد بن أحمد بن عبد الرحمن البجدي بإجازتهما من الكاشغري بقراءة أبي محمد عبد الله بن أحمد بن المحب ابنه محمد وذا خطه في رجب سنة تسع عشرة وسبعمية وكتاب الوجل والتوثق بالعمل لابن أبي الدنيا"
+}

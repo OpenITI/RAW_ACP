@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "أبو محمد سفيان بن عيينة الهلالي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "جزء فيه من حديث أبي محمد سفيان بن عيينة الهلالي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        null
+      ],
+      "classmark": [
+        "Suppl Turc 986"
+      ],
+      "folio_number": [
+        "133r"
+      ],
+      "image_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f137.highres"
+      ],
+      "library": [
+        "BNF"
+      ],
+      "manuscript_link": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10082613v/f137.item.r=turc%20986.zoom"
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 125,
+      "guid": "15a987a7-abb5-4ad6-8899-84cf06859568",
+      "index": 117,
+      "isZeroPoint": false,
+      "startIndex": 119,
+      "text": "السخاوي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 235,
+      "guid": "26d42094-9397-44c1-b690-4834d669ce1d",
+      "index": 121,
+      "isZeroPoint": false,
+      "startIndex": 214,
+      "text": "عبد الرحمن بن نصر الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 184,
+      "guid": "360e91e0-807b-405b-9c25-1e3c0cafade3",
+      "index": 118,
+      "isZeroPoint": false,
+      "startIndex": 141,
+      "text": "جمال الدين رافع بن أبي محمد ابن محمد السلامي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "10"
+        ],
+        "month": [
+          "2"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "714"
+        ]
+      },
+      "endIndex": 323,
+      "guid": "425f6825-f197-4e4a-bad1-30664717c215",
+      "index": 123,
+      "isZeroPoint": false,
+      "startIndex": 287,
+      "text": "الجمعة عشرة صفر سنة أربع عشرة وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 202,
+      "guid": "7a19800c-608f-41be-8778-49ec040d3129",
+      "index": 120,
+      "isZeroPoint": false,
+      "startIndex": 198,
+      "text": "فاطمة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 107,
+      "guid": "8c3b5b05-b420-4e7e-a5f4-8aa1f9ec007b",
+      "index": 116,
+      "isZeroPoint": false,
+      "startIndex": 61,
+      "text": "إبراهيم بن علي ابن محمد بن غالب الأنصاري التاجر",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "bustan_lahya"
+          ]
+        ]
+      },
+      "endIndex": 343,
+      "guid": "a59850cc-693f-4bf2-a5a6-d8e579e75541",
+      "index": 124,
+      "isZeroPoint": false,
+      "startIndex": 326,
+      "text": "بستان المسمع بلهيا",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 265,
+      "guid": "b59d4b98-4544-4571-999e-d0e84d78f0be",
+      "index": 122,
+      "isZeroPoint": false,
+      "startIndex": 238,
+      "text": "محمد بن محمد بن محمد الورّاق",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "writer"
+        ]
+      },
+      "endIndex": 196,
+      "guid": "f8845dfb-5a0c-4865-8560-1da8a6a1e901",
+      "index": 119,
+      "isZeroPoint": false,
+      "startIndex": 192,
+      "text": "محمد ",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على الشيخ الصالح المسند الصدر جمال الدين ويلقب بالبرهان إبراهيم بن علي ابن محمد بن غالب الأنصاري التاجر بسماعه من السخاوي بقراءة الإمام جمال الدين رافع بن أبي محمد ابن محمد السلامي ولداه محمد وفاطمة وابن أخيه عبد الرحمن بن نصر الله ومحمد بن محمد بن محمد الورّاق وذا خطه وصح في عشية الجمعة عشرة صفر سنة أربع عشرة وسبعمئة ببستان المسمع بلهيا [أي بيت لهيا] ظاهر دمشق وأجاز كتبه محمد بن القارئ من الأصل في سنة أربع وعشرين"
+}

@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "محمد بن أحمد بن إسماعيل ابن سمعون الواعظ"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "أمالي ابن سمعون"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+
+      ],
+      "catalog": [
+        "FMMU 80"
+      ],
+      "classmark": [
+        "3754/18"
+      ],
+      "folio_number": [
+        "182v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 272,
+      "guid": "02138859-b716-4aff-9e80-7ab44992b4ca",
+      "index": 57,
+      "isZeroPoint": false,
+      "startIndex": 247,
+      "text": "علي بن سالم بن زريق المؤذن",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "day": [
+          "11"
+        ],
+        "month": [
+          "7"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "535"
+        ]
+      },
+      "endIndex": 416,
+      "guid": "169a2155-0441-49d3-a262-f18b394bde46",
+      "index": 61,
+      "isZeroPoint": false,
+      "startIndex": 371,
+      "text": "يوم الجمعة حادي عشر رجب سنة خمس وثلاثين وخمسية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 336,
+      "guid": "1bc2a8b7-1378-4e34-80da-f7d36db8ed57",
+      "index": 59,
+      "isZeroPoint": false,
+      "startIndex": 320,
+      "text": "أبو جعفر عبد الله",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 89,
+      "guid": "39e09150-db84-4b8d-bdb8-5242678c7d9c",
+      "index": 51,
+      "isZeroPoint": false,
+      "startIndex": 85,
+      "text": "خديجة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 129,
+      "guid": "706b5063-74c1-418a-8524-496329dfd0d4",
+      "index": 53,
+      "isZeroPoint": false,
+      "startIndex": 124,
+      "text": " نفيسة",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 244,
+      "guid": "75ecdc5e-69af-4374-99ca-05454b4ff63a",
+      "index": 56,
+      "isZeroPoint": false,
+      "startIndex": 215,
+      "text": "[... بن إسماعيل ...] الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 365,
+      "guid": "8378b0f1-0cab-4915-9c4e-986ba5f00feb",
+      "index": 60,
+      "isZeroPoint": false,
+      "startIndex": 345,
+      "text": "محمد بن هزار ابن علي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "95241eff-95f7-4b26-aeec-78a6b22d7271",
+      "index": 52,
+      "isZeroPoint": false,
+      "startIndex": 91,
+      "text": "دلف بن كرم بن فارس العكبري",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 212,
+      "guid": "a333835e-0bd4-4405-8569-cf4baad5d126",
+      "index": 55,
+      "isZeroPoint": false,
+      "startIndex": 185,
+      "text": "حسن بن علي بن حسين الأصبهاني",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 312,
+      "guid": "a68d004f-c4d1-42f1-9447-dbd0f921d8bc",
+      "index": 58,
+      "isZeroPoint": false,
+      "startIndex": 275,
+      "text": "المبارك بن هبة الله بن سلمان بن الصباغ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 182,
+      "guid": "c0ab3376-b9ed-4f0f-8f86-04748214c2ee",
+      "index": 54,
+      "isZeroPoint": false,
+      "startIndex": 132,
+      "text": "أبو بكر عتيق بن مسلم بن حسين بن [...] الهيتي المقرئ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 71,
+      "guid": "faa2be67-7c88-4682-a994-6da39b6d7db4",
+      "index": 50,
+      "isZeroPoint": false,
+      "startIndex": 29,
+      "text": " أبي البدر إبراهيم بن محمد بن منصور الكرخي ",
+      "type": "person"
+    }
+  ],
+  "text": " سمع جميع هذا الجزء على الشيخ أبي البدر إبراهيم بن محمد بن منصور الكرخي بحق سماعه من خديجة دلف بن كرم بن فارس العكبري وابنته نفيسة وأبو بكر عتيق بن مسلم بن حسين بن [...] الهيتي المقرئ وحسن بن علي بن حسين الأصبهاني و[... بن إسماعيل ...] الأصبهاني وعلي بن سالم بن زريق المؤذن والمبارك بن هبة الله بن سلمان بن الصباغ وابنه أبو جعفر عبد الله وصاحبه محمد بن هزار ابن علي وذلك يوم الجمعة حادي عشر رجب سنة خمس وثلاثين وخمسية وأجاز الشيخ للجماعة بسماعاته وإجازاته بالتاريخ وصح"
+}

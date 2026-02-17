@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "عمر بن أحمد بن عثمان بن أحمد بن شاهين البغدادي"
+      ],
+      "author_viaf": [
+        null
+      ],
+      "work_title": [
+        "فضائل شهر رمضان"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 4"
+      ],
+      "catalog": [
+        "FMMU 97"
+      ],
+      "classmark": [
+        "3757/12"
+      ],
+      "folio_number": [
+        "194v"
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "day": [
+          "13"
+        ],
+        "month": [
+          "4"
+        ],
+        "weekday": [
+          "Yawm al-juma"
+        ],
+        "year": [
+          "733"
+        ]
+      },
+      "endIndex": 280,
+      "guid": "1316721e-8542-4a47-b243-2b25d7853eb7",
+      "startIndex": 227,
+      "text": "يوم الجمعة ثالث عشر ربيع الآخر عام ثلث وثلاثين وسبعمية",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "dar_al-hadith_al-ashrafiya"
+          ]
+        ]
+      },
+      "endIndex": 290,
+      "guid": "25a23411-5022-4e15-a173-db0bdec6dc95",
+      "startIndex": 283,
+      "text": "الأشرفية",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 106,
+      "guid": "40978694-4289-4a5d-9c80-32e06ab1322a",
+      "startIndex": 55,
+      "text": "جمال الدين أبي الحجاج يوسف بن الزكي عبد الرحمن المزي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "reader"
+        ]
+      },
+      "endIndex": 166,
+      "guid": "56496171-4e55-44aa-9730-1f331b2c42e4",
+      "startIndex": 115,
+      "text": "عبد الله بن أحمد بن عبد الله بن أحمد بن محمد المقدسي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sami"
+        ]
+      },
+      "endIndex": 225,
+      "guid": "c69a17fd-627b-4865-8ca1-3ec78fae84ed",
+      "startIndex": 168,
+      "text": "أبو عبد الله محمد بن محمد بن أبي بكر بن أحمد بن عبد الدائم",
+      "type": "person"
+    }
+  ],
+  "text": "سمعه على الشيخ الإمام محدث الإسلام عمدة الحفاظ الأعلام جمال الدين أبي الحجاج يوسف بن الزكي عبد الرحمن المزي بقراءة عبد الله بن أحمد بن عبد الله بن أحمد بن محمد المقدسي أبو عبد الله محمد بن محمد بن أبي بكر بن أحمد بن عبد الدائم يوم الجمعة ثالث عشر ربيع الآخر عام ثلث وثلاثين وسبعمية بالأشرفية"
+}

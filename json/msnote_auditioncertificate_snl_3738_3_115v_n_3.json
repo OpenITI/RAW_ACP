@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "characteristics": {
+      "copy": [
+        false
+      ],
+      "type": [
+        "qira"
+      ]
+    },
+    "context": {
+      "author_name": [
+        "علي بن محمد بن عبد الله بن أبي سيف المدائني"
+      ],
+      "work_title": [
+        "كتاب التعازي"
+      ]
+    },
+    "edit": {
+      "amended_by": [
+        null
+      ],
+      "editor": [
+        "Said Aljoumani"
+      ],
+      "status": [
+        "wip"
+      ]
+    },
+    "object": {
+      "audition_certificate_number": [
+        "N. 3"
+      ],
+      "catalog": [
+        "FMMU 16"
+      ],
+      "classmark": [
+        "3738/3"
+      ],
+      "folio_number": [
+        "115v"
+      ],
+      "image_link": [
+
+      ],
+      "library": [
+        "SNL"
+      ],
+      "manuscript_link": [
+        null
+      ]
+    }
+  },
+  "properties": [
+    {
+      "attributes": {
+        "role": [
+          "reader",
+          "writer"
+        ]
+      },
+      "endIndex": 414,
+      "guid": "369ae812-231e-446c-a1a9-2a124ee169e9",
+      "index": 42,
+      "isZeroPoint": false,
+      "startIndex": 362,
+      "text": "محمد بن عبد الله بن أحمد بن عبد الله بن أحمد المقدسي ",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 274,
+      "guid": "4f93c021-1020-49ef-976e-7aa26bcd2bef",
+      "index": 38,
+      "isZeroPoint": false,
+      "startIndex": 209,
+      "text": "أبي الفرج مسعود بن الحسن بن القاسم بن الفضل بن أحمد بن أحمد الثقفي",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "location": [
+          [
+            "bilad-al-sham",
+            "damascus",
+            "safh_quasyun"
+          ]
+        ]
+      },
+      "endIndex": 355,
+      "guid": "5b07ee98-c68c-4cda-a7e2-474e6dd1f784",
+      "index": 41,
+      "isZeroPoint": false,
+      "startIndex": 346,
+      "text": "سفح قاسيون",
+      "type": "place"
+    },
+    {
+      "attributes": {
+        "month": [
+          "1"
+        ],
+        "year": [
+          "731"
+        ]
+      },
+      "endIndex": 343,
+      "guid": "6bd7f303-0e35-4ebe-935f-79c09cc730dc",
+      "index": 40,
+      "isZeroPoint": false,
+      "startIndex": 312,
+      "text": "محرم من سنة إحدى وثلاثين وسبعمئة",
+      "type": "date"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 292,
+      "guid": "747c2866-5936-4d52-a012-a59fe1e572ce",
+      "index": 39,
+      "isZeroPoint": false,
+      "startIndex": 287,
+      "text": "الخطيب",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "musmi"
+        ]
+      },
+      "endIndex": 116,
+      "guid": "bf93e76c-a5fe-4447-b0bb-856e9448c38a",
+      "index": 36,
+      "isZeroPoint": false,
+      "startIndex": 35,
+      "text": "أم عبد الله زينب ابنة أبي العباس أحمد بن عبد الرحيم بن عبد الواحد المقدسي الصالحية",
+      "type": "person"
+    },
+    {
+      "attributes": {
+        "role": [
+          "sanad_al_musmi"
+        ]
+      },
+      "endIndex": 195,
+      "guid": "cf0f9ca2-19a7-4520-994c-6e48d4964fb2",
+      "index": 37,
+      "isZeroPoint": false,
+      "startIndex": 137,
+      "text": "ضوء الصباح عجيبة ابنة أبي بكر بن أبي غالب بن أحمد الباقداري",
+      "type": "person"
+    }
+  ],
+  "text": " قرأت هذا الجزء على الشيخة الصالحة أم عبد الله زينب ابنة أبي العباس أحمد بن عبد الرحيم بن عبد الواحد المقدسي الصالحية بإجازتها من الشيخة ضوء الصباح عجيبة ابنة أبي بكر بن أبي غالب بن أحمد الباقداري بإجازتها من أبي الفرج مسعود بن الحسن بن القاسم بن الفضل بن أحمد بن أحمد الثقفي بإجازته من الخطيب بسنده أوله وصح في محرم من سنة إحدى وثلاثين وسبعمئة بسفح قاسيون وكتب محمد بن عبد الله بن أحمد بن عبد الله بن أحمد المقدسي "
+}
